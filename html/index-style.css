@@ -8,6 +8,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Century Gothic", Tahoma, Arial, sans-serif; 
     font-weight: 600;
 }
+h1 {
+    font-size: 15pt;
+    margin-bottom: 1em;
+}
+h2 {
+    font-size: 12pt;
+}
 .title {font-style: italic}
 a {color: blue;}
 ul {
@@ -15,4 +22,7 @@ ul {
 }
 li {
     margin-top: 0.5em;
+}
+div > ul {
+    margin-left: 2em;
 }
