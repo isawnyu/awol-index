@@ -83,6 +83,31 @@ def index_primary(primary, path_dest):
             _li += u')'
     html_out(doc, os.path.join(path_dest, 'index-primary.html'))
 
+def index_keywords(keywords, path_dest):
+    doc = dominate.document(title=u'AWOL Index: Resources by Keywords')
+    with doc.head:
+        link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
+        link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
+        link(rel='stylesheet', type='text/css', href='./index-style.css')
+    doc += h1('Index of Resources by Keywords')
+    for kw in sorted(keywords.keys(), key=lambda s: s.lower()):
+        _div = doc.add(div(id=kw.lower().replace(u' ', u'-')))
+        _div += h2(kw)
+        _ul = _div.add(ul())
+        for p in sorted(keywords[kw], key=lambda k: k['title'].lower()):
+            _li = _ul.add(li())
+            _li += a(p['title'], href='/'.join(('.', p['domain'], '.'.join((p['hash'], 'html')))))
+            if 'issn' in p.keys() or 'isbn' in p.keys():
+                _li += u' ('
+                if 'issn' in p.keys():
+                    _li += u'issn: {0}'.format(p['issn'])
+                if 'issn' in p.keys() and 'isbn' in p.keys():
+                    _li += u', '
+                if 'isbn' in p.keys():
+                    _li += u'isbn: {0}'.format(p['isbn'])
+                _li += u')'
+    html_out(doc, os.path.join(path_dest, 'index-keywords.html'))
+
 @arglogger
 def main (args):
     """
@@ -274,9 +299,7 @@ def main (args):
                 sub_dir_list.remove(ignore_dir)
 
     index_primary(primary, path_dest)
-    print "keywords:"
-    for kw in sorted(keywords.keys(), key=lambda s: s.lower()):
-        print u"   {0}: {1}".format(kw, len(keywords[kw]))
+    index_keywords(keywords, path_dest)
     quantity = quantity_primary + quantity_subordinate
     print "quantity: {0}".format(quantity)
     print "   primary: {0}".format(quantity_primary)
