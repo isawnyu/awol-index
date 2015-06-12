@@ -1,0 +1,18 @@
+body {
+    max-width: 50em;
+    padding: 2em; 
+    font-family: Arial, serif;
+    line-height: 1.4em;
+}
+h1, h2, h3, h4, h5, h6 { 
+    font-family: "Century Gothic", Tahoma, Arial, sans-serif; 
+    font-weight: 600;
+}
+.title {font-style: italic}
+a {color: blue;}
+ul {
+    margin: 1em 0px;
+}
+li {
+    margin-top: 0.5em;
+}
