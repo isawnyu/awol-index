@@ -62,12 +62,12 @@ def html_out(doc, filepath):
 
 
 def index_primary(primary, path_dest):
-    doc = dominate.document(title=u'AWOL Index: Primary Resources')
+    doc = dominate.document(title=u'AWOL Index: Top-Level Resources')
     with doc.head:
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
         link(rel='stylesheet', type='text/css', href='./index-style.css')
-    doc += h1('Index of Primary Resources')
+    doc += h1('Index of Top-Level Resources')
     _ul = doc.add(ul())
     for p in sorted(primary, key=lambda k: k['title'].lower()):
         _li = _ul.add(li())
@@ -81,7 +81,7 @@ def index_primary(primary, path_dest):
             if 'isbn' in p.keys():
                 _li += u'isbn: {0}'.format(p['isbn'])
             _li += u')'
-    html_out(doc, os.path.join(path_dest, 'index-primary.html'))
+    html_out(doc, os.path.join(path_dest, 'index-top.html'))
 
 def index_keywords(keywords, path_dest):
     doc = dominate.document(title=u'AWOL Index: Resources by Keywords')
@@ -302,16 +302,16 @@ def main (args):
     index_keywords(keywords, path_dest)
     quantity = quantity_primary + quantity_subordinate
     print "quantity: {0}".format(quantity)
-    print "   primary: {0}".format(quantity_primary)
+    print "   top-level: {0}".format(quantity_primary)
     print "   subordinate: {0}".format(quantity_subordinate)
     qratio = (quality_primary + quality_subordinate) / float(quantity)
     qratio_primary = quality_primary / float(quantity_primary)
     qratio_subordinate = quality_subordinate / float(quantity_subordinate)
     print "quality ratio: {0:.2f}".format(qratio)
-    print "   primary: {0:.2f}".format(qratio_primary)
+    print "   top-level: {0:.2f}".format(qratio_primary)
     print "   subordinate: {0:.2f}".format(qratio_subordinate)
     print "grade: {0}".format(grade(qratio))
-    print "   primary: {0}".format(grade(qratio_primary))
+    print "   top-level: {0}".format(grade(qratio_primary))
     print "   subordinate: {0}".format(grade(qratio_subordinate))
 
 if __name__ == "__main__":
