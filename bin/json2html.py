@@ -14,6 +14,8 @@ import re
 import sys
 import traceback
 
+from bs4 import UnicodeDammit
+
 import dateutil.parser
 import dominate
 from dominate.tags import *
@@ -36,7 +38,10 @@ def arglogger(func):
     return inner    
 
 def dateout(_datetime):
-    mydt = _datetime.astimezone(pytz.utc)
+    try:
+        mydt = _datetime.astimezone(pytz.utc)
+    except ValueError:
+        mydt = pytz.utc.localize(_datetime).astimezone(pytz.utc)
     return mydt.strftime('%d %b %Y %H:%M:%S %z').replace(u'+0000', u'UTC')
 
 @arglogger
@@ -57,11 +62,47 @@ def un_camel(x):
     return final
 
 def html_out(doc, filepath):
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
+    content = unicode(doc)
+    content = content.encode('utf-8')
     with open(filepath, 'w') as file_html:
-        file_html.write(unicode(doc).encode('utf-8'))
+        try:
+            file_html.write(content)
+        except UnicodeDecodeError, e:
+            msg = unicode(e) + u' file: {0}'.format(filepath)
+            logger.error(msg)
+            raise
 
+def list_entry(parent, rp):
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
+
+    _li = parent.add(li())
+    title_text = unicode(rp['title'])
+    try:
+        domain_u = unicode(rp['domain'])
+    except UnicodeDecodeError:
+        logger.error(rp['domain'])
+        raise
+    try:
+        hash_u = unicode(rp['hash'])
+    except UnicodeDecodeError:
+        logger.error(rp['hash'])
+        raise
+    content_href = u'/'.join((u'.', domain_u, hash_u)) + u'.html'
+    _li += a(title_text, href=content_href)
+    if 'issn' in rp.keys() or 'isbn' in rp.keys():
+        _li += u' ('
+        if 'issn' in rp.keys():
+            _li += u'issn: {0}'.format(rp['issn'])
+        if 'issn' in rp.keys() and 'isbn' in rp.keys():
+            _li += u', '
+        if 'isbn' in rp.keys():
+            _li += u'isbn: {0}'.format(rp['isbn'])
+        _li += u')'
+    return _li
 
 def index_primary(primary, path_dest):
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     doc = dominate.document(title=u'AWOL Index: Top-Level Resources')
     with doc.head:
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
@@ -69,18 +110,8 @@ def index_primary(primary, path_dest):
         link(rel='stylesheet', type='text/css', href='./index-style.css')
     doc += h1('Index of Top-Level Resources')
     _ul = doc.add(ul())
-    for p in sorted(primary, key=lambda k: k['title'].lower()):
-        _li = _ul.add(li())
-        _li += a(p['title'], href='/'.join(('.', p['domain'], '.'.join((p['hash'], 'html')))))
-        if 'issn' in p.keys() or 'isbn' in p.keys():
-            _li += u' ('
-            if 'issn' in p.keys():
-                _li += u'issn: {0}'.format(p['issn'])
-            if 'issn' in p.keys() and 'isbn' in p.keys():
-                _li += u', '
-            if 'isbn' in p.keys():
-                _li += u'isbn: {0}'.format(p['isbn'])
-            _li += u')'
+    for p in sorted([p for p in primary if ' ' not in p['domain']], key=lambda k: k['title'].lower()):
+        _li = list_entry(_ul, p)
     html_out(doc, os.path.join(path_dest, 'index-top.html'))
 
 def index_keywords(keywords, path_dest):
@@ -94,18 +125,8 @@ def index_keywords(keywords, path_dest):
         _div = doc.add(div(id=kw.lower().replace(u' ', u'-')))
         _div += h2(kw)
         _ul = _div.add(ul())
-        for p in sorted(keywords[kw], key=lambda k: k['title'].lower()):
-            _li = _ul.add(li())
-            _li += a(p['title'], href='/'.join(('.', p['domain'], '.'.join((p['hash'], 'html')))))
-            if 'issn' in p.keys() or 'isbn' in p.keys():
-                _li += u' ('
-                if 'issn' in p.keys():
-                    _li += u'issn: {0}'.format(p['issn'])
-                if 'issn' in p.keys() and 'isbn' in p.keys():
-                    _li += u', '
-                if 'isbn' in p.keys():
-                    _li += u'isbn: {0}'.format(p['isbn'])
-                _li += u')'
+        for p in sorted([p for p in keywords[kw] if ' ' not in p['domain']], key=lambda k: k['title'].lower()):
+            _li = list_entry(_ul, p)
     html_out(doc, os.path.join(path_dest, 'index-keywords.html'))
 
 @arglogger
@@ -155,6 +176,17 @@ def main (args):
 
     for dir_name, sub_dir_list, file_list in os.walk(path_source):
         this_dir = os.path.basename(dir_name)
+        try:
+            logger.info(u'converting {0}'.format(this_dir))
+        except UnicodeDecodeError:
+            try:
+                logger.info('converting {0}'.format(this_dir))
+            except UnicodeDecodeError:
+                try:
+                    logger.info(u'converting {0}'.format(UnicodeDammit(this_dir).unicode_markup))
+                except UnicodeDecodeError:
+                    logger.warning('this directory name is unspeakable evil')
+
         for file_name_json in file_list:
             with open(os.path.join(dir_name, file_name_json), 'r') as file_json:
                 resource = json.load(file_json)
@@ -229,18 +261,28 @@ def main (args):
                         if len(field) > 0:
                             if k == 'identifiers':
                                 for ident_type in field.keys():
-                                    for ident_subtype in field[ident_type].keys():
-                                        if ident_subtype == 'generic':
-                                            _dl += dt(u'{0}: '.format(ident_type))
-                                        else:
-                                            _dl += dt(u'{0} ({1}): '.format(ident_type, ident_subtype))
-                                        _dl += dd(field[ident_type][ident_subtype])
-
+                                    if type(field[ident_type]) == dict:
+                                        for ident_subtype in field[ident_type].keys():
+                                            if ident_subtype == 'generic':
+                                                _dl += dt(u'{0}: '.format(ident_type))
+                                            else:
+                                                _dl += dt(u'{0} ({1}): '.format(ident_type, ident_subtype))
+                                            _dl += dd(field[ident_type][ident_subtype])
+                                    elif type(field[ident_type]) == list:
+                                        _dl += dt(u'{0}: '.format(ident_type))
+                                        for v in field[ident_type]:
+                                            _dl += dt(u'{0}: '.format(v))
+                                    else:
+                                        raise ValueError('heckito')
                             else:
                                 _dl += dt(k.replace(u'_', u' '))
                                 if type(field) == list:
                                     if k == 'language':
                                         _dl += dd(languages[resource[k][0]])
+                                    elif k in ['subordinate_resources', 'related_resources']:
+                                        _ul = _dl.add(ul())
+                                        for rr in field:
+                                            _ul += li(a(rr['title_full'], href=rr['url']))
                                     else:
                                         _dl += dd(u', '.join(sorted([unicode(thing) for thing in resource[k]])))
                                 else:
@@ -275,14 +317,17 @@ def main (args):
                         _dd += (a(rid.split('://')[1], href=rid))
                     else:
                         _dd += rid
-                    _dd += u' (last updated: {0})'.format(dateout(dateutil.parser.parse(event['resource_date'])))
+                    try:
+                        _dd += u' (last updated: {0})'.format(dateout(dateutil.parser.parse(event['resource_date'])))
+                    except KeyError:
+                        _dd += u' (last updated not indicated)'
 
                         
             #print (unicode(doc))
             file_name_html = '.'.join((this_out, 'html'))
             out_path = os.path.join(path_dest, this_dir)
             file_path_html = os.path.join(out_path, file_name_html)
-            print file_path_html
+            #print file_path_html
             try:
                 os.makedirs(out_path)
             except OSError as exc: # Python >2.5
