@@ -5,16 +5,23 @@ create HTML from isaw.awol JSON
 """
 
 import argparse
+import codecs
 import errno
 from functools import wraps
 import json
 import logging
 import os
-import re
+import regex as re    
 import sys
 import traceback
 
 from bs4 import UnicodeDammit
+import langid
+import regex as re 
+import transliterate
+import translitcodec
+import unicodedata
+from unidecode import unidecode
 
 import dateutil.parser
 import dominate
@@ -25,6 +32,10 @@ import requests
 DEFAULTLOGLEVEL = logging.WARNING
 LOCAL = pytz.timezone ("America/Chicago")
 RX_PUNCT = re.compile(ur'[\p{P}_\d]+')
+DROMEDARY = {
+    
+}
+
 
 def arglogger(func):
     """
@@ -44,7 +55,6 @@ def dateout(_datetime):
         mydt = pytz.utc.localize(_datetime).astimezone(pytz.utc)
     return mydt.strftime('%d %b %Y %H:%M:%S %z').replace(u'+0000', u'UTC')
 
-@arglogger
 def un_camel(x):
     """Convert CamelCase strings to space-delimited
 
@@ -52,13 +62,16 @@ def un_camel(x):
     http://stackoverflow.com/posts/19940888/revisions
     """
     final = ''
-    for item in x:
-        if item.isupper():
-            final += " "+item.lower()
-        else:
-            final += item
-    if final[0] == " ":
-        final = final[1:]
+    try:
+        final = DROMEDARY[x]
+    except KeyError:        
+        for item in x:
+            if item.isupper():
+                final += " "+item.lower()
+            else:
+                final += item
+        final = final.strip()
+        DROMEDARY[x] = final
     return final
 
 def html_out(doc, filepath):
@@ -88,8 +101,12 @@ def list_entry(parent, rp):
     except UnicodeDecodeError:
         logger.error(rp['hash'])
         raise
+    try:
+        sort_key = unicode(rp['sort_key'])
+    except KeyError, UnicodeDecodeError:
+        sort_key = 'unsorted'
     content_href = u'/'.join((u'.', domain_u, hash_u)) + u'.html'
-    _li += a(title_text, href=content_href)
+    _li += a(title_text, href=content_href, cls=sort_key, target="_blank")
     if 'issn' in rp.keys() or 'isbn' in rp.keys():
         _li += u' ('
         if 'issn' in rp.keys():
@@ -103,30 +120,79 @@ def list_entry(parent, rp):
 
 def index_primary(primary, path_dest):
     logger = logging.getLogger(sys._getframe().f_code.co_name)
+    transliterate_languages = transliterate.get_available_language_codes()
     doc = dominate.document(title=u'AWOL Index: Top-Level Resources')
     with doc.head:
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
+        link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic')
         link(rel='stylesheet', type='text/css', href='./index-style.css')
     doc += h1('Index of Top-Level Resources')
     _ul = doc.add(ul())
-    for p in sorted([p for p in primary if ' ' not in p['domain']], key=lambda k: k['title'].lower()):
+    for p in primary:
+        rtitle = p['title']
+        sort_key = rtitle.lower()
+        if sort_key != unicode(sort_key.encode('ascii', 'ignore')):
+            classification = langid.classify(sort_key)
+            if classification[1] > 0.9:
+                if classification[0] in transliterate_languages:
+                    sort_key = transliterate.translit(sort_key, classification[0], reversed=True)
+                    sort_key = unicodedata.normalize('NFKD', sort_key)
+            sort_key = codecs.encode(sort_key, 'translit/long')
+            sort_key = unidecode(sort_key)
+            sort_key = sort_key.encode('ascii', 'ignore')
+            if len(sort_key) == 0:
+                sort_key = rtitle.lower()
+        sort_key = RX_PUNCT.sub(u'', sort_key)
+        sort_key = u''.join(sort_key.strip().split()).lower()
+        logger.debug(u'sortkey for title "{0}": "{1}"'.format(rtitle, sort_key))
+        p['sort_key'] = sort_key
+
+    for p in sorted([p for p in primary if ' ' not in p['domain'] and p['title'] != u'' and p['sort_key'] != u''], key=lambda k: k['sort_key']):
         _li = list_entry(_ul, p)
     html_out(doc, os.path.join(path_dest, 'index-top.html'))
 
-def index_keywords(keywords, path_dest):
+def index_keywords(keywords, primary, path_dest):
+    logger = logging.getLogger(sys._getframe().f_code.co_name)
     doc = dominate.document(title=u'AWOL Index: Resources by Keywords')
     with doc.head:
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
         link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
+        link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic')        
         link(rel='stylesheet', type='text/css', href='./index-style.css')
     doc += h1('Index of Resources by Keywords')
     for kw in sorted(keywords.keys(), key=lambda s: s.lower()):
-        _div = doc.add(div(id=kw.lower().replace(u' ', u'-')))
-        _div += h2(kw)
-        _ul = _div.add(ul())
-        for p in sorted([p for p in keywords[kw] if ' ' not in p['domain']], key=lambda k: k['title'].lower()):
-            _li = list_entry(_ul, p)
+        these = [p for p in keywords[kw] if ' ' not in p['domain'] and p['title'] != u'' and p in primary]
+        if len(these) > 0:
+            for p in these:
+                try:
+                    sort_key = p['sort_key']
+                except KeyError:
+                    rtitle = p['title']
+                    sort_key = rtitle.lower()
+                    if sort_key != unicode(sort_key.encode('ascii', 'ignore')):
+                        classification = langid.classify(sort_key)
+                        if classification[1] > 0.9:
+                            if classification[0] in transliterate_languages:
+                                sort_key = transliterate.translit(sort_key, classification[0], reversed=True)
+                                sort_key = unicodedata.normalize('NFKD', sort_key)
+                        sort_key = codecs.encode(sort_key, 'translit/long')
+                        sort_key = unidecode(sort_key)
+                        sort_key = sort_key.encode('ascii', 'ignore')
+                        if len(sort_key) == 0:
+                            sort_key = rtitle.lower()
+                    sort_key = RX_PUNCT.sub(u'', sort_key)
+                    sort_key = u''.join(sort_key.strip().split()).lower()
+                    logger.debug(u'sortkey for title "{0}": "{1}"'.format(rtitle, sort_key))
+                    p['sort_key'] = sort_key
+
+            _div = doc.add(div(id=kw.lower().replace(u' ', u'-')))
+            _div += h2(kw)
+            _ul = _div.add(ul())
+            for p in sorted(these, key=lambda k: k['sort_key']):
+                _li = list_entry(_ul, p)
+        else:
+            logger.warning(u"suppressed keyword with no top resources: {0}".format(kw))
     html_out(doc, os.path.join(path_dest, 'index-keywords.html'))
 
 @arglogger
@@ -344,7 +410,7 @@ def main (args):
                 sub_dir_list.remove(ignore_dir)
 
     index_primary(primary, path_dest)
-    index_keywords(keywords, path_dest)
+    index_keywords(keywords, primary, path_dest)
     quantity = quantity_primary + quantity_subordinate
     print "quantity: {0}".format(quantity)
     print "   top-level: {0}".format(quantity_primary)
