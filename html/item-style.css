@@ -1,37 +1,63 @@
 body {
+    margin-left: auto;
+    margin-right: auto;
     max-width: 50em;
     padding: 2em; 
-    font-family: Arial, serif;
+}
+/* defaults for block content */
+body * {
+    font-family: "Open Sans", Arial, serif;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
     line-height: 1.4em;
+    margin: 0px;
+    padding: 0px;
 }
-h1, h2, h3, h4, h5, h6 { 
-    font-family: "Century Gothic", Tahoma, Arial, sans-serif; 
-    font-weight: 600;
-}
-h1 {
-    font-size: 15pt;
-    margin-bottom: 1em;
-}
-h2 {
-    font-size: 12pt;
-}
-.title {font-style: italic}
+body > *,
+div > * { margin-bottom: 1em;}
+/* headings */
+h1, h2, h3, h4, h5, h6 { font-family: "Century Gothic", Tahoma, Arial, sans-serif; font-weight: 600;}
+/* links */
 a {color: blue;}
-dl {
-    margin: 1em 0px;
+a:hover,
+a:focus {text-decoration: none;}
+/* line break voodoo */
+#technical br { display: block; margin-top: 1em; line-height: 1em; background-color: red; width:100%; content:" ";}
+/* lists */
+dl,
+ol,
+ul { margin-left: 2em;}
+ol,
+ul { list-style-type: disc; list-style-position: outside;}
+dd,
+li { margin: 0}
+dt { font-weight: 600; margin-top: 1em;}
+.title {font-style: italic}
+/* dictionary */
+dl.dictionary {
+    margin-top: 1em;
 }
-ul {
-    list-style-type: none;
-    list-style-position: inside;
-    margin-left: 2em;
+dl.dictionary > dt {
+    margin-bottom: 0.5em;
 }
-dd {
-    padding-left: 2em;
+dl.dictionary > dd {
+    margin-bottom: 1.5em;
 }
-dt {
-    font-weight: bold;
-    margin-top: 0.5em;
+/* code */
+.code {
+    font-family: Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
+    background-color: #DDDDDD;
+    padding: 2px;}
+div.code {
+    padding: 1em;
 }
+#technical div.code {
+    margin: 1em;
+}
+.field {
+    font-family: Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
+    background-color: #FFDDDD;
+    padding: 2px;}
 #provenance dl {
-    margin-left: 2em;
+margin-left: 2em;
 }
