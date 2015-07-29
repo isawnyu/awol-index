@@ -81,19 +81,18 @@
 <body>
     <h1>The AWOL Index</h1>
     <p>
-        This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data herein has been programmatically extracted from the content of
+        This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of
         <a href="http://ancientworldonline.blogspot.com/" class="title">AWOL - The Ancient World Online</a>
-        (<abbr title="International Standard Serial Number">ISSN</abbr> 2156-2253) and formatted in accordance with a structured data model.</p>
-        <p>
+        (<abbr title="International Standard Serial Number">ISSN</abbr> 2156-2253) and formatted in accordance with a structured data model.
         In continuous operation since 2009,
         <span class="title">AWOL</span>
         is a blog authored by
         <a href="http://viaf.org/viaf/66782017/">Charles E. Jones</a>,
         Tombros Librarian for Classics and Humanities at the
-        <a href="https://www.libraries.psu.edu/psul/home.html">Pattee Library, Penn State University</a>. Dates of individual source posts in <span class="title">AWOL</span> vary between 2009 and 2015; therefore, content in <span class="title">The AWOL Index</span> will only be as current as the original blog post was on the day of extraction.
+        <a href="https://www.libraries.psu.edu/psul/home.html">Pattee Library, Penn State University</a>. 
             </p>
     <p>
-        <span class="title">The AWOL Index</span>
+        This publication, <span class="title">The AWOL Index</span>,
         is an experimental project, developed jointly by Jones and
         <a href="http://www.paregorios.org">Tom Elliott</a>,
         the Associate Director for Digital Programs at New York University's
@@ -107,7 +106,8 @@
         <a href="https://www.linkedin.com/pub/ronak-parpani/42/195/241">Ronak Parpani</a>,
         <a href="https://www.linkedin.com/in/dmratzan">David Ratzan</a>,
         and
-        <a href="https://www.linkedin.com/in/k2soule99">Kristen Soule</a>.
+        <a href="https://www.linkedin.com/in/k2soule99">Kristen Soule</a>.</p>
+        <p>Creation of <span class="title">The AWOL Index</span> was made possible by a grant from the <a href="http://delmas.org/">Gladys Krieble Delmas Foundation</a>.</p>
             </p>
             <p>We extract information from
                 <span class="title">AWOL</span>
@@ -115,7 +115,7 @@
                 <span class="title">AWOL</span>
                 for which we have detected no containing/superior resource. </p>
                 <p>
-                    <strong>The latest data extraction was performed on 9 July 2015.</strong> At that time, our software successfully extracted 1,301 top-level and 50,704 subordinate resources. For 94% percent of the top-level resources it was able to extract a textual description substantively different from the resource title.
+                    <strong>The latest data extraction was performed on 9 July 2015.</strong> At that time, our software successfully extracted 1,301 top-level and 50,704 subordinate resources. For 94% percent of the top-level resources it was able to extract a textual description substantively different from the resource title. Dates of individual source posts in <span class="title">AWOL</span> vary between 2009 and 2015; therefore, content in <span class="title">The AWOL Index</span> will only be as current as the original blog post was on the day of extraction.
         </p>
     <div id="contents">
         <h2>Table of Contents</h2>
@@ -165,7 +165,7 @@
         <ul class="bullet tight">
             <li>
                 a grant from the
-                <a href="http://delmas.org/">Gladys Krieble Delmas Foundation</a> and
+                Gladys Krieble Delmas Foundation and
             </li>
             <li>
                 the
@@ -414,7 +414,7 @@
             <br />
             Repetition is detected during a parse session by keeping a list of resource keys parsed previously during that session (see <a href="#naming">Record Naming</a> for more information on resource keys). If a newly created resource key matches a key already stored in the list, <span class="title">isaw.awol</span> reads the previous resource record in from the corresponding JSON file and then attempts to merge the newly parsed information into that record before saving it again.
             <br />
-            Merge logic is conservative: best efforts are made to prevent discard of data from either record. Identical values, of course, are always retained in the result. When a particular field in one record is empty but in the other holds a value, the value is propagated. When the field is a complex data type (like a list of keywords), and the two records have differing values, the union set is propagated. Only when both records have empty fields, or conflicting simple values (e.g., if one contained "1923" in the <span class="code">year</span> field and the other contained "1924"), is the merged output field left empty. In the latter case, an warning message is generated and noted by the operator subsequent investigation on the assumption that the parse logic in <span class="title">isaw.awol</span> is not coping well with a particular 
+            Merge logic is conservative: best efforts are made to prevent discard of data from either record. Identical values, of course, are always retained in the result. When a particular field in one record is empty but in the other holds a value, the value is propagated. When the field is a complex data type (like a list of keywords), and the two records have differing values, the union set is propagated. Only when both records have empty fields, or conflicting simple values (e.g., if one contained "1923" in the <span class="code">year</span> field and the other contained "1924"), is the merged output field left empty. In the latter case, an warning message is generated and noted by the operator subsequent investigation on the assumption that the parse logic in <span class="title">isaw.awol</span> is not coping well with content or structure in a particular blog post. 
             </dd>
             
             <dt>Language Identification</dt>
