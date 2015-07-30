@@ -120,6 +120,7 @@
             }
             div.code{
                 padding:1em;
+                overflow: scroll;
             }
             #technical div.code{
                 margin:1em;
@@ -298,179 +299,101 @@
         <div id="technical">
             <h2>Technical Considerations</h2>
             <dl>
-                <dt id="dictionary">Data Dictionary</dt>
-                <dd>The following fields may be found in the JSON records produced by <span
-                        class="title">isaw.awol</span>: <dl class="dictionary">
-                        <dt class="field">authors</dt>
-                        <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
-                                >string</span>s each containing an author's name. <br /> Example:
-                                <div class="code">"authors": [ "Weisenhorn, Markus" ]</div>
-                        </dd>
+                <dt id="formats">Data Formats</dt>
+                <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON)
+                    to store the structured bibliographic records dervied from <span class="title"
+                        >AWOL</span> blog posts. The HTML pages and indexes are derived from these
+                    JSON files. See <a href="#data-model">data model</a> for information about the
+                    fields used in the JSON files.</dd>
 
-                        <dt class="field">contributors</dt>
-                        <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
-                                >string</span>s each containing a contributor's name (i.e.,
-                            responsible individuals other than <span class="field">authors</span> or
-                                <span class="field">editors</span>. See <span class="field"
-                                >authors</span> for example. </dd>
+                <dt id="data-model">Data Model</dt>
+                <dd>The records that <span class="title">isaw.awol</span> produces conform to a flat,
+                    idiosyncratic data model informed by the <a class="title"
+                        href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</a>
+                    and the <a class="title" href="http://www.loc.gov/standards/mods/">Metadata
+                        Object Description Schema (MODS)</a> (among others). We chose to create our
+                    own data model in JSON rather than an established, standard format for several
+                    reasons: <ul class="tight bullet">
+                        <li>the varied and idiosyncratic nature of the material being catalogued
+                            necessitates a format and schema that can be modified on the fly as new
+                            attributes of interest are identified</li>
+                        <li>JSON is quick and easy to read and write from Python</li>
+                        <li>JSON is terse, unambiguous, and easily read with any text editor</li>
+                        <li>JSON is is well understood as a format by developers outside humanities
+                            and library software communities and readily used in web
+                            applications</li>
+                    </ul> We anticipate no difficulty in converting JSON to other formats for use in
+                    other systems. <br /> See our <a href="#dictionary">Data Dictionary</a> for
+                    definitions of all data fields.</dd>
 
-                        <dt class="field">description</dt>
-                        <dd> A <span class="code">string</span> of 0-n characters containing a prose
-                            description of the resource. May contain newline characters. <br />
-                            Example: <div class="code">"description": "Acta Palaeobotanica. ISSN:
-                                2082-0259 (electronic version). ISSN: 0001-6594 (printed version).
-                                Acta Palaeobotanicais an international journal publishing high
-                                quality contributions to palaeobotany and palynology. It is the only
-                                journal in Central and Eastern Europe focused on all fields of
-                                palaeobotanical and palynological investigations and publishes
-                                original palaeobotanical, palaeoecological, palaeophytogeographical,
-                                palynological, and archaeobotanical papers in addition to monographs,
-                                comprehensive review and discussion articles and book reviews. The
-                                journal is open to contributors from all over the world. It is
-                                published regularly with one volume per year each comprising two
-                                numbered parts, printed in June (No. 1) and in December (No. 2). The
-                                language of the journal is English. All manuscripts to be published
-                                in the journal are peer reviewed by at least two referees, and after
-                                acceptance of corrected manuscripts printing time is only
-                                approximately 6 months. Acta Palaeobotanicais now an open access
-                                journal and currently abstracts and full text of the articles in the
-                                PDF format beginning from volume 1 (1960) are freely accessible
-                                onwards here. The internet service also provides catalogues for
-                                volumes and supplements published since 1960 and includes information
-                                on ordering forms of printed copies."</div>
-                        </dd>
+                <dt id="deduplication">Deduplication</dt>
+                <dd>Many resources are cited more than once in <span class="title">AWOL</span>, but
+                        <span class="title">The AWOL Index</span> should only have one record for
+                    each resource. Cases of such repetition occur both within a single blog post
+                    (e.g., when the title of a single thesis appears multiple times in a list, once
+                    under each of several categories) and accross blog posts (e.g., in a descriptive
+                    post about a single journal and in another post that lists a large number of
+                    journals on a particular topic). It is necessary, therefore, for <span
+                        class="title">isaw.awol</span> to detect each repetition of a resource and
+                    judiciously to merge the data extracted in association with each. <br />
+                    Repetition is detected during a parse session by keeping a list of resource keys
+                    parsed previously during that session (see <a href="#naming">Record Naming</a>
+                    for more information on resource keys). If a newly created resource key matches a
+                    key already stored in the list, <span class="title">isaw.awol</span> reads the
+                    previous resource record in from the corresponding JSON file and then attempts to
+                    merge the newly parsed information into that record before saving it again.
+                    <br /> Merge logic is conservative: best efforts are made to prevent discard of
+                    data from either record. Identical values, of course, are always retained in the
+                    result. When a particular field in one record is empty but in the other holds a
+                    value, the value is propagated. When the field is a complex data type (like a
+                    list of keywords), and the two records have differing values, the union set is
+                    propagated. Only when both records have empty fields, or conflicting simple
+                    values (e.g., if one contained "1923" in the <span class="code">year</span> field
+                    and the other contained "1924"), is the merged output field left empty. In the
+                    latter case, an warning message is generated and noted by the operator subsequent
+                    investigation on the assumption that the parse logic in <span class="title"
+                        >isaw.awol</span> is not coping well with content or structure in a
+                    particular blog post. </dd>
 
-                        <dt class="field">domain</dt>
-                        <dd>A <span class="code">string</span> of n characters containing the primary
-                            domain name of the resource <a
-                                href="https://en.wikipedia.org/wiki/Uniform_resource_locator"
-                            >URL</a>. <br /> Example: <div class="code">"domain":
-                                "anthropology.jp"</div>
-                        </dd>
+                <dt id="langid">Language Identification</dt>
+                <dd><span class="title">AWOL</span> blog posts do not generally contain a clear
+                    indication of the language of the resources being described; however, they do
+                    frequently contain descriptive text copied from the home page of the resource,
+                    and this often is in the language of the resource itself. The <span class="title"
+                        >isaw.awol</span> package feeds the contents of the resource title and
+                    description to <a href="https://github.com/saffsd/langid.py">Marco Lui's <span
+                            class="title">langid</span> package</a> in an attempt to classify the
+                    language in question. If <span class="code">langid.classify()</span> returns a
+                    language identification with a confidence value greater than or equal to 0.98,
+                    the language code and confidence value are stored in the JSON record.</dd>
 
-                        <dt class="field">editors</dt>
-                        <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
-                                >string</span>s each containing an editor's name. See <span
-                                class="field">authors</span> for example.</dd>
-
-                        <dt class="field">end_date</dt>
-                        <dd>not currently used</dd>
-
-                        <dt class="field">extent</dt>
-                            <dd>Experimental. A <span class="code">string</span> describing the extent of the resource (corresponding generally in sense to <a href="http://www.loc.gov/marc/bibliographic/lite/lbd300.html">MARC 300 subfield a</a>, <a href="http://purl.org/dc/terms/extent">DCMI Terms "Extent"</a>, or <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#extent">MODS &lt;extent&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
-
-                        <dt class="field">form</dt>
-                            <dd>Experimental. A <span class="code">string</span> describing the form of the resource (corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#form">MODS &lt;form&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
-
-                        <dt class="field">frequency</dt>
-                            <dd>Experimental. A <span class="code">string</span> describing the frequency of publication of the resource (corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#frequency">MODS &lt;frequency&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
-
-                        <dt class="field">identifiers</dt>
-                        <dd>A <span class="code">dictionary</span> containing standard identifiers associated with the described resource. The strings "isbn", "issn", and "uri" may appear as keys in such a dictionary. Subordinate structure is as follows:
-                        <ul class="tight bullet">
-                            <li><span class="field">isbn</span> and <span class="field">issn</span>: a subordinate <span class="code">dictionary</span> with possible keys "generic" and "electronic". Each such key corresponds to a list of 1 or more <span class="code">string</span>s containing the identifier values.</li>
-                            <li><span class="field">uri</span>: a subordinate <span class="code">list</span> containing URI values as <span class="code">string</span>s.</li>
-                        </ul>
-                        Examples:
-                        <div class="code">
-                            <pre>
-"identifiers": {
-    "isbn": {
-        "generic": [
-            "978-9-490604-0-04"
-        ]
-    }
-},                                 
-                            </pre>
-                            <pre>
-"identifiers": {
-    "issn": {
-        "generic": [
-            "0942-5659"
-        ]
-    }
-},                                 
-                            </pre>
-                            <pre>
-"identifiers": {
-    "issn": {
-        "electronic": [
-            "2051-9745"
-        ]
-    }
-},                                 
-                            </pre>
-                            <pre>
-"identifiers": {
-    "issn": {
-        "electronic": [
-            "2212-9758"
-        ], 
-        "generic": [
-            "2212-974X"
-        ]
-    }
-},                                 
-                            </pre>
-                            <pre>
-"identifiers": {
-    "uri": [
-        "http://www.numismaticadellostato.it/web/pns/notiziario"
-    ]
-}, 
-                            </pre>
-                        </div></dd>
-
-                        <dt class="field">is_part_of</dt>
-                        <dd></dd>
-
-                        <dt class="field">issuance</dt>
-                        <dd></dd>
-
-                        <dt class="field">issue</dt>
-                        <dd></dd>
-
-                        <dt class="field">issued_dates</dt>
-                        <dd></dd>
-
-                        <dt class="field">keywords</dt>
-                        <dd></dd>
-
-                        <dt class="field">languages</dt>
-                        <dd></dd>
-
-                        <dt class="field">places</dt>
-                        <dd></dd>
-
-                        <dt class="field">provenance</dt>
-                        <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
-                                >dictionaries</span> each containing an assertion about a discrete
-                            relationship between the record and an external resource. Each <span
-                                class="code">dictionary</span> can contain the following keys: <ul
-                                class="bullet tight">
-                                <li><span class="field">fields</span>: a <span class="code"
-                                        >list</span> (length: 1-n) of <span class="code"
-                                        >string</span>s indicating the data fields in the record
-                                    affected by the relationship.</li>
-                                <li><span class="field">resource</span>: a Uniform Resource
-                                    Identifier (URI) for the external resource to which the record is
-                                    related.</li>
-                                <li><span class="field">resource_date</span>: a <span class="code"
-                                        >string</span> containing a date/time associated with the
-                                    external resource (issuance, publication, etc.), formatted in
-                                    accordance with <a href="https://en.wikipedia.org/wiki/ISO_8601"
-                                        >ISO 8601</a>.</li>
-                                <li><span class="field">term</span>: a <span class="code"
-                                        >string</span> containing a URI for a term in a published
-                                    vocabulary. Indicates the nature of the relationship between the
-                                    record and the external resource.</li>
-                                <li><span class="field">when</span>: a <span class="code"
-                                        >string</span> containing the ISO 8601-formatted date/time
-                                    value at which the relationship was created (e.g., the moment of
-                                    derivation or merging).</li>
-                            </ul> Example:
-                            <div class="code" xml:space="preserve">
-<pre>
+                <dt>Provenance</dt>
+                <dd>In order to acknowledge the dependency of a given record on external resources,
+                    to attribute derived information to its original source(s), and to facilitate
+                    downstream attribution and assessment of validity, completeness, and timeliness,
+                        <span class="title">isaw.awol</span> embeds provenance information in each
+                        <span class="title">AWOL Index</span> record. We employ terms from two open
+                    vocabularies to express relationships between each <span class="title">AWOL
+                        Index</span> record and one or more other sources. When we extract
+                    information from an <span class="title">AWOL</span> blog post, two provenance
+                    entries are created. The first uses the "citesAsDataSource" term from the <a
+                        href="http://www.essepuntato.it/lode/http://purl.org/spar/cito">Citation
+                        Typing Ontology (CITO)</a> to link the <span class="title">AWOL Index</span>
+                    record to the <a href="https://tools.ietf.org/html/rfc4287">Atom XML</a> version
+                    of the blog post from which it was created using the <a
+                        href="https://en.wikipedia.org/wiki/Tag_URI">Tag URI</a> assigned to that
+                    Atom XML entry by the <span class="title">Blogger</span> system. We also use the
+                    CITO term "citesAsMetadataDocument" to point at the original blog post itself by
+                    way of its URL.<br /><br />When <span class="title">awol.index</span> merges two
+                    records (see <a href="#deduplication">Deduplication</a>), all provenance entries
+                    in the source records are copied into the output. In addition, a new provenance
+                    entry is made to document the fact of the merge using the "Combine" term from <a
+                        href="http://purl.org/net/wf-motifs">The Workflow Motif Ontology</a>. In such
+                    a dictionary, the <span class="field">fields</span> key is used to indicate those
+                    fields that were affected by the merge.<br /><br /> A regular example is shown
+                    above in the data dictionary; the following example demonstrates the result of a
+                    merge operation: <div class="code">
+                        <pre>
 "provenance": [
     {
         "fields": [
@@ -508,169 +431,81 @@
             "zenon_id", 
             "zotero_id"
         ], 
-        "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6963043557368275385", 
-        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1897904554138962656", 
+        "resource_date": "2010-05-25T09:07:46.422-04:00", 
         "term": "http://purl.org/spar/cito/citesAsDataSource", 
-        "when": "2015-07-11T20:13:38.313172"
+        "when": "2015-07-11T20:07:04.930037"
     }, 
     {
-        "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-abstracta-iranica.html", 
-        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "resource": "http://ancientworldonline.blogspot.com/2010/05/eastern-mediterranean-landscapes.html", 
+        "resource_date": "2010-05-25T09:07:46.422-04:00", 
         "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-        "when": "2015-07-11T20:13:38.313189"
+        "when": "2015-07-11T20:07:04.930053"
+    }, 
+    {
+        "fields": [
+            "authors", 
+            "contributors", 
+            "description", 
+            "domain", 
+            "editors", 
+            "end_date", 
+            "extent", 
+            "form", 
+            "frequency", 
+            "identifiers", 
+            "is_part_of", 
+            "issuance", 
+            "issue", 
+            "issued_dates", 
+            "keywords", 
+            "languages", 
+            "places", 
+            "provenance", 
+            "publishers", 
+            "related_resources", 
+            "responsibility", 
+            "start_date", 
+            "subordinate_resources", 
+            "title", 
+            "title_alternates", 
+            "title_extended", 
+            "type", 
+            "url", 
+            "url_alternates", 
+            "volume", 
+            "year", 
+            "zenon_id", 
+            "zotero_id"
+        ], 
+        "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1897904554138962656", 
+        "resource_date": "2010-05-25T09:07:46.422-04:00", 
+        "term": "http://purl.org/spar/cito/citesAsDataSource", 
+        "when": "2015-07-11T20:07:04.933826"
+    }, 
+    {
+        "resource": "http://ancientworldonline.blogspot.com/2010/05/eastern-mediterranean-landscapes.html", 
+        "resource_date": "2010-05-25T09:07:46.422-04:00", 
+        "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+        "when": "2015-07-11T20:07:04.933839"
+    }, 
+    {
+        "fields": [
+            "subordinate_resources", 
+            "resource_key", 
+            "keywords", 
+            "languages", 
+            "description", 
+            "is_part_of", 
+            "identifiers"
+        ], 
+        "resource": "http://purl.org/net/wf-motifs#Combine", 
+        "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
+        "when": "2015-07-11T20:07:04.943916"
     }
-], 
-    </pre>
-                            </div></dd>
-
-                        <dt class="field">publishers</dt>
-                        <dd></dd>
-
-                        <dt class="field">related_resources</dt>
-                        <dd></dd>
-
-                        <dt class="field">resource_key</dt>
-                            <dd>A <span class="code">string</span> of 1-n characters containing a unique identifier for the record in the context of the associated resource hostname. May not contain whitespace or newline characters. See further <a href="#naming">Record Naming</a>, below.<br />
-                            Examples: <div class="code">
-                                <ul class="tight">
-                                    <li>"resource_key": "abstractairanica-revues-org"</li>
-                                    <li>"resource_key": "LuwianCorpus-search"</li>
-                                    <li>"resource_key": "df06ecac37cbb6cd8695b618fe85709e21311cb9"</li>
-                                </ul>
-                            </div></dd>
-
-                        <dt class="field">responsibility</dt>
-                        <dd></dd>
-
-                        <dt class="field">start_date</dt>
-                        <dd>A <span class="code">string</span> containing an indication of the start date of a serial or continuing resource. Format is unconstrained; values will match whatever formatting is found in the original data.</dd>
-
-                        <dt class="field">subordinate_resources</dt>
-                        <dd></dd>
-
-                        <dt class="field">title</dt>
-                        <dd></dd>
-
-                        <dt class="field">title_alternates</dt>
-                        <dd></dd>
-
-                        <dt class="field">title_extended</dt>
-                        <dd></dd>
-
-                        <dt class="field">type</dt>
-                        <dd></dd>
-
-                        <dt class="field">url</dt>
-                        <dd></dd>
-
-                        <dt class="field">url_alternates</dt>
-                        <dd></dd>
-
-                        <dt class="field">volume</dt>
-                        <dd></dd>
-
-                        <dt class="field">year</dt>
-                        <dd></dd>
-
-                        <dt class="field">zenon_id</dt>
-                        <dd></dd>
-
-                        <dt class="field">zotero_id</dt>
-                        <dd></dd>
-
-
-                    </dl></dd>
-
-                <dt id="formats">Data Formats</dt>
-                <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON)
-                    to store the structured bibliographic records dervied from <span class="title"
-                        >AWOL</span> blog posts. The HTML pages and indexes are derived from these
-                    JSON files. See <a href="#data-model">data model</a> for information about the
-                    fields used in the JSON files.</dd>
-
-                <dt id="data-model">Data Model</dt>
-                <dd>The records that <span class="title">isaw.awol</span> produces conform to a flat,
-                    idiosyncratic data model informed by the <a class="title"
-                        href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</a>
-                    and the <a class="title" href="http://www.loc.gov/standards/mods/">Metadata
-                        Object Description Schema (MODS)</a> (among others). We chose to create our
-                    own data model in JSON rather than an established, standard format for several
-                    reasons: <ul class="tight bullet">
-                        <li>the varied and idiosyncratic nature of the material being catalogued
-                            necessitates a format and schema that can be modified on the fly as new
-                            attributes of interest are identified</li>
-                        <li>JSON is quick and easy to read and write from Python</li>
-                        <li>JSON is terse, unambiguous, and easily read with any text editor</li>
-                        <li>JSON is is well understood as a format by developers outside humanities
-                            and library software communities and readily used in web
-                            applications</li>
-                    </ul> We anticipate no difficulty in converting JSON to other formats for use in
-                    other systems. <br /> See our <a href="#dictionary">Data Dictionary</a> for
-                    definitions of all data fields.</dd>
-
-                <dt>Deduplication</dt>
-                <dd>Many resources are cited more than once in <span class="title">AWOL</span>, but
-                        <span class="title">The AWOL Index</span> should only have one record for
-                    each resource. Cases of such repetition occur both within a single blog post
-                    (e.g., when the title of a single thesis appears multiple times in a list, once
-                    under each of several categories) and accross blog posts (e.g., in a descriptive
-                    post about a single journal and in another post that lists a large number of
-                    journals on a particular topic). It is necessary, therefore, for <span
-                        class="title">isaw.awol</span> to detect each repetition of a resource and
-                    judiciously to merge the data extracted in association with each. <br />
-                    Repetition is detected during a parse session by keeping a list of resource keys
-                    parsed previously during that session (see <a href="#naming">Record Naming</a>
-                    for more information on resource keys). If a newly created resource key matches a
-                    key already stored in the list, <span class="title">isaw.awol</span> reads the
-                    previous resource record in from the corresponding JSON file and then attempts to
-                    merge the newly parsed information into that record before saving it again.
-                    <br /> Merge logic is conservative: best efforts are made to prevent discard of
-                    data from either record. Identical values, of course, are always retained in the
-                    result. When a particular field in one record is empty but in the other holds a
-                    value, the value is propagated. When the field is a complex data type (like a
-                    list of keywords), and the two records have differing values, the union set is
-                    propagated. Only when both records have empty fields, or conflicting simple
-                    values (e.g., if one contained "1923" in the <span class="code">year</span> field
-                    and the other contained "1924"), is the merged output field left empty. In the
-                    latter case, an warning message is generated and noted by the operator subsequent
-                    investigation on the assumption that the parse logic in <span class="title"
-                        >isaw.awol</span> is not coping well with content or structure in a
-                    particular blog post. </dd>
-
-                <dt>Language Identification</dt>
-                <dd><span class="title">AWOL</span> blog posts do not generally contain a clear
-                    indication of the language of the resources being described; however, they do
-                    frequently contain descriptive text copied from the home page of the resource,
-                    and this often is in the language of the resource itself. The <span class="title"
-                        >isaw.awol</span> package feeds the contents of the resource title and
-                    description to <a href="https://github.com/saffsd/langid.py">Marco Lui's <span
-                            class="title">langid</span> package</a> in an attempt to classify the
-                    language in question. If <span class="code">langid.classify()</span> returns a
-                    language identification with a confidence value greater than or equal to 0.98,
-                    the language code and confidence value are stored in the JSON record.</dd>
-
-                <dt>Provenance</dt>
-                <dd>In order to acknowledge the dependency of a given record on external resources,
-                    to attribute derived information to its original source(s), and to facilitate
-                    downstream attribution and assessment of validity, completeness, and timeliness,
-                        <span class="title">isaw.awol</span> embeds provenance information in each
-                        <span class="title">AWOL Index</span> record. We employ terms from two open
-                    vocabularies to express relationships between each <span class="title">AWOL
-                        Index</span> record and one or more other sources. When we extract
-                    information from an <span class="title">AWOL</span> blog post, two provenance
-                    entries are created. The first uses the "citesAsDataSource" term from the <a
-                        href="http://www.essepuntato.it/lode/http://purl.org/spar/cito">Citation
-                        Typing Ontology (CITO)</a> to link the <span class="title">AWOL Index</span>
-                    record to the <a href="https://tools.ietf.org/html/rfc4287">Atom XML</a> version
-                    of the blog post from which it was created using the <a
-                        href="https://en.wikipedia.org/wiki/Tag_URI">Tag URI</a> assigned to that
-                    Atom XML entry by the <span class="title">Blogger</span> system. We also use the
-                    CITO term "citesAsMetadataDocument" to point at the original blog post itself by
-                    way of its URL. When <span class="title">awol.index</span> merges two records,
-                    all provenance entries in the source records are copied into the output. In
-                    addition, a new provenance entry is made to document the fact of the merge using
-                    the "Combine" term from <a href="http://purl.org/net/wf-motifs">The Workflow
-                        Motif Ontology</a>.</dd>
+],                                 
+                            </pre>
+                    </div></dd>
 
                 <dt id="naming">Record Naming</dt>
                 <dd>Each record in the <span class="title">AWOL Index</span> needs a unique
@@ -762,6 +597,396 @@
                     in place of HTML &lt;br&gt; tags when the text will be used as part of a longer
                     description.</dd>
             </dl>
+        </div>
+        <div id="dictionary">
+            <h2>Data Dictionary</h2>
+            <p>The following fields may be found in the JSON records produced by <span
+                class="title">isaw.awol</span>:</p> 
+                <dl class="dictionary">
+                    <dt class="field">authors</dt>
+                    <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
+                        >string</span>s each containing an author's name. <br /><br /> Example:
+                        <div class="code">"authors": [ "Weisenhorn, Markus" ]</div>
+                    </dd>
+                    
+                    <dt class="field">contributors</dt>
+                    <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
+                        >string</span>s each containing a contributor's name (i.e.,
+                        responsible individuals other than <span class="field">authors</span> or
+                        <span class="field">editors</span>. See <span class="field"
+                            >authors</span> for example. </dd>
+                    
+                    <dt class="field">description</dt>
+                    <dd> A <span class="code">string</span> of 0-n characters containing a prose
+                        description of the resource. May contain newline characters. <br /><br />
+                        Example: <div class="code">"description": "Acta Palaeobotanica. ISSN:
+                            2082-0259 (electronic version). ISSN: 0001-6594 (printed version).
+                            Acta Palaeobotanicais an international journal publishing high
+                            quality contributions to palaeobotany and palynology. It is the only
+                            journal in Central and Eastern Europe focused on all fields of
+                            palaeobotanical and palynological investigations and publishes
+                            original palaeobotanical, palaeoecological, palaeophytogeographical,
+                            palynological, and archaeobotanical papers in addition to monographs,
+                            comprehensive review and discussion articles and book reviews. The
+                            journal is open to contributors from all over the world. It is
+                            published regularly with one volume per year each comprising two
+                            numbered parts, printed in June (No. 1) and in December (No. 2). The
+                            language of the journal is English. All manuscripts to be published
+                            in the journal are peer reviewed by at least two referees, and after
+                            acceptance of corrected manuscripts printing time is only
+                            approximately 6 months. Acta Palaeobotanicais now an open access
+                            journal and currently abstracts and full text of the articles in the
+                            PDF format beginning from volume 1 (1960) are freely accessible
+                            onwards here. The internet service also provides catalogues for
+                            volumes and supplements published since 1960 and includes information
+                            on ordering forms of printed copies."</div>
+                    </dd>
+                    
+                    <dt class="field">domain</dt>
+                    <dd>A <span class="code">string</span> of n characters containing the primary
+                        domain name of the resource <a
+                            href="https://en.wikipedia.org/wiki/Uniform_resource_locator"
+                            >URL</a>. <br /> <br />Example: <div class="code">"domain":
+                                "anthropology.jp"</div>
+                    </dd>
+                    
+                    <dt class="field">editors</dt>
+                    <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
+                        >string</span>s each containing an editor's name. See <span
+                            class="field">authors</span> for example.</dd>
+                    
+                    <dt class="field">end_date</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">extent</dt>
+                    <dd>Experimental. A <span class="code">string</span> describing the extent of the resource, corresponding generally in sense to <a href="http://www.loc.gov/marc/bibliographic/lite/lbd300.html">MARC 300 subfield a</a>, <a href="http://purl.org/dc/terms/extent">DCMI Terms "Extent"</a>, or <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#extent">MODS &lt;extent&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">form</dt>
+                    <dd>Experimental. A <span class="code">string</span> describing the form of the resource, corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#form">MODS &lt;form&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">frequency</dt>
+                    <dd>Experimental. A <span class="code">string</span> describing the frequency of publication of the resource, corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#frequency">MODS &lt;frequency&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">identifiers</dt>
+                    <dd>A <span class="code">dictionary</span> containing standard identifiers associated with the described resource. The strings "isbn", "issn", and "uri" may appear as keys in such a dictionary. Subordinate structure is as follows:
+                        <ul class="tight bullet">
+                            <li><span class="field">isbn</span> and <span class="field">issn</span>: a subordinate <span class="code">dictionary</span> with possible keys "generic" and "electronic". Each such key corresponds to a list of 1 or more <span class="code">string</span>s containing the identifier values.</li>
+                            <li><span class="field">uri</span>: a subordinate <span class="code">list</span> containing URI values as <span class="code">string</span>s.</li>
+                        </ul>
+                        Examples:
+                        <div class="code">
+                            <pre>
+"identifiers": {
+    "isbn": {
+        "generic": [
+            "978-9-490604-0-04"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "generic": [
+            "0942-5659"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "electronic": [
+            "2051-9745"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "electronic": [
+            "2212-9758"
+        ], 
+        "generic": [
+            "2212-974X"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "uri": [
+        "http://www.numismaticadellostato.it/web/pns/notiziario"
+    ]
+}, 
+                            </pre>
+                        </div></dd>
+                    
+                    <dt id="dd-is-part-of" class="field">is_part_of</dt>
+                    <dd>A <span class="code">dictionary</span> containing information about a higher-level resource related to the resource described in the record. This dictionary can contain the following keys:
+                        <ul class="bullet tight">
+                            <li><span class="field">title_full</span>: a <span class="code">string</span> containing the full title of the higher-level resource.</li>
+                            <li><span class="field">url</span>: a <span class="code">string</span> containing the URL of the higher-level resource.</li>
+                            
+                        </ul>
+                        Example: <div class="code">
+                            <pre>
+"is_part_of": {
+    "title_full": "Cuneiform Digital Library Bulletin", 
+    "url": "http://cdli.ucla.edu/pubs/cdlb.html"
+}, </pre></div></dd>
+                    
+                    <dt class="field">issuance</dt>
+                    <dd>Experimental. A <span class="code">string</span> describing the manner in which the resource is (was) issued, corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#issuance">MODS &lt;issuance&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">issue</dt>
+                    <dd>A <span class="code">string</span> containing the issue number (vel sim) for a particular issue of a journal or similar serial resource. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">issued_dates</dt>
+                    <dd>Experimental. A <span class="code">string</span> containing an expression of a date range for the publication of a resource. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">keywords</dt>
+                    <dd>A <span class="code">list</span> of <span class="code">string</span>s, each of which constitutes an <span class="title">AWOL</span> keyword. <br /><br />Example: <div class="code">
+                        <pre>
+"keywords": [
+    "Afghanistan", 
+    "journal", 
+    "newsletter", 
+    "architecture", 
+    "open access"
+],</pre>
+                    </div></dd>
+                    
+                    <dt class="field">languages</dt>
+                    <dd>A <span class="code">list</span> of <span class="code">string</span>s, each of which contains a language code indicating the presumed language of the resource. The language codes correspond to entries in the <a href="http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry">IANA Language Subtag Registry</a> and conform to the guidance laid out in <a href="https://www.ietf.org/rfc/rfc4646.txt">RFC 4646</a>. See further, <a href="#langid">Language Identification</a>, below.</dd>
+                    
+                    <dt class="field">places</dt>
+                    <dd>Experimental. A <span class="code">list</span> of <span class="code">string</span>s, each containing the name of a place associated with the publication of the resource. This field corresponds generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#place">MODS &lt;place&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">provenance</dt>
+                    <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
+                        >dictionaries</span> each containing an assertion about a discrete
+                        relationship between the record and an external resource. Each <span
+                            class="code">dictionary</span> can contain the following keys: <ul
+                                class="bullet tight">
+                                <li><span class="field">fields</span>: a <span class="code"
+                                    >list</span> (length: 1-n) of <span class="code"
+                                        >string</span>s indicating the data fields in the record
+                                    affected by the relationship.</li>
+                                <li><span class="field">resource</span>: a Uniform Resource
+                                    Identifier (URI) for the external resource to which the record is
+                                    related.</li>
+                                <li><span class="field">resource_date</span>: a <span class="code"
+                                    >string</span> containing a date/time associated with the
+                                    external resource (issuance, publication, etc.), formatted in
+                                    accordance with <a href="https://en.wikipedia.org/wiki/ISO_8601"
+                                        >ISO 8601</a>.</li>
+                                <li><span class="field">term</span>: a <span class="code"
+                                    >string</span> containing a URI for a term in a published
+                                    vocabulary. Indicates the nature of the relationship between the
+                                    record and the external resource.</li>
+                                <li><span class="field">when</span>: a <span class="code"
+                                    >string</span> containing the ISO 8601-formatted date/time
+                                    value at which the relationship was created (e.g., the moment of
+                                    derivation or merging).</li>
+                            </ul> Example:
+                        <div class="code" xml:space="preserve">
+<pre>
+"provenance": [
+    {
+        "fields": [
+            "authors", 
+            "contributors", 
+            "description", 
+            "domain", 
+            "editors", 
+            "end_date", 
+            "extent", 
+            "form", 
+            "frequency", 
+            "identifiers", 
+            "is_part_of", 
+            "issuance", 
+            "issue", 
+            "issued_dates", 
+            "keywords", 
+            "languages", 
+            "places", 
+            "provenance", 
+            "publishers", 
+            "related_resources", 
+            "responsibility", 
+            "start_date", 
+            "subordinate_resources", 
+            "title", 
+            "title_alternates", 
+            "title_extended", 
+            "type", 
+            "url", 
+            "url_alternates", 
+            "volume", 
+            "year", 
+            "zenon_id", 
+            "zotero_id"
+        ], 
+        "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6963043557368275385", 
+        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "term": "http://purl.org/spar/cito/citesAsDataSource", 
+        "when": "2015-07-11T20:13:38.313172"
+    }, 
+    {
+        "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-abstracta-iranica.html", 
+        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+        "when": "2015-07-11T20:13:38.313189"
+    }
+], 
+    </pre>
+                            </div></dd>
+                    
+                    <dt class="field">publishers</dt>
+                    <dd>Experimental. A <span class="code">list</span> of <span class="code">string</span>s, each containing the names of publishers associated with a resource. This field corresponds generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#publisher">MODS &lt;publisher&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">related_resources</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">resource_key</dt>
+                    <dd>A <span class="code">string</span> of 1-n characters containing a unique identifier for the record in the context of the associated resource hostname. May not contain whitespace or newline characters. See further <a href="#naming">Record Naming</a>, below.<br /><br />
+                        Examples: <div class="code">
+                            <ul class="tight">
+                                <li>"resource_key": "abstractairanica-revues-org"</li>
+                                <li>"resource_key": "LuwianCorpus-search"</li>
+                                <li>"resource_key": "df06ecac37cbb6cd8695b618fe85709e21311cb9"</li>
+                            </ul>
+                        </div></dd>
+                    
+                    <dt class="field">responsibility</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">start_date</dt>
+                    <dd>A <span class="code">string</span> containing an indication of the start date of a serial or continuing resource. Format is unconstrained; values will match whatever formatting is found in the original data.</dd>
+                    
+                    <dt class="field">subordinate_resources</dt>
+                    <dd>A <span class="code">list</span> of <span class="code">dictionaries</span>, each of which uses the same conventions outlined for <a href="#dd-is-part-of" class="field">is_part_of</a> to identity a resource that is seen to be subordinate to the one described by the record.<br/><br/>Example:
+                    <div class="code">
+                        <pre>
+"subordinate_resources": [
+    {
+        "title_full": "Latest Issue of Ancient TL", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-12/"
+    }, 
+    {
+        "title_full": "Previous Journal Issues", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/"
+    }, 
+    {
+        "title_full": "Volume 31, No 1. - Jun 2013", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-13/"
+    }, 
+    {
+        "title_full": "Volume 30, No 2. - Dec 2012", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-12/"
+    }, 
+    {
+        "title_full": "Volume 29, No 2. - Dec 2011", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-11/"
+    }, 
+    {
+        "title_full": "Volume 29, No 1. - June 2011", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-11/"
+    }, 
+    {
+        "title_full": "Volume 28, No 2. - Dec 2010", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-10/"
+    }, 
+    {
+        "title_full": "Volume 28, No 1. - Jun 2010", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-10/"
+    }, 
+    {
+        "title_full": "Volume 27, No 2. - Dec 2009", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-09/"
+    }, 
+    {
+        "title_full": "Volume 27, No 1. - Jun 2009", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-09/"
+    }, 
+    {
+        "title_full": "Volume 26, No 2. - Dec 2008", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-08/"
+    }, 
+    {
+        "title_full": "Volume 26, No 1. - Jun 2008", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-08/"
+    }, 
+    {
+        "title_full": "Volume 25, No 2. - Dec 2007", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-07/"
+    }, 
+    {
+        "title_full": "Volume 25, No 1. - Jun 2007", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-07/"
+    }, 
+    {
+        "title_full": "Volume 24, No 2. - Dec 2006", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-06/"
+    }, 
+    {
+        "title_full": "Volume 24, No 1. - Jun 2006", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-06/"
+    }, 
+    {
+        "title_full": "Volume 23, No 2. - Dec 2005", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/12-05/"
+    }, 
+    {
+        "title_full": "Volume 23, No 1. - Jun 2005", 
+        "url": "http://www.aber.ac.uk/en/iges/research-groups/quaternary/luminescence-research-laboratory/ancient-tl/journal/06-05/"
+    }, 
+    {
+        "title_full": "here", 
+        "url": "http://www.aber.ac.uk/temp-ancient-tl/"
+    }
+], </pre>
+                    </div></dd>
+                    
+                    <dt class="field">title</dt>
+                    <dd>A <span class="code">string</span> containing the title of the resource. <br/><br/>Example:
+                    <div class="code">
+                        "title": "R\u00f6mische Hinterlassenschaften im Gemeindegebiet Kladovo in Serbien",
+                    </div></dd>
+                    
+                    <dt class="field">title_alternates</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">title_extended</dt>
+                    <dd>Experimental. Contents are undefined.</dd>
+                    
+                    <dt class="field">type</dt>
+                    <dd>Experimental. A <span class="code">string</span> that describes the type of the resource. This field corresponds generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/typeofresource.html">MODS &lt;typeOfResource&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">url</dt>
+                    <dd>A <span class="code">string</span> containing the Uniform Resource Locator (URL) of the resource described by the record.<br/><br/>Example:
+                        <div class="code">"url": "http://othes.univie.ac.at/25727/", </div></dd>
+                    
+                    <dt class="field">url_alternates</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">volume</dt>
+                    <dd>A <span class="code">string</span> containing the volume number (vel sim) for a particular issue of a journal or similar serial resource. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">year</dt>
+                    <dd>A <span class="code">string</span> containing the year for a particular issue of a journal or similar serial resource. Values are unconstrained and follow the original data uncritically.</dd>
+                    
+                    <dt class="field">zenon_id</dt>
+                    <dd>not currently used</dd>
+                    
+                    <dt class="field">zotero_id</dt>
+                    <dd>not currently used</dd>
+                    
+                    
+                </dl>
         </div>
     </body>
 </html>
