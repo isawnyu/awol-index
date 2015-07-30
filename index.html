@@ -342,8 +342,10 @@
 
                         <dt class="field">domain</dt>
                         <dd>A <span class="code">string</span> of n characters containing the primary
-                            domain name of the resource url. <br /> Example: <div class="code"
-                                >"domain": "anthropology.jp"</div>
+                            domain name of the resource <a
+                                href="https://en.wikipedia.org/wiki/Uniform_resource_locator"
+                            >URL</a>. <br /> Example: <div class="code">"domain":
+                                "anthropology.jp"</div>
                         </dd>
 
                         <dt class="field">editors</dt>
@@ -388,7 +390,85 @@
                         <dd></dd>
 
                         <dt class="field">provenance</dt>
-                        <dd></dd>
+                        <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
+                                >dictionaries</span> each containing an assertion about a discrete
+                            relationship between the record and an external resource. Each <span
+                                class="code">dictionary</span> can contain the following keys: <ul
+                                class="bullet tight">
+                                <li><span class="field">fields</span>: a <span class="code"
+                                        >list</span> (length: 1-n) of <span class="code"
+                                        >string</span>s indicating the data fields in the record
+                                    affected by the relationship.</li>
+                                <li><span class="field">resource</span>: a Uniform Resource
+                                    Identifier (URI) for the external resource to which the record is
+                                    related.</li>
+                                <li><span class="field">resource_date</span>: a <span class="code"
+                                        >string</span> containing a date/time associated with the
+                                    external resource (issuance, publication, etc.), formatted in
+                                    accordance with <a href="https://en.wikipedia.org/wiki/ISO_8601"
+                                        >ISO 8601</a>.</li>
+                                <li><span class="field">term</span>: a <span class="code"
+                                        >string</span> containing a URI for a term in a published
+                                    vocabulary. Indicates the nature of the relationship between the
+                                    record and the external resource.</li>
+                                <li><span class="field">when</span>: a <span class="code"
+                                        >string</span> containing the ISO 8601-formatted date/time
+                                    value at which the relationship was created (e.g., the moment of
+                                    derivation or merging).</li>
+                            </ul> Example:
+                            <div class="code" xml:space="preserve">
+<pre>
+"provenance": [
+    {
+        "fields": [
+            "authors", 
+            "contributors", 
+            "description", 
+            "domain", 
+            "editors", 
+            "end_date", 
+            "extent", 
+            "form", 
+            "frequency", 
+            "identifiers", 
+            "is_part_of", 
+            "issuance", 
+            "issue", 
+            "issued_dates", 
+            "keywords", 
+            "languages", 
+            "places", 
+            "provenance", 
+            "publishers", 
+            "related_resources", 
+            "responsibility", 
+            "start_date", 
+            "subordinate_resources", 
+            "title", 
+            "title_alternates", 
+            "title_extended", 
+            "type", 
+            "url", 
+            "url_alternates", 
+            "volume", 
+            "year", 
+            "zenon_id", 
+            "zotero_id"
+        ], 
+        "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6963043557368275385", 
+        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "term": "http://purl.org/spar/cito/citesAsDataSource", 
+        "when": "2015-07-11T20:13:38.313172"
+    }, 
+    {
+        "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-abstracta-iranica.html", 
+        "resource_date": "2014-02-28T07:48:20.997-05:00", 
+        "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
+        "when": "2015-07-11T20:13:38.313189"
+    }
+], 
+    </pre>
+                            </div></dd>
 
                         <dt class="field">publishers</dt>
                         <dd></dd>
@@ -440,7 +520,7 @@
 
 
                     </dl></dd>
-                
+
                 <dt id="formats">Data Formats</dt>
                 <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON)
                     to store the structured bibliographic records dervied from <span class="title"
@@ -510,15 +590,31 @@
                     the language code and confidence value are stored in the JSON record.</dd>
 
                 <dt>Provenance</dt>
-                <dd>isaw.awol embeds provenance information in each <span class="title">AWOL
-                        Index</span> record. We employ terms from two open vocabularies to express
-                    relationships between each <span class="title">AWOL Index</span> record and one
-                    or more other sources. When we extract information from an <span class="title"
-                        >AWOL</span> blog post</dd>
+                <dd>In order to acknowledge the dependency of a given record on external resources,
+                    to attribute derived information to its original source(s), and to facilitate
+                    downstream attribution and assessment of validity, completeness, and timeliness,
+                        <span class="title">isaw.awol</span> embeds provenance information in each
+                        <span class="title">AWOL Index</span> record. We employ terms from two open
+                    vocabularies to express relationships between each <span class="title">AWOL
+                        Index</span> record and one or more other sources. When we extract
+                    information from an <span class="title">AWOL</span> blog post, two provenance
+                    entries are created. The first uses the "citesAsDataSource" term from the <a
+                        href="http://www.essepuntato.it/lode/http://purl.org/spar/cito">Citation
+                        Typing Ontology (CITO)</a> to link the <span class="title">AWOL Index</span>
+                    record to the <a href="https://tools.ietf.org/html/rfc4287">Atom XML</a> version
+                    of the blog post from which it was created using the <a
+                        href="https://en.wikipedia.org/wiki/Tag_URI">Tag URI</a> assigned to that
+                    Atom XML entry by the <span class="title">Blogger</span> system. We also use the
+                    CITO term "citesAsMetadataDocument" to point at the original blog post itself by
+                    way of its URL. When <span class="title">awol.index</span> merges two records,
+                    all provenance entries in the source records are copied into the output. In
+                    addition, a new provenance entry is made to document the fact of the merge using
+                    the "Combine" term from <a href="http://purl.org/net/wf-motifs">The Workflow
+                        Motif Ontology</a>.</dd>
 
                 <dt id="naming">Record Naming</dt>
                 <dd></dd>
-                
+
                 <dt>Structured Data</dt>
                 <dd><span class="title">AWOL</span> blog posts are descriptive documents. In
                     contrast, the individual entries in <span class="title">The AWOL Index</span> are
@@ -529,7 +625,7 @@
                     parsing of the original blog posts, but these elements — which necessarily vary
                     widely in the original content — are superseded by the uniform structure of the
                     data model imposed by <span class="title">The AWOL Index</span>.</dd>
-                
+
                 <dt>Text Encoding and Normalization</dt>
                 <dd>All text in HTML files is <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8</a>
                     encoded. All text in JSON files is also UTF-8 encoded; however, all characters
@@ -551,12 +647,11 @@
                     all text incorporated into the blog, regardless of original language, writing
                     system, and encoding, displays in a readably consistent manner in modern web
                     browsers. This effort helps ensure that the <span class="title">AWOL</span>
-                    export file (in <a href="https://tools.ietf.org/html/rfc4287">Atom format</a>)
-                    that is parsed to produce <span class="title">The AWOL Index</span> conveys all
-                    textual content using the UTF-8 encoding. The <span class="title"
-                        >isaw.awol</span> package takes further steps to detect and repair text whose
-                    character encoding or HTML structure is broken, deploying <a
-                        href="http://www.crummy.com/software/BeautifulSoup/">Leonard Richardson's
+                    export file (in Atom format) that is parsed to produce <span class="title">The
+                        AWOL Index</span> conveys all textual content using the UTF-8 encoding. The
+                        <span class="title">isaw.awol</span> package takes further steps to detect
+                    and repair text whose character encoding or HTML structure is broken, deploying
+                        <a href="http://www.crummy.com/software/BeautifulSoup/">Leonard Richardson's
                             <span class="title">Beautiful Soup</span></a> Python library for the
                     purpose. <br /> Text is further normalized to facilitate consistent display,
                     sorting, searching, and comparison in downstream and third-party processing. All
