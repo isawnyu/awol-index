@@ -354,19 +354,72 @@
                                 class="field">authors</span> for example.</dd>
 
                         <dt class="field">end_date</dt>
-                        <dd></dd>
+                        <dd>not currently used</dd>
 
                         <dt class="field">extent</dt>
-                        <dd></dd>
+                            <dd>Experimental. A <span class="code">string</span> describing the extent of the resource (corresponding generally in sense to <a href="http://www.loc.gov/marc/bibliographic/lite/lbd300.html">MARC 300 subfield a</a>, <a href="http://purl.org/dc/terms/extent">DCMI Terms "Extent"</a>, or <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#extent">MODS &lt;extent&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
 
                         <dt class="field">form</dt>
-                        <dd></dd>
+                            <dd>Experimental. A <span class="code">string</span> describing the form of the resource (corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/physicaldescription.html#form">MODS &lt;form&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
 
                         <dt class="field">frequency</dt>
-                        <dd></dd>
+                            <dd>Experimental. A <span class="code">string</span> describing the frequency of publication of the resource (corresponding generally in sense to  <a href="http://www.loc.gov/standards/mods/userguide/origininfo.html#frequency">MODS &lt;frequency&gt;</a>. Values are unconstrained and follow the original data uncritically.</dd>
 
                         <dt class="field">identifiers</dt>
-                        <dd></dd>
+                        <dd>A <span class="code">dictionary</span> containing standard identifiers associated with the described resource. The strings "isbn", "issn", and "uri" may appear as keys in such a dictionary. Subordinate structure is as follows:
+                        <ul class="tight bullet">
+                            <li><span class="field">isbn</span> and <span class="field">issn</span>: a subordinate <span class="code">dictionary</span> with possible keys "generic" and "electronic". Each such key corresponds to a list of 1 or more <span class="code">string</span>s containing the identifier values.</li>
+                            <li><span class="field">uri</span>: a subordinate <span class="code">list</span> containing URI values as <span class="code">string</span>s.</li>
+                        </ul>
+                        Examples:
+                        <div class="code">
+                            <pre>
+"identifiers": {
+    "isbn": {
+        "generic": [
+            "978-9-490604-0-04"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "generic": [
+            "0942-5659"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "electronic": [
+            "2051-9745"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "issn": {
+        "electronic": [
+            "2212-9758"
+        ], 
+        "generic": [
+            "2212-974X"
+        ]
+    }
+},                                 
+                            </pre>
+                            <pre>
+"identifiers": {
+    "uri": [
+        "http://www.numismaticadellostato.it/web/pns/notiziario"
+    ]
+}, 
+                            </pre>
+                        </div></dd>
 
                         <dt class="field">is_part_of</dt>
                         <dd></dd>
@@ -490,7 +543,7 @@
                         <dd></dd>
 
                         <dt class="field">start_date</dt>
-                        <dd></dd>
+                        <dd>A <span class="code">string</span> containing an indication of the start date of a serial or continuing resource. Format is unconstrained; values will match whatever formatting is found in the original data.</dd>
 
                         <dt class="field">subordinate_resources</dt>
                         <dd></dd>
