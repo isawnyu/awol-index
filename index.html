@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>AWOL Index</title>
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssbase/cssbase-min.css">
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css" />
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssbase/cssbase-min.css" />
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,600,400&amp;subset=latin" rel="stylesheet" type="text/css" />
     <style>
             body {
@@ -108,7 +108,6 @@
         and
         <a href="https://www.linkedin.com/in/k2soule99">Kristen Soule</a>.</p>
         <p>Creation of <span class="title">The AWOL Index</span> was made possible by a grant from the <a href="http://delmas.org/">Gladys Krieble Delmas Foundation</a>.</p>
-            </p>
             <p>We extract information from
                 <span class="title">AWOL</span>
                 about both top-level and subordinate resources. Subordinate resources are those we deduce to be "part of" another resource (e.g., a single issue of a journal or a sub-section of a website). Top-level resources are the opposite: those resources described by
@@ -141,6 +140,7 @@
                 <strong>Directly browseable records</strong>
                 <br/>
                 The <a href="json/">native-format JSON records</a> and their <a href="html/">HTML derivatives</a> are presented in hierarchical, clickable directory listings, organized by domain of the resource. Individual files are named in accordance with our <a href="#naming">record naming strategy</a>.  
+            </li>
             <li>
             <strong><a href="awol-index-json.zip">JSON for Download</a></strong>
                 <br/>
@@ -154,6 +154,7 @@
                     <li><a class="title" href="https://github.com/isawnyu/isaw.awol">isaw.awol</a> is used to parse the raw <span class="title">AWOL</span> blog posts to produce the JSON records</li>
                     <li><a class="title" href="https://github.com/isawnyu/awol-index">awol-index</a> is used to convert to JSON records into HTML and to construct the HTML indexes</li>
                 </ul>
+            </li>
         </ul>
     </div>
     <div id="funding">
@@ -231,44 +232,44 @@
                 Charles E. Jones and Tom Elliott,
                 <span class="title">The AWOL Index</span>,
                 Institute for the Study of the Ancient World (NYU), 2015-, http://isaw.nyu.edu/publications/awol-index/.
-            </dd>
-            <li class="category">A single HTML web page from the index (e.g.):</dt>
+            </li>
+            <li class="category">A single HTML web page from the index (e.g.):</li>
             <li>
                 Charles E. Jones and Tom Elliott, 
                 <span class="title">The AWOL Index</span>,
                 Institute for the Study of the Ancient World (NYU), 2015, s.v. "Index of Top-Level Resources", http://isaw.nyu.edu/publications/awol-index/html/index-top.html.
-            </dd>
+            </li>
             <li>
                 Charles E. Jones and Tom Elliott, 
                 <span class="title">The AWOL Index</span>,
                 Institute for the Study of the Ancient World (NYU), 2015, s.v. "Abstracta Iranica", http://isaw.nyu.edu/publications/awol-index/html/abstractairanica.revues.org/abstractairanica-revues-org.html.
-            </dd>
-            <li class="category">A single JSON data file (e.g.):</dt>
+            </li>
+            <li class="category">A single JSON data file (e.g.):</li>
             <li>
                 Charles E. Jones and Tom Elliott,
                 <span class="title">The AWOL Index</span>,
                 Institute for the Study of the Ancient World (NYU), 2015, bibliographic record for "Abstracta Iranica", http://isaw.nyu.edu/publications/awol-index/json/abstractairanica.revues.org/abstractairanica-revues-org.json.
-            </dd>
+            </li>
             <li class="category">
                 The
                 <span class="title">isaw.awol</span>
                 software package:
-            </dt>
+            </li>
             <li>
                 Tom Elliott, Pavan Atri, Ronak Parpani, and Charles E. Jones,
                 <span class="title">isaw.awol</span>,
                 (software package), Institute for the Study of the Ancient World (NYU), 2015, https://github.com/isawnyu/isaw.awol.
-            </dd>
+            </li>
             <li class="category">
                 The
                 <span class="title">awol-index</span>
                 software package:
-            </dt>
+            </li>
             <li>
                 Tom Elliott and Charles E. Jones,
                 <span class="title">awol-index</span>,
                 (software package), Institute for the Study of the Ancient World (NYU), 2015, https://github.com/isawnyu/awol-index.
-            </dd>
+            </li>
 
         </ul>
     </div>
@@ -282,7 +283,7 @@
                 <dd>
                     A <span class="code">list</span> (length: 0-n) of <span class="code">string</span>s each containing an author's name.
                     <br/>
-                    Example: <div class="code">"authors": [ "Weisenhorn, Markus" ]
+                    Example: <div class="code">"authors": [ "Weisenhorn, Markus" ]</div>
                 </dd>
 
                 <dt class="field">contributors</dt>
@@ -294,13 +295,14 @@
                 <dd>
                     A <span class="code">string</span> of 0-n characters containing a prose description of the resource. May contain newline characters.
                     <br/>
-                    Example: <div class="code">"description": "Acta Palaeobotanica. ISSN: 2082-0259 (electronic version). ISSN: 0001-6594 (printed version). Acta Palaeobotanicais an international journal publishing high quality contributions to palaeobotany and palynology. It is the only journal in Central and Eastern Europe focused on all fields of palaeobotanical and palynological investigations and publishes original palaeobotanical, palaeoecological, palaeophytogeographical, palynological, and archaeobotanical papers in addition to monographs, comprehensive review and discussion articles and book reviews. The journal is open to contributors from all over the world. It is published regularly with one volume per year each comprising two numbered parts, printed in June (No. 1) and in December (No. 2). The language of the journal is English. All manuscripts to be published in the journal are peer reviewed by at least two referees, and after acceptance of corrected manuscripts printing time is only approximately 6 months. Acta Palaeobotanicais now an open access journal and currently abstracts and full text of the articles in the PDF format beginning from volume 1 (1960) are freely accessible onwards here. The internet service also provides catalogues for volumes and supplements published since 1960 and includes information on ordering forms of printed copies."</span>
+                    Example: <div class="code">"description": "Acta Palaeobotanica. ISSN: 2082-0259 (electronic version). ISSN: 0001-6594 (printed version). Acta Palaeobotanicais an international journal publishing high quality contributions to palaeobotany and palynology. It is the only journal in Central and Eastern Europe focused on all fields of palaeobotanical and palynological investigations and publishes original palaeobotanical, palaeoecological, palaeophytogeographical, palynological, and archaeobotanical papers in addition to monographs, comprehensive review and discussion articles and book reviews. The journal is open to contributors from all over the world. It is published regularly with one volume per year each comprising two numbered parts, printed in June (No. 1) and in December (No. 2). The language of the journal is English. All manuscripts to be published in the journal are peer reviewed by at least two referees, and after acceptance of corrected manuscripts printing time is only approximately 6 months. Acta Palaeobotanicais now an open access journal and currently abstracts and full text of the articles in the PDF format beginning from volume 1 (1960) are freely accessible onwards here. The internet service also provides catalogues for volumes and supplements published since 1960 and includes information on ordering forms of printed copies."</div>
                 </dd>
 
                 <dt class="field">domain</dt>
                 <dd>A <span class="code">string</span> of n characters containing the primary domain name of the resource url.
                 <br/>
-                Example: <div class="code">"domain": "anthropology.jp"</dd>
+                Example: <div class="code">"domain": "anthropology.jp"</div>
+                </dd>
 
                 <dt class="field">editors</dt>
                 <dd>A <span class="code">list</span> (length: 0-n) of <span class="code">string</span>s each containing an editor's name. See <span class="field">authors</span> for example.</dd>
@@ -393,7 +395,7 @@
                 <dd></dd>
 
 
-            </dl> 
+            </dl></dd> 
             <dt id="formats">Data Formats</dt>
             <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON) to store the structured bibliographic records dervied from <span class="title">AWOL</span> blog posts. The HTML pages and indexes are derived from these JSON files. See <a href="#data-model">data model</a> for information about the fields used in the JSON files.</dd>
             
@@ -421,7 +423,7 @@
             <dd><span class="title">AWOL</span> blog posts do not generally contain a clear indication of the language of the resources being described; however, they do frequently contain descriptive text copied from the home page of the resource, and this often is in the language of the resource itself. The <span class="title">isaw.awol</span> package feeds the contents of the resource title and description to <a href="https://github.com/saffsd/langid.py">Marco Lui's <span class="title">langid</span> package</a> in an attempt to classify the language in question. If <span class="code">langid.classify()</span> returns a language identification with a confidence value greater than or equal to 0.98, the language code and confidence value are stored in the JSON record.</dd>
             
             <dt>Provenance</dt>
-            <dd></dd>
+            <dd>isaw.awol embeds provenance information in each <span class="title">AWOL Index</span> record. We employ terms from two open vocabularies to express relationships between each <span class="title">AWOL Index</span> record and one or more other sources. When we extract information from an <span class="title">AWOL</span> blog post</dd>
 
             <dt id="naming">Record Naming</dt>
             <dd></dd>
