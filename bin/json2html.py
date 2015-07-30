@@ -106,7 +106,7 @@ def list_entry(parent, rp):
     except KeyError, UnicodeDecodeError:
         sort_key = 'unsorted'
     content_href = u'/'.join((u'.', domain_u, hash_u)) + u'.html'
-    _li += a(title_text, href=content_href, cls=sort_key, target="_blank")
+    _li += a(title_text, href=content_href, cls=sort_key)
     if 'issn' in rp.keys() or 'isbn' in rp.keys():
         _li += u' ('
         if 'issn' in rp.keys():
@@ -128,9 +128,12 @@ def index_primary(primary, path_dest):
         link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic')
         link(rel='stylesheet', type='text/css', href='./index-style.css')
     doc += h1('Index of Top-Level Resources')
+    _p = p('part of ', cls='subtitle')
+    _p += a('The AWOL Index', href='../index.html')
+    doc += _p
     _ul = doc.add(ul())
-    for p in primary:
-        rtitle = p['title']
+    for pri in primary:
+        rtitle = pri['title']
         sort_key = rtitle.lower()
         if sort_key != unicode(sort_key.encode('ascii', 'ignore')):
             classification = langid.classify(sort_key)
@@ -146,10 +149,10 @@ def index_primary(primary, path_dest):
         sort_key = RX_PUNCT.sub(u'', sort_key)
         sort_key = u''.join(sort_key.strip().split()).lower()
         logger.debug(u'sortkey for title "{0}": "{1}"'.format(rtitle, sort_key))
-        p['sort_key'] = sort_key
+        pri['sort_key'] = sort_key
 
-    for p in sorted([p for p in primary if ' ' not in p['domain'] and p['title'] != u'' and p['sort_key'] != u''], key=lambda k: k['sort_key']):
-        _li = list_entry(_ul, p)
+    for pri in sorted([pri for pri in primary if ' ' not in pri['domain'] and pri['title'] != u'' and pri['sort_key'] != u''], key=lambda k: k['sort_key']):
+        _li = list_entry(_ul, pri)
     html_out(doc, os.path.join(path_dest, 'index-top.html'))
 
 def index_keywords(keywords, primary, path_dest):
@@ -161,14 +164,17 @@ def index_keywords(keywords, primary, path_dest):
         link(rel='stylesheet', type='text/css', href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700&amp;subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,cyrillic')        
         link(rel='stylesheet', type='text/css', href='./index-style.css')
     doc += h1('Index of Resources by Keywords')
+    _p = p('part of ', cls='subtitle')
+    _p += a('The AWOL Index', href='../index.html')
+    doc += _p
     for kw in sorted(keywords.keys(), key=lambda s: s.lower()):
-        these = [p for p in keywords[kw] if ' ' not in p['domain'] and p['title'] != u'' and p in primary]
+        these = [pri for pri in keywords[kw] if ' ' not in pri['domain'] and pri['title'] != u'' and pri in primary]
         if len(these) > 0:
-            for p in these:
+            for pri in these:
                 try:
-                    sort_key = p['sort_key']
+                    sort_key = pri['sort_key']
                 except KeyError:
-                    rtitle = p['title']
+                    rtitle = pri['title']
                     sort_key = rtitle.lower()
                     if sort_key != unicode(sort_key.encode('ascii', 'ignore')):
                         classification = langid.classify(sort_key)
@@ -184,13 +190,13 @@ def index_keywords(keywords, primary, path_dest):
                     sort_key = RX_PUNCT.sub(u'', sort_key)
                     sort_key = u''.join(sort_key.strip().split()).lower()
                     logger.debug(u'sortkey for title "{0}": "{1}"'.format(rtitle, sort_key))
-                    p['sort_key'] = sort_key
+                    pri['sort_key'] = sort_key
 
             _div = doc.add(div(id=kw.lower().replace(u' ', u'-')))
             _div += h2(kw)
             _ul = _div.add(ul())
-            for p in sorted(these, key=lambda k: k['sort_key']):
-                _li = list_entry(_ul, p)
+            for pri in sorted(these, key=lambda k: k['sort_key']):
+                _li = list_entry(_ul, pri)
         else:
             logger.warning(u"suppressed keyword with no top resources: {0}".format(kw))
     html_out(doc, os.path.join(path_dest, 'index-keywords.html'))
@@ -318,7 +324,13 @@ def main (args):
                 link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
                 link(rel='stylesheet', type='text/css', href='http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css')
                 link(rel='stylesheet', type='text/css', href='../item-style.css')
-            doc += h1(a(resource['title'], href=resource['url']))
+            doc += h1(a(resource['title'], href=resource['url'], target="_blank"))
+            _p = p('this record is part of ', cls='subtitle')
+            _p += a('The AWOL Index', href='../../index.html')
+            doc += _p       
+            _p = p()
+            _p += a('JSON version', href='../../json/{0}/{1}'.format(dir_name.split('/')[-1], file_name_json), target="_blank")     
+            doc += _p
             _dl = doc.add(dl())
             for k in sorted(resource.keys()):
                 if k != 'title' and k!= 'provenance' and resource[k] is not None:
@@ -356,14 +368,14 @@ def main (args):
                                     for kk in sorted(field.keys()):
                                         if type(field[kk]) in [unicode, str] and field[kk][0:4] == 'http':
                                                 _li = _ul.add(li(u'{0}: '.format(kk)))
-                                                _li += a(field[kk], href=field[kk])
+                                                _li += a(field[kk], href=field[kk], target="_blank")
                                         else:
                                             _ul += li(u'{0}: {1}'.format(kk, field[kk]))
                                     _dl += dd(_ul)
                     else:
                         _dl += dt(k)
                         if resource[k][0:4] == 'http':
-                            _dl += dd(a(resource[k], href=resource[k]))
+                            _dl += dd(a(resource[k], href=resource[k], target="_blank"))
                         else:
                             _dl += dd(resource[k])
 
@@ -380,7 +392,7 @@ def main (args):
                     _dd = _dl.add(dd(u'{0}: '.format(un_camel(event['term'].split(u'/')[-1]).replace(u'cites as ', u''))))
                     rid = event['resource']
                     if rid[0:4] == 'http':
-                        _dd += (a(rid.split('://')[1], href=rid))
+                        _dd += (a(rid.split('://')[1], href=rid, target="_blank"))
                     else:
                         _dd += rid
                     try:
