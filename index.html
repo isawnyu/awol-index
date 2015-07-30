@@ -1,448 +1,582 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>AWOL Index</title>
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css" />
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssbase/cssbase-min.css" />
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,600,400&amp;subset=latin" rel="stylesheet" type="text/css" />
-    <style>
-            body {
-                margin-left: auto;
-                margin-right: auto;
-                max-width: 50em;
-                padding: 2em; 
+    <head>
+        <title>AWOL Index</title>
+        <link rel="stylesheet" type="text/css"
+            href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css" />
+        <link rel="stylesheet" type="text/css"
+            href="http://yui.yahooapis.com/3.18.1/build/cssbase/cssbase-min.css" />
+        <link
+            href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,600,400&amp;subset=latin"
+            rel="stylesheet" type="text/css" />
+        <style>
+            body{
+                margin-left:auto;
+                margin-right:auto;
+                max-width:50em;
+                padding:2em;
             }
             /* defaults for block content */
-            body * {
-                font-family: "Open Sans", Arial, serif;
-                -webkit-font-smoothing: antialiased; 
-                -moz-osx-font-smoothing: grayscale;
-                line-height: 1.4em;
-                margin: 0px;
-                padding: 0px;
+            body *{
+                font-family:"Open Sans", Arial, serif;
+                -webkit-font-smoothing:antialiased;
+                -moz-osx-font-smoothing:grayscale;
+                line-height:1.4em;
+                margin:0px;
+                padding:0px;
             }
             body > *,
-            div > * { margin-bottom: 1em;}
+            div > *{
+                margin-bottom:1em;
+            }
             /* headings */
-            h1, h2, h3, h4, h5, h6 { font-family: "Century Gothic", Tahoma, Arial, sans-serif; font-weight: 600;}
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6{
+                font-family:"Century Gothic", Tahoma, Arial, sans-serif;
+                font-weight:600;
+            }
             /* links */
-            a {color: blue;}
+            a{
+                color:blue;
+            }
             a:hover,
-            a:focus {text-decoration: none;}
+            a:focus{
+                text-decoration:none;
+            }
             /* line break voodoo */
-            #technical br { display: block; margin-top: 1em; line-height: 1em; background-color: red; width:100%; content:" ";}
+            #technical br{
+                display:block;
+                margin-top:1em;
+                line-height:1em;
+                background-color:red;
+                width:100%;
+                content:" ";
+            }
             /* lists */
             dl,
             ol,
-            ul { margin-left: 2em;}
+            ul{
+                margin-left:2em;
+            }
             ol,
-            ul { list-style-type: none; list-style-position: outside;}
+            ul{
+                list-style-type:none;
+                list-style-position:outside;
+            }
             dd,
-            li { margin-bottom: 1em;}
-            dt { font-weight: 600;}
+            li{
+                margin-bottom:1em;
+            }
+            dt{
+                font-weight:600;
+            }
             dl.tight,
             ol.tight,
-            ul.tight { margin-top: 1em; margin-bottom: 1em;}
+            ul.tight{
+                margin-top:1em;
+                margin-bottom:1em;
+            }
             .tight > dt
             .tight > li,
-            .tight > li { margin: 0  }
-            ul.bullet {list-style-type: disc;}
+            .tight > li{
+                margin:0
+            }
+            ul.bullet{
+                list-style-type:disc;
+            }
             /* bibliographic citations */
-            ul.citations > li { list-style-type: none; padding-left: 1em; text-indent: -1em; }
-            ul.citations > li.category { list-style-type: none; font-weight: 600; margin-bottom: 0em;}
-            .title {font-style: italic}
+            ul.citations > li{
+                list-style-type:none;
+                padding-left:1em;
+                text-indent:-1em;
+            }
+            ul.citations > li.category{
+                list-style-type:none;
+                font-weight:600;
+                margin-bottom:0em;
+            }
+            .title{
+                font-style:italic
+            }
             /* dictionary */
-            dl.dictionary {
-                margin-top: 1em;
+            dl.dictionary{
+                margin-top:1em;
             }
-            dl.dictionary > dt {
-                margin-bottom: 0.5em;
+            dl.dictionary > dt{
+                margin-bottom:0.5em;
             }
-            dl.dictionary > dd {
-                margin-bottom: 1.5em;
+            dl.dictionary > dd{
+                margin-bottom:1.5em;
             }
             /* code */
-            .code {
-                font-family: Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
-                background-color: #DDDDDD;
-                padding: 2px;}
-            div.code {
-                padding: 1em;
+            .code{
+                font-family:Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
+                background-color:#DDDDDD;
+                padding:2px;
             }
-            #technical div.code {
-                margin: 1em;
+            div.code{
+                padding:1em;
             }
-            .field {
-                font-family: Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
-                background-color: #FFDDDD;
-                padding: 2px;}
-        </style>
-</head>
-<body>
-    <h1>The AWOL Index</h1>
-    <p>
-        This publication systematically describes ancient-world information resources on the world-wide web. The bibliographic data presented herein has been programmatically extracted from the content of
-        <a href="http://ancientworldonline.blogspot.com/" class="title">AWOL - The Ancient World Online</a>
-        (<abbr title="International Standard Serial Number">ISSN</abbr> 2156-2253) and formatted in accordance with a structured data model.
-        In continuous operation since 2009,
-        <span class="title">AWOL</span>
-        is a blog authored by
-        <a href="http://viaf.org/viaf/66782017/">Charles E. Jones</a>,
-        Tombros Librarian for Classics and Humanities at the
-        <a href="https://www.libraries.psu.edu/psul/home.html">Pattee Library, Penn State University</a>. 
-            </p>
-    <p>
-        This publication, <span class="title">The AWOL Index</span>,
-        is an experimental project, developed jointly by Jones and
-        <a href="http://www.paregorios.org">Tom Elliott</a>,
-        the Associate Director for Digital Programs at New York University's
-        <a href="http://isaw.nyu.edu">Institute for the Study of the Ancient World</a> (ISAW),
-        with the assistance of
-        <a href="https://www.linkedin.com/in/pavanatri">Pavan Atri</a>,
-        <a href="https://en.wikipedia.org/wiki/Roger_S._Bagnall">Roger Bagnall</a>,
-        <a href="https://www.linkedin.com/pub/dawn-gross/98/65/898">Dawn Gross</a>,
-        <a href="http://sebastianheath.com/">Sebastian Heath</a>,
-        <a href="https://www.linkedin.com/pub/gabriel-mckee/2/706/84b">Gabriel McKee</a>,
-        <a href="https://www.linkedin.com/pub/ronak-parpani/42/195/241">Ronak Parpani</a>,
-        <a href="https://www.linkedin.com/in/dmratzan">David Ratzan</a>,
-        and
-        <a href="https://www.linkedin.com/in/k2soule99">Kristen Soule</a>.</p>
-        <p>Creation of <span class="title">The AWOL Index</span> was made possible by a grant from the <a href="http://delmas.org/">Gladys Krieble Delmas Foundation</a>.</p>
-            <p>We extract information from
-                <span class="title">AWOL</span>
-                about both top-level and subordinate resources. Subordinate resources are those we deduce to be "part of" another resource (e.g., a single issue of a journal or a sub-section of a website). Top-level resources are the opposite: those resources described by
-                <span class="title">AWOL</span>
-                for which we have detected no containing/superior resource. </p>
-                <p>
-                    <strong>The latest data extraction was performed on 9 July 2015.</strong> At that time, our software successfully extracted 1,301 top-level and 50,704 subordinate resources. For 94% percent of the top-level resources it was able to extract a textual description substantively different from the resource title. Dates of individual source posts in <span class="title">AWOL</span> vary between 2009 and 2015; therefore, content in <span class="title">The AWOL Index</span> will only be as current as the original blog post was on the day of extraction.
-        </p>
-    <div id="contents">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li>
-                <strong><a href="html/index-top.html">Index of top-level resources by title</a></strong>
-                <br/>
-                A clickable index, sorted alphabetically by resource title, that provides access to <a href="https://en.wikipedia.org/wiki/HTML" title="Hypertext Markup Language">HTML</a> versions of the corresponding bibliographic records and thence, via additional links, to: 
-                <ul class="tight bullet">
-                    <li>the original <span class="title">AWOL</span> blog posts,</li>
-                    <li>the <a href="https://en.wikipedia.org/wiki/JSON" title="JavaScript Object Notation">JSON</a> versions of the bibliographic records (<a href="#formats">our "native format"</a>),</li>
-                    <li>derivative records in <a href="http://zotero.org">Zotero</a>, and</li>
-                    <li>records for subordinate and related resources.</li>
-                </ul>
-                
-            </li>
-            <li>
-                <strong><a href="html/index-keywords.html">Index of top-level resources by keywords</a></strong>
-                <br/>
-                Jones assigns categories to blog posts and we capture these as keywords relating to the indexed resources. We also check the contents of resource titles we mine from the blog posts in an effort to identify additional keywords of interest.
-            </li>
-            <li>
-                <strong>Directly browseable records</strong>
-                <br/>
-                The <a href="json/">native-format JSON records</a> and their <a href="html/">HTML derivatives</a> are presented in hierarchical, clickable directory listings, organized by domain of the resource. Individual files are named in accordance with our <a href="#naming">record naming strategy</a>.  
-            </li>
-            <li>
-            <strong><a href="awol-index-json.zip">JSON for Download</a></strong>
-                <br/>
-                All JSON files are downloadable as a single ZIP file. Please note our <a href="#rights">copyright and licensing</a>, <a href="#citation">citation</a>, and <a href="#technical">technical</a> guidelines, below. 
-            </li>
-            <li>
-                <strong>Software</strong>
-                <br/>
-                If you are interested in exploring how the sausage was made or in helping us improve our recipe, all code components used in the creation of <span class="title">The AWOL Index</span> have been released under open source licenses. They are written in the <a href="https://www.python.org/">Python programming language</a>, and released in two packages: 
-                <ul class="tight bullet">
-                    <li><a class="title" href="https://github.com/isawnyu/isaw.awol">isaw.awol</a> is used to parse the raw <span class="title">AWOL</span> blog posts to produce the JSON records</li>
-                    <li><a class="title" href="https://github.com/isawnyu/awol-index">awol-index</a> is used to convert to JSON records into HTML and to construct the HTML indexes</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-    <div id="funding">
-        <h2>
-            Funding for the preparation of
-            <span class="title">The AWOL Index</span>
-            has been provided by:
-        </h2>
-        <ul class="bullet tight">
-            <li>
-                a grant from the
-                Gladys Krieble Delmas Foundation and
-            </li>
-            <li>
-                the
-                <a href="http://leonlevyfoundation.org/">Leon Levy Foundation</a>,
-                through its support of ISAW's general budget.
-            </li>
-        </ul>
-    </div>
-    <div id="contact">
-        <h2>Contact</h2>
+            #technical div.code{
+                margin:1em;
+            }
+            .field{
+                font-family:Consolas, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", sans-serif;
+                background-color:#FFDDDD;
+                padding:2px;
+            }</style>
+    </head>
+    <body>
+        <h1>The AWOL Index</h1>
+        <p> This publication systematically describes ancient-world information resources on the
+            world-wide web. The bibliographic data presented herein has been programmatically
+            extracted from the content of <a href="http://ancientworldonline.blogspot.com/"
+                class="title">AWOL - The Ancient World Online</a> (<abbr
+                title="International Standard Serial Number">ISSN</abbr> 2156-2253) and formatted in
+            accordance with a structured data model. In continuous operation since 2009, <span
+                class="title">AWOL</span> is a blog authored by <a
+                href="http://viaf.org/viaf/66782017/">Charles E. Jones</a>, Tombros Librarian for
+            Classics and Humanities at the <a href="https://www.libraries.psu.edu/psul/home.html"
+                >Pattee Library, Penn State University</a>. </p>
+        <p> This publication, <span class="title">The AWOL Index</span>, is an experimental project,
+            developed jointly by Jones and <a href="http://www.paregorios.org">Tom Elliott</a>, the
+            Associate Director for Digital Programs at New York University's <a
+                href="http://isaw.nyu.edu">Institute for the Study of the Ancient World</a> (ISAW),
+            with the assistance of <a href="https://www.linkedin.com/in/pavanatri">Pavan Atri</a>, <a
+                href="https://en.wikipedia.org/wiki/Roger_S._Bagnall">Roger Bagnall</a>, <a
+                href="https://www.linkedin.com/pub/dawn-gross/98/65/898">Dawn Gross</a>, <a
+                href="http://sebastianheath.com/">Sebastian Heath</a>, <a
+                href="https://www.linkedin.com/pub/gabriel-mckee/2/706/84b">Gabriel McKee</a>, <a
+                href="https://www.linkedin.com/pub/ronak-parpani/42/195/241">Ronak Parpani</a>, <a
+                href="https://www.linkedin.com/in/dmratzan">David Ratzan</a>, and <a
+                href="https://www.linkedin.com/in/k2soule99">Kristen Soule</a>.</p>
+        <p>Creation of <span class="title">The AWOL Index</span> was made possible by a grant from
+            the <a href="http://delmas.org/">Gladys Krieble Delmas Foundation</a>.</p>
+        <p>We extract information from <span class="title">AWOL</span> about both top-level and
+            subordinate resources. Subordinate resources are those we deduce to be "part of" another
+            resource (e.g., a single issue of a journal or a sub-section of a website). Top-level
+            resources are the opposite: those resources described by <span class="title">AWOL</span>
+            for which we have detected no containing/superior resource. </p>
         <p>
-            Questions and comments should be directed to
-            <a href="mailto:tom.elliott@nyu.edu?subject=The AWOL Index">Tom Elliott at tom.elliott@nyu.edu</a>.
-                    </p>
-    </div>
-    <div id="rights">
-        <h2>Copyright and Licensing</h2>
-        <p>
-            The content of the
-            <span class="title">The AWOL Index</span>
-            is derived from:
-        </p>
-        <ul class="citations">
-            <li>
-                Charles E. Jones,
-                <span class="title">AWOL - The Ancient World Online</span>
-                (ISSN 2156-2253), 2009-.
-            </li>
-        </ul>
-        <p>
-            That content is re-used and re-mixed here under the terms of
-            <span class="title">AWOL's</span>
-            Creative Commons Attribution Share-Alike 3.0 Unported license.
-        </p>
-        <p>
-            The production and publication of
-            <span class="title">The AWOL Index</span>
-            contributes significant additional value both to the content itself and to its presentation and utility. This new intellectual property is covered by copyright (2015, New York University). The full content of
-            <span class="title">The AWOL Index</span>,
-            both in HTML and JSON formats, is published under the terms of a
-            <a href="http://creativecommons.org/licenses/by-sa/4.0/">
-                Creative Commons Attribution-ShareAlike 4.0 International License
-            </a>.
-                    </p>
-        <p>
-            The software used to create
-            <span class="title">The AWOL Index</span>
-            — released in two parts as
-            <span class="title" >isaw.awol</span>
-            and
-            <span class="title">awol-index</span>
-            — is substantively the original work of Tom Elliott with the assistance of Pavan Atri, Charles E. Jones, and Ronak Parpani. Information about copyright, license, and dependencies on other open-source software is included in the documentation for each of these packages (see preceding links).
-        </p>
-    </div>    
-    <div id="citation">
-        <h2>
-            How to cite
-            <span class="title">The AWOL Index</span>
-        </h2>
-        <ul class="citations">
-            <li class="category">The entire publication as a single entity:</li>
-            <li>
-                Charles E. Jones and Tom Elliott,
-                <span class="title">The AWOL Index</span>,
-                Institute for the Study of the Ancient World (NYU), 2015-, http://isaw.nyu.edu/publications/awol-index/.
-            </li>
-            <li class="category">A single HTML web page from the index (e.g.):</li>
-            <li>
-                Charles E. Jones and Tom Elliott, 
-                <span class="title">The AWOL Index</span>,
-                Institute for the Study of the Ancient World (NYU), 2015, s.v. "Index of Top-Level Resources", http://isaw.nyu.edu/publications/awol-index/html/index-top.html.
-            </li>
-            <li>
-                Charles E. Jones and Tom Elliott, 
-                <span class="title">The AWOL Index</span>,
-                Institute for the Study of the Ancient World (NYU), 2015, s.v. "Abstracta Iranica", http://isaw.nyu.edu/publications/awol-index/html/abstractairanica.revues.org/abstractairanica-revues-org.html.
-            </li>
-            <li class="category">A single JSON data file (e.g.):</li>
-            <li>
-                Charles E. Jones and Tom Elliott,
-                <span class="title">The AWOL Index</span>,
-                Institute for the Study of the Ancient World (NYU), 2015, bibliographic record for "Abstracta Iranica", http://isaw.nyu.edu/publications/awol-index/json/abstractairanica.revues.org/abstractairanica-revues-org.json.
-            </li>
-            <li class="category">
-                The
-                <span class="title">isaw.awol</span>
-                software package:
-            </li>
-            <li>
-                Tom Elliott, Pavan Atri, Ronak Parpani, and Charles E. Jones,
-                <span class="title">isaw.awol</span>,
-                (software package), Institute for the Study of the Ancient World (NYU), 2015, https://github.com/isawnyu/isaw.awol.
-            </li>
-            <li class="category">
-                The
-                <span class="title">awol-index</span>
-                software package:
-            </li>
-            <li>
-                Tom Elliott and Charles E. Jones,
-                <span class="title">awol-index</span>,
-                (software package), Institute for the Study of the Ancient World (NYU), 2015, https://github.com/isawnyu/awol-index.
-            </li>
-
-        </ul>
-    </div>
-    <div id="technical">
-        <h2>Technical Considerations</h2>
-        <dl>
-            <dt id="dictionary">Data Dictionary</dt>
-            <dd>The following fields may be found in the JSON records produced by <span class="title">isaw.awol</span>:
-            <dl class="dictionary">
-                <dt class="field">authors</dt>
-                <dd>
-                    A <span class="code">list</span> (length: 0-n) of <span class="code">string</span>s each containing an author's name.
-                    <br/>
-                    Example: <div class="code">"authors": [ "Weisenhorn, Markus" ]</div>
-                </dd>
-
-                <dt class="field">contributors</dt>
-                <dd>
-                    A <span class="code">list</span> (length: 0-n) of <span class="code">string</span>s each containing a contributor's name (i.e., responsible individuals other than <span class="field">authors</span> or <span class="field">editors</span>. See <span class="field">authors</span> for example.
-                </dd>
-
-                <dt class="field">description</dt>
-                <dd>
-                    A <span class="code">string</span> of 0-n characters containing a prose description of the resource. May contain newline characters.
-                    <br/>
-                    Example: <div class="code">"description": "Acta Palaeobotanica. ISSN: 2082-0259 (electronic version). ISSN: 0001-6594 (printed version). Acta Palaeobotanicais an international journal publishing high quality contributions to palaeobotany and palynology. It is the only journal in Central and Eastern Europe focused on all fields of palaeobotanical and palynological investigations and publishes original palaeobotanical, palaeoecological, palaeophytogeographical, palynological, and archaeobotanical papers in addition to monographs, comprehensive review and discussion articles and book reviews. The journal is open to contributors from all over the world. It is published regularly with one volume per year each comprising two numbered parts, printed in June (No. 1) and in December (No. 2). The language of the journal is English. All manuscripts to be published in the journal are peer reviewed by at least two referees, and after acceptance of corrected manuscripts printing time is only approximately 6 months. Acta Palaeobotanicais now an open access journal and currently abstracts and full text of the articles in the PDF format beginning from volume 1 (1960) are freely accessible onwards here. The internet service also provides catalogues for volumes and supplements published since 1960 and includes information on ordering forms of printed copies."</div>
-                </dd>
-
-                <dt class="field">domain</dt>
-                <dd>A <span class="code">string</span> of n characters containing the primary domain name of the resource url.
-                <br/>
-                Example: <div class="code">"domain": "anthropology.jp"</div>
-                </dd>
-
-                <dt class="field">editors</dt>
-                <dd>A <span class="code">list</span> (length: 0-n) of <span class="code">string</span>s each containing an editor's name. See <span class="field">authors</span> for example.</dd>
-
-                <dt class="field">end_date</dt>
-                <dd></dd>
-
-                <dt class="field">extent</dt>
-                <dd></dd>
-
-                <dt class="field">form</dt>
-                <dd></dd>
-
-                <dt class="field">frequency</dt>
-                <dd></dd>
-
-                <dt class="field">identifiers</dt>
-                <dd></dd>
-
-                <dt class="field">is_part_of</dt>
-                <dd></dd>
-
-                <dt class="field">issuance</dt>
-                <dd></dd>
-
-                <dt class="field">issue</dt>
-                <dd></dd>
-
-                <dt class="field">issued_dates</dt>
-                <dd></dd>
-
-                <dt class="field">keywords</dt>
-                <dd></dd>
-
-                <dt class="field">languages</dt>
-                <dd></dd>
-
-                <dt class="field">places</dt>
-                <dd></dd>
-
-                <dt class="field">provenance</dt>
-                <dd></dd>
-
-                <dt class="field">publishers</dt>
-                <dd></dd>
-
-                <dt class="field">related_resources</dt>
-                <dd></dd>
-
-                <dt class="field">resource_key</dt>
-                <dd></dd>
-
-                <dt class="field">responsibility</dt>
-                <dd></dd>
-
-                <dt class="field">start_date</dt>
-                <dd></dd>
-
-                <dt class="field">subordinate_resources</dt>
-                <dd></dd>
-
-                <dt class="field">title</dt>
-                <dd></dd>
-
-                <dt class="field">title_alternates</dt>
-                <dd></dd>
-
-                <dt class="field">title_extended</dt>
-                <dd></dd>
-
-                <dt class="field">type</dt>
-                <dd></dd>
-
-                <dt class="field">url</dt>
-                <dd></dd>
-
-                <dt class="field">url_alternates</dt>
-                <dd></dd>
-
-                <dt class="field">volume</dt>
-                <dd></dd>
-
-                <dt class="field">year</dt>
-                <dd></dd>
-
-                <dt class="field">zenon_id</dt>
-                <dd></dd>
-
-                <dt class="field">zotero_id</dt>
-                <dd></dd>
-
-
-            </dl></dd> 
-            <dt id="formats">Data Formats</dt>
-            <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON) to store the structured bibliographic records dervied from <span class="title">AWOL</span> blog posts. The HTML pages and indexes are derived from these JSON files. See <a href="#data-model">data model</a> for information about the fields used in the JSON files.</dd>
-            
-            <dt id="data-model">Data Model</dt>
-            <dd>The records that <span class="title">isaw.awol</span> produces conform to a flat, idiosyncratic data model informed by the <a class="title" href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</a> and the <a class="title" href="http://www.loc.gov/standards/mods/">Metadata Object Description Schema (MODS)</a> (among others). We chose to create our own data model in JSON rather than an established, standard format for several reasons:
-            <ul class="tight bullet">
-                <li>the varied and idiosyncratic nature of the material being catalogued necessitates a format and schema that can be modified on the fly as new attributes of interest are identified</li>
-                <li>JSON is quick and easy to read and write from Python</li>
-                <li>JSON is terse, unambiguous, and easily read with any text editor</li>
-                <li>JSON is is well understood as a format by developers outside humanities and library software communities and readily used in web applications</li>
+            <strong>The latest data extraction was performed on 9 July 2015.</strong> At that time,
+            our software successfully extracted 1,301 top-level and 50,704 subordinate resources. For
+            94% percent of the top-level resources it was able to extract a textual description
+            substantively different from the resource title. Dates of individual source posts in
+                <span class="title">AWOL</span> vary between 2009 and 2015; therefore, content in
+                <span class="title">The AWOL Index</span> will only be as current as the original
+            blog post was on the day of extraction. </p>
+        <div id="contents">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li>
+                    <strong><a href="html/index-top.html">Index of top-level resources by
+                        title</a></strong>
+                    <br /> A clickable index, sorted alphabetically by resource title, that provides
+                    access to <a href="https://en.wikipedia.org/wiki/HTML"
+                        title="Hypertext Markup Language">HTML</a> versions of the corresponding
+                    bibliographic records and thence, via additional links, to: <ul
+                        class="tight bullet">
+                        <li>the original <span class="title">AWOL</span> blog posts,</li>
+                        <li>the <a href="https://en.wikipedia.org/wiki/JSON"
+                                title="JavaScript Object Notation">JSON</a> versions of the
+                            bibliographic records (<a href="#formats">our "native format"</a>),</li>
+                        <li>derivative records in <a href="http://zotero.org">Zotero</a>, and</li>
+                        <li>records for subordinate and related resources.</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong><a href="html/index-keywords.html">Index of top-level resources by
+                            keywords</a></strong>
+                    <br /> Jones assigns categories to blog posts and we capture these as keywords
+                    relating to the indexed resources. We also check the contents of resource titles
+                    we mine from the blog posts in an effort to identify additional keywords of
+                    interest. </li>
+                <li>
+                    <strong>Directly browseable records</strong>
+                    <br /> The <a href="json/">native-format JSON records</a> and their <a
+                        href="html/">HTML derivatives</a> are presented in hierarchical, clickable
+                    directory listings, organized by domain of the resource. Individual files are
+                    named in accordance with our <a href="#naming">record naming strategy</a>. </li>
+                <li>
+                    <strong><a href="awol-index-json.zip">JSON for Download</a></strong>
+                    <br /> All JSON files are downloadable as a single ZIP file. Please note our <a
+                        href="#rights">copyright and licensing</a>, <a href="#citation">citation</a>,
+                    and <a href="#technical">technical</a> guidelines, below. </li>
+                <li>
+                    <strong>Software</strong>
+                    <br /> If you are interested in exploring how the sausage was made or in helping
+                    us improve our recipe, all code components used in the creation of <span
+                        class="title">The AWOL Index</span> have been released under open source
+                    licenses. They are written in the <a href="https://www.python.org/">Python
+                        programming language</a>, and released in two packages: <ul
+                        class="tight bullet">
+                        <li><a class="title" href="https://github.com/isawnyu/isaw.awol"
+                                >isaw.awol</a> is used to parse the raw <span class="title"
+                                >AWOL</span> blog posts to produce the JSON records</li>
+                        <li><a class="title" href="https://github.com/isawnyu/awol-index"
+                                >awol-index</a> is used to convert to JSON records into HTML and to
+                            construct the HTML indexes</li>
+                    </ul>
+                </li>
             </ul>
-            We anticipate no difficulty in converting JSON to other formats for use in other systems.
-            <br />
-            See our <a href="#dictionary">Data Dictionary</a> for definitions of all data fields.</dd>
-            
-            <dt>Deduplication</dt>
-            <dd>Many resources are cited more than once in <span class="title">AWOL</span>, but <span class="title">The AWOL Index</span> should only have one record for each resource. Cases of such repetition occur both within a single blog post (e.g., when the title of a single thesis appears multiple times in a list, once under each of several categories) and accross blog posts (e.g., in a descriptive post about a single journal and in another post that lists a large number of journals on a particular topic). It is necessary, therefore, for <span class="title">isaw.awol</span> to detect each repetition of a resource and judiciously to merge the data extracted in association with each. 
-            <br />
-            Repetition is detected during a parse session by keeping a list of resource keys parsed previously during that session (see <a href="#naming">Record Naming</a> for more information on resource keys). If a newly created resource key matches a key already stored in the list, <span class="title">isaw.awol</span> reads the previous resource record in from the corresponding JSON file and then attempts to merge the newly parsed information into that record before saving it again.
-            <br />
-            Merge logic is conservative: best efforts are made to prevent discard of data from either record. Identical values, of course, are always retained in the result. When a particular field in one record is empty but in the other holds a value, the value is propagated. When the field is a complex data type (like a list of keywords), and the two records have differing values, the union set is propagated. Only when both records have empty fields, or conflicting simple values (e.g., if one contained "1923" in the <span class="code">year</span> field and the other contained "1924"), is the merged output field left empty. In the latter case, an warning message is generated and noted by the operator subsequent investigation on the assumption that the parse logic in <span class="title">isaw.awol</span> is not coping well with content or structure in a particular blog post. 
-            </dd>
-            
-            <dt>Language Identification</dt>
-            <dd><span class="title">AWOL</span> blog posts do not generally contain a clear indication of the language of the resources being described; however, they do frequently contain descriptive text copied from the home page of the resource, and this often is in the language of the resource itself. The <span class="title">isaw.awol</span> package feeds the contents of the resource title and description to <a href="https://github.com/saffsd/langid.py">Marco Lui's <span class="title">langid</span> package</a> in an attempt to classify the language in question. If <span class="code">langid.classify()</span> returns a language identification with a confidence value greater than or equal to 0.98, the language code and confidence value are stored in the JSON record.</dd>
-            
-            <dt>Provenance</dt>
-            <dd>isaw.awol embeds provenance information in each <span class="title">AWOL Index</span> record. We employ terms from two open vocabularies to express relationships between each <span class="title">AWOL Index</span> record and one or more other sources. When we extract information from an <span class="title">AWOL</span> blog post</dd>
-
-            <dt id="naming">Record Naming</dt>
-            <dd></dd>
-            <dt>Structured Data</dt>
-            <dd><span class="title">AWOL</span> blog posts are descriptive documents. In contrast, the individual entries in <span class="title">The AWOL Index</span> are structured data records in which the discrete elements of description (metadata) have been separated into standard fields. None of the HTML tags in the original blog posts are carried over into <span class="title">The AWOL Index</span> records. Original HTML structure and formatting is used extensively to facilitate parsing of the original blog posts, but these elements — which necessarily vary widely in the original content — are superseded by the uniform structure of the data model imposed by <span class="title">The AWOL Index</span>.</dd>
-            <dt>Text Encoding and Normalization</dt>
-            <dd>All text in HTML files is <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8</a> encoded. All text in JSON files is also UTF-8 encoded; however, all characters therein whose <a href="https://en.wikipedia.org/wiki/Unicode">Unicode</a> code points fall outside the <a href="https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)">Basic Latin block</a> (i.e., non-<a title="American Standard Code for Information Interchange" href="https://en.wikipedia.org/wiki/ASCII">ASCII</a> characters) have been escaped using <a href="https://docs.python.org/2/howto/unicode.html#unicode-literals-in-python-source-code">the standard Python notation for "Unicode literals"</a>.
-            <br />
-            Content from <span class="title">AWOL</span> is, in part, collected from a vast variety of web pages around the world. Consequently, the original text formatting, <a href="https://en.wikipedia.org/wiki/Character_encoding">character encoding</a>, and associated factors (e.g., <a href="http://unicode.org/reports/tr15/">Unicode Normalization Form</a>) also vary. Jones is at pains when collecting and updating information to ensure that all text incorporated into the blog, regardless of original language, writing system, and encoding, displays in a readably consistent manner in modern web browsers. This effort helps ensure that the <span class="title">AWOL</span> export file (in <a href="https://tools.ietf.org/html/rfc4287">Atom format</a>) that is parsed to produce <span class="title">The AWOL Index</span> conveys all textual content using the UTF-8 encoding. The <span class="title">isaw.awol</span> package takes further steps to detect and repair text whose character encoding or HTML structure is broken, deploying <a href="http://www.crummy.com/software/BeautifulSoup/">Leonard Richardson's <span class="title">Beautiful Soup</span></a> Python library for the purpose.
-            <br />
-            Text is further normalized to facilitate consistent display, sorting, searching, and comparison in downstream and third-party processing. All character text is converted to <a href="http://unicode.org/reports/tr15/#Norm_Forms">Unicode Normalization Form C (NFC)</a>. The Python standard <a href="https://docs.python.org/2/library/unicodedata.html">unicodedata</a> library is used for this purpose. A number of character replacements are performed as well, including the conversion of:
-            <ul class="tight bullet">
-                <li>all hyphen and dash variants (including non-breaking and "soft" hyphens) into simple hyphens,</li>
-                <li>left- and right-double quotation marks (and "Microsoft Smart Quotes") into simple double quotation marks,</li>
-                <li>the Unicode ellipsis character (\u2026) into a string of three simple periods (full stops), and</li>
-                <li>all continuous strings of one or more whitespace characters (including tabs, new lines, and non-breaking spaces) into a single simple space character.</li>
+        </div>
+        <div id="funding">
+            <h2> Funding for the preparation of <span class="title">The AWOL Index</span> has been
+                provided by: </h2>
+            <ul class="bullet tight">
+                <li> a grant from the Gladys Krieble Delmas Foundation and </li>
+                <li> the <a href="http://leonlevyfoundation.org/">Leon Levy Foundation</a>, through
+                    its support of ISAW's general budget. </li>
             </ul>
-            <span class="title">isaw.awol</span> sometimes adds periods (full stops) to text in place of HTML &lt;br&gt; tags when the text will be used as part of a longer description.</dd>
-        </dl>
-    </div>
-</body>
+        </div>
+        <div id="contact">
+            <h2>Contact</h2>
+            <p> Questions and comments should be directed to <a
+                    href="mailto:tom.elliott@nyu.edu?subject=The AWOL Index">Tom Elliott at
+                    tom.elliott@nyu.edu</a>. </p>
+        </div>
+        <div id="rights">
+            <h2>Copyright and Licensing</h2>
+            <p> The content of the <span class="title">The AWOL Index</span> is derived from: </p>
+            <ul class="citations">
+                <li> Charles E. Jones, <span class="title">AWOL - The Ancient World Online</span>
+                    (ISSN 2156-2253), 2009-. </li>
+            </ul>
+            <p> That content is re-used and re-mixed here under the terms of <span class="title"
+                    >AWOL's</span> Creative Commons Attribution Share-Alike 3.0 Unported license. </p>
+            <p> The production and publication of <span class="title">The AWOL Index</span>
+                contributes significant additional value both to the content itself and to its
+                presentation and utility. This new intellectual property is covered by copyright
+                (2015, New York University). The full content of <span class="title">The AWOL
+                    Index</span>, both in HTML and JSON formats, is published under the terms of a <a
+                    href="http://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons
+                    Attribution-ShareAlike 4.0 International License </a>. </p>
+            <p> The software used to create <span class="title">The AWOL Index</span> — released in
+                two parts as <span class="title">isaw.awol</span> and <span class="title"
+                    >awol-index</span> — is substantively the original work of Tom Elliott with the
+                assistance of Pavan Atri, Charles E. Jones, and Ronak Parpani. Information about
+                copyright, license, and dependencies on other open-source software is included in the
+                documentation for each of these packages (see preceding links). </p>
+        </div>
+        <div id="citation">
+            <h2> How to cite <span class="title">The AWOL Index</span>
+            </h2>
+            <ul class="citations">
+                <li class="category">The entire publication as a single entity:</li>
+                <li> Charles E. Jones and Tom Elliott, <span class="title">The AWOL Index</span>,
+                    Institute for the Study of the Ancient World (NYU), 2015-,
+                    http://isaw.nyu.edu/publications/awol-index/. </li>
+                <li class="category">A single HTML web page from the index (e.g.):</li>
+                <li> Charles E. Jones and Tom Elliott, <span class="title">The AWOL Index</span>,
+                    Institute for the Study of the Ancient World (NYU), 2015, s.v. "Index of
+                    Top-Level Resources",
+                    http://isaw.nyu.edu/publications/awol-index/html/index-top.html. </li>
+                <li> Charles E. Jones and Tom Elliott, <span class="title">The AWOL Index</span>,
+                    Institute for the Study of the Ancient World (NYU), 2015, s.v. "Abstracta
+                    Iranica",
+                    http://isaw.nyu.edu/publications/awol-index/html/abstractairanica.revues.org/abstractairanica-revues-org.html. </li>
+                <li class="category">A single JSON data file (e.g.):</li>
+                <li> Charles E. Jones and Tom Elliott, <span class="title">The AWOL Index</span>,
+                    Institute for the Study of the Ancient World (NYU), 2015, bibliographic record
+                    for "Abstracta Iranica",
+                    http://isaw.nyu.edu/publications/awol-index/json/abstractairanica.revues.org/abstractairanica-revues-org.json. </li>
+                <li class="category"> The <span class="title">isaw.awol</span> software package: </li>
+                <li> Tom Elliott, Pavan Atri, Ronak Parpani, and Charles E. Jones, <span
+                        class="title">isaw.awol</span>, (software package), Institute for the Study
+                    of the Ancient World (NYU), 2015, https://github.com/isawnyu/isaw.awol. </li>
+                <li class="category"> The <span class="title">awol-index</span> software package: </li>
+                <li> Tom Elliott and Charles E. Jones, <span class="title">awol-index</span>,
+                    (software package), Institute for the Study of the Ancient World (NYU), 2015,
+                    https://github.com/isawnyu/awol-index. </li>
+
+            </ul>
+        </div>
+        <div id="technical">
+            <h2>Technical Considerations</h2>
+            <dl>
+                <dt id="dictionary">Data Dictionary</dt>
+                <dd>The following fields may be found in the JSON records produced by <span
+                        class="title">isaw.awol</span>: <dl class="dictionary">
+                        <dt class="field">authors</dt>
+                        <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
+                                >string</span>s each containing an author's name. <br /> Example:
+                                <div class="code">"authors": [ "Weisenhorn, Markus" ]</div>
+                        </dd>
+
+                        <dt class="field">contributors</dt>
+                        <dd> A <span class="code">list</span> (length: 0-n) of <span class="code"
+                                >string</span>s each containing a contributor's name (i.e.,
+                            responsible individuals other than <span class="field">authors</span> or
+                                <span class="field">editors</span>. See <span class="field"
+                                >authors</span> for example. </dd>
+
+                        <dt class="field">description</dt>
+                        <dd> A <span class="code">string</span> of 0-n characters containing a prose
+                            description of the resource. May contain newline characters. <br />
+                            Example: <div class="code">"description": "Acta Palaeobotanica. ISSN:
+                                2082-0259 (electronic version). ISSN: 0001-6594 (printed version).
+                                Acta Palaeobotanicais an international journal publishing high
+                                quality contributions to palaeobotany and palynology. It is the only
+                                journal in Central and Eastern Europe focused on all fields of
+                                palaeobotanical and palynological investigations and publishes
+                                original palaeobotanical, palaeoecological, palaeophytogeographical,
+                                palynological, and archaeobotanical papers in addition to monographs,
+                                comprehensive review and discussion articles and book reviews. The
+                                journal is open to contributors from all over the world. It is
+                                published regularly with one volume per year each comprising two
+                                numbered parts, printed in June (No. 1) and in December (No. 2). The
+                                language of the journal is English. All manuscripts to be published
+                                in the journal are peer reviewed by at least two referees, and after
+                                acceptance of corrected manuscripts printing time is only
+                                approximately 6 months. Acta Palaeobotanicais now an open access
+                                journal and currently abstracts and full text of the articles in the
+                                PDF format beginning from volume 1 (1960) are freely accessible
+                                onwards here. The internet service also provides catalogues for
+                                volumes and supplements published since 1960 and includes information
+                                on ordering forms of printed copies."</div>
+                        </dd>
+
+                        <dt class="field">domain</dt>
+                        <dd>A <span class="code">string</span> of n characters containing the primary
+                            domain name of the resource url. <br /> Example: <div class="code"
+                                >"domain": "anthropology.jp"</div>
+                        </dd>
+
+                        <dt class="field">editors</dt>
+                        <dd>A <span class="code">list</span> (length: 0-n) of <span class="code"
+                                >string</span>s each containing an editor's name. See <span
+                                class="field">authors</span> for example.</dd>
+
+                        <dt class="field">end_date</dt>
+                        <dd></dd>
+
+                        <dt class="field">extent</dt>
+                        <dd></dd>
+
+                        <dt class="field">form</dt>
+                        <dd></dd>
+
+                        <dt class="field">frequency</dt>
+                        <dd></dd>
+
+                        <dt class="field">identifiers</dt>
+                        <dd></dd>
+
+                        <dt class="field">is_part_of</dt>
+                        <dd></dd>
+
+                        <dt class="field">issuance</dt>
+                        <dd></dd>
+
+                        <dt class="field">issue</dt>
+                        <dd></dd>
+
+                        <dt class="field">issued_dates</dt>
+                        <dd></dd>
+
+                        <dt class="field">keywords</dt>
+                        <dd></dd>
+
+                        <dt class="field">languages</dt>
+                        <dd></dd>
+
+                        <dt class="field">places</dt>
+                        <dd></dd>
+
+                        <dt class="field">provenance</dt>
+                        <dd></dd>
+
+                        <dt class="field">publishers</dt>
+                        <dd></dd>
+
+                        <dt class="field">related_resources</dt>
+                        <dd></dd>
+
+                        <dt class="field">resource_key</dt>
+                        <dd></dd>
+
+                        <dt class="field">responsibility</dt>
+                        <dd></dd>
+
+                        <dt class="field">start_date</dt>
+                        <dd></dd>
+
+                        <dt class="field">subordinate_resources</dt>
+                        <dd></dd>
+
+                        <dt class="field">title</dt>
+                        <dd></dd>
+
+                        <dt class="field">title_alternates</dt>
+                        <dd></dd>
+
+                        <dt class="field">title_extended</dt>
+                        <dd></dd>
+
+                        <dt class="field">type</dt>
+                        <dd></dd>
+
+                        <dt class="field">url</dt>
+                        <dd></dd>
+
+                        <dt class="field">url_alternates</dt>
+                        <dd></dd>
+
+                        <dt class="field">volume</dt>
+                        <dd></dd>
+
+                        <dt class="field">year</dt>
+                        <dd></dd>
+
+                        <dt class="field">zenon_id</dt>
+                        <dd></dd>
+
+                        <dt class="field">zotero_id</dt>
+                        <dd></dd>
+
+
+                    </dl></dd>
+                <dt id="formats">Data Formats</dt>
+                <dd><span class="title">The AWOL Index</span> uses JavaScript Object Notation (JSON)
+                    to store the structured bibliographic records dervied from <span class="title"
+                        >AWOL</span> blog posts. The HTML pages and indexes are derived from these
+                    JSON files. See <a href="#data-model">data model</a> for information about the
+                    fields used in the JSON files.</dd>
+
+                <dt id="data-model">Data Model</dt>
+                <dd>The records that <span class="title">isaw.awol</span> produces conform to a flat,
+                    idiosyncratic data model informed by the <a class="title"
+                        href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</a>
+                    and the <a class="title" href="http://www.loc.gov/standards/mods/">Metadata
+                        Object Description Schema (MODS)</a> (among others). We chose to create our
+                    own data model in JSON rather than an established, standard format for several
+                    reasons: <ul class="tight bullet">
+                        <li>the varied and idiosyncratic nature of the material being catalogued
+                            necessitates a format and schema that can be modified on the fly as new
+                            attributes of interest are identified</li>
+                        <li>JSON is quick and easy to read and write from Python</li>
+                        <li>JSON is terse, unambiguous, and easily read with any text editor</li>
+                        <li>JSON is is well understood as a format by developers outside humanities
+                            and library software communities and readily used in web
+                            applications</li>
+                    </ul> We anticipate no difficulty in converting JSON to other formats for use in
+                    other systems. <br /> See our <a href="#dictionary">Data Dictionary</a> for
+                    definitions of all data fields.</dd>
+
+                <dt>Deduplication</dt>
+                <dd>Many resources are cited more than once in <span class="title">AWOL</span>, but
+                        <span class="title">The AWOL Index</span> should only have one record for
+                    each resource. Cases of such repetition occur both within a single blog post
+                    (e.g., when the title of a single thesis appears multiple times in a list, once
+                    under each of several categories) and accross blog posts (e.g., in a descriptive
+                    post about a single journal and in another post that lists a large number of
+                    journals on a particular topic). It is necessary, therefore, for <span
+                        class="title">isaw.awol</span> to detect each repetition of a resource and
+                    judiciously to merge the data extracted in association with each. <br />
+                    Repetition is detected during a parse session by keeping a list of resource keys
+                    parsed previously during that session (see <a href="#naming">Record Naming</a>
+                    for more information on resource keys). If a newly created resource key matches a
+                    key already stored in the list, <span class="title">isaw.awol</span> reads the
+                    previous resource record in from the corresponding JSON file and then attempts to
+                    merge the newly parsed information into that record before saving it again.
+                    <br /> Merge logic is conservative: best efforts are made to prevent discard of
+                    data from either record. Identical values, of course, are always retained in the
+                    result. When a particular field in one record is empty but in the other holds a
+                    value, the value is propagated. When the field is a complex data type (like a
+                    list of keywords), and the two records have differing values, the union set is
+                    propagated. Only when both records have empty fields, or conflicting simple
+                    values (e.g., if one contained "1923" in the <span class="code">year</span> field
+                    and the other contained "1924"), is the merged output field left empty. In the
+                    latter case, an warning message is generated and noted by the operator subsequent
+                    investigation on the assumption that the parse logic in <span class="title"
+                        >isaw.awol</span> is not coping well with content or structure in a
+                    particular blog post. </dd>
+
+                <dt>Language Identification</dt>
+                <dd><span class="title">AWOL</span> blog posts do not generally contain a clear
+                    indication of the language of the resources being described; however, they do
+                    frequently contain descriptive text copied from the home page of the resource,
+                    and this often is in the language of the resource itself. The <span class="title"
+                        >isaw.awol</span> package feeds the contents of the resource title and
+                    description to <a href="https://github.com/saffsd/langid.py">Marco Lui's <span
+                            class="title">langid</span> package</a> in an attempt to classify the
+                    language in question. If <span class="code">langid.classify()</span> returns a
+                    language identification with a confidence value greater than or equal to 0.98,
+                    the language code and confidence value are stored in the JSON record.</dd>
+
+                <dt>Provenance</dt>
+                <dd>isaw.awol embeds provenance information in each <span class="title">AWOL
+                        Index</span> record. We employ terms from two open vocabularies to express
+                    relationships between each <span class="title">AWOL Index</span> record and one
+                    or more other sources. When we extract information from an <span class="title"
+                        >AWOL</span> blog post</dd>
+
+                <dt id="naming">Record Naming</dt>
+                <dd></dd>
+                <dt>Structured Data</dt>
+                <dd><span class="title">AWOL</span> blog posts are descriptive documents. In
+                    contrast, the individual entries in <span class="title">The AWOL Index</span> are
+                    structured data records in which the discrete elements of description (metadata)
+                    have been separated into standard fields. None of the HTML tags in the original
+                    blog posts are carried over into <span class="title">The AWOL Index</span>
+                    records. Original HTML structure and formatting is used extensively to facilitate
+                    parsing of the original blog posts, but these elements — which necessarily vary
+                    widely in the original content — are superseded by the uniform structure of the
+                    data model imposed by <span class="title">The AWOL Index</span>.</dd>
+                <dt>Text Encoding and Normalization</dt>
+                <dd>All text in HTML files is <a href="https://en.wikipedia.org/wiki/UTF-8">UTF-8</a>
+                    encoded. All text in JSON files is also UTF-8 encoded; however, all characters
+                    therein whose <a href="https://en.wikipedia.org/wiki/Unicode">Unicode</a> code
+                    points fall outside the <a
+                        href="https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)">Basic Latin
+                        block</a> (i.e., non-<a
+                        title="American Standard Code for Information Interchange"
+                        href="https://en.wikipedia.org/wiki/ASCII">ASCII</a> characters) have been
+                    escaped using <a
+                        href="https://docs.python.org/2/howto/unicode.html#unicode-literals-in-python-source-code"
+                        >the standard Python notation for "Unicode literals"</a>. <br /> Content from
+                        <span class="title">AWOL</span> is, in part, collected from a vast variety of
+                    web pages around the world. Consequently, the original text formatting, <a
+                        href="https://en.wikipedia.org/wiki/Character_encoding">character
+                        encoding</a>, and associated factors (e.g., <a
+                        href="http://unicode.org/reports/tr15/">Unicode Normalization Form</a>) also
+                    vary. Jones is at pains when collecting and updating information to ensure that
+                    all text incorporated into the blog, regardless of original language, writing
+                    system, and encoding, displays in a readably consistent manner in modern web
+                    browsers. This effort helps ensure that the <span class="title">AWOL</span>
+                    export file (in <a href="https://tools.ietf.org/html/rfc4287">Atom format</a>)
+                    that is parsed to produce <span class="title">The AWOL Index</span> conveys all
+                    textual content using the UTF-8 encoding. The <span class="title"
+                        >isaw.awol</span> package takes further steps to detect and repair text whose
+                    character encoding or HTML structure is broken, deploying <a
+                        href="http://www.crummy.com/software/BeautifulSoup/">Leonard Richardson's
+                            <span class="title">Beautiful Soup</span></a> Python library for the
+                    purpose. <br /> Text is further normalized to facilitate consistent display,
+                    sorting, searching, and comparison in downstream and third-party processing. All
+                    character text is converted to <a
+                        href="http://unicode.org/reports/tr15/#Norm_Forms">Unicode Normalization Form
+                        C (NFC)</a>. The Python standard <a
+                        href="https://docs.python.org/2/library/unicodedata.html">unicodedata</a>
+                    library is used for this purpose. A number of character replacements are
+                    performed as well, including the conversion of: <ul class="tight bullet">
+                        <li>all hyphen and dash variants (including non-breaking and "soft" hyphens)
+                            into simple hyphens,</li>
+                        <li>left- and right-double quotation marks (and "Microsoft Smart Quotes")
+                            into simple double quotation marks,</li>
+                        <li>the Unicode ellipsis character (\u2026) into a string of three simple
+                            periods (full stops), and</li>
+                        <li>all continuous strings of one or more whitespace characters (including
+                            tabs, new lines, and non-breaking spaces) into a single simple space
+                            character.</li>
+                    </ul>
+                    <span class="title">isaw.awol</span> sometimes adds periods (full stops) to text
+                    in place of HTML &lt;br&gt; tags when the text will be used as part of a longer
+                    description.</dd>
+            </dl>
+        </div>
+    </body>
 </html>
