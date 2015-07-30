@@ -477,7 +477,14 @@
                         <dd></dd>
 
                         <dt class="field">resource_key</dt>
-                        <dd></dd>
+                            <dd>A <span class="code">string</span> of 1-n characters containing a unique identifier for the record in the context of the associated resource hostname. May not contain whitespace or newline characters. See further <a href="#naming">Record Naming</a>, below.<br />
+                            Examples: <div class="code">
+                                <ul class="tight">
+                                    <li>"resource_key": "abstractairanica-revues-org"</li>
+                                    <li>"resource_key": "LuwianCorpus-search"</li>
+                                    <li>"resource_key": "df06ecac37cbb6cd8695b618fe85709e21311cb9"</li>
+                                </ul>
+                            </div></dd>
 
                         <dt class="field">responsibility</dt>
                         <dd></dd>
@@ -613,7 +620,34 @@
                         Motif Ontology</a>.</dd>
 
                 <dt id="naming">Record Naming</dt>
-                <dd></dd>
+                <dd>Each record in the <span class="title">AWOL Index</span> needs a unique
+                    identifier for retrieval, filenaming, and other tasks. We use a two-part "context
+                    and key" approach. Records are grouped by the hostname portion of the URL
+                    associated with the resource it describes (e.g. www.perseus.tufts.edu or
+                    trismegistos.org). Within each group, each record gets a unique "resource key"
+                    that identifies it in the context of that host domain. Ideally, we would use the
+                    "slug" portion of the resource URL (i.e., everything after the hostname portion),
+                    but this is impractical for several reasons, including the massive length of some
+                    URLs, the inclusion in many of application-related elements that confer little
+                    value as titles or filenames (e.g., "php"), and the appearance of characters
+                    inimical to or annoying to deal with in filenames. Therefore, isaw.awol uses the
+                    following heuristics to construct the resource key for each record: <ul class="tight bullet">
+                        <li>seperate the slug from the host and protocol portions of the URL</li>
+                        <li>if the URL has no slug (i.e., the resource being described is located at
+                            the top level of the specified host name), then re-use the domain name in
+                            the following steps as if it were the URL slug</li>
+                        <li>in the slug, replace all slashes, spaces, periods (full stops), commas,
+                            and the like with hyphens</li>
+                        <li>normalize repetitive characters</li>
+                        <li>if the result is longer than 80 characters or contains ampersands,
+                            question marks or whitespace, calculate a hash value from the modified
+                            slug using the <a href="https://en.wikipedia.org/wiki/SHA-1">SHA1</a>
+                            algorithm.</li>
+                        <li>The result, or the hexadecimal digest of the SHA1 hash (if necessary), is
+                            used as the value of the resource key.</li>
+                    </ul> Resource keys are not only used for filenaming, they are embedded in the
+                    records themsleves. They are also used to detect duplication (q.v.) during
+                    parsing. </dd>
 
                 <dt>Structured Data</dt>
                 <dd><span class="title">AWOL</span> blog posts are descriptive documents. In
