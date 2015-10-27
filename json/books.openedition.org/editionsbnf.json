@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00c9ditions de la Biblioth\u00e8que nationale de France. at.", 
+    "description": "Éditions de la Bibliothèque nationale de France. at.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c9ditions de la Biblioth\u00e8que nationale de France", 
+        "title_full": "Éditions de la Bibliothèque nationale de France", 
         "url": "http://books.openedition.org/editionsbnf"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686", 
             "resource_date": "2014-10-29T11:00:17.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.531533"
+            "when": "2015-10-27T18:38:45.560673"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html", 
             "resource_date": "2014-10-29T11:00:17.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.531550"
+            "when": "2015-10-27T18:38:45.560687"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2443650188443020686", 
             "resource_date": "2014-10-29T11:00:17.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.533385"
+            "when": "2015-10-27T18:38:45.562788"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/editions-de-la-bibliotheque-nationale.html", 
             "resource_date": "2014-10-29T11:00:17.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.533396"
+            "when": "2015-10-27T18:38:45.562802"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:37.545282"
+            "when": "2015-10-27T18:38:45.574835"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "\u00c9ditions de la Biblioth\u00e8que nationale de France", 
+            "title_full": "Éditions de la Bibliothèque nationale de France", 
             "url": "http://books.openedition.org/editionsbnf"
         }, 
         {
@@ -149,19 +149,19 @@
             "url": "http://books.openedition.org/"
         }, 
         {
-            "title_full": "Les intailles magiques du d\u00e9partement des Monnaies, M\u00e9dailles et Antiques Attilio Mastrocinque 2014", 
+            "title_full": "Les intailles magiques du département des Monnaies, Médailles et Antiques Attilio Mastrocinque 2014", 
             "url": "http://books.openedition.org/editionsbnf/1182"
         }, 
         {
-            "title_full": "Tr\u00e9sors mon\u00e9taires XXV 2011-2012 | Saint-Jean-d\u2019Ardi\u00e8res (Rh\u00f4ne), Magny-Cours (Ni\u00e8vre), Gisors (Eure) et \u200eautres tr\u00e9sors Michel Amandry (dir.)", 
+            "title_full": "Trésors monétaires XXV 2011-2012 | Saint-Jean-d’Ardières (Rhône), Magny-Cours (Nièvre), Gisors (Eure) et ‎autres trésors Michel Amandry (dir.)", 
             "url": "http://books.openedition.org/editionsbnf/547"
         }, 
         {
-            "title_full": "Statuettes fun\u00e9raires \u00e9gyptiennes du d\u00e9partement des Monnaies, M\u00e9dailles et Antiques Jacques Fran\u00e7ois Aubert et Liliane Aubert 2005 ..", 
+            "title_full": "Statuettes funéraires égyptiennes du département des Monnaies, Médailles et Antiques Jacques François Aubert et Liliane Aubert 2005 ..", 
             "url": "http://books.openedition.org/editionsbnf/203"
         }
     ], 
-    "title": "\u00c9ditions de la Biblioth\u00e8que nationale de France", 
+    "title": "Éditions de la Bibliothèque nationale de France", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

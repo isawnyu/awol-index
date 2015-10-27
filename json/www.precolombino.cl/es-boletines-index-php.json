@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bolet\u00edn del Museo Chileno de Arte Precolombino. ISSN: 0716-1530. EISSN: 0718-6894. El Bolet\u00edn del Museo Chileno de Arte Precolombino es una revista bianual fundada en marzo de 1985. Su objetivo es publicar art\u00edculos, ensayos e informes de investigaci\u00f3n en espa\u00f1ol o ingl\u00e9s sobre arte y simbolismo aborigen americano, especialmente pre-europeo. Actualmente es la \u00fanica publicaci\u00f3n en Latinoam\u00e9rica especializada en estos temas. The only periodical in Latin America specialized in these subjectsSee the full.", 
+    "description": "Boletín del Museo Chileno de Arte Precolombino. ISSN: 0716-1530. EISSN: 0718-6894. El Boletín del Museo Chileno de Arte Precolombino es una revista bianual fundada en marzo de 1985. Su objetivo es publicar artículos, ensayos e informes de investigación en español o inglés sobre arte y simbolismo aborigen americano, especialmente pre-europeo. Actualmente es la única publicación en Latinoamérica especializada en estos temas. The only periodical in Latin America specialized in these subjectsSee the full.", 
     "domain": "www.precolombino.cl", 
     "editors": [], 
     "end_date": null, 
@@ -19,7 +19,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Bolet\u00edn del Museo Chileno de Arte Precolombino", 
+        "title_full": "Boletín del Museo Chileno de Arte Precolombino", 
         "url": "http://www.precolombino.cl/es/boletines/index.php"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-171996821659180642", 
             "resource_date": "2012-05-15T09:27:00.123-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:56.523855"
+            "when": "2015-10-27T18:38:01.176304"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-boletin-del-museo.html", 
             "resource_date": "2012-05-15T09:27:00.123-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:56.523879"
+            "when": "2015-10-27T18:38:01.176321"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-171996821659180642", 
             "resource_date": "2012-05-15T09:27:00.123-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:56.528129"
+            "when": "2015-10-27T18:38:01.180741"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-boletin-del-museo.html", 
             "resource_date": "2012-05-15T09:27:00.123-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:56.528142"
+            "when": "2015-10-27T18:38:01.180755"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:56.530678"
+            "when": "2015-10-27T18:38:01.182750"
         }
     ], 
     "publishers": [], 
@@ -152,11 +152,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bolet\u00edn del Museo Chileno de Arte Precolombino", 
+            "title_full": "Boletín del Museo Chileno de Arte Precolombino", 
             "url": "http://www.precolombino.cl/es/boletines/index.php"
         }
     ], 
-    "title": "Bolet\u00edn del Museo Chileno de Arte Precolombino", 
+    "title": "Boletín del Museo Chileno de Arte Precolombino", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

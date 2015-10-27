@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Quaderni di Erga-Logoi. Erga-Logoi \u00e8 una rivista, soggetta a peer-review, di storia, letteratura, diritto e culture dell'antichit\u00e0; un concetto, quest'ultimo, da intendere in senso ampio sul piano dell'estensione geografica e cronologica. Il titolo \u00e8 stato scelto per sottolineare, evocando il proemio metodologico di Tucidide - bench\u00e9 la contrapposizione abbia ovviamente, in quel contesto, valore diverso -, l'intento di guardare al mondo antico prestando attenzione sia al \"fatto\" (gli eventi storici, la produzione artistica, la cultura materiale), sia al \"detto\" (il discorso poetico, letterario, storico, normativo nella sua forma orale e scritta). TRA MARGINALIT\u00c0 E INTEGRAZIONE. Aspetti dell\u2019assistenza sociale nel mondo greco e romano A cura di Umberto Roberto e Paolo A. Tuci. Maria Federica Petraccia. INDICES E DELATORES NELL\u2019ANTICA ROMA. Occultiore indicio proditus; in occultas delatus insidias Paolo Andrea Tuci. LA FRAGILIT\u00c0 DELLA DEMOCRAZIA. Manipolazione istituzionale ed eversione nel colpo di Stato oligarchico del 411 a. C. ad Atene Gianpaolo Urso. CASSIO DIONE E I SOVVERSIVI. La crisi della Repubblica nei frammenti della \u00abStoria romana\u00bb (XXI-XXX). See also.", 
+    "description": "Quaderni di Erga-Logoi. Erga-Logoi è una rivista, soggetta a peer-review, di storia, letteratura, diritto e culture dell'antichità; un concetto, quest'ultimo, da intendere in senso ampio sul piano dell'estensione geografica e cronologica. Il titolo è stato scelto per sottolineare, evocando il proemio metodologico di Tucidide - benché la contrapposizione abbia ovviamente, in quel contesto, valore diverso -, l'intento di guardare al mondo antico prestando attenzione sia al \"fatto\" (gli eventi storici, la produzione artistica, la cultura materiale), sia al \"detto\" (il discorso poetico, letterario, storico, normativo nella sua forma orale e scritta). TRA MARGINALITÀ E INTEGRAZIONE. Aspetti dell’assistenza sociale nel mondo greco e romano A cura di Umberto Roberto e Paolo A. Tuci. Maria Federica Petraccia. INDICES E DELATORES NELL’ANTICA ROMA. Occultiore indicio proditus; in occultas delatus insidias Paolo Andrea Tuci. LA FRAGILITÀ DELLA DEMOCRAZIA. Manipolazione istituzionale ed eversione nel colpo di Stato oligarchico del 411 a. C. ad Atene Gianpaolo Urso. CASSIO DIONE E I SOVVERSIVI. La crisi della Repubblica nei frammenti della «Storia romana» (XXI-XXX). See also.", 
     "domain": "www.ledonline.it", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8005218072273375528", 
             "resource_date": "2015-04-07T08:53:47.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:08.951905"
+            "when": "2015-10-27T18:46:56.384968"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-monograph-series-quaderni.html", 
             "resource_date": "2015-04-07T08:53:47.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:08.951924"
+            "when": "2015-10-27T18:46:56.384984"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8005218072273375528", 
             "resource_date": "2015-04-07T08:53:47.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:08.959696"
+            "when": "2015-10-27T18:46:56.388959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-monograph-series-quaderni.html", 
             "resource_date": "2015-04-07T08:53:47.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:08.959717"
+            "when": "2015-10-27T18:46:56.388973"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:08.985438"
+            "when": "2015-10-27T18:46:56.402195"
         }
     ], 
     "publishers": [], 
@@ -148,7 +148,7 @@
             "url": "http://www.ledonline.it/ledonline/ebooks.html#Erga-Logoi"
         }, 
         {
-            "title_full": "TRA MARGINALIT\u00c0 E INTEGRAZIONE. Aspetti dell\u2019assistenza sociale nel mondo greco e romano", 
+            "title_full": "TRA MARGINALITÀ E INTEGRAZIONE. Aspetti dell’assistenza sociale nel mondo greco e romano", 
             "url": "http://www.ledonline.it/index.php/Erga-Logoi/pages/view/qel-4-marginalita-integrazione"
         }, 
         {
@@ -156,11 +156,11 @@
             "url": "http://www.ledonline.it/index.php/Erga-Logoi/pages/view/qel-3-indices-delatores"
         }, 
         {
-            "title_full": "LA FRAGILIT\u00c0 DELLA DEMOCRAZIA. Manipolazione istituzionale ed eversione nel colpo di Stato oligarchico del 411 a.C. ad Atene", 
+            "title_full": "LA FRAGILITÀ DELLA DEMOCRAZIA. Manipolazione istituzionale ed eversione nel colpo di Stato oligarchico del 411 a.C. ad Atene", 
             "url": "http://www.ledonline.it/index.php/Erga-Logoi/pages/view/qel-2-atene-democrazia"
         }, 
         {
-            "title_full": "CASSIO DIONE E I SOVVERSIVI. La crisi della Repubblica nei frammenti della \u00abStoria romana\u00bb (XXI-XXX)", 
+            "title_full": "CASSIO DIONE E I SOVVERSIVI. La crisi della Repubblica nei frammenti della «Storia romana» (XXI-XXX)", 
             "url": "http://www.ledonline.it/index.php/Erga-Logoi/pages/view/qel-1-cassio-dione"
         }
     ], 

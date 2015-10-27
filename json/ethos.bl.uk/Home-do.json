@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5612745048610584037", 
             "resource_date": "2009-03-31T11:57:34.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:07.307099"
+            "when": "2015-10-27T18:43:39.262216"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/03/ethos-electronic-theses-online-service.html", 
             "resource_date": "2009-03-31T11:57:34.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:07.307117"
+            "when": "2015-10-27T18:43:39.262238"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5612745048610584037", 
             "resource_date": "2009-03-31T11:57:34.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:07.313937"
+            "when": "2015-10-27T18:43:39.270355"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/03/ethos-electronic-theses-online-service.html", 
             "resource_date": "2009-03-31T11:57:34.436-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:07.313953"
+            "when": "2015-10-27T18:43:39.270369"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:07.315368"
+            "when": "2015-10-27T18:43:39.272303"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-628569442147137787", 
             "resource_date": "2010-04-05T12:04:24.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:58.102022"
+            "when": "2015-10-27T18:44:35.227529"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/ethos-electronic-thesis-online-service.html", 
             "resource_date": "2010-04-05T12:04:24.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:58.102044"
+            "when": "2015-10-27T18:44:35.227547"
         }, 
         {
             "fields": [
@@ -195,7 +195,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:58.108496"
+            "when": "2015-10-27T18:44:35.233428"
         }, 
         {
             "fields": [
@@ -236,13 +236,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-628569442147137787", 
             "resource_date": "2010-04-05T12:04:24.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:58.104392"
+            "when": "2015-10-27T18:44:35.229546"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/ethos-electronic-thesis-online-service.html", 
             "resource_date": "2010-04-05T12:04:24.316-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:58.104409"
+            "when": "2015-10-27T18:44:35.229562"
         }, 
         {
             "fields": [
@@ -258,7 +258,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:58.110542"
+            "when": "2015-10-27T18:44:35.236120"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: K\u00fcmmel, C. and Schweizer, B. and Veit, U. (Hrsgg. ): K\u00f6rperinszenierungen - Objektsammlung - Monumentalisierung: Totenritual und Grabkult in fr\u00fchen Gesellschaften. M\u00fcnster 2008, pp. 207-232. Nov\u00e1k, Mirko (1999).", 
+    "description": "In: Kümmel, C. and Schweizer, B. and Veit, U. (Hrsgg. ): Körperinszenierungen - Objektsammlung - Monumentalisierung: Totenritual und Grabkult in frühen Gesellschaften. Münster 2008, pp. 207-232. Novák, Mirko (1999).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.717885"
+            "when": "2015-10-27T18:46:23.475455"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.717903"
+            "when": "2015-10-27T18:46:23.475471"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Individuum oder Kollektiv? Zur kulturgeschichtlichen Stellung der K\u00f6nigsgruft von Qatna", 
+    "title": "Individuum oder Kollektiv? Zur kulturgeschichtlichen Stellung der Königsgruft von Qatna", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anciens num\u00e9ros.", 
+    "description": "Anciens numéros.", 
     "domain": "www.enim-egyptologie.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ENIM: \u00c9gypte nilotique et m\u00e9diterran\u00e9enne", 
+        "title_full": "ENIM: Égypte nilotique et méditerranéenne", 
         "url": "http://www.enim-egyptologie.fr/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5093179447718198916", 
             "resource_date": "2014-12-18T15:00:55.053-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.018945"
+            "when": "2015-10-27T18:43:12.503186"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-enim-egypte.html", 
             "resource_date": "2014-12-18T15:00:55.053-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.018958"
+            "when": "2015-10-27T18:43:12.503198"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sydney H. Aufr\u00e8re Crocodilus lacrymans. Les \u00ab larmes \u00bb et la \u00ab compassion \u00bb du saurien du Nil. (ENIM 7, p. 1-12 - 28 f\u00e9vrier 2014)", 
+    "title": "Sydney H. Aufrère Crocodilus lacrymans. Les « larmes » et la « compassion » du saurien du Nil. (ENIM 7, p. 1-12 - 28 février 2014)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

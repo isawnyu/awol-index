@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft, 46 (1892), pp. 93-129. Erman, Adolf (1900).", 
+    "description": "In: Zeitschrift der Deutschen Morgenländischen Gesellschaft, 46 (1892), pp. 93-129. Erman, Adolf (1900).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:51.999243"
+            "when": "2015-10-27T18:40:03.401959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:51.999260"
+            "when": "2015-10-27T18:40:03.401976"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das Verh\u00e4ltniss des Aegytpischen zu den semitischen Sprachen", 
+    "title": "Das Verhältniss des Aegytpischen zu den semitischen Sprachen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

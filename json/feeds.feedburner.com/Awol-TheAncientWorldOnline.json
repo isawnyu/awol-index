@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5907412351553155526", 
             "resource_date": "2012-03-08T12:11:42.168-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.057946"
+            "when": "2015-10-27T18:44:08.211622"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/awol-administrative-note-and-statistics.html", 
             "resource_date": "2012-03-08T12:11:42.168-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.057963"
+            "when": "2015-10-27T18:44:08.211639"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5907412351553155526", 
             "resource_date": "2012-03-08T12:11:42.168-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.060017"
+            "when": "2015-10-27T18:44:08.213645"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/awol-administrative-note-and-statistics.html", 
             "resource_date": "2012-03-08T12:11:42.168-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.060030"
+            "when": "2015-10-27T18:44:08.213657"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:34.061487"
+            "when": "2015-10-27T18:44:08.215580"
         }, 
         {
             "fields": [
@@ -179,13 +179,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9070065141097868763", 
             "resource_date": "2012-03-08T12:10:39.511-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:18.846861"
+            "when": "2015-10-27T18:49:16.919321"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/awol-administrative-note-and-statistics.html", 
             "resource_date": "2012-03-08T12:10:39.511-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:18.846879"
+            "when": "2015-10-27T18:49:16.919339"
         }, 
         {
             "fields": [
@@ -200,7 +200,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:18.850797"
+            "when": "2015-10-27T18:49:16.923425"
         }, 
         {
             "fields": [
@@ -241,13 +241,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9070065141097868763", 
             "resource_date": "2012-03-08T12:10:39.511-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:18.849681"
+            "when": "2015-10-27T18:49:16.922132"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/awol-administrative-note-and-statistics.html", 
             "resource_date": "2012-03-08T12:10:39.511-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:18.849694"
+            "when": "2015-10-27T18:49:16.922144"
         }, 
         {
             "fields": [
@@ -262,7 +262,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:18.852817"
+            "when": "2015-10-27T18:49:16.925878"
         }
     ], 
     "publishers": [], 

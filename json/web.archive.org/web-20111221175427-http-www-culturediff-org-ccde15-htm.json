@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "n\u00b015, 2011.", 
+    "description": "n°15, 2011.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353794619872537154", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.463698"
+            "when": "2015-10-27T18:40:45.598216"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.463709"
+            "when": "2015-10-27T18:40:45.598231"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Cahiers Carib\u00e9ens d'Egyptologie", 
+    "title": "Cahiers Caribéens d'Egyptologie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

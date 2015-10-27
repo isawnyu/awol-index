@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "]. Consacr\u00e9es \u00e0 la p\u00e9ninsule Arabique et \u00e0 la Corne de l\u2019Afrique, les Chroniques Y\u00e9m\u00e9nites sont une revue annuelle en langues fran\u00e7aise et arabe, \u00e9dit\u00e9e depuis 1993 par le Centre fran\u00e7ais d\u2019arch\u00e9ologie et de sciences sociales de Sanaa (minist\u00e8re des Affaires \u00e9trang\u00e8res/CNRS). Y sont regroup\u00e9s des bilans de recherche, des traductions et des bibliographies th\u00e9matiques, relevant de toutes les disciplines des sciences humaines et sociales, de l\u2019arch\u00e9ologie antique \u00e0 la litt\u00e9rature contemporaine, en passant par l\u2019\u00e9conomie, l\u2019anthropologie ou la politique.", 
+    "description": "]. Consacrées à la péninsule Arabique et à la Corne de l’Afrique, les Chroniques Yéménites sont une revue annuelle en langues française et arabe, éditée depuis 1993 par le Centre français d’archéologie et de sciences sociales de Sanaa (ministère des Affaires étrangères/CNRS). Y sont regroupés des bilans de recherche, des traductions et des bibliographies thématiques, relevant de toutes les disciplines des sciences humaines et sociales, de l’archéologie antique à la littérature contemporaine, en passant par l’économie, l’anthropologie ou la politique.", 
     "domain": "cy.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Chroniques Y\u00e9m\u00e9nites", 
+        "title_full": "Chroniques Yéménites", 
         "url": "http://cy.revues.org/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-70689484269502789", 
             "resource_date": "2015-06-25T12:00:14.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.659753"
+            "when": "2015-10-27T18:45:23.187586"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-chroniques.html", 
             "resource_date": "2015-06-25T12:00:14.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.659776"
+            "when": "2015-10-27T18:45:23.187601"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603139550569042129", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:04.768569"
+            "when": "2015-10-27T18:47:56.478569"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/new-open-access-journal-arabian.html", 
             "resource_date": "2015-06-25T12:02:59.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:04.768588"
+            "when": "2015-10-27T18:47:56.478581"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:04.899238"
+            "when": "2015-10-27T18:47:56.556755"
         }
     ], 
     "publishers": [], 

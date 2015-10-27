@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479299857201825874", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:56.810942"
+            "when": "2015-10-27T18:47:47.556280"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/epsd-pennsylvania-sumerian-dictionary.html", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:56.810959"
+            "when": "2015-10-27T18:47:47.556297"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479299857201825874", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:56.813705"
+            "when": "2015-10-27T18:47:47.559213"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/epsd-pennsylvania-sumerian-dictionary.html", 
             "resource_date": "2014-01-16T11:42:07.404-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:56.813717"
+            "when": "2015-10-27T18:47:47.559224"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:56.822987"
+            "when": "2015-10-27T18:47:47.569762"
         }
     ], 
     "publishers": [], 

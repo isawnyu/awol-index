@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "vous inscrire pour \u00eatre averti par courrier \u00e9lectronique de chaque nouvelle parution.", 
+    "description": "vous inscrire pour être averti par courrier électronique de chaque nouvelle parution.", 
     "domain": "www.landarc.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6387817300579794384", 
             "resource_date": "2014-05-22T14:53:28.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.787421"
+            "when": "2015-10-27T18:44:40.386632"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/new-open-access-journal-les-cahiers.html", 
             "resource_date": "2014-05-22T14:53:28.006-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.787437"
+            "when": "2015-10-27T18:44:40.386646"
         }
     ], 
     "publishers": [], 

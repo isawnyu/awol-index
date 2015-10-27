@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "MUDIRA: MUnich DIgital Research Archives. MUnich DIgital Research Archives ist ein im Fr\u00fchjahr 2012 gestartetes Gemeinschaftsprojekt des Instituts f\u00fcr \u00c4gyptologie der LMU M\u00fcnchen und des Staatlichen Museums \u00c4gyptischer Kunst M\u00fcnchen (SM\u00c4K), in welchem die umfangreichen Bildbest\u00e4nde beider Institutionen zu Alt\u00e4gypten digitalisiert und zug\u00e4nglich gemacht werden. In der ersten (auf 2 bis 3 Jahre angelegten) Projektphase werden etwa 30. 000 als Kleinbild-Diapositive vorliegende Originalaufnahmen aus \u00c4gypten sowie von Best\u00e4nden \u00e4gyptischer Museen und Sammlungen professionell gescannt und im Rahmen einer durch die IT-Gruppe Geisteswissenschaften (ITG) der LMU erstellten Datenbank online pr\u00e4sentiert. Ziele des Projektes sind die Erleichterung des Zugangs zu den Bildern, die wissenschaftliche Aufbereitung der dazugeh\u00f6renden Informationen sowie letztendlich der Erhalt der oftmals wissenschaftshistorisch bedeutsamen Abbildungen auf einem zeitgem\u00e4\u00dfen Speichermedium. Der UNI DIA Verlag hat zudem seine knapp 6. 000 Bilder zu Alt\u00e4gypten in digitalisierter Form zur Verf\u00fcgung gestellt. Diese Bilder sind bereits komplett bearbeitet und abrufbar. In einem zweiten Schritt soll dann die Glasplattensammlung des M\u00fcnchner \u00c4gyptologischen Instituts digitalisiert und aufbereitet werden.", 
+    "description": "MUDIRA: MUnich DIgital Research Archives. MUnich DIgital Research Archives ist ein im Frühjahr 2012 gestartetes Gemeinschaftsprojekt des Instituts für Ägyptologie der LMU München und des Staatlichen Museums Ägyptischer Kunst München (SMÄK), in welchem die umfangreichen Bildbestände beider Institutionen zu Altägypten digitalisiert und zugänglich gemacht werden. In der ersten (auf 2 bis 3 Jahre angelegten) Projektphase werden etwa 30. 000 als Kleinbild-Diapositive vorliegende Originalaufnahmen aus Ägypten sowie von Beständen ägyptischer Museen und Sammlungen professionell gescannt und im Rahmen einer durch die IT-Gruppe Geisteswissenschaften (ITG) der LMU erstellten Datenbank online präsentiert. Ziele des Projektes sind die Erleichterung des Zugangs zu den Bildern, die wissenschaftliche Aufbereitung der dazugehörenden Informationen sowie letztendlich der Erhalt der oftmals wissenschaftshistorisch bedeutsamen Abbildungen auf einem zeitgemäßen Speichermedium. Der UNI DIA Verlag hat zudem seine knapp 6. 000 Bilder zu Altägypten in digitalisierter Form zur Verfügung gestellt. Diese Bilder sind bereits komplett bearbeitet und abrufbar. In einem zweiten Schritt soll dann die Glasplattensammlung des Münchner Ägyptologischen Instituts digitalisiert und aufbereitet werden.", 
     "domain": "mudira.gwi.uni-muenchen.de", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-51927873962314770", 
             "resource_date": "2013-05-22T14:09:38.467-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:46.763603"
+            "when": "2015-10-27T18:43:17.619110"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/mudira-munich-digital-research-archives.html", 
             "resource_date": "2013-05-22T14:09:38.467-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:46.763620"
+            "when": "2015-10-27T18:43:17.619126"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-51927873962314770", 
             "resource_date": "2013-05-22T14:09:38.467-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:46.765103"
+            "when": "2015-10-27T18:43:17.620940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/mudira-munich-digital-research-archives.html", 
             "resource_date": "2013-05-22T14:09:38.467-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:46.765115"
+            "when": "2015-10-27T18:43:17.620954"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:46.766646"
+            "when": "2015-10-27T18:43:17.622904"
         }
     ], 
     "publishers": [], 

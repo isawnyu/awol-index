@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift f\u00fcr J\u00fcrgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 53-77. Funke, Peter (2001).", 
+    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift für Jürgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 53-77. Funke, Peter (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.563149"
+            "when": "2015-10-27T18:46:45.729757"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.563163"
+            "when": "2015-10-27T18:46:45.729773"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zeit ist Geld. Kalendermanipulation und die \u00f6konomische Bedeutung des Schaltmonats", 
+    "title": "Zeit ist Geld. Kalendermanipulation und die ökonomische Bedeutung des Schaltmonats", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

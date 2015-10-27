@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Le mythe grec dans l\\'Italie antique. Fonction et image. Actes du colloque international, \u00c9cole Fran\u00e7aise de Rome 14. -16. 11. 96. Rom 1999, pp. 405-421. Krauskopf, Ingrid (1980).", 
+    "description": "In: Le mythe grec dans l\\'Italie antique. Fonction et image. Actes du colloque international, École Française de Rome 14. -16. 11. 96. Rom 1999, pp. 405-421. Krauskopf, Ingrid (1980).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:38.052479"
+            "when": "2015-10-27T18:48:31.888946"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:38.052497"
+            "when": "2015-10-27T18:48:31.888961"
         }
     ], 
     "publishers": [], 

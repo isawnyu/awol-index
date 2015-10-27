@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Die Umschau f\u00fcr Wissenschaft und Technik, 12 (1961), pp. 368-371. J\u00f6rdens, Karl Heinrich (1810).", 
+    "description": "In: Die Umschau für Wissenschaft und Technik, 12 (1961), pp. 368-371. Jördens, Karl Heinrich (1810).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:36.950030"
+            "when": "2015-10-27T18:48:30.594798"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:36.950056"
+            "when": "2015-10-27T18:48:30.594815"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die F\u00fcrstengr\u00e4ber der Skythen im Altai", 
+    "title": "Die Fürstengräber der Skythen im Altai", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

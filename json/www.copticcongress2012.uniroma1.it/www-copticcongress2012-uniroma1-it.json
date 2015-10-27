@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6036073534389133264", 
             "resource_date": "2014-01-31T09:44:35.421-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.086396"
+            "when": "2015-10-27T18:44:16.832370"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/tenth-international-congress-of-coptic.html", 
             "resource_date": "2014-01-31T09:44:35.421-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.086412"
+            "when": "2015-10-27T18:44:16.832386"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6036073534389133264", 
             "resource_date": "2014-01-31T09:44:35.421-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.088778"
+            "when": "2015-10-27T18:44:16.835026"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/tenth-international-congress-of-coptic.html", 
             "resource_date": "2014-01-31T09:44:35.421-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.088789"
+            "when": "2015-10-27T18:44:16.835040"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:42.109301"
+            "when": "2015-10-27T18:44:16.857133"
         }
     ], 
     "publishers": [], 
@@ -173,7 +173,7 @@
             "url": "http://www.copticcongress2012.uniroma1.it/Report_Goehring.pdf"
         }, 
         {
-            "title_full": "Karel C. Innem\u00e9e, Coptic Archaeology (2008-2012)", 
+            "title_full": "Karel C. Innemée, Coptic Archaeology (2008-2012)", 
             "url": "http://www.copticcongress2012.uniroma1.it/Report_Innemee.pdf"
         }, 
         {
@@ -185,7 +185,7 @@
             "url": "http://www.copticcongress2012.uniroma1.it/Report_Richter.pdf"
         }, 
         {
-            "title_full": "Sof\u00eda Torallas Tovar, Coptic Codicology and Palaeography (2004-2012)", 
+            "title_full": "Sofía Torallas Tovar, Coptic Codicology and Palaeography (2004-2012)", 
             "url": "http://www.copticcongress2012.uniroma1.it/Report_Torallas.pdf"
         }, 
         {

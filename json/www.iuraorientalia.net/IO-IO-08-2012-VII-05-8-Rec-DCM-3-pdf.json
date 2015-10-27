@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "- Valori, Giancarlo Elia, Nuovo Mediterraneo. Confine o rinascenza d\u2019Europa, Ed. Excelsior 1881, Milano 2011, pp. 228. (con Prefazione di Tarak Ben Ammar e Introduzione del Gen. Carlo Jean).", 
+    "description": "- Valori, Giancarlo Elia, Nuovo Mediterraneo. Confine o rinascenza d’Europa, Ed. Excelsior 1881, Milano 2011, pp. 228. (con Prefazione di Tarak Ben Ammar e Introduzione del Gen. Carlo Jean).", 
     "domain": "www.iuraorientalia.net", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6159741385010438132", 
             "resource_date": "2013-02-09T07:48:32.440-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:47.328862"
+            "when": "2015-10-27T18:44:22.895722"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-jurnal-iura-orientalia.html", 
             "resource_date": "2013-02-09T07:48:32.440-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:47.328876"
+            "when": "2015-10-27T18:44:22.895738"
         }
     ], 
     "publishers": [], 

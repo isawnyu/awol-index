@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Principia: Revista do Departamento de Letras Cl\u00e1ssicas e Orientais do Instituto de Letras da UERJ. ISSN: 1415-6881. O seu nome, em latim, significa \"princ\u00edpios\", os princ\u00edpios da Cultura Ocidental, cujas ra\u00edzes s\u00e3o gregas, hebraicas e latinas. Para uma publica\u00e7\u00e3o que congrega tal multiplicidade lingu\u00edstico-cultural, escolheu-se o latim como a l\u00edngua a figurar no t\u00edtulo, na medida em que as culturas hel\u00eanicas, hebraicas e, evidentemente, latinas foram, muitas vezes, divulgadas atrav\u00e9s do latim. PRINCIPIA \u00e9 uma revista voltada para o p\u00fablico que aprecia os estudos cl\u00e1ssicos e orientais, de maneira geral, e, mais especificamente, para os alunos de gradua\u00e7\u00e3o, que poder\u00e3o encontrar subs\u00eddios valiosos para seus estudos. - Edi\u00e7\u00e3o Atual. - Edi\u00e7\u00f5es Anteriores.", 
+    "description": "Principia: Revista do Departamento de Letras Clássicas e Orientais do Instituto de Letras da UERJ. ISSN: 1415-6881. O seu nome, em latim, significa \"princípios\", os princípios da Cultura Ocidental, cujas raízes são gregas, hebraicas e latinas. Para uma publicação que congrega tal multiplicidade linguístico-cultural, escolheu-se o latim como a língua a figurar no título, na medida em que as culturas helênicas, hebraicas e, evidentemente, latinas foram, muitas vezes, divulgadas através do latim. PRINCIPIA é uma revista voltada para o público que aprecia os estudos clássicos e orientais, de maneira geral, e, mais especificamente, para os alunos de graduação, que poderão encontrar subsídios valiosos para seus estudos. - Edição Atual. - Edições Anteriores.", 
     "domain": "www.e-publicacoes.uerj.br", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1431279839333251535", 
             "resource_date": "2015-04-19T08:10:39.454-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.787642"
+            "when": "2015-10-27T18:37:34.410432"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-access-journal-principia-revista.html", 
             "resource_date": "2015-04-19T08:10:39.454-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.787660"
+            "when": "2015-10-27T18:37:34.410449"
         }
     ], 
     "publishers": [], 
@@ -86,15 +86,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Edi\u00e7\u00e3o Atual", 
+            "title_full": "Edição Atual", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/issue/current"
         }, 
         {
-            "title_full": "Edi\u00e7\u00f5es Anteriores", 
+            "title_full": "Edições Anteriores", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/issue/archive"
         }, 
         {
-            "title_full": "AMOSTRA DE VERBETES IN\u00c9DITOS DA 18\u00aa EDI\u00c7\u00c3O DE \"DE ONDE V\u00caM AS PALAVRAS\"", 
+            "title_full": "AMOSTRA DE VERBETES INÉDITOS DA 18ª EDIÇÃO DE \"DE ONDE VÊM AS PALAVRAS\"", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13981"
         }, 
         {
@@ -102,7 +102,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13981/10675"
         }, 
         {
-            "title_full": "O MITO DE ORFEU NAS METAMORFOSES DE OV\u00cdDIO", 
+            "title_full": "O MITO DE ORFEU NAS METAMORFOSES DE OVÍDIO", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13982"
         }, 
         {
@@ -110,7 +110,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13982/10676"
         }, 
         {
-            "title_full": "O RECURSO ANTIT\u00c9TICO NO LIVRO II DA OBRA DE GESTIS MENDI DE SAA", 
+            "title_full": "O RECURSO ANTITÉTICO NO LIVRO II DA OBRA DE GESTIS MENDI DE SAA", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13983"
         }, 
         {
@@ -118,7 +118,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13983/10677"
         }, 
         {
-            "title_full": "\u00c9PICA: LUGARES E CAMINHOS", 
+            "title_full": "ÉPICA: LUGARES E CAMINHOS", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13984"
         }, 
         {
@@ -126,7 +126,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13984/10678"
         }, 
         {
-            "title_full": "ESTUDO DO INFINITIVO NA L\u00cdNGUA LATINA E PORTUGUESA", 
+            "title_full": "ESTUDO DO INFINITIVO NA LÍNGUA LATINA E PORTUGUESA", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13985"
         }, 
         {
@@ -134,7 +134,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/13985/10679"
         }, 
         {
-            "title_full": "A PRESEN\u00c7A DE PLAUTO E S\u00caNECA NA DRAMATURGIA LATINO-AMERICANA", 
+            "title_full": "A PRESENÇA DE PLAUTO E SÊNECA NA DRAMATURGIA LATINO-AMERICANA", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14397"
         }, 
         {
@@ -150,7 +150,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14398/10918"
         }, 
         {
-            "title_full": "A PERENE ESS\u00caNCIA DIVINA E A EF\u00caMERA OPINI\u00c3O: UMA BREVE APRECIA\u00c7\u00c3O DO LIVRO I DE SOBRE OS MIST\u00c9RIOS, DE J\u00c2MBLICO DE C\u00c1LCIS", 
+            "title_full": "A PERENE ESSÊNCIA DIVINA E A EFÊMERA OPINIÃO: UMA BREVE APRECIAÇÃO DO LIVRO I DE SOBRE OS MISTÉRIOS, DE JÂMBLICO DE CÁLCIS", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14399"
         }, 
         {
@@ -158,7 +158,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14399/10919"
         }, 
         {
-            "title_full": "A CONSTRU\u00c7\u00c3O DA \u00c9PICA DE VIRG\u00cdLIO E O IDEAL AUGUSTANO", 
+            "title_full": "A CONSTRUÇÃO DA ÉPICA DE VIRGÍLIO E O IDEAL AUGUSTANO", 
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14400"
         }, 
         {
@@ -166,7 +166,7 @@
             "url": "http://www.e-publicacoes.uerj.br/index.php/principia/article/view/14400/10920"
         }
     ], 
-    "title": "Principia: Revista do Departamento de Letras Cl\u00e1ssicas e Orientais do Instituto de Letras da UERJ", 
+    "title": "Principia: Revista do Departamento de Letras Clássicas e Orientais do Instituto de Letras da UERJ", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

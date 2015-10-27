@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "G. S. Meltzer: Euripides and the Poetics of Nostalgia, 2006. (Sanna Kittel\u00e4).", 
+    "description": "G. S. Meltzer: Euripides and the Poetics of Nostalgia, 2006. (Sanna Kittelä).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.787942"
+            "when": "2015-10-27T18:40:19.890400"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.787955"
+            "when": "2015-10-27T18:40:19.890419"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "D. J. Mastronarde: The Art of Euripides. Dramatic Technique and Social Context, 2010. (Sanna Kittel\u00e4)", 
+    "title": "D. J. Mastronarde: The Art of Euripides. Dramatic Technique and Social Context, 2010. (Sanna Kittelä)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

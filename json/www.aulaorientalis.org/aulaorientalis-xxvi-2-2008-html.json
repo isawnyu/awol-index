@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 November 2011. Updated 14 October 2013]. Aula Orientalis: revista de estudios del Pr\u00f3ximo Oriente Antiguo. ISSN: 0212-5730. Published by EDITORIAL AUSA (Sabadell, Barcelona) with scientific advice from Instituto Interuniversitario del Pr\u00f3ximo Oriente Antiguo de la Universidad de Barcelona (I. P. O. A. ).", 
+    "description": "[First posted in AWOL 21 November 2011. Updated 14 October 2013]. Aula Orientalis: revista de estudios del Próximo Oriente Antiguo. ISSN: 0212-5730. Published by EDITORIAL AUSA (Sabadell, Barcelona) with scientific advice from Instituto Interuniversitario del Próximo Oriente Antiguo de la Universidad de Barcelona (I. P. O. A. ).", 
     "domain": "www.aulaorientalis.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4067382996601323213", 
             "resource_date": "2013-10-14T13:44:22.979-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:58.375236"
+            "when": "2015-10-27T18:41:20.946332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-aula-orientalis.html", 
             "resource_date": "2013-10-14T13:44:22.979-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:58.375247"
+            "when": "2015-10-27T18:41:20.946349"
         }
     ], 
     "publishers": [], 

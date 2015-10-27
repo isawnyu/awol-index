@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2596945093677501008", 
             "resource_date": "2014-09-24T06:05:17.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:42.401893"
+            "when": "2015-10-27T18:38:50.489748"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/the-british-museum-ancient-egypt-and.html", 
             "resource_date": "2014-09-24T06:05:17.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:42.401910"
+            "when": "2015-10-27T18:38:50.489765"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2596945093677501008", 
             "resource_date": "2014-09-24T06:05:17.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:42.404094"
+            "when": "2015-10-27T18:38:50.491773"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/the-british-museum-ancient-egypt-and.html", 
             "resource_date": "2014-09-24T06:05:17.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:42.404108"
+            "when": "2015-10-27T18:38:50.491786"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:42.418486"
+            "when": "2015-10-27T18:38:50.504108"
         }
     ], 
     "publishers": [], 

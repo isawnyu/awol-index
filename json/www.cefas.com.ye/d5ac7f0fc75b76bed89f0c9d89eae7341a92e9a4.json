@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Rayd\u0101n: journal of ancient Yemeni antiquities and epigraphy. ISSN: 1015-4523.", 
+    "description": "Raydān: journal of ancient Yemeni antiquities and epigraphy. ISSN: 1015-4523.", 
     "domain": "www.cefas.com.ye", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Rayd\u0101n: journal of ancient Yemeni antiquities and epigraphy", 
+        "title_full": "Raydān: journal of ancient Yemeni antiquities and epigraphy", 
         "url": "http://www.cefas.com.ye/spip.php?article520"
     }, 
     "issuance": null, 
@@ -78,13 +78,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-800904006935888018", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:09.202965"
+            "when": "2015-10-27T18:46:56.577151"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journak-raydan-journal-of.html", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:09.202986"
+            "when": "2015-10-27T18:46:56.577168"
         }, 
         {
             "fields": [
@@ -125,13 +125,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-800904006935888018", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:09.244855"
+            "when": "2015-10-27T18:46:56.597643"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journak-raydan-journal-of.html", 
             "resource_date": "2013-07-10T13:33:41.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:09.244878"
+            "when": "2015-10-27T18:46:56.597656"
         }, 
         {
             "fields": [
@@ -145,7 +145,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:09.248435"
+            "when": "2015-10-27T18:46:56.600861"
         }
     ], 
     "publishers": [], 
@@ -155,15 +155,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Rayd\u0101n: journal of ancient Yemeni antiquities and epigraphy", 
+            "title_full": "Raydān: journal of ancient Yemeni antiquities and epigraphy", 
             "url": "http://www.cefas.com.ye/spip.php?article520"
         }, 
         {
-            "title_full": "\u0639\u0631\u0628\u064a", 
+            "title_full": "عربي", 
             "url": "http://www.cefas.com.ye/spip.php?article521"
         }
     ], 
-    "title": "Rayd\u0101n: journal of ancient Yemeni antiquities and epigraphy", 
+    "title": "Raydān: journal of ancient Yemeni antiquities and epigraphy", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Il capitale culturale. Studies on the Value of Cultural Heritage. ISSN: 2039-2362. Il capitale culturale (ISSN: 2039-2362) \u00e8 la rivista del Dipartimento di Beni Culturali dell\u2019Universit\u00e0 di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell\u2019arte) unite dal comune obiettivo della implementazione di attivit\u00e0 di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", 
+    "description": "Il capitale culturale. Studies on the Value of Cultural Heritage. ISSN: 2039-2362. Il capitale culturale (ISSN: 2039-2362) è la rivista del Dipartimento di Beni Culturali dell’Università di Macerata con sede a Fermo, che si avvale di molteplici competenze disciplinari (archeologia, archivistica, diritto, economia aziendale, informatica, museologia, restauro, storia, storia dell’arte) unite dal comune obiettivo della implementazione di attività di studio, ricerca e progettazione per la valorizzazione del patrimonio culturale.", 
     "domain": "www.unimc.it", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:04.605215"
+            "when": "2015-10-27T18:37:05.216181"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:04.605231"
+            "when": "2015-10-27T18:37:05.216196"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-107383690052898357", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:04.612947"
+            "when": "2015-10-27T18:37:05.224575"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/new-open-access-journal-il-capitale.html", 
             "resource_date": "2013-03-09T11:04:14.699-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:04.612961"
+            "when": "2015-10-27T18:37:05.224592"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:04.614898"
+            "when": "2015-10-27T18:37:05.226550"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Medizinische Schriften der Alten \u00c4gypter. Das meiste Wissen \u00fcber die alt\u00e4gyptische Medizin haben wir von den \u00c4gyptern selbst \u00fcberliefert bekommen, und zwar in Form einiger Ostraka (beschriebene Gesteins-, Keramik- oder Tonscherben) und mehrerer medizinischer Papyri. Allerdings sind die Dokumente nicht sehr zahlreich und von unterschiedlichem Wert. Die wenigen Texte der Alten \u00c4gypter, die uns \u00fcber die Jahrtausende erhalten geblieben sind, zeugen sowohl von empirisch-wissenschaftlichen Ans\u00e4tzen als auch von tiefverwurzelten religi\u00f6s-magischen Vorstellungen \u00fcber die Entstehung, den Verlauf und die Behandlung von Erkrankungen. Durch ihre \u00dcbersetzung, Bearbeitung und vergleichende Untersuchung wurde erst ein gewisser Einblick in die Welt der \u00e4gyptischen Medizin m\u00f6glich. Auf diesen Seiten finden Sie neben den umfangreichsten und bekanntesten Papyri auch kleinere Ostraka und Papyrusfragmente; wenn m\u00f6glich, immer mit Abbildungen des Originals, Umschreibung in Hieroglyphen und nat\u00fcrlich in deutscher \u00dcbersetzung. Desweiteren soll eine ausf\u00fchrliche Literaturliste, die auch vom Verfasser dieser Internetseiten verwendet wurde, den eigenen Zugang zur \u00e4gyptischen Medizin erm\u00f6glichen.", 
+    "description": "Medizinische Schriften der Alten Ägypter. Das meiste Wissen über die altägyptische Medizin haben wir von den Ägyptern selbst überliefert bekommen, und zwar in Form einiger Ostraka (beschriebene Gesteins-, Keramik- oder Tonscherben) und mehrerer medizinischer Papyri. Allerdings sind die Dokumente nicht sehr zahlreich und von unterschiedlichem Wert. Die wenigen Texte der Alten Ägypter, die uns über die Jahrtausende erhalten geblieben sind, zeugen sowohl von empirisch-wissenschaftlichen Ansätzen als auch von tiefverwurzelten religiös-magischen Vorstellungen über die Entstehung, den Verlauf und die Behandlung von Erkrankungen. Durch ihre Übersetzung, Bearbeitung und vergleichende Untersuchung wurde erst ein gewisser Einblick in die Welt der ägyptischen Medizin möglich. Auf diesen Seiten finden Sie neben den umfangreichsten und bekanntesten Papyri auch kleinere Ostraka und Papyrusfragmente; wenn möglich, immer mit Abbildungen des Originals, Umschreibung in Hieroglyphen und natürlich in deutscher Übersetzung. Desweiteren soll eine ausführliche Literaturliste, die auch vom Verfasser dieser Internetseiten verwendet wurde, den eigenen Zugang zur ägyptischen Medizin ermöglichen.", 
     "domain": "www.medizinische-papyri.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Medizinische Schriften der Alten \u00c4gypter", 
+        "title_full": "Medizinische Schriften der Alten Ägypter", 
         "url": "http://www.medizinische-papyri.de/Start/index.html"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6296466369663804123", 
             "resource_date": "2011-09-19T21:20:05.582-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:58.712580"
+            "when": "2015-10-27T18:44:35.931285"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/egyptian-medical-texts-online.html", 
             "resource_date": "2011-09-19T21:20:05.582-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:58.712597"
+            "when": "2015-10-27T18:44:35.931301"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6296466369663804123", 
             "resource_date": "2011-09-19T21:20:05.582-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:58.717750"
+            "when": "2015-10-27T18:44:35.936568"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/egyptian-medical-texts-online.html", 
             "resource_date": "2011-09-19T21:20:05.582-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:58.717762"
+            "when": "2015-10-27T18:44:35.936582"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:58.719140"
+            "when": "2015-10-27T18:44:35.938662"
         }
     ], 
     "publishers": [], 
@@ -140,11 +140,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Medizinische Schriften der Alten \u00c4gypter", 
+            "title_full": "Medizinische Schriften der Alten Ägypter", 
             "url": "http://www.medizinische-papyri.de/Start/index.html"
         }
     ], 
-    "title": "Medizinische Schriften der Alten \u00c4gypter", 
+    "title": "Medizinische Schriften der Alten Ägypter", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

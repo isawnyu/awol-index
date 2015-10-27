@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 5 (1973), pp. 21-24. Schenkel, Wolfgang (2006).", 
+    "description": "In: Göttinger Miszellen, 5 (1973), pp. 21-24. Schenkel, Wolfgang (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:01.179533"
+            "when": "2015-10-27T18:40:12.898353"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:01.179550"
+            "when": "2015-10-27T18:40:12.898370"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ist der Wortschatz des \"Lebensm\u00fcden\" gr\u00f6\u00dfer als der des \"Sinuhe\"", 
+    "title": "Ist der Wortschatz des \"Lebensmüden\" größer als der des \"Sinuhe\"", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

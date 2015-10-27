@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archim\u00e8de: Arch\u00e9ologie et histoire ancienne.", 
+    "description": "Archimède: Archéologie et histoire ancienne.", 
     "domain": "archimede.unistra.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archim\u00e8de: Arch\u00e9ologie et histoire ancienne", 
+        "title_full": "Archimède: Archéologie et histoire ancienne", 
         "url": "http://archimede.unistra.fr/revue-archimede/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8473167212482211318", 
             "resource_date": "2015-05-17T17:08:56.289-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.742741"
+            "when": "2015-10-27T18:47:15.362200"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/archimede-archeologie-et-histoire.html", 
             "resource_date": "2015-05-17T17:08:56.289-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.742757"
+            "when": "2015-10-27T18:47:15.362216"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8473167212482211318", 
             "resource_date": "2015-05-17T17:08:56.289-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.744303"
+            "when": "2015-10-27T18:47:15.363851"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/archimede-archeologie-et-histoire.html", 
             "resource_date": "2015-05-17T17:08:56.289-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.744314"
+            "when": "2015-10-27T18:47:15.363862"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.745889"
+            "when": "2015-10-27T18:47:15.365753"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Archim\u00e8de: Arch\u00e9ologie et histoire ancienne", 
+            "title_full": "Archimède: Archéologie et histoire ancienne", 
             "url": "http://archimede.unistra.fr/revue-archimede/"
         }
     ], 
-    "title": "Archim\u00e8de: Arch\u00e9ologie et histoire ancienne", 
+    "title": "Archimède: Archéologie et histoire ancienne", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

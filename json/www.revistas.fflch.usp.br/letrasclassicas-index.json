@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Letras Cl\u00e1ssicas. ISSN: 1516-4586. A Revista \"Letras Cl\u00e1ssicas\" \u00e9 o ve\u00edculo oficial do Programa de P\u00f3s-Gradua\u00e7\u00e3o em Letras Cl\u00e1ssicas da Universidade de S\u00e3o Paulo - Brasil. Seu objetivo \u00e9 divulgar pesquisas recentes acerca dos temas atinentes \u00e0 \u00c1rea de Letras Cl\u00e1ssicas sob a forma de Artigos, Resenhas, Tradu\u00e7\u00f5es e Not\u00edcias. Letras Cl\u00e1ssicas destina-se a pesquisadores e estudiosos da \u00e1rea de Estudos Cl\u00e1ssicos: Arqueologia, Hist\u00f3ria Antiga, Filosofia Antiga e Letras Cl\u00e1ssicas, al\u00e9m dos pesquisadores em L\u00edngua e Literatura como um todo.", 
+    "description": "Letras Clássicas. ISSN: 1516-4586. A Revista \"Letras Clássicas\" é o veículo oficial do Programa de Pós-Graduação em Letras Clássicas da Universidade de São Paulo - Brasil. Seu objetivo é divulgar pesquisas recentes acerca dos temas atinentes à Área de Letras Clássicas sob a forma de Artigos, Resenhas, Traduções e Notícias. Letras Clássicas destina-se a pesquisadores e estudiosos da área de Estudos Clássicos: Arqueologia, História Antiga, Filosofia Antiga e Letras Clássicas, além dos pesquisadores em Língua e Literatura como um todo.", 
     "domain": "www.revistas.fflch.usp.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Letras Cl\u00e1ssicas", 
+        "title_full": "Letras Clássicas", 
         "url": "http://www.revistas.fflch.usp.br/letrasclassicas/index"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2312227228925672625", 
             "resource_date": "2014-11-04T10:34:37.794-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.079971"
+            "when": "2015-10-27T18:38:39.088225"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/open-access-journal-letras-classicas.html", 
             "resource_date": "2014-11-04T10:34:37.794-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.079987"
+            "when": "2015-10-27T18:38:39.088241"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2312227228925672625", 
             "resource_date": "2014-11-04T10:34:37.794-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.113153"
+            "when": "2015-10-27T18:38:39.117246"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/open-access-journal-letras-classicas.html", 
             "resource_date": "2014-11-04T10:34:37.794-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.113172"
+            "when": "2015-10-27T18:38:39.117260"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:31.114724"
+            "when": "2015-10-27T18:38:39.119280"
         }
     ], 
     "publishers": [], 
@@ -150,11 +150,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Letras Cl\u00e1ssicas", 
+            "title_full": "Letras Clássicas", 
             "url": "http://www.revistas.fflch.usp.br/letrasclassicas/index"
         }
     ], 
-    "title": "Letras Cl\u00e1ssicas", 
+    "title": "Letras Clássicas", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

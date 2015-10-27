@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue \u00e9gyptologique1 (1880). 2 (1882). 3 (1885). 4 (1885). 5 (1888). 6 (1891). 7 (1896). 8 (1898). 9 (1900). 10 (1902). 11 (1904). 12 (1907). 13 (1911). 14 (1914). Nouvelle S\u00e9rie 1 (1919) - vol. 2, fascicles 1-2 (1920). See the full.", 
+    "description": "Revue égyptologique1 (1880). 2 (1882). 3 (1885). 4 (1885). 5 (1888). 6 (1891). 7 (1896). 8 (1898). 9 (1900). 10 (1902). 11 (1904). 12 (1907). 13 (1911). 14 (1914). Nouvelle Série 1 (1919) - vol. 2, fascicles 1-2 (1920). See the full.", 
     "domain": "archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4270082800640888605", 
             "resource_date": "2012-12-03T16:58:23.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:21.606264"
+            "when": "2015-10-27T18:41:46.618097"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-revue-egyptologique.html", 
             "resource_date": "2012-12-03T16:58:23.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:21.606280"
+            "when": "2015-10-27T18:41:46.618111"
         }
     ], 
     "publishers": [], 
@@ -135,11 +135,11 @@
             "url": "http://archive.org/details/revuegyptologi14pari"
         }, 
         {
-            "title_full": "Nouvelle S\u00e9rie 1 (1919) - vol. 2, fascicles 1-2 (1920)", 
+            "title_full": "Nouvelle Série 1 (1919) - vol. 2, fascicles 1-2 (1920)", 
             "url": "http://archive.org/details/revuegyptologi00newpari"
         }
     ], 
-    "title": "Revue \u00e9gyptologique", 
+    "title": "Revue égyptologique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

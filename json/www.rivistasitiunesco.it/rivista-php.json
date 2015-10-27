@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La rivista Siti: Trimestrale di politica ed attualit\u00e0 culturale. ISSN 2038-7237. Il nostro \u00e8 il Paese al mondo con il maggior numero di siti inclusi nella lista del patrimonio mondiale dell\u2019umanit\u00e0, ben quarantacinque. Quarantacinque tesori inestimabili di cui andiamo legittimamente orgogliosi e che l\u2019Associazione Citt\u00e0 e Siti Italiani Patrimonio Mondiale Unesco da oltre un decennio rappresenta e sostiene con caparbiet\u00e0 ed impegno per consentire al nostro Paese di esprimere al meglio le enormi potenzialit\u00e0, anche come generatori di ricchezza, dei beni culturali e paesaggistici. Potenzialit\u00e0 che devono trovare pieno appoggio in politiche culturali e turistiche che sappiano puntare sulla qualit\u00e0 dell\u2019offerta e sulle immense opportunit\u00e0 di crescita culturale che solo l\u2019Italia, patria dell\u2019arte e della bellezza per vocazione, pu\u00f2 offrire.", 
+    "description": "La rivista Siti: Trimestrale di politica ed attualità culturale. ISSN 2038-7237. Il nostro è il Paese al mondo con il maggior numero di siti inclusi nella lista del patrimonio mondiale dell’umanità, ben quarantacinque. Quarantacinque tesori inestimabili di cui andiamo legittimamente orgogliosi e che l’Associazione Città e Siti Italiani Patrimonio Mondiale Unesco da oltre un decennio rappresenta e sostiene con caparbietà ed impegno per consentire al nostro Paese di esprimere al meglio le enormi potenzialità, anche come generatori di ricchezza, dei beni culturali e paesaggistici. Potenzialità che devono trovare pieno appoggio in politiche culturali e turistiche che sappiano puntare sulla qualità dell’offerta e sulle immense opportunità di crescita culturale che solo l’Italia, patria dell’arte e della bellezza per vocazione, può offrire.", 
     "domain": "www.rivistasitiunesco.it", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4417981155386902226", 
             "resource_date": "2013-10-13T08:09:29.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.114198"
+            "when": "2015-10-27T18:41:52.651702"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-la-rivista-siti.html", 
             "resource_date": "2013-10-13T08:09:29.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.114214"
+            "when": "2015-10-27T18:41:52.651718"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4417981155386902226", 
             "resource_date": "2013-10-13T08:09:29.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.118809"
+            "when": "2015-10-27T18:41:52.655893"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-la-rivista-siti.html", 
             "resource_date": "2013-10-13T08:09:29.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.118826"
+            "when": "2015-10-27T18:41:52.655907"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:27.131612"
+            "when": "2015-10-27T18:41:52.666814"
         }
     ], 
     "publishers": [], 
@@ -150,7 +150,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "La rivista Siti: Trimestrale di politica ed attualit\u00e0 culturale", 
+            "title_full": "La rivista Siti: Trimestrale di politica ed attualità culturale", 
             "url": "http://www.rivistasitiunesco.it/rivista.php"
         }, 
         {
@@ -174,9 +174,9 @@
             "url": "http://www.rivistasitiunesco.it/rivista_rss.php"
         }
     ], 
-    "title": "La rivista Siti: Trimestrale di politica ed attualit\u00e0 culturale", 
+    "title": "La rivista Siti: Trimestrale di politica ed attualità culturale", 
     "title_alternates": [], 
-    "title_extended": "La rivista Siti: Trimestrale di politica ed attualit\u00e0 culturale", 
+    "title_extended": "La rivista Siti: Trimestrale di politica ed attualità culturale", 
     "type": null, 
     "url": "http://www.rivistasitiunesco.it/rivista.php", 
     "url_alternates": [], 

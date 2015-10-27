@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2179302832803591987", 
             "resource_date": "2014-01-24T10:33:19.122-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.827236"
+            "when": "2015-10-27T18:38:27.612642"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/mathematics-and-mathematical-astronomy.html", 
             "resource_date": "2014-01-24T10:33:19.122-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.827250"
+            "when": "2015-10-27T18:38:27.612655"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Surya Siddhanta \u0938\u0942\u0930\u094d\u092f\u0938\u093f\u0926\u094d\u0927\u093e\u0928\u094d\u0924\u0903", 
+    "title": "Surya Siddhanta सूर्यसिद्धान्तः", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

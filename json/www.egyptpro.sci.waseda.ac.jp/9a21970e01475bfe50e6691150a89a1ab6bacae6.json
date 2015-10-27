@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u30a8\u30b8\u30d7\u30c8\u5b66\u7814\u7a76 - The Journal of Egyptian Studies (Ejiputogaku kenky\u016b)", 
+        "title_full": "エジプト学研究 - The Journal of Egyptian Studies (Ejiputogaku kenkyū)", 
         "url": "http://www.egyptpro.sci.waseda.ac.jp/publication%20eji.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1134118816212782401", 
             "resource_date": "2014-04-24T16:02:08.331-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:09.653007"
+            "when": "2015-10-27T18:37:10.648038"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-journal-of-egyptian.html", 
             "resource_date": "2014-04-24T16:02:08.331-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:09.653020"
+            "when": "2015-10-27T18:37:10.648052"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u30af\u30b7\u30e5\u306e\u7891\u6587\u3092\u6bcd\u7cfb\u5236\u3068\u3057\u3066\u8aad\u3080-\u5373\u4f4d\u306e\u8a18\u9332\u3068\u300c\u30a2\u30e9\u30e9\u3068\u30a2\u30e1\u30f3\u30fb\u30e9\u30fc\u306e\u5951\u7d04\u300d- ...\u9f4b\u85e4\u4e45\u7f8e\u5b50 Reading the Kushite Texts in the Matrilineal Context: Enthronement Records and the Covenant between Alara and Amen-Re (in Japanese with English summary) . ...Kumiko SAITO", 
+    "title": "クシュの碑文を母系制として読む-即位の記録と「アララとアメン・ラーの契約」- ...齋藤久美子 Reading the Kushite Texts in the Matrilineal Context: Enthronement Records and the Covenant between Alara and Amen-Re (in Japanese with English summary) . ...Kumiko SAITO", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

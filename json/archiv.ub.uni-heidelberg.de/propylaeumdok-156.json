@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Assmann, Jan and Sundermeier, Th. (Hrsgg. ): Schuld, Gewissen und Person. G\u00fctersloher Verlagshaus, G\u00fctersloh 1997, pp. 142-179 (Studien zum Verstehen fremder Religionen; 9). Chaniotis, Angelos (2007).", 
+    "description": "In: Assmann, Jan and Sundermeier, Th. (Hrsgg. ): Schuld, Gewissen und Person. Gütersloher Verlagshaus, Gütersloh 1997, pp. 142-179 (Studien zum Verstehen fremder Religionen; 9). Chaniotis, Angelos (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.236484"
+            "when": "2015-10-27T18:46:45.408446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.236504"
+            "when": "2015-10-27T18:46:45.408462"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Reinheit des K\u00f6rpers - Reinheit des Sinnes in den griechischen Kultgesetzen", 
+    "title": "Reinheit des Körpers - Reinheit des Sinnes in den griechischen Kultgesetzen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

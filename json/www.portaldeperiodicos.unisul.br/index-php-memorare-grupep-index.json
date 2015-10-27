@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista Memorare. ISSN: 2358-0593. A Revista Memorare, do Grupep-Arqueologia, aberta a colaboradores do Brasil e exterior interessados em propostas vinculadas as tem\u00e1ticas de preserva\u00e7\u00e3o, valoriza\u00e7\u00e3o e difus\u00e3o do patrim\u00f4nio cultural material e imaterial. Destacamos como temas a serem discutidos em conjunto ou atrav\u00e9s de dossi\u00eas: Arqueologia Pr\u00e9-hist\u00f3rica, Arqueologia Hist\u00f3rica, Arqueologia subaqu\u00e1tica, Educa\u00e7\u00e3o Patrimonial, Geoprocessamento, Gest\u00e3o do Patrim\u00f4nio Cultural, Mem\u00f3ria, Identidade, Conserva\u00e7\u00e3o e Restauro. Al\u00e9m desses temas, outros assuntos correlatos podem ser discutidos.", 
+    "description": "Revista Memorare. ISSN: 2358-0593. A Revista Memorare, do Grupep-Arqueologia, aberta a colaboradores do Brasil e exterior interessados em propostas vinculadas as temáticas de preservação, valorização e difusão do patrimônio cultural material e imaterial. Destacamos como temas a serem discutidos em conjunto ou através de dossiês: Arqueologia Pré-histórica, Arqueologia Histórica, Arqueologia subaquática, Educação Patrimonial, Geoprocessamento, Gestão do Patrimônio Cultural, Memória, Identidade, Conservação e Restauro. Além desses temas, outros assuntos correlatos podem ser discutidos.", 
     "domain": "www.portaldeperiodicos.unisul.br", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4010099553762182884", 
             "resource_date": "2014-07-12T07:35:32.176-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:56.979935"
+            "when": "2015-10-27T18:41:19.231539"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/new-open-access-journal-revista-memorare.html", 
             "resource_date": "2014-07-12T07:35:32.176-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:56.979951"
+            "when": "2015-10-27T18:41:19.231561"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve:.", 
+    "description": "Archive ouverte UNIGE, Université de Genève:.", 
     "domain": "archive-ouverte.unige.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:18.663501"
+            "when": "2015-10-27T18:43:51.560241"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:18.663517"
+            "when": "2015-10-27T18:43:51.560257"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:18.667437"
+            "when": "2015-10-27T18:43:51.564493"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:18.667451"
+            "when": "2015-10-27T18:43:51.564506"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:19.312915"
+            "when": "2015-10-27T18:43:52.289076"
         }
     ], 
     "publishers": [], 
@@ -141,15 +141,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+            "title_full": "Archive ouverte UNIGE, Université de Genève", 
             "url": "http://archive-ouverte.unige.ch/"
         }, 
         {
-            "title_full": "Facult\u00e9 des lettres", 
+            "title_full": "Faculté des lettres", 
             "url": "http://archive-ouverte.unige.ch/documents/facets?newFacet=structureFacet%3DFacult%C3%A9+des+lettres%2A"
         }, 
         {
-            "title_full": "D\u00e9partement des sciences de l'antiquit\u00e9", 
+            "title_full": "Département des sciences de l'antiquité", 
             "url": "http://archive-ouverte.unige.ch/documents/facets?newFacet=structureFacet%3DFacult%C3%A9+des+lettres%3B+D%C3%A9partement+des+sciences+de+l%27antiquit%C3%A9%2A"
         }, 
         {
@@ -165,7 +165,7 @@
             "url": "http://archive-ouverte.unige.ch/documents/facets/limit:100/sort:Document.year/direction:asc"
         }, 
         {
-            "title_full": "La beaut\u00e9 du corps dans l\u2019Antiquit\u00e9 grecque \u00e0 Martigny-la-Romaine", 
+            "title_full": "La beauté du corps dans l’Antiquité grecque à Martigny-la-Romaine", 
             "url": "http://archive-ouverte.unige.ch/unige:34651"
         }, 
         {
@@ -173,7 +173,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/6456"
         }, 
         {
-            "title_full": "\"O\u00f9 le paysan faisait une pause pour o!rir quelque modeste don\" - Les sanctuaires ruraux en Gr\u00e8ce: entre pauvret\u00e9 romantique et r\u00e9alit\u00e9 arch\u00e9ologique", 
+            "title_full": "\"Où le paysan faisait une pause pour o!rir quelque modeste don\" - Les sanctuaires ruraux en Grèce: entre pauvreté romantique et réalité archéologique", 
             "url": "http://archive-ouverte.unige.ch/unige:34390"
         }, 
         {
@@ -189,7 +189,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:36876"
         }, 
         {
-            "title_full": "Les pommes d'amour des Hesp\u00e9rides (1). Le jardin aux portes du soir", 
+            "title_full": "Les pommes d'amour des Hespérides (1). Le jardin aux portes du soir", 
             "url": "http://archive-ouverte.unige.ch/unige:24056"
         }, 
         {
@@ -201,7 +201,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:28675"
         }, 
         {
-            "title_full": "La sculpture grecque originale dans les collections europ\u00e9ennes - butin de guerre, objet de collectionnisme et embl\u00e8me du philhell\u00e9nisme", 
+            "title_full": "La sculpture grecque originale dans les collections européennes - butin de guerre, objet de collectionnisme et emblème du philhellénisme", 
             "url": "http://archive-ouverte.unige.ch/unige:28721"
         }, 
         {
@@ -209,7 +209,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:28958"
         }, 
         {
-            "title_full": "Fragile Ambivalenz - Die Abgusssammlung der Unit\u00e9 d'arch\u00e9ologie classique der Universit\u00e4t Genf", 
+            "title_full": "Fragile Ambivalenz - Die Abgusssammlung der Unité d'archéologie classique der Universität Genf", 
             "url": "http://archive-ouverte.unige.ch/unige:29097"
         }, 
         {
@@ -217,11 +217,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/26932"
         }, 
         {
-            "title_full": "Kroton - Espace et cultures urbains et ruraux en Grande Gr\u00e8ce", 
+            "title_full": "Kroton - Espace et cultures urbains et ruraux en Grande Grèce", 
             "url": "http://archive-ouverte.unige.ch/unige:26377"
         }, 
         {
-            "title_full": "Kroton - \u00c9tudes et travaux arch\u00e9ologiques genevois en Calabre. Rapport sur les activit\u00e9s de l\u2019Unit\u00e9 d\u2019arch\u00e9ologie classique de l\u2019Universit\u00e9 de Gen\u00e8ve en 2012", 
+            "title_full": "Kroton - Études et travaux archéologiques genevois en Calabre. Rapport sur les activités de l’Unité d’archéologie classique de l’Université de Genève en 2012", 
             "url": "http://archive-ouverte.unige.ch/unige:29622"
         }, 
         {
@@ -229,11 +229,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/27474"
         }, 
         {
-            "title_full": "Deponierte Heiligt\u00fcmer ? Arch\u00e4ologische Beobachtungen zur rituellen Schlie\u00dfung von Thesmophorien", 
+            "title_full": "Deponierte Heiligtümer ? Archäologische Beobachtungen zur rituellen Schließung von Thesmophorien", 
             "url": "http://archive-ouverte.unige.ch/unige:33117"
         }, 
         {
-            "title_full": "Metamorfosi e mimesi : ricerche sull\u2019imagerie della ceramica etrusca a figure nere : il Gruppo di Micali", 
+            "title_full": "Metamorfosi e mimesi : ricerche sull’imagerie della ceramica etrusca a figure nere : il Gruppo di Micali", 
             "url": "http://archive-ouverte.unige.ch/unige:33203"
         }, 
         {
@@ -273,7 +273,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/45934"
         }, 
         {
-            "title_full": "H\u00e9ros antiques. La Tapisserie flamande face \u00e0 l'arch\u00e9ologie. Catalogue d'exposition. Gen\u00e8ve, Mus\u00e9e Rath, 29 novembre 2013 - 2 mars 2014", 
+            "title_full": "Héros antiques. La Tapisserie flamande face à l'archéologie. Catalogue d'exposition. Genève, Musée Rath, 29 novembre 2013 - 2 mars 2014", 
             "url": "http://archive-ouverte.unige.ch/unige:31468"
         }, 
         {
@@ -281,7 +281,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/33212"
         }, 
         {
-            "title_full": "Art antique et arch\u00e9ologie au \"Grand si\u00e8cle\"", 
+            "title_full": "Art antique et archéologie au \"Grand siècle\"", 
             "url": "http://archive-ouverte.unige.ch/unige:31469"
         }, 
         {
@@ -289,11 +289,11 @@
             "url": "http://archive-ouverte.unige.ch/unige:31470"
         }, 
         {
-            "title_full": "O\u00f9 le dieu touche. R\u00e9flexions arch\u00e9ologiques sur les sanctuaires d'Ascl\u00e9pios", 
+            "title_full": "Où le dieu touche. Réflexions archéologiques sur les sanctuaires d'Asclépios", 
             "url": "http://archive-ouverte.unige.ch/unige:30841"
         }, 
         {
-            "title_full": "Andocide et ses amis dans le discours Sur les Myst\u00e8res", 
+            "title_full": "Andocide et ses amis dans le discours Sur les Mystères", 
             "url": "http://archive-ouverte.unige.ch/unige:36749"
         }, 
         {
@@ -301,7 +301,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:36781"
         }, 
         {
-            "title_full": "Naissance de l'idol\u00e2trie: juda\u00efsme et image dans la litt\u00e9rature antique", 
+            "title_full": "Naissance de l'idolâtrie: judaïsme et image dans la littérature antique", 
             "url": "http://archive-ouverte.unige.ch/unige:23337"
         }, 
         {
@@ -309,7 +309,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/36627"
         }, 
         {
-            "title_full": "Le culte des pierres en Syrie du Nord et en Anatolie aux IIIe et IIe mill\u00e9naires : approche philologique et arch\u00e9ologique", 
+            "title_full": "Le culte des pierres en Syrie du Nord et en Anatolie aux IIIe et IIe millénaires : approche philologique et archéologique", 
             "url": "http://archive-ouverte.unige.ch/unige:18840"
         }, 
         {
@@ -317,11 +317,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/11716"
         }, 
         {
-            "title_full": "Pharaon, magicien et filou: Nectan\u00e9bo II entre l'histoire et la l\u00e9gende", 
+            "title_full": "Pharaon, magicien et filou: Nectanébo II entre l'histoire et la légende", 
             "url": "http://archive-ouverte.unige.ch/unige:24160"
         }, 
         {
-            "title_full": "Krotone - \u00c9tudes et travaux arch\u00e9ologiques genevois en Calabre. Rapport sur les activit\u00e9s de l'Unit\u00e9 d'arch\u00e9ologie classique de l'Universit\u00e9 de Gen\u00e8ve en 2010-2011", 
+            "title_full": "Krotone - Études et travaux archéologiques genevois en Calabre. Rapport sur les activités de l'Unité d'archéologie classique de l'Université de Genève en 2010-2011", 
             "url": "http://archive-ouverte.unige.ch/unige:22773"
         }, 
         {
@@ -333,11 +333,11 @@
             "url": "http://archive-ouverte.unige.ch/unige:21669"
         }, 
         {
-            "title_full": "Vom Streben nach Perfektion und vom Kampf mit der Mobilit\u00e4t: K\u00fcnstler und Handwerker im antiken Griechenland", 
+            "title_full": "Vom Streben nach Perfektion und vom Kampf mit der Mobilität: Künstler und Handwerker im antiken Griechenland", 
             "url": "http://archive-ouverte.unige.ch/unige:21563"
         }, 
         {
-            "title_full": "La p\u00e9ninsule de Cnide: \u00e9volution topographique de la cit\u00e9 et de son territoire \u00e0 l'\u00e9poque byzantine: les donn\u00e9es arch\u00e9ologiques", 
+            "title_full": "La péninsule de Cnide: évolution topographique de la cité et de son territoire à l'époque byzantine: les données archéologiques", 
             "url": "http://archive-ouverte.unige.ch/unige:26036"
         }, 
         {
@@ -345,7 +345,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/21272"
         }, 
         {
-            "title_full": "Les papyrus magiques du Ramesseum: recherches sur une biblioth\u00e8que priv\u00e9e de la fin du Moyen Empire", 
+            "title_full": "Les papyrus magiques du Ramesseum: recherches sur une bibliothèque privée de la fin du Moyen Empire", 
             "url": "http://archive-ouverte.unige.ch/unige:25795"
         }, 
         {
@@ -353,15 +353,15 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/20733"
         }, 
         {
-            "title_full": "Julien l\u2019Arien critique du po\u00e8te astrologue Anoubion", 
+            "title_full": "Julien l’Arien critique du poète astrologue Anoubion", 
             "url": "http://archive-ouverte.unige.ch/unige:36771"
         }, 
         {
-            "title_full": "Plus qu'un outil d'enseignement : la collection des moulages de l'Unit\u00e9 d'arch\u00e9ologie classique de l'Universit\u00e9 de Gen\u00e8ve", 
+            "title_full": "Plus qu'un outil d'enseignement : la collection des moulages de l'Unité d'archéologie classique de l'Université de Genève", 
             "url": "http://archive-ouverte.unige.ch/unige:16038"
         }, 
         {
-            "title_full": "Dans le laboratoire de l'historien des religions. M\u00e9langes offerts \u00e0 Philippe Borgeaud", 
+            "title_full": "Dans le laboratoire de l'historien des religions. Mélanges offerts à Philippe Borgeaud", 
             "url": "http://archive-ouverte.unige.ch/unige:16543"
         }, 
         {
@@ -373,7 +373,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/33588"
         }, 
         {
-            "title_full": "Bruit et \u00e9motion dans la litt\u00e9rature akkadienne", 
+            "title_full": "Bruit et émotion dans la littérature akkadienne", 
             "url": "http://archive-ouverte.unige.ch/unige:16821"
         }, 
         {
@@ -381,11 +381,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/8570"
         }, 
         {
-            "title_full": "La christianisation de l'Attique. Quelques observations arch\u00e9ologiques", 
+            "title_full": "La christianisation de l'Attique. Quelques observations archéologiques", 
             "url": "http://archive-ouverte.unige.ch/unige:18170"
         }, 
         {
-            "title_full": "\u00abVictime\u00bb: un aper\u00e7u historique des significations du mot", 
+            "title_full": "«Victime»: un aperçu historique des significations du mot", 
             "url": "http://archive-ouverte.unige.ch/unige:18176"
         }, 
         {
@@ -397,19 +397,19 @@
             "url": "http://archive-ouverte.unige.ch/unige:18177"
         }, 
         {
-            "title_full": "\"Barques sur le Nil...\": la l\u00e9gende de Nectan\u00e9bo comme r\u00e9cit de d\u00e9-l\u00e9gitimation", 
+            "title_full": "\"Barques sur le Nil...\": la légende de Nectanébo comme récit de dé-légitimation", 
             "url": "http://archive-ouverte.unige.ch/unige:24033"
         }, 
         {
-            "title_full": "\"Chut !\" Le signe d\u2019Harpocrate et l\u2019invitation au silence", 
+            "title_full": "\"Chut !\" Le signe d’Harpocrate et l’invitation au silence", 
             "url": "http://archive-ouverte.unige.ch/unige:24036"
         }, 
         {
-            "title_full": "R\u00e9cits grecs et \u00e9gyptiens \u00e0 propos de Nectan\u00e9bo II: une r\u00e9flexion sur l'historiographie \u00e9gyptienne", 
+            "title_full": "Récits grecs et égyptiens à propos de Nectanébo II: une réflexion sur l'historiographie égyptienne", 
             "url": "http://archive-ouverte.unige.ch/unige:24054"
         }, 
         {
-            "title_full": "La Gr\u00e8ce de Winckelmann et la Gr\u00e8ce r\u00e9elle : Le voyage du baron Johann Hermann von Riedesel de 1768", 
+            "title_full": "La Grèce de Winckelmann et la Grèce réelle : Le voyage du baron Johann Hermann von Riedesel de 1768", 
             "url": "http://archive-ouverte.unige.ch/unige:18341"
         }, 
         {
@@ -421,7 +421,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:36783"
         }, 
         {
-            "title_full": "Pierres lev\u00e9es, st\u00e8les anthropomorphes et dolmens : Aspects cultuels des IVe et IIIe mill\u00e9naires au Levant et en p\u00e9ninsule Arabique", 
+            "title_full": "Pierres levées, stèles anthropomorphes et dolmens : Aspects cultuels des IVe et IIIe millénaires au Levant et en péninsule Arabique", 
             "url": "http://archive-ouverte.unige.ch/unige:36861"
         }, 
         {
@@ -429,11 +429,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/56256"
         }, 
         {
-            "title_full": "A la recherche des po\u00e8tes disparus", 
+            "title_full": "A la recherche des poètes disparus", 
             "url": "http://archive-ouverte.unige.ch/unige:36877"
         }, 
         {
-            "title_full": "Un contrat de vente de terrain de la p\u00e9riode byzantine dans la collection de Gen\u00e8ve", 
+            "title_full": "Un contrat de vente de terrain de la période byzantine dans la collection de Genève", 
             "url": "http://archive-ouverte.unige.ch/unige:36878"
         }, 
         {
@@ -461,7 +461,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:11993"
         }, 
         {
-            "title_full": "\u00d4 dieux de Crotone ! Lieux et t\u00e9moignages du sacr\u00e9 \u00e0 l'int\u00e9rieur d'une ville antique de Calabre. Catalogue d'exposition", 
+            "title_full": "Ô dieux de Crotone ! Lieux et témoignages du sacré à l'intérieur d'une ville antique de Calabre. Catalogue d'exposition", 
             "url": "http://archive-ouverte.unige.ch/unige:11994"
         }, 
         {
@@ -473,15 +473,15 @@
             "url": "http://archive-ouverte.unige.ch/unige:11678"
         }, 
         {
-            "title_full": "Le paysage cultuel de l'Attique de l'\u00e9poque classique \u00e0 l'\u00e9poque imp\u00e9riale", 
+            "title_full": "Le paysage cultuel de l'Attique de l'époque classique à l'époque impériale", 
             "url": "http://archive-ouverte.unige.ch/unige:13091"
         }, 
         {
-            "title_full": "M\u00e9moires de la Gr\u00e8ce classique", 
+            "title_full": "Mémoires de la Grèce classique", 
             "url": "http://archive-ouverte.unige.ch/unige:12262"
         }, 
         {
-            "title_full": "Gen\u00e8ve, centenaire du Mus\u00e9e d'art et d'histoire: la collection romaine de r\u00e9f\u00e9rence en Suisse re\u00e7oit une salle d'exposition r\u00e9nov\u00e9e", 
+            "title_full": "Genève, centenaire du Musée d'art et d'histoire: la collection romaine de référence en Suisse reçoit une salle d'exposition rénovée", 
             "url": "http://archive-ouverte.unige.ch/unige:12763"
         }, 
         {
@@ -489,7 +489,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/33211"
         }, 
         {
-            "title_full": "Fin d'un culte ? - Sur la fermeture des sanctuaires de D\u00e9m\u00e9ter en Grande Gr\u00e8ce et en Gr\u00e8ce", 
+            "title_full": "Fin d'un culte ? - Sur la fermeture des sanctuaires de Déméter en Grande Grèce et en Grèce", 
             "url": "http://archive-ouverte.unige.ch/unige:6577"
         }, 
         {
@@ -497,11 +497,11 @@
             "url": "http://archive-ouverte.unige.ch/unige:7065"
         }, 
         {
-            "title_full": "M\u00e9moires de la religion grecque", 
+            "title_full": "Mémoires de la religion grecque", 
             "url": "http://archive-ouverte.unige.ch/unige:6729"
         }, 
         {
-            "title_full": "Rapport pr\u00e9liminaire sur la premi\u00e8re campagne de l\u2019Universit\u00e9 de Gen\u00e8ve \u00e0 Hou (juillet 2009)", 
+            "title_full": "Rapport préliminaire sur la première campagne de l’Université de Genève à Hou (juillet 2009)", 
             "url": "http://archive-ouverte.unige.ch/unige:18168"
         }, 
         {
@@ -509,7 +509,7 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/34001"
         }, 
         {
-            "title_full": "Les st\u00e8les d\u2019enceinte de Thoutmosis III \u00e0 H\u00e9liopolis", 
+            "title_full": "Les stèles d’enceinte de Thoutmosis III à Héliopolis", 
             "url": "http://archive-ouverte.unige.ch/unige:18169"
         }, 
         {
@@ -517,7 +517,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:6576"
         }, 
         {
-            "title_full": "Von allen G\u00f6ttern verlassen? Anmerkungen zum Strukturwandel in den l\u00e4ndlichen Heiligt\u00fcmern Attikas von sp\u00e4tarchaisch-klassischer bis in r\u00f6mische Zeit", 
+            "title_full": "Von allen Göttern verlassen? Anmerkungen zum Strukturwandel in den ländlichen Heiligtümern Attikas von spätarchaisch-klassischer bis in römische Zeit", 
             "url": "http://archive-ouverte.unige.ch/unige:6730"
         }, 
         {
@@ -529,7 +529,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:19970"
         }, 
         {
-            "title_full": "Vieillards et vieilles femmes en Gr\u00e8ce archa\u00efque: de la calvitie et des rides", 
+            "title_full": "Vieillards et vieilles femmes en Grèce archaïque: de la calvitie et des rides", 
             "url": "http://archive-ouverte.unige.ch/unige:4038"
         }, 
         {
@@ -537,27 +537,27 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/5409"
         }, 
         {
-            "title_full": "Du banausos au technit\u00eas: contribution \u00e0 l'\u00e9tude du type iconographique de l'artisan en Gr\u00e8ce archa\u00efque", 
+            "title_full": "Du banausos au technitês: contribution à l'étude du type iconographique de l'artisan en Grèce archaïque", 
             "url": "http://archive-ouverte.unige.ch/unige:4039"
         }, 
         {
-            "title_full": "L'iconographie politique de Domitien : essai d'interpr\u00e9tation des reliefs dits \"de la Cancelleria\", Bulletin de la SFAC", 
+            "title_full": "L'iconographie politique de Domitien : essai d'interprétation des reliefs dits \"de la Cancelleria\", Bulletin de la SFAC", 
             "url": "http://archive-ouverte.unige.ch/unige:6578"
         }, 
         {
-            "title_full": "Retour sur l\u2019hymne \u00ab ar\u00e9talogique \u00bb de Karpocrate \u00e0 Chalcis", 
+            "title_full": "Retour sur l’hymne « arétalogique » de Karpocrate à Chalcis", 
             "url": "http://archive-ouverte.unige.ch/unige:16524"
         }, 
         {
-            "title_full": "La clause d\u2019exception sur l\u2019octroi de la citoyennet\u00e9 dans les trait\u00e9s entre Rome et ses alli\u00e9s (Cic\u00e9ron, pro Balbo \u00a7 32)", 
+            "title_full": "La clause d’exception sur l’octroi de la citoyenneté dans les traités entre Rome et ses alliés (Cicéron, pro Balbo § 32)", 
             "url": "http://archive-ouverte.unige.ch/unige:32077"
         }, 
         {
-            "title_full": "S\u00e1nchez, Pierre", 
+            "title_full": "Sánchez, Pierre", 
             "url": "http://archive-ouverte.unige.ch/authors/view/47716"
         }, 
         {
-            "title_full": "La convention judiciaire dans le trait\u00e9 conclu entre Rome et les Lyciens (P.Sch\u00f8yen I 25", 
+            "title_full": "La convention judiciaire dans le traité conclu entre Rome et les Lyciens (P.Schøyen I 25", 
             "url": "http://archive-ouverte.unige.ch/unige:32094"
         }, 
         {
@@ -565,7 +565,7 @@
             "url": "http://archive-ouverte.unige.ch/unige:28076"
         }, 
         {
-            "title_full": "Herrmann, Fran\u00e7ois", 
+            "title_full": "Herrmann, François", 
             "url": "http://archive-ouverte.unige.ch/authors/view/96"
         }, 
         {
@@ -573,23 +573,23 @@
             "url": "http://archive-ouverte.unige.ch/unige:12909"
         }, 
         {
-            "title_full": "L'iconographie de la vieillesse en Gr\u00e8ce archa\u00efque", 
+            "title_full": "L'iconographie de la vieillesse en Grèce archaïque", 
             "url": "http://archive-ouverte.unige.ch/unige:5673"
         }, 
         {
-            "title_full": "Les pr\u00eats de S\u00e9n\u00e8que aux Bretons et la r\u00e9volte de Boudicca : calomnie ou cas exemplaire de romanisation forc\u00e9e ?", 
+            "title_full": "Les prêts de Sénèque aux Bretons et la révolte de Boudicca : calomnie ou cas exemplaire de romanisation forcée ?", 
             "url": "http://archive-ouverte.unige.ch/unige:32079"
         }, 
         {
-            "title_full": "Les sept Passions de Prudence : (\"Peristephanon\" 2.5.9.11-14) : introduction g\u00e9n\u00e9rale et commentaire", 
+            "title_full": "Les sept Passions de Prudence : (\"Peristephanon\" 2.5.9.11-14) : introduction générale et commentaire", 
             "url": "http://archive-ouverte.unige.ch/unige:194"
         }, 
         {
-            "title_full": "Des \u00e9tiologies pluridimensionnelles : observations sur les Fastes d\u2019Ovide", 
+            "title_full": "Des étiologies pluridimensionnelles : observations sur les Fastes d’Ovide", 
             "url": "http://archive-ouverte.unige.ch/unige:18167"
         }, 
         {
-            "title_full": "Anubis et les territoires cynopolites selon les temples ptol\u00e9ma\u00efques et romains", 
+            "title_full": "Anubis et les territoires cynopolites selon les temples ptolémaïques et romains", 
             "url": "http://archive-ouverte.unige.ch/unige:27006"
         }, 
         {
@@ -597,11 +597,11 @@
             "url": "http://archive-ouverte.unige.ch/authors/view/22724"
         }, 
         {
-            "title_full": "Le dialogue d'Athanase et Zach\u00e9e : \u00e9tude des sources et du contexte litt\u00e9raire", 
+            "title_full": "Le dialogue d'Athanase et Zachée : étude des sources et du contexte littéraire", 
             "url": "http://archive-ouverte.unige.ch/unige:122"
         }, 
         {
-            "title_full": "Un dipl\u00f4me militaire in\u00e9dit de S\u00e9v\u00e8re Alexandre pour M. Aurelius Bithus (7 janvier 230 ap. J.-C.)", 
+            "title_full": "Un diplôme militaire inédit de Sévère Alexandre pour M. Aurelius Bithus (7 janvier 230 ap. J.-C.)", 
             "url": "http://archive-ouverte.unige.ch/unige:32033"
         }, 
         {
@@ -609,11 +609,11 @@
             "url": "http://archive-ouverte.unige.ch/unige:4574"
         }, 
         {
-            "title_full": "Le serment amphictionique (AESCHN. Legat. [2] 115) : un faux du IVe si\u00e8cle?", 
+            "title_full": "Le serment amphictionique (AESCHN. Legat. [2] 115) : un faux du IVe siècle?", 
             "url": "http://archive-ouverte.unige.ch/unige:32032"
         }
     ], 
-    "title": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+    "title": "Archive ouverte UNIGE, Université de Genève", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

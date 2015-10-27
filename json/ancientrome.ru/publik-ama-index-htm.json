@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0410\u041d\u0422\u0418\u0427\u041d\u042b\u0419 \u041c\u0418\u0420 \u0418 \u0410\u0420\u0425\u0415\u041e\u041b\u041e\u0413\u0418\u042f ( Monde antique et arch\u00e9ologie). \u0410\u043d\u0442\u0438\u0447\u043d\u044b\u0439 \u043c\u0438\u0440 \u0438 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f (\u043e\u0431\u0449\u0435\u043f\u0440\u0438\u043d\u044f\u0442\u043e\u0435 \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0435 - \u0410\u041c\u0410) - \u043c\u0435\u0436\u0432\u0443\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0441\u0431\u043e\u0440\u043d\u0438\u043a \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0442\u0440\u0443\u0434\u043e\u0432, \u043f\u043e\u0441\u0432\u044f\u0449\u0451\u043d\u043d\u044b\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0438 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u043e \u043c\u0438\u0440\u0430. \u0418\u0437\u0434\u0430\u0451\u0442\u0441\u044f \u041a\u0430\u0444\u0435\u0434\u0440\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0434\u0440\u0435\u0432\u043d\u0435\u0433\u043e \u043c\u0438\u0440\u0430 \u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u0438\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430.", 
+    "description": "АНТИЧНЫЙ МИР И АРХЕОЛОГИЯ ( Monde antique et archéologie). Античный мир и археология (общепринятое сокращение - АМА) - межвузовский сборник научных трудов, посвящённый истории и археологии древнего мира. Издаётся Кафедрой истории древнего мира Саратовского Государственного Университета и издательством Саратовского Государственного Университета.", 
     "domain": "ancientrome.ru", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1643207021415101535", 
             "resource_date": "2013-06-17T17:09:33.627-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.453690"
+            "when": "2015-10-27T18:37:56.388176"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-monde-antique-et.html", 
             "resource_date": "2013-06-17T17:09:33.627-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.453710"
+            "when": "2015-10-27T18:37:56.388191"
         }
     ], 
     "publishers": [], 
@@ -79,67 +79,67 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 1.1972", 
+            "title_full": "ВЫПУСК 1.1972", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#72"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 2.1974", 
+            "title_full": "ВЫПУСК 2.1974", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#74"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 3.1977", 
+            "title_full": "ВЫПУСК 3.1977", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#77"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 4.1979", 
+            "title_full": "ВЫПУСК 4.1979", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#79"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 5.1983", 
+            "title_full": "ВЫПУСК 5.1983", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#83"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 6.1986", 
+            "title_full": "ВЫПУСК 6.1986", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#86"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 7.1990", 
+            "title_full": "ВЫПУСК 7.1990", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#90"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 8.1990", 
+            "title_full": "ВЫПУСК 8.1990", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#90b"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 9.1993", 
+            "title_full": "ВЫПУСК 9.1993", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#93"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 10.1999", 
+            "title_full": "ВЫПУСК 10.1999", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#99"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 11.2002", 
+            "title_full": "ВЫПУСК 11.2002", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#02"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 12.2006", 
+            "title_full": "ВЫПУСК 12.2006", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#06"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 13.2009", 
+            "title_full": "ВЫПУСК 13.2009", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#09"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 14.2010", 
+            "title_full": "ВЫПУСК 14.2010", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#10"
         }, 
         {
-            "title_full": "\u0412\u042b\u041f\u0423\u0421\u041a 15.2011", 
+            "title_full": "ВЫПУСК 15.2011", 
             "url": "http://ancientrome.ru/publik/ama/index.htm#11"
         }
     ], 
-    "title": "\u0410\u041d\u0422\u0418\u0427\u041d\u042b\u0419 \u041c\u0418\u0420 \u0418 \u0410\u0420\u0425\u0415\u041e\u041b\u041e\u0413\u0418\u042f ( Monde antique et arch\u00e9ologie)", 
+    "title": "АНТИЧНЫЙ МИР И АРХЕОЛОГИЯ ( Monde antique et archéologie)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

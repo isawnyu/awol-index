@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", hereOccasionally issues of journals where one might not normally think to look produce thematic issues of interest. Availability online makes them much more discoverable. A case in point: 2012/03: Sickness, Hunger, War, and Religion: Multidisciplinary Perspectives, Edited by Michaela Harbeck, Kristin von Heyking, and Heiner SchwarzbergThis volume presents exciting syntheses between research in the fields of archaeology, anthropology, and history. Moving from prehistory to the medieval period, six chapters look at humanity\u2019s struggles with subsistence, religious belief, ill-health, death, and warfare in a variety of global landscapes, and show how, by sharing expertise and combining methodological approaches, we can advance our understanding of our common past.", 
+    "description": ", hereOccasionally issues of journals where one might not normally think to look produce thematic issues of interest. Availability online makes them much more discoverable. A case in point: 2012/03: Sickness, Hunger, War, and Religion: Multidisciplinary Perspectives, Edited by Michaela Harbeck, Kristin von Heyking, and Heiner SchwarzbergThis volume presents exciting syntheses between research in the fields of archaeology, anthropology, and history. Moving from prehistory to the medieval period, six chapters look at humanity’s struggles with subsistence, religious belief, ill-health, death, and warfare in a variety of global landscapes, and show how, by sharing expertise and combining methodological approaches, we can advance our understanding of our common past.", 
     "domain": "www.carsoncenter.uni-muenchen.de", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7842903432222960066", 
             "resource_date": "2014-05-15T10:57:11.973-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:51.717758"
+            "when": "2015-10-27T18:46:38.573877"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/one-off-journal-issues-sickness-hunger.html", 
             "resource_date": "2014-05-15T10:57:11.973-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:51.717777"
+            "when": "2015-10-27T18:46:38.573892"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7842903432222960066", 
             "resource_date": "2014-05-15T10:57:11.973-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:51.719697"
+            "when": "2015-10-27T18:46:38.575475"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/one-off-journal-issues-sickness-hunger.html", 
             "resource_date": "2014-05-15T10:57:11.973-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:51.719713"
+            "when": "2015-10-27T18:46:38.575487"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:51.724997"
+            "when": "2015-10-27T18:46:38.580847"
         }
     ], 
     "publishers": [], 

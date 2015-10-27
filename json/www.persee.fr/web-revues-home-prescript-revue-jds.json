@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.692968"
+            "when": "2015-10-27T18:38:36.965842"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.692993"
+            "when": "2015-10-27T18:38:36.965854"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8921809686254806369", 
             "resource_date": "2014-09-02T07:00:49.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:00.451207"
+            "when": "2015-10-27T18:48:56.743292"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-journal-des-savants.html", 
             "resource_date": "2014-09-02T07:00:49.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:00.451225"
+            "when": "2015-10-27T18:48:56.743308"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:04.801790"
+            "when": "2015-10-27T18:49:01.351812"
         }
     ], 
     "publishers": [], 

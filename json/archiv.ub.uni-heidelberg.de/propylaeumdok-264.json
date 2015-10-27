@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:41.696543"
+            "when": "2015-10-27T18:48:36.068195"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:41.696559"
+            "when": "2015-10-27T18:48:36.068209"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Eulen der Athena in einer M\u00fcnsterschen Privatsammlung", 
+    "title": "Eulen der Athena in einer Münsterschen Privatsammlung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

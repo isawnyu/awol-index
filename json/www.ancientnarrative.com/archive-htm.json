@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6629324133595622730", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:25.543800"
+            "when": "2015-10-27T18:45:05.399979"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-ancient.html", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:25.543816"
+            "when": "2015-10-27T18:45:05.399996"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6629324133595622730", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:25.546602"
+            "when": "2015-10-27T18:45:05.402854"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-ancient.html", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:25.546615"
+            "when": "2015-10-27T18:45:05.402866"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:25.587490"
+            "when": "2015-10-27T18:45:05.448331"
         }
     ], 
     "publishers": [], 
@@ -158,7 +158,7 @@
             "url": "http://www.ancientnarrative.com/archive/antocsup17.htm"
         }, 
         {
-            "title_full": "Ancient Narrative Supplementum 16 The Ancient Novel and Early Christian and Jewish Narrative: Fictional Intersections. Mar\u00edlia P. Futre Pinheiro, Judith Perkins, Richard Pervo (eds.)", 
+            "title_full": "Ancient Narrative Supplementum 16 The Ancient Novel and Early Christian and Jewish Narrative: Fictional Intersections. Marília P. Futre Pinheiro, Judith Perkins, Richard Pervo (eds.)", 
             "url": "http://www.ancientnarrative.com/archive/antocsup16.htm"
         }, 
         {
@@ -166,7 +166,7 @@
             "url": "http://www.ancientnarrative.com/archive/antocsup15.htm"
         }, 
         {
-            "title_full": "Ancient Narrative Supplementum 14.1 and 2 Fictional Traces: Receptions of the Ancient Novel - Volume 1 and 2. Mar\u00edlia P. Futre Pinheiro & Stephen J. Harrison (eds)", 
+            "title_full": "Ancient Narrative Supplementum 14.1 and 2 Fictional Traces: Receptions of the Ancient Novel - Volume 1 and 2. Marília P. Futre Pinheiro & Stephen J. Harrison (eds)", 
             "url": "http://www.ancientnarrative.com/archive/antocsup14.htm"
         }, 
         {
@@ -198,7 +198,7 @@
             "url": "http://www.ancientnarrative.com/archive/antocsup07.htm"
         }, 
         {
-            "title_full": "Ancient Narrative Supplementum 6 Lectiones Scrupulosae. Essays on the Text and Interpretation. of Apuleius\u2019 Metamorphoses in Honour of Maaike Zimmerman . W.H. Keulen, R.R. Nauta & S. Panayotakis (eds.)", 
+            "title_full": "Ancient Narrative Supplementum 6 Lectiones Scrupulosae. Essays on the Text and Interpretation. of Apuleius’ Metamorphoses in Honour of Maaike Zimmerman . W.H. Keulen, R.R. Nauta & S. Panayotakis (eds.)", 
             "url": "http://www.ancientnarrative.com/archive/antocsup06.htm"
         }, 
         {
@@ -214,7 +214,7 @@
             "url": "http://www.ancientnarrative.com/archive/antocsup03.htm"
         }, 
         {
-            "title_full": "Ancient Narrative Supplementum 2 . The Recollections of Encolpius Gottsk\u00e1lk Jensson", 
+            "title_full": "Ancient Narrative Supplementum 2 . The Recollections of Encolpius Gottskálk Jensson", 
             "url": "http://www.ancientnarrative.com/archive/antocsup02.htm"
         }, 
         {

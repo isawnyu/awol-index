@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "brand-new SPP (no. 239): The Expansion of the Indo-European Languages: An Indo-Europeanist\u2019s Evolving View, by Eric P. Hamp, with annotation and comments by Douglas Q. Adams.", 
+    "description": "brand-new SPP (no. 239): The Expansion of the Indo-European Languages: An Indo-Europeanist’s Evolving View, by Eric P. Hamp, with annotation and comments by Douglas Q. Adams.", 
     "domain": "sino-platonic.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4952386813589797299", 
             "resource_date": "2015-05-19T13:39:32.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.043444"
+            "when": "2015-10-27T18:43:06.072894"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/open-access-intercultural-relations-of.html", 
             "resource_date": "2015-05-19T13:39:32.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.043456"
+            "when": "2015-10-27T18:43:06.072904"
         }
     ], 
     "publishers": [], 

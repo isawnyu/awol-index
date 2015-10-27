@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "AG\u00c9A: Anthroponymes et G\u00e9n\u00e9alogies de l\u2019\u00c9gypte Ancienne", 
+        "title_full": "AGÉA: Anthroponymes et Généalogies de l’Égypte Ancienne", 
         "url": "http://www.ifao.egnet.net/bases/agea/noms/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1327537518357970663", 
             "resource_date": "2014-01-30T11:17:38.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.116189"
+            "when": "2015-10-27T18:37:28.463441"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/online-anthroponyms-and-genealogy-of.html", 
             "resource_date": "2014-01-30T11:17:38.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.116205"
+            "when": "2015-10-27T18:37:28.463454"
         }
     ], 
     "publishers": [], 

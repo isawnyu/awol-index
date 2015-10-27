@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot. ISSN: 1148-6023. Eug\u00e8ne Piot (1812-1890), esth\u00e8te et arch\u00e9ologue, qui voulait contribuer au d\u00e9veloppement de la recherche et du go\u00fbt dans le vaste domaine de l\u2019art depuis le temps des anciennes cultures de l\u2019Orient jusqu\u2019\u00e0 la Renaissance, l\u00e9gua sa fortune \u00e0 l\u2019Acad\u00e9mie des Inscriptions et Belles-Lettres. Celle-ci d\u00e9cida alors de publier, gr\u00e2ce aux revenus de la Fondation Piot, des Monuments et M\u00e9moires consacr\u00e9s aux \u00e9tudes d\u2019art et d\u2019arch\u00e9ologie, collection tr\u00e8s richement illustr\u00e9e dont le premier volume parut en 1894.", 
+    "description": "Monuments et mémoires de la Fondation Eugène Piot. ISSN: 1148-6023. Eugène Piot (1812-1890), esthète et archéologue, qui voulait contribuer au développement de la recherche et du goût dans le vaste domaine de l’art depuis le temps des anciennes cultures de l’Orient jusqu’à la Renaissance, légua sa fortune à l’Académie des Inscriptions et Belles-Lettres. Celle-ci décida alors de publier, grâce aux revenus de la Fondation Piot, des Monuments et Mémoires consacrés aux études d’art et d’archéologie, collection très richement illustrée dont le premier volume parut en 1894.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Monuments et m\u00e9moires de la Fondation Eug\u00e8ne Piot", 
+        "title_full": "Monuments et mémoires de la Fondation Eugène Piot", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/piot"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-76307762764635320", 
             "resource_date": "2014-07-25T10:54:10.609-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:16.215452"
+            "when": "2015-10-27T18:46:00.663613"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/emerging-open-access-journal-monuments.html", 
             "resource_date": "2014-07-25T10:54:10.609-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:16.215469"
+            "when": "2015-10-27T18:46:00.663625"
         }
     ], 
     "publishers": [], 

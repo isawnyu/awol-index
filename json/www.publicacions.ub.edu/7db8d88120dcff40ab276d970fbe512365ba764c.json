@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Estudios bizantinos: Revista de la Sociedad Espa\u00f1ola de Bizantin\u00edstica.", 
+    "description": "Estudios bizantinos: Revista de la Sociedad Española de Bizantinística.", 
     "domain": "www.publicacions.ub.edu", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Estudios bizantinos: Revista de la Sociedad Espa\u00f1ola de Bizantin\u00edstica", 
+        "title_full": "Estudios bizantinos: Revista de la Sociedad Española de Bizantinística", 
         "url": "http://www.publicacions.ub.edu/revistes/estudiosBizantinos01/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2778431072045805787", 
             "resource_date": "2014-01-29T07:44:04.553-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:48.821943"
+            "when": "2015-10-27T18:38:57.319207"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-estudios.html", 
             "resource_date": "2014-01-29T07:44:04.553-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:48.821956"
+            "when": "2015-10-27T18:38:57.319218"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "El himno Ak\u00e1thistos en Occidente. La importancia de la traducci\u00f3n latina de Crist\u00f3foro (ca. 800)", 
+    "title": "El himno Akáthistos en Occidente. La importancia de la traducción latina de Cristóforo (ca. 800)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

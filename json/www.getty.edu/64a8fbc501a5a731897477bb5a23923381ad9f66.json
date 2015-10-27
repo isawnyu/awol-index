@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "J\u00e1nos Gy. Szil\u00e1gyi, William R. Biers, Cynthia Hoyt-Grimes, Donna Carol Kurtz, John Boardman, Martin Robertson, Elfriede R. Knauer, Susan B. Matheson, J. R. Green, Mario A. Del Chiaro, Toby Schreiber.", 
+    "description": "János Gy. Szilágyi, William R. Biers, Cynthia Hoyt-Grimes, Donna Carol Kurtz, John Boardman, Martin Robertson, Elfriede R. Knauer, Susan B. Matheson, J. R. Green, Mario A. Del Chiaro, Toby Schreiber.", 
     "domain": "www.getty.edu", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1697581904695761075", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:54.745603"
+            "when": "2015-10-27T18:37:59.029310"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/just-announced-getty-publications.html", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:54.745614"
+            "when": "2015-10-27T18:37:59.029330"
         }
     ], 
     "publishers": [], 

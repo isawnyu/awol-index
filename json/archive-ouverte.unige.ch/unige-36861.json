@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:19.051862"
+            "when": "2015-10-27T18:43:52.000729"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:19.051875"
+            "when": "2015-10-27T18:43:52.000744"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Pierres lev\u00e9es, st\u00e8les anthropomorphes et dolmens : Aspects cultuels des IVe et IIIe mill\u00e9naires au Levant et en p\u00e9ninsule Arabique", 
+    "title": "Pierres levées, stèles anthropomorphes et dolmens : Aspects cultuels des IVe et IIIe millénaires au Levant et en péninsule Arabique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

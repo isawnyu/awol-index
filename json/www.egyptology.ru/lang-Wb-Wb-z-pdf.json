@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[. pdf 1,97 \u043c\u0431].", 
+    "description": "[. pdf 1,97 мб].", 
     "domain": "www.egyptology.ru", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "W\u00d6RTERBUCH DER AEGYPTISCHEN SPRACHE", 
+        "title_full": "WÖRTERBUCH DER AEGYPTISCHEN SPRACHE", 
         "url": "http://www.egyptology.ru/lang.htm#Woerterbuch"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4018703502665584106", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:57.161693"
+            "when": "2015-10-27T18:41:19.436026"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/digitized-worterbuch-der-agytschen.html", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:57.161704"
+            "when": "2015-10-27T18:41:19.436038"
         }
     ], 
     "publishers": [], 

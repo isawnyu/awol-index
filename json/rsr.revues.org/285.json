@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "83/1 | 2009. Hommes et femmes dans la Bible et la th\u00e9ologie.", 
+    "description": "83/1 | 2009. Hommes et femmes dans la Bible et la théologie.", 
     "domain": "rsr.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6437812859996638006", 
             "resource_date": "2014-12-03T12:43:23.086-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:04.241298"
+            "when": "2015-10-27T18:44:42.012868"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-des-sciences.html", 
             "resource_date": "2014-12-03T12:43:23.086-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:04.241311"
+            "when": "2015-10-27T18:44:42.012879"
         }
     ], 
     "publishers": [], 

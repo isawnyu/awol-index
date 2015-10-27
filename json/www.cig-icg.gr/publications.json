@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The Canadian Institute in Greece Bulletin de l'Institut canadien en Gr\u00e9ce. The Institute produces a semi-annual Bulletin to keep its membership up-to-date on the latest events at the Institute and activities of its members. In addition to reports from the Athens staff and the Institute\u2019s financial reports, the Bulletin also includes the latest news on fieldwork carried out under the aegis of CIG, and by its Board members and members at large, activities organized by its Associations of Friends, and articles by its interns and Fellows. The most recent issue of the Bulletin, volume 32, appeared in December 2013. Electronic copies of some previous issues may be viewed below:.", 
+    "description": "The Canadian Institute in Greece Bulletin de l'Institut canadien en Gréce. The Institute produces a semi-annual Bulletin to keep its membership up-to-date on the latest events at the Institute and activities of its members. In addition to reports from the Athens staff and the Institute’s financial reports, the Bulletin also includes the latest news on fieldwork carried out under the aegis of CIG, and by its Board members and members at large, activities organized by its Associations of Friends, and articles by its interns and Fellows. The most recent issue of the Bulletin, volume 32, appeared in December 2013. Electronic copies of some previous issues may be viewed below:.", 
     "domain": "www.cig-icg.gr", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-214639853072203724", 
             "resource_date": "2014-05-17T10:56:04.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:17.741514"
+            "when": "2015-10-27T18:38:25.338162"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-canadian-institute.html", 
             "resource_date": "2014-05-17T10:56:04.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:17.741530"
+            "when": "2015-10-27T18:38:25.338178"
         }
     ], 
     "publishers": [], 
@@ -119,7 +119,7 @@
             "url": "http://www.cig-icg.gr/sites/default/files/docs/Bulletin23.doc"
         }
     ], 
-    "title": "The Canadian Institute in Greece Bulletin de l'Institut canadien en Gr\u00e9ce", 
+    "title": "The Canadian Institute in Greece Bulletin de l'Institut canadien en Gréce", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

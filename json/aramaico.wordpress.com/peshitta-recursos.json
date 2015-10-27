@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aramaico: Una biblioteca sobre a l\u00edngua e cultura aramaica. Este blog tem como objetivo principal buscar, indexar e categorizar os recursos existentes na web, relacionados \u00e0 lingua e cultura aramaica, tais como livros e outros sites. Ocasionalmente, o autor deste blog publicar\u00e1 notas e estudos pessoais, resultados de suas pr\u00f3prias pesquisas. Salienta-se que de nenhum modo o autor do blog \u00e9 um especialista na l\u00edngua aramaica, sendo apenas um estudante entusiasta desta \u00e1rea, sem nenhum tipo de rela\u00e7\u00e3o e/ou apoio de Igrejas, Universidades, denomina\u00e7\u00f5es religiosas, etc. Todos os estudos, livros, sites etc apresentados neste blog s\u00e3o de propriedade dos seus autores e editores. O administrador deste blog ou seus leitores n\u00e3o t\u00eam direito comercial. Copiar para fins comerciais, \u00e9 estritamente proibido.", 
+    "description": "Aramaico: Una biblioteca sobre a língua e cultura aramaica. Este blog tem como objetivo principal buscar, indexar e categorizar os recursos existentes na web, relacionados à lingua e cultura aramaica, tais como livros e outros sites. Ocasionalmente, o autor deste blog publicará notas e estudos pessoais, resultados de suas próprias pesquisas. Salienta-se que de nenhum modo o autor do blog é um especialista na língua aramaica, sendo apenas um estudante entusiasta desta área, sem nenhum tipo de relação e/ou apoio de Igrejas, Universidades, denominações religiosas, etc. Todos os estudos, livros, sites etc apresentados neste blog são de propriedade dos seus autores e editores. O administrador deste blog ou seus leitores não têm direito comercial. Copiar para fins comerciais, é estritamente proibido.", 
     "domain": "aramaico.wordpress.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Aramaico: Una biblioteca sobre a l\u00edngua e cultura aramaica", 
+        "title_full": "Aramaico: Una biblioteca sobre a língua e cultura aramaica", 
         "url": "http://aramaico.wordpress.com/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3974596959369162901", 
             "resource_date": "2013-09-09T17:04:49.211-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:53.426110"
+            "when": "2015-10-27T18:41:15.243701"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/aramaico-una-biblioteca-sobre-lingua-e.html", 
             "resource_date": "2013-09-09T17:04:49.211-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:53.426122"
+            "when": "2015-10-27T18:41:15.243719"
         }
     ], 
     "publishers": [], 

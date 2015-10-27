@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Lippert, S. and Schentuleit, M. (Hrsgg. ): Tebtynis und Soknopaiou Nesos. Leben im r\u00f6merzeitlichen Fajum. Wiesbaden 2005, pp. 105-115. Quack, Joachim Friedrich (2005).", 
+    "description": "In: Lippert, S. and Schentuleit, M. (Hrsgg. ): Tebtynis und Soknopaiou Nesos. Leben im römerzeitlichen Fajum. Wiesbaden 2005, pp. 105-115. Quack, Joachim Friedrich (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:58.768133"
+            "when": "2015-10-27T18:40:10.424332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:58.768150"
+            "when": "2015-10-27T18:40:10.424349"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die \u00dcberlieferungsstruktur des Buches vom Tempel", 
+    "title": "Die Überlieferungsstruktur des Buches vom Tempel", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

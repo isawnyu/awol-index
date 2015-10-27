@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 9 May 2012, updated 17 January 2015]. Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale: Rapports d\u2019activit\u00e9s annuels (Suppl\u00e9ment au bulletin de l\u2019institut fran\u00e7ais d\u2019arch\u00e9ologie orientale). ISSN: 1110-2438. L\u2019IFAO publie chaque ann\u00e9e un rapport d'activit\u00e9 dans le Bulletin de Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale et uniquement en ligne depuis 2012. Voici au format PDF ceux des derni\u00e8res ann\u00e9es. Pour les ann\u00e9es pr\u00e9c\u00e9dentes, veuillez consulter le BIFAO en ligne qui comporte \u00e0 la fin de chaque volume notre rapport d'activit\u00e9. Every year the IFAO publishes a report of its activities in its Bulletin, and on-line since 2012. See here for the last fifteen years in PDF format. For previous years, see BIFAO on-line: the end of each volume holds the activity report.", 
+    "description": "[First posted in AWOL 9 May 2012, updated 17 January 2015]. Institut français d’archéologie orientale: Rapports d’activités annuels (Supplément au bulletin de l’institut français d’archéologie orientale). ISSN: 1110-2438. L’IFAO publie chaque année un rapport d'activité dans le Bulletin de Institut français d’archéologie orientale et uniquement en ligne depuis 2012. Voici au format PDF ceux des dernières années. Pour les années précédentes, veuillez consulter le BIFAO en ligne qui comporte à la fin de chaque volume notre rapport d'activité. Every year the IFAO publishes a report of its activities in its Bulletin, and on-line since 2012. See here for the last fifteen years in PDF format. For previous years, see BIFAO on-line: the end of each volume holds the activity report.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -20,7 +20,7 @@
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale", 
+        "Institut français d’archéologie orientale", 
         "annual report", 
         "Egypt", 
         "egyptology", 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7735076758975827661", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.727071"
+            "when": "2015-10-27T18:46:33.124605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/institut-francais-darcheologie.html", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.727090"
+            "when": "2015-10-27T18:46:33.124621"
         }
     ], 
     "publishers": [], 
@@ -167,7 +167,7 @@
             "url": "http://www.ifao.egnet.net/bcai"
         }
     ], 
-    "title": "Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale: Rapports d\u2019activit\u00e9s annuels (", 
+    "title": "Institut français d’archéologie orientale: Rapports d’activités annuels (", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

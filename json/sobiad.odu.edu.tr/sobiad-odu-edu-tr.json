@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sosyal Bilimler Ara\u015ft\u0131rmalar\u0131 Dergisi. ISSN: 1309-9302. SOSYAL B\u0130L\u0130MLER ARA\u015eTIRMALARI DERG\u0130S\u0130, an international, peer-reviewed, from 2010 will be issued two times annually. SOSYAL B\u0130L\u0130MLER ARA\u015eTIRMALARI DERG\u0130S\u0130, includes research on the fields of literature, linguistics, philology, history, geography, anthropology, archaeology, psychology, sociology, education, theology etc. Manuscripts (in English, in French or in Turkish) should not exceed 40 standard pages in length. Articles should be accompanied by a summary of size not exceeding 10 lines in English. The electronic submission of the manuscripts (in word format) is preferable.", 
+    "description": "Sosyal Bilimler Araştırmaları Dergisi. ISSN: 1309-9302. SOSYAL BİLİMLER ARAŞTIRMALARI DERGİSİ, an international, peer-reviewed, from 2010 will be issued two times annually. SOSYAL BİLİMLER ARAŞTIRMALARI DERGİSİ, includes research on the fields of literature, linguistics, philology, history, geography, anthropology, archaeology, psychology, sociology, education, theology etc. Manuscripts (in English, in French or in Turkish) should not exceed 40 standard pages in length. Articles should be accompanied by a summary of size not exceeding 10 lines in English. The electronic submission of the manuscripts (in word format) is preferable.", 
     "domain": "sobiad.odu.edu.tr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Sosyal Bilimler Ara\u015ft\u0131rmalar\u0131 Dergisi", 
+        "title_full": "Sosyal Bilimler Araştırmaları Dergisi", 
         "url": "http://sobiad.odu.edu.tr/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-419721118979516572", 
             "resource_date": "2010-09-16T08:57:31.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.984270"
+            "when": "2015-10-27T18:41:27.052417"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/new-open-access-journal-sosyal-bilimler.html", 
             "resource_date": "2010-09-16T08:57:31.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.984286"
+            "when": "2015-10-27T18:41:27.052440"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-419721118979516572", 
             "resource_date": "2010-09-16T08:57:31.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.987988"
+            "when": "2015-10-27T18:41:27.058937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/new-open-access-journal-sosyal-bilimler.html", 
             "resource_date": "2010-09-16T08:57:31.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.988001"
+            "when": "2015-10-27T18:41:27.058954"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:03.990025"
+            "when": "2015-10-27T18:41:27.062288"
         }
     ], 
     "publishers": [], 
@@ -147,11 +147,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Sosyal Bilimler Ara\u015ft\u0131rmalar\u0131 Dergisi", 
+            "title_full": "Sosyal Bilimler Araştırmaları Dergisi", 
             "url": "http://sobiad.odu.edu.tr/"
         }
     ], 
-    "title": "Sosyal Bilimler Ara\u015ft\u0131rmalar\u0131 Dergisi", 
+    "title": "Sosyal Bilimler Araştırmaları Dergisi", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

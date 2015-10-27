@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 15 November 2015, updated 23 May 2015]. Mitteilungen der Deutsche Wasserhistorische Gesellschaft (DWhG). Die Deutsche Wasserhistorische Gesellschaft e. V. (DWhG) wurde am 19. Januar 2002 im \u00fcber 2000 j\u00e4hrigen Mainz gegr\u00fcndet. Die DWhG ist als gemeinn\u00fctzig anerkannt und aufgrund ihrer Satzung im Vereinsregister beim Amtsgericht Siegburg eingetragen. Sie ist aus dem 1963 von Dr. -Ing. Martin Eckoldt (+) an der Bundesanstalt f\u00fcr Gew\u00e4sserkunde in Koblenz gebildeten Studienkreis f\u00fcr Geschichte des Wasserbaus, der Wasserwirtschaft und der Hydrologie hervorgegangen.", 
+    "description": "[First posted in AWOL 15 November 2015, updated 23 May 2015]. Mitteilungen der Deutsche Wasserhistorische Gesellschaft (DWhG). Die Deutsche Wasserhistorische Gesellschaft e. V. (DWhG) wurde am 19. Januar 2002 im über 2000 jährigen Mainz gegründet. Die DWhG ist als gemeinnützig anerkannt und aufgrund ihrer Satzung im Vereinsregister beim Amtsgericht Siegburg eingetragen. Sie ist aus dem 1963 von Dr. -Ing. Martin Eckoldt (+) an der Bundesanstalt für Gewässerkunde in Koblenz gebildeten Studienkreis für Geschichte des Wasserbaus, der Wasserwirtschaft und der Hydrologie hervorgegangen.", 
     "domain": "www.dwhg-ev.com", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6065591273020885193", 
             "resource_date": "2015-05-23T18:43:45.016-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.636118"
+            "when": "2015-10-27T18:44:18.501399"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-mitteilungen-der.html", 
             "resource_date": "2015-05-23T18:43:45.016-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.636134"
+            "when": "2015-10-27T18:44:18.501414"
         }
     ], 
     "publishers": [], 

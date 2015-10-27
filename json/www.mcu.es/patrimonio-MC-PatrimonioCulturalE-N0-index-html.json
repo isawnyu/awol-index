@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Patrimonio Cultural de Espa\u00f1a. Revista del IPCE", 
+        "title_full": "Patrimonio Cultural de España. Revista del IPCE", 
         "url": "http://www.mcu.es/patrimonio/MC/PatrimonioCulturalE/index.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2407062918528279154", 
             "resource_date": "2014-11-16T17:00:44.905-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.744133"
+            "when": "2015-10-27T18:38:44.659610"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-accesss-journal-patrimonio.html", 
             "resource_date": "2014-11-16T17:00:44.905-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.744159"
+            "when": "2015-10-27T18:38:44.659632"
         }
     ], 
     "publishers": [], 

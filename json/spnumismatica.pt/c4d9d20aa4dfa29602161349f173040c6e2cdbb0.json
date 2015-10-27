@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Nummus: numism\u00e1tica, medalh\u00edstica, arqueologia", 
+        "title_full": "Nummus: numismática, medalhística, arqueologia", 
         "url": "http://spnumismatica.pt/index.php?pageId=publicacoes&pub=nummus"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4791784604614261605", 
             "resource_date": "2014-07-31T12:29:16.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.198634"
+            "when": "2015-10-27T18:42:11.150239"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-journals-nummus-numismatica.html", 
             "resource_date": "2014-07-31T12:29:16.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.198645"
+            "when": "2015-10-27T18:42:11.150251"
         }
     ], 
     "publishers": [], 

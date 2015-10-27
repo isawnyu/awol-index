@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "MARANGOU, A. & MARCHAND, S. , Conteneurs import\u00e9s et \u00e9gyptiens \u00e0 Tebtynis (Fayoum), 2007.", 
+    "description": "MARANGOU, A. & MARCHAND, S. , Conteneurs importés et égyptiens à Tebtynis (Fayoum), 2007.", 
     "domain": "www.amphoreus.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2431371716274894340", 
             "resource_date": "2012-11-27T09:53:28.027-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.308122"
+            "when": "2015-10-27T18:38:45.251177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/online-database-of-bulletin.html", 
             "resource_date": "2012-11-27T09:53:28.027-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.308136"
+            "when": "2015-10-27T18:38:45.251189"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "G\u00d6RANSSON Kr., The Transport Amphorae from Euesperides, 2007: Addenda et Corrigenda", 
+    "title": "GÖRANSSON Kr., The Transport Amphorae from Euesperides, 2007: Addenda et Corrigenda", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

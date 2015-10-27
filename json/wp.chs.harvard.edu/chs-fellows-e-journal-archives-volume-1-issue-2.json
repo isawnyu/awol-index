@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "CHS Research Bulletin. ISSN: 2329-0137. The CHS Research Bulletin (ISSN 2329-0137) is an e-journal dedicated to work of current fellows at the Center for Hellenic Studies in Washington, DC. The Center for Hellenic Studies publishes two issues each year to correspond with the biannual research symposia in December and April. During these events, fellows present their research in progress before an audience of faculty and students. The CHS Research Bulletin contains the fellows\u2019 symposium papers and videos of their presentations. The CHS Research Bulletin website also includes a blog featuring shorter contributions by fellows. The current issue (Volume 2, Issue 1) features the work of eight fellows who conducted research at the Center for Hellenic Studies during the spring and fall semesters of 2013. On December 6, 2013, the fellows presented their research to an audience of faculty, students, and senior fellows at the Center for Hellenic Studies in Washington, DC. This issue includes video from the December symposium. The papers and videos will be published incrementally and all content will be available by May 2014.", 
+    "description": "CHS Research Bulletin. ISSN: 2329-0137. The CHS Research Bulletin (ISSN 2329-0137) is an e-journal dedicated to work of current fellows at the Center for Hellenic Studies in Washington, DC. The Center for Hellenic Studies publishes two issues each year to correspond with the biannual research symposia in December and April. During these events, fellows present their research in progress before an audience of faculty and students. The CHS Research Bulletin contains the fellows’ symposium papers and videos of their presentations. The CHS Research Bulletin website also includes a blog featuring shorter contributions by fellows. The current issue (Volume 2, Issue 1) features the work of eight fellows who conducted research at the Center for Hellenic Studies during the spring and fall semesters of 2013. On December 6, 2013, the fellows presented their research to an audience of faculty, students, and senior fellows at the Center for Hellenic Studies in Washington, DC. This issue includes video from the December symposium. The papers and videos will be published incrementally and all content will be available by May 2014.", 
     "domain": "wp.chs.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7185922238017646566", 
             "resource_date": "2014-02-01T12:54:12.634-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:49.505302"
+            "when": "2015-10-27T18:45:31.822816"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-access-journal-chs-research.html", 
             "resource_date": "2014-02-01T12:54:12.634-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:49.505315"
+            "when": "2015-10-27T18:45:31.822830"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Albertz, R. and Bl\u00f6baum, A. and Funke, Peter (Hrsgg. ): R\u00e4ume und Grenzen. Topologische Konzepte in den antiken Kulturen des \u00f6stlichen Mittelmeerraumes. M\u00fcnchen 2007, pp. 187-204. Funke, Peter (1980).", 
+    "description": "In: Albertz, R. and Blöbaum, A. and Funke, Peter (Hrsgg. ): Räume und Grenzen. Topologische Konzepte in den antiken Kulturen des östlichen Mittelmeerraumes. München 2007, pp. 187-204. Funke, Peter (1980).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.585750"
+            "when": "2015-10-27T18:46:45.747299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.585766"
+            "when": "2015-10-27T18:46:45.747314"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Alte Grenzen - neue Grenzen. Formen polis\u00fcbergreifender Machtbildung in klassischer und hellenistischer Zeit", 
+    "title": "Alte Grenzen - neue Grenzen. Formen polisübergreifender Machtbildung in klassischer und hellenistischer Zeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

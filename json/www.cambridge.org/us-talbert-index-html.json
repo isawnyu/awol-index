@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Rome\u2019s World: The Peutinger Map Reconsidered. Richard J. A. Talbert. Supplementary materials online at Cambridge University Press.", 
+    "description": "Rome’s World: The Peutinger Map Reconsidered. Richard J. A. Talbert. Supplementary materials online at Cambridge University Press.", 
     "domain": "www.cambridge.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+        "title_full": "Rome’s World: The Peutinger Map Reconsidered", 
         "url": "http://www.cambridge.org/us/talbert/index.html"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2010937680683481159", 
             "resource_date": "2012-07-14T08:08:10.517-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:09.654396"
+            "when": "2015-10-27T18:38:16.310342"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/romes-world-online-supplement.html", 
             "resource_date": "2012-07-14T08:08:10.517-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:09.654420"
+            "when": "2015-10-27T18:38:16.310359"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2010937680683481159", 
             "resource_date": "2012-07-14T08:08:10.517-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:09.658236"
+            "when": "2015-10-27T18:38:16.314750"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/romes-world-online-supplement.html", 
             "resource_date": "2012-07-14T08:08:10.517-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:09.658249"
+            "when": "2015-10-27T18:38:16.314766"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:10.074184"
+            "when": "2015-10-27T18:38:16.830862"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+            "title_full": "Rome’s World: The Peutinger Map Reconsidered", 
             "url": "http://www.cambridge.org/us/talbert/index.html"
         }, 
         {
@@ -859,7 +859,7 @@
             "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-BAtlas.html"
         }, 
         {
-            "title_full": "B\u00fchl", 
+            "title_full": "Bühl", 
             "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-Buehl.html"
         }, 
         {
@@ -915,7 +915,7 @@
             "url": "http://www.cambridge.org/us/talbert/talbertdatabase/concordance-BAtlasOmitted.html"
         }
     ], 
-    "title": "Rome\u2019s World: The Peutinger Map Reconsidered", 
+    "title": "Rome’s World: The Peutinger Map Reconsidered", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

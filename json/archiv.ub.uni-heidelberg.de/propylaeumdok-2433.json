@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Recherches Augustiniennes, 14 (1979), pp. 3-90. Jastrz\u0119bowska, El\u017cbieta (1997).", 
+    "description": "In: Recherches Augustiniennes, 14 (1979), pp. 3-90. Jastrzębowska, Elżbieta (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:36.845703"
+            "when": "2015-10-27T18:48:30.495987"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:36.845720"
+            "when": "2015-10-27T18:48:30.496004"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Les sc\u00e8nes de banquet dans les peintures et sculptures chr\u00e9tiennes des IIIe et IVe si\u00e8cles", 
+    "title": "Les scènes de banquet dans les peintures et sculptures chrétiennes des IIIe et IVe siècles", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

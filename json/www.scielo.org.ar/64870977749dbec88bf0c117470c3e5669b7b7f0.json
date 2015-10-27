@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN: 1851-779X. Publicaci\u00f3n de: Centro de Estudios Hel\u00e9nicos. Misi\u00f3n: Publicar art\u00edculos originales sobre filolog\u00eda, filosof\u00eda y literaturas griegas.", 
+    "description": "ISSN: 1851-779X. Publicación de: Centro de Estudios Helénicos. Misión: Publicar artículos originales sobre filología, filosofía y literaturas griegas.", 
     "domain": "www.scielo.org.ar", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1769595443435270814", 
             "resource_date": "2013-05-21T21:41:40.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.890965"
+            "when": "2015-10-27T18:38:02.712527"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-synthesis.html", 
             "resource_date": "2013-05-21T21:41:40.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.890977"
+            "when": "2015-10-27T18:38:02.712540"
         }
     ], 
     "publishers": [], 

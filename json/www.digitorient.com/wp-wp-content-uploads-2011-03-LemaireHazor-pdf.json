@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les formulaires juridiques des tablettes aram\u00e9ennes.", 
+    "description": "Les formulaires juridiques des tablettes araméennes.", 
     "domain": "www.digitorient.com", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725702980694724880", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.332879"
+            "when": "2015-10-27T18:45:08.459913"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/andre-lemaire-articles-online.html", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.332890"
+            "when": "2015-10-27T18:45:08.459924"
         }
     ], 
     "publishers": [], 

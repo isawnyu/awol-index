@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Auteur: Alain Anselin, Universit\u00e9 des Antilles-Guyane. R\u00e9sum\u00e9: \"P. Le Guilloux le rappelle avec justesse, le Conte du Naufrag\u00e9, connu par sa seule \u00e9dition du Papyrus Golenischeff ou Papyrus Ermitage 1115, dont la r\u00e9daction est g\u00e9n\u00e9ralement dat\u00e9e de la XI\u00e8me ou XII\u00e8me dynastie, est un r\u00e9cit qui poss\u00e8de plusieurs niveaux de lecture. L'\u00efle du k3 du Conte du Naufrag\u00e9 a des allures anticip\u00e9es de la fameuse \u00eele du milieu, iw hry-ib, du texte du Papyrus Chester Beatty I, les Aventures d'Horus et Seth - et le Conte du Naufrag\u00e9 m\u00e9riterait une approche similaire \u00e0 celle conduite par M. Broze pour ce texte ramesside post\u00e9rieur. \". Cet article est paru dans les Cahiers Carib\u00e9ens d'Egyptologie n\u00b07/8.", 
+    "description": "Auteur: Alain Anselin, Université des Antilles-Guyane. Résumé: \"P. Le Guilloux le rappelle avec justesse, le Conte du Naufragé, connu par sa seule édition du Papyrus Golenischeff ou Papyrus Ermitage 1115, dont la rédaction est généralement datée de la XIème ou XIIème dynastie, est un récit qui possède plusieurs niveaux de lecture. L'ïle du k3 du Conte du Naufragé a des allures anticipées de la fameuse île du milieu, iw hry-ib, du texte du Papyrus Chester Beatty I, les Aventures d'Horus et Seth - et le Conte du Naufragé mériterait une approche similaire à celle conduite par M. Broze pour ce texte ramesside postérieur. \". Cet article est paru dans les Cahiers Caribéens d'Egyptologie n°7/8.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353794619872537154", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.527060"
+            "when": "2015-10-27T18:40:45.675434"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.527071"
+            "when": "2015-10-27T18:40:45.675450"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Voyage au pays des merveilles - Relectures du Conte du Naufrag\u00e9", 
+    "title": "Voyage au pays des merveilles - Relectures du Conte du Naufragé", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

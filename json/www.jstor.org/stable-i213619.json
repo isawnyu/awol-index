@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Harvard Studies in Classical Philology. ISSN: 0073-0688. [Early (out of copyright) content in JSTOR is free of paywall restrictions and open access]. The Editorial Committee of Harvard Studies in Classical Philology welcomes all submissions dealing with any aspects of the civilizations of ancient Greece and Rome. In considering submissions for publication in Harvard Studies, we adhere to an inclusive definition of what constitutes philology, and we welcome variety in approaches to the study of the ancient world. The breadth of categories in L'ann\u00e9e philologique provides us with a model.", 
+    "description": "Harvard Studies in Classical Philology. ISSN: 0073-0688. [Early (out of copyright) content in JSTOR is free of paywall restrictions and open access]. The Editorial Committee of Harvard Studies in Classical Philology welcomes all submissions dealing with any aspects of the civilizations of ancient Greece and Rome. In considering submissions for publication in Harvard Studies, we adhere to an inclusive definition of what constitutes philology, and we welcome variety in approaches to the study of the ancient world. The breadth of categories in L'année philologique provides us with a model.", 
     "domain": "www.jstor.org", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4793914745885152040", 
             "resource_date": "2014-04-11T13:31:44.852-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.487673"
+            "when": "2015-10-27T18:42:11.447394"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-backfiles-harvard-studies.html", 
             "resource_date": "2014-04-11T13:31:44.852-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.487692"
+            "when": "2015-10-27T18:42:11.447406"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u897f\u6d0b\u53e4\u5178\u5b78\u7814\u7a76 - Classical Society of Japan. ISSN: 0447-9114 / 0447-9114.", 
+    "description": "西洋古典學研究 - Classical Society of Japan. ISSN: 0447-9114 / 0447-9114.", 
     "domain": "ci.nii.ac.jp", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6772463811010891059", 
             "resource_date": "2014-05-10T19:07:34.741-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.722719"
+            "when": "2015-10-27T18:45:12.301689"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-classical-society.html", 
             "resource_date": "2014-05-10T19:07:34.741-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.722737"
+            "when": "2015-10-27T18:45:12.301706"
         }
     ], 
     "publishers": [], 
@@ -321,7 +321,7 @@
             "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160/ISS0000440855_en.html"
         }
     ], 
-    "title": "\u897f\u6d0b\u53e4\u5178\u5b78\u7814\u7a76 - Classical Society of Japan", 
+    "title": "西洋古典學研究 - Classical Society of Japan", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Conjectures et r\u00e9flexions chronologiques. La focale documentaire de deux cartulaires d\u2019Auvergne: xe - xie si\u00e8cles. Par: Julien MUZARD.", 
+    "description": "Conjectures et réflexions chronologiques. La focale documentaire de deux cartulaires d’Auvergne: xe - xie siècles. Par: Julien MUZARD.", 
     "domain": "annalesdejanua.edel.univ-poitiers.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Annales de Janua - Actes des journ\u00e9es d\u2019\u00e9tudes", 
+        "title_full": "Annales de Janua - Actes des journées d’études", 
         "url": "http://annalesdejanua.edel.univ-poitiers.fr/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6057210403388920442", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.052111"
+            "when": "2015-10-27T18:44:17.890041"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.052122"
+            "when": "2015-10-27T18:44:17.890052"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Situer les sources dans leur contexte : le cas du MS Harley 2321 (fol. 17r - 62r) Par : Blanca Angeles . fr Publi\u00e9 en ligne le 15/04/13", 
+    "title": "Situer les sources dans leur contexte : le cas du MS Harley 2321 (fol. 17r - 62r) Par : Blanca Angeles . fr Publié en ligne le 15/04/13", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

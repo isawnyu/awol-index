@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "FAIVRE X. Vases \u00e0 bi\u00e8re: de la production \u00e0 la consommation, Cahier IX - 2007/2008, Th\u00e8me 9 - L\u2019alimentation dans l\u2019Orient Ancien, de la production \u00e0 la consommation, p. 367-383.", 
+    "description": "FAIVRE X. Vases à bière: de la production à la consommation, Cahier IX - 2007/2008, Thème 9 - L’alimentation dans l’Orient Ancien, de la production à la consommation, p. 367-383.", 
     "domain": "www.mae.u-paris10.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ArScAn - Histoire et Arch\u00e9ologie de l\u2019Orient Cun\u00e9iforme", 
+        "title_full": "ArScAn - Histoire et Archéologie de l’Orient Cunéiforme", 
         "url": "http://www.mae.u-paris10.fr/arscan/-ArScAn-Histoire-et-Archeologie-de-.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7717632521991657876", 
             "resource_date": "2015-03-20T18:40:00.876-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.529550"
+            "when": "2015-10-27T18:46:32.885983"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/arscan-histoire-et-archeologie-de.html", 
             "resource_date": "2015-03-20T18:40:00.876-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.529562"
+            "when": "2015-10-27T18:46:32.886004"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "BRENIQUET C. Buvait-on de la bi\u00e8re au chalumeau en M\u00e9sopotamie \u00e0 l\u2019\u00e9poque protodynastique ? , Cahier IX - 2007/2008, Th\u00e8me 9 - L\u2019alimentation dans l\u2019Orient Ancien, de la production \u00e0 la consommation, p. 359-365", 
+    "title": "BRENIQUET C. Buvait-on de la bière au chalumeau en Mésopotamie à l’époque protodynastique ? , Cahier IX - 2007/2008, Thème 9 - L’alimentation dans l’Orient Ancien, de la production à la consommation, p. 359-365", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

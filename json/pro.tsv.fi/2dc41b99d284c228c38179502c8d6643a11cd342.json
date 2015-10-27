@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.647260"
+            "when": "2015-10-27T18:40:19.747173"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.647277"
+            "when": "2015-10-27T18:40:19.747185"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Corpus inscriptionum Latinarum. Vol. II\u00b2. Pars XIV: Conventus Tarraconensis. Fasc. 2: Colonia Iulia Urbs Triumphalis Tarraco. Edidit G. Alf\u00f6ldy, 2010. (Olli Salomies)", 
+    "title": "Corpus inscriptionum Latinarum. Vol. II². Pars XIV: Conventus Tarraconensis. Fasc. 2: Colonia Iulia Urbs Triumphalis Tarraco. Edidit G. Alföldy, 2010. (Olli Salomies)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

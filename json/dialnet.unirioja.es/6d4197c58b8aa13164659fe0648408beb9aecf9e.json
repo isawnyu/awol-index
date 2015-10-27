@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 20 January 2013, updated 15 January 2015]. Minerva: Revista de filolog\u00eda cl\u00e1sica. ISSN: 0213-9634. Acoge en sus p\u00e1ginas colaboraciones que versan acerca de los \u00e1mbitos hoy en d\u00eda admitidos bajo el concepto de Filolog\u00eda Cl\u00e1sica, con especial atenci\u00f3n a los comprendidos en las denominaciones de Filolog\u00eda Griega y Filolog\u00eda Latina en su contenido m\u00e1s amplio, tanto en lo que se refiere a su contenido como a los periodos cronol\u00f3gicos correspondientes.", 
+    "description": "[First posted in AWOL 20 January 2013, updated 15 January 2015]. Minerva: Revista de filología clásica. ISSN: 0213-9634. Acoge en sus páginas colaboraciones que versan acerca de los ámbitos hoy en día admitidos bajo el concepto de Filología Clásica, con especial atención a los comprendidos en las denominaciones de Filología Griega y Filología Latina en su contenido más amplio, tanto en lo que se refiere a su contenido como a los periodos cronológicos correspondientes.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Minerva: Revista de filolog\u00eda cl\u00e1sica", 
+        "title_full": "Minerva: Revista de filología clásica", 
         "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165193776227937698", 
             "resource_date": "2015-01-15T12:54:53.239-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:47.681051"
+            "when": "2015-10-27T18:44:23.362172"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-minerva-revista-de.html", 
             "resource_date": "2015-01-15T12:54:53.239-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:47.681063"
+            "when": "2015-10-27T18:44:23.362186"
         }
     ], 
     "publishers": [], 

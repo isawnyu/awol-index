@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u0430\u0440\u0442\u0430 \u041a\u0440\u044b\u043c\u0430", 
+        "title_full": "Археологическая карта Крыма", 
         "url": "http://www.archmap.ru/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2015889189495994276", 
             "resource_date": "2014-03-28T11:22:51.534-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:10.332580"
+            "when": "2015-10-27T18:38:17.148600"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/archaeologcial-map-of-crimea.html", 
             "resource_date": "2014-03-28T11:22:51.534-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:10.332592"
+            "when": "2015-10-27T18:38:17.148617"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u041e\u0431 \u0430\u0432\u0442\u043e\u0440\u0430\u0445 \u041a\u0430\u0440\u0442\u044b", 
+    "title": "Об авторах Карты", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

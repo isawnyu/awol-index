@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1632430335213507334", 
             "resource_date": "2015-05-23T17:30:13.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.283631"
+            "when": "2015-10-27T18:37:56.192951"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/arachne-glossaries.html", 
             "resource_date": "2015-05-23T17:30:13.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.283648"
+            "when": "2015-10-27T18:37:56.192967"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1632430335213507334", 
             "resource_date": "2015-05-23T17:30:13.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.285157"
+            "when": "2015-10-27T18:37:56.194486"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/arachne-glossaries.html", 
             "resource_date": "2015-05-23T17:30:13.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.285180"
+            "when": "2015-10-27T18:37:56.194500"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.291233"
+            "when": "2015-10-27T18:37:56.203733"
         }
     ], 
     "publishers": [], 

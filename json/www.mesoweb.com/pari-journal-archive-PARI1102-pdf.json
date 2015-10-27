@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Fall 2010. Baj \"Hammer\" and Related Affective Verbs in Classic Mayan. By Marc Zender. The Western Sun: An Unusual Tzolk'in-Haab Correlation in Classic Maya Inscriptions By Alexandre Tokovinine. A New Look at the Inscription of Copan Altar K. By P\u00e9ter B\u00edr\u00f3.", 
+    "description": "Fall 2010. Baj \"Hammer\" and Related Affective Verbs in Classic Mayan. By Marc Zender. The Western Sun: An Unusual Tzolk'in-Haab Correlation in Classic Maya Inscriptions By Alexandre Tokovinine. A New Look at the Inscription of Copan Altar K. By Péter Bíró.", 
     "domain": "www.mesoweb.com", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.080958"
+            "when": "2015-10-27T18:42:11.020097"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.080969"
+            "when": "2015-10-27T18:42:11.020111"
         }
     ], 
     "publishers": [], 

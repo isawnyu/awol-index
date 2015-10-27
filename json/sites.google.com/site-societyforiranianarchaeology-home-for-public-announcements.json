@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0627\u06cc \u0645\u0631\u062f\u0645\u06cc - Public Programs.", 
+    "description": "برنامه های مردمی - Public Programs.", 
     "domain": "sites.google.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7696267810864720297", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.280107"
+            "when": "2015-10-27T18:46:30.453310"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/society-for-iranian-archaeology-online.html", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.280119"
+            "when": "2015-10-27T18:46:30.453321"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u0627\u0639\u0644\u0627\u0646 \u0647\u0627 - Announcements", 
+    "title": "اعلان ها - Announcements", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Fors\u00e9n, B. (Hrsg. ): Thesprotia Expedition I. Towards a Regional History. Papers and Monographs of the Finish Institute at Athens 15. Helsinki 2009, pp. 97-112. Funke, Peter (1998).", 
+    "description": "In: Forsén, B. (Hrsg. ): Thesprotia Expedition I. Towards a Regional History. Papers and Monographs of the Finish Institute at Athens 15. Helsinki 2009, pp. 97-112. Funke, Peter (1998).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.616751"
+            "when": "2015-10-27T18:46:45.779249"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.616768"
+            "when": "2015-10-27T18:46:45.779263"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\"Concilio Epirotarum habitato\". \u00dcberlegungen zum Problem von Polyzentrismus und Zentralorten im antiken Epirus", 
+    "title": "\"Concilio Epirotarum habitato\". Überlegungen zum Problem von Polyzentrismus und Zentralorten im antiken Epirus", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

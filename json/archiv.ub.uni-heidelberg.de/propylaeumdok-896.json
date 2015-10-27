@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Matthias-Gr\u00fcnewald-Gymnasium W\u00fcrzburg: Jahresbericht 2004/2005. 2005, pp. 196-205. Hoffmann, Friedhelm (1993).", 
+    "description": "In: Matthias-Grünewald-Gymnasium Würzburg: Jahresbericht 2004/2005. 2005, pp. 196-205. Hoffmann, Friedhelm (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:52.839461"
+            "when": "2015-10-27T18:40:04.218954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:52.839478"
+            "when": "2015-10-27T18:40:04.218971"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das G\u00f6ttliche in der Natur - Biologie im alten \u00c4gypten", 
+    "title": "Das Göttliche in der Natur - Biologie im alten Ägypten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

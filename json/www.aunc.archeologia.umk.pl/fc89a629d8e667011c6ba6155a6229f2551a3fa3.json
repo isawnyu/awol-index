@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gerard Wilke, Najstarsze mosty zachodnios\u0142owia\u0144skie z mi\u0119dzyrzecza \u0141aby i Odry (VIII-X/XIwiek) 57.", 
+    "description": "Gerard Wilke, Najstarsze mosty zachodniosłowiańskie z międzyrzecza Łaby i Odry (VIII-X/XIwiek) 57.", 
     "domain": "www.aunc.archeologia.umk.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8258937135871710449", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.052663"
+            "when": "2015-10-27T18:47:07.073661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-acta.html", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.052675"
+            "when": "2015-10-27T18:47:07.073673"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Robert Dom\u017ca\u0142, Podwodne badania archeologiczne domniemanej bariery nawigacyjnej z VIII w. n.e. w zatoce Schlei w Niemczech 49", 
+    "title": "Robert Domżał, Podwodne badania archeologiczne domniemanej bariery nawigacyjnej z VIII w. n.e. w zatoce Schlei w Niemczech 49", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

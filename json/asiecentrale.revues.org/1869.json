@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019arch\u00e9ologie fran\u00e7aise en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
+        "title_full": "L’archéologie française en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
         "url": "http://asiecentrale.revues.org/1586"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1407540500306198905", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.414091"
+            "when": "2015-10-27T18:37:30.928449"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/one-off-journal-issues-larcheologie.html", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.414104"
+            "when": "2015-10-27T18:37:30.928463"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00c9lise Luneau et Julio Bendezu-Sarmiento \u00c9tude des c\u00e9ramiques de l\u2019\u00e2ge du bronze de la n\u00e9cropole 3 de Dzharkutan (Ouzb\u00e9kistan) [Texte int\u00e9gral disponible en septembre 2014] Nouvelle approche typo-chronologique", 
+    "title": "Élise Luneau et Julio Bendezu-Sarmiento Étude des céramiques de l’âge du bronze de la nécropole 3 de Dzharkutan (Ouzbékistan) [Texte intégral disponible en septembre 2014] Nouvelle approche typo-chronologique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

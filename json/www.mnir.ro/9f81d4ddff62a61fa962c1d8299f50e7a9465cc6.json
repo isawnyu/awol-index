@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cercet\u0103ri Numismatice", 
+        "title_full": "Cercetări Numismatice", 
         "url": "http://www.mnir.ro/ro/Publicatii/ItemsPeriodice.aspx?IDPeriodic=3"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2717059281322082367", 
             "resource_date": "2011-08-23T08:54:14.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.237821"
+            "when": "2015-10-27T18:38:55.611786"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal.html", 
             "resource_date": "2011-08-23T08:54:14.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.237839"
+            "when": "2015-10-27T18:38:55.611798"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana. See now.", 
+    "description": "Polymnia: Collana di Scienze dell'Antichità. Studi di Storia romana. See now.", 
     "domain": "www.openstarts.units.it", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana", 
+        "title_full": "Polymnia: Collana di Scienze dell'Antichità. Studi di Storia romana", 
         "url": "http://www.openstarts.units.it/dspace/handle/10077/6080"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4436867367136996100", 
             "resource_date": "2013-05-20T10:47:07.281-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.438378"
+            "when": "2015-10-27T18:41:53.022360"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-polymnia-collana-di.html", 
             "resource_date": "2013-05-20T10:47:07.281-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.438395"
+            "when": "2015-10-27T18:41:53.022377"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4436867367136996100", 
             "resource_date": "2013-05-20T10:47:07.281-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.440438"
+            "when": "2015-10-27T18:41:53.024755"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-polymnia-collana-di.html", 
             "resource_date": "2013-05-20T10:47:07.281-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.440449"
+            "when": "2015-10-27T18:41:53.024768"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:27.442228"
+            "when": "2015-10-27T18:41:53.026585"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.660141"
+            "when": "2015-10-27T18:45:29.804906"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.660154"
+            "when": "2015-10-27T18:45:29.804918"
         }, 
         {
             "fields": [
@@ -195,7 +195,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:47.717403"
+            "when": "2015-10-27T18:45:29.859035"
         }
     ], 
     "publishers": [], 
@@ -205,11 +205,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana", 
+            "title_full": "Polymnia: Collana di Scienze dell'Antichità. Studi di Storia romana", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/6080"
         }
     ], 
-    "title": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana", 
+    "title": "Polymnia: Collana di Scienze dell'Antichità. Studi di Storia romana", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

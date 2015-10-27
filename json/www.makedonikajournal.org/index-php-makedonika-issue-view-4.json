@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03ac - Makedonika", 
+        "title_full": "Μακεδονικά - Makedonika", 
         "url": "http://www.makedonikajournal.org/index.php/makedonika/index"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1979712230377204495", 
             "resource_date": "2012-06-12T05:57:48.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.632391"
+            "when": "2015-10-27T18:38:14.097402"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-makedonika.html", 
             "resource_date": "2012-06-12T05:57:48.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.632403"
+            "when": "2015-10-27T18:38:14.097414"
         }
     ], 
     "publishers": [], 

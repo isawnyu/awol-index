@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 3 October 2009, updated 23 July 2014]. Prazsk\u00e9 egyptologick\u00e9 studie PES. ISSN: 1214-3189.", 
+    "description": "[First posted in AWOL 3 October 2009, updated 23 July 2014]. Prazské egyptologické studie PES. ISSN: 1214-3189.", 
     "domain": "pes.ff.cuni.cz", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5384112954428654853", 
             "resource_date": "2014-07-23T07:50:15.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:54.568753"
+            "when": "2015-10-27T18:43:26.097807"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-prazske.html", 
             "resource_date": "2014-07-23T07:50:15.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:54.568768"
+            "when": "2015-10-27T18:43:26.097829"
         }
     ], 
     "publishers": [], 
@@ -117,7 +117,7 @@
             "url": "http://pes.ff.cuni.cz/?req=cat:supl2"
         }
     ], 
-    "title": "Prazsk\u00e9 egyptologick\u00e9 studie PES", 
+    "title": "Prazské egyptologické studie PES", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

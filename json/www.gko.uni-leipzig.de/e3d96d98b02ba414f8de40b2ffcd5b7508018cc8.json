@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Leipziger online-Beitr\u00e4ge zur Ur- und Fr\u00fchgeschichtlichen Arch\u00e4ologie.", 
+    "description": "Leipziger online-Beiträge zur Ur- und Frühgeschichtlichen Archäologie.", 
     "domain": "www.gko.uni-leipzig.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Leipziger online-Beitr\u00e4ge zur Ur- und Fr\u00fchgeschichtlichen Arch\u00e4ologie", 
+        "title_full": "Leipziger online-Beiträge zur Ur- und Frühgeschichtlichen Archäologie", 
         "url": "http://www.gko.uni-leipzig.de/historisches-seminar/seminar/ur-und-fruehgeschichte/publikationsreihen/leipziger-online-beitraege.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1756342772099927699", 
             "resource_date": "2013-07-07T18:13:40.684-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.026638"
+            "when": "2015-10-27T18:38:01.745144"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/open-access-journal-leipziger-online.html", 
             "resource_date": "2013-07-07T18:13:40.684-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.026649"
+            "when": "2015-10-27T18:38:01.745170"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Online-Beitr\u00e4ge23", 
+    "title": "Online-Beiträge23", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

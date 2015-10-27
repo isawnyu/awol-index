@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Ugarit-Forschungen, 37 (2005), pp. 329-340. Faist, Betina and Justel, Josu\u00e9-Javier and Vita, Juan-Pablo (2007).", 
+    "description": "In: Ugarit-Forschungen, 37 (2005), pp. 329-340. Faist, Betina and Justel, Josué-Javier and Vita, Juan-Pablo (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.089535"
+            "when": "2015-10-27T18:46:19.804869"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.089553"
+            "when": "2015-10-27T18:46:19.804885"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bibliograf\u00eda de los estudios de Emar (2)", 
+    "title": "Bibliografía de los estudios de Emar (2)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

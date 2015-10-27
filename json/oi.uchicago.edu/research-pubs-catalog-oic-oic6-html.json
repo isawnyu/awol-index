@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIC 5. Medinet Habu 1924-28. Part 1: The Epigraphic Survey of the Great Temple of Medinet Habu (Seasons 1924-25 To 1927-28). By Harold H. Nelson, Part 2: The Architectural Survey of the Great Temple and Palace of Medinet Habu (Season 1927-28). By Uvo H\u00f6lscher.", 
+    "description": "OIC 5. Medinet Habu 1924-28. Part 1: The Epigraphic Survey of the Great Temple of Medinet Habu (Seasons 1924-25 To 1927-28). By Harold H. Nelson, Part 2: The Architectural Survey of the Great Temple and Palace of Medinet Habu (Season 1927-28). By Uvo Hölscher.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8216425582081214820", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:17.198842"
+            "when": "2015-10-27T18:47:05.057196"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:17.198853"
+            "when": "2015-10-27T18:47:05.057207"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.767651"
+            "when": "2015-10-27T18:47:14.297972"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.767663"
+            "when": "2015-10-27T18:47:14.297984"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.827231"
+            "when": "2015-10-27T18:47:14.350953"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2280073945982618323", 
             "resource_date": "2013-05-20T10:31:34.813-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:29.149639"
+            "when": "2015-10-27T18:38:37.426971"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-polymnia-studi-di.html", 
             "resource_date": "2013-05-20T10:31:34.813-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:29.149656"
+            "when": "2015-10-27T18:38:37.426987"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2280073945982618323", 
             "resource_date": "2013-05-20T10:31:34.813-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:29.151734"
+            "when": "2015-10-27T18:38:37.429135"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-polymnia-studi-di.html", 
             "resource_date": "2013-05-20T10:31:34.813-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:29.151748"
+            "when": "2015-10-27T18:38:37.429148"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:29.153556"
+            "when": "2015-10-27T18:38:37.431008"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.686658"
+            "when": "2015-10-27T18:45:29.827783"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.686669"
+            "when": "2015-10-27T18:45:29.827795"
         }, 
         {
             "fields": [
@@ -194,7 +194,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:47.724821"
+            "when": "2015-10-27T18:45:29.869233"
         }
     ], 
     "publishers": [], 
@@ -208,7 +208,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/888"
         }
     ], 
-    "title": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Filologia classica", 
+    "title": "Polymnia: Collana di Scienze dell'Antichità. Studi di Filologia classica", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

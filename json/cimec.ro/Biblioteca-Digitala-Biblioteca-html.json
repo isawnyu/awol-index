@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Memoria Antiquitatis (Acta Musei Petrodavensis). Anuar \u0219tiin\u021bific al Complexului Muzeal Neam\u021b. \u00cencep\u00e2nd din 1969, sub egida Muzeului de Istorie \u0219i Arheologie Piatra-Neam\u0163, parte a Complexului Muzeal Neam\u021b a ap\u0103rut revista anuar Memoria Antiqvitatis, care cuprinde cu predilec\u0163ie studii \u015fi articole de arheologie \u0219i istorie, dar \u0219i numismatic\u0103, memorialistic\u0103, cronicii \u0219i recenzii. Revista Memoria Antiqvitatis este difuzat\u0103 \u00een peste 200 de biblioteci din Europa, Asia \u015fi Statele Unite.", 
+    "description": "Memoria Antiquitatis (Acta Musei Petrodavensis). Anuar științific al Complexului Muzeal Neamț. Începând din 1969, sub egida Muzeului de Istorie și Arheologie Piatra-Neamţ, parte a Complexului Muzeal Neamț a apărut revista anuar Memoria Antiqvitatis, care cuprinde cu predilecţie studii şi articole de arheologie și istorie, dar și numismatică, memorialistică, cronicii și recenzii. Revista Memoria Antiqvitatis este difuzată în peste 200 de biblioteci din Europa, Asia şi Statele Unite.", 
     "domain": "cimec.ro", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8558783369208253924", 
             "resource_date": "2014-01-26T14:49:29.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.252441"
+            "when": "2015-10-27T18:47:51.243624"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/oprn-access-journal-memoria.html", 
             "resource_date": "2014-01-26T14:49:29.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.252459"
+            "when": "2015-10-27T18:47:51.243640"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "M\u00fcnchener Beitr\u00e4ge zur Papyrusforschung und antiken Rechtsgeschichte. ISSN: 0936-3718. Die Ver\u00f6ffentlichungen der papyrologisch-rechtshistorischen Reihe, die 1915 von Leopold Wenger begr\u00fcndet wurde, behandeln die Themen Recht, Politik, Wirtschaft und Verwaltung in antiken Kulturen, insbesondere in ptolem\u00e4ischer und hellenistischer Zeit. Insgesamt wurden bislang 109 B\u00e4nde dieser Zeitschriftenreihe ver\u00f6ffentlicht (Stand Mai 2014), wovon ein Gro\u00dfteil noch lieferbar ist. This papyrus studies series, founded in 1915 by Leopold Wenger, contributes to scholarship on the law, politics, economy and administration of ancient civilisations, notably the Ptolemaic and Hellenistic periods. So far (as of May 2014) more than 100 books have been published, most of them are still available.", 
+    "description": "Münchener Beiträge zur Papyrusforschung und antiken Rechtsgeschichte. ISSN: 0936-3718. Die Veröffentlichungen der papyrologisch-rechtshistorischen Reihe, die 1915 von Leopold Wenger begründet wurde, behandeln die Themen Recht, Politik, Wirtschaft und Verwaltung in antiken Kulturen, insbesondere in ptolemäischer und hellenistischer Zeit. Insgesamt wurden bislang 109 Bände dieser Zeitschriftenreihe veröffentlicht (Stand Mai 2014), wovon ein Großteil noch lieferbar ist. This papyrus studies series, founded in 1915 by Leopold Wenger, contributes to scholarship on the law, politics, economy and administration of ancient civilisations, notably the Ptolemaic and Hellenistic periods. So far (as of May 2014) more than 100 books have been published, most of them are still available.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7641405610406812233", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:16.927801"
+            "when": "2015-10-27T18:46:01.429684"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-classical-studies-books.html", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:16.927812"
+            "when": "2015-10-27T18:46:01.429696"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8714418421414051262", 
             "resource_date": "2015-05-06T19:50:04.890-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:48.724968"
+            "when": "2015-10-27T18:48:44.054357"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-munchener.html", 
             "resource_date": "2015-05-06T19:50:04.890-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:48.724984"
+            "when": "2015-10-27T18:48:44.054373"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:48.745824"
+            "when": "2015-10-27T18:48:44.078591"
         }, 
         {
             "fields": [
@@ -180,13 +180,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8714418421414051262", 
             "resource_date": "2015-05-06T19:50:04.890-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:48.729297"
+            "when": "2015-10-27T18:48:44.058990"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-munchener.html", 
             "resource_date": "2015-05-06T19:50:04.890-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:48.729310"
+            "when": "2015-10-27T18:48:44.059002"
         }, 
         {
             "fields": [
@@ -200,7 +200,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:48.747706"
+            "when": "2015-10-27T18:48:44.080915"
         }
     ], 
     "publishers": [], 
@@ -210,23 +210,23 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "M\u00fcnchener Beitr\u00e4ge zur Papyrusforschung und antiken Rechtsgeschichte", 
+            "title_full": "Münchener Beiträge zur Papyrusforschung und antiken Rechtsgeschichte", 
             "url": "http://books.openedition.org/chbeck/91"
         }, 
         {
-            "title_full": "Die Wirtschaft \u00c4gyptens in hellenistischer Zeit Werner Hu\u00df 2012 ..", 
+            "title_full": "Die Wirtschaft Ägyptens in hellenistischer Zeit Werner Huß 2012 ..", 
             "url": "http://books.openedition.org/chbeck/1242"
         }, 
         {
-            "title_full": "Die Verwaltung des ptolemaiischen Reichs Werner Hu\u00df 2011 ..", 
+            "title_full": "Die Verwaltung des ptolemaiischen Reichs Werner Huß 2011 ..", 
             "url": "http://books.openedition.org/chbeck/1228"
         }, 
         {
-            "title_full": "Papinians Quaestiones Zur rhetorischen Methode eines sp\u00e4tklassischen Juristen Ulrike Babusiaux 2011 ..", 
+            "title_full": "Papinians Quaestiones Zur rhetorischen Methode eines spätklassischen Juristen Ulrike Babusiaux 2011 ..", 
             "url": "http://books.openedition.org/chbeck/1212"
         }, 
         {
-            "title_full": "Entscheidungskorrekturen mit unbestimmter Wertung durch die klassische r\u00f6mische Jurisprudenz Tobias Kleiter 2010 ..", 
+            "title_full": "Entscheidungskorrekturen mit unbestimmter Wertung durch die klassische römische Jurisprudenz Tobias Kleiter 2010 ..", 
             "url": "http://books.openedition.org/chbeck/1198"
         }, 
         {
@@ -234,19 +234,19 @@
             "url": "http://books.openedition.org/chbeck/1177"
         }, 
         {
-            "title_full": "Die r\u00f6mischen Solidarobligationen Eine Neubesichtigung unter aktionenrechtlichen Aspekten Anja Steiner 2009 ..", 
+            "title_full": "Die römischen Solidarobligationen Eine Neubesichtigung unter aktionenrechtlichen Aspekten Anja Steiner 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1161"
         }, 
         {
-            "title_full": "Risikomanagement beim Weinkauf Periculum und Praxis im Imperium Romanum \u00c9va Jakab 2009 ..", 
+            "title_full": "Risikomanagement beim Weinkauf Periculum und Praxis im Imperium Romanum Éva Jakab 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1146"
         }, 
         {
-            "title_full": "Herrscher- und Dynastiekulte im Ptolem\u00e4erreich Systematik und Einordnung der Kultformen Stefan Pfeiffer . 2008 ..", 
+            "title_full": "Herrscher- und Dynastiekulte im Ptolemäerreich Systematik und Einordnung der Kultformen Stefan Pfeiffer . 2008 ..", 
             "url": "http://books.openedition.org/chbeck/1130"
         }
     ], 
-    "title": "M\u00fcnchener Beitr\u00e4ge zur Papyrusforschung und antiken Rechtsgeschichte", 
+    "title": "Münchener Beiträge zur Papyrusforschung und antiken Rechtsgeschichte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

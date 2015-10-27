@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Prof. Dr. Cees Passchier, Mr. Driek van Opstal, Mr. Wilke Schram and Ms. G\u00fcl S\u00fcrmelihindi.", 
+    "description": "Prof. Dr. Cees Passchier, Mr. Driek van Opstal, Mr. Wilke Schram and Ms. Gül Sürmelihindi.", 
     "domain": "www.parks.org.il", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969807584108974061", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.728747"
+            "when": "2015-10-27T18:45:19.958957"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/online-proceedings-water-in-antiquity.html", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.728762"
+            "when": "2015-10-27T18:45:19.958968"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u200b The Atlas Project of Roman Aqueducts (ROMAQ)", 
+    "title": "​ The Atlas Project of Roman Aqueducts (ROMAQ)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

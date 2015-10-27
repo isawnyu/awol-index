@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde, 121 (1994), pp. 154-159. Schenkel, Wolfgang (1993).", 
+    "description": "In: Zeitschrift für ägyptische Sprache und Altertumskunde, 121 (1994), pp. 154-159. Schenkel, Wolfgang (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:02.019622"
+            "when": "2015-10-27T18:40:13.742455"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:02.019640"
+            "when": "2015-10-27T18:40:13.742473"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "W\u00f6rterbuch vs. Textkorpus oder: Wie und ob man \u00fcberhaupt ein W\u00f6rterbuch machen kann", 
+    "title": "Wörterbuch vs. Textkorpus oder: Wie und ob man überhaupt ein Wörterbuch machen kann", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

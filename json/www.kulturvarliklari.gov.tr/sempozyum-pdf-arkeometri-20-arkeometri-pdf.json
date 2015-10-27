@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "21. Arkeometri Sonu\u00e7lar\u0131 Toplant\u0131s\u0131 [2005].", 
+    "description": "21. Arkeometri Sonuçları Toplantısı [2005].", 
     "domain": "www.kulturvarliklari.gov.tr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arkeometri Sonu\u00e7lar\u0131 Toplant\u0131lar\u0131", 
+        "title_full": "Arkeometri Sonuçları Toplantıları", 
         "url": "http://www.kulturvarliklari.gov.tr/Yonlendir.aspx?F6E10F8892433CFFF7BA884A184682F1B0045F2B2135708F"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5155045997147468765", 
             "resource_date": "2014-08-25T11:24:26.965-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:43.472935"
+            "when": "2015-10-27T18:43:14.107485"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-arkeometri-sonuclar.html", 
             "resource_date": "2014-08-25T11:24:26.965-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:43.472947"
+            "when": "2015-10-27T18:43:14.107495"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "20. Arkeometri Sonu\u00e7lar\u0131 Toplant\u0131s\u0131 [2004]", 
+    "title": "20. Arkeometri Sonuçları Toplantısı [2004]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

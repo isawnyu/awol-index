@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "B\u00e4bler - H. -G. Nesselrath: Ars et Verba. Die Kunstbeschreibungen des Kallistratos. Einf\u00fchrung, Text, \u00dcbersetzung, Anmerkungen und arch\u00e4ologischer Kommentar, 2006. (Mika Kajava).", 
+    "description": "Bäbler - H. -G. Nesselrath: Ars et Verba. Die Kunstbeschreibungen des Kallistratos. Einführung, Text, Übersetzung, Anmerkungen und archäologischer Kommentar, 2006. (Mika Kajava).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.599217"
+            "when": "2015-10-27T18:40:19.702088"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.599233"
+            "when": "2015-10-27T18:40:19.702100"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gregory of Nazianzus. Images and Reflections. Ed. by J. B\u00f8rtnes - T. H\u00e4gg, 2006. (Ville Vuolanto)", 
+    "title": "Gregory of Nazianzus. Images and Reflections. Ed. by J. Børtnes - T. Hägg, 2006. (Ville Vuolanto)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

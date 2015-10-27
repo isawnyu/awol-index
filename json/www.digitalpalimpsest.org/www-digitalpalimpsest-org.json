@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1528540113597176743", 
             "resource_date": "2013-06-27T11:36:40.153-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:39.885219"
+            "when": "2015-10-27T18:37:43.197000"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/archimedes-palimpsest-online.html", 
             "resource_date": "2013-06-27T11:36:40.153-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:39.885237"
+            "when": "2015-10-27T18:37:43.197015"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1528540113597176743", 
             "resource_date": "2013-06-27T11:36:40.153-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:39.889136"
+            "when": "2015-10-27T18:37:43.201019"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/archimedes-palimpsest-online.html", 
             "resource_date": "2013-06-27T11:36:40.153-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:39.889148"
+            "when": "2015-10-27T18:37:43.201032"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:39.890981"
+            "when": "2015-10-27T18:37:43.202881"
         }
     ], 
     "publishers": [], 

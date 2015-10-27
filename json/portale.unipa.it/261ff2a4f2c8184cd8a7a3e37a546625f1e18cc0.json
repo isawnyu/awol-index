@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted May 30 2010. Updated 5 January 2015]. \u1f45\u03c1\u03bc\u03bf\u03c2: Ricerche di Storia Antica. ISSN 2036-587X. La rivista \u1f45\u03c1\u03bc\u03bf\u03c2, nata nel 1999, mantiene intatta, nella nuova veste elettronica, le finalit\u00e0 che ne hanno, sin qui, orientato l\u2019itinerario scientifico e alle quali rinvia il titolo. Con \"porto\" vogliamo significare, infatti, non solo le aperture a tematiche di ampio respiro su molteplici aspetti dell\u2019antico mondo mediterraneo, la cui esplorazione in senso interdisciplinare \u00e8 stata da sempre affidata a studiosi di alto profilo scientifico, ma anche l\u2019accoglienza a contributi delle leve pi\u00f9 giovani della ricerca storico-antica in tutte le sue articolazioni. \u1f45\u03c1\u03bc\u03bf\u03c2 \u00e8 anche la sede scientifica delle attivit\u00e0 del dottorato di ricerca in \"Storia della Sicilia e del Mediterraneo antico\". La rivista \u00e8 aperta alla pubblicazione di contributi in cinque lingue (italiano, inglese, francese, tedesco e spagnolo). Ogni contributo proposto alla redazione \u00e8 sottoposto alla lettura di due o pi\u00f9 membri del comitato scientifico o di esperti esterni.", 
+    "description": "[First posted May 30 2010. Updated 5 January 2015]. ὅρμος: Ricerche di Storia Antica. ISSN 2036-587X. La rivista ὅρμος, nata nel 1999, mantiene intatta, nella nuova veste elettronica, le finalità che ne hanno, sin qui, orientato l’itinerario scientifico e alle quali rinvia il titolo. Con \"porto\" vogliamo significare, infatti, non solo le aperture a tematiche di ampio respiro su molteplici aspetti dell’antico mondo mediterraneo, la cui esplorazione in senso interdisciplinare è stata da sempre affidata a studiosi di alto profilo scientifico, ma anche l’accoglienza a contributi delle leve più giovani della ricerca storico-antica in tutte le sue articolazioni. ὅρμος è anche la sede scientifica delle attività del dottorato di ricerca in \"Storia della Sicilia e del Mediterraneo antico\". La rivista è aperta alla pubblicazione di contributi in cinque lingue (italiano, inglese, francese, tedesco e spagnolo). Ogni contributo proposto alla redazione è sottoposto alla lettura di due o più membri del comitato scientifico o di esperti esterni.", 
     "domain": "portale.unipa.it", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "\u1f45\u03c1\u03bc\u03bf\u03c2: Ricerche di Storia Antica", 
+        "title_full": "ὅρμος: Ricerche di Storia Antica", 
         "url": "http://portale.unipa.it/dipartimenti/beniculturalistudiculturali/riviste/hormos/"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-848336007232915421", 
             "resource_date": "2015-01-05T06:17:48.733-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:56.978975"
+            "when": "2015-10-27T18:47:47.737082"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/new-open-access-journal.html", 
             "resource_date": "2015-01-05T06:17:48.733-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:56.978990"
+            "when": "2015-10-27T18:47:47.737096"
         }
     ], 
     "publishers": [], 

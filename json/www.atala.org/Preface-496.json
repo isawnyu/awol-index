@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Dag T. T. Haug, Marius L. J\u00f8hndal, Hanne M. Eckhoff, Eirik Welo, Mari J. B. Hertzenberg, Angelika M\u00fcth. Computational and Linguistic Issues in Designing a Syntactically Annotated Parallel Corpus of Indo-European Languages.", 
+    "description": "Dag T. T. Haug, Marius L. Jøhndal, Hanne M. Eckhoff, Eirik Welo, Mari J. B. Hertzenberg, Angelika Müth. Computational and Linguistic Issues in Designing a Syntactically Annotated Parallel Corpus of Indo-European Languages.", 
     "domain": "www.atala.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1288606133402046828", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:17.462823"
+            "when": "2015-10-27T18:37:19.289836"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:17.462836"
+            "when": "2015-10-27T18:37:19.289849"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Joseph Denooz, Serge Rosmorduc . Pr\u00e9face", 
+    "title": "Joseph Denooz, Serge Rosmorduc . Préface", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

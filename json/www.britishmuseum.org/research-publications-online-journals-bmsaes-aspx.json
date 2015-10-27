@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "contains the proceedings of the Annual International Egyptological Colloquium, entitled Mariners and traders: Connections between the Red Sea littoral, Arabia and beyond, and Rudolfo Fattovich\u2019s Raymond and Beverley Sackler Foundation Distinguished Lecture in Egyptology, \u2018Egypt\u2019s trade with Punt: Recent discoveries on the Red Sea coast,' both held at The British Museum on 2 August 2011.", 
+    "description": "contains the proceedings of the Annual International Egyptological Colloquium, entitled Mariners and traders: Connections between the Red Sea littoral, Arabia and beyond, and Rudolfo Fattovich’s Raymond and Beverley Sackler Foundation Distinguished Lecture in Egyptology, ‘Egypt’s trade with Punt: Recent discoveries on the Red Sea coast,' both held at The British Museum on 2 August 2011.", 
     "domain": "www.britishmuseum.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8421068017776554292", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.460433"
+            "when": "2015-10-27T18:47:13.903878"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/special-issue-of-bmsaes-mariners-and.html", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.460445"
+            "when": "2015-10-27T18:47:13.903891"
         }
     ], 
     "publishers": [], 

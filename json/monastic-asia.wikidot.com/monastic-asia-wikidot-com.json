@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8717562451451487293", 
             "resource_date": "2011-01-18T12:18:13.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:48.881102"
+            "when": "2015-10-27T18:48:44.224585"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/mapping-buddhist-monasteries.html", 
             "resource_date": "2011-01-18T12:18:13.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:48.881130"
+            "when": "2015-10-27T18:48:44.224602"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8717562451451487293", 
             "resource_date": "2011-01-18T12:18:13.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:48.885215"
+            "when": "2015-10-27T18:48:44.228087"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/mapping-buddhist-monasteries.html", 
             "resource_date": "2011-01-18T12:18:13.061-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:48.885232"
+            "when": "2015-10-27T18:48:44.228100"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:48.924189"
+            "when": "2015-10-27T18:48:44.257693"
         }
     ], 
     "publishers": [], 
@@ -213,7 +213,7 @@
             "url": "http://monastic-asia.wikidot.com/subashi"
         }, 
         {
-            "title_full": "Sens\u00f4ji monastery, (in) Tokyo, T\u00f4ky\u00f4 Prefecture, JP", 
+            "title_full": "Sensôji monastery, (in) Tokyo, Tôkyô Prefecture, JP", 
             "url": "http://monastic-asia.wikidot.com/sensoji"
         }, 
         {

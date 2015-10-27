@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Carl Graves. To reference this article we suggest: Graves, C. 2013. \u2018Eton College Myers Collection Object Highlight: A Faience Nubian Head\u2019. Birmingham Egyptology Journal 1: 1-4.", 
+    "description": "Carl Graves. To reference this article we suggest: Graves, C. 2013. ‘Eton College Myers Collection Object Highlight: A Faience Nubian Head’. Birmingham Egyptology Journal 1: 1-4.", 
     "domain": "birminghamegyptology.co.uk", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.787144"
+            "when": "2015-10-27T18:49:20.357501"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.787155"
+            "when": "2015-10-27T18:49:20.357521"
         }
     ], 
     "publishers": [], 

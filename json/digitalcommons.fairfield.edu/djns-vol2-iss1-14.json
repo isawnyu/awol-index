@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Grzegorz Ocha\u0142a and Giovanni Ruffini.", 
+    "description": "Grzegorz Ochała and Giovanni Ruffini.", 
     "domain": "digitalcommons.fairfield.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2836196290155214993", 
             "resource_date": "2015-06-02T11:21:45.191-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:50.895753"
+            "when": "2015-10-27T18:38:59.311824"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/new-open-access-journal-dotawo-journal.html", 
             "resource_date": "2015-06-02T11:21:45.191-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:50.895766"
+            "when": "2015-10-27T18:38:59.311839"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIP 43. The Gimilsin Temple and the Palace of the Rulers at Tell Asmar. Henri Frankfort, Seton Lloyd, and Thorkild Jacobsen, with a chapter by G\u00fcnter Martiny. 1940.", 
+    "description": "OIP 43. The Gimilsin Temple and the Palace of the Rulers at Tell Asmar. Henri Frankfort, Seton Lloyd, and Thorkild Jacobsen, with a chapter by Günter Martiny. 1940.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3511519813221209903", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:28.595755"
+            "when": "2015-10-27T18:40:43.644771"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-diyala-excavations.html", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:28.595767"
+            "when": "2015-10-27T18:40:43.644788"
         }
     ], 
     "publishers": [], 

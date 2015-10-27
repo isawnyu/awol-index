@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Repertorium f\u00fcr Kunstwissenschaft, 47 (1926), pp. 265-283. Hampe, Roland and Winter, Adam (1966).", 
+    "description": "In: Repertorium für Kunstwissenschaft, 47 (1926), pp. 265-283. Hampe, Roland and Winter, Adam (1966).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:35.475896"
+            "when": "2015-10-27T18:48:29.048369"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:35.475913"
+            "when": "2015-10-27T18:48:29.048386"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00dcber einige Antikenf\u00e4lschungen und -Nachbildungen im Casseler Museum", 
+    "title": "Über einige Antikenfälschungen und -Nachbildungen im Casseler Museum", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sumerische Glossare und Indizes (SGI) bearbeitet von Walter Sommerfeld. Belegsammlung. Quellen: Archiv f\u00fcr Orientforschung 25 (1974/1977) - 52 (2011), Beiheft 21 (1986). Digital Corpus of Cuneiform Lexical Texts (DCCLT) (2014). electronic Pennsylvania Sumerian Dictionary (ePSD) (2006). The Electronic Text Corpus of Sumerian Literature (ETCSL) (2005). Leipzig-M\u00fcnchner sumerischer Zettelkasten (2006). Sammlung Sommerfeld (Auszug Juli 2014). Zeichenkonkordanz. Quellen: Archiv f\u00fcr Orientforschung 25 (1974/1977) 52 (2011), Beiheft 21 (1986). Digital Corpus of Cuneiform Lexical Texts (DCCLT) (2014). electronic Pennsylvania Sumerian Dictionary (ePSD) (2006). The Electronic Text Corpus of Sumerian Literature (ETCSL) (2005). Leipzig M\u00fcnchner sumerischer Zettelkasten (2006). Sammlung Sommerfeld (Auszug Juli 2014).", 
+    "description": "Sumerische Glossare und Indizes (SGI) bearbeitet von Walter Sommerfeld. Belegsammlung. Quellen: Archiv für Orientforschung 25 (1974/1977) - 52 (2011), Beiheft 21 (1986). Digital Corpus of Cuneiform Lexical Texts (DCCLT) (2014). electronic Pennsylvania Sumerian Dictionary (ePSD) (2006). The Electronic Text Corpus of Sumerian Literature (ETCSL) (2005). Leipzig-Münchner sumerischer Zettelkasten (2006). Sammlung Sommerfeld (Auszug Juli 2014). Zeichenkonkordanz. Quellen: Archiv für Orientforschung 25 (1974/1977) 52 (2011), Beiheft 21 (1986). Digital Corpus of Cuneiform Lexical Texts (DCCLT) (2014). electronic Pennsylvania Sumerian Dictionary (ePSD) (2006). The Electronic Text Corpus of Sumerian Literature (ETCSL) (2005). Leipzig Münchner sumerischer Zettelkasten (2006). Sammlung Sommerfeld (Auszug Juli 2014).", 
     "domain": "dnms.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-143724458702669179", 
             "resource_date": "2014-12-14T09:50:24.016-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.331707"
+            "when": "2015-10-27T18:37:34.939312"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/sumerische-glossare-und-indizes-sgi.html", 
             "resource_date": "2014-12-14T09:50:24.016-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.331724"
+            "when": "2015-10-27T18:37:34.939327"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-143724458702669179", 
             "resource_date": "2014-12-14T09:50:24.016-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.334856"
+            "when": "2015-10-27T18:37:34.942413"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/sumerische-glossare-und-indizes-sgi.html", 
             "resource_date": "2014-12-14T09:50:24.016-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.334870"
+            "when": "2015-10-27T18:37:34.942426"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:32.341975"
+            "when": "2015-10-27T18:37:34.949758"
         }
     ], 
     "publishers": [], 

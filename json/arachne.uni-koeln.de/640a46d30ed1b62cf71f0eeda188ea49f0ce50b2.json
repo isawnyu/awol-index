@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
             "resource_date": "2015-01-14T07:29:57.083-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:43.907833"
+            "when": "2015-10-27T18:46:30.106091"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
             "resource_date": "2015-01-14T07:29:57.083-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:43.907851"
+            "when": "2015-10-27T18:46:30.106102"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "J. Kollwitz - H. Dittmers-Herdej\u00fcrgen, Die Sarkophage der westlichen Gebiete des Imperium Romanum. Die ravennatischen Sarkophage, ASR 8, 2 (Berlin 1979)", 
+    "title": "J. Kollwitz - H. Dittmers-Herdejürgen, Die Sarkophage der westlichen Gebiete des Imperium Romanum. Die ravennatischen Sarkophage, ASR 8, 2 (Berlin 1979)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

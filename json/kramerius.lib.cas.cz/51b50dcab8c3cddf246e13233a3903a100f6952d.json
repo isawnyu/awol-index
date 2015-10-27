@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archiv orient\u00e1ln\u00ed", 
+        "title_full": "Archiv orientální", 
         "url": "http://kramerius.lib.cas.cz/search/r.jsp?suggest=true&browse_title=Archiv%20orient%C3%A1ln%C3%AD&forProfile=search"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7607095430026599044", 
             "resource_date": "2015-03-29T15:14:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.941320"
+            "when": "2015-10-27T18:45:58.355734"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-archiv-orientalni.html", 
             "resource_date": "2015-03-29T15:14:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.941331"
+            "when": "2015-10-27T18:45:58.355747"
         }
     ], 
     "publishers": [], 

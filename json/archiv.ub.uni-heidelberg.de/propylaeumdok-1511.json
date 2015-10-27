@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Engel, Eva-Maria and M\u00fcller, V. and Hartung, Ulrich (Hrsgg. ): \u201eZeichen aus dem Sand. Streiflichter aus \u00c4gyptens Geschichte zu Ehren von G\u00fcnter Dreyer, Menes 5. 2008, pp. 1-18. Altenm\u00fcller, Hartwig (1995).", 
+    "description": "In: Engel, Eva-Maria and Müller, V. and Hartung, Ulrich (Hrsgg. ): „Zeichen aus dem Sand. Streiflichter aus Ägyptens Geschichte zu Ehren von Günter Dreyer, Menes 5. 2008, pp. 1-18. Altenmüller, Hartwig (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.475505"
+            "when": "2015-10-27T18:39:57.834841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.475522"
+            "when": "2015-10-27T18:39:57.834861"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Der K\u00f6nig als Vogelf\u00e4nger und Fischer (nbty wh) - Zu fr\u00fchen Belegen eines traditionellen Motivs", 
+    "title": "Der König als Vogelfänger und Fischer (nbty wh) - Zu frühen Belegen eines traditionellen Motivs", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

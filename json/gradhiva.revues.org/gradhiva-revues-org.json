@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gradhiva: revue d\u2019anthropologie et de mus\u00e9ologie. Fond\u00e9e en 1986 par Michel Leiris et Jean Jamin, Gradhiva est publi\u00e9e par le mus\u00e9e du quai Branly pour sa nouvelle s\u00e9rie. La revue se veut un lieu de d\u00e9bats sur l'histoire et les d\u00e9veloppements actuels de l'anthropologie fond\u00e9s sur des \u00e9tudes originales et la publication d'archives ou de t\u00e9moignages. Gradhiva privil\u00e9gie aussi l'\u00e9tude et l'analyse d'objets r\u00e9els ou symboliques ainsi que des probl\u00e9matiques mus\u00e9ologiques et anthropologiques. Surtout, elle est ouverte \u00e0 de multiples disciplines: l'ethnologie, l'esth\u00e9tique, l'histoire, la sociologie, la litt\u00e9rature ou encore la musique. Elle s'attache enfin \u00e0 d\u00e9velopper par une iconographie souvent in\u00e9dite et singuli\u00e8re une interaction entre le texte et l'image.", 
+    "description": "Gradhiva: revue d’anthropologie et de muséologie. Fondée en 1986 par Michel Leiris et Jean Jamin, Gradhiva est publiée par le musée du quai Branly pour sa nouvelle série. La revue se veut un lieu de débats sur l'histoire et les développements actuels de l'anthropologie fondés sur des études originales et la publication d'archives ou de témoignages. Gradhiva privilégie aussi l'étude et l'analyse d'objets réels ou symboliques ainsi que des problématiques muséologiques et anthropologiques. Surtout, elle est ouverte à de multiples disciplines: l'ethnologie, l'esthétique, l'histoire, la sociologie, la littérature ou encore la musique. Elle s'attache enfin à développer par une iconographie souvent inédite et singulière une interaction entre le texte et l'image.", 
     "domain": "gradhiva.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5506103675049823734", 
             "resource_date": "2013-10-20T08:35:56.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.407564"
+            "when": "2015-10-27T18:43:36.462789"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-gradhiva-revue.html", 
             "resource_date": "2013-10-20T08:35:56.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.407582"
+            "when": "2015-10-27T18:43:36.462806"
         }
     ], 
     "publishers": [], 
@@ -77,75 +77,75 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "17 \u2022 L\u2019esth\u00e9tique du geste technique", 
+            "title_full": "17 • L’esthétique du geste technique", 
             "url": "http://gradhiva.revues.org/2551"
         }, 
         {
-            "title_full": "16 \u2022 Chines, l\u2019\u00c9tat au mus\u00e9e", 
+            "title_full": "16 • Chines, l’État au musée", 
             "url": "http://gradhiva.revues.org/2438"
         }, 
         {
-            "title_full": "15 \u2022 Robots \u00e9trangement humains", 
+            "title_full": "15 • Robots étrangement humains", 
             "url": "http://gradhiva.revues.org/2302"
         }, 
         {
-            "title_full": "14 \u2022 Carl Einstein et les primitivismes", 
+            "title_full": "14 • Carl Einstein et les primitivismes", 
             "url": "http://gradhiva.revues.org/2124"
         }, 
         {
-            "title_full": "13 \u2022 Pi\u00e8ges \u00e0 voir, pi\u00e8ges \u00e0 penser", 
+            "title_full": "13 • Pièges à voir, pièges à penser", 
             "url": "http://gradhiva.revues.org/2013"
         }, 
         {
-            "title_full": "12 \u2022 La musique n'a pas d'auteur", 
+            "title_full": "12 • La musique n'a pas d'auteur", 
             "url": "http://gradhiva.revues.org/1784"
         }, 
         {
-            "title_full": "11 \u2022 Grands hommes vus d'en bas", 
+            "title_full": "11 • Grands hommes vus d'en bas", 
             "url": "http://gradhiva.revues.org/1619"
         }, 
         {
-            "title_full": "9 \u2022 Arts de l'enfance, enfances de l'art", 
+            "title_full": "9 • Arts de l'enfance, enfances de l'art", 
             "url": "http://gradhiva.revues.org/1336"
         }, 
         {
-            "title_full": "10 \u2022 Pr\u00e9sence africaine", 
+            "title_full": "10 • Présence africaine", 
             "url": "http://gradhiva.revues.org/1468"
         }, 
         {
-            "title_full": "8 \u2022 M\u00e9moire de l'esclavage au B\u00e9nin", 
+            "title_full": "8 • Mémoire de l'esclavage au Bénin", 
             "url": "http://gradhiva.revues.org/1042"
         }, 
         {
-            "title_full": "7 \u2022 Le poss\u00e9d\u00e9 spectaculaire", 
+            "title_full": "7 • Le possédé spectaculaire", 
             "url": "http://gradhiva.revues.org/991"
         }, 
         {
-            "title_full": "6 \u2022 Voir et reconna\u00eetre. L'objet du malentendu", 
+            "title_full": "6 • Voir et reconnaître. L'objet du malentendu", 
             "url": "http://gradhiva.revues.org/839"
         }, 
         {
-            "title_full": "5 \u2022 Sismographie des terreurs", 
+            "title_full": "5 • Sismographie des terreurs", 
             "url": "http://gradhiva.revues.org/56"
         }, 
         {
-            "title_full": "4 \u2022 Le commerce des cultures", 
+            "title_full": "4 • Le commerce des cultures", 
             "url": "http://gradhiva.revues.org/538"
         }, 
         {
-            "title_full": "3 \u2022 Du Far West au Louvre : le mus\u00e9e indien de George Catlin", 
+            "title_full": "3 • Du Far West au Louvre : le musée indien de George Catlin", 
             "url": "http://gradhiva.revues.org/63"
         }, 
         {
-            "title_full": "2 \u2022 Autour de Lucien Sebag", 
+            "title_full": "2 • Autour de Lucien Sebag", 
             "url": "http://gradhiva.revues.org/425"
         }, 
         {
-            "title_full": "1 \u2022 Ha\u00efti et l'anthropologie", 
+            "title_full": "1 • Haïti et l'anthropologie", 
             "url": "http://gradhiva.revues.org/68"
         }
     ], 
-    "title": "Gradhiva: revue d\u2019anthropologie et de mus\u00e9ologie", 
+    "title": "Gradhiva: revue d’anthropologie et de muséologie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

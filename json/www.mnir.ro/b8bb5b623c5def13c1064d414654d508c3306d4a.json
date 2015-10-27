@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Muzeul Na\u0163ional Muzeul Na\u0163ional de Istorie a Rom\u00e2niei.", 
+    "description": "Muzeul Naţional Muzeul Naţional de Istorie a României.", 
     "domain": "www.mnir.ro", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5482142605382820860", 
             "resource_date": "2011-08-23T09:05:35.674-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.649252"
+            "when": "2015-10-27T18:43:35.653297"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-muzeul-national.html", 
             "resource_date": "2011-08-23T09:05:35.674-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.649268"
+            "when": "2015-10-27T18:43:35.653313"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.710544"
+            "when": "2015-10-27T18:44:12.138446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.710555"
+            "when": "2015-10-27T18:44:12.138457"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:37.731561"
+            "when": "2015-10-27T18:44:12.160941"
         }
     ], 
     "publishers": [], 
@@ -209,7 +209,7 @@
             "url": "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=39"
         }
     ], 
-    "title": "Muzeul Na\u0163ional", 
+    "title": "Muzeul Naţional", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

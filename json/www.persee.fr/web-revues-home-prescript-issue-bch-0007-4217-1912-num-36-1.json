@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 February 2012. Updated 5 February 2015]. Bulletin de Correspondance Hell\u00e9nique (at Pers\u00e9e) [Accessible also at.", 
+    "description": "[First posted in AWOL 21 February 2012. Updated 5 February 2015]. Bulletin de Correspondance Hellénique (at Persée) [Accessible also at.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin de Correspondance Hell\u00e9nique", 
+        "title_full": "Bulletin de Correspondance Hellénique", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/bch"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3328278877047329476", 
             "resource_date": "2015-02-05T11:35:26.760-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:18.253724"
+            "when": "2015-10-27T18:40:31.683235"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-bulletin-de.html", 
             "resource_date": "2015-02-05T11:35:26.760-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:18.253735"
+            "when": "2015-10-27T18:40:31.683247"
         }
     ], 
     "publishers": [], 

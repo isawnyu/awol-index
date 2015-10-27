@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les Cahiers du Centre de Recherches Historiques. ISSN: 1760-7906. En cr\u00e9ant les Cahiers du Centre de Recherches Historiques, en 1988, le CRH s\u2019est dot\u00e9 d\u2019une revue r\u00e9guli\u00e8re dont l\u2019ambition \u00e9tait de fournir \u00e0 un grand laboratoire de recherche un instrument d\u2019information et de publication des principaux \u00e9l\u00e9ments ou lignes de force de son activit\u00e9 scientifique. Il s\u2019agissait aussi de donner une plus grande identit\u00e9 au Centre, dont la grande diversit\u00e9 risquait d\u2019aboutir \u00e0 une perception floue de ses directions de travail et de sa production; Centre fort de plus de cent membres, dont la notori\u00e9t\u00e9 leur permettait de valoriser ailleurs leurs r\u00e9sultats.", 
+    "description": "Les Cahiers du Centre de Recherches Historiques. ISSN: 1760-7906. En créant les Cahiers du Centre de Recherches Historiques, en 1988, le CRH s’est doté d’une revue régulière dont l’ambition était de fournir à un grand laboratoire de recherche un instrument d’information et de publication des principaux éléments ou lignes de force de son activité scientifique. Il s’agissait aussi de donner une plus grande identité au Centre, dont la grande diversité risquait d’aboutir à une perception floue de ses directions de travail et de sa production; Centre fort de plus de cent membres, dont la notoriété leur permettait de valoriser ailleurs leurs résultats.", 
     "domain": "ccrh.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-640575694160719619", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:03.157387"
+            "when": "2015-10-27T18:44:40.783410"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-les-cahiers-du.html", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:03.157404"
+            "when": "2015-10-27T18:44:40.783432"
         }
     ], 
     "publishers": [], 
@@ -95,11 +95,11 @@
             "url": "http://ccrh.revues.org/3519"
         }, 
         {
-            "title_full": "43 | 2009 . Hommage \u00e0 Jacques Ozouf", 
+            "title_full": "43 | 2009 . Hommage à Jacques Ozouf", 
             "url": "http://ccrh.revues.org/3490"
         }, 
         {
-            "title_full": "42 | 2008 . Circulations et fronti\u00e8res . Autour du 101e anniversaire de Fernand Braudel", 
+            "title_full": "42 | 2008 . Circulations et frontières . Autour du 101e anniversaire de Fernand Braudel", 
             "url": "http://ccrh.revues.org/3416"
         }, 
         {
@@ -107,35 +107,35 @@
             "url": "http://ccrh.revues.org/3407"
         }, 
         {
-            "title_full": "40 | 2007 . D\u00e9pendance(s)", 
+            "title_full": "40 | 2007 . Dépendance(s)", 
             "url": "http://ccrh.revues.org/3330"
         }, 
         {
-            "title_full": "39 | 2007 . Ecriture et prison au d\u00e9but de l'\u00e2ge moderne", 
+            "title_full": "39 | 2007 . Ecriture et prison au début de l'âge moderne", 
             "url": "http://ccrh.revues.org/3345"
         }, 
         {
-            "title_full": "38 | 2006 . D\u00e9nombrements officiers \u00ab moyens \u00bb (III)/Varia", 
+            "title_full": "38 | 2006 . Dénombrements officiers « moyens » (III)/Varia", 
             "url": "http://ccrh.revues.org/3261"
         }, 
         {
-            "title_full": "37 | 2006 . Quoi de neuf en Histoire Ancienne ?\u200e Le diable au Moyen \u00c2ge", 
+            "title_full": "37 | 2006 . Quoi de neuf en Histoire Ancienne ?‎ Le diable au Moyen Âge", 
             "url": "http://ccrh.revues.org/3247"
         }, 
         {
-            "title_full": "36 | 2005 . Pour une histoire de la recherche collective en sciences sociales . R\u00e9flexions autour du cinquantenaire du Centre de recherches historiques", 
+            "title_full": "36 | 2005 . Pour une histoire de la recherche collective en sciences sociales . Réflexions autour du cinquantenaire du Centre de recherches historiques", 
             "url": "http://ccrh.revues.org/3033"
         }, 
         {
-            "title_full": "35 | 2005 . Indexer les exempla m\u00e9di\u00e9vaux", 
+            "title_full": "35 | 2005 . Indexer les exempla médiévaux", 
             "url": "http://ccrh.revues.org/2989"
         }, 
         {
-            "title_full": "34 | 2004 . Sociologie \u00e9conomique et \u00e9conomie de l'Antiquit\u00e9. A propos de Max Weber", 
+            "title_full": "34 | 2004 . Sociologie économique et économie de l'Antiquité. A propos de Max Weber", 
             "url": "http://ccrh.revues.org/203"
         }, 
         {
-            "title_full": "33 | 2004 . Strat\u00e9gies de l'\u00e9quivoque", 
+            "title_full": "33 | 2004 . Stratégies de l'équivoque", 
             "url": "http://ccrh.revues.org/230"
         }, 
         {
@@ -151,7 +151,7 @@
             "url": "http://ccrh.revues.org/382"
         }, 
         {
-            "title_full": "28-29 | 2002 . Quelques \"XVII\u00e8me si\u00e8cle\" : Fabrications, usages et r\u00e9emplois", 
+            "title_full": "28-29 | 2002 . Quelques \"XVIIème siècle\" : Fabrications, usages et réemplois", 
             "url": "http://ccrh.revues.org/812"
         }, 
         {
@@ -167,7 +167,7 @@
             "url": "http://ccrh.revues.org/1602"
         }, 
         {
-            "title_full": "24 | 2000 . La s\u00e9duction", 
+            "title_full": "24 | 2000 . La séduction", 
             "url": "http://ccrh.revues.org/1852"
         }, 
         {
@@ -175,11 +175,11 @@
             "url": "http://ccrh.revues.org/2122"
         }, 
         {
-            "title_full": "22 | 1999 . R\u00e9flexions historiographiques", 
+            "title_full": "22 | 1999 . Réflexions historiographiques", 
             "url": "http://ccrh.revues.org/2312"
         }, 
         {
-            "title_full": "21 | 1998 . 1. Pour une histoire compar\u00e9e du voeu // 2. Les Cagots", 
+            "title_full": "21 | 1998 . 1. Pour une histoire comparée du voeu // 2. Les Cagots", 
             "url": "http://ccrh.revues.org/2503"
         }, 
         {
@@ -191,31 +191,31 @@
             "url": "http://ccrh.revues.org/2544"
         }, 
         {
-            "title_full": "17 | 1996 . Hommage \u00e0 Bernard Lepetit", 
+            "title_full": "17 | 1996 . Hommage à Bernard Lepetit", 
             "url": "http://ccrh.revues.org/2577"
         }, 
         {
-            "title_full": "16 | 1996 . Pour une histoire compar\u00e9e du v\u0153u", 
+            "title_full": "16 | 1996 . Pour une histoire comparée du vœu", 
             "url": "http://ccrh.revues.org/2636"
         }, 
         {
-            "title_full": "14-15 | 1995 . Les banques de donn\u00e9es au C.R.H", 
+            "title_full": "14-15 | 1995 . Les banques de données au C.R.H", 
             "url": "http://ccrh.revues.org/2656"
         }, 
         {
-            "title_full": "13 | 1994 . Enqu\u00eates", 
+            "title_full": "13 | 1994 . Enquêtes", 
             "url": "http://ccrh.revues.org/2694"
         }, 
         {
-            "title_full": "12 | 1994 . Polys\u00e9mie de la sant\u00e9. Institutions et pratiques sociales en France et au Qu\u00e9bec 1750-1980", 
+            "title_full": "12 | 1994 . Polysémie de la santé. Institutions et pratiques sociales en France et au Québec 1750-1980", 
             "url": "http://ccrh.revues.org/2723"
         }, 
         {
-            "title_full": "11 | 1993 . Histoire intellectuelle // R\u00e9flexions collectives sur l'histoire sociale", 
+            "title_full": "11 | 1993 . Histoire intellectuelle // Réflexions collectives sur l'histoire sociale", 
             "url": "http://ccrh.revues.org/2756"
         }, 
         {
-            "title_full": "10 | 1993 . Le Centre de recherches historiques de 1949 \u00e0 1975", 
+            "title_full": "10 | 1993 . Le Centre de recherches historiques de 1949 à 1975", 
             "url": "http://ccrh.revues.org/2781"
         }, 
         {
@@ -255,7 +255,7 @@
             "url": "http://ccrh.revues.org/2965"
         }, 
         {
-            "title_full": "5bis | 1990 Journ\u00e9e d'\u00e9tudes Werner Sombart", 
+            "title_full": "5bis | 1990 Journée d'études Werner Sombart", 
             "url": "http://ccrh.revues.org/2975"
         }
     ], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2609846890685031646", 
             "resource_date": "2015-03-23T11:06:37.002-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:42.888849"
+            "when": "2015-10-27T18:38:50.975379"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-sylva-mala.html", 
             "resource_date": "2015-03-23T11:06:37.002-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:42.888867"
+            "when": "2015-10-27T18:38:50.975394"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2609846890685031646", 
             "resource_date": "2015-03-23T11:06:37.002-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:42.946991"
+            "when": "2015-10-27T18:38:51.045063"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-sylva-mala.html", 
             "resource_date": "2015-03-23T11:06:37.002-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:42.947008"
+            "when": "2015-10-27T18:38:51.045080"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:42.948491"
+            "when": "2015-10-27T18:38:51.048075"
         }
     ], 
     "publishers": [], 

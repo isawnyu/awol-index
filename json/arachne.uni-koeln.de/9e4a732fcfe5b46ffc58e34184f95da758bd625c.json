@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8513941131439376539", 
             "resource_date": "2015-04-28T15:33:28.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.397602"
+            "when": "2015-10-27T18:47:48.228518"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-minoan-and-mycenaean.html", 
             "resource_date": "2015-04-28T15:33:28.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.397618"
+            "when": "2015-10-27T18:47:48.228534"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8513941131439376539", 
             "resource_date": "2015-04-28T15:33:28.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.399839"
+            "when": "2015-10-27T18:47:48.230793"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-minoan-and-mycenaean.html", 
             "resource_date": "2015-04-28T15:33:28.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.399853"
+            "when": "2015-10-27T18:47:48.230806"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:57.441682"
+            "when": "2015-10-27T18:47:48.279576"
         }, 
         {
             "fields": [
@@ -177,13 +177,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9158211463162104013", 
             "resource_date": "2012-03-19T06:39:54.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.687557"
+            "when": "2015-10-27T18:49:20.223769"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/publications-dissertations-online-at.html", 
             "resource_date": "2012-03-19T06:39:54.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.687568"
+            "when": "2015-10-27T18:49:20.223782"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:21.702054"
+            "when": "2015-10-27T18:49:20.242023"
         }
     ], 
     "publishers": [], 
@@ -216,7 +216,7 @@
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=I&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS IS - Athen, Nationalmuseum Erg\u00e4nzungen", 
+            "title_full": "CMS IS - Athen, Nationalmuseum Ergänzungen", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=IS&objektsiegel[match]=exact"
         }, 
         {
@@ -236,19 +236,19 @@
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,4&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS II,5 - Iraklion, Siegelabdr\u00fccke von Ph\u00e4stos", 
+            "title_full": "CMS II,5 - Iraklion, Siegelabdrücke von Phästos", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,5&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS II,6 - Iraklion, Siegelabdr\u00fccke von Aj. Triada", 
+            "title_full": "CMS II,6 - Iraklion, Siegelabdrücke von Aj. Triada", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,6&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS II,7 - Iraklion, Siegelabdr\u00fccke von Kato Zakros", 
+            "title_full": "CMS II,7 - Iraklion, Siegelabdrücke von Kato Zakros", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,7&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS II,8 - Iraklion, Siegelabdr\u00fccke von Knossos", 
+            "title_full": "CMS II,8 - Iraklion, Siegelabdrücke von Knossos", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=II,8&objektsiegel[match]=exact"
         }, 
         {
@@ -292,7 +292,7 @@
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=VIII&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS IX - Paris, Cabinet des M\u00e9dailles", 
+            "title_full": "CMS IX - Paris, Cabinet des Médailles", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=IX&objektsiegel[match]=exact"
         }, 
         {
@@ -300,7 +300,7 @@
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=X&objektsiegel[match]=exact"
         }, 
         {
-            "title_full": "CMS XI - Kleinere europ\u00e4ische Sammlungen", 
+            "title_full": "CMS XI - Kleinere europäische Sammlungen", 
             "url": "http://arachne.uni-koeln.de/browser/index.php?view[layout]=siegel_set&&objektsiegel[view][page]=0&xml=no&tracking=0&objektsiegel[search][CMSBand]=XI&objektsiegel[match]=exact"
         }, 
         {

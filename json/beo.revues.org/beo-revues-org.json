@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le Bulletin d\u2019\u00e9tudes orientales. ISSN \u00e9lectronique 2077-4079. Le Bulletin d\u2019\u00e9tudes orientales (BEO) est une revue scientifique cr\u00e9\u00e9e en 1931 \u00e0 l\u2019initiative des chercheurs fran\u00e7ais travaillant au Proche-Orient dans le cadre de l\u2019institut de recherche fond\u00e9 initialement \u00e0 Damas en 1922 pour \u00e9tudier l\u2019arch\u00e9ologie islamique et l\u2019art proche-oriental; la cr\u00e9ation du BEO a correspondu \u00e0 un \u00e9largissement des champs d\u2019int\u00e9r\u00eat et des disciplines \u00e0 bien d\u2019autres sciences humaines. Actuellement, le Bulletin d\u2019\u00e9tudes orientales publie des articles \u00e9crits par des universitaires, chercheurs ou doctorants sp\u00e9cialis\u00e9s dans les domaines suivants Arch\u00e9ologie et histoire de l\u2019art du Proche-Orient \u00e0 l\u2019\u00e9poque islamique (\u00e0 partir du VIIe si\u00e8cle); Histoire du Proche-Orient depuis la conqu\u00eate arabe (VIIe si\u00e8cle) jusqu\u2019\u00e0 la fin de l\u2019empire ottoman (1918); Litt\u00e9rature de langue arabe, classique et contemporaine; Linguistique arabe; Histoire de la pens\u00e9e religieuse musulmane (\u00ab islamologie \u00bb), mais aussi chr\u00e9tienne ou juive de langue arabe; philosophie m\u00e9di\u00e9vale de langue arabe; Histoire des sciences et des techniques dans le Proche-Orient d\u2019\u00e9poque islamique. Les comptes rendus sont publi\u00e9s uniquement en ligne sur ce site depuis d\u00e9cembre 2012.", 
+    "description": "Le Bulletin d’études orientales. ISSN électronique 2077-4079. Le Bulletin d’études orientales (BEO) est une revue scientifique créée en 1931 à l’initiative des chercheurs français travaillant au Proche-Orient dans le cadre de l’institut de recherche fondé initialement à Damas en 1922 pour étudier l’archéologie islamique et l’art proche-oriental; la création du BEO a correspondu à un élargissement des champs d’intérêt et des disciplines à bien d’autres sciences humaines. Actuellement, le Bulletin d’études orientales publie des articles écrits par des universitaires, chercheurs ou doctorants spécialisés dans les domaines suivants Archéologie et histoire de l’art du Proche-Orient à l’époque islamique (à partir du VIIe siècle); Histoire du Proche-Orient depuis la conquête arabe (VIIe siècle) jusqu’à la fin de l’empire ottoman (1918); Littérature de langue arabe, classique et contemporaine; Linguistique arabe; Histoire de la pensée religieuse musulmane (« islamologie »), mais aussi chrétienne ou juive de langue arabe; philosophie médiévale de langue arabe; Histoire des sciences et des techniques dans le Proche-Orient d’époque islamique. Les comptes rendus sont publiés uniquement en ligne sur ce site depuis décembre 2012.", 
     "domain": "beo.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4384286671862001990", 
             "resource_date": "2013-12-25T09:44:24.764-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:26.486940"
+            "when": "2015-10-27T18:41:51.991936"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-to-bulletin-detudes.html", 
             "resource_date": "2013-12-25T09:44:24.764-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:26.486956"
+            "when": "2015-10-27T18:41:51.991952"
         }
     ], 
     "publishers": [], 
@@ -87,37 +87,37 @@
             "url": "http://beo.revues.org/757"
         }, 
         {
-            "title_full": "Tome LXI | d\u00e9cembre 2012 . Damas m\u00e9di\u00e9vale et ottomane. Histoire urbaine, soci\u00e9t\u00e9 et culture mat\u00e9rielle", 
+            "title_full": "Tome LXI | décembre 2012 . Damas médiévale et ottomane. Histoire urbaine, société et culture matérielle", 
             "url": "http://beo.revues.org/787"
         }, 
         {
-            "title_full": "Tome LX | mai 2011 . Ann\u00e9e 2011", 
+            "title_full": "Tome LX | mai 2011 . Année 2011", 
             "url": "http://beo.revues.org/239"
         }, 
         {
-            "title_full": "Tome LIX | octobre 2010 . La m\u00e9trique arabe au XIII e si\u00e8cle apr\u00e8s al-\u1e2aal\u012bl", 
+            "title_full": "Tome LIX | octobre 2010 . La métrique arabe au XIII e siècle après al-Ḫalīl", 
             "url": "http://beo.revues.org/174"
         }, 
         {
-            "title_full": "Tome LVIII | Septembre 2009 . Ann\u00e9es 2008-2009", 
+            "title_full": "Tome LVIII | Septembre 2009 . Années 2008-2009", 
             "url": "http://beo.revues.org/57"
         }, 
         {
-            "title_full": "Suppl\u00e9ment LVII | Mars 2008 . Le pouvoir \u00e0 l\u2019\u00e2ge des sultanats dans le Bil\u0101d al-Sh\u0101m . S\u00e9minaire IFPO-ACOR, Amman 15-16 mai 2005", 
+            "title_full": "Supplément LVII | Mars 2008 . Le pouvoir à l’âge des sultanats dans le Bilād al-Shām . Séminaire IFPO-ACOR, Amman 15-16 mai 2005", 
             "url": "http://beo.revues.org/143"
         }, 
         {
-            "title_full": "Tome LVII | Janvier 2008 . Ann\u00e9es 2006-2007", 
+            "title_full": "Tome LVII | Janvier 2008 . Années 2006-2007", 
             "url": "http://beo.revues.org/118"
         }, 
         {
-            "title_full": "Tous les num\u00e9ros", 
+            "title_full": "Tous les numéros", 
             "url": "http://beo.revues.org/55"
         }
     ], 
-    "title": "Bulletin d\u2019\u00e9tudes orientales", 
+    "title": "Bulletin d’études orientales", 
     "title_alternates": [], 
-    "title_extended": "Le Bulletin d\u2019\u00e9tudes orientales", 
+    "title_extended": "Le Bulletin d’études orientales", 
     "type": null, 
     "url": "http://beo.revues.org/", 
     "url_alternates": [], 

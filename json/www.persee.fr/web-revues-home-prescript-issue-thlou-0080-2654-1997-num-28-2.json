@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue Th\u00e9ologique de Louvain. eISSN - 1783-8401.", 
+    "description": "Revue Théologique de Louvain. eISSN - 1783-8401.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Revue Th\u00e9ologique de Louvain", 
+        "title_full": "Revue Théologique de Louvain", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/thlou"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4768875880828252035", 
             "resource_date": "2015-04-16T16:57:03.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.975720"
+            "when": "2015-10-27T18:42:09.846562"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/newly-open-access-journal-revue.html", 
             "resource_date": "2015-04-16T16:57:03.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.975732"
+            "when": "2015-10-27T18:42:09.846574"
         }
     ], 
     "publishers": [], 

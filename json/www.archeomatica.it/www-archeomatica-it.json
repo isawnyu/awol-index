@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archeomatica. ISSN: 2037-2485. Archeomatica \u00e8 una nuova rivista multidisciplinare, stampata in Italia, dedicata alla presentazione e alla diffusione di metodologie avanzate, tecnologie emergenti e tecniche per la conoscenza, la documentazione, salvaguardia, conservazione e valorizzazione del patrimonio culturale. La rivista si propone di pubblicare articoli di valore significativo e duraturo scritti da ricercatori, archeologi, storici, conservatori e restauratori coinvolti in questo settore, per la diffusione di nuove metodologie specifiche e dei risultati sperimentali. Archeomatica solleciter\u00e0 il dibattito costruttivo sulle ultime applicazioni scientifiche, per il confronto di idee e delle scoperte relazionate ad ogni aspetto del settore dei beni culturali. Archeomatica \u00e8 destinata anche ad essere una fonte primaria di informazioni multidisciplinari e di divulgazione per il settore del patrimonio culturale.", 
+    "description": "Archeomatica. ISSN: 2037-2485. Archeomatica è una nuova rivista multidisciplinare, stampata in Italia, dedicata alla presentazione e alla diffusione di metodologie avanzate, tecnologie emergenti e tecniche per la conoscenza, la documentazione, salvaguardia, conservazione e valorizzazione del patrimonio culturale. La rivista si propone di pubblicare articoli di valore significativo e duraturo scritti da ricercatori, archeologi, storici, conservatori e restauratori coinvolti in questo settore, per la diffusione di nuove metodologie specifiche e dei risultati sperimentali. Archeomatica solleciterà il dibattito costruttivo sulle ultime applicazioni scientifiche, per il confronto di idee e delle scoperte relazionate ad ogni aspetto del settore dei beni culturali. Archeomatica è destinata anche ad essere una fonte primaria di informazioni multidisciplinari e di divulgazione per il settore del patrimonio culturale.", 
     "domain": "www.archeomatica.it", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1394528119494159540", 
             "resource_date": "2015-04-30T11:42:44.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.922016"
+            "when": "2015-10-27T18:37:30.394269"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/new-open-access-journal-archeomatica.html", 
             "resource_date": "2015-04-30T11:42:44.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.922032"
+            "when": "2015-10-27T18:37:30.394295"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1394528119494159540", 
             "resource_date": "2015-04-30T11:42:44.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.974378"
+            "when": "2015-10-27T18:37:30.458019"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/new-open-access-journal-archeomatica.html", 
             "resource_date": "2015-04-30T11:42:44.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.974392"
+            "when": "2015-10-27T18:37:30.458036"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:27.977016"
+            "when": "2015-10-27T18:37:30.461212"
         }
     ], 
     "publishers": [], 

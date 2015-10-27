@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Publication annuelle, paraissant en d\u00e9but d\u2019ann\u00e9e en anglais et en fran\u00e7ais, rappelant tous les grands et petits \u00e9v\u00e9nements, donnant des nouvelles des anciens, listant les publications, elle constitue comme la m\u00e9moire de l\u2019\u00c9cole. Voici les num\u00e9ros disponibles en fran\u00e7ais: Ann\u00e9e 1997.", 
+    "description": "Publication annuelle, paraissant en début d’année en anglais et en français, rappelant tous les grands et petits événements, donnant des nouvelles des anciens, listant les publications, elle constitue comme la mémoire de l’École. Voici les numéros disponibles en français: Année 1997.", 
     "domain": "www.ebaf.edu", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Nouvelles de J\u00e9rusalem", 
+        "title_full": "Nouvelles de Jérusalem", 
         "url": "ttp://www.ebaf.info/?p=1335&lang=fr"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4405704380127378727", 
             "resource_date": "2013-08-26T06:47:21.791-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:26.755594"
+            "when": "2015-10-27T18:41:52.269353"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-nouvelles-de.html", 
             "resource_date": "2013-08-26T06:47:21.791-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:26.755608"
+            "when": "2015-10-27T18:41:52.269366"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00c9cole biblique et arch\u00e9ologique fran\u00e7aise de J\u00e9rusalem (EBAF)", 
+    "title": "École biblique et archéologique française de Jérusalem (EBAF)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

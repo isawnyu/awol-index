@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Provenance: Biblioth\u00e8que nationale de France. Description: Iconographie: Illustration du chapitre I du Livre des Morts, qui montre le d\u00e9funt dans diverses postures: v\u00eatu d\u2019un long pagne et coiff\u00e9 d\u2019une perruque puis t\u00eate nue et v\u00eatu d\u2019un long pagne; groupe de trois personnages f\u00e9minins; le d\u00e9funt tire un naos sur un tra\u00eeneau; le d\u00e9funt tire Anubis sur un autel pos\u00e9 sur un tra\u00eeneau: le d\u00e9funt tire une barque fun\u00e9raire o\u00f9 repose la momie encadr\u00e9e de Isis et Nephtys; le d\u00e9funt porte un vase \u00e0 onguent; le d\u00e9funt muni du flabellum et du linge pli\u00e9 m\u00e8ne une vache. Texte: d\u00e9but du chapitre 1 (Jour de la mise au tombeau d\u2019Osiris; rentrer apr\u00e8s \u00eatre sorti). Date de mise en ligne: 15/02/2010.", 
+    "description": "Provenance: Bibliothèque nationale de France. Description: Iconographie: Illustration du chapitre I du Livre des Morts, qui montre le défunt dans diverses postures: vêtu d’un long pagne et coiffé d’une perruque puis tête nue et vêtu d’un long pagne; groupe de trois personnages féminins; le défunt tire un naos sur un traîneau; le défunt tire Anubis sur un autel posé sur un traîneau: le défunt tire une barque funéraire où repose la momie encadrée de Isis et Nephtys; le défunt porte un vase à onguent; le défunt muni du flabellum et du linge plié mène une vache. Texte: début du chapitre 1 (Jour de la mise au tombeau d’Osiris; rentrer après être sorti). Date de mise en ligne: 15/02/2010.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4872810227567841279", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.707192"
+            "when": "2015-10-27T18:42:41.992200"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-egyptian-manuscripts-online-at.html", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.707206"
+            "when": "2015-10-27T18:42:41.992213"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 25 May 2012. Updated 7 September 2013]. Archaiologik\u0113 eph\u0113meris. ISSN: 1105-0950. periodikon t\u0113s en Ath\u0113nais Archaiologik\u0113s Hetaireias.", 
+    "description": "[First posted in AWOL 25 May 2012. Updated 7 September 2013]. Archaiologikē ephēmeris. ISSN: 1105-0950. periodikon tēs en Athēnais Archaiologikēs Hetaireias.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7739685993320600011", 
             "resource_date": "2013-09-07T08:05:57.830-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.871440"
+            "when": "2015-10-27T18:46:33.291100"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-archaiologike.html", 
             "resource_date": "2013-09-07T08:05:57.830-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.871466"
+            "when": "2015-10-27T18:46:33.291116"
         }
     ], 
     "publishers": [], 
@@ -173,7 +173,7 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/aephem1925_1926?sid=e7cbc1a8709f5c22401f234fb669172e"
         }
     ], 
-    "title": "Archaiologik\u0113 eph\u0113meris", 
+    "title": "Archaiologikē ephēmeris", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

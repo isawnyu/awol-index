@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "David WILMSEN: More on the Arabic object marker iyy\u0101: Implications for the origin of the Semitic notae accusativi.", 
+    "description": "David WILMSEN: More on the Arabic object marker iyyā: Implications for the origin of the Semitic notae accusativi.", 
     "domain": "fo.czasopisma.pan.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2023609116964516143", 
             "resource_date": "2015-04-10T07:27:06.638-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:10.664895"
+            "when": "2015-10-27T18:38:17.533982"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/newly-open-access-journal-folia.html", 
             "resource_date": "2015-04-10T07:27:06.638-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:10.664906"
+            "when": "2015-10-27T18:38:17.533994"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Giuliano MION:. Quelques remarques sur les verbes modaux et les pseudo-verbes de l\u2019arabe parl\u00e9 \u00e0 Tunis", 
+    "title": "Giuliano MION:. Quelques remarques sur les verbes modaux et les pseudo-verbes de l’arabe parlé à Tunis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7906438274919678333", 
             "resource_date": "2012-07-05T15:12:28.202-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:02.128152"
+            "when": "2015-10-27T18:46:49.216207"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-helade.html", 
             "resource_date": "2012-07-05T15:12:28.202-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:02.128167"
+            "when": "2015-10-27T18:46:49.216224"
         }
     ], 
     "publishers": [], 
@@ -86,7 +86,7 @@
             "url": "http://www.heladeweb.net/English/supplements.html"
         }
     ], 
-    "title": "H\u00e9lade", 
+    "title": "Hélade", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

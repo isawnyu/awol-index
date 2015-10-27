@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5610138580119381496", 
             "resource_date": "2014-11-03T10:31:20.915-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:07.287809"
+            "when": "2015-10-27T18:43:39.238440"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/hell-on-line.html", 
             "resource_date": "2014-11-03T10:31:20.915-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:07.287827"
+            "when": "2015-10-27T18:43:39.238457"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5610138580119381496", 
             "resource_date": "2014-11-03T10:31:20.915-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:07.291889"
+            "when": "2015-10-27T18:43:39.242713"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/hell-on-line.html", 
             "resource_date": "2014-11-03T10:31:20.915-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:07.291901"
+            "when": "2015-10-27T18:43:39.242727"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:07.293322"
+            "when": "2015-10-27T18:43:39.244771"
         }
     ], 
     "publishers": [], 

@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2324182026857386070", 
             "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.179221"
+            "when": "2015-10-27T18:38:41.186044"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/classical-works-knowledge-base.html", 
             "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.179237"
+            "when": "2015-10-27T18:38:41.186095"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2324182026857386070", 
             "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.182300"
+            "when": "2015-10-27T18:38:41.194034"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/classical-works-knowledge-base.html", 
             "resource_date": "2014-07-12T08:14:25.805-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.182315"
+            "when": "2015-10-27T18:38:41.194053"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:33.192031"
+            "when": "2015-10-27T18:38:41.205022"
         }
     ], 
     "publishers": [], 

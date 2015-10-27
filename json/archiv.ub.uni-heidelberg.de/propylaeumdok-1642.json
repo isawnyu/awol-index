@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Der Orient und Etrurien. Internationales Kolloquium T\u00fcbingen 12. -13. 6. 1997. Pisa; Rom 2000, pp. 315-322. Krauskopf, Ingrid (1992).", 
+    "description": "In: Der Orient und Etrurien. Internationales Kolloquium Tübingen 12. -13. 6. 1997. Pisa; Rom 2000, pp. 315-322. Krauskopf, Ingrid (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:37.989117"
+            "when": "2015-10-27T18:48:31.826778"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:37.989133"
+            "when": "2015-10-27T18:48:31.826794"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ikonographische Parallelen im Bereich der G\u00f6tter- und D\u00e4monenbilder", 
+    "title": "Ikonographische Parallelen im Bereich der Götter- und Dämonenbilder", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

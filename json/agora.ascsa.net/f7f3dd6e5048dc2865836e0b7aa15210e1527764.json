@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7119743412816053459", 
             "resource_date": "2015-05-18T07:52:40.109-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.385856"
+            "when": "2015-10-27T18:45:28.347446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/athenian-agora-preliminary-reports.html", 
             "resource_date": "2015-05-18T07:52:40.109-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.385872"
+            "when": "2015-10-27T18:45:28.347463"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7119743412816053459", 
             "resource_date": "2015-05-18T07:52:40.109-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.387928"
+            "when": "2015-10-27T18:45:28.349524"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/athenian-agora-preliminary-reports.html", 
             "resource_date": "2015-05-18T07:52:40.109-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.387941"
+            "when": "2015-10-27T18:45:28.349535"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:46.397815"
+            "when": "2015-10-27T18:45:28.362111"
         }
     ], 
     "publishers": [], 

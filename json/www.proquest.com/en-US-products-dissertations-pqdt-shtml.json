@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Free access to the citation, abstract, full text (including supplementary files) for your graduate works for all institutional subscribers to ProQuest\u00ae Dissertations & Theses (PQDT), the database of record for graduate research.", 
+    "description": "Free access to the citation, abstract, full text (including supplementary files) for your graduate works for all institutional subscribers to ProQuest® Dissertations & Theses (PQDT), the database of record for graduate research.", 
     "domain": "www.proquest.com", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7492286992846629336", 
             "resource_date": "2013-07-23T10:09:54.083-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.689901"
+            "when": "2015-10-27T18:45:52.761455"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/how-to-convert-your-proquest.html", 
             "resource_date": "2013-07-23T10:09:54.083-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.689930"
+            "when": "2015-10-27T18:45:52.761473"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7492286992846629336", 
             "resource_date": "2013-07-23T10:09:54.083-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.692785"
+            "when": "2015-10-27T18:45:52.764105"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/how-to-convert-your-proquest.html", 
             "resource_date": "2013-07-23T10:09:54.083-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.692800"
+            "when": "2015-10-27T18:45:52.764118"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:08.698858"
+            "when": "2015-10-27T18:45:52.770621"
         }
     ], 
     "publishers": [], 

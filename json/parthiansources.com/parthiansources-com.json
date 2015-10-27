@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3217552088290366863", 
             "resource_date": "2015-05-11T11:12:40.888-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:12.394003"
+            "when": "2015-10-27T18:39:22.169333"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/parthian-sources-online.html", 
             "resource_date": "2015-05-11T11:12:40.888-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:12.394020"
+            "when": "2015-10-27T18:39:22.169349"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3217552088290366863", 
             "resource_date": "2015-05-11T11:12:40.888-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:12.395463"
+            "when": "2015-10-27T18:39:22.170782"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/parthian-sources-online.html", 
             "resource_date": "2015-05-11T11:12:40.888-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:12.395475"
+            "when": "2015-10-27T18:39:22.170793"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:12.403801"
+            "when": "2015-10-27T18:39:22.178813"
         }
     ], 
     "publishers": [], 

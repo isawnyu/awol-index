@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Shehab, S. A. H. - Bart\u00edk, M. - Tirp\u00e1k, J. - \u010euri\u0161, J. - Barta, P. - Benedikov\u00e1, L. - Bielich, M. : Survey and Mapping of Al-Quraniya, Failaka Island, State of Kuwait. Ve slu\u017eb\u00e1ch archeologie 2/08, 2008, 17-22. Click to display or download.", 
+    "description": "Shehab, S. A. H. - Bartík, M. - Tirpák, J. - Ďuriš, J. - Barta, P. - Benediková, L. - Bielich, M. : Survey and Mapping of Al-Quraniya, Failaka Island, State of Kuwait. Ve službách archeologie 2/08, 2008, 17-22. Click to display or download.", 
     "domain": "www.kuwaitarchaeology.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5149246840690675435", 
             "resource_date": "2012-10-05T15:23:50.057-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:43.309614"
+            "when": "2015-10-27T18:43:13.919623"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/kuwaiti-slovak-archaeological-mission.html", 
             "resource_date": "2012-10-05T15:23:50.057-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:43.309627"
+            "when": "2015-10-27T18:43:13.919639"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Barta, P. - Benedikov\u00e1, L. - Hajnalov\u00e1, M. - Mikl\u00edkov\u00e1, Z. - Belanov\u00e1, T. - Shehab, S. A. H.: Al-Khidr on Failaka Island: Preliminary Results of the Fieldworks at a Dilmun Culture Settlement in Kuwait. T\u00dcBA-AR, Turkish Academy of Sciences Journal of Archaeology 11, 2008, 121-134.. Click to display or download", 
+    "title": "Barta, P. - Benediková, L. - Hajnalová, M. - Miklíková, Z. - Belanová, T. - Shehab, S. A. H.: Al-Khidr on Failaka Island: Preliminary Results of the Fieldworks at a Dilmun Culture Settlement in Kuwait. TÜBA-AR, Turkish Academy of Sciences Journal of Archaeology 11, 2008, 121-134.. Click to display or download", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

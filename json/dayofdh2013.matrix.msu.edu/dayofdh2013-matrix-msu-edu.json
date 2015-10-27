@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "I am participating today in A Day in the Life of the Digital Humanities (Day of DH) is an open community publication project that will bring together scholars interested in the digital humanities from around the world to document what they do on one day. This year, Day of DH will take place on April 8th. The goal of the project is to create a web site that weaves together a picture of the participant\u2019s activities on the day which answers the question, \"Just what do digital humanists really do?\" Participants document their day through photographs and text, all of which is published on a community online platform (which, for this year, lives at.", 
+    "description": "I am participating today in A Day in the Life of the Digital Humanities (Day of DH) is an open community publication project that will bring together scholars interested in the digital humanities from around the world to document what they do on one day. This year, Day of DH will take place on April 8th. The goal of the project is to create a web site that weaves together a picture of the participant’s activities on the day which answers the question, \"Just what do digital humanists really do?\" Participants document their day through photographs and text, all of which is published on a community online platform (which, for this year, lives at.", 
     "domain": "dayofdh2013.matrix.msu.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8428307657692185466", 
             "resource_date": "2013-04-08T18:47:08.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.979054"
+            "when": "2015-10-27T18:47:14.557005"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/a-day-in-life-of-digital-humanities.html", 
             "resource_date": "2013-04-08T18:47:08.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.979071"
+            "when": "2015-10-27T18:47:14.557021"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8428307657692185466", 
             "resource_date": "2013-04-08T18:47:08.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.982025"
+            "when": "2015-10-27T18:47:14.558703"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/a-day-in-life-of-digital-humanities.html", 
             "resource_date": "2013-04-08T18:47:08.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.982046"
+            "when": "2015-10-27T18:47:14.558714"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.988149"
+            "when": "2015-10-27T18:47:14.562661"
         }
     ], 
     "publishers": [], 

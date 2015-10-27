@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wiegels, Rainer and Woesler, W. (Hrsgg. ): rminius und die Varusschlacht. Geschichte - Mythos - Literatur. Interdisziplin\u00e4res Kolloquium in Osnabr\u00fcck 6. -9. 12. 1990. Paderborn 1995, pp. 97-122. Stupperich, Reinhard (1978).", 
+    "description": "In: Wiegels, Rainer and Woesler, W. (Hrsgg. ): rminius und die Varusschlacht. Geschichte - Mythos - Literatur. Interdisziplinäres Kolloquium in Osnabrück 6. -9. 12. 1990. Paderborn 1995, pp. 97-122. Stupperich, Reinhard (1978).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:41.978917"
+            "when": "2015-10-27T18:48:36.372732"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:41.978934"
+            "when": "2015-10-27T18:48:36.372749"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "R\u00f6mische Toreutik und augusteische Feldz\u00fcge in Germanien: Der Fall Hildesheim", 
+    "title": "Römische Toreutik und augusteische Feldzüge in Germanien: Der Fall Hildesheim", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

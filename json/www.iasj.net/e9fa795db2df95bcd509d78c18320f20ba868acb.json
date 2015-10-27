@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7907107907263649062", 
             "resource_date": "2015-03-05T08:38:25.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:02.203410"
+            "when": "2015-10-27T18:46:49.294079"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/iraqi-open-access-journals.html", 
             "resource_date": "2015-03-05T08:38:25.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:02.203427"
+            "when": "2015-10-27T18:46:49.294095"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7907107907263649062", 
             "resource_date": "2015-03-05T08:38:25.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:02.205458"
+            "when": "2015-10-27T18:46:49.296087"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/iraqi-open-access-journals.html", 
             "resource_date": "2015-03-05T08:38:25.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:02.205471"
+            "when": "2015-10-27T18:46:49.296098"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:02.251271"
+            "when": "2015-10-27T18:46:49.343415"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "R\u00f6misch-germanisches Korrespondenzblatt: Nachrichten f\u00fcr r\u00f6misch-germanische Altertumsforschung. Das R\u00f6misch-germanische Korrespondenzblatt wurde 1908 von Prof. Dr. Emil Kr\u00fcger, dem damaligen Direktor des Provinzialmuseums in Trier, herausgegeben. Es war die Fortsetzung des Korrespondenzblatt der Westdeutschen Zeitschrift f\u00fcr Geschichte und Kunst, welches wiederum gleichzeitig das Organ der Historisch-antiquarischen Vereine zu Birkenfeld war. Entsprechend sind in der Zeitschrift vorrangig Ausgrabungen aus dem westf\u00e4lischem Raum publiziert worden. Das R\u00f6misch-germanische-Korrespondenzblatt erschien in nur neun Ausgaben und wurde bereits 1916 wieder eingestellt.", 
+    "description": "Römisch-germanisches Korrespondenzblatt: Nachrichten für römisch-germanische Altertumsforschung. Das Römisch-germanische Korrespondenzblatt wurde 1908 von Prof. Dr. Emil Krüger, dem damaligen Direktor des Provinzialmuseums in Trier, herausgegeben. Es war die Fortsetzung des Korrespondenzblatt der Westdeutschen Zeitschrift für Geschichte und Kunst, welches wiederum gleichzeitig das Organ der Historisch-antiquarischen Vereine zu Birkenfeld war. Entsprechend sind in der Zeitschrift vorrangig Ausgrabungen aus dem westfälischem Raum publiziert worden. Das Römisch-germanische-Korrespondenzblatt erschien in nur neun Ausgaben und wurde bereits 1916 wieder eingestellt.", 
     "domain": "www.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3679806943990780202", 
             "resource_date": "2015-02-16T12:48:12.280-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.838465"
+            "when": "2015-10-27T18:40:56.714032"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-romisch.html", 
             "resource_date": "2015-02-16T12:48:12.280-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.838481"
+            "when": "2015-10-27T18:40:56.714046"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "R\u00f6misch-germanisches Korrespondenzblatt: Nachrichten f\u00fcr r\u00f6misch-germanische Altertumsforschung", 
+    "title": "Römisch-germanisches Korrespondenzblatt: Nachrichten für römisch-germanische Altertumsforschung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

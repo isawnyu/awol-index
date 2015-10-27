@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Ackermann, A. and M\u00fcller, K. E. (Hrsgg. ): Patchwork: Dimensionen multikultureller Gesellschaften. Bielefeld 2002, pp. 83-128. Chaniotis, Angelos (2003).", 
+    "description": "In: Ackermann, A. and Müller, K. E. (Hrsgg. ): Patchwork: Dimensionen multikultureller Gesellschaften. Bielefeld 2002, pp. 83-128. Chaniotis, Angelos (2003).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.444691"
+            "when": "2015-10-27T18:46:45.611252"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.444706"
+            "when": "2015-10-27T18:46:45.611266"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:34.093546"
+            "when": "2015-10-27T18:48:27.335493"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:34.093562"
+            "when": "2015-10-27T18:48:27.335510"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.462628"
+            "when": "2015-10-27T18:48:38.059825"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zwischen Konfrontation und Interaktion: Christen, Juden und Heiden im sp\u00e4tantiken Aphrodisias", 
+    "title": "Zwischen Konfrontation und Interaktion: Christen, Juden und Heiden im spätantiken Aphrodisias", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

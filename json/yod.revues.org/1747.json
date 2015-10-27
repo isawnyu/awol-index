@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales [=Yod: revue des \u00e9tudes h\u00e9bra\u00efques et juives 18 (2013)].", 
+    "description": "Le Proche-Orient ancien à la lumière des sciences sociales [=Yod: revue des études hébraïques et juives 18 (2013)].", 
     "domain": "yod.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+        "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
         "url": "http://yod.revues.org/1747"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.281384"
+            "when": "2015-10-27T18:37:33.873644"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.281401"
+            "when": "2015-10-27T18:37:33.873661"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.284131"
+            "when": "2015-10-27T18:37:33.876292"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.284147"
+            "when": "2015-10-27T18:37:33.876304"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:31.324180"
+            "when": "2015-10-27T18:37:33.914125"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+            "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
             "url": "http://yod.revues.org/1747"
         }, 
         {
-            "title_full": "Yod: revue des \u00e9tudes h\u00e9bra\u00efques et juives", 
+            "title_full": "Yod: revue des études hébraïques et juives", 
             "url": "http://yod.revues.org/"
         }, 
         {
@@ -154,51 +154,51 @@
             "url": "http://yod.revues.org/1748"
         }, 
         {
-            "title_full": "Madalina V\u00e2rtejanu-Joubert Avant-Propos [Texte int\u00e9gral]", 
+            "title_full": "Madalina Vârtejanu-Joubert Avant-Propos [Texte intégral]", 
             "url": "http://yod.revues.org/1926"
         }, 
         {
-            "title_full": "Frank Polak Parler de la langue : Labov, Fishman et l\u2019histoire de l\u2019h\u00e9breu biblique [Texte int\u00e9gral] Speaking of Language: Labov, Fishman and the Varieties of Biblical Hebrew \u05e2\u05dc \u05d4\u05e9\u05e4\u05d4: \u05dc\u05d1\u05d5\u05d1, \u05e4\u05d9\u05e9\u05de\u05df \u05d5\u05e8\u05d1\u05d3\u05d9\u05d4 \u05e9\u05dc \u05d4\u05e2\u05d1\u05e8\u05d9\u05ea \u05d4\u05de\u05e7\u05e8\u05d0\u05d9\u05ea", 
+            "title_full": "Frank Polak Parler de la langue : Labov, Fishman et l’histoire de l’hébreu biblique [Texte intégral] Speaking of Language: Labov, Fishman and the Varieties of Biblical Hebrew על השפה: לבוב, פישמן ורבדיה של העברית המקראית", 
             "url": "http://yod.revues.org/1814"
         }, 
         {
-            "title_full": "Daniel Bodi Que reste-t-il des th\u00e9ories sociologiques de George Mendenhall et de Norman Gottwald sur l\u2019installation des tribus isra\u00e9lites au pays de Canaan ? [Texte int\u00e9gral] What valuability for the sociological theories of George Mendenhall and Norman Gottwald concerning the installation of Israelite Tribes in Canaan? \u05de\u05d4 \u05e0\u05d5\u05ea\u05e8 \u05de\u05df \u05d4\u05ea\u05d0\u05d5\u05e8\u05d9\u05d5\u05ea \u05d4\u05e1\u05d5\u05e6\u05d9\u05d5\u05dc\u05d5\u05d2\u05d9\u05d5\u05ea \u05e9\u05dc \u05de\u05e0\u05d3\u05e0\u05d4\u05dc \u05d5\u05d2\u05d5\u05d8\u05d5\u05d5\u05dc\u05d3 \u05e2\u05dc \u05d4\u05ea\u05d9\u05d9\u05e9\u05d1\u05d5\u05ea \u05e9\u05d1\u05d8\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d0\u05e8\u05e5 \u05db\u05e0\u05e2\u05df ?", 
+            "title_full": "Daniel Bodi Que reste-t-il des théories sociologiques de George Mendenhall et de Norman Gottwald sur l’installation des tribus israélites au pays de Canaan ? [Texte intégral] What valuability for the sociological theories of George Mendenhall and Norman Gottwald concerning the installation of Israelite Tribes in Canaan? מה נותר מן התאוריות הסוציולוגיות של מנדנהל וגוטוולד על התיישבות שבטי ישראל בארץ כנען ?", 
             "url": "http://yod.revues.org/1761"
         }, 
         {
-            "title_full": "Anna Angelini M\u00e9thodes taxinomiques compar\u00e9es : Dan Sperber et Mary Douglas \u00e0 propos des animaux hors cat\u00e9gorie [Texte int\u00e9gral] Comparing Taxonomic Approaches: Dan Sperber and Mary Douglas on Animals outside Taxonomy \u05e9\u05d9\u05d8\u05d5\u05ea \u05d4\u05e9\u05d5\u05d5\u05d0\u05d4 \u05d1\u05d8\u05e7\u05e1\u05d9\u05de\u05d5\u05e0\u05d9\u05d4 : \u05d2\u05d9\u05e9\u05d5\u05ea\u05d9\u05d4\u05dd \u05e9\u05dc \u05d3\u05df \u05e9\u05e4\u05e8\u05d1\u05e8 \u05d5\u05de\u05e8\u05d9 \u05d3\u05d5\u05d2\u05dc\u05e1 \u05dc\u05d2\u05d1\u05d9 \u05d7\u05d9\u05d5\u05ea \u05e9\u05d0\u05d9\u05e0\u05df \u05e0\u05d9\u05ea\u05e0\u05d5\u05ea \u05dc\u05e7\u05d8\u05dc\u05d5\u05d2", 
+            "title_full": "Anna Angelini Méthodes taxinomiques comparées : Dan Sperber et Mary Douglas à propos des animaux hors catégorie [Texte intégral] Comparing Taxonomic Approaches: Dan Sperber and Mary Douglas on Animals outside Taxonomy שיטות השוואה בטקסימוניה : גישותיהם של דן שפרבר ומרי דוגלס לגבי חיות שאינן ניתנות לקטלוג", 
             "url": "http://yod.revues.org/1834"
         }, 
         {
-            "title_full": "Daniel Boyarin Carnaval \u00e0 Soura : Bakhtine et le Talmud de Babylone [Texte int\u00e9gral] Carnival at Sura: Bakhtin and the Babylonian Talmud \u05e7\u05e8\u05e0\u05d1\u05dc \u05d1\u05e1\u05d5\u05e8\u05d0: \u05d1\u05d7\u05d8\u05d9\u05df \u05d5\u05d4\u05ea\u05dc\u05de\u05d5\u05d3 \u05d4\u05d1\u05d1\u05dc\u05d9", 
+            "title_full": "Daniel Boyarin Carnaval à Soura : Bakhtine et le Talmud de Babylone [Texte intégral] Carnival at Sura: Bakhtin and the Babylonian Talmud קרנבל בסורא: בחטין והתלמוד הבבלי", 
             "url": "http://yod.revues.org/1787"
         }, 
         {
-            "title_full": "Jean-Jacques Glassner L\u2019\u00e9criture de l\u2019histoire de l\u2019Orient ancien [Texte int\u00e9gral] La m\u00e9thode comparative Writing the History of the Ancient Near East: The Comparative Method \u05db\u05ea\u05d9\u05d1\u05ea \u05d4\u05d4\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4 \u05e9\u05dc \u05d4\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df \u05d1\u05e2\u05ea \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4 : \u05d4\u05d2\u05d9\u05e9\u05d4 \u05d4\u05d4\u05e9\u05d5\u05d5\u05d0\u05ea\u05d9\u05ea", 
+            "title_full": "Jean-Jacques Glassner L’écriture de l’histoire de l’Orient ancien [Texte intégral] La méthode comparative Writing the History of the Ancient Near East: The Comparative Method כתיבת ההסטוריה של המזרח התיכון בעת העתיקה : הגישה ההשוואתית", 
             "url": "http://yod.revues.org/1876"
         }, 
         {
-            "title_full": "Irad Malkin Mare nostrum : Notre mer \u00e0 tous et \u00e0 chacun [Texte int\u00e9gral] The Mediterranean: Each One\u2019s Sea \u05d4\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05d5\u05e9\u05dc\u05e0\u05d5 \u05d5\u05e9\u05dc\u05e0\u05d5", 
+            "title_full": "Irad Malkin Mare nostrum : Notre mer à tous et à chacun [Texte intégral] The Mediterranean: Each One’s Sea הים שלנו ושלנו ושלנו", 
             "url": "http://yod.revues.org/1930"
         }, 
         {
-            "title_full": "Ren\u00e9e Koch Piettre Fernand Braudel, Les M\u00e9moires de la M\u00e9diterran\u00e9e : une histoire \u00e0 suivre [Texte int\u00e9gral] Fernand Braudel, Memory and the Mediterranean : A History to Follow \u05e2\u05dc \u05e1\u05e4\u05e8\u05d5 \u05e9\u05dc \u05e4\u05e8\u05e0\u05e0\u05d3 \u05d1\u05e8\u05d5\u05d3\u05dc \"\u05d6\u05db\u05e8\u05d5\u05e0\u05d5\u05ea \u05d4\u05d9\u05dd \u05d4\u05ea\u05d9\u05db\u05d5\u05df\"", 
+            "title_full": "Renée Koch Piettre Fernand Braudel, Les Mémoires de la Méditerranée : une histoire à suivre [Texte intégral] Fernand Braudel, Memory and the Mediterranean : A History to Follow על ספרו של פרננד ברודל \"זכרונות הים התיכון\"", 
             "url": "http://yod.revues.org/1798"
         }, 
         {
-            "title_full": "Jean-Fran\u00e7ois Bert La M\u00e9diterran\u00e9e vue par les anthropologues marxistes [Texte int\u00e9gral] Comment na\u00eet une soci\u00e9t\u00e9 esclavagiste The Mediterranean and the Marxist Anthropologists: The Birth of the Slave Society \u05d4\u05d9\u05dd \u05d4\u05ea\u05d9\u05db\u05d5\u05df \u05d1\u05e2\u05d9\u05e0\u05d9\u05d4\u05dd \u05e9\u05dc \u05d0\u05e0\u05ea\u05e8\u05d5\u05e4\u05d5\u05dc\u05d5\u05d2\u05d9\u05dd \u05de\u05e8\u05e7\u05e1\u05d9\u05e1\u05d8\u05d9\u05dd: \u05dc\u05d9\u05d3\u05ea\u05d4 \u05e9\u05dc \u05d7\u05d1\u05e8\u05d4 \u05de\u05e9\u05e2\u05d1\u05d3\u05ea", 
+            "title_full": "Jean-François Bert La Méditerranée vue par les anthropologues marxistes [Texte intégral] Comment naît une société esclavagiste The Mediterranean and the Marxist Anthropologists: The Birth of the Slave Society הים התיכון בעיניהם של אנתרופולוגים מרקסיסטים: לידתה של חברה משעבדת", 
             "url": "http://yod.revues.org/1749"
         }, 
         {
-            "title_full": "Isabelle Kalinowski Le \u00ab d\u00e9senchantement du monde \u00bb [Texte int\u00e9gral] Proph\u00e9tie et rationalisation dans Le Juda\u00efsme antique de Max Weber The \"disenchantment of the world\". Prophecy and rationality in Max Weber, Ancient Judaism \"\u05d4\u05ea\u05e4\u05e7\u05d7\u05d5\u05ea\u05d5 \u05e9\u05dc \u05d4\u05e2\u05d5\u05dc\u05dd\" : \u05e0\u05d1\u05d5\u05d0\u05d4 \u05d5\u05e9\u05db\u05dc\u05ea\u05e0\u05d5\u05ea \u05d1\"\u05d9\u05d4\u05d3\u05d5\u05ea \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4\" \u05e9\u05dc \u05de\u05e7\u05e1 \u05d5\u05d5\u05d1\u05e8", 
+            "title_full": "Isabelle Kalinowski Le « désenchantement du monde » [Texte intégral] Prophétie et rationalisation dans Le Judaïsme antique de Max Weber The \"disenchantment of the world\". Prophecy and rationality in Max Weber, Ancient Judaism \"התפקחותו של העולם\" : נבואה ושכלתנות ב\"יהדות העתיקה\" של מקס וובר", 
             "url": "http://yod.revues.org/1848"
         }, 
         {
-            "title_full": "Madalina V\u00e2rtejanu-Joubert Claude L\u00e9vi-Strauss : le juda\u00efsme, le texte, l\u2019ethnographie [Texte int\u00e9gral] Claude L\u00e9vi - Strauss: The Judaism, the Text and the Ethnography \u05e7\u05dc\u05d5\u05d3 \u05dc\u05d5\u05d9 \u05e9\u05d8\u05e8\u05d0\u05d5\u05e1: \u05d4\u05d9\u05d4\u05d3\u05d5\u05ea, \u05d4\u05d8\u05e7\u05e1\u05d8, \u05d4\u05d0\u05ea\u05e0\u05d5\u05d2\u05e8\u05e4\u05d9\u05d4", 
+            "title_full": "Madalina Vârtejanu-Joubert Claude Lévi-Strauss : le judaïsme, le texte, l’ethnographie [Texte intégral] Claude Lévi - Strauss: The Judaism, the Text and the Ethnography קלוד לוי שטראוס: היהדות, הטקסט, האתנוגרפיה", 
             "url": "http://yod.revues.org/1773"
         }
     ], 
-    "title": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+    "title": "Le Proche-Orient ancien à la lumière des sciences sociales", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

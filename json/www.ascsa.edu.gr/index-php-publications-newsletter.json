@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00e1koue News. The School's newsletter, \u00e1koue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of \u00e1koue had asked for subscribers to notify us of their delivery preference--print or web edition. If you have do wish to have a print edition mailed to you, please contact us. See.", 
+    "description": "ákoue News. The School's newsletter, ákoue, has become a new, shorter print publication as we transition an increasing number of news articles and stories to the School website. Often there will be links to additional photos or news in the web edition that we haven't room to place in the print edition. Also supplemental articles that did not make it into print will be placed on the newsletter's home page here. The last issue of ákoue had asked for subscribers to notify us of their delivery preference--print or web edition. If you have do wish to have a print edition mailed to you, please contact us. See.", 
     "domain": "www.ascsa.edu.gr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00e1koue News", 
+        "title_full": "ákoue News", 
         "url": "http://www.ascsa.edu.gr/index.php/publications/newsletter/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-100520563862046060", 
             "resource_date": "2013-01-07T15:22:50.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:59.882550"
+            "when": "2015-10-27T18:36:59.986547"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/akoue-news.html", 
             "resource_date": "2013-01-07T15:22:50.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:59.882567"
+            "when": "2015-10-27T18:36:59.986563"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-100520563862046060", 
             "resource_date": "2013-01-07T15:22:50.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:59.885276"
+            "when": "2015-10-27T18:36:59.988698"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/akoue-news.html", 
             "resource_date": "2013-01-07T15:22:50.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:59.885294"
+            "when": "2015-10-27T18:36:59.988708"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:59.887762"
+            "when": "2015-10-27T18:36:59.990562"
         }
     ], 
     "publishers": [], 

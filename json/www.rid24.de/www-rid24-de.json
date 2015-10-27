@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "R\u00f6mische Inschriften Datenbank 24. Die Idee, die hinter rid24 steht, ist die Darstellung und Pr\u00e4sentation von Alter Geschichte und Arch\u00e4ologie des Rheinlandes mit den M\u00f6glichkeiten des Mediums Internet. Grundlage von rid24 sind die von Brigitte und Hartmut Galsterer 1975 publizierten R\u00f6mischen Steininschriften aus K\u00f6ln. Die technischen Entwicklungen in den letzten Jahren bergen heute fast unbegrenzte M\u00f6glichkeiten der Darstellung. Neben der Datenbank-gest\u00fctzten Inschriftensuche versucht rid24 dar\u00fcber hinaus, dem Besucher weitere Hintergrundinformationen und Daten zur Verf\u00ef\u00bf\u00bdgung zu stellen. rid24 richtet sich nicht nur an Althistoriker und Epigraphiker, sondern auch an private Sammler und \u00fcberhaupt an alle an der r\u00f6mischen Geschichte des Landes Interessierten. rid24 steht f\u00fcr einen jederzeit verf\u00fcgbaren (eben 24 Stunden t\u00e4glich) und barrierefreien Zugang f\u00ef\u00bf\u00bdr den Besucher, ohne zeitliche und informative Beschr\u00ef\u00bf\u00bdnkungen. rid24 bietet mit dieser Art der Darstellung dem Besucher M\u00ef\u00bf\u00bdglichkeiten und Informationen, wie es in einem gedruckten Buch kaum darstellbar w\u00ef\u00bf\u00bdre. Das Portal versteht sich nicht als Alternative, sondern als Erg\u00ef\u00bf\u00bdnzung der Museen mit ihren naturgem\u00ef\u00bf\u00bd\u00ef\u00bf\u00bd beschr\u00ef\u00bf\u00bdnkten Pr\u00ef\u00bf\u00bdsentations- und Verkn\u00ef\u00bf\u00bdpfungsm\u00ef\u00bf\u00bdglichkeiten, und hofft, den Museen nicht nur mehr, sondern auch mit mehr Hintergrundwissen ausgestattete Besucher zu verschaffen.", 
+    "description": "Römische Inschriften Datenbank 24. Die Idee, die hinter rid24 steht, ist die Darstellung und Präsentation von Alter Geschichte und Archäologie des Rheinlandes mit den Möglichkeiten des Mediums Internet. Grundlage von rid24 sind die von Brigitte und Hartmut Galsterer 1975 publizierten Römischen Steininschriften aus Köln. Die technischen Entwicklungen in den letzten Jahren bergen heute fast unbegrenzte Möglichkeiten der Darstellung. Neben der Datenbank-gestützten Inschriftensuche versucht rid24 darüber hinaus, dem Besucher weitere Hintergrundinformationen und Daten zur Verfï¿½gung zu stellen. rid24 richtet sich nicht nur an Althistoriker und Epigraphiker, sondern auch an private Sammler und überhaupt an alle an der römischen Geschichte des Landes Interessierten. rid24 steht für einen jederzeit verfügbaren (eben 24 Stunden täglich) und barrierefreien Zugang fï¿½r den Besucher, ohne zeitliche und informative Beschrï¿½nkungen. rid24 bietet mit dieser Art der Darstellung dem Besucher Mï¿½glichkeiten und Informationen, wie es in einem gedruckten Buch kaum darstellbar wï¿½re. Das Portal versteht sich nicht als Alternative, sondern als Ergï¿½nzung der Museen mit ihren naturgemï¿½ï¿½ beschrï¿½nkten Prï¿½sentations- und Verknï¿½pfungsmï¿½glichkeiten, und hofft, den Museen nicht nur mehr, sondern auch mit mehr Hintergrundwissen ausgestattete Besucher zu verschaffen.", 
     "domain": "www.rid24.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "R\u00f6mische Inschriften Datenbank 24", 
+        "title_full": "Römische Inschriften Datenbank 24", 
         "url": "http://www.rid24.de/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1224785589672955146", 
             "resource_date": "2014-10-22T07:40:19.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:15.626020"
+            "when": "2015-10-27T18:37:17.162817"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/romische-inschriften-datenbank-24.html", 
             "resource_date": "2014-10-22T07:40:19.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:15.626036"
+            "when": "2015-10-27T18:37:17.162834"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1224785589672955146", 
             "resource_date": "2014-10-22T07:40:19.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:15.631432"
+            "when": "2015-10-27T18:37:17.168533"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/romische-inschriften-datenbank-24.html", 
             "resource_date": "2014-10-22T07:40:19.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:15.631445"
+            "when": "2015-10-27T18:37:17.168548"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:15.660677"
+            "when": "2015-10-27T18:37:17.203128"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "R\u00f6mische Inschriften Datenbank 24", 
+            "title_full": "Römische Inschriften Datenbank 24", 
             "url": "http://www.rid24.de/"
         }, 
         {
@@ -157,7 +157,7 @@
             "url": "http://www.rid24.de/inschriften.html"
         }, 
         {
-            "title_full": "R\u00f6mische Steininschriften K\u00f6ln", 
+            "title_full": "Römische Steininschriften Köln", 
             "url": "http://www.rid24.de/roemische-steininschriften-koeln.html"
         }, 
         {
@@ -181,7 +181,7 @@
             "url": "http://www.rid24.de/roemische-inschriften-aktuelles/mailservice.html"
         }, 
         {
-            "title_full": "K\u00f6lner Ausgrabungen", 
+            "title_full": "Kölner Ausgrabungen", 
             "url": "http://www.rid24.de/koelner-ausgrabungen.html"
         }, 
         {
@@ -189,7 +189,7 @@
             "url": "http://www.rid24.de/romische-inschriften-download.html"
         }, 
         {
-            "title_full": "\u00dcber uns", 
+            "title_full": "Über uns", 
             "url": "http://www.rid24.de/roemische-inschriften-ueber-uns.html"
         }, 
         {
@@ -217,7 +217,7 @@
             "url": "http://www.rid24.de/sitemap-ii.html"
         }
     ], 
-    "title": "R\u00f6mische Inschriften Datenbank 24", 
+    "title": "Römische Inschriften Datenbank 24", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

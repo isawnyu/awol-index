@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Notiziario del Portale Numismatico dello Stato. Fa parte di una collana editoriale inserita nel sistema Biblioteca Virtuale dello Stato, promossa dalla Direzione Generale per le Antichit\u00e0 e curata da una rete di referenti del Ministero per i Beni e le Attivit\u00e0 Culturali, anche con il supporto e la collaborazione di altre Istituzioni pubbliche e private. Rappresenta un contenitore di comunicazioni istituzionali, approfondimenti, segnalazioni, contributi, mostre virtuali e dossier monografici pubblicati sul Portale. Intende affrontare e garantire, attraverso un approccio multidisciplinare, la conoscenza, la tutela, la fruizione e la valorizzazione del patrimonio numismatico italiano.", 
+    "description": "Notiziario del Portale Numismatico dello Stato. Fa parte di una collana editoriale inserita nel sistema Biblioteca Virtuale dello Stato, promossa dalla Direzione Generale per le Antichità e curata da una rete di referenti del Ministero per i Beni e le Attività Culturali, anche con il supporto e la collaborazione di altre Istituzioni pubbliche e private. Rappresenta un contenitore di comunicazioni istituzionali, approfondimenti, segnalazioni, contributi, mostre virtuali e dossier monografici pubblicati sul Portale. Intende affrontare e garantire, attraverso un approccio multidisciplinare, la conoscenza, la tutela, la fruizione e la valorizzazione del patrimonio numismatico italiano.", 
     "domain": "www.numismaticadellostato.it", 
     "editors": [], 
     "end_date": null, 
@@ -54,7 +54,7 @@
             "resource": "http://zenon.dainst.org/Record/001352422/RDF", 
             "resource_date": "2015-02-03T17:54:05.0", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-09T19:52:16.185012"
+            "when": "2015-10-27T18:36:59.954801"
         }, 
         {
             "fields": [
@@ -64,22 +64,22 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-100362550429365234", 
             "resource_date": "2015-03-23T10:27:48.887-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-09T19:52:16.189280"
+            "when": "2015-10-27T18:36:59.959036"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-notiziario-del.html", 
             "resource_date": "2015-03-23T10:27:48.887-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-09T19:52:16.189295"
+            "when": "2015-10-27T18:36:59.959051"
         }
     ], 
     "publishers": [
-        "Ministero per i Beni e le attivit\u00e0 culturali"
+        "Ministero per i Beni e le attività culturali"
     ], 
     "related_resources": [], 
     "resource_key": "web-pns-notiziario", 
     "responsibility": [
-        "Ministero per i Beni e le attivit\u00e0 culturali."
+        "Ministero per i Beni e le attività culturali."
     ], 
     "start_date": "2013", 
     "subordinate_resources": [

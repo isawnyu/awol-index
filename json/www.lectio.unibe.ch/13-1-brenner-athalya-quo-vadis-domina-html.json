@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Dorothea Erbele-K\u00fcster: Tell me more about gender trouble in Old Testament Studies!.", 
+    "description": "Dorothea Erbele-Küster: Tell me more about gender trouble in Old Testament Studies!.", 
     "domain": "www.lectio.unibe.ch", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4056838271401763880", 
             "resource_date": "2014-06-23T10:34:06.453-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:57.853754"
+            "when": "2015-10-27T18:41:20.214121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journal-lectio-difficilior.html", 
             "resource_date": "2014-06-23T10:34:06.453-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:57.853765"
+            "when": "2015-10-27T18:41:20.214136"
         }
     ], 
     "publishers": [], 

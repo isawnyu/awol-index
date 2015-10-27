@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1255118897098244446", 
             "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:16.395837"
+            "when": "2015-10-27T18:37:18.054333"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_891.html", 
             "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:16.395853"
+            "when": "2015-10-27T18:37:18.054350"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3517250511287342288", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.246898"
+            "when": "2015-10-27T18:40:44.193780"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_08.html", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.246912"
+            "when": "2015-10-27T18:40:44.193802"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:29.364603"
+            "when": "2015-10-27T18:40:44.326992"
         }
     ], 
     "publishers": [], 

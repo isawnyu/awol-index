@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ancient Civilization: Political Institutions and Legal Regulation. Dear Colleagues!. The Scientific & Educational Centre for Classical Studies at Yaroslavl State University (Russia) resumes acceptance of papers for the web-conference \u00abAncient Civilization: Political Institutions and Legal Regulation\u00bb which is currently conducted on the Centre\u2019s website. The format of the event is a forum-like discussion of presented papers. All professors, PhD students and qualified scholars in Classical Studies are invited to participate. PAPERS IN ENGLISH:.", 
+    "description": "Ancient Civilization: Political Institutions and Legal Regulation. Dear Colleagues!. The Scientific & Educational Centre for Classical Studies at Yaroslavl State University (Russia) resumes acceptance of papers for the web-conference «Ancient Civilization: Political Institutions and Legal Regulation» which is currently conducted on the Centre’s website. The format of the event is a forum-like discussion of presented papers. All professors, PhD students and qualified scholars in Classical Studies are invited to participate. PAPERS IN ENGLISH:.", 
     "domain": "antik-yar.ru", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-776935183632134682", 
             "resource_date": "2012-04-29T12:09:04.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.616358"
+            "when": "2015-10-27T18:46:34.093501"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/web-conference-ancient-civilization.html", 
             "resource_date": "2012-04-29T12:09:04.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.616376"
+            "when": "2015-10-27T18:46:34.093516"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-776935183632134682", 
             "resource_date": "2012-04-29T12:09:04.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.620278"
+            "when": "2015-10-27T18:46:34.096860"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/web-conference-ancient-civilization.html", 
             "resource_date": "2012-04-29T12:09:04.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.620296"
+            "when": "2015-10-27T18:46:34.096874"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.661114"
+            "when": "2015-10-27T18:46:34.132533"
         }
     ], 
     "publishers": [], 
@@ -160,7 +160,7 @@
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/filonik-j?lang=en"
         }, 
         {
-            "title_full": "Zacharski M. \"The Normative Aspect of the Concept of \u03c6\u03cd\u03c3\u03b9\u03c2 and the Origin of the Naturalistic Fallacy", 
+            "title_full": "Zacharski M. \"The Normative Aspect of the Concept of φύσις and the Origin of the Naturalistic Fallacy", 
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/zacharski-m?lang=en"
         }, 
         {
@@ -176,7 +176,7 @@
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/danilov-e?lang=en"
         }, 
         {
-            "title_full": "Dementyeva V. Die Legaten-Proqu\u00e4storen in der R\u00f6mischen Republik am Ende 3. Jh. -1 Jh. V. Chr", 
+            "title_full": "Dementyeva V. Die Legaten-Proquästoren in der Römischen Republik am Ende 3. Jh. -1 Jh. V. Chr", 
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/dementyeva-v?lang=en"
         }, 
         {
@@ -196,7 +196,7 @@
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/surikov-i?lang=en"
         }, 
         {
-            "title_full": "Frolov R. The Designations of the Roman Non-Voting Public Meetings in Livy\u2019s Work: the contio and Its Derivatives", 
+            "title_full": "Frolov R. The Designations of the Roman Non-Voting Public Meetings in Livy’s Work: the contio and Its Derivatives", 
             "url": "http://antik-yar.ru/events-2/ancient-civilization-political-institutions-and-legal-regulation/frolovr?lang=en"
         }, 
         {

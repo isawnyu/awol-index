@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Biblioth\u00e8que arch\u00e9ologique et historiqueISSN (\u00c9dition imprim\u00e9e): 0768-2506.", 
+    "description": "Bibliothèque archéologique et historiqueISSN (Édition imprimée): 0768-2506.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0768-2506", 
-        "title_full": "Biblioth\u00e8que arch\u00e9ologique et historique", 
+        "title_full": "Bibliothèque archéologique et historique", 
         "url": "http://books.openedition.org/ifpo/396"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.000801"
+            "when": "2015-10-27T18:45:06.961816"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.000812"
+            "when": "2015-10-27T18:45:06.961830"
         }
     ], 
     "publishers": [], 
@@ -90,7 +90,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "L\u2019\u00e9poque des premiers bourgs fortifi\u00e9s Pertinence de l\u2019existence d\u2019un processus d\u2019urbanisation dans le Levant sud au troisi\u00e8me mill\u00e9naire Christophe Nicolle . 1999 ... And see AWOL's Alphabetical List of Open Access Monograph Series in Ancient Studies", 
+    "title": "L’époque des premiers bourgs fortifiés Pertinence de l’existence d’un processus d’urbanisation dans le Levant sud au troisième millénaire Christophe Nicolle . 1999 ... And see AWOL's Alphabetical List of Open Access Monograph Series in Ancient Studies", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

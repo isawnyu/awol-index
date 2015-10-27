@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cette association a pour vocation de faciliter les \u00e9changes entre doctorants dont les int\u00e9r\u00eats scientifiques convergent, \u00e0 l'\u00e9chelle europ\u00e9enne. Il comporte un annuaire, une rubrique d'annonces (s\u00e9minaires, colloques, postes, nouveaut\u00e9s \u00e9ditoriales), et une boite \u00e0 outils (polices grecques, textes en ligne, etc. ). N'h\u00e9sitez pas \u00e0 vous inscrire en suivant ce.", 
+    "description": "Cette association a pour vocation de faciliter les échanges entre doctorants dont les intérêts scientifiques convergent, à l'échelle européenne. Il comporte un annuaire, une rubrique d'annonces (séminaires, colloques, postes, nouveautés éditoriales), et une boite à outils (polices grecques, textes en ligne, etc. ). N'hésitez pas à vous inscrire en suivant ce.", 
     "domain": "www.zetesis.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquit\u00e9", 
+        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquité", 
         "url": "http://www.zetesis.fr/actes/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1354315617737913649", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.806822"
+            "when": "2015-10-27T18:37:29.206749"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-actes-de-lassociation.html", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.806835"
+            "when": "2015-10-27T18:37:29.206761"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "site de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquit\u00e9", 
+    "title": "site de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquité", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

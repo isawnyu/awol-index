@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Jan\u00e1k, J\u00ed\u0159\u00ed: Saddle-Billed Stork (Ba-Bird), 2014.", 
+    "description": "Janák, Jíří: Saddle-Billed Stork (Ba-Bird), 2014.", 
     "domain": "escholarship.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-473984367370934000", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.595365"
+            "when": "2015-10-27T18:42:09.417398"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/articles-published-in-ucla-encyclopedia.html", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.595377"
+            "when": "2015-10-27T18:42:09.417410"
         }
     ], 
     "publishers": [], 

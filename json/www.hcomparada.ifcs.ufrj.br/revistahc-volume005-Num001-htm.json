@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revista de Hist\u00f3ria Comparada", 
+        "title_full": "Revista de História Comparada", 
         "url": "http://www.hcomparada.ifcs.ufrj.br/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6343206711545534252", 
             "resource_date": "2012-07-05T14:59:55.531-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.998711"
+            "when": "2015-10-27T18:44:39.517432"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revista-de-historia.html", 
             "resource_date": "2012-07-05T14:59:55.531-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.998722"
+            "when": "2015-10-27T18:44:39.517443"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Volume 5/N\u00famero 1 - Agosto de 2011", 
+    "title": "Volume 5/Número 1 - Agosto de 2011", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

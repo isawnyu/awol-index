@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1612449392039575273", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:51.404459"
+            "when": "2015-10-27T18:37:55.207493"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/inscriptions-in-byzantium-and-beyond.html", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:51.404475"
+            "when": "2015-10-27T18:37:55.207509"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1612449392039575273", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:51.406504"
+            "when": "2015-10-27T18:37:55.209473"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/inscriptions-in-byzantium-and-beyond.html", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:51.406516"
+            "when": "2015-10-27T18:37:55.209484"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:51.458185"
+            "when": "2015-10-27T18:37:55.272646"
         }
     ], 
     "publishers": [], 
@@ -171,7 +171,7 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x00321986"
         }, 
         {
-            "title_full": "La tentation de Byzance. R\u00e9flexions sur les inscriptions byzantines vues de la Latinit\u00e9", 
+            "title_full": "La tentation de Byzance. Réflexions sur les inscriptions byzantines vues de la Latinité", 
             "url": "http://hw.oeaw.ac.at/?arp=0x00321988"
         }, 
         {
@@ -179,7 +179,7 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x0032198a"
         }, 
         {
-            "title_full": "Byzantinische Inschriften des n\u00f6rdlichen Schwarzmeerraums", 
+            "title_full": "Byzantinische Inschriften des nördlichen Schwarzmeerraums", 
             "url": "http://hw.oeaw.ac.at/?arp=0x0032198c"
         }, 
         {
@@ -187,7 +187,7 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x0032198e"
         }, 
         {
-            "title_full": "Die gro\u00dfen westlichen Corpuswerke zu den mittelalterlichen und fr\u00fchneuzeitlichen Inschriften", 
+            "title_full": "Die großen westlichen Corpuswerke zu den mittelalterlichen und frühneuzeitlichen Inschriften", 
             "url": "http://hw.oeaw.ac.at/?arp=0x00321990"
         }, 
         {
@@ -195,7 +195,7 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x00321992"
         }, 
         {
-            "title_full": "Zu den Richtlinien f\u00fcr die Edition byzantinischer Inschriften", 
+            "title_full": "Zu den Richtlinien für die Edition byzantinischer Inschriften", 
             "url": "http://hw.oeaw.ac.at/?arp=0x00321994"
         }, 
         {
@@ -203,7 +203,7 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x00321996"
         }, 
         {
-            "title_full": "Introducing Athena Ruby, Dumbarton Oaks\u2019 New Font for Byzantine Inscriptions", 
+            "title_full": "Introducing Athena Ruby, Dumbarton Oaks’ New Font for Byzantine Inscriptions", 
             "url": "http://hw.oeaw.ac.at/?arp=0x00321998"
         }, 
         {
@@ -219,15 +219,15 @@
             "url": "http://hw.oeaw.ac.at/?arp=0x0032199e"
         }, 
         {
-            "title_full": "Greek Graffiti from St Sophia\u2019s in Constantinople in the Archive of Robert van Nice (Dumbarton Oaks, Washington, D.C.)", 
+            "title_full": "Greek Graffiti from St Sophia’s in Constantinople in the Archive of Robert van Nice (Dumbarton Oaks, Washington, D.C.)", 
             "url": "http://hw.oeaw.ac.at/?arp=0x003219a0"
         }, 
         {
-            "title_full": "Sp\u00e4tr\u00f6misch-fr\u00fchbyzantinische Inschriften aus Perge in Pamphylien", 
+            "title_full": "Spätrömisch-frühbyzantinische Inschriften aus Perge in Pamphylien", 
             "url": "http://hw.oeaw.ac.at/?arp=0x003219a2"
         }, 
         {
-            "title_full": "Ziegelstempel von den Ausgrabungen am Nordwestufer des Lagunensees K\u00fc\u00e7\u00fck\u00e7ekmece", 
+            "title_full": "Ziegelstempel von den Ausgrabungen am Nordwestufer des Lagunensees Küçükçekmece", 
             "url": "http://hw.oeaw.ac.at/?arp=0x003219a4"
         }, 
         {

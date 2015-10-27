@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", par Fr\u00e9d\u00e9ric Macler (Paris, 1908), in 268 pdf pages. File size: 7. 8 MB.", 
+    "description": ", par Frédéric Macler (Paris, 1908), in 268 pdf pages. File size: 7. 8 MB.", 
     "domain": "rbedrosian.com", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7403471012930031005", 
             "resource_date": "2012-12-07T16:13:34.865-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:02.669280"
+            "when": "2015-10-27T18:45:46.213521"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/online-armenian-catalogs-philosophical.html", 
             "resource_date": "2012-12-07T16:13:34.865-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:02.669297"
+            "when": "2015-10-27T18:45:46.213536"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Catalogue des manuscrits arm\u00e9niens et g\u00e9orgiens de la Biblioth\u00e8que nationale", 
+    "title": "Catalogue des manuscrits arméniens et géorgiens de la Bibliothèque nationale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

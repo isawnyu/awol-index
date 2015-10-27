@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Keilschriftliche Literaturen, Berliner Beitr\u00e4ge zum Vorderen Orient. 1986, pp. 81-97. R\u00f6llig, Wolfgang (1978).", 
+    "description": "In: Keilschriftliche Literaturen, Berliner Beiträge zum Vorderen Orient. 1986, pp. 81-97. Röllig, Wolfgang (1978).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.850392"
+            "when": "2015-10-27T18:46:25.675230"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.850408"
+            "when": "2015-10-27T18:46:25.675246"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Volksliteratur in mesopotamischer \u00dcberlieferung", 
+    "title": "Volksliteratur in mesopotamischer Überlieferung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

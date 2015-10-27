@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Jahrbuch der Schweizerischen Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte = Annuaire de la Soci\u00e9t\u00e9 Suisse de Pr\u00e9histoire et d\u2019Arch\u00e9ologie = Annuario della Societ\u00e0 Svizzera di Preistoria e d\u2019Archeologia. The trilingual Annual Review of Swiss Archaeology publishes the results from current research from various time periods. Furthermore, the most recent discoveries in Switzerland and the Principality of Liechtenstein are presented in short essays. Reviews and an up to date list of publications on archaeological research in Switzerland complete the volume. The annual has been running since 1908 and has since changed its name several times. \u201eJahresbericht der Schweizerischen Gesellschaft f\u00fcr Urgeschichte\" (title of volume 1, 1908 to volume 29, 1937). \u201eJahrbuch der Schweizerischen Gesellschaft f\u00fcr Urgeschichte\" (title of volume 30, 1938 to volume 52, 1965). \u201eJahrbuch der Schweizerischen Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte\" (title of volume 53, 1966/67 to volume 88, 2005). Annual Review of Swiss Archaeology (title of volume 89, 2006 onwards).", 
+    "description": "Jahrbuch der Schweizerischen Gesellschaft für Ur- und Frühgeschichte = Annuaire de la Société Suisse de Préhistoire et d’Archéologie = Annuario della Società Svizzera di Preistoria e d’Archeologia. The trilingual Annual Review of Swiss Archaeology publishes the results from current research from various time periods. Furthermore, the most recent discoveries in Switzerland and the Principality of Liechtenstein are presented in short essays. Reviews and an up to date list of publications on archaeological research in Switzerland complete the volume. The annual has been running since 1908 and has since changed its name several times. „Jahresbericht der Schweizerischen Gesellschaft für Urgeschichte\" (title of volume 1, 1908 to volume 29, 1937). „Jahrbuch der Schweizerischen Gesellschaft für Urgeschichte\" (title of volume 30, 1938 to volume 52, 1965). „Jahrbuch der Schweizerischen Gesellschaft für Ur- und Frühgeschichte\" (title of volume 53, 1966/67 to volume 88, 2005). Annual Review of Swiss Archaeology (title of volume 89, 2006 onwards).", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2153110238219344805", 
             "resource_date": "2010-11-12T06:14:23.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:17.902730"
+            "when": "2015-10-27T18:38:25.514330"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-jahrbuch-der.html", 
             "resource_date": "2010-11-12T06:14:23.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:17.902747"
+            "when": "2015-10-27T18:38:25.514353"
         }
     ], 
     "publishers": [], 
@@ -222,9 +222,9 @@
             "url": "http://retro.seals.ch/digbib/voltoc?rid=jas-003:2005:88::424&id=browse&id2=browse4&id3="
         }
     ], 
-    "title": "Jahrbuch der Schweizerischen Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte", 
+    "title": "Jahrbuch der Schweizerischen Gesellschaft für Ur- und Frühgeschichte", 
     "title_alternates": [], 
-    "title_extended": "Jahrbuch der Schweizerischen Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte = Annuaire de la Soci\u00e9t\u00e9 Suisse de Pr\u00e9histoire et d\u2019Arch\u00e9ologie = Annuario della Societ\u00e0 Svizzera di Preistoria e d\u2019Archeologia", 
+    "title_extended": "Jahrbuch der Schweizerischen Gesellschaft für Ur- und Frühgeschichte = Annuaire de la Société Suisse de Préhistoire et d’Archéologie = Annuario della Società Svizzera di Preistoria e d’Archeologia", 
     "type": null, 
     "url": "http://retro.seals.ch/digbib/vollist?UID=jas-003&id=browse&id2=browse4", 
     "url_alternates": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "P\u00e9ter Polg\u00e1r.", 
+    "description": "Péter Polgár.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.561113"
+            "when": "2015-10-27T18:43:06.645199"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.561139"
+            "when": "2015-10-27T18:43:06.645212"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "S\u00e2ntana \"Cetatea Veche\". Metal and power", 
+    "title": "Sântana \"Cetatea Veche\". Metal and power", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

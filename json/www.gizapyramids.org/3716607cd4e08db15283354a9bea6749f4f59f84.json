@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8921081047973544594", 
             "resource_date": "2010-02-23T12:17:27.825-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:00.305192"
+            "when": "2015-10-27T18:48:56.587588"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-bulletin-of-museum.html", 
             "resource_date": "2010-02-23T12:17:27.825-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:00.305208"
+            "when": "2015-10-27T18:48:56.587602"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8921081047973544594", 
             "resource_date": "2010-02-23T12:17:27.825-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:00.307950"
+            "when": "2015-10-27T18:48:56.590748"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-bulletin-of-museum.html", 
             "resource_date": "2010-02-23T12:17:27.825-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:00.307961"
+            "when": "2015-10-27T18:48:56.590762"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:00.311611"
+            "when": "2015-10-27T18:48:56.595317"
         }
     ], 
     "publishers": [], 

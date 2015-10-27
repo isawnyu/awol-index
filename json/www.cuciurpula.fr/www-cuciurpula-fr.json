@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cuciurpula. fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne. Le gisement de Cuciurpula s\u2019\u00e9tend sur une superficie de 10 hectares, \u00e0 cheval sur les communes de Serra-di-Scopam\u00e8ne (A Sarra di Scopamena) et de Sorbollano (Surbudd\u00e0), en Corse-du-Sud, dans un \u00e9tage altim\u00e9trique compris entre 900 et 1080 m constituant le versant m\u00e9ridional de la Punta di Cuciurpula (1164 m), relief consid\u00e9r\u00e9 comme le belv\u00e9d\u00e8re strat\u00e9gique des montagnes de l\u2019Alta Rocca (centre sud de l\u2019\u00eele) et des chemins de transhumance traditionnels menant aux hauts plateaux du Coscionu.", 
+    "description": "Cuciurpula. fr: Le portail de la Protohistoire corse et tyrrhénienne. Le gisement de Cuciurpula s’étend sur une superficie de 10 hectares, à cheval sur les communes de Serra-di-Scopamène (A Sarra di Scopamena) et de Sorbollano (Surbuddà), en Corse-du-Sud, dans un étage altimétrique compris entre 900 et 1080 m constituant le versant méridional de la Punta di Cuciurpula (1164 m), relief considéré comme le belvédère stratégique des montagnes de l’Alta Rocca (centre sud de l’île) et des chemins de transhumance traditionnels menant aux hauts plateaux du Coscionu.", 
     "domain": "www.cuciurpula.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne", 
+        "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrhénienne", 
         "url": "http://www.cuciurpula.fr/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685320477009889457", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.766205"
+            "when": "2015-10-27T18:38:54.138100"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/cuciurpulafr-le-portail-de-la.html", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.766221"
+            "when": "2015-10-27T18:38:54.138115"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685320477009889457", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.769645"
+            "when": "2015-10-27T18:38:54.141621"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/cuciurpulafr-le-portail-de-la.html", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.769659"
+            "when": "2015-10-27T18:38:54.141634"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:45.780550"
+            "when": "2015-10-27T18:38:54.153391"
         }
     ], 
     "publishers": [], 
@@ -141,11 +141,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne", 
+            "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrhénienne", 
             "url": "http://www.cuciurpula.fr/"
         }, 
         {
-            "title_full": "Arch\u00e9ologie", 
+            "title_full": "Archéologie", 
             "url": "http://www.cuciurpula.fr/category/archeologie/"
         }, 
         {
@@ -157,7 +157,7 @@
             "url": "http://www.cuciurpula.fr/category/divers/"
         }, 
         {
-            "title_full": "Patrimoine B\u00e2ti", 
+            "title_full": "Patrimoine Bâti", 
             "url": "http://www.cuciurpula.fr/category/patrimoine-bati/"
         }, 
         {
@@ -165,7 +165,7 @@
             "url": "http://www.cuciurpula.fr/category/toponymie/"
         }
     ], 
-    "title": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne", 
+    "title": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrhénienne", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

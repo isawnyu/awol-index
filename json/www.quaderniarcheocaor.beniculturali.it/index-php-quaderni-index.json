@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Quaderni Soprintendenza per i Beni Archeologici per le province di Cagliari e Oristano. ISSN: 1124-7827. Online ISSN: 2284-0834. La rivista accoglie contributi scientifici inediti dedicati all'attivit\u00e0 di ricerca storico-archeologica della Sardegna e il Notiziario delle attivit\u00e0 della Soprintendenza per i Beni Archeologici per le province di Cagliari e Oristano.", 
+    "description": "Quaderni Soprintendenza per i Beni Archeologici per le province di Cagliari e Oristano. ISSN: 1124-7827. Online ISSN: 2284-0834. La rivista accoglie contributi scientifici inediti dedicati all'attività di ricerca storico-archeologica della Sardegna e il Notiziario delle attività della Soprintendenza per i Beni Archeologici per le province di Cagliari e Oristano.", 
     "domain": "www.quaderniarcheocaor.beniculturali.it", 
     "editors": [], 
     "end_date": null, 
@@ -76,13 +76,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1664534636308160623", 
             "resource_date": "2014-02-04T09:19:40.907-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.787256"
+            "when": "2015-10-27T18:37:56.742822"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/newly-open-access-journal-quaderni.html", 
             "resource_date": "2014-02-04T09:19:40.907-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.787273"
+            "when": "2015-10-27T18:37:56.742835"
         }, 
         {
             "fields": [
@@ -123,13 +123,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1664534636308160623", 
             "resource_date": "2014-02-04T09:19:40.907-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.791038"
+            "when": "2015-10-27T18:37:56.746902"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/newly-open-access-journal-quaderni.html", 
             "resource_date": "2014-02-04T09:19:40.907-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.791051"
+            "when": "2015-10-27T18:37:56.746918"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.793113"
+            "when": "2015-10-27T18:37:56.748890"
         }
     ], 
     "publishers": [], 

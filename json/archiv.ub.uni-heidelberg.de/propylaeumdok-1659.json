@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Spiegermann, A. (Hrsg. ): \u201eZur Zierde gereicht. \", Festschrift Bettina Schmitz zum 60. Geburtstag am 24. Juli 2008, Hildesheimer \u00c4gyptologische Beitr\u00e4ge 50. 2008, pp. 17-28. Altenm\u00fcller, Hartwig (2005).", 
+    "description": "In: Spiegermann, A. (Hrsg. ): „Zur Zierde gereicht. \", Festschrift Bettina Schmitz zum 60. Geburtstag am 24. Juli 2008, Hildesheimer Ägyptologische Beiträge 50. 2008, pp. 17-28. Altenmüller, Hartwig (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:47.546710"
+            "when": "2015-10-27T18:39:58.943305"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:47.546728"
+            "when": "2015-10-27T18:39:58.943323"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "V\u00e4ter, Br\u00fcder und G\u00f6tter - Bemerkungen zur Szene der Ubergabe der Lotosbl\u00fcte", 
+    "title": "Väter, Brüder und Götter - Bemerkungen zur Szene der Ubergabe der Lotosblüte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Du monument \u00e0 son histoire: aper\u00e7u m\u00e9thodologique des \u00e9tudes castrales en France. Par: Laure Leroux.", 
+    "description": "Du monument à son histoire: aperçu méthodologique des études castrales en France. Par: Laure Leroux.", 
     "domain": "annalesdejanua.edel.univ-poitiers.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Annales de Janua - Actes des journ\u00e9es d\u2019\u00e9tudes", 
+        "title_full": "Annales de Janua - Actes des journées d’études", 
         "url": "http://annalesdejanua.edel.univ-poitiers.fr/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6057210403388920442", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.058448"
+            "when": "2015-10-27T18:44:17.896604"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.058459"
+            "when": "2015-10-27T18:44:17.896615"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "La c\u00e9ramique indig\u00e8ne d\u00e9cor\u00e9e de l\u2019Italie m\u00e9ridionale \u00e0 l\u2019\u00e2ge du Fer : mat\u00e9riau datant ou \u00e0 dater ? R\u00e9flexions sur le cas de l\u2019Incoronata pr\u00e8s de M\u00e9taponte Par : Cl\u00e9ment Bellamy . fr Publi\u00e9 en ligne le 15/04/13", 
+    "title": "La céramique indigène décorée de l’Italie méridionale à l’âge du Fer : matériau datant ou à dater ? Réflexions sur le cas de l’Incoronata près de Métaponte Par : Clément Bellamy . fr Publié en ligne le 15/04/13", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

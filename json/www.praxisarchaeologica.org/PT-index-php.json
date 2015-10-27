@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Praxis Archaeologica: Revista Electr\u00f3nica da Associa\u00e7\u00e3o Profissional de Arque\u00f3logos. ISSN 1646-1983. Praxis Archaeologica \u00e9 uma publica\u00e7\u00e3o peri\u00f3dica anual de distribui\u00e7\u00e3o exclusivamente electr\u00f3nica editada pela Associa\u00e7\u00e3o Profissional de Arque\u00f3logos com o intuito de criar um espa\u00e7o aberto de discuss\u00e3o e divulga\u00e7\u00e3o de perspectivas do exerc\u00edcio da profiss\u00e3o de arque\u00f3logo. Deste modo, a sua fun\u00e7\u00e3o principal consiste em proporcionar as condi\u00e7\u00f5es necess\u00e1rias para o debate de todos os assuntos que a comunidade de arque\u00f3logos considere pertinentes para o desenvolvimento sustentado da sua profiss\u00e3o. O leque de temas poss\u00edveis \u00e9 bastante aberto, abrangendo, por exemplo, as quest\u00f5es relativas ao enquadramento legal da profiss\u00e3o, os aspectos epistemol\u00f3gicos que governam a actua\u00e7\u00e3o concreta no terreno e o estudo e interpreta\u00e7\u00e3o da informa\u00e7\u00e3o conseguida, a observ\u00e2ncia de preceitos deontol\u00f3gicos rigorosos, a rela\u00e7\u00e3o entre os arque\u00f3logos e a sociedade, etc. A estrutura da revista prev\u00ea a publica\u00e7\u00e3o em cada n\u00famero de um Caderno Tem\u00e1tico dedicado \u00e0 apresenta\u00e7\u00e3o e discuss\u00e3o de temas prementes na agenda da actividade arqueol\u00f3gica nacional e internacional, preenchido com um conjunto de contribui\u00e7\u00f5es encomendadas pelo Conselho Editorial da Praxis Archaeologica.", 
+    "description": "Praxis Archaeologica: Revista Electrónica da Associação Profissional de Arqueólogos. ISSN 1646-1983. Praxis Archaeologica é uma publicação periódica anual de distribuição exclusivamente electrónica editada pela Associação Profissional de Arqueólogos com o intuito de criar um espaço aberto de discussão e divulgação de perspectivas do exercício da profissão de arqueólogo. Deste modo, a sua função principal consiste em proporcionar as condições necessárias para o debate de todos os assuntos que a comunidade de arqueólogos considere pertinentes para o desenvolvimento sustentado da sua profissão. O leque de temas possíveis é bastante aberto, abrangendo, por exemplo, as questões relativas ao enquadramento legal da profissão, os aspectos epistemológicos que governam a actuação concreta no terreno e o estudo e interpretação da informação conseguida, a observância de preceitos deontológicos rigorosos, a relação entre os arqueólogos e a sociedade, etc. A estrutura da revista prevê a publicação em cada número de um Caderno Temático dedicado à apresentação e discussão de temas prementes na agenda da actividade arqueológica nacional e internacional, preenchido com um conjunto de contribuições encomendadas pelo Conselho Editorial da Praxis Archaeologica.", 
     "domain": "www.praxisarchaeologica.org", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1792241562584719575", 
             "resource_date": "2012-05-09T09:40:00.634-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.535022"
+            "when": "2015-10-27T18:38:03.438042"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-praxis.html", 
             "resource_date": "2012-05-09T09:40:00.634-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.535039"
+            "when": "2015-10-27T18:38:03.438058"
         }
     ], 
     "publishers": [], 
@@ -106,7 +106,7 @@
     ], 
     "title": "Praxis Archaeologica", 
     "title_alternates": [], 
-    "title_extended": "Praxis Archaeologica: Revista Electr\u00f3nica da Associa\u00e7\u00e3o Profissional de Arque\u00f3logos", 
+    "title_extended": "Praxis Archaeologica: Revista Electrónica da Associação Profissional de Arqueólogos", 
     "type": null, 
     "url": "http://www.praxisarchaeologica.org/PT/index.php", 
     "url_alternates": [], 

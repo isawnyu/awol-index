@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00cdndex vol. 1-19(1998).", 
+    "description": "Índex vol. 1-19(1998).", 
     "domain": "ddd.uab.es", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7313665435561281338", 
             "resource_date": "2013-04-17T10:37:06.838-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:56.287552"
+            "when": "2015-10-27T18:45:38.926812"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-faventia.html", 
             "resource_date": "2013-04-17T10:37:06.838-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:56.287564"
+            "when": "2015-10-27T18:45:38.926824"
         }
     ], 
     "publishers": [], 

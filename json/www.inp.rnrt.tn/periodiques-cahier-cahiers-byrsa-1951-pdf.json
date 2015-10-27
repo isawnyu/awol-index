@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126043325455733529", 
             "resource_date": "2012-12-11T15:50:32.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.457704"
+            "when": "2015-10-27T18:44:20.338514"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-cahiers-de-byrsa.html", 
             "resource_date": "2012-12-11T15:50:32.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.457718"
+            "when": "2015-10-27T18:44:20.338539"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:26.159772"
+            "when": "2015-10-27T18:49:25.256503"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:26.159783"
+            "when": "2015-10-27T18:49:25.256518"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:26.296446"
+            "when": "2015-10-27T18:49:25.418443"
         }
     ], 
     "publishers": [], 

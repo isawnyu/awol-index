@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7056176193938176481", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.078624"
+            "when": "2015-10-27T18:45:22.519658"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/international-conference-on.html", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.078649"
+            "when": "2015-10-27T18:45:22.519674"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7056176193938176481", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.081375"
+            "when": "2015-10-27T18:45:22.522386"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/international-conference-on.html", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.081390"
+            "when": "2015-10-27T18:45:22.522400"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:41.258285"
+            "when": "2015-10-27T18:45:22.689119"
         }
     ], 
     "publishers": [], 
@@ -210,7 +210,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/16Ajdanlijsky-et-al1.pdf"
         }, 
         {
-            "title_full": "Household and burial ceramics of Early Iron Age from SW Slovakia: a mineralogical and petrographical study - Milo\u0161 Gregor, Radoslav \u010cambal, Katar\u00edna Harmadyov\u00e1", 
+            "title_full": "Household and burial ceramics of Early Iron Age from SW Slovakia: a mineralogical and petrographical study - Miloš Gregor, Radoslav Čambal, Katarína Harmadyová", 
             "url": "http://mgu.bg/geoarchmin/naterials/17Gregor.pdf"
         }, 
         {
@@ -250,7 +250,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/26Won-in-et-al.pdf"
         }, 
         {
-            "title_full": "Ming porcelain from the Santa Clara-a-velha Monastery in Coimbra, Portugal. First results using a portable \u00b5-EDXRF spectrometer - Mathilda Larsson, Jo\u00e3o Pedro Veiga", 
+            "title_full": "Ming porcelain from the Santa Clara-a-velha Monastery in Coimbra, Portugal. First results using a portable µ-EDXRF spectrometer - Mathilda Larsson, João Pedro Veiga", 
             "url": "http://mgu.bg/geoarchmin/naterials/27Larsson&Veiga.pdf"
         }, 
         {
@@ -322,7 +322,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/44Christov2.pdf"
         }, 
         {
-            "title_full": "M\u00e9tallurgie pr\u00e9cieuse dans l\u2019empire d\u2019Orph\u00e9e - Erik Gonthier", 
+            "title_full": "Métallurgie précieuse dans l’empire d’Orphée - Erik Gonthier", 
             "url": "http://mgu.bg/geoarchmin/naterials/45Gonthier.pdf"
         }, 
         {
@@ -330,7 +330,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/46Delfino.pdf"
         }, 
         {
-            "title_full": "Composition of gold and silver objects from the South Urals burial mounds (XV-II c. BC) - Victor V. Zaykov, Anatolii M. Yuminov, Alexand\u0435r D. Tairov, Dmitrii G. Zdanovich, Eugenii I. Churin, Vasilii A. Kotlyarov, Elisaveta V. Zaykova", 
+            "title_full": "Composition of gold and silver objects from the South Urals burial mounds (XV-II c. BC) - Victor V. Zaykov, Anatolii M. Yuminov, Alexandеr D. Tairov, Dmitrii G. Zdanovich, Eugenii I. Churin, Vasilii A. Kotlyarov, Elisaveta V. Zaykova", 
             "url": "http://mgu.bg/geoarchmin/naterials/47Zaykov-et-al.pdf"
         }, 
         {
@@ -422,7 +422,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/69Tonkov2.pdf"
         }, 
         {
-            "title_full": "Reconstruction of buried objects by implementation of ground penetrating radar technique: example on Roman tomb in Brestovik (Serbia) - Milena Cukavac, Goran Klem\u010di\u0107, \u010caslav Lazovi\u0107", 
+            "title_full": "Reconstruction of buried objects by implementation of ground penetrating radar technique: example on Roman tomb in Brestovik (Serbia) - Milena Cukavac, Goran Klemčić, Časlav Lazović", 
             "url": "http://mgu.bg/geoarchmin/naterials/70Cukavac-et-al.pdf"
         }, 
         {
@@ -462,7 +462,7 @@
             "url": "http://mgu.bg/geoarchmin/naterials/79Kabakchieva.pdf"
         }, 
         {
-            "title_full": "Monitoring of cracks affecting the \"Madara Horseman\" rock bas-relief, North-East Bulgaria -Nikolai Dobrev, Elka Avramova-Tacheva, Blahoslav Ko\u0161\u0165\u00e1k", 
+            "title_full": "Monitoring of cracks affecting the \"Madara Horseman\" rock bas-relief, North-East Bulgaria -Nikolai Dobrev, Elka Avramova-Tacheva, Blahoslav Košťák", 
             "url": "http://mgu.bg/geoarchmin/naterials/80Dobrev-%D0%B5t-al.pdf"
         }
     ], 

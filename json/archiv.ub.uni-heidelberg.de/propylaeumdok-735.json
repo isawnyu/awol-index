@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Weber, G. (Hrsg. ): Kulturgeschichte des Hellenismus. Von Alexander dem Gro\u00dfen bis Kleopatra. Stuttgart 2007, pp. 448-454. Chaniotis, Angelos (2005).", 
+    "description": "In: Weber, G. (Hrsg. ): Kulturgeschichte des Hellenismus. Von Alexander dem Großen bis Kleopatra. Stuttgart 2007, pp. 448-454. Chaniotis, Angelos (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.244925"
+            "when": "2015-10-27T18:46:45.416694"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.244942"
+            "when": "2015-10-27T18:46:45.416708"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:33.999262"
+            "when": "2015-10-27T18:48:27.212203"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:33.999279"
+            "when": "2015-10-27T18:48:27.212231"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.453913"
+            "when": "2015-10-27T18:48:38.049931"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Africa: Revue des \u00c9tudes et Recherches pr\u00e9historiques, antiques, islamiques et ethnographiques. Tunis: Institut national du patrimoine. ISSN: 0330-8235. Africa est une revue compos\u00e9e de trois s\u00e9ries. La premi\u00e8re est consacr\u00e9e aux \u00e9tudes et aux recherches pr\u00e9historiques antiques et islamiques (Africa), la seconde aux \u00e9tudes et aux recherches relatives au monde ph\u00e9nico-punique et aux antiquit\u00e9s libyques (Reppal), la troisi\u00e8me est consacr\u00e9e aux \u00e9tudes et aux recherches ethnographiques (C. A. T. P. ). Outre les \u00e9tudes et la recherche scientifique, Africa publie tous les travaux d\u2019inventaire, de sauvegarde, de mise en valeur et de pr\u00e9sentation mus\u00e9ographique du patrimoine. La revue accueille les contributions originales (articles, rapport de fouilles, notes ou compte rendus) en langue arabe, fran\u00e7aise, anglaise, italienne, espagnole ou allemande. [1]. [2]. [3&4]. [5&6]. [7&8]. [9]. [10]. [11&12]. [13]. [14]. [15]. [16]. [17]. [18]. [19]. [20]. [21] (2007). See also:.", 
+    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Africa: Revue des Études et Recherches préhistoriques, antiques, islamiques et ethnographiques. Tunis: Institut national du patrimoine. ISSN: 0330-8235. Africa est une revue composée de trois séries. La première est consacrée aux études et aux recherches préhistoriques antiques et islamiques (Africa), la seconde aux études et aux recherches relatives au monde phénico-punique et aux antiquités libyques (Reppal), la troisième est consacrée aux études et aux recherches ethnographiques (C. A. T. P. ). Outre les études et la recherche scientifique, Africa publie tous les travaux d’inventaire, de sauvegarde, de mise en valeur et de présentation muséographique du patrimoine. La revue accueille les contributions originales (articles, rapport de fouilles, notes ou compte rendus) en langue arabe, française, anglaise, italienne, espagnole ou allemande. [1]. [2]. [3&4]. [5&6]. [7&8]. [9]. [10]. [11&12]. [13]. [14]. [15]. [16]. [17]. [18]. [19]. [20]. [21] (2007). See also:.", 
     "domain": "www.inp.rnrt.tn", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "La carte nationale des sites arch\u00e9ologiques et des monuments historiques : feuilles 1/50 000", 
+        "title_full": "La carte nationale des sites archéologiques et des monuments historiques : feuilles 1/50 000", 
         "url": "http://www.inp.rnrt.tn/index.php?lang=fr"
     }, 
     "issuance": null, 
@@ -79,13 +79,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126043325455733529", 
             "resource_date": "2012-12-11T15:50:32.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.455931"
+            "when": "2015-10-27T18:44:20.334892"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-cahiers-de-byrsa.html", 
             "resource_date": "2012-12-11T15:50:32.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.455947"
+            "when": "2015-10-27T18:44:20.334907"
         }, 
         {
             "fields": [
@@ -126,13 +126,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6889461468780911911", 
             "resource_date": "2014-05-15T16:25:14.938-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.825215"
+            "when": "2015-10-27T18:45:17.887640"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-africa-revue-des.html", 
             "resource_date": "2014-05-15T16:25:14.938-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.825230"
+            "when": "2015-10-27T18:45:17.887656"
         }, 
         {
             "fields": [
@@ -146,7 +146,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:36.860176"
+            "when": "2015-10-27T18:45:17.931809"
         }, 
         {
             "fields": [
@@ -187,13 +187,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7662055284615799155", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:18.188863"
+            "when": "2015-10-27T18:46:02.776818"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/la-carte-nationale-des-sites.html", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:18.188881"
+            "when": "2015-10-27T18:46:02.776835"
         }, 
         {
             "fields": [
@@ -207,7 +207,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:18.369358"
+            "when": "2015-10-27T18:46:03.000427"
         }, 
         {
             "fields": [
@@ -248,13 +248,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7662055284615799155", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:18.192625"
+            "when": "2015-10-27T18:46:02.780386"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/la-carte-nationale-des-sites.html", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:18.192643"
+            "when": "2015-10-27T18:46:02.780401"
         }, 
         {
             "fields": [
@@ -269,7 +269,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:18.375856"
+            "when": "2015-10-27T18:46:03.007395"
         }
     ], 
     "publishers": [], 
@@ -351,7 +351,7 @@
             "url": "http://www.inp.rnrt.tn/periodiques/africa21.pdf"
         }, 
         {
-            "title_full": "La carte nationale des sites arch\u00e9ologiques et des monuments historiques : feuilles 1/50 000", 
+            "title_full": "La carte nationale des sites archéologiques et des monuments historiques : feuilles 1/50 000", 
             "url": "http://www.inp.rnrt.tn/index.php?lang=fr"
         }, 
         {
@@ -443,7 +443,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/pdf/Fr/158MarethFr.pdf"
         }, 
         {
-            "title_full": "Carte Nationale des Sites Arch\u00e9ologiques et des Monuments Historiques", 
+            "title_full": "Carte Nationale des Sites Archéologiques et des Monuments Historiques", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/index_fr.htm"
         }, 
         {
@@ -475,11 +475,11 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/ipamed_013_fr.htm"
         }, 
         {
-            "title_full": "016 K\u00e9libia", 
+            "title_full": "016 Kélibia", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/016_fr.htm"
         }, 
         {
-            "title_full": "019 T\u00e9bourba", 
+            "title_full": "019 Tébourba", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/ipamed_019_fr.htm"
         }, 
         {
@@ -543,7 +543,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/068_fr.htm"
         }, 
         {
-            "title_full": "072 Oued Ch\u00e9rita", 
+            "title_full": "072 Oued Chérita", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/072_fr.htm"
         }, 
         {
@@ -559,7 +559,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/115_fr.htm"
         }, 
         {
-            "title_full": "117 Moular\u00e9s", 
+            "title_full": "117 Moularés", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/117_fr.htm"
         }, 
         {
@@ -603,7 +603,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/137_fr.htm"
         }, 
         {
-            "title_full": "138 M\u00e9touia", 
+            "title_full": "138 Métouia", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/138_fr.htm"
         }, 
         {
@@ -611,7 +611,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/146_fr.htm"
         }, 
         {
-            "title_full": "147 Gab\u00e8s", 
+            "title_full": "147 Gabès", 
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/147_fr.htm"
         }, 
         {
@@ -679,7 +679,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/html/195_fr.htm"
         }
     ], 
-    "title": "Africa: Revue des \u00c9tudes et Recherches pr\u00e9historiques, antiques, islamiques et ethnographiques", 
+    "title": "Africa: Revue des Études et Recherches préhistoriques, antiques, islamiques et ethnographiques", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

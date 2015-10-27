@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Eos. Czasopismo Filologiczne Organ Towarzystwa Filologicznego. \u201eEos. Commentarii Societatis Philologae Polonorum\" jest periodykiem naukowym, w kt\u00f3rym publikuj\u0105 \u015bwiatowej klasy specjali\u015bci z r\u00f3\u017cnych dziedzin nauk o staro\u017cytno\u015bci. Czasopismo zosta\u0142o za\u0142o\u017cone w roku 1894 we Lwowie, a jego pierwszym redaktorem naczelnym by\u0142 prof. Ludwik \u0106wikli\u0144ski. \u201eEos\" jest organem Polskiego Towarzystwa Filologicznego. Obecnie redakcja ma swoj\u0105 siedzib\u0119 we Wroc\u0142awiu - w Instytucie Studi\u00f3w Klasycznych, \u015ar\u00f3dziemnomorskich i Orientalnych UWr. \"Eos\" is a peer-reviewed biannual journal devoted to Greek and Roman antiquity and classical tradition. It was founded in 1894 in Lw\u00f3w (Lviv) by Ludwik \u0106wikli\u0144ski and is published by the Polish Classical Association (Societas Philologa Polonorum). The editorial office is currently located at the Institute of Classical, Mediterranean and Oriental Studies at the university of Wroc\u0142aw (Poland). Digital Library of Wielkopolska has made available the electronic version of full content of \"Eos\" volumes 1894-1939. Selected content from recent fascicles can be found here. 1894 1895 1897 1898-1899 1900 1901 1902 1903 1904 1905 1908 1909 1910 1911 1912 1913 1914-1915 1916 1917 1918 1919-1920 1921-1922 1924 1925 1926 1928 1929 1930-1931 1932-1933 1934 1935 1936 1937 1938 1939 See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Eos. Czasopismo Filologiczne Organ Towarzystwa Filologicznego. „Eos. Commentarii Societatis Philologae Polonorum\" jest periodykiem naukowym, w którym publikują światowej klasy specjaliści z różnych dziedzin nauk o starożytności. Czasopismo zostało założone w roku 1894 we Lwowie, a jego pierwszym redaktorem naczelnym był prof. Ludwik Ćwikliński. „Eos\" jest organem Polskiego Towarzystwa Filologicznego. Obecnie redakcja ma swoją siedzibę we Wrocławiu - w Instytucie Studiów Klasycznych, Śródziemnomorskich i Orientalnych UWr. \"Eos\" is a peer-reviewed biannual journal devoted to Greek and Roman antiquity and classical tradition. It was founded in 1894 in Lwów (Lviv) by Ludwik Ćwikliński and is published by the Polish Classical Association (Societas Philologa Polonorum). The editorial office is currently located at the Institute of Classical, Mediterranean and Oriental Studies at the university of Wrocław (Poland). Digital Library of Wielkopolska has made available the electronic version of full content of \"Eos\" volumes 1894-1939. Selected content from recent fascicles can be found here. 1894 1895 1897 1898-1899 1900 1901 1902 1903 1904 1905 1908 1909 1910 1911 1912 1913 1914-1915 1916 1917 1918 1919-1920 1921-1922 1924 1925 1926 1928 1929 1930-1931 1932-1933 1934 1935 1936 1937 1938 1939 See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.wbc.poznan.pl", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8862106411687602518", 
             "resource_date": "2012-12-16T07:48:38.892-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:56.598585"
+            "when": "2015-10-27T18:48:52.629565"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-eos-czasopismo.html", 
             "resource_date": "2012-12-16T07:48:38.892-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:56.598601"
+            "when": "2015-10-27T18:48:52.629582"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8862106411687602518", 
             "resource_date": "2012-12-16T07:48:38.892-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:56.737583"
+            "when": "2015-10-27T18:48:52.788203"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-eos-czasopismo.html", 
             "resource_date": "2012-12-16T07:48:38.892-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:56.737599"
+            "when": "2015-10-27T18:48:52.788226"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:56.817978"
+            "when": "2015-10-27T18:48:52.879281"
         }
     ], 
     "publishers": [], 

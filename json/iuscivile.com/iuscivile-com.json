@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4594438270409648163", 
             "resource_date": "2015-04-15T07:28:34.034-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:39.928976"
+            "when": "2015-10-27T18:42:06.501680"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/roman-law-resources.html", 
             "resource_date": "2015-04-15T07:28:34.034-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:39.928993"
+            "when": "2015-10-27T18:42:06.501697"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4594438270409648163", 
             "resource_date": "2015-04-15T07:28:34.034-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:39.931763"
+            "when": "2015-10-27T18:42:06.504571"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/roman-law-resources.html", 
             "resource_date": "2015-04-15T07:28:34.034-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:39.931775"
+            "when": "2015-10-27T18:42:06.504582"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:39.980024"
+            "when": "2015-10-27T18:42:06.554001"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": El Suplemento a la Bibliograf\u00eda de obras complexivas incluye referencias a 1587 publicaciones (libros y art\u00edculos en revistas o vol\u00famenes colectivos). A ellos hay que sumar otras 1413 publicaciones m\u00e1s que estudian un \u00fanico t\u00e9rmino (recogidos con sus datos completos en la Bibliograf\u00eda de palabras griegas). Ello suma exactamente un total de 3000 publicaciones despojadas.", 
+    "description": ": El Suplemento a la Bibliografía de obras complexivas incluye referencias a 1587 publicaciones (libros y artículos en revistas o volúmenes colectivos). A ellos hay que sumar otras 1413 publicaciones más que estudian un único término (recogidos con sus datos completos en la Bibliografía de palabras griegas). Ello suma exactamente un total de 3000 publicaciones despojadas.", 
     "domain": "dge.cchs.csic.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Repertorio Bibliogr\u00e1fico de la Lexicograf\u00eda Griega, Suplemento (RBLG Supl.)", 
+        "title_full": "Repertorio Bibliográfico de la Lexicografía Griega, Suplemento (RBLG Supl.)", 
         "url": "http://dge.cchs.csic.es/blg/blg-s.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4170379521302546498", 
             "resource_date": "2013-01-18T11:11:22.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.156183"
+            "when": "2015-10-27T18:41:26.165120"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/omline-repertorio-bibliografico-de-la.html", 
             "resource_date": "2013-01-18T11:11:22.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.156195"
+            "when": "2015-10-27T18:41:26.165133"
         }
     ], 
     "publishers": [], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452171433176874616", 
             "resource_date": "2010-03-23T05:51:45.347-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:00.476233"
+            "when": "2015-10-27T18:43:32.370737"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/journal-of-ancient-fingerprints-journal.html", 
             "resource_date": "2010-03-23T05:51:45.347-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:00.476251"
+            "when": "2015-10-27T18:43:32.370754"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452171433176874616", 
             "resource_date": "2010-03-23T05:51:45.347-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:00.479290"
+            "when": "2015-10-27T18:43:32.373873"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/journal-of-ancient-fingerprints-journal.html", 
             "resource_date": "2010-03-23T05:51:45.347-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:00.479306"
+            "when": "2015-10-27T18:43:32.373889"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:00.481951"
+            "when": "2015-10-27T18:43:32.375739"
         }
     ], 
     "publishers": [], 

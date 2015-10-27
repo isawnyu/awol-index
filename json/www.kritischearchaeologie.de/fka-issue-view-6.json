@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "]. darin: Streitraum: Das Leipziger V\u00f6lkerschlacht-Reenactment. Bertram Haude. Krieg als Hobby? Das Leipziger V\u00f6lkerschlacht-Reenactment und der Versuch einer Entgegnung. Stefanie Samida. Krieg(s)|spiele(n). Wolfgang Hochbruck. Eine Replik auf Bertram Haudes Essay \"Krieg als Hobby?\". Tom Stern. Reenactment, Arch\u00e4ologie und Film - Ein Seitenblick auf Bertram Haudes Essay \"Krieg als Hobby?\".", 
+    "description": "]. darin: Streitraum: Das Leipziger Völkerschlacht-Reenactment. Bertram Haude. Krieg als Hobby? Das Leipziger Völkerschlacht-Reenactment und der Versuch einer Entgegnung. Stefanie Samida. Krieg(s)|spiele(n). Wolfgang Hochbruck. Eine Replik auf Bertram Haudes Essay \"Krieg als Hobby?\". Tom Stern. Reenactment, Archäologie und Film - Ein Seitenblick auf Bertram Haudes Essay \"Krieg als Hobby?\".", 
     "domain": "www.kritischearchaeologie.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Forum Kritische Arch\u00e4ologie", 
+        "title_full": "Forum Kritische Archäologie", 
         "url": "http://www.kritischearchaeologie.de/fka"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3288740007547755725", 
             "resource_date": "2015-04-19T20:06:58.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:10.628863"
+            "when": "2015-10-27T18:40:23.231279"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-open-access-journal-forum-kritische.html", 
             "resource_date": "2015-04-19T20:06:58.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:10.628876"
+            "when": "2015-10-27T18:40:23.231295"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "zur Ausgabe Forum Kritische Arch\u00e4ologie 4 (2015)", 
+    "title": "zur Ausgabe Forum Kritische Archäologie 4 (2015)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

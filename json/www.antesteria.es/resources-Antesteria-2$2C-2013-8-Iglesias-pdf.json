@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "IGLESIAS GARC\u00cdA, Santiago.", 
+    "description": "IGLESIAS GARCÍA, Santiago.", 
     "domain": "www.antesteria.es", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-204988945209195387", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.390745"
+            "when": "2015-10-27T18:38:18.326060"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-antesteria.html", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.390756"
+            "when": "2015-10-27T18:38:18.326073"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "El ep\u00edteto Invictus durante los siglos III d.C. y IV d.C. en el \u00e1mbito imperial", 
+    "title": "El epíteto Invictus durante los siglos III d.C. y IV d.C. en el ámbito imperial", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

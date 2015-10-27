@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "66-83 Cieciela\u0322g, Jerzy: Some remarks on the coinage of Herod Philip.", 
+    "description": "66-83 Cieciela̢g, Jerzy: Some remarks on the coinage of Herod Philip.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.199486"
+            "when": "2015-10-27T18:46:50.421320"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.199496"
+            "when": "2015-10-27T18:46:50.421332"
         }
     ], 
     "publishers": [], 

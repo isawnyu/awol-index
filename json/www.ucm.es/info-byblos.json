@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica. ISSN 1885-3129. La Revista Virtual Byblos nace de la dificultad planteada en los \u00faltimos a\u00f1os de estar al tanto de la ingente producci\u00f3n bibliogr\u00e1fica que en los campos hist\u00f3rico e hist\u00f3rico-jur\u00eddico se ha generado. En los pa\u00edses anglosajones, donde el desarrollo de los recursos en red est\u00e1 m\u00e1s avanzado, hace tiempo que algunas universidades, aprovechando la extensi\u00f3n de las listas de distribuci\u00f3n de correo, han creado p\u00e1ginas web donde el staff universitario y los miembros de dichas listas cuelgan peri\u00f3dicamente rese\u00f1as y, sobre todo, recensiones cr\u00edticas de los trabajos le\u00eddos por todos ellos, de modo que, mediante este procedimiento, se consigue que el trabajo de lectura de todos enriquezca a gran n\u00famero de personas, que se evitan la penosa tarea de leer gran cantidad de estudios.", 
+    "description": "Byblos: Revista de Historiografía Histórico-Jurídica. ISSN 1885-3129. La Revista Virtual Byblos nace de la dificultad planteada en los últimos años de estar al tanto de la ingente producción bibliográfica que en los campos histórico e histórico-jurídico se ha generado. En los países anglosajones, donde el desarrollo de los recursos en red está más avanzado, hace tiempo que algunas universidades, aprovechando la extensión de las listas de distribución de correo, han creado páginas web donde el staff universitario y los miembros de dichas listas cuelgan periódicamente reseñas y, sobre todo, recensiones críticas de los trabajos leídos por todos ellos, de modo que, mediante este procedimiento, se consigue que el trabajo de lectura de todos enriquezca a gran número de personas, que se evitan la penosa tarea de leer gran cantidad de estudios.", 
     "domain": "www.ucm.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+        "title_full": "Byblos: Revista de Historiografía Histórico-Jurídica", 
         "url": "http://www.ucm.es/info/byblos/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1679276733380716010", 
             "resource_date": "2010-09-24T10:35:38.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.284734"
+            "when": "2015-10-27T18:37:57.314232"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html", 
             "resource_date": "2010-09-24T10:35:38.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.284751"
+            "when": "2015-10-27T18:37:57.314246"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1679276733380716010", 
             "resource_date": "2010-09-24T10:35:38.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.291818"
+            "when": "2015-10-27T18:37:57.319676"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-byblos-revista-de.html", 
             "resource_date": "2010-09-24T10:35:38.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.291839"
+            "when": "2015-10-27T18:37:57.319690"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:53.294920"
+            "when": "2015-10-27T18:37:57.321580"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+            "title_full": "Byblos: Revista de Historiografía Histórico-Jurídica", 
             "url": "http://www.ucm.es/info/byblos/"
         }
     ], 
-    "title": "Byblos: Revista de Historiograf\u00eda Hist\u00f3rico-Jur\u00eddica", 
+    "title": "Byblos: Revista de Historiografía Histórico-Jurídica", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

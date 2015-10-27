@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Corpus Inscriptionum Latinarum Datenbank. Das \u203aCorpus Inscriptionum Latinarum\u2039 erfa\u00dft die lateinischen Inschriften aus dem gesamten Raum des ehemaligen Imperium Romanum in geographischer und systematischer Ordnung; es ist seit seiner Begr\u00fcndung durch Theodor Mommsen die ma\u00dfgebliche Dokumentation des epigraphischen Erbes der r\u00f6mischen Antike. Das Berliner Team, das die Fortsetzung dieses Werkes betreut, koordiniert die notwendige internationale Zusammenarbeit mit den Fachgelehrten und bereitet fremde und eigene Manuskripte zur Publikation vor: Neufunde und Korrekturen bereits ver\u00f6ffentlichter Inschriften werden in Zweitauflagen und Supplementen ediert und so das Corpus aktualisiert und kontinuierlich erweitert. Um ihre eingangs beschriebene Aufgabe zu erf\u00fcllen, kann sich die Berliner Zentrale freilich nicht auf die wissenschaftliche Redaktion beschr\u00e4nken, wiewohl hierin der Schwerpunkt ihrer Arbeit liegt. Sie mu\u00df sich auch um die laufende Auswertung der Literatur zur lateinischen Epigraphik und um die Herstellung von bibliographischen Nachtr\u00e4gen zum Corpus bem\u00fchen. Die Bibliographie zur lateinischen Epigraphik, die seit 1950, neuerdings als Filemaker-Datenbank, gef\u00fchrt wird und mehr als 30. 000 Titel umfa\u00dft, eine spezielle Kartei mit Nachweisen neuerer Literatur zu den einzelnen im CIL selbst und in anderen Sammlungen ver\u00f6ffentlichten Inschriften sowie Manuskripte und Exzerpte fr\u00fcher edierter Inschriften bilden zusammen mit einer stattlichen Sammlung von Abklatschen oft benutzte Auskunftsmittel. Sie stellen zugleich einen unsch\u00e4tzbaren Fundus dar, vom welchem ausgehend die Vorbereitung von Corpora in eigener Verantwortung in Angriff genommen werden kann.", 
+    "description": "Corpus Inscriptionum Latinarum Datenbank. Das ›Corpus Inscriptionum Latinarum‹ erfaßt die lateinischen Inschriften aus dem gesamten Raum des ehemaligen Imperium Romanum in geographischer und systematischer Ordnung; es ist seit seiner Begründung durch Theodor Mommsen die maßgebliche Dokumentation des epigraphischen Erbes der römischen Antike. Das Berliner Team, das die Fortsetzung dieses Werkes betreut, koordiniert die notwendige internationale Zusammenarbeit mit den Fachgelehrten und bereitet fremde und eigene Manuskripte zur Publikation vor: Neufunde und Korrekturen bereits veröffentlichter Inschriften werden in Zweitauflagen und Supplementen ediert und so das Corpus aktualisiert und kontinuierlich erweitert. Um ihre eingangs beschriebene Aufgabe zu erfüllen, kann sich die Berliner Zentrale freilich nicht auf die wissenschaftliche Redaktion beschränken, wiewohl hierin der Schwerpunkt ihrer Arbeit liegt. Sie muß sich auch um die laufende Auswertung der Literatur zur lateinischen Epigraphik und um die Herstellung von bibliographischen Nachträgen zum Corpus bemühen. Die Bibliographie zur lateinischen Epigraphik, die seit 1950, neuerdings als Filemaker-Datenbank, geführt wird und mehr als 30. 000 Titel umfaßt, eine spezielle Kartei mit Nachweisen neuerer Literatur zu den einzelnen im CIL selbst und in anderen Sammlungen veröffentlichten Inschriften sowie Manuskripte und Exzerpte früher edierter Inschriften bilden zusammen mit einer stattlichen Sammlung von Abklatschen oft benutzte Auskunftsmittel. Sie stellen zugleich einen unschätzbaren Fundus dar, vom welchem ausgehend die Vorbereitung von Corpora in eigener Verantwortung in Angriff genommen werden kann.", 
     "domain": "cil.bbaw.de", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8508460244627693235", 
             "resource_date": "2013-08-15T13:38:23.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.345648"
+            "when": "2015-10-27T18:47:48.147584"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/corpus-inscriptionum-latinarum.html", 
             "resource_date": "2013-08-15T13:38:23.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.345664"
+            "when": "2015-10-27T18:47:48.147600"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8508460244627693235", 
             "resource_date": "2013-08-15T13:38:23.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.351746"
+            "when": "2015-10-27T18:47:48.153874"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/corpus-inscriptionum-latinarum.html", 
             "resource_date": "2013-08-15T13:38:23.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.351759"
+            "when": "2015-10-27T18:47:48.153887"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:57.362253"
+            "when": "2015-10-27T18:47:48.165727"
         }
     ], 
     "publishers": [], 

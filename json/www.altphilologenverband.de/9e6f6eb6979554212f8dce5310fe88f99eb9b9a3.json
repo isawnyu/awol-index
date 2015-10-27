@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-276924240552370268", 
             "resource_date": "2015-02-27T13:43:45.541-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:48.204115"
+            "when": "2015-10-27T18:38:56.691636"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-forum-classicum.html", 
             "resource_date": "2015-02-27T13:43:45.541-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:48.204132"
+            "when": "2015-10-27T18:38:56.691652"
         }
     ], 
     "publishers": [], 
@@ -422,7 +422,7 @@
             "url": "https://www.altphilologenverband.de/forumclassicum/pdf/MDAV1994-1.pdf"
         }
     ], 
-    "title": "Forum Classicum: Zeitschrift f\u00fcr die F\u00e4cher Latein und Griechisch an Schulen und Universit\u00e4ten", 
+    "title": "Forum Classicum: Zeitschrift für die Fächer Latein und Griechisch an Schulen und Universitäten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

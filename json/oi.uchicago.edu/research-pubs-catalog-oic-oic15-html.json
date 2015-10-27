@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.745898"
+            "when": "2015-10-27T18:47:14.275656"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.745909"
+            "when": "2015-10-27T18:47:14.275669"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "OIC 15. Excavations at Ancient Thebes, 1930/31 . By Uvo H\u00f6lscher. Originally published in 1932", 
+    "title": "OIC 15. Excavations at Ancient Thebes, 1930/31 . By Uvo Hölscher. Originally published in 1932", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

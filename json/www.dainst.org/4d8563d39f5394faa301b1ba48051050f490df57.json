@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arch\u00e4ologie Weltweit", 
+        "title_full": "Archäologie Weltweit", 
         "url": "http://www.dainst.org/archaeologie-weltweit"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-902109854365264283", 
             "resource_date": "2015-03-29T15:10:21.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.738079"
+            "when": "2015-10-27T18:49:11.392227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-access-journal-dai-weltweit.html", 
             "resource_date": "2015-03-29T15:10:21.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.738089"
+            "when": "2015-10-27T18:49:11.392238"
         }
     ], 
     "publishers": [], 

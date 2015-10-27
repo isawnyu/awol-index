@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8081797975316122621", 
             "resource_date": "2015-02-16T12:33:13.984-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.065882"
+            "when": "2015-10-27T18:46:59.517601"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/codex-vaticanus-online.html", 
             "resource_date": "2015-02-16T12:33:13.984-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.065899"
+            "when": "2015-10-27T18:46:59.517618"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8081797975316122621", 
             "resource_date": "2015-02-16T12:33:13.984-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.067798"
+            "when": "2015-10-27T18:46:59.519617"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/codex-vaticanus-online.html", 
             "resource_date": "2015-02-16T12:33:13.984-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.067810"
+            "when": "2015-10-27T18:46:59.519638"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:12.167274"
+            "when": "2015-10-27T18:46:59.619632"
         }
     ], 
     "publishers": [], 

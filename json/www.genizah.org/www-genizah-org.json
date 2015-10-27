@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1642512453363456260", 
             "resource_date": "2011-11-30T06:29:04.884-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.416344"
+            "when": "2015-10-27T18:37:56.347114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/friedberg-genizah-project-updates.html", 
             "resource_date": "2011-11-30T06:29:04.884-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.416361"
+            "when": "2015-10-27T18:37:56.347131"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1642512453363456260", 
             "resource_date": "2011-11-30T06:29:04.884-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.424622"
+            "when": "2015-10-27T18:37:56.362701"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/friedberg-genizah-project-updates.html", 
             "resource_date": "2011-11-30T06:29:04.884-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.424635"
+            "when": "2015-10-27T18:37:56.362722"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.426631"
+            "when": "2015-10-27T18:37:56.365383"
         }, 
         {
             "fields": [
@@ -172,13 +172,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2064944772533312360", 
             "resource_date": "2012-02-22T14:17:44.059-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.065456"
+            "when": "2015-10-27T18:38:19.127617"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-cairo-genizah-manuscripts.html", 
             "resource_date": "2012-02-22T14:17:44.059-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.065473"
+            "when": "2015-10-27T18:38:19.127632"
         }, 
         {
             "fields": [
@@ -193,7 +193,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:12.081350"
+            "when": "2015-10-27T18:38:19.145477"
         }, 
         {
             "fields": [
@@ -234,13 +234,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2064944772533312360", 
             "resource_date": "2012-02-22T14:17:44.059-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.068158"
+            "when": "2015-10-27T18:38:19.130425"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-cairo-genizah-manuscripts.html", 
             "resource_date": "2012-02-22T14:17:44.059-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.068170"
+            "when": "2015-10-27T18:38:19.130437"
         }, 
         {
             "fields": [
@@ -254,7 +254,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:12.083506"
+            "when": "2015-10-27T18:38:19.148158"
         }, 
         {
             "fields": [
@@ -295,13 +295,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5106808005432573155", 
             "resource_date": "2012-11-12T16:15:13.069-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.062352"
+            "when": "2015-10-27T18:43:12.558701"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/the-friedberg-genizah-project-fgp.html", 
             "resource_date": "2012-11-12T16:15:13.069-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.062369"
+            "when": "2015-10-27T18:43:12.558718"
         }, 
         {
             "fields": [
@@ -315,7 +315,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.075469"
+            "when": "2015-10-27T18:43:12.572511"
         }, 
         {
             "fields": [
@@ -356,13 +356,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5106808005432573155", 
             "resource_date": "2012-11-12T16:15:13.069-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.074015"
+            "when": "2015-10-27T18:43:12.570867"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/the-friedberg-genizah-project-fgp.html", 
             "resource_date": "2012-11-12T16:15:13.069-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.074031"
+            "when": "2015-10-27T18:43:12.570882"
         }, 
         {
             "fields": [
@@ -376,7 +376,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.079979"
+            "when": "2015-10-27T18:43:12.575771"
         }
     ], 
     "publishers": [], 

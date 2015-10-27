@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "2008/2 (n\u00b0 46).", 
+    "description": "2008/2 (n° 46).", 
     "domain": "www.cairn.info", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue arch\u00e9ologique", 
+        "title_full": "Revue archéologique", 
         "url": "http://www.cairn.info/revue-archeologique.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-426701211519130157", 
             "resource_date": "2015-06-26T09:41:02.526-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:21.539173"
+            "when": "2015-10-27T18:41:46.385901"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-revue-archeologique.html", 
             "resource_date": "2015-06-26T09:41:02.526-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:21.539184"
+            "when": "2015-10-27T18:41:46.385912"
         }
     ], 
     "publishers": [], 

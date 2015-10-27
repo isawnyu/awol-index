@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u30a8\u30b8\u30d7\u30c8\u5b66\u7814\u7a76 - The Journal of Egyptian Studies (Ejiputogaku kenky\u016b). ISSN: 0919-2417.", 
+    "description": "エジプト学研究 - The Journal of Egyptian Studies (Ejiputogaku kenkyū). ISSN: 0919-2417.", 
     "domain": "www.egyptpro.sci.waseda.ac.jp", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "\u30a8\u30b8\u30d7\u30c8\u5b66\u7814\u7a76 - The Journal of Egyptian Studies (Ejiputogaku kenky\u016b)", 
+        "title_full": "エジプト学研究 - The Journal of Egyptian Studies (Ejiputogaku kenkyū)", 
         "url": "http://www.egyptpro.sci.waseda.ac.jp/publication%20eji.html"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1134118816212782401", 
             "resource_date": "2014-04-24T16:02:08.331-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:09.604071"
+            "when": "2015-10-27T18:37:10.594428"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-journal-of-egyptian.html", 
             "resource_date": "2014-04-24T16:02:08.331-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:09.604082"
+            "when": "2015-10-27T18:37:10.594439"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u30a8\u30b8\u30d7\u30c8\u5b66\u7814\u7a76 \u7b2c\uff18\u53f7", 
+    "title": "エジプト学研究 第８号", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2082398403343888163", 
             "resource_date": "2012-06-20T21:52:38.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.334468"
+            "when": "2015-10-27T18:38:19.442707"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/ancient-egypt-research-associates-inc.html", 
             "resource_date": "2012-06-20T21:52:38.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.334484"
+            "when": "2015-10-27T18:38:19.442724"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2082398403343888163", 
             "resource_date": "2012-06-20T21:52:38.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.338934"
+            "when": "2015-10-27T18:38:19.447607"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/ancient-egypt-research-associates-inc.html", 
             "resource_date": "2012-06-20T21:52:38.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.338946"
+            "when": "2015-10-27T18:38:19.447621"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:12.340347"
+            "when": "2015-10-27T18:38:19.449598"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7947125311223116684", 
             "resource_date": "2015-03-26T11:21:39.297-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:04.907268"
+            "when": "2015-10-27T18:46:52.196556"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-aeragram.html", 
             "resource_date": "2015-03-26T11:21:39.297-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:04.907286"
+            "when": "2015-10-27T18:46:52.196572"
         }, 
         {
             "fields": [
@@ -196,7 +196,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:04.912410"
+            "when": "2015-10-27T18:46:52.201285"
         }
     ], 
     "publishers": [], 

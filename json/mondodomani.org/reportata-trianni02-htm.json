@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nicoletta Domma, Il R\u00f6merbrief e le sue interpretazioni: due punti di vista sull'etica.", 
+    "description": "Nicoletta Domma, Il Römerbrief e le sue interpretazioni: due punti di vista sull'etica.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.269747"
+            "when": "2015-10-27T18:44:38.734679"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.269759"
+            "when": "2015-10-27T18:44:38.734694"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 23 May 2011. Updated 29 May 2012]. Zeitschrift f\u00fcr die Alterthumswissenschaft.", 
+    "description": "[First posted in AWOL 23 May 2011. Updated 29 May 2012]. Zeitschrift für die Alterthumswissenschaft.", 
     "domain": "archiv.ub.uni-marburg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Zeitschrift f\u00fcr die Alterthumswissenschaft", 
+        "title_full": "Zeitschrift für die Alterthumswissenschaft", 
         "url": "http://archiv.ub.uni-marburg.de/eb/2011/0283/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8172341427088139860", 
             "resource_date": "2012-05-29T11:14:58.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.966403"
+            "when": "2015-10-27T18:47:02.645315"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-zeitschrift-fur-die.html", 
             "resource_date": "2012-05-29T11:14:58.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.966422"
+            "when": "2015-10-27T18:47:02.645327"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zeitschrift f\u00fcr die Alterthumswissenschaft. 2.1835", 
+    "title": "Zeitschrift für die Alterthumswissenschaft. 2.1835", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

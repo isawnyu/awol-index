@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Voces: revista de estudios de lexicolog\u00eda latina y antig\u00fcedad. ISSN: 1130- 3336. VOCES. REVISTA DE ESTUDIOS DE LEXICOLOG\u00cdA LATINA Y ANTIG\u00dcEDAD TARD\u00cdA es una revista de Filolog\u00eda fundada en 1990 y cuyo objeto de estudio son los temas relacionados con la lexicolog\u00eda latina y la Antig\u00fcedad tard\u00eda. La revista es coeditada junto con la Universidad de Caen y, actualmente, sus directores son CARMEN CODO\u00d1ER y LOUIS CALLEBAT, profesores de la Universidad de Salamanca y de la de Caen, respectivamente. La revista tiene una periodicidad anual (1 volumen al a\u00f1o) y publica los textos principalmente en castellano, aunque todos sus art\u00edculos llevan, adem\u00e1s, el t\u00edtulo, el resumen y las palabras clave tambi\u00e9n en ingl\u00e9s.", 
+    "description": "Voces: revista de estudios de lexicología latina y antigüedad. ISSN: 1130- 3336. VOCES. REVISTA DE ESTUDIOS DE LEXICOLOGÍA LATINA Y ANTIGÜEDAD TARDÍA es una revista de Filología fundada en 1990 y cuyo objeto de estudio son los temas relacionados con la lexicología latina y la Antigüedad tardía. La revista es coeditada junto con la Universidad de Caen y, actualmente, sus directores son CARMEN CODOÑER y LOUIS CALLEBAT, profesores de la Universidad de Salamanca y de la de Caen, respectivamente. La revista tiene una periodicidad anual (1 volumen al año) y publica los textos principalmente en castellano, aunque todos sus artículos llevan, además, el título, el resumen y las palabras clave también en inglés.", 
     "domain": "campus.usal.es", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2736737139761963042", 
             "resource_date": "2014-06-17T10:30:09.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.456554"
+            "when": "2015-10-27T18:38:55.839326"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-voces.html", 
             "resource_date": "2014-06-17T10:30:09.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.456572"
+            "when": "2015-10-27T18:38:55.839342"
         }
     ], 
     "publishers": [], 
@@ -121,7 +121,7 @@
             "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/issue/view/429"
         }, 
         {
-            "title_full": "Vol. 14 (2003): Literatura A\u00falica y L\u00e9xico", 
+            "title_full": "Vol. 14 (2003): Literatura Aúlica y Léxico", 
             "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/issue/view/427"
         }, 
         {
@@ -133,7 +133,7 @@
             "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/issue/view/422"
         }, 
         {
-            "title_full": "Vol. 8 (1997): Vol 9 (1998): Actas del Encuentro Internacional sobre L\u00e9xico Latino (Salamanca 18-29 Noviembre 1999)", 
+            "title_full": "Vol. 8 (1997): Vol 9 (1998): Actas del Encuentro Internacional sobre Léxico Latino (Salamanca 18-29 Noviembre 1999)", 
             "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/issue/view/423"
         }, 
         {
@@ -165,7 +165,7 @@
             "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/1130-3336/issue/view/404"
         }
     ], 
-    "title": "Voces: revista de estudios de lexicolog\u00eda latina y antig\u00fcedad", 
+    "title": "Voces: revista de estudios de lexicología latina y antigüedad", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

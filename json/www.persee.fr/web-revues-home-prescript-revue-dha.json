@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 2 September 2009. Updated 5 October 2014]. Dialogues d'histoire ancienne. eISSN - 1955-270X. En 1974, Pierre L\u00e9v\u00eaque cr\u00e9e la revue Dialogues d\u2019Histoire Ancienne, con\u00e7ue comme un espace de pr\u00e9sentation et de discussion des \u00e9tudes sur l\u2019histoire des soci\u00e9t\u00e9s antiques, de leurs structures sociales, \u00e9conomiques, religieuses et culturelles. Revue d\u2019histoire ancienne g\u00e9n\u00e9raliste publi\u00e9e par l\u2019Institut des Sciences Techniques de l\u2019Antiquit\u00e9 (ISTA) de l\u2019Universit\u00e9 de Franche-Comt\u00e9, elle s\u2019efforce \u00e9galement d\u2019offrir des approches diverses, d\u2019inventorier des domaines nouveaux, de s\u2019int\u00e9resser \u00e0 des espaces consid\u00e9r\u00e9s trop longtemps comme p\u00e9riph\u00e9riques. (1974 -2011), 65 Issues, 1890 Articles.", 
+    "description": "[First posted in AWOL 2 September 2009. Updated 5 October 2014]. Dialogues d'histoire ancienne. eISSN - 1955-270X. En 1974, Pierre Lévêque crée la revue Dialogues d’Histoire Ancienne, conçue comme un espace de présentation et de discussion des études sur l’histoire des sociétés antiques, de leurs structures sociales, économiques, religieuses et culturelles. Revue d’histoire ancienne généraliste publiée par l’Institut des Sciences Techniques de l’Antiquité (ISTA) de l’Université de Franche-Comté, elle s’efforce également d’offrir des approches diverses, d’inventorier des domaines nouveaux, de s’intéresser à des espaces considérés trop longtemps comme périphériques. (1974 -2011), 65 Issues, 1890 Articles.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.679042"
+            "when": "2015-10-27T18:38:36.955101"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.679057"
+            "when": "2015-10-27T18:38:36.955113"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.071647"
+            "when": "2015-10-27T18:47:54.309056"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.071664"
+            "when": "2015-10-27T18:47:54.309071"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:03.807835"
+            "when": "2015-10-27T18:47:55.164496"
         }, 
         {
             "fields": [
@@ -184,13 +184,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.073554"
+            "when": "2015-10-27T18:47:54.310792"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.073570"
+            "when": "2015-10-27T18:47:54.310804"
         }, 
         {
             "fields": [
@@ -204,7 +204,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:03.824397"
+            "when": "2015-10-27T18:47:55.181228"
         }, 
         {
             "fields": [
@@ -245,13 +245,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8640131184522311651", 
             "resource_date": "2014-12-05T16:47:12.611-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:45.015131"
+            "when": "2015-10-27T18:48:39.936336"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/dialogues-dhistoire-ancienne-1974-2005.html", 
             "resource_date": "2014-12-05T16:47:12.611-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:45.015150"
+            "when": "2015-10-27T18:48:39.936353"
         }, 
         {
             "fields": [
@@ -266,7 +266,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:45.637875"
+            "when": "2015-10-27T18:48:40.611134"
         }
     ], 
     "publishers": [], 
@@ -276,11 +276,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+            "title_full": "Dialogues d'histoire ancienne. Suppléments", 
             "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b01, 2005. Hommage \u00e0 Pierre L\u00e9v\u00eaque", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°1, 2005. Hommage à Pierre Lévêque", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2005_sup_1_1"
         }, 
         {
@@ -300,15 +300,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_190"
         }, 
         {
-            "title_full": "La rationalit\u00e9 historique du scepticisme sophistique", 
+            "title_full": "La rationalité historique du scepticisme sophistique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3694"
         }, 
         {
-            "title_full": "Doming Pl\u00e1cido", 
+            "title_full": "Doming Plácido", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_433"
         }, 
         {
-            "title_full": "Fable d\u2019\u00c9sope, Roman de Chacal, ou comment aborder la notion d\u2019alt\u00e9rit\u00e9", 
+            "title_full": "Fable d’Ésope, Roman de Chacal, ou comment aborder la notion d’altérité", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3695"
         }, 
         {
@@ -316,7 +316,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_964"
         }, 
         {
-            "title_full": "Trajan, Pline et l\u2019appauvrissement de la pl\u00e8be \u00e0 Rome", 
+            "title_full": "Trajan, Pline et l’appauvrissement de la plèbe à Rome", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3696"
         }, 
         {
@@ -324,7 +324,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_288"
         }, 
         {
-            "title_full": "P. Clodius, ses amis, ses partisans, sous le regard de Cic\u00e9ron", 
+            "title_full": "P. Clodius, ses amis, ses partisans, sous le regard de Cicéron", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3697"
         }, 
         {
@@ -332,19 +332,19 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_202"
         }, 
         {
-            "title_full": "Travail et travailleurs dans le th\u00e9\u00e2tre de Plaute", 
+            "title_full": "Travail et travailleurs dans le théâtre de Plaute", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3698"
         }, 
         {
-            "title_full": "Claire Feuvrier-Pr\u00e9votat", 
+            "title_full": "Claire Feuvrier-Prévotat", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_260"
         }, 
         {
-            "title_full": "D\u00e9pendance et esclavage", 
+            "title_full": "Dépendance et esclavage", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3699"
         }, 
         {
-            "title_full": "Sexe, amour et d\u00e9pendance \u00e0 Rome", 
+            "title_full": "Sexe, amour et dépendance à Rome", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3700"
         }, 
         {
@@ -352,7 +352,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_275"
         }, 
         {
-            "title_full": "La lib\u00e9ration des esclaves juifs dans la \u00ab lettre d\u2019Arist\u00e9e \u00bb", 
+            "title_full": "La libération des esclaves juifs dans la « lettre d’Aristée »", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3701"
         }, 
         {
@@ -372,7 +372,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1209"
         }, 
         {
-            "title_full": "Les divinit\u00e9s orientales dans les Alpes", 
+            "title_full": "Les divinités orientales dans les Alpes", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3704"
         }, 
         {
@@ -380,23 +380,23 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_307"
         }, 
         {
-            "title_full": "Un culte d\u2019Osiris-arbre dans le monument sa\u00efte de Mouftella (oasis de Bahariya) ?", 
+            "title_full": "Un culte d’Osiris-arbre dans le monument saïte de Mouftella (oasis de Bahariya) ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3705"
         }, 
         {
-            "title_full": "Fran\u00e7oise Labrique", 
+            "title_full": "Françoise Labrique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_324"
         }, 
         {
-            "title_full": "Culte imp\u00e9rial et religion en Afrique du Nord sous le Haut Empire romain", 
+            "title_full": "Culte impérial et religion en Afrique du Nord sous le Haut Empire romain", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3706"
         }, 
         {
-            "title_full": "\u00c9lisabeth Smadja", 
+            "title_full": "Élisabeth Smadja", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_483"
         }, 
         {
-            "title_full": "L\u2019expression pro parte dans les Libri coloniarum", 
+            "title_full": "L’expression pro parte dans les Libri coloniarum", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3708"
         }, 
         {
@@ -404,15 +404,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1239"
         }, 
         {
-            "title_full": "Le territoire colonial : image et m\u00e9taphore de l\u2019Empire", 
+            "title_full": "Le territoire colonial : image et métaphore de l’Empire", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3709"
         }, 
         {
-            "title_full": "Monique Clavel-L\u00e9v\u00eaque", 
+            "title_full": "Monique Clavel-Lévêque", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_209"
         }, 
         {
-            "title_full": "L\u2019aventure des paysages grecs (1984-2004)", 
+            "title_full": "L’aventure des paysages grecs (1984-2004)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3710"
         }, 
         {
@@ -420,7 +420,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_242"
         }, 
         {
-            "title_full": "Les trois notices des Libri coloniarum sur l\u2019ager Asculanus", 
+            "title_full": "Les trois notices des Libri coloniarum sur l’ager Asculanus", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3711"
         }, 
         {
@@ -432,11 +432,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3712"
         }, 
         {
-            "title_full": "Darejan Ka\u010darava", 
+            "title_full": "Darejan Kačarava", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1408"
         }, 
         {
-            "title_full": "Filangieri, Napoli, Croce (Elena), Goethe, Pierre L\u00e9v\u00eaque..", 
+            "title_full": "Filangieri, Napoli, Croce (Elena), Goethe, Pierre Lévêque..", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3713"
         }, 
         {
@@ -444,11 +444,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_325"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s", 
+            "title_full": "Résumés", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2005_sup_1_1_3714"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b02, 2009. Traduire les scholies de Pindare... I. De la traduction au commentaire : probl\u00e8mes de m\u00e9thode", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°2, 2009. Traduire les scholies de Pindare... I. De la traduction au commentaire : problèmes de méthode", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2009_sup_2_1"
         }, 
         {
@@ -460,7 +460,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1308"
         }, 
         {
-            "title_full": "Pr\u00e9face. Les scholies aux \u00c9pinicies de Pindare : pourquoi ?", 
+            "title_full": "Préface. Les scholies aux Épinicies de Pindare : pourquoi ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3471"
         }, 
         {
@@ -468,15 +468,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1339"
         }, 
         {
-            "title_full": "Probl\u00e8mes de traduction li\u00e9s \u00e0 la reformulation du texte pindarique par les scholiastes", 
+            "title_full": "Problèmes de traduction liés à la reformulation du texte pindarique par les scholiastes", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3472"
         }, 
         {
-            "title_full": "C\u00e9cile Daude", 
+            "title_full": "Cécile Daude", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_226"
         }, 
         {
-            "title_full": "La d\u00e9marche des scholiastes d\u2019apr\u00e8s les formules introductives des scholies (Olympiques, I - VI)", 
+            "title_full": "La démarche des scholiastes d’après les formules introductives des scholies (Olympiques, I - VI)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3473"
         }, 
         {
@@ -484,7 +484,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1257"
         }, 
         {
-            "title_full": "L\u2019\u00e9nonciation dans les scholies de la Sixi\u00e8me Olympique", 
+            "title_full": "L’énonciation dans les scholies de la Sixième Olympique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3474"
         }, 
         {
@@ -492,7 +492,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_384"
         }, 
         {
-            "title_full": "La danse et la philologie : \u00e0 partir du mouvement strophique dans les scholies anciennes \u00e0 Pindare", 
+            "title_full": "La danse et la philologie : à partir du mouvement strophique dans les scholies anciennes à Pindare", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3475"
         }, 
         {
@@ -500,15 +500,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1340"
         }, 
         {
-            "title_full": "Les scholies m\u00e9triques \u00e0 Pindare, ont-elles raison ?", 
+            "title_full": "Les scholies métriques à Pindare, ont-elles raison ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3476"
         }, 
         {
-            "title_full": "Martin Steinr\u00fcck", 
+            "title_full": "Martin Steinrück", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1341"
         }, 
         {
-            "title_full": "Aristarque interpr\u00e8te des odes siciliennes de Pindare : explication interne et explication externe", 
+            "title_full": "Aristarque interprète des odes siciliennes de Pindare : explication interne et explication externe", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3477"
         }, 
         {
@@ -516,7 +516,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1342"
         }, 
         {
-            "title_full": "Scholies de la IVe Pythique et scholies hom\u00e9riques", 
+            "title_full": "Scholies de la IVe Pythique et scholies homériques", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3478"
         }, 
         {
@@ -528,15 +528,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3479"
         }, 
         {
-            "title_full": "Index des scholies cit\u00e9es", 
+            "title_full": "Index des scholies citées", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3480"
         }, 
         {
-            "title_full": "Index de la terminologie propre aux scholies (de l\u2019idiolecte des scholiastes)", 
+            "title_full": "Index de la terminologie propre aux scholies (de l’idiolecte des scholiastes)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3481"
         }, 
         {
-            "title_full": "Index des termes et images relatifs aux manifestations chorales dans les scholies (\u00e9tabli \u00e0 partir de la contribution de M. Briand)", 
+            "title_full": "Index des termes et images relatifs aux manifestations chorales dans les scholies (établi à partir de la contribution de M. Briand)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3482"
         }, 
         {
@@ -544,7 +544,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3483"
         }, 
         {
-            "title_full": "Index des noms g\u00e9ographiques", 
+            "title_full": "Index des noms géographiques", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3484"
         }, 
         {
@@ -556,23 +556,23 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3486"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s", 
+            "title_full": "Résumés", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2009_sup_2_1_3487"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b03, 2010. Inde-Gr\u00e8ce : regards et influences", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°3, 2010. Inde-Grèce : regards et influences", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2010_sup_3_1"
         }, 
         {
-            "title_full": "Inde-Gr\u00e8ce : regards et influences", 
+            "title_full": "Inde-Grèce : regards et influences", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3327"
         }, 
         {
-            "title_full": "Suzanne Sa\u00efd", 
+            "title_full": "Suzanne Saïd", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1344"
         }, 
         {
-            "title_full": "Le sage pris entre choses divines et affaires humaines : probl\u00e8me grec, solution indienne ?", 
+            "title_full": "Le sage pris entre choses divines et affaires humaines : problème grec, solution indienne ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3328"
         }, 
         {
@@ -580,19 +580,19 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1345"
         }, 
         {
-            "title_full": "Un compos\u00e9 grec calqu\u00e9 en p\u0101li ?", 
+            "title_full": "Un composé grec calqué en pāli ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3329"
         }, 
         {
-            "title_full": "Boris Oguib\u00e9nine", 
+            "title_full": "Boris Oguibénine", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1346"
         }, 
         {
-            "title_full": "Quelques mythes grecs sur les Indiens d\u2019H\u00e9rodote \u00e0 Strabon", 
+            "title_full": "Quelques mythes grecs sur les Indiens d’Hérodote à Strabon", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3330"
         }, 
         {
-            "title_full": "Le Buddha \u00e0 l\u2019\u00c9cole d\u2019Alexandrie, \u00e0 propos de Stromates I.15.71.6", 
+            "title_full": "Le Buddha à l’École d’Alexandrie, à propos de Stromates I.15.71.6", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3331"
         }, 
         {
@@ -604,15 +604,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3332"
         }, 
         {
-            "title_full": "H\u00e9l\u00e8ne Frangoulis", 
+            "title_full": "Hélène Frangoulis", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1348"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s", 
+            "title_full": "Résumés", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_3_1_3333"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b04-1, 2010. Jeux et enjeux de la mise en forme de l'histoire. Recherches sur le genre historique en Gr\u00e8ce et \u00e0 Rome", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°4-1, 2010. Jeux et enjeux de la mise en forme de l'histoire. Recherches sur le genre historique en Grèce et à Rome", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2010_sup_4_1"
         }, 
         {
@@ -628,7 +628,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3335"
         }, 
         {
-            "title_full": "La lustration des champs \u00e0 l\u2019\u00e9poque august\u00e9enne au regard des sources litt\u00e9raires", 
+            "title_full": "La lustration des champs à l’époque augustéenne au regard des sources littéraires", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3338"
         }, 
         {
@@ -636,7 +636,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1349"
         }, 
         {
-            "title_full": "Ovide conteur d\u2019histoire : les Lupercales (Fastes II.267-462)", 
+            "title_full": "Ovide conteur d’histoire : les Lupercales (Fastes II.267-462)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3339"
         }, 
         {
@@ -644,7 +644,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1207"
         }, 
         {
-            "title_full": "Quand l\u2019\u00e9l\u00e9gie s\u2019aventure \u00e0 faire l\u2019\u00e9loge du prince. Cl\u00e9op\u00e2tre chez Properce (III.11) : personnage historique ou domina \u00e9l\u00e9giaque ?", 
+            "title_full": "Quand l’élégie s’aventure à faire l’éloge du prince. Cléopâtre chez Properce (III.11) : personnage historique ou domina élégiaque ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3340"
         }, 
         {
@@ -652,7 +652,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1350"
         }, 
         {
-            "title_full": "Un\u2019eroina nel racconto di Servio: Lucrezia", 
+            "title_full": "Un’eroina nel racconto di Servio: Lucrezia", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3342"
         }, 
         {
@@ -660,7 +660,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1351"
         }, 
         {
-            "title_full": "Les tri\u00e8res de Salamine", 
+            "title_full": "Les trières de Salamine", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3343"
         }, 
         {
@@ -668,15 +668,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1352"
         }, 
         {
-            "title_full": "Les documents d\u2019archives dans la Vita Commodi : degr\u00e9 z\u00e9ro de l\u2019histoire ou fiction ?", 
+            "title_full": "Les documents d’archives dans la Vita Commodi : degré zéro de l’histoire ou fiction ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3344"
         }, 
         {
-            "title_full": "Agn\u00e8s Molinier-Arbo", 
+            "title_full": "Agnès Molinier-Arbo", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1247"
         }, 
         {
-            "title_full": "Entre biographie et anecdote. Les \u00ab mauvaises \u00bb mises en forme des notices biographiques dans les \u00ab vies \u00bb de Th\u00e9opompe chez Photios et dans la Souda", 
+            "title_full": "Entre biographie et anecdote. Les « mauvaises » mises en forme des notices biographiques dans les « vies » de Théopompe chez Photios et dans la Souda", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3346"
         }, 
         {
@@ -684,19 +684,19 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1353"
         }, 
         {
-            "title_full": "Ex\u00e9g\u00e8se et Histoire sainte dans l\u2019Histoire eccl\u00e9siastique d\u2019Eus\u00e8be de C\u00e9sar\u00e9e (Livre I)", 
+            "title_full": "Exégèse et Histoire sainte dans l’Histoire ecclésiastique d’Eusèbe de Césarée (Livre I)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3347"
         }, 
         {
-            "title_full": "Bios et Historia. \u00c0 propos de l\u2019\u00e9criture biographique dans les Vies Parall\u00e8les de Plutarque", 
+            "title_full": "Bios et Historia. À propos de l’écriture biographique dans les Vies Parallèles de Plutarque", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3348"
         }, 
         {
-            "title_full": "Fran\u00e7oise Frazier", 
+            "title_full": "Françoise Frazier", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1354"
         }, 
         {
-            "title_full": "Histoire d\u2019objets. Objets d\u2019histoire", 
+            "title_full": "Histoire d’objets. Objets d’histoire", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3350"
         }, 
         {
@@ -704,15 +704,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1355"
         }, 
         {
-            "title_full": "Histoire d\u2019un palimpseste : le Nero et le Caligula de Su\u00e9tone dans la Vita Commodi de l\u2019Histoire Auguste", 
+            "title_full": "Histoire d’un palimpseste : le Nero et le Caligula de Suétone dans la Vita Commodi de l’Histoire Auguste", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3351"
         }, 
         {
-            "title_full": "Quelques r\u00e9flexions sur l\u2019arch\u00e9ologie de l\u2019\u00e9criture historique", 
+            "title_full": "Quelques réflexions sur l’archéologie de l’écriture historique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3354"
         }, 
         {
-            "title_full": "Historia et intrigue. Les ressources \u00ab mim\u00e9tiques\u00bb de l\u2019Enqu\u00eate d\u2019H\u00e9rodote", 
+            "title_full": "Historia et intrigue. Les ressources « mimétiques» de l’Enquête d’Hérodote", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3355"
         }, 
         {
@@ -720,19 +720,19 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1233"
         }, 
         {
-            "title_full": "Les Moi de l\u2019historien : r\u00e9cit et discours chez Denys d'Halicarnasse", 
+            "title_full": "Les Moi de l’historien : récit et discours chez Denys d'Halicarnasse", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3356"
         }, 
         {
-            "title_full": "Val\u00e9rie Fromentin", 
+            "title_full": "Valérie Fromentin", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1356"
         }, 
         {
-            "title_full": "Quelques r\u00e9flexions terminales. Conclusions de la rencontre de juin 2005", 
+            "title_full": "Quelques réflexions terminales. Conclusions de la rencontre de juin 2005", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3357"
         }, 
         {
-            "title_full": "Edmond L\u00e9vy", 
+            "title_full": "Edmond Lévy", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1357"
         }, 
         {
@@ -744,7 +744,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1358"
         }, 
         {
-            "title_full": "Pausanias en biographe. R\u00e9flexions sur la place des vies de Philopoimen et d\u2019\u00c9paminondas dans la vision historique du P\u00e9ri\u00e9g\u00e8te", 
+            "title_full": "Pausanias en biographe. Réflexions sur la place des vies de Philopoimen et d’Épaminondas dans la vision historique du Périégète", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3360"
         }, 
         {
@@ -752,11 +752,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_530"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s du Suppl\u00e9ment 4.1", 
+            "title_full": "Résumés du Supplément 4.1", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_1_3361"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b04-2, 2010. Jeux et enjeux de la mise en forme de l'histoire. Recherches sur le genre historique en Gr\u00e8ce et \u00e0 Rome", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°4-2, 2010. Jeux et enjeux de la mise en forme de l'histoire. Recherches sur le genre historique en Grèce et à Rome", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2010_sup_4_2"
         }, 
         {
@@ -768,7 +768,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3364"
         }, 
         {
-            "title_full": "La bataille de Philippes (42 av. J.-C.) dans l\u2019Histoire romaine de Dion Cassius : un aper\u00e7u du travail de l\u2019historien", 
+            "title_full": "La bataille de Philippes (42 av. J.-C.) dans l’Histoire romaine de Dion Cassius : un aperçu du travail de l’historien", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3366"
         }, 
         {
@@ -776,7 +776,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1359"
         }, 
         {
-            "title_full": "Religion et r\u00e9cit historique : les ambassades des sanctuaires grecs sous Tib\u00e8re (Tacite, Annales III.60-63)", 
+            "title_full": "Religion et récit historique : les ambassades des sanctuaires grecs sous Tibère (Tacite, Annales III.60-63)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3367"
         }, 
         {
@@ -784,19 +784,19 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_441"
         }, 
         {
-            "title_full": "Dire l\u2019autre et l\u2019ailleurs ? R\u00e9cit, guerre et pouvoir dans l\u2019Anabase de X\u00e9nophon", 
+            "title_full": "Dire l’autre et l’ailleurs ? Récit, guerre et pouvoir dans l’Anabase de Xénophon", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3368"
         }, 
         {
-            "title_full": "Jeannine Bo\u00ebldieu-Trevet", 
+            "title_full": "Jeannine Boëldieu-Trevet", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1360"
         }, 
         {
-            "title_full": "Alexandre chez les Malles : techniques d\u2019un r\u00e9cit dans l\u2019Anabase d\u2019Arrien", 
+            "title_full": "Alexandre chez les Malles : techniques d’un récit dans l’Anabase d’Arrien", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3369"
         }, 
         {
-            "title_full": "Enjeux litt\u00e9raires et historiques du portrait d\u2019Alexandre : les barbares dans l\u2019Anabase d\u2019Arrien", 
+            "title_full": "Enjeux littéraires et historiques du portrait d’Alexandre : les barbares dans l’Anabase d’Arrien", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3370"
         }, 
         {
@@ -804,7 +804,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1361"
         }, 
         {
-            "title_full": "X\u00e9nophon : la place de l\u2019\u00e9loge dans l\u2019\u00e9criture de l\u2019histoire, des Hell\u00e9niques (VI-VII) \u00e0 l\u2019Ag\u00e9silas", 
+            "title_full": "Xénophon : la place de l’éloge dans l’écriture de l’histoire, des Helléniques (VI-VII) à l’Agésilas", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3373"
         }, 
         {
@@ -820,11 +820,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1363"
         }, 
         {
-            "title_full": "Polybe et les mises en sc\u00e8ne de la Tych\u00e8", 
+            "title_full": "Polybe et les mises en scène de la Tychè", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3376"
         }, 
         {
-            "title_full": "Le discours de la d\u00e9cadence dans le Bellum Catilinae de Salluste : \u00e9l\u00e9ments d\u2019une mise en forme du r\u00e9cit", 
+            "title_full": "Le discours de la décadence dans le Bellum Catilinae de Salluste : éléments d’une mise en forme du récit", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3377"
         }, 
         {
@@ -836,7 +836,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1364"
         }, 
         {
-            "title_full": "L\u00e9gende et histoire dans le Livre I de Tite-Live", 
+            "title_full": "Légende et histoire dans le Livre I de Tite-Live", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3380"
         }, 
         {
@@ -844,23 +844,23 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1365"
         }, 
         {
-            "title_full": "Autour de la mort de Romulus (\u00e0 partir du texte de Tite-Live, 1.15.6-16)", 
+            "title_full": "Autour de la mort de Romulus (à partir du texte de Tite-Live, 1.15.6-16)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3381"
         }, 
         {
-            "title_full": "G\u00e9rard Salamon", 
+            "title_full": "Gérard Salamon", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1366"
         }, 
         {
-            "title_full": "Du guerrier-fauve au \u00ab meilleur des Hell\u00e8nes \u00bb : l\u2019histoire d\u2019Aristom\u00e9n\u00e8s (re-) vue par Pausanias", 
+            "title_full": "Du guerrier-fauve au « meilleur des Hellènes » : l’histoire d’Aristoménès (re-) vue par Pausanias", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3382"
         }, 
         {
-            "title_full": "Jeux et enjeux de l\u2019annonce de l\u2019Empire dans l\u2019Histoire Auguste", 
+            "title_full": "Jeux et enjeux de l’annonce de l’Empire dans l’Histoire Auguste", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3383"
         }, 
         {
-            "title_full": "Les mythes fondateurs de Th\u00e8bes et l\u2019histoire : les mises en formes du pass\u00e9 d\u2019une cit\u00e9 et leurs enjeux", 
+            "title_full": "Les mythes fondateurs de Thèbes et l’histoire : les mises en formes du passé d’une cité et leurs enjeux", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3385"
         }, 
         {
@@ -868,23 +868,23 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1041"
         }, 
         {
-            "title_full": "Colonisation et r\u00e9cits de fondation chez H\u00e9rodote", 
+            "title_full": "Colonisation et récits de fondation chez Hérodote", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3386"
         }, 
         {
-            "title_full": "Le point de vue de l\u2019historien", 
+            "title_full": "Le point de vue de l’historien", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3388"
         }, 
         {
-            "title_full": "Fran\u00e7ois Hinard", 
+            "title_full": "François Hinard", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1367"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s du Suppl\u00e9ment 4.2", 
+            "title_full": "Résumés du Supplément 4.2", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2010_sup_4_2_3389"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b05, 2011. La notion d\u2019empire dans les mondes antiques. Bilan historiographique", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°5, 2011. La notion d’empire dans les mondes antiques. Bilan historiographique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2011_sup_5_1"
         }, 
         {
@@ -896,7 +896,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3490"
         }, 
         {
-            "title_full": "Introduction. Les mod\u00e8les imp\u00e9riaux dans l\u2019Antiquit\u00e9", 
+            "title_full": "Introduction. Les modèles impériaux dans l’Antiquité", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3491"
         }, 
         {
@@ -904,55 +904,55 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1044"
         }, 
         {
-            "title_full": "Assyriens, Babyloniens, Perses ach\u00e9m\u00e9nides : la matrice imp\u00e9riale", 
+            "title_full": "Assyriens, Babyloniens, Perses achéménides : la matrice impériale", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3492"
         }, 
         {
-            "title_full": "Francis Joann\u00e8s", 
+            "title_full": "Francis Joannès", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1368"
         }, 
         {
-            "title_full": "P\u00e9ricl\u00e8s et l\u2019imp\u00e9rialisme ath\u00e9nien de Thucydide \u00e0 l\u2019historiographie contemporaine", 
+            "title_full": "Périclès et l’impérialisme athénien de Thucydide à l’historiographie contemporaine", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3493"
         }, 
         {
-            "title_full": "Claude Moss\u00e9", 
+            "title_full": "Claude Mossé", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_381"
         }, 
         {
-            "title_full": "L\u2019empire ath\u00e9nien est-il toujours un empire comme les autres ?", 
+            "title_full": "L’empire athénien est-il toujours un empire comme les autres ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3494"
         }, 
         {
-            "title_full": "Christophe P\u00e9barthe", 
+            "title_full": "Christophe Pébarthe", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1369"
         }, 
         {
-            "title_full": "Le renouveau des \u00e9tudes s\u00e9leucides", 
+            "title_full": "Le renouveau des études séleucides", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3495"
         }, 
         {
-            "title_full": "Laurianne Martinez-S\u00e8ve", 
+            "title_full": "Laurianne Martinez-Sève", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1370"
         }, 
         {
-            "title_full": "(Re)penser l\u2019Empire romain. Le d\u00e9fi de la comparaison historique", 
+            "title_full": "(Re)penser l’Empire romain. Le défi de la comparaison historique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3496"
         }, 
         {
-            "title_full": "Fr\u00e9d\u00e9ric Hurlet", 
+            "title_full": "Frédéric Hurlet", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1371"
         }, 
         {
-            "title_full": "Empire romain et hell\u00e9nisme : bilan historiographique", 
+            "title_full": "Empire romain et hellénisme : bilan historiographique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3497"
         }, 
         {
-            "title_full": "Christine Ho\u00ebt-Van Cauwenberghe", 
+            "title_full": "Christine Hoët-Van Cauwenberghe", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1372"
         }, 
         {
-            "title_full": "Conclusions. Les empires antiques et l\u2019\u00e9criture de l\u2019histoire", 
+            "title_full": "Conclusions. Les empires antiques et l’écriture de l’histoire", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3498"
         }, 
         {
@@ -960,11 +960,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1373"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s-Abstracts", 
+            "title_full": "Résumés-Abstracts", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_5_1_3499"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b06, 2011. Diodore d\u2019Agyrion et l\u2019histoire de la Sicile", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°6, 2011. Diodore d’Agyrion et l’histoire de la Sicile", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2011_sup_6_1"
         }, 
         {
@@ -984,7 +984,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1374"
         }, 
         {
-            "title_full": "Sicile mythique, Sicile historique : la place de la Sicile dans l\u2019histoire universelle de Diodore", 
+            "title_full": "Sicile mythique, Sicile historique : la place de la Sicile dans l’histoire universelle de Diodore", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3566"
         }, 
         {
@@ -996,11 +996,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3567"
         }, 
         {
-            "title_full": "Diodore de Sicile t\u00e9moin du Ve si\u00e8cle av. J.-C. : un \u00e2ge d\u2019or pour la Sicile ?", 
+            "title_full": "Diodore de Sicile témoin du Ve siècle av. J.-C. : un âge d’or pour la Sicile ?", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3569"
         }, 
         {
-            "title_full": "G\u00e9rer la haine, fabriquer l\u2019ennemi. Grecs et Carthaginois en Sicile entre les Ve et IVe si\u00e8cles av. J.-C", 
+            "title_full": "Gérer la haine, fabriquer l’ennemi. Grecs et Carthaginois en Sicile entre les Ve et IVe siècles av. J.-C", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3570"
         }, 
         {
@@ -1008,7 +1008,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1376"
         }, 
         {
-            "title_full": "Le t\u00e9moignage de Diodore de Sicile sur deux cit\u00e9s \u00e9lymes : S\u00e9geste et \u00c9ryx (VIe et Ve si\u00e8cles av. J.-C.)", 
+            "title_full": "Le témoignage de Diodore de Sicile sur deux cités élymes : Ségeste et Éryx (VIe et Ve siècles av. J.-C.)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3571"
         }, 
         {
@@ -1016,15 +1016,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1377"
         }, 
         {
-            "title_full": "Diodore de Sicile et les Sik\u00e8les : Histoire et/ou m\u00e9moire d\u2019un \u00ab ethnos \u00bb et de son h\u00e9ros Douk\u00e9tios", 
+            "title_full": "Diodore de Sicile et les Sikèles : Histoire et/ou mémoire d’un « ethnos » et de son héros Doukétios", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3572"
         }, 
         {
-            "title_full": "Sandra P\u00e9r\u00e9-Nogu\u00e8s", 
+            "title_full": "Sandra Péré-Noguès", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_419"
         }, 
         {
-            "title_full": "Diodore et l\u2019histoire de la Sicile r\u00e9publicaine", 
+            "title_full": "Diodore et l’histoire de la Sicile républicaine", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3573"
         }, 
         {
@@ -1032,11 +1032,11 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_963"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s-Abstracts", 
+            "title_full": "Résumés-Abstracts", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2011_sup_6_1_3574"
         }, 
         {
-            "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ment n\u00b07, 2012. L\u2019histoire de l\u2019alimentation dans l\u2019Antiquit\u00e9. Bilan historiographique", 
+            "title_full": "Dialogues d'histoire ancienne. Supplément n°7, 2012. L’histoire de l’alimentation dans l’Antiquité. Bilan historiographique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2012_sup_7_1"
         }, 
         {
@@ -1056,15 +1056,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1378"
         }, 
         {
-            "title_full": "L\u2019alimentation au Proche-Orient ancien : les sources et leur exploitation", 
+            "title_full": "L’alimentation au Proche-Orient ancien : les sources et leur exploitation", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3528"
         }, 
         {
-            "title_full": "C\u00e9cile Michel", 
+            "title_full": "Cécile Michel", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1379"
         }, 
         {
-            "title_full": "Manger en \u00c9gypte : multiples t\u00e9moins", 
+            "title_full": "Manger en Égypte : multiples témoins", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3529"
         }, 
         {
@@ -1072,7 +1072,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1380"
         }, 
         {
-            "title_full": "Les banquets dans les cit\u00e9s grecques : bilan historiographique", 
+            "title_full": "Les banquets dans les cités grecques : bilan historiographique", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3530"
         }, 
         {
@@ -1080,7 +1080,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1381"
         }, 
         {
-            "title_full": "Les techniques vinicoles grecques, des vendanges aux Anthest\u00e9ries : nouvelles perspectives", 
+            "title_full": "Les techniques vinicoles grecques, des vendanges aux Anthestéries : nouvelles perspectives", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3531"
         }, 
         {
@@ -1092,15 +1092,15 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3532"
         }, 
         {
-            "title_full": "Konrad V\u00f6ssing", 
+            "title_full": "Konrad Vössing", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1383"
         }, 
         {
-            "title_full": "Alimentation et soci\u00e9t\u00e9 dans la Rome classique : bilan historiographique (IIe si\u00e8cle av. J.-C. - IIe si\u00e8cle apr. J.-C.)", 
+            "title_full": "Alimentation et société dans la Rome classique : bilan historiographique (IIe siècle av. J.-C. - IIe siècle apr. J.-C.)", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3533"
         }, 
         {
-            "title_full": "D\u2019Apicius \u00e0 la table des rois \u00ab barbares \u00bb", 
+            "title_full": "D’Apicius à la table des rois « barbares »", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3534"
         }, 
         {
@@ -1108,7 +1108,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_dha_1384"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s-Abstracts", 
+            "title_full": "Résumés-Abstracts", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/dha_2108-1433_2012_sup_7_1_3535"
         }, 
         {
@@ -1372,7 +1372,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/dha_2108-1433_2010_sup_4_1"
         }
     ], 
-    "title": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+    "title": "Dialogues d'histoire ancienne. Suppléments", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

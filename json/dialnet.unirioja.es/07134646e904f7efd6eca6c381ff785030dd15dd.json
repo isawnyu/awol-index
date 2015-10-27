@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ArqueoUCA: Revista Digital Cient\u00edfica Independiente de Arqueolog\u00eda. ISSN: 2253-6434.", 
+    "description": "ArqueoUCA: Revista Digital Científica Independiente de Arqueología. ISSN: 2253-6434.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "ArqueoUCA: Revista Digital Cient\u00edfica Independiente de Arqueolog\u00eda", 
+        "title_full": "ArqueoUCA: Revista Digital Científica Independiente de Arqueología", 
         "url": "http://dialnet.unirioja.es/servlet/revista?codigo=17993"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3954986426019164957", 
             "resource_date": "2012-05-20T07:33:09.312-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.430412"
+            "when": "2015-10-27T18:41:14.159205"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-arqueouca-revista.html", 
             "resource_date": "2012-05-20T07:33:09.312-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.430430"
+            "when": "2015-10-27T18:41:14.159222"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3954986426019164957", 
             "resource_date": "2012-05-20T07:33:09.312-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.433651"
+            "when": "2015-10-27T18:41:14.162529"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-arqueouca-revista.html", 
             "resource_date": "2012-05-20T07:33:09.312-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.433667"
+            "when": "2015-10-27T18:41:14.162543"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:52.435243"
+            "when": "2015-10-27T18:41:14.164459"
         }
     ], 
     "publishers": [], 
@@ -149,11 +149,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "ArqueoUCA: Revista Digital Cient\u00edfica Independiente de Arqueolog\u00eda", 
+            "title_full": "ArqueoUCA: Revista Digital Científica Independiente de Arqueología", 
             "url": "http://dialnet.unirioja.es/servlet/revista?codigo=17993"
         }
     ], 
-    "title": "ArqueoUCA: Revista Digital Cient\u00edfica Independiente de Arqueolog\u00eda", 
+    "title": "ArqueoUCA: Revista Digital Científica Independiente de Arqueología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

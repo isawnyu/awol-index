@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 18 March 2012, updated 26 December 2014]. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu Yay\u0131nlar\u0131. ISSN: 1300-5626.", 
+    "description": "[First posted in AWOL 18 March 2012, updated 26 December 2014]. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları. ISSN: 1300-5626.", 
     "domain": "www.kulturvarliklari.gov.tr", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-900804193098972991", 
             "resource_date": "2014-12-26T17:25:32.328-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.212169"
+            "when": "2015-10-27T18:49:10.889009"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-muze-calsmalar-ve.html", 
             "resource_date": "2014-12-26T17:25:32.328-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.212189"
+            "when": "2015-10-27T18:49:10.889026"
         }
     ], 
     "publishers": [], 
@@ -84,95 +84,95 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "1. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1990]", 
+            "title_full": "1. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1990]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/01.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "2. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1991]", 
+            "title_full": "2. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1991]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/02.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "3. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1992]", 
+            "title_full": "3. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1992]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/03.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "4. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1993]", 
+            "title_full": "4. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1993]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/04.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "5. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1994]", 
+            "title_full": "5. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1994]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/05.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "6. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1995]", 
+            "title_full": "6. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1995]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/06.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "7. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1996]", 
+            "title_full": "7. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1996]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/07.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "8. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1997]", 
+            "title_full": "8. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1997]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/08.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "9. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1998]", 
+            "title_full": "9. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1998]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/09.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "10. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [1999]", 
+            "title_full": "10. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [1999]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/10.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "11. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2000]", 
+            "title_full": "11. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2000]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/11.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "12. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2001]", 
+            "title_full": "12. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2001]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/12.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "13. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2002]", 
+            "title_full": "13. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2002]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/13.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "14. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2004]", 
+            "title_full": "14. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2004]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/14.muze.kurtarma.pdf"
         }, 
         {
-            "title_full": "15. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2006]", 
+            "title_full": "15. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2006]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/15_muze_kurtarma.pdf"
         }, 
         {
-            "title_full": "16. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2007]", 
+            "title_full": "16. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2007]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/16_muze_kurtarma.pdf"
         }, 
         {
-            "title_full": "17. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2008]", 
+            "title_full": "17. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2008]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/17_muze_kurtarma.pdf"
         }, 
         {
-            "title_full": "18. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2009]", 
+            "title_full": "18. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2009]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/18_muze_kurtarma.pdf"
         }, 
         {
-            "title_full": "19. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2010]", 
+            "title_full": "19. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2010]", 
             "url": "http://www.kulturvarliklari.gov.tr/sempozyum_pdf/muze_kurtarma/19_muze_kurtarma.pdf"
         }, 
         {
-            "title_full": "20. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2011]", 
+            "title_full": "20. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2011]", 
             "url": "http://www.kulturvarliklari.gov.tr/Eklenti/4350,20muzekurtarmapdf.pdf?0"
         }, 
         {
-            "title_full": "21. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2012]", 
+            "title_full": "21. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2012]", 
             "url": "http://www.kulturvarliklari.gov.tr/Eklenti/6111,muzecalis21.pdf?0"
         }, 
         {
-            "title_full": "22. M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu [2013]", 
+            "title_full": "22. Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu [2013]", 
             "url": "http://www.kulturvarliklari.gov.tr/Eklenti/31925,muzecalis22.pdf?0"
         }
     ], 
-    "title": "M\u00fcze \u00c7al\u0131\u015fmalar\u0131 ve Kurtarma Kaz\u0131lar\u0131 Sempozyumu Yay\u0131nlar\u0131", 
+    "title": "Müze Çalışmaları ve Kurtarma Kazıları Sempozyumu Yayınları", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

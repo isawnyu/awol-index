@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d'assyriologie et d'arch\u00e9ologie orientale", 
+        "title_full": "Revue d'assyriologie et d'archéologie orientale", 
         "url": "http://www.cairn.info/revue-d-assyriologie.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5662255434850687714", 
             "resource_date": "2014-01-17T16:25:46.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:10.355754"
+            "when": "2015-10-27T18:43:42.570250"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-dassyriologie.html", 
             "resource_date": "2014-01-17T16:25:46.576-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:10.355769"
+            "when": "2015-10-27T18:43:42.570262"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Consulter ce num\u00e9ro", 
+    "title": "Consulter ce numéro", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

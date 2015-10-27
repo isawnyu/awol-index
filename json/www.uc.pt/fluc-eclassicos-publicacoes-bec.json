@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5443909457073060928", 
             "resource_date": "2013-06-28T09:42:25.458-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:58.137433"
+            "when": "2015-10-27T18:43:29.891146"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/two-open-access-journals-from.html", 
             "resource_date": "2013-06-28T09:42:25.458-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:58.137445"
+            "when": "2015-10-27T18:43:29.891157"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Boletim de Estudos Cl\u00e1ssicos", 
+    "title": "Boletim de Estudos Clássicos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

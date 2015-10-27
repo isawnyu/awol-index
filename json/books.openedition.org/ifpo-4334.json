@@ -11,7 +11,7 @@
     "identifiers": {}, 
     "is_part_of": {
         "issn": "0768-2506", 
-        "title_full": "Biblioth\u00e8que arch\u00e9ologique et historique", 
+        "title_full": "Bibliothèque archéologique et historique", 
         "url": "http://books.openedition.org/ifpo/396"
     }, 
     "issuance": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.990428"
+            "when": "2015-10-27T18:45:06.950542"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.990439"
+            "when": "2015-10-27T18:45:06.950555"
         }
     ], 
     "publishers": [], 

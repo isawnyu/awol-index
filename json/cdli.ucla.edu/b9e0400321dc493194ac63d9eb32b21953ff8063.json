@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", Drehem \u2018fattener\u2019 (Ur III, AS9/xiii - \u0160S9/xii).", 
+    "description": ", Drehem ‘fattener’ (Ur III, AS9/xiii - ŠS9/xii).", 
     "domain": "cdli.ucla.edu", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8270568092611754191", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.340686"
+            "when": "2015-10-27T18:47:07.386654"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/mesopotamian-seals.html", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.340698"
+            "when": "2015-10-27T18:47:07.386665"
         }
     ], 
     "publishers": [], 

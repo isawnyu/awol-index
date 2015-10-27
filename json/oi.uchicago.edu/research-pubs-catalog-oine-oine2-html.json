@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-673709284168022240", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.740939"
+            "when": "2015-10-27T18:45:08.916346"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.740956"
+            "when": "2015-10-27T18:45:08.916361"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-673709284168022240", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.743050"
+            "when": "2015-10-27T18:45:08.918661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.743062"
+            "when": "2015-10-27T18:45:08.918674"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:28.770323"
+            "when": "2015-10-27T18:45:08.944930"
         }
     ], 
     "publishers": [], 
@@ -167,7 +167,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip82.html"
         }, 
         {
-            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954", 
+            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo Hölscher. Originally published in 1954", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip66.html"
         }, 
         {
@@ -179,11 +179,11 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip64.html"
         }, 
         {
-            "title_full": "OIP 54. The Mortuary Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume 3. By Uvo H\u00f6lscher. Originally published in 1941", 
+            "title_full": "OIP 54. The Mortuary Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume 3. By Uvo Hölscher. Originally published in 1941", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip54.html"
         }, 
         {
-            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo H\u00f6lscher. Originally published in 1939", 
+            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo Hölscher. Originally published in 1939", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip41.html"
         }
     ], 

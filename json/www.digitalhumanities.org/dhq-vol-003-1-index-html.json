@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8424131844742832491", 
             "resource_date": "2009-02-27T13:19:38.477-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.616942"
+            "when": "2015-10-27T18:47:14.132201"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/02/transforming-classical-studies-through.html", 
             "resource_date": "2009-02-27T13:19:38.477-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.616959"
+            "when": "2015-10-27T18:47:14.132216"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8424131844742832491", 
             "resource_date": "2009-02-27T13:19:38.477-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.618673"
+            "when": "2015-10-27T18:47:14.133913"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/02/transforming-classical-studies-through.html", 
             "resource_date": "2009-02-27T13:19:38.477-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.618685"
+            "when": "2015-10-27T18:47:14.133926"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.645241"
+            "when": "2015-10-27T18:47:14.162846"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", A. M\u0105czy\u0144ska, Studies in African Archaeology, vol. 12, Pozna\u0144, 2013. This monograph is based on my doctoral dissertation written under the supervision of professor Lech Krzy\u017caniak and defended in the fall of 2004. Although many people encouraged me to publish the dissertation and the Council of the Faculty of History at Adam Mickiewicz University in Pozna\u0144, Poland, issued a positive opinion on the matter, I did not manage to have my thesis printed. Some of the issues addressed there were presented at conferences and published as research papers. In May 2011 I received a grant to finance a 3-year project entitled The Nile Delta as a centre of cultural interactions between Upper Egypt and South Levant in 4th millennium B. C. The grant was part of the Parent Bridge program financed by the Foundation for Polish Science, was aimed at providing assistance to young parents-researchers returning to research work after a parenting break. Publishing my doctoral dissertation was originally one of the project tasks. However, I well realized that archeological evidence and its interpretation had changed (sometimes significantly) after 2004. Likewise, my own views and knowledge had evolved during those years. It was thus only natural to update the dissertation and to revise my views presented back in 2004. As a result, this monograph is not merely an English translation of the dissertation defended nearly 10 years ago, but also addresses new discoveries from the Nile Delta and Southern Levant. In addition, it presents my current views on the interactions between the Delta, Upper Egypt and Canaan, reflecting the last two years of intensive research.", 
+    "description": ", A. Mączyńska, Studies in African Archaeology, vol. 12, Poznań, 2013. This monograph is based on my doctoral dissertation written under the supervision of professor Lech Krzyżaniak and defended in the fall of 2004. Although many people encouraged me to publish the dissertation and the Council of the Faculty of History at Adam Mickiewicz University in Poznań, Poland, issued a positive opinion on the matter, I did not manage to have my thesis printed. Some of the issues addressed there were presented at conferences and published as research papers. In May 2011 I received a grant to finance a 3-year project entitled The Nile Delta as a centre of cultural interactions between Upper Egypt and South Levant in 4th millennium B. C. The grant was part of the Parent Bridge program financed by the Foundation for Polish Science, was aimed at providing assistance to young parents-researchers returning to research work after a parenting break. Publishing my doctoral dissertation was originally one of the project tasks. However, I well realized that archeological evidence and its interpretation had changed (sometimes significantly) after 2004. Likewise, my own views and knowledge had evolved during those years. It was thus only natural to update the dissertation and to revise my views presented back in 2004. As a result, this monograph is not merely an English translation of the dissertation defended nearly 10 years ago, but also addresses new discoveries from the Nile Delta and Southern Levant. In addition, it presents my current views on the interactions between the Delta, Upper Egypt and Canaan, reflecting the last two years of intensive research.", 
     "domain": "www.muzarp.poznan.pl", 
     "editors": [], 
     "end_date": null, 
@@ -76,13 +76,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6813619074738987340", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:34.273992"
+            "when": "2015-10-27T18:45:15.054306"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/poznan-archaeological-museum-open.html", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:34.274005"
+            "when": "2015-10-27T18:45:15.054317"
         }, 
         {
             "fields": [
@@ -123,13 +123,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8661456166542715157", 
             "resource_date": "2014-05-09T15:25:11.809-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:47.069899"
+            "when": "2015-10-27T18:48:42.228583"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/the-nile-delta-as-centre-of-cultural.html", 
             "resource_date": "2014-05-09T15:25:11.809-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:47.069913"
+            "when": "2015-10-27T18:48:42.228600"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:47.078748"
+            "when": "2015-10-27T18:48:42.239660"
         }
     ], 
     "publishers": [], 

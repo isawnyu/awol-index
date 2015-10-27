@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin arch\u00e9ologique du Comit\u00e9 des travaux historiques et scientifiques. See the full.", 
+    "description": "Bulletin archéologique du Comité des travaux historiques et scientifiques. See the full.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin arch\u00e9ologique du Comit\u00e9 des travaux historiques et scientifiques", 
+        "title_full": "Bulletin archéologique du Comité des travaux historiques et scientifiques", 
         "url": "http://gallica.bnf.fr/ark:/12148/cb327170958/date.r=.langEN"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1796108612503840098", 
             "resource_date": "2014-02-02T15:59:08.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.593648"
+            "when": "2015-10-27T18:38:03.513585"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-bulletin.html", 
             "resource_date": "2014-02-02T15:59:08.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.593666"
+            "when": "2015-10-27T18:38:03.513604"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1796108612503840098", 
             "resource_date": "2014-02-02T15:59:08.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.595892"
+            "when": "2015-10-27T18:38:03.516545"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-bulletin.html", 
             "resource_date": "2014-02-02T15:59:08.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.595904"
+            "when": "2015-10-27T18:38:03.516558"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:58.597292"
+            "when": "2015-10-27T18:38:03.518429"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin arch\u00e9ologique du Comit\u00e9 des travaux historiques et scientifiques", 
+            "title_full": "Bulletin archéologique du Comité des travaux historiques et scientifiques", 
             "url": "http://gallica.bnf.fr/ark:/12148/cb327170958/date.r=.langEN"
         }
     ], 
-    "title": "Bulletin arch\u00e9ologique du Comit\u00e9 des travaux historiques et scientifiques", 
+    "title": "Bulletin archéologique du Comité des travaux historiques et scientifiques", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

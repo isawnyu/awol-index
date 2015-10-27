@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6906303596312787828", 
             "resource_date": "2015-04-24T19:14:10.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.368218"
+            "when": "2015-10-27T18:45:18.466354"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/maps-of-ottoman-empire.html", 
             "resource_date": "2015-04-24T19:14:10.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.368235"
+            "when": "2015-10-27T18:45:18.466371"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6906303596312787828", 
             "resource_date": "2015-04-24T19:14:10.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.372589"
+            "when": "2015-10-27T18:45:18.471075"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/maps-of-ottoman-empire.html", 
             "resource_date": "2015-04-24T19:14:10.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.372603"
+            "when": "2015-10-27T18:45:18.471090"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:37.419983"
+            "when": "2015-10-27T18:45:18.522501"
         }
     ], 
     "publishers": [], 

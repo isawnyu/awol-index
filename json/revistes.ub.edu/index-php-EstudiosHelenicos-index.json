@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bolet\u00edn del Instituto de Estudios Hel\u00e9nicos. ISSN: 0210-4032El Bolet\u00edn del Instituto de Estudios Hel\u00e9nicos (1967-1976) aparegu\u00e9 per primer cop l\u2019any 1967 a iniciativa del catedr\u00e0tic de grec Doctor Josep Alsina, i amb el suport de les autoritats universit\u00e0ries d'aquell moment, com a publicaci\u00f3 acad\u00e8mica especialitzada, per tal de contribuir a la difusi\u00f3 dels estudis sobre el m\u00f3n grec que es feien a la Universitat de Barcelona i a Catalunya. La intenci\u00f3 de l\u2019Institut era que la publicaci\u00f3 fos anual, per\u00f2, finalment, tot i que de manera irregular, en van apar\u00e8ixer uns deu n\u00fameros fins al final de la s\u00e8rie, nou anys despr\u00e9s, el 1976.", 
+    "description": "Boletín del Instituto de Estudios Helénicos. ISSN: 0210-4032El Boletín del Instituto de Estudios Helénicos (1967-1976) aparegué per primer cop l’any 1967 a iniciativa del catedràtic de grec Doctor Josep Alsina, i amb el suport de les autoritats universitàries d'aquell moment, com a publicació acadèmica especialitzada, per tal de contribuir a la difusió dels estudis sobre el món grec que es feien a la Universitat de Barcelona i a Catalunya. La intenció de l’Institut era que la publicació fos anual, però, finalment, tot i que de manera irregular, en van aparèixer uns deu números fins al final de la sèrie, nou anys després, el 1976.", 
     "domain": "revistes.ub.edu", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Bolet\u00edn del Instituto de Estudios Hel\u00e9nicos", 
+        "title_full": "Boletín del Instituto de Estudios Helénicos", 
         "url": "http://revistes.ub.edu/index.php/EstudiosHelenicos/index"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7940792812155521552", 
             "resource_date": "2015-01-08T00:09:39.848-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:04.013784"
+            "when": "2015-10-27T18:46:51.243236"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/newly-open-access-journal.html", 
             "resource_date": "2015-01-08T00:09:39.848-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:04.013801"
+            "when": "2015-10-27T18:46:51.243260"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7940792812155521552", 
             "resource_date": "2015-01-08T00:09:39.848-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:04.037424"
+            "when": "2015-10-27T18:46:51.267974"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/newly-open-access-journal.html", 
             "resource_date": "2015-01-08T00:09:39.848-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:04.037440"
+            "when": "2015-10-27T18:46:51.267987"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:04.038958"
+            "when": "2015-10-27T18:46:51.269906"
         }
     ], 
     "publishers": [], 
@@ -150,11 +150,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bolet\u00edn del Instituto de Estudios Hel\u00e9nicos", 
+            "title_full": "Boletín del Instituto de Estudios Helénicos", 
             "url": "http://revistes.ub.edu/index.php/EstudiosHelenicos/index"
         }
     ], 
-    "title": "Bolet\u00edn del Instituto de Estudios Hel\u00e9nicos", 
+    "title": "Boletín del Instituto de Estudios Helénicos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

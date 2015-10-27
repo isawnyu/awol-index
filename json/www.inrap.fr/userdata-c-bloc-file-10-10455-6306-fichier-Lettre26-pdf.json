@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Lettre d'Information de l'Institut national de recherches arch\u00e9ologiques pr\u00e9ventives (INRAP)", 
+        "title_full": "Lettre d'Information de l'Institut national de recherches archéologiques préventives (INRAP)", 
         "url": "http://www.inrap.fr/archeologie-preventive/Actualites/p-14879-Lettres-d-information-2012-2013.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7513995674457277757", 
             "resource_date": "2013-03-14T10:56:48.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:11.432855"
+            "when": "2015-10-27T18:45:55.662292"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-journal-inrap-lettre.html", 
             "resource_date": "2013-03-14T10:56:48.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:11.432865"
+            "when": "2015-10-27T18:45:55.662305"
         }
     ], 
     "publishers": [], 

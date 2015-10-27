@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Buletinul Societ\u0103\u021bii Numismatice Rom\u00e2ne ISSN 1012-0890.", 
+    "description": "Buletinul Societății Numismatice Române ISSN 1012-0890.", 
     "domain": "dspace.bcucluj.ro", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1978657776489334110", 
             "resource_date": "2012-05-15T10:18:51.039-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.453286"
+            "when": "2015-10-27T18:38:13.871595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal.html", 
             "resource_date": "2012-05-15T10:18:51.039-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.453303"
+            "when": "2015-10-27T18:38:13.871611"
         }
     ], 
     "publishers": [], 
@@ -187,7 +187,7 @@
             "url": "http://dspace.bcucluj.ro/handle/123456789/13788"
         }
     ], 
-    "title": "Buletinul Societ\u0103\u021bii Numismatice Rom\u00e2ne", 
+    "title": "Buletinul Societății Numismatice Române", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "> -> \u00dcbersetzungen, la partition et une traduction comment\u00e9e de Enlil et Ninlil peut \u00eatre t\u00e9l\u00e9charg\u00e9e. Une moiti\u00e9 des traductions ant\u00e9rieures a \u00e9t\u00e9 actualis\u00e9e, l'autre moiti\u00e9 le sera au courant de l'\u00e9t\u00e9. A l'adresse <.", 
+    "description": "> -> Übersetzungen, la partition et une traduction commentée de Enlil et Ninlil peut être téléchargée. Une moitié des traductions antérieures a été actualisée, l'autre moitié le sera au courant de l'été. A l'adresse <.", 
     "domain": "www.arch.unibe.ch", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8761152632947049584", 
             "resource_date": "2015-06-09T10:47:58.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.141896"
+            "when": "2015-10-27T18:48:46.843394"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/new-sumerian-resources-from-pascal.html", 
             "resource_date": "2015-06-09T10:47:58.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.141912"
+            "when": "2015-10-27T18:48:46.843409"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8761152632947049584", 
             "resource_date": "2015-06-09T10:47:58.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.144105"
+            "when": "2015-10-27T18:48:46.845898"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/new-sumerian-resources-from-pascal.html", 
             "resource_date": "2015-06-09T10:47:58.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.144116"
+            "when": "2015-10-27T18:48:46.845912"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:51.145447"
+            "when": "2015-10-27T18:48:46.849394"
         }
     ], 
     "publishers": [], 

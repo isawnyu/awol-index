@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 10 May 2012, updated 3 December 2014]. Revue des Sciences Religieuses. La Revue des Sciences Religieuses est une publication scientifique, r\u00e9dig\u00e9e et publi\u00e9e par les enseignants-chercheurs de la Facult\u00e9 de th\u00e9ologie catholique de Strasbourg mais ouverte \u00e0 tous les chercheurs. La revue aborde tous les champs disciplinaires de la th\u00e9ologie, du droit canonique et des sciences religieuses: l\u2019ex\u00e9g\u00e8se, l\u2019histoire, la th\u00e9ologie fondamentale et dogmatique, la pastorale et la pratique, l\u2019\u00e9thique, la philosophie, les \u00e9tudes \u0153cum\u00e9niques. La revue propose chaque ann\u00e9e quatre num\u00e9ros, dont deux th\u00e9matiques, et comporte un nombre significatif de recensions. Les articles envoy\u00e9s \u00e0 la revue sont soumis \u00e0 un Comit\u00e9 de lecture.", 
+    "description": "[First posted in AWOL 10 May 2012, updated 3 December 2014]. Revue des Sciences Religieuses. La Revue des Sciences Religieuses est une publication scientifique, rédigée et publiée par les enseignants-chercheurs de la Faculté de théologie catholique de Strasbourg mais ouverte à tous les chercheurs. La revue aborde tous les champs disciplinaires de la théologie, du droit canonique et des sciences religieuses: l’exégèse, l’histoire, la théologie fondamentale et dogmatique, la pastorale et la pratique, l’éthique, la philosophie, les études œcuméniques. La revue propose chaque année quatre numéros, dont deux thématiques, et comporte un nombre significatif de recensions. Les articles envoyés à la revue sont soumis à un Comité de lecture.", 
     "domain": "rsr.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6437812859996638006", 
             "resource_date": "2014-12-03T12:43:23.086-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:04.225676"
+            "when": "2015-10-27T18:44:41.993560"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-des-sciences.html", 
             "resource_date": "2014-12-03T12:43:23.086-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:04.225693"
+            "when": "2015-10-27T18:44:41.993595"
         }
     ], 
     "publishers": [], 
@@ -90,7 +90,7 @@
             "url": "http://rsr.revues.org/285"
         }, 
         {
-            "title_full": "83/1 | 2009 . Hommes et femmes dans la Bible et la th\u00e9ologie", 
+            "title_full": "83/1 | 2009 . Hommes et femmes dans la Bible et la théologie", 
             "url": "http://rsr.revues.org/480"
         }, 
         {
@@ -98,7 +98,7 @@
             "url": "http://rsr.revues.org/284"
         }, 
         {
-            "title_full": "82/3 | 2008 . Torah et \u00e9thique", 
+            "title_full": "82/3 | 2008 . Torah et éthique", 
             "url": "http://rsr.revues.org/408"
         }, 
         {
@@ -106,7 +106,7 @@
             "url": "http://rsr.revues.org/787"
         }, 
         {
-            "title_full": "82/1 | 2008 . Questions d'\u00e9thique sociale", 
+            "title_full": "82/1 | 2008 . Questions d'éthique sociale", 
             "url": "http://rsr.revues.org/620"
         }, 
         {
@@ -114,7 +114,7 @@
             "url": "http://rsr.revues.org/518"
         }, 
         {
-            "title_full": "81/1 | 2007 . Fronti\u00e8res de l'\u00c9glise, fronti\u00e8res dans l'\u00c9glise La p\u00e9riode pal\u00e9ochr\u00e9tienne", 
+            "title_full": "81/1 | 2007 . Frontières de l'Église, frontières dans l'Église La période paléochrétienne", 
             "url": "http://rsr.revues.org/782"
         }, 
         {

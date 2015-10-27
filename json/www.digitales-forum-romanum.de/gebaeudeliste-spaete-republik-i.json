@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sp\u00e4te Republik IIum 100 v. Chr.", 
+    "description": "Späte Republik IIum 100 v. Chr.", 
     "domain": "www.digitales-forum-romanum.de", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6988470344593298833", 
             "resource_date": "2014-09-18T15:23:16.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.438783"
+            "when": "2015-10-27T18:45:20.729605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/digitales-forum-romanum.html", 
             "resource_date": "2014-09-18T15:23:16.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.438795"
+            "when": "2015-10-27T18:45:20.729617"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sp\u00e4te Republik I um 200 v.Chr", 
+    "title": "Späte Republik I um 200 v.Chr", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

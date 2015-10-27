@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "sind im Rahmen des Projekttutoriums \"Nubische Altert\u00fcmer im Netz\" (SS04 & WS04/05) an der Humboldt-Universit\u00e4t zu Berlin entstanden. Ziel war es, die von Prof. Steffen Wenig verwalteten antiken St\u00fccke zu digitalisieren und so zu pr\u00e4sentieren, dass sowohl Laien als auch Forscher mit der entstehenden Datenbank arbeiten k\u00f6nnen.", 
+    "description": "sind im Rahmen des Projekttutoriums \"Nubische Altertümer im Netz\" (SS04 & WS04/05) an der Humboldt-Universität zu Berlin entstanden. Ziel war es, die von Prof. Steffen Wenig verwalteten antiken Stücke zu digitalisieren und so zu präsentieren, dass sowohl Laien als auch Forscher mit der entstehenden Datenbank arbeiten können.", 
     "domain": "www2.hu-berlin.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Nubische Altert\u00fcmer im Netz", 
+        "title_full": "Nubische Altertümer im Netz", 
         "url": "http://www2.hu-berlin.de/aknoa/sammlung/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3031037845941738869", 
             "resource_date": "2015-03-26T11:27:12.927-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.504915"
+            "when": "2015-10-27T18:39:10.092010"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/nubische-altertumer-im-netz.html", 
             "resource_date": "2015-03-26T11:27:12.927-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.504927"
+            "when": "2015-10-27T18:39:10.092026"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Lehrbereichs \u00c4gyptologie und Arch\u00e4ologie Nordostafrikas des Instituts f\u00fcr Arch\u00e4ologie", 
+    "title": "Lehrbereichs Ägyptologie und Archäologie Nordostafrikas des Instituts für Archäologie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

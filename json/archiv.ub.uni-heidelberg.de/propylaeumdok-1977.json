@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Gertz, Jan Christian (Hrsg. ): Ort und Bedeutung: Beitr\u00e4ge zum Symposion \"Die Darstellung von Orten; von der Antike bis in die Moderne\" am 20. und 21. Juni 2008 in Heidelberg. Kamen 2010, pp. 69-92. Fuchs, Andreas (2003).", 
+    "description": "In: Gertz, Jan Christian (Hrsg. ): Ort und Bedeutung: Beiträge zum Symposion \"Die Darstellung von Orten; von der Antike bis in die Moderne\" am 20. und 21. Juni 2008 in Heidelberg. Kamen 2010, pp. 69-92. Fuchs, Andreas (2003).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.269086"
+            "when": "2015-10-27T18:46:19.961097"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.269107"
+            "when": "2015-10-27T18:46:19.961114"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Darstellung von R\u00e4umen und Orten in neuassyrischen K\u00f6nigsinschriften", 
+    "title": "Die Darstellung von Räumen und Orten in neuassyrischen Königsinschriften", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

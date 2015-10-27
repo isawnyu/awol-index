@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Corpus Agrimensorum Romanorum. Les volumes du Corpus Agrimensorum Romanorum sont en acc\u00e8s libre au format pdf, apr\u00e8s une barri\u00e8re mobile de deux ans pour les plus r\u00e9cents.", 
+    "description": "Corpus Agrimensorum Romanorum. Les volumes du Corpus Agrimensorum Romanorum sont en accès libre au format pdf, après une barrière mobile de deux ans pour les plus récents.", 
     "domain": "ista.univ-fcomte.fr", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3237646290619190500", 
             "resource_date": "2015-01-12T07:55:30.268-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.765037"
+            "when": "2015-10-27T18:40:16.683270"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-corpus.html", 
             "resource_date": "2015-01-12T07:55:30.268-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.765054"
+            "when": "2015-10-27T18:40:16.683286"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3237646290619190500", 
             "resource_date": "2015-01-12T07:55:30.268-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.766585"
+            "when": "2015-10-27T18:40:16.684877"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-corpus.html", 
             "resource_date": "2015-01-12T07:55:30.268-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.766597"
+            "when": "2015-10-27T18:40:16.684890"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:04.783115"
+            "when": "2015-10-27T18:40:16.702875"
         }
     ], 
     "publishers": [], 
@@ -149,11 +149,11 @@
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car"
         }, 
         {
-            "title_full": "Documents d'arpentage de l'Antiquit\u00e9 tardive", 
+            "title_full": "Documents d'arpentage de l'Antiquité tardive", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/29-doc-arpentage-antiqtardive"
         }, 
         {
-            "title_full": "Arpentage et administration publique \u00e0 la fin de l'Antiquit\u00e9", 
+            "title_full": "Arpentage et administration publique à la fin de l'Antiquité", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/420-arp_admpubl"
         }, 
         {
@@ -165,19 +165,19 @@
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/418-car-vi"
         }, 
         {
-            "title_full": "Isidore de S\u00e9ville. \u00c9tymologies, livre 15 : Les constructions et les terres", 
+            "title_full": "Isidore de Séville. Étymologies, livre 15 : Les constructions et les terres", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/732-isidsev-etymo15"
         }, 
         {
-            "title_full": "Corpus Agrimensorum Romanorum V. Hygin, L'\u0152uvre gromatique", 
+            "title_full": "Corpus Agrimensorum Romanorum V. Hygin, L'Œuvre gromatique", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/417-car-v"
         }, 
         {
-            "title_full": "Corpus Agrimensorum Romanorum IV. 2. Frontin, L'\u0152uvre gromatique", 
+            "title_full": "Corpus Agrimensorum Romanorum IV. 2. Frontin, L'Œuvre gromatique", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/416-car-iv_2"
         }, 
         {
-            "title_full": "Corpus Agrimensorum Romanorum IV. 1. Hygin, L'\u00e9tablissment des limites", 
+            "title_full": "Corpus Agrimensorum Romanorum IV. 1. Hygin, L'établissment des limites", 
             "url": "http://ista.univ-fcomte.fr/index.php/ed-src/gromatiques/car/415-car-iv_1"
         }, 
         {

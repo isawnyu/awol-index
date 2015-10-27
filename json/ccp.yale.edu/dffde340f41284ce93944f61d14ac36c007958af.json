@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Medical \u00bb.", 
+    "description": "Medical ».", 
     "domain": "ccp.yale.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4864541812229390279", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:11.830722"
+            "when": "2015-10-27T18:42:41.039170"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/cuneiform-commentaries-project.html", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:11.830734"
+            "when": "2015-10-27T18:42:41.039181"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Divination \u00bb Astrological. En\u016bma Anu Enlil Astrological. S\u00een ina t\u0101mart\u012b\u0161u Astrological Miscelanea Extispicy (B\u0101r\u00fbtu) Terrestrial omens (\u0160umma \u0100lu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain", 
+    "title": "Divination » Astrological. Enūma Anu Enlil Astrological. Sîn ina tāmartīšu Astrological Miscelanea Extispicy (Bārûtu) Terrestrial omens (Šumma Ālu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

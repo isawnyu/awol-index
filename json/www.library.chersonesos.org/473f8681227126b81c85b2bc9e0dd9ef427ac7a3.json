@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 (Proceedings of the Imperial Archaeological Commission).", 
+    "description": "Известия Императорской Археологической Комиссии (Proceedings of the Imperial Archaeological Commission).", 
     "domain": "www.library.chersonesos.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3418545545776171770", 
             "resource_date": "2011-03-10T16:16:54.363-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:22.782017"
+            "when": "2015-10-27T18:40:36.812133"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal_10.html", 
             "resource_date": "2011-03-10T16:16:54.363-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:22.782033"
+            "when": "2015-10-27T18:40:36.812150"
         }
     ], 
     "publishers": [], 
@@ -864,9 +864,9 @@
             "url": "http://www.library.chersonesos.org/getfile.php?tome_code=207&ext=djvu"
         }
     ], 
-    "title": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438", 
+    "title": "Известия Императорской Археологической Комиссии", 
     "title_alternates": [], 
-    "title_extended": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 (Proceedings of the Imperial Archaeological Commission)", 
+    "title_extended": "Известия Императорской Археологической Комиссии (Proceedings of the Imperial Archaeological Commission)", 
     "type": null, 
     "url": "http://www.library.chersonesos.org/showsection.php?section_code=2", 
     "url_alternates": [], 

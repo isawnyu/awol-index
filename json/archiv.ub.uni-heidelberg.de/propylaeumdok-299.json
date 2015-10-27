@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: (Bericht der) Gesellschaft zur F\u00f6rderung der Westf\u00e4lischen Wilhelms-Universit\u00e4t, M\u00fcnster (1988), pp. 24-27. Stupperich, Reinhard (1980).", 
+    "description": "In: (Bericht der) Gesellschaft zur Förderung der Westfälischen Wilhelms-Universität, Münster (1988), pp. 24-27. Stupperich, Reinhard (1980).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:41.681159"
+            "when": "2015-10-27T18:48:36.048466"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:41.681175"
+            "when": "2015-10-27T18:48:36.048482"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Erwerb der Antiken-Sammlung Peek f\u00fcr das Arch\u00e4ologische Museum der Westf\u00e4lischen Wilhelms-Universit\u00e4t", 
+    "title": "Erwerb der Antiken-Sammlung Peek für das Archäologische Museum der Westfälischen Wilhelms-Universität", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

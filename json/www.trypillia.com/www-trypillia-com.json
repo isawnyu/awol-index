@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8675148868093069195", 
             "resource_date": "2013-06-29T13:37:43.161-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:47.478516"
+            "when": "2015-10-27T18:48:42.682730"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/new-open-access-journal-trypillian.html", 
             "resource_date": "2013-06-29T13:37:43.161-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:47.478533"
+            "when": "2015-10-27T18:48:42.682746"
         }
     ], 
     "publishers": [], 
@@ -215,11 +215,11 @@
             "url": "http://www.trypillia.com/index.php?option=com_content&view=category&id=5&Itemid=13"
         }, 
         {
-            "title_full": "Volume - \u0406", 
+            "title_full": "Volume - І", 
             "url": "http://www.trypillia.com/index.php?option=com_content&view=article&id=11&Itemid=17"
         }, 
         {
-            "title_full": "Volume - \u0406\u0406", 
+            "title_full": "Volume - ІІ", 
             "url": "http://www.trypillia.com/index.php?option=com_content&view=article&id=14&Itemid=18"
         }
     ], 

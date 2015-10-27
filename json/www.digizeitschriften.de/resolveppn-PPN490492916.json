@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte Romanistische Abteilung.", 
+    "description": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte Romanistische Abteilung.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3272325571666783067", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.415957"
+            "when": "2015-10-27T18:40:20.611695"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/digizeitschriften.html", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.415973"
+            "when": "2015-10-27T18:40:20.611717"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Schipper, Bernd U. (Hrsg. ): \u00c4gyptologie als Wissenschaft. Adolf Erman (1854-1937) und in seiner Zeit. Berlin/New York 2006, pp. 340-370. Rebenich, Stefan (1999).", 
+    "description": "In: Schipper, Bernd U. (Hrsg. ): Ägyptologie als Wissenschaft. Adolf Erman (1854-1937) und in seiner Zeit. Berlin/New York 2006, pp. 340-370. Rebenich, Stefan (1999).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:59.873922"
+            "when": "2015-10-27T18:40:11.528918"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:59.873938"
+            "when": "2015-10-27T18:40:11.528935"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.397226"
+            "when": "2015-10-27T18:46:46.575580"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.397240"
+            "when": "2015-10-27T18:46:46.575596"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:00.353618"
+            "when": "2015-10-27T18:46:47.228025"
         }
     ], 
     "publishers": [], 

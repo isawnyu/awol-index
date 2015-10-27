@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8756509567869681957", 
             "resource_date": "2014-07-15T16:15:42.356-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.032509"
+            "when": "2015-10-27T18:48:46.713314"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/announcementcall-for-papers-classics.html", 
             "resource_date": "2014-07-15T16:15:42.356-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.032526"
+            "when": "2015-10-27T18:48:46.713329"
         }
     ], 
     "publishers": [], 
@@ -90,7 +90,7 @@
             "url": "http://www.theclassicslibrary.com/clj/CLJ%20Jan%2014.mobi"
         }, 
         {
-            "title_full": "next issue\u2019s theme", 
+            "title_full": "next issue’s theme", 
             "url": "http://www.theclassicslibrary.com/articles/#theme"
         }
     ], 

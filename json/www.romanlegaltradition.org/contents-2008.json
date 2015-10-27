@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "This volume contains contributions by Carlos Amun\u00e1tegui Perell\u00f3, Paul du Plessis, and Joshua C. Tate.", 
+    "description": "This volume contains contributions by Carlos Amunátegui Perelló, Paul du Plessis, and Joshua C. Tate.", 
     "domain": "www.romanlegaltradition.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4498109093321157383", 
             "resource_date": "2014-05-15T07:30:12.936-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.485512"
+            "when": "2015-10-27T18:41:54.182101"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-roman-legal.html", 
             "resource_date": "2014-05-15T07:30:12.936-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.485523"
+            "when": "2015-10-27T18:41:54.182113"
         }
     ], 
     "publishers": [], 

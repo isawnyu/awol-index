@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "R\u00e9sum\u00e9s d'arch\u00e9ologie suisse: \u00e9poque romaine ISSN: 1010-8459 Institut d'arch\u00e9ologie et des sciences de l'Antiquit\u00e9, Universit\u00e9 de Lausanne (\u00e9d. ); r\u00e9daction: Monique Hofstetter, Emmanuel Abetel; r\u00e9unis par Dieter Holstein. An. 1, 1981 - 28, 2008 (PDF 14591 KB)\ufeff\ufeffLes \u201eR\u00e9sum\u00e9s d\u2019arch\u00e9ologie suisse, Epoque romaine\" (RAS-ER) forment une s\u00e9rie de bibliographies annuelles avec de brefs r\u00e9sum\u00e9s des ouvrages de recherche portant sur l\u2019\u00e9poque romaine en Suisse, parus dans les ann\u00e9es 1981-2008. Ils sont li\u00e9s \u00e0 une s\u00e9rie semblable sur les p\u00e9riodes allant du Pal\u00e9olithique \u00e0 La T\u00e8ne (RAS-PL) pour les ann\u00e9es 1984-2010. Les objets ou sujets qui touchent \u00e0 des aspects aussi bien pr\u00e9historiques que romains figurent dans l\u2019une des deux s\u00e9ries, toutefois avec un renvoi \u00e0 l\u2019autre. L\u2019\u00e9dition des deux s\u00e9ries ainsi que de la version PDF a \u00e9t\u00e9 largement soutenue par l\u2019Acad\u00e9mie suisse des sciences humaines et sociales (ASSH). Le document PDF disponible en ligne depuis avril 2013 est bas\u00e9 sur les fascicules 1981 \u00e0 2008 imprim\u00e9s des RAS Epoque romaine, publi\u00e9s entre 1982 et 2013 par l\u2019Institut d\u2019arch\u00e9ologie et des sciences de l\u2019Antiquit\u00e9 de l\u2019Universit\u00e9 de Lausanne et par Arch\u00e9ologie Suisse (\u201eSoci\u00e9t\u00e9 suisse de pr\u00e9histoire et d\u2019arch\u00e9ologie\" jusqu\u2019en 2005). A l\u2019exception de quelques petites corrections r\u00e9dactionnelles, les r\u00e9sum\u00e9s corres-pondent aux textes de la version imprim\u00e9e. Le fait de pouvoir d\u00e9sormais travailler avec un seul document num\u00e9rique plut\u00f4t qu\u2019avec 29 tomes imprim\u00e9s pr\u00e9sente un avantage. De plus, les index g\u00e9ographique et th\u00e9matique regroup\u00e9s facilitent la recherche par sujet (dans la version imprim\u00e9e, les index n\u2019\u00e9taient cumul\u00e9s que tous les cinq ans).", 
+    "description": "Résumés d'archéologie suisse: époque romaine ISSN: 1010-8459 Institut d'archéologie et des sciences de l'Antiquité, Université de Lausanne (éd. ); rédaction: Monique Hofstetter, Emmanuel Abetel; réunis par Dieter Holstein. An. 1, 1981 - 28, 2008 (PDF 14591 KB)﻿﻿Les „Résumés d’archéologie suisse, Epoque romaine\" (RAS-ER) forment une série de bibliographies annuelles avec de brefs résumés des ouvrages de recherche portant sur l’époque romaine en Suisse, parus dans les années 1981-2008. Ils sont liés à une série semblable sur les périodes allant du Paléolithique à La Tène (RAS-PL) pour les années 1984-2010. Les objets ou sujets qui touchent à des aspects aussi bien préhistoriques que romains figurent dans l’une des deux séries, toutefois avec un renvoi à l’autre. L’édition des deux séries ainsi que de la version PDF a été largement soutenue par l’Académie suisse des sciences humaines et sociales (ASSH). Le document PDF disponible en ligne depuis avril 2013 est basé sur les fascicules 1981 à 2008 imprimés des RAS Epoque romaine, publiés entre 1982 et 2013 par l’Institut d’archéologie et des sciences de l’Antiquité de l’Université de Lausanne et par Archéologie Suisse („Société suisse de préhistoire et d’archéologie\" jusqu’en 2005). A l’exception de quelques petites corrections rédactionnelles, les résumés corres-pondent aux textes de la version imprimée. Le fait de pouvoir désormais travailler avec un seul document numérique plutôt qu’avec 29 tomes imprimés présente un avantage. De plus, les index géographique et thématique regroupés facilitent la recherche par sujet (dans la version imprimée, les index n’étaient cumulés que tous les cinq ans).", 
     "domain": "www.archaeologie-schweiz.ch", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "R\u00e9sum\u00e9s d'arch\u00e9ologie suisse: \u00e9poque romaine", 
+        "title_full": "Résumés d'archéologie suisse: époque romaine", 
         "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_EpRom/RAS_EpR.pdf"
     }, 
     "issuance": null, 
@@ -76,13 +76,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5464757210282307460", 
             "resource_date": "2015-02-07T17:19:19.751-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.172188"
+            "when": "2015-10-27T18:43:35.083047"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-resumes.html", 
             "resource_date": "2015-02-07T17:19:19.751-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.172204"
+            "when": "2015-10-27T18:43:35.083063"
         }, 
         {
             "fields": [
@@ -123,13 +123,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5464757210282307460", 
             "resource_date": "2015-02-07T17:19:19.751-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.173924"
+            "when": "2015-10-27T18:43:35.084970"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-resumes.html", 
             "resource_date": "2015-02-07T17:19:19.751-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.173935"
+            "when": "2015-10-27T18:43:35.084982"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.175642"
+            "when": "2015-10-27T18:43:35.086980"
         }, 
         {
             "fields": [
@@ -184,13 +184,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-705588355967316239", 
             "resource_date": "2015-02-07T17:25:15.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.782551"
+            "when": "2015-10-27T18:45:22.217633"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-resumes-zur.html", 
             "resource_date": "2015-02-07T17:25:15.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.782564"
+            "when": "2015-10-27T18:45:22.217649"
         }, 
         {
             "fields": [
@@ -206,7 +206,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:40.788032"
+            "when": "2015-10-27T18:45:22.221093"
         }
     ], 
     "publishers": [], 
@@ -216,7 +216,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "R\u00e9sum\u00e9s d'arch\u00e9ologie suisse: \u00e9poque romaine", 
+            "title_full": "Résumés d'archéologie suisse: époque romaine", 
             "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_EpRom/RAS_EpR.pdf"
         }, 
         {
@@ -224,9 +224,9 @@
             "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_P_LT/RAS_P-LT.pdf"
         }
     ], 
-    "title": "R\u00e9sum\u00e9s zur Arch\u00e4ologie der Schweiz : Pal\u00e4olithikum - Lat\u00e8nezei", 
+    "title": "Résumés zur Archäologie der Schweiz : Paläolithikum - Latènezei", 
     "title_alternates": [], 
-    "title_extended": "R\u00e9sum\u00e9s zur Arch\u00e4ologie der Schweiz : Pal\u00e4olithikum - Lat\u00e8nezeit", 
+    "title_extended": "Résumés zur Archäologie der Schweiz : Paläolithikum - Latènezeit", 
     "type": null, 
     "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_EpRom/RAS_EpR.pdf", 
     "url_alternates": [], 

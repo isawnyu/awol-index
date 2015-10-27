@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-108634535579200786", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.250211"
+            "when": "2015-10-27T18:37:08.039061"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/oriental-institute-excavations-in-amuq.html", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.250224"
+            "when": "2015-10-27T18:37:08.039081"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1322128242224781815", 
             "resource_date": "2012-01-24T15:10:37.597-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:19.402559"
+            "when": "2015-10-27T18:37:21.278580"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-01-24T15:10:37.597-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:19.402574"
+            "when": "2015-10-27T18:37:21.278595"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:19.406404"
+            "when": "2015-10-27T18:37:21.282553"
         }, 
         {
             "fields": [
@@ -172,13 +172,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1322128242224781815", 
             "resource_date": "2012-01-24T15:10:37.597-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:19.405481"
+            "when": "2015-10-27T18:37:21.281453"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-01-24T15:10:37.597-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:19.405495"
+            "when": "2015-10-27T18:37:21.281467"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:19.407897"
+            "when": "2015-10-27T18:37:21.284535"
         }
     ], 
     "publishers": [], 
@@ -202,11 +202,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal H\u00fcy\u00fck, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
+            "title_full": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal Hüyük, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip95.html"
         }
     ], 
-    "title": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal H\u00fcy\u00fck, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
+    "title": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal Hüyük, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

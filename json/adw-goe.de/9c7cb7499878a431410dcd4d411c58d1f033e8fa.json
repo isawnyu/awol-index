@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Die Datenbanken des Edfu-Projekts. Um die laufende Redaktionsarbeit an den Edfu-B\u00e4nden gezielter unterst\u00fctzen zu k\u00f6nnen, wurde bereits seit Mitte des Jahres 1999 verst\u00e4rkt daran gearbeitet, die umfangreichen Datenbest\u00e4nde der Zettelarchive des Edfu-Projekts in Datenbanken zusammenzufassen. Der eigens erstellte \"Edfu-Explorer\" vereint die urspr\u00fcngliche Formulardatenbank mit der Ortsnamenliste und der G\u00f6tterliste und erm\u00f6glicht den direkten Zugriff auf die den jeweiligen Datens\u00e4tzen zugeordneten Photos. Somit sind die wichtigsten technischen Hilfsmittel die Datenb\u00e4nke des Edfu-Projekts. Derzeit umfa\u00dft das Formular der B\u00e4nde Edfu V-VIII mehr als 10. 300 Datens\u00e4tze, die durch die Photokonkordanz (inklusive Zugriff auf ca. 15. 000 gescannte Photos), die Ortsnamenliste (ca. 1. 250 Datens\u00e4tze), die W\u00f6rterliste (ca. 4600 von 16. 000 Datens\u00e4tzen) und die G\u00f6tterliste (ca. 9. 500 Datens\u00e4tze) erg\u00e4nzt werden. Um die im Laufe der Jahre stark angewachsenen Materialien des Edfu-Projektes effizienter Nutzen zu k\u00f6nnen, wurde aufgrund der Erfahrungen, die mit der ersten Version des Edfu-Explorers gesammelt wurden, eine neue Version programmiert (Edfu-Explorer 2012), welche erstmals in der Lage ist, auf wirklich alle Materialien potenziell zuzugreifen. Dies beinhaltet nun auch einen programminternen Zugriff auf die W\u00f6rterliste des Projektes mit s\u00e4mtlichen Schreibungen. In einer zweiten Phase, die bereits in Testl\u00e4ufen gut arbeitet, wird die Datenbankoberfl\u00e4che an einen virtuellen Tempel gekoppelt, welcher die Fundstellen der Datenbankabfragen mit ihrer Position im Tempel anzeigt. Zudem zeigt der Edfu-Explorer sowohl die Chassinat-Schreibungen, als auch projektinterne Kollationierungen und Sekund\u00e4rliteratur an. Das Formular der B\u00e4nde Edfou VII und VIII ist in einer Online-Version des Edfu-Explorers einsehbar. Die ebenfalls bereits vorhandenen Vor\u00fcbersetzungen der B\u00e4nde VI und V sind bis auf weiteres direkt \u00fcber das Edfu-Projekt abzufragen.", 
+    "description": "Die Datenbanken des Edfu-Projekts. Um die laufende Redaktionsarbeit an den Edfu-Bänden gezielter unterstützen zu können, wurde bereits seit Mitte des Jahres 1999 verstärkt daran gearbeitet, die umfangreichen Datenbestände der Zettelarchive des Edfu-Projekts in Datenbanken zusammenzufassen. Der eigens erstellte \"Edfu-Explorer\" vereint die ursprüngliche Formulardatenbank mit der Ortsnamenliste und der Götterliste und ermöglicht den direkten Zugriff auf die den jeweiligen Datensätzen zugeordneten Photos. Somit sind die wichtigsten technischen Hilfsmittel die Datenbänke des Edfu-Projekts. Derzeit umfaßt das Formular der Bände Edfu V-VIII mehr als 10. 300 Datensätze, die durch die Photokonkordanz (inklusive Zugriff auf ca. 15. 000 gescannte Photos), die Ortsnamenliste (ca. 1. 250 Datensätze), die Wörterliste (ca. 4600 von 16. 000 Datensätzen) und die Götterliste (ca. 9. 500 Datensätze) ergänzt werden. Um die im Laufe der Jahre stark angewachsenen Materialien des Edfu-Projektes effizienter Nutzen zu können, wurde aufgrund der Erfahrungen, die mit der ersten Version des Edfu-Explorers gesammelt wurden, eine neue Version programmiert (Edfu-Explorer 2012), welche erstmals in der Lage ist, auf wirklich alle Materialien potenziell zuzugreifen. Dies beinhaltet nun auch einen programminternen Zugriff auf die Wörterliste des Projektes mit sämtlichen Schreibungen. In einer zweiten Phase, die bereits in Testläufen gut arbeitet, wird die Datenbankoberfläche an einen virtuellen Tempel gekoppelt, welcher die Fundstellen der Datenbankabfragen mit ihrer Position im Tempel anzeigt. Zudem zeigt der Edfu-Explorer sowohl die Chassinat-Schreibungen, als auch projektinterne Kollationierungen und Sekundärliteratur an. Das Formular der Bände Edfou VII und VIII ist in einer Online-Version des Edfu-Explorers einsehbar. Die ebenfalls bereits vorhandenen Vorübersetzungen der Bände VI und V sind bis auf weiteres direkt über das Edfu-Projekt abzufragen.", 
     "domain": "adw-goe.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8381650133141038059", 
             "resource_date": "2013-12-28T09:09:34.281-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.999125"
+            "when": "2015-10-27T18:47:12.404897"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/die-datenbanken-des-edfu-projekts.html", 
             "resource_date": "2013-12-28T09:09:34.281-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.999142"
+            "when": "2015-10-27T18:47:12.404912"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8381650133141038059", 
             "resource_date": "2013-12-28T09:09:34.281-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:24.005762"
+            "when": "2015-10-27T18:47:12.411634"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/die-datenbanken-des-edfu-projekts.html", 
             "resource_date": "2013-12-28T09:09:34.281-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:24.005776"
+            "when": "2015-10-27T18:47:12.411647"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:24.024736"
+            "when": "2015-10-27T18:47:12.425799"
         }
     ], 
     "publishers": [], 

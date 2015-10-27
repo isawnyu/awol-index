@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+        "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
         "url": "http://yod.revues.org/1747"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.306562"
+            "when": "2015-10-27T18:37:33.897259"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.306577"
+            "when": "2015-10-27T18:37:33.897272"
         }
     ], 
     "publishers": [], 
@@ -83,7 +83,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Jean-Jacques Glassner L\u2019\u00e9criture de l\u2019histoire de l\u2019Orient ancien [Texte int\u00e9gral] La m\u00e9thode comparative Writing the History of the Ancient Near East: The Comparative Method \u05db\u05ea\u05d9\u05d1\u05ea \u05d4\u05d4\u05e1\u05d8\u05d5\u05e8\u05d9\u05d4 \u05e9\u05dc \u05d4\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df \u05d1\u05e2\u05ea \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4 : \u05d4\u05d2\u05d9\u05e9\u05d4 \u05d4\u05d4\u05e9\u05d5\u05d5\u05d0\u05ea\u05d9\u05ea", 
+    "title": "Jean-Jacques Glassner L’écriture de l’histoire de l’Orient ancien [Texte intégral] La méthode comparative Writing the History of the Ancient Near East: The Comparative Method כתיבת ההסטוריה של המזרח התיכון בעת העתיקה : הגישה ההשוואתית", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

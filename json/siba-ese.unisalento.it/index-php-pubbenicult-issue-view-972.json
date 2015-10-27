@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 14 September 2009. Updated 1 October 2011]. Journals & Collections. [n. b. If you do not immediately see a link to a pdf, try clicking on the \"Contents, Abstracts, Full-Text documents\" link in the left-hand directory]. Gli Album del Centro di Studi Papirologici dell'Universit\u00e0 degli Studi di Lecce. Gli Album del Centro di Studi Papirologici espongono prevalentemente i risultati delle ricerche ed attivit\u00e0 svolte o variamente promosse dal Centro di Studi Papirologici dell'Universit\u00e0 di Lecce. Caratteristica fondamentale della Collana \u00e8 la presenza, accanto al testo, di un ricco corredo iconografico.", 
+    "description": "[First posted in AWOL 14 September 2009. Updated 1 October 2011]. Journals & Collections. [n. b. If you do not immediately see a link to a pdf, try clicking on the \"Contents, Abstracts, Full-Text documents\" link in the left-hand directory]. Gli Album del Centro di Studi Papirologici dell'Università degli Studi di Lecce. Gli Album del Centro di Studi Papirologici espongono prevalentemente i risultati delle ricerche ed attività svolte o variamente promosse dal Centro di Studi Papirologici dell'Università di Lecce. Caratteristica fondamentale della Collana è la presenza, accanto al testo, di un ricco corredo iconografico.", 
     "domain": "siba-ese.unisalento.it", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Pubblicazioni del Dipartimento di Beni Culturali dell'Universit\u00e0 di Lecce - Settore Storico-Archeologico", 
+        "title_full": "Pubblicazioni del Dipartimento di Beni Culturali dell'Università di Lecce - Settore Storico-Archeologico", 
         "url": "http://siba-ese.unisalento.it/index.php/pubbenicult"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1179484065408397169", 
             "resource_date": "2013-02-15T17:04:58.678-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:14.474789"
+            "when": "2015-10-27T18:37:15.928537"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-pubblicazioni-del.html", 
             "resource_date": "2013-02-15T17:04:58.678-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:14.474800"
+            "when": "2015-10-27T18:37:15.928548"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4185019258883098700", 
             "resource_date": "2013-10-22T19:28:20.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.526681"
+            "when": "2015-10-27T18:41:26.621832"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-publications-from.html", 
             "resource_date": "2013-10-22T19:28:20.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.526692"
+            "when": "2015-10-27T18:41:26.621846"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:03.571711"
+            "when": "2015-10-27T18:41:26.657571"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Studi di Antichit\u00e0 9", 
+    "title": "Studi di Antichità 9", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

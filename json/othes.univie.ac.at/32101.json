@@ -3,7 +3,7 @@
         "Tintel, Florian"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Taeuber, Hans", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Taeuber, Hans", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.716566"
+            "when": "2015-10-27T18:36:58.366673"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.716578"
+            "when": "2015-10-27T18:36:58.366685"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das Bild der mutterl\u00e4ndischen Griechen von der Magna Graecia", 
+    "title": "Das Bild der mutterländischen Griechen von der Magna Graecia", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2097673826403183442", 
             "resource_date": "2015-05-26T12:51:05.671-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.401658"
+            "when": "2015-10-27T18:38:19.500466"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-series-from-oriental-institute.html", 
             "resource_date": "2015-05-26T12:51:05.671-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.401674"
+            "when": "2015-10-27T18:38:19.500483"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2097673826403183442", 
             "resource_date": "2015-05-26T12:51:05.671-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.403529"
+            "when": "2015-10-27T18:38:19.502213"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-series-from-oriental-institute.html", 
             "resource_date": "2015-05-26T12:51:05.671-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.403542"
+            "when": "2015-10-27T18:38:19.502226"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:12.411500"
+            "when": "2015-10-27T18:38:19.512021"
         }
     ], 
     "publishers": [], 
@@ -153,7 +153,7 @@
             "url": "http://oi.uchicago.edu/research/publications/chds/chds-2-unpublished-bo-fragments-transliteration-i"
         }, 
         {
-            "title_full": "CHDS 1. Ankara Arkeoloji M\u00fczesinde bulanan Bogazk\u00f6y Tabletleri II - Bogazk\u00f6y Tablets in the Archaeological Museum of Ankara II. By Rukiye Akdogan and Oguz Soysal. 2011", 
+            "title_full": "CHDS 1. Ankara Arkeoloji Müzesinde bulanan Bogazköy Tabletleri II - Bogazköy Tablets in the Archaeological Museum of Ankara II. By Rukiye Akdogan and Oguz Soysal. 2011", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/chds/chds1.html"
         }, 
         {

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1017416136655500332", 
             "resource_date": "2011-08-09T18:34:05.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:00.244669"
+            "when": "2015-10-27T18:37:00.388456"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2011-08-09T18:34:05.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:00.244686"
+            "when": "2015-10-27T18:37:00.388472"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1017416136655500332", 
             "resource_date": "2011-08-09T18:34:05.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:00.246095"
+            "when": "2015-10-27T18:37:00.389958"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2011-08-09T18:34:05.981-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:00.246106"
+            "when": "2015-10-27T18:37:00.389969"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:00.251926"
+            "when": "2015-10-27T18:37:00.395085"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1366019329045596413", 
             "resource_date": "2010-02-02T09:14:59.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.070004"
+            "when": "2015-10-27T18:37:29.503336"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2010-02-02T09:14:59.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.070020"
+            "when": "2015-10-27T18:37:29.503353"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:27.076121"
+            "when": "2015-10-27T18:37:29.510531"
         }, 
         {
             "fields": [
@@ -233,13 +233,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1366019329045596413", 
             "resource_date": "2010-02-02T09:14:59.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.071686"
+            "when": "2015-10-27T18:37:29.505144"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2010-02-02T09:14:59.403-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.071698"
+            "when": "2015-10-27T18:37:29.505156"
         }, 
         {
             "fields": [
@@ -252,7 +252,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:27.078104"
+            "when": "2015-10-27T18:37:29.513487"
         }, 
         {
             "fields": [
@@ -293,13 +293,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2781006941181929099", 
             "resource_date": "2015-05-11T10:44:17.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:49.236981"
+            "when": "2015-10-27T18:38:57.709856"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2015-05-11T10:44:17.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:49.237030"
+            "when": "2015-10-27T18:38:57.709872"
         }, 
         {
             "fields": [
@@ -314,7 +314,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:49.245804"
+            "when": "2015-10-27T18:38:57.716872"
         }, 
         {
             "fields": [
@@ -355,13 +355,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2781006941181929099", 
             "resource_date": "2015-05-11T10:44:17.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:49.244059"
+            "when": "2015-10-27T18:38:57.715325"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2015-05-11T10:44:17.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:49.244077"
+            "when": "2015-10-27T18:38:57.715341"
         }, 
         {
             "fields": [
@@ -375,7 +375,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:49.249540"
+            "when": "2015-10-27T18:38:57.720013"
         }, 
         {
             "fields": [
@@ -416,13 +416,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3342662565592456590", 
             "resource_date": "2013-05-28T05:28:02.219-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:19.132484"
+            "when": "2015-10-27T18:40:32.651171"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2013-05-28T05:28:02.219-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:19.132499"
+            "when": "2015-10-27T18:40:32.651187"
         }, 
         {
             "fields": [
@@ -437,7 +437,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:19.139065"
+            "when": "2015-10-27T18:40:32.658839"
         }, 
         {
             "fields": [
@@ -478,13 +478,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3342662565592456590", 
             "resource_date": "2013-05-28T05:28:02.219-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:19.134183"
+            "when": "2015-10-27T18:40:32.653039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2013-05-28T05:28:02.219-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:19.134196"
+            "when": "2015-10-27T18:40:32.653052"
         }, 
         {
             "fields": [
@@ -499,7 +499,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:19.142618"
+            "when": "2015-10-27T18:40:32.662971"
         }, 
         {
             "fields": [
@@ -540,13 +540,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3369758668472116505", 
             "resource_date": "2013-05-28T05:41:34.707-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.994711"
+            "when": "2015-10-27T18:40:34.703247"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2013-05-28T05:41:34.707-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.994727"
+            "when": "2015-10-27T18:40:34.703272"
         }, 
         {
             "fields": [
@@ -561,7 +561,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:21.000492"
+            "when": "2015-10-27T18:40:34.709236"
         }, 
         {
             "fields": [
@@ -602,13 +602,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3369758668472116505", 
             "resource_date": "2013-05-28T05:41:34.707-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.996474"
+            "when": "2015-10-27T18:40:34.705222"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2013-05-28T05:41:34.707-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.996487"
+            "when": "2015-10-27T18:40:34.705236"
         }, 
         {
             "fields": [
@@ -623,7 +623,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:21.004411"
+            "when": "2015-10-27T18:40:34.713896"
         }, 
         {
             "fields": [
@@ -664,13 +664,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624523726531841247", 
             "resource_date": "2011-02-25T16:56:21.554-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:15.836030"
+            "when": "2015-10-27T18:46:00.233209"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2011-02-25T16:56:21.554-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:15.836046"
+            "when": "2015-10-27T18:46:00.233226"
         }, 
         {
             "fields": [
@@ -685,7 +685,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:15.843603"
+            "when": "2015-10-27T18:46:00.241686"
         }, 
         {
             "fields": [
@@ -726,13 +726,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624523726531841247", 
             "resource_date": "2011-02-25T16:56:21.554-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:15.837794"
+            "when": "2015-10-27T18:46:00.235128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/thesaurus-linguae-graecae-tlg-updates.html", 
             "resource_date": "2011-02-25T16:56:21.554-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:15.837805"
+            "when": "2015-10-27T18:46:00.235139"
         }, 
         {
             "fields": [
@@ -746,7 +746,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:15.851475"
+            "when": "2015-10-27T18:46:00.247076"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 18 May 2011. Updated 2 September 2011]. Archeologick\u00e9 rozhledy. ISSN: 0323-1267. Journal of reviewed articles, founded 1949, focused on the history of Man and his material culture, environmental changes or modern methods of archaeology, especially in the region of Central Europe, publishes brief original studies, contributions and discussions, reviews of Czech and foreign literature. The journal Archeologick\u00e9 Rozhledy is indexed or abstracted in ERIH, SCOPUS, EBSCO databases. Recent volumes:.", 
+    "description": "[First posted in AWOL 18 May 2011. Updated 2 September 2011]. Archeologické rozhledy. ISSN: 0323-1267. Journal of reviewed articles, founded 1949, focused on the history of Man and his material culture, environmental changes or modern methods of archaeology, especially in the region of Central Europe, publishes brief original studies, contributions and discussions, reviews of Czech and foreign literature. The journal Archeologické Rozhledy is indexed or abstracted in ERIH, SCOPUS, EBSCO databases. Recent volumes:.", 
     "domain": "kramerius.lib.cas.cz", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Archeologick\u00e9 rozhledy", 
+        "title_full": "Archeologické rozhledy", 
         "url": "http://kramerius.lib.cas.cz/kramerius/PShowPeriodical.do;jsessionid=7542B290FA2F7EBEDCDB93DF250C53B7?lang=en&id=2026&it=0"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9059302798959802673", 
             "resource_date": "2011-09-01T12:08:26.033-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:18.395475"
+            "when": "2015-10-27T18:49:16.417000"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-archeologicke.html", 
             "resource_date": "2011-09-01T12:08:26.033-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:18.395488"
+            "when": "2015-10-27T18:49:16.417013"
         }
     ], 
     "publishers": [], 

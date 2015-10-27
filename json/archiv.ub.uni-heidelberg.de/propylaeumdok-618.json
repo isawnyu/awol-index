@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Winner, M. (Hrsg. ): Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachla\u00dfheftes. Mainz 1998, pp. 431-441. Kunze, Max (1990).", 
+    "description": "In: Winner, M. (Hrsg. ): Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachlaßheftes. Mainz 1998, pp. 431-441. Kunze, Max (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:38.732492"
+            "when": "2015-10-27T18:48:32.881525"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:38.732508"
+            "when": "2015-10-27T18:48:32.881549"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachla\u00dfheftes", 
+    "title": "Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachlaßheftes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

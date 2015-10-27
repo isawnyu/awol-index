@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7688708016130384576", 
             "resource_date": "2015-01-14T07:29:57.083-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:43.902853"
+            "when": "2015-10-27T18:46:30.101943"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/online-corpus-of-ancient-sarcophagi.html", 
             "resource_date": "2015-01-14T07:29:57.083-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:43.902867"
+            "when": "2015-10-27T18:46:30.101954"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "J. Stroszeck, L\u00f6wen-Sarkophage. Die Sarkophage mit L\u00f6wenk\u00f6pfen, schreitenden L\u00f6wen und L\u00f6wen-Kampfgruppen, ASR 6, 1 (Berlin 1998)", 
+    "title": "J. Stroszeck, Löwen-Sarkophage. Die Sarkophage mit Löwenköpfen, schreitenden Löwen und Löwen-Kampfgruppen, ASR 6, 1 (Berlin 1998)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

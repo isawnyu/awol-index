@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c9tudes cr\u00e9toises", 
+        "title_full": "Études crétoises", 
         "url": "http://cefael.efa.gr/result.php?site_id=1&serie_id=EtCret"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7808621991801994138", 
             "resource_date": "2014-06-03T18:48:23.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.343223"
+            "when": "2015-10-27T18:46:36.253359"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series-etudes.html", 
             "resource_date": "2014-06-03T18:48:23.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.343234"
+            "when": "2015-10-27T18:46:36.253371"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "13 Recueil des inscriptions en Lin\u00e9aire A. 1. Tablettes \u00e9dit\u00e9es avant 1970. 1 , Godart, Louis and Olivier, Jean-Pierre , \u00c9cole Fran\u00e7aise d'Ath\u00e8nes, Ath\u00e8nes , 1976", 
+    "title": "13 Recueil des inscriptions en Linéaire A. 1. Tablettes éditées avant 1970. 1 , Godart, Louis and Olivier, Jean-Pierre , École Française d'Athènes, Athènes , 1976", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

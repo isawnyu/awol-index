@@ -11,7 +11,7 @@
     "identifiers": {}, 
     "is_part_of": {
         "issn": "2115-8266", 
-        "title_full": "Revue des \u00c9tudes Tardo-antiques Suppl\u00e9ment 1 (2013-2014)", 
+        "title_full": "Revue des Études Tardo-antiques Supplément 1 (2013-2014)", 
         "url": "http://www.revue-etudes-tardo-antiques.fr/ret-supplement-1-2013-2014/"
     }, 
     "issuance": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7234422806154155363", 
             "resource_date": "2015-02-13T11:56:49.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:52.005361"
+            "when": "2015-10-27T18:45:34.581806"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/reseaux-sociaux-et-contraintes-dans.html", 
             "resource_date": "2015-02-13T11:56:49.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:52.005379"
+            "when": "2015-10-27T18:45:34.581823"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "R\u00e9seaux sociaux et contraintes dans l\u2019Antiquit\u00e9 Tardive", 
+    "title": "Réseaux sociaux et contraintes dans l’Antiquité Tardive", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

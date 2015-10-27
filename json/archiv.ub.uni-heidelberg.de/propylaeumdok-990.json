@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Justel, Josu\u00e9-Javier and Vita, Juan-Pablo and Zamora, J. A. (Hrsgg. ): Las culturas del Pr\u00f3ximo Oriente Antiguo y su expansi\u00f3n mediterr\u00e1nea. Zaragoza 2008, pp. 21-34. Faist, Betina (2005).", 
+    "description": "In: Justel, Josué-Javier and Vita, Juan-Pablo and Zamora, J. A. (Hrsgg. ): Las culturas del Próximo Oriente Antiguo y su expansión mediterránea. Zaragoza 2008, pp. 21-34. Faist, Betina (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:33.949173"
+            "when": "2015-10-27T18:46:19.636572"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:33.949189"
+            "when": "2015-10-27T18:46:19.636587"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "La organizaci\u00f3n pol\u00edtica asiria", 
+    "title": "La organización política asiria", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u2588 1 (2012).", 
+    "description": "█ 1 (2012).", 
     "domain": "www.gilsonsociety.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1630212557986408107", 
             "resource_date": "2013-11-04T11:31:23.729-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.267930"
+            "when": "2015-10-27T18:37:56.175340"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/new-open-access-journal-studia.html", 
             "resource_date": "2013-11-04T11:31:23.729-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.267941"
+            "when": "2015-10-27T18:37:56.175351"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u2588 2 (2013)", 
+    "title": "█ 2 (2013)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

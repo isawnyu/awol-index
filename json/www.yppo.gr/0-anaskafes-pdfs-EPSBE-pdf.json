@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2992196781214550601", 
             "resource_date": "2014-03-22T09:37:32.460-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:59.251194"
+            "when": "2015-10-27T18:39:07.620152"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/archaeological-work-of-ephorias-on.html", 
             "resource_date": "2014-03-22T09:37:32.460-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:59.251206"
+            "when": "2015-10-27T18:39:07.620165"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "E\u03c6\u03bf\u03c1\u03b5\u03af\u03b1 \u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03a3\u03c0\u03b7\u03bb\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2", 
+    "title": "Eφορεία Παλαιοανθρωπολογίας Σπηλαιολογίας Βόρειας Ελλάδας", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

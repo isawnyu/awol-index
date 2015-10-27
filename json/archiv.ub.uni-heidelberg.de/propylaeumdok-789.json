@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Burtea, B. and Tropper, J. and Younansardaroud, H. (Hrsgg. ): tudia Semitica et Semitohamitica. Festschrift f\u00fcr Rainer Voigt anl\u00e4\u00dflich seines 60. Geburtstages am 17. Januar 2004. M\u00fcnster 2005, pp. 307-338. Quack, Joachim Friedrich (2003).", 
+    "description": "In: Burtea, B. and Tropper, J. and Younansardaroud, H. (Hrsgg. ): tudia Semitica et Semitohamitica. Festschrift für Rainer Voigt anläßlich seines 60. Geburtstages am 17. Januar 2004. Münster 2005, pp. 307-338. Quack, Joachim Friedrich (2003).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:59.653176"
+            "when": "2015-10-27T18:40:11.326728"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:59.653192"
+            "when": "2015-10-27T18:40:11.326744"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zu den vorarabischen semitischen Lehnw\u00f6rtern im Koptischen", 
+    "title": "Zu den vorarabischen semitischen Lehnwörtern im Koptischen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

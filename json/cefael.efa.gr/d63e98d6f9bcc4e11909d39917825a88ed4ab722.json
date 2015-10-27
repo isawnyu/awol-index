@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Biblioth\u00e8ques de l'Ecole fran\u00e7aise d'Ath\u00e8nes et de Rome - S\u00e9rie Ath\u00e8nes.", 
+    "description": "Bibliothèques de l'Ecole française d'Athènes et de Rome - Série Athènes.", 
     "domain": "cefael.efa.gr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Biblioth\u00e8ques de l'Ecole fran\u00e7aise d'Ath\u00e8nes et de Rome - S\u00e9rie Ath\u00e8nes", 
+        "title_full": "Bibliothèques de l'Ecole française d'Athènes et de Rome - Série Athènes", 
         "url": "http://cefael.efa.gr/result.php?site_id=1&serie_id=BefarA"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3841017814134135694", 
             "resource_date": "2014-06-03T18:44:58.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:50.076272"
+            "when": "2015-10-27T18:41:11.387796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series_2.html", 
             "resource_date": "2014-06-03T18:44:58.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:50.076285"
+            "when": "2015-10-27T18:41:11.387811"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "24 Au Mus\u00e9e de D\u00e9los. \u00c9tude sur la sculpture hell\u00e9nistique en ronde bosse d\u00e9couverte dans l?\u00eele. Marcad\u00e9, Jean , De Boccard, Paris , 1969", 
+    "title": "24 Au Musée de Délos. Étude sur la sculpture hellénistique en ronde bosse découverte dans l?île. Marcadé, Jean , De Boccard, Paris , 1969", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

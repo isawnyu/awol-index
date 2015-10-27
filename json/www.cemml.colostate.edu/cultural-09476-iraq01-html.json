@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Iraq: The Cradle of Civilization. The importance of Mesopotamia - the land between the rivers - is derived from the many \"fundamental firsts\" that gave rise to human civilization as well as the remarkable history and cultural and artistic legacy that have fascinated and inspired humanity for centuries. Given CENTCOM's continuing efforts to enforce General Order 1A and DOD's continuing efforts to adhere to the regulations of The 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, the Undersecretary of Defense Legacy Resource Management Program offers this Cultural Property Training Resource to CENTCOM personnel serving in Iraq. You can play a role in CENTCOM's effort to respect and protect historic sites and cultural property in Iraq by taking a moment to review: \u2022 major focus areas (\"The Top Ten Dos and Dont's\"); \u2022 the doctrine, theory and application of cultural property protection; \u2022 the timeline of Iraq's history and culture; and. \u2022 the laws, treaties and enforcement measures that apply within CENTCOM AOR.", 
+    "description": "Iraq: The Cradle of Civilization. The importance of Mesopotamia - the land between the rivers - is derived from the many \"fundamental firsts\" that gave rise to human civilization as well as the remarkable history and cultural and artistic legacy that have fascinated and inspired humanity for centuries. Given CENTCOM's continuing efforts to enforce General Order 1A and DOD's continuing efforts to adhere to the regulations of The 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, the Undersecretary of Defense Legacy Resource Management Program offers this Cultural Property Training Resource to CENTCOM personnel serving in Iraq. You can play a role in CENTCOM's effort to respect and protect historic sites and cultural property in Iraq by taking a moment to review: • major focus areas (\"The Top Ten Dos and Dont's\"); • the doctrine, theory and application of cultural property protection; • the timeline of Iraq's history and culture; and. • the laws, treaties and enforcement measures that apply within CENTCOM AOR.", 
     "domain": "www.cemml.colostate.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6731157219565888586", 
             "resource_date": "2012-06-19T21:36:21.600-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.621764"
+            "when": "2015-10-27T18:45:08.857242"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/centcoms-iraq-cradle-of-civilization.html", 
             "resource_date": "2012-06-19T21:36:21.600-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.621787"
+            "when": "2015-10-27T18:45:08.857267"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6731157219565888586", 
             "resource_date": "2012-06-19T21:36:21.600-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.626520"
+            "when": "2015-10-27T18:45:08.861802"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/centcoms-iraq-cradle-of-civilization.html", 
             "resource_date": "2012-06-19T21:36:21.600-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.626536"
+            "when": "2015-10-27T18:45:08.861816"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:28.627925"
+            "when": "2015-10-27T18:45:08.863735"
         }
     ], 
     "publishers": [], 

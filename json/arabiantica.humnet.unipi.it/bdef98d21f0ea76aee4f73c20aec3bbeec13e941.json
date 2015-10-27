@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8998770719907843066", 
             "resource_date": "2013-12-20T16:27:13.282-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:12.941458"
+            "when": "2015-10-27T18:49:10.735044"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/new-open-access-series-quaderni-imto.html", 
             "resource_date": "2013-12-20T16:27:13.282-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:12.941486"
+            "when": "2015-10-27T18:49:10.735061"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8998770719907843066", 
             "resource_date": "2013-12-20T16:27:13.282-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:12.948078"
+            "when": "2015-10-27T18:49:10.738954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/new-open-access-series-quaderni-imto.html", 
             "resource_date": "2013-12-20T16:27:13.282-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:12.948095"
+            "when": "2015-10-27T18:49:10.738968"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:12.967460"
+            "when": "2015-10-27T18:49:10.751221"
         }
     ], 
     "publishers": [], 

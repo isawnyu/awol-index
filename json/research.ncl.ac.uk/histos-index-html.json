@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2229463250581552951", 
             "resource_date": "2015-02-10T19:22:49.538-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:20.864691"
+            "when": "2015-10-27T18:38:28.717861"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/histos-announcement.html", 
             "resource_date": "2015-02-10T19:22:49.538-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:20.864708"
+            "when": "2015-10-27T18:38:28.717889"
         }
     ], 
     "publishers": [], 
@@ -148,7 +148,7 @@
             "url": "http://research.ncl.ac.uk/histos/documents/2014A10TheinCapitolineJupiter.pdf"
         }, 
         {
-            "title_full": "Alessandro e Clito (Suda \u03bc 720 + \u03bf\u03b9 178 Adler)", 
+            "title_full": "Alessandro e Clito (Suda μ 720 + οι 178 Adler)", 
             "url": "http://research.ncl.ac.uk/histos/documents/2014A11FavuzziAlessandroeClito.pdf"
         }, 
         {

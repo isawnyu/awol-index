@@ -74,13 +74,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:50.962665"
+            "when": "2015-10-27T18:45:33.416899"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:50.962681"
+            "when": "2015-10-27T18:45:33.416922"
         }, 
         {
             "fields": [
@@ -121,13 +121,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7215912162337007735", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:50.965649"
+            "when": "2015-10-27T18:45:33.421401"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/new-ancient-world-content-in-jstor.html", 
             "resource_date": "2009-01-29T18:11:39.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:50.965661"
+            "when": "2015-10-27T18:45:33.421417"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:50.978967"
+            "when": "2015-10-27T18:45:33.436641"
         }
     ], 
     "publishers": [], 

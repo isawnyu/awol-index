@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gyula Priskin. To reference this article we suggest: Priskin, G. 2014. \u2018A map of Egypt reconstructed from the description of the country at Edfu\u2019. Birmingham Egyptology Journal 2: 23-41. Volume 1: 2013.", 
+    "description": "Gyula Priskin. To reference this article we suggest: Priskin, G. 2014. ‘A map of Egypt reconstructed from the description of the country at Edfu’. Birmingham Egyptology Journal 2: 23-41. Volume 1: 2013.", 
     "domain": "birminghamegyptology.co.uk", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.784931"
+            "when": "2015-10-27T18:49:20.351810"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.784943"
+            "when": "2015-10-27T18:49:20.351829"
         }
     ], 
     "publishers": [], 

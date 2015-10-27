@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 130 (1992), pp. 75-78. Quack, Joachim Friedrich (1993).", 
+    "description": "In: Göttinger Miszellen, 130 (1992), pp. 75-78. Quack, Joachim Friedrich (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:58.938924"
+            "when": "2015-10-27T18:40:10.582052"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:58.938941"
+            "when": "2015-10-27T18:40:10.582068"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Eine Erw\u00e4hnung des Reiches von Aleppo in den \u00c4chtungstexten?", 
+    "title": "Eine Erwähnung des Reiches von Aleppo in den Ächtungstexten?", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -3,7 +3,7 @@
         "Gretscher, Martin Alexander"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t BetreuerIn: Gassner, Verena. Keine Volltext-Freigabe durch VerfasserIn", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät BetreuerIn: Gassner, Verena. Keine Volltext-Freigabe durch VerfasserIn", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.629437"
+            "when": "2015-10-27T18:36:58.289310"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.629448"
+            "when": "2015-10-27T18:36:58.289330"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.800389"
+            "when": "2015-10-27T18:36:58.462247"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.800399"
+            "when": "2015-10-27T18:36:58.462258"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.447328"
+            "when": "2015-10-27T18:36:59.223169"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:58.083335"
+            "when": "2015-10-27T18:36:58.794766"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:58.083346"
+            "when": "2015-10-27T18:36:58.794782"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.514704"
+            "when": "2015-10-27T18:36:59.313747"
         }
     ], 
     "publishers": [], 
@@ -202,11 +202,11 @@
             "url": "http://othes.univie.ac.at/view/subjects/15=2E27.html"
         }, 
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }, 
         {
-            "title_full": "R\u00f6misches Reich", 
+            "title_full": "Römisches Reich", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E28.html"
         }
     ], 
@@ -214,7 +214,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Stra\u00dfen in den griechischen St\u00e4dten Lukaniens", 
+    "title": "Straßen in den griechischen Städten Lukaniens", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

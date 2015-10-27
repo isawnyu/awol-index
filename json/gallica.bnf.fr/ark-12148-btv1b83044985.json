@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Source: Cote. Provenance: Biblioth\u00e8que nationale de France. Description: Chapitre 17 du Livre des morts, avec son titre rubriqu\u00e9: R(3) n(y) pr m hrw, jr \u1e2bprw=f m \u1e2bprw nb. w mry=f \u1e2bpr, \u1e25b(\u1ffe)wy sn. t \u1e25ms m s\u1e25, pr m 3\u1e2b \u1ffen\u1e2b, jn{n} Wsjr \u0161m\u1ffey. t n(y. t) Jmn, nb. t pr I-t3. wy m3\u1ffe- \u1e2brw, m- \u1e2bt mny=s, jw 3\u1e2b jr(w) s. t tp-t3, \"Formule pour sortir au jour, pour faire ses transformations dans toutes les formes souhait\u00e9es, jouer au senet assis sous la tente, sortir comme un bienheureux, \u00eatre vivant, pour l'Osiris chanteuse d'Amon et ma\u00eetresse de Maison Itaouy justifi\u00e9e, apr\u00e8s sa mort, c'est profitable (m\u00eame) \u00e0 celui qui le lit sur terre\". Date de mise en ligne: 22/02/2010.", 
+    "description": "Source: Cote. Provenance: Bibliothèque nationale de France. Description: Chapitre 17 du Livre des morts, avec son titre rubriqué: R(3) n(y) pr m hrw, jr ḫprw=f m ḫprw nb. w mry=f ḫpr, ḥb(῾)wy sn. t ḥms m sḥ, pr m 3ḫ ῾nḫ, jn{n} Wsjr šm῾y. t n(y. t) Jmn, nb. t pr I-t3. wy m3῾- ḫrw, m- ḫt mny=s, jw 3ḫ jr(w) s. t tp-t3, \"Formule pour sortir au jour, pour faire ses transformations dans toutes les formes souhaitées, jouer au senet assis sous la tente, sortir comme un bienheureux, être vivant, pour l'Osiris chanteuse d'Amon et maîtresse de Maison Itaouy justifiée, après sa mort, c'est profitable (même) à celui qui le lit sur terre\". Date de mise en ligne: 22/02/2010.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4872810227567841279", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.724820"
+            "when": "2015-10-27T18:42:42.010844"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-egyptian-manuscripts-online-at.html", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.724833"
+            "when": "2015-10-27T18:42:42.010857"
         }
     ], 
     "publishers": [], 

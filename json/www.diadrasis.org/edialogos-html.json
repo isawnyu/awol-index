@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "e-\u03b4ialogos: Annual digital journal on research in Conservation and Cultural Heritage Annual digital journal on research in Conservation and Cultural Heritage e-\u03b4ialogos is an annual digital journal on research in conservation and cultural heritage.", 
+    "description": "e-δialogos: Annual digital journal on research in Conservation and Cultural Heritage Annual digital journal on research in Conservation and Cultural Heritage e-δialogos is an annual digital journal on research in conservation and cultural heritage.", 
     "domain": "www.diadrasis.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3653173498665999396", 
             "resource_date": "2014-01-10T07:38:18.799-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:38.451948"
+            "when": "2015-10-27T18:40:55.124758"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-e-ialogos-annual.html", 
             "resource_date": "2014-01-10T07:38:18.799-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:38.451965"
+            "when": "2015-10-27T18:40:55.124772"
         }
     ], 
     "publishers": [], 
@@ -94,7 +94,7 @@
             "url": "http://www.diadrasis.org/dialogos/edialogos_003.html"
         }
     ], 
-    "title": "e-\u03b4ialogos: Annual digital journal on research in Conservation and Cultural Heritage", 
+    "title": "e-δialogos: Annual digital journal on research in Conservation and Cultural Heritage", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

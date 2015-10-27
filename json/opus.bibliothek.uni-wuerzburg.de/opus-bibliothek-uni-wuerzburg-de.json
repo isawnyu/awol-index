@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 7 October 2011, updated 26 June 2014]. Online-Publikationsserver (OPUS) der Universit\u00e4t W\u00fcrzburg.", 
+    "description": "[First posted in AWOL 7 October 2011, updated 26 June 2014]. Online-Publikationsserver (OPUS) der Universität Würzburg.", 
     "domain": "opus.bibliothek.uni-wuerzburg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Online-Publikationsserver (OPUS) der Universit\u00e4t W\u00fcrzburg", 
+        "title_full": "Online-Publikationsserver (OPUS) der Universität Würzburg", 
         "url": "http://opus.bibliothek.uni-wuerzburg.de/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3038764949739031586", 
             "resource_date": "2014-06-26T11:36:17.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:03.560446"
+            "when": "2015-10-27T18:39:12.396314"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/antiquity-in-online-publikationsserver.html", 
             "resource_date": "2014-06-26T11:36:17.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:03.560463"
+            "when": "2015-10-27T18:39:12.396330"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3038764949739031586", 
             "resource_date": "2014-06-26T11:36:17.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:03.564332"
+            "when": "2015-10-27T18:39:12.400332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/antiquity-in-online-publikationsserver.html", 
             "resource_date": "2014-06-26T11:36:17.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:03.564348"
+            "when": "2015-10-27T18:39:12.400348"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:03.944617"
+            "when": "2015-10-27T18:39:12.678657"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Online-Publikationsserver (OPUS) der Universit\u00e4t W\u00fcrzburg", 
+            "title_full": "Online-Publikationsserver (OPUS) der Universität Würzburg", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/"
         }, 
         {
@@ -155,7 +155,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Ralph+Neuberth%22"
         }, 
         {
-            "title_full": "Wer bist du, Elija? Die Vielfalt des Prophetenbildes in den Kompositionen von 1 K\u00f6n 17-18 : Eine Textstudie", 
+            "title_full": "Wer bist du, Elija? Die Vielfalt des Prophetenbildes in den Kompositionen von 1 Kön 17-18 : Eine Textstudie", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/1957"
         }, 
         {
@@ -163,7 +163,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Monika+Helmi+Berwanger%22"
         }, 
         {
-            "title_full": "\"Nun sag, wie hast du's mit den G\u00f6ttern?\" Eine Forschungsgeschichte zu Ps 82", 
+            "title_full": "\"Nun sag, wie hast du's mit den Göttern?\" Eine Forschungsgeschichte zu Ps 82", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2963"
         }, 
         {
@@ -179,7 +179,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Barbara+Schmitz%22"
         }, 
         {
-            "title_full": "Auferstehung und Epiphanie. Jenseits- und K\u00f6rperkonzepte im Zweiten Makkab\u00e4erbuch", 
+            "title_full": "Auferstehung und Epiphanie. Jenseits- und Körperkonzepte im Zweiten Makkabäerbuch", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5520"
         }, 
         {
@@ -191,11 +191,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5522"
         }, 
         {
-            "title_full": "Geschaffen aus dem Nichts? Die Funktion der Rede von der Sch\u00f6pfung im Zweiten Makkab\u00e4erbuch", 
+            "title_full": "Geschaffen aus dem Nichts? Die Funktion der Rede von der Schöpfung im Zweiten Makkabäerbuch", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5574"
         }, 
         {
-            "title_full": "\"Dir soll Deine ganze Sch\u00f6pfung dienen\" (Jdt 16,14). Sch\u00f6pfungstheologie im Buch Judit", 
+            "title_full": "\"Dir soll Deine ganze Schöpfung dienen\" (Jdt 16,14). Schöpfungstheologie im Buch Judit", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5575"
         }, 
         {
@@ -207,11 +207,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2537"
         }, 
         {
-            "title_full": "Boris Hogenm\u00fcller", 
+            "title_full": "Boris Hogenmüller", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Boris+Hogenm%C3%BCller%22"
         }, 
         {
-            "title_full": "Griechische Kultbilder - Arch\u00e4ologischer Befund und literarische \u00dcberlieferung", 
+            "title_full": "Griechische Kultbilder - Archäologischer Befund und literarische Überlieferung", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2780"
         }, 
         {
@@ -223,7 +223,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2802"
         }, 
         {
-            "title_full": "Antikenrezeption in Corneilles M\u00e9d\u00e9e", 
+            "title_full": "Antikenrezeption in Corneilles Médée", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6744"
         }, 
         {
@@ -231,7 +231,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Sophie+Kleinecke%22"
         }, 
         {
-            "title_full": "Die weiblichen Frisuren auf den M\u00fcnzen und in der Gro\u00dfplastik zur Zeit der Klassik und des Hellenismus. Typen und Ikonologie", 
+            "title_full": "Die weiblichen Frisuren auf den Münzen und in der Großplastik zur Zeit der Klassik und des Hellenismus. Typen und Ikonologie", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5039"
         }, 
         {
@@ -239,7 +239,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Mairi+Gkikaki%22"
         }, 
         {
-            "title_full": "Das westgotenzeitliche Gr\u00e4berfeld von Madrona (Segovia, Spanien)", 
+            "title_full": "Das westgotenzeitliche Gräberfeld von Madrona (Segovia, Spanien)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5935"
         }, 
         {
@@ -247,7 +247,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Antonel+Jepure%22"
         }, 
         {
-            "title_full": "Die nichtk\u00f6niglichen Priesterinnen des Alten Reiches (4.-6. Dynastie)", 
+            "title_full": "Die nichtköniglichen Priesterinnen des Alten Reiches (4.-6. Dynastie)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/2616"
         }, 
         {
@@ -263,7 +263,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Claudia+Merthen%22"
         }, 
         {
-            "title_full": "Stempelverzierte Keramikfunde der V\u00f6lkerwanderungszeit im Barbaricum - Neue Funde vom fr\u00fchmittelalterlichen Burgwall bei Kopchin (Lkr. Bautzen)", 
+            "title_full": "Stempelverzierte Keramikfunde der Völkerwanderungszeit im Barbaricum - Neue Funde vom frühmittelalterlichen Burgwall bei Kopchin (Lkr. Bautzen)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6333"
         }, 
         {
@@ -279,7 +279,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Yasuhiko+Sakuma%22"
         }, 
         {
-            "title_full": "Zur Musik Mesopotamiens. Erste Erg\u00e4nzung (2011)", 
+            "title_full": "Zur Musik Mesopotamiens. Erste Ergänzung (2011)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/5057"
         }, 
         {
@@ -295,11 +295,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/9547"
         }, 
         {
-            "title_full": "Historische Aufnahmen aus dem Vorderen Orient. Teil 3: T\u00fcrkei (1968, 1975, 1978)", 
+            "title_full": "Historische Aufnahmen aus dem Vorderen Orient. Teil 3: Türkei (1968, 1975, 1978)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/9864"
         }, 
         {
-            "title_full": "Seneca, Hercules furens: Handlung, B\u00fchnengeschehen, Personen und Deutung", 
+            "title_full": "Seneca, Hercules furens: Handlung, Bühnengeschehen, Personen und Deutung", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/574"
         }, 
         {
@@ -319,7 +319,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Alfons+Abert%22"
         }, 
         {
-            "title_full": "Die Wettenburg in der Mainschleife bei Urphar : eine H\u00f6henbefestigung des Jungneolithikums, der Urnenfelderzeit, der fr\u00fchen Eisenzeit und der V\u00f6lkerwanderungszeit", 
+            "title_full": "Die Wettenburg in der Mainschleife bei Urphar : eine Höhenbefestigung des Jungneolithikums, der Urnenfelderzeit, der frühen Eisenzeit und der Völkerwanderungszeit", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/1496"
         }, 
         {
@@ -327,7 +327,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Dieter+Neubauer%22"
         }, 
         {
-            "title_full": "Untersuchungen von Reliefstelen aus dem r\u00f6mischen Nordafrika : Beitr\u00e4ge zur Akkulturation und Romanisierung in der kaiserzeitlichen Provincia Africa Proconsularis", 
+            "title_full": "Untersuchungen von Reliefstelen aus dem römischen Nordafrika : Beiträge zur Akkulturation und Romanisierung in der kaiserzeitlichen Provincia Africa Proconsularis", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/1733"
         }, 
         {
@@ -335,7 +335,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Ulrike+Wurnig%22"
         }, 
         {
-            "title_full": "K\u00fcnstliche Beleuchtung und Architektur", 
+            "title_full": "Künstliche Beleuchtung und Architektur", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/3285"
         }, 
         {
@@ -355,7 +355,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Frank+Rumscheid%22"
         }, 
         {
-            "title_full": "Attisch wei\u00dfgrundige Keramik - Maltechniken, Werkst\u00e4tten, Formen und Verwendung", 
+            "title_full": "Attisch weißgrundige Keramik - Maltechniken, Werkstätten, Formen und Verwendung", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4633"
         }, 
         {
@@ -367,7 +367,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4805"
         }, 
         {
-            "title_full": "Das Ideal ma\u00dfvoller Liebe auf einem attischen Vasenbild", 
+            "title_full": "Das Ideal maßvoller Liebe auf einem attischen Vasenbild", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4806"
         }, 
         {
@@ -375,7 +375,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4807"
         }, 
         {
-            "title_full": "Der Vasenmaler Aison und seine Beziehungen zu einigen zeitgen\u00f6ssischen Vasenmalern", 
+            "title_full": "Der Vasenmaler Aison und seine Beziehungen zu einigen zeitgenössischen Vasenmalern", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4808"
         }, 
         {
@@ -383,11 +383,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4809"
         }, 
         {
-            "title_full": "R\u00f6ntgenstrahlen und Arch\u00e4ologie", 
+            "title_full": "Röntgenstrahlen und Archäologie", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4810"
         }, 
         {
-            "title_full": "Neue Untersuchungen zur wei\u00dfgrundigen Lekythenbemalung", 
+            "title_full": "Neue Untersuchungen zur weißgrundigen Lekythenbemalung", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6624"
         }, 
         {
@@ -399,7 +399,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Aletta+Seiffert%22"
         }, 
         {
-            "title_full": "Man leaning on his stick : Zu Bild und Inschrift eines attischen Salbgef\u00e4\u00dfes ; (mit einem Beitrag von G\u00fcnter Neumann)", 
+            "title_full": "Man leaning on his stick : Zu Bild und Inschrift eines attischen Salbgefäßes ; (mit einem Beitrag von Günter Neumann)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7004"
         }, 
         {
@@ -411,7 +411,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Judith+S.+Gesellensetter%22"
         }, 
         {
-            "title_full": "Die G\u00f6ttin Ninegal/Belet-ekallim nach den altorientalischen Quellen des 3. und 2. Jt. v.Chr. : mit einer Zusammenfassung der hethitischen Belegstellen sowie der des 1. Jt. v. Chr", 
+            "title_full": "Die Göttin Ninegal/Belet-ekallim nach den altorientalischen Quellen des 3. und 2. Jt. v.Chr. : mit einer Zusammenfassung der hethitischen Belegstellen sowie der des 1. Jt. v. Chr", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/1749"
         }, 
         {
@@ -419,7 +419,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Geeta+De+Clercq%22"
         }, 
         {
-            "title_full": "Die Siegel des K\u00f6nigs It\u1e2bi-te\u0161\u0161up von Arrap\u1e2ba", 
+            "title_full": "Die Siegel des Königs Itḫi-teššup von Arrapḫa", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4468"
         }, 
         {
@@ -427,7 +427,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Gernot+Wilhelm%22"
         }, 
         {
-            "title_full": "Legenden [der Siegel der ehem. Oppenl\u00e4nder-Sammlung]", 
+            "title_full": "Legenden [der Siegel der ehem. Oppenländer-Sammlung]", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4469"
         }, 
         {
@@ -455,19 +455,19 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6120"
         }, 
         {
-            "title_full": "D\u00e9couvertes \u00e9pigraphiques \u00e0 K\u0101mid el-L\u014dz", 
+            "title_full": "Découvertes épigraphiques à Kāmid el-Lōz", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6658"
         }, 
         {
-            "title_full": "HSS XV 293: Keine entu-Priesterin mit \u00e4gyptisierendem Siegel", 
+            "title_full": "HSS XV 293: Keine entu-Priesterin mit ägyptisierendem Siegel", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6988"
         }, 
         {
-            "title_full": "Notizen zum hurritischen W\u00f6rterbuch", 
+            "title_full": "Notizen zum hurritischen Wörterbuch", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7244"
         }, 
         {
-            "title_full": "kulb\u0101bu", 
+            "title_full": "kulbābu", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7239"
         }, 
         {
@@ -495,7 +495,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7243"
         }, 
         {
-            "title_full": "Untersuchungen zur Verwendung und Fragmentierung von Bronzen aus sp\u00e4tbronzezeitlichen Depotfunden Bayerns, Baden-W\u00fcrttembergs und Westb\u00f6hmens", 
+            "title_full": "Untersuchungen zur Verwendung und Fragmentierung von Bronzen aus spätbronzezeitlichen Depotfunden Bayerns, Baden-Württembergs und Westböhmens", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6344"
         }, 
         {
@@ -507,7 +507,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6659"
         }, 
         {
-            "title_full": "Ein Gef\u00e4\u00dffragment mit alphabetischer Keilinschrift", 
+            "title_full": "Ein Gefäßfragment mit alphabetischer Keilinschrift", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6660"
         }, 
         {
@@ -523,11 +523,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Sebastiano+Tusa%22"
         }, 
         {
-            "title_full": "La premi\u00e8re tablette cun\u00e9iforme trouv\u00e9e \u00e0 Tyre", 
+            "title_full": "La première tablette cunéiforme trouvée à Tyre", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6664"
         }, 
         {
-            "title_full": "ta/erdennu, ta/urtannu, ta/urt\u0101nu", 
+            "title_full": "ta/erdennu, ta/urtannu, ta/urtānu", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6913"
         }, 
         {
@@ -535,11 +535,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6914"
         }, 
         {
-            "title_full": "Eine Krughenkelinschrift in alphabetischer Keilschrift aus K\u0101mid el-L\u014dz (KL 67:428p)", 
+            "title_full": "Eine Krughenkelinschrift in alphabetischer Keilschrift aus Kāmid el-Lōz (KL 67:428p)", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6915"
         }, 
         {
-            "title_full": "Gro\u00dfgrundbesitz, Sklavenwirtschaft und transhumante Viehzucht im hurritischen Siedlungsraum \u00f6stlich des Tigris", 
+            "title_full": "Großgrundbesitz, Sklavenwirtschaft und transhumante Viehzucht im hurritischen Siedlungsraum östlich des Tigris", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6916"
         }, 
         {
@@ -551,7 +551,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22W.+Mayer%22"
         }, 
         {
-            "title_full": "Zur Rolle des Gro\u00dfgrundbesitzes in der hurritischen Gesellschft", 
+            "title_full": "Zur Rolle des Großgrundbesitzes in der hurritischen Gesellschft", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6918"
         }, 
         {
@@ -559,7 +559,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6919"
         }, 
         {
-            "title_full": "Der Komitativ des Urart\u00e4ischen", 
+            "title_full": "Der Komitativ des Urartäischen", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6920"
         }, 
         {
@@ -579,19 +579,19 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Markus+Hartmann%22"
         }, 
         {
-            "title_full": "Zusammenschl\u00fcsse von Nuzi-Texten", 
+            "title_full": "Zusammenschlüsse von Nuzi-Texten", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7032"
         }, 
         {
-            "title_full": "Eisenproduktionswerkpl\u00e4tze der sp\u00e4ten r\u00f6mischen Kaiserzeit (3.-5. Jh. AD) im inneren Barbaricum", 
+            "title_full": "Eisenproduktionswerkplätze der späten römischen Kaiserzeit (3.-5. Jh. AD) im inneren Barbaricum", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6332"
         }, 
         {
-            "title_full": "Noch einmalzur behaupteten Ergativit\u00e4t des Elamischen", 
+            "title_full": "Noch einmalzur behaupteten Ergativität des Elamischen", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7033"
         }, 
         {
-            "title_full": "Eine sp\u00e4tbronzezeitliche Keilschrifturkunde aus Syrien (Tafeln 58a-59), 1. Der Text", 
+            "title_full": "Eine spätbronzezeitliche Keilschrifturkunde aus Syrien (Tafeln 58a-59), 1. Der Text", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7035"
         }, 
         {
@@ -599,11 +599,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Jan-Waalke+Meyer%22"
         }, 
         {
-            "title_full": "Die Inschrift auf der Statue der Tatu-\u1e2bepa und die hurritischen deiktischen Pronomina", 
+            "title_full": "Die Inschrift auf der Statue der Tatu-ḫepa und die hurritischen deiktischen Pronomina", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7038"
         }, 
         {
-            "title_full": "Hurritisch nari(ya) \"f\u00fcnf\"", 
+            "title_full": "Hurritisch nari(ya) \"fünf\"", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7039"
         }, 
         {
@@ -619,7 +619,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7042"
         }, 
         {
-            "title_full": "T. Karr\u0101na 3, T. \u01e6\u012bk\u0101n and T. \u1e2airbat \u1e62\u0101lih: 1st Campaign", 
+            "title_full": "T. Karrāna 3, T. Ǧīkān and T. Ḫirbat Ṣālih: 1st Campaign", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7046"
         }, 
         {
@@ -635,15 +635,15 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22C.+Zaccagnini%22"
         }, 
         {
-            "title_full": "T. Karr\u0101na 3, T. \u1e2airbat \u1e62\u0101lih: 2nd Campaign", 
+            "title_full": "T. Karrāna 3, T. Ḫirbat Ṣālih: 2nd Campaign", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7230"
         }, 
         {
-            "title_full": "\u0160ura/i in Kargami\u0161 und das urart\u00e4ische Gentiliz \u0160urele", 
+            "title_full": "Šura/i in Kargamiš und das urartäische Gentiliz Šurele", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7131"
         }, 
         {
-            "title_full": "Zur Pal\u00e4ographie der in \u00c4gypten geschriebenen Keilschriftbriefe", 
+            "title_full": "Zur Paläographie der in Ägypten geschriebenen Keilschriftbriefe", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7037"
         }, 
         {
@@ -651,7 +651,7 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/7129"
         }, 
         {
-            "title_full": "Zur babylonisch-assyrischen Schultradition in \u1e2aattu\u0161a", 
+            "title_full": "Zur babylonisch-assyrischen Schultradition in Ḫattuša", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6942"
         }, 
         {
@@ -667,11 +667,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4460"
         }, 
         {
-            "title_full": "Die Hurriter : Arch\u00e4ologen suchen ihr verschollenes Reich", 
+            "title_full": "Die Hurriter : Archäologen suchen ihr verschollenes Reich", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4461"
         }, 
         {
-            "title_full": "A\u0161\u0161ur-d\u0101n I., Ninurta-apil-Ekur und die mittelassyrische Chronologie", 
+            "title_full": "Aššur-dān I., Ninurta-apil-Ekur und die mittelassyrische Chronologie", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4462"
         }, 
         {
@@ -679,11 +679,11 @@
             "url": "http://opus.bibliothek.uni-wuerzburg.de/solrsearch/index/search/searchtype/authorsearch/author/%22Johannes+Boese%22"
         }, 
         {
-            "title_full": "Parrattarna, Sau\u0161tatar und die absolute Datierung der Nuzi-Tafeln", 
+            "title_full": "Parrattarna, Sauštatar und die absolute Datierung der Nuzi-Tafeln", 
             "url": "http://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/4463"
         }
     ], 
-    "title": "Online-Publikationsserver (OPUS) der Universit\u00e4t W\u00fcrzburg", 
+    "title": "Online-Publikationsserver (OPUS) der Universität Würzburg", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The Bible in Its Traditions The Bible in Its Traditions is a project of the \u00c9cole Biblique et Arch\u00e9ologique Fran\u00e7aise de J\u00e9rusalem, the creators of the Jerusalem Bible.", 
+    "description": "The Bible in Its Traditions The Bible in Its Traditions is a project of the École Biblique et Archéologique Française de Jérusalem, the creators of the Jerusalem Bible.", 
     "domain": "bibletraditions.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1859292026043275540", 
             "resource_date": "2014-06-18T11:02:32.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.213539"
+            "when": "2015-10-27T18:38:07.636981"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/the-bible-in-its-traditions.html", 
             "resource_date": "2014-06-18T11:02:32.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.213554"
+            "when": "2015-10-27T18:38:07.636997"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1859292026043275540", 
             "resource_date": "2014-06-18T11:02:32.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.215721"
+            "when": "2015-10-27T18:38:07.639214"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/the-bible-in-its-traditions.html", 
             "resource_date": "2014-06-18T11:02:32.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.215733"
+            "when": "2015-10-27T18:38:07.639225"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:02.222706"
+            "when": "2015-10-27T18:38:07.647017"
         }
     ], 
     "publishers": [], 

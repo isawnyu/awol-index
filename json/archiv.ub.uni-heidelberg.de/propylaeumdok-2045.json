@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Assmann, Jan and Blumenthal, Elke (Hrsgg. ): Literatur und Politik im pharaonischen und ptolem\u00e4ischen \u00c4gypten. Vortr\u00e4ge der Tagung zum Gedenken an Georges Posener, 5-10. September 1996 in Leipzig. Kairo 1999, pp. 63-74. Schenkel, Wolfgang (1996).", 
+    "description": "In: Assmann, Jan and Blumenthal, Elke (Hrsgg. ): Literatur und Politik im pharaonischen und ptolemäischen Ägypten. Vorträge der Tagung zum Gedenken an Georges Posener, 5-10. September 1996 in Leipzig. Kairo 1999, pp. 63-74. Schenkel, Wolfgang (1996).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:01.427570"
+            "when": "2015-10-27T18:40:13.124793"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:01.427587"
+            "when": "2015-10-27T18:40:13.124809"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\"Litt\u00e9rature et politique\" Fragestellung oder Antwort? Zwei Diskussionsbeitr\u00e4ge", 
+    "title": "\"Littérature et politique\" Fragestellung oder Antwort? Zwei Diskussionsbeiträge", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

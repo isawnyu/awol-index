@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Lettre d\u2019information de l\u2019IFAO", 
+        "title_full": "Lettre d’information de l’IFAO", 
         "url": "http://www.ifao.egnet.net/newsletters/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3541488509283501026", 
             "resource_date": "2014-10-22T12:01:17.486-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.607204"
+            "when": "2015-10-27T18:40:45.784853"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-lettre-dinformation.html", 
             "resource_date": "2014-10-22T12:01:17.486-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.607216"
+            "when": "2015-10-27T18:40:45.784868"
         }
     ], 
     "publishers": [], 

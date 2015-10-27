@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ANCIENT ROME LIVE: A new way to learn about Rome's past. Rome\u2019s enduring contribution to world civilization can, and should, be communicated in a way that combines the hard facts, solid reasoning, and new discoveries of university research with the excitement and immediacy of on-location filming in Rome. If a picture is worth a thousand words, then a video is worth a million. Ancient Rome Live (ARL) is an immersive journey that provides new perspectives about the ancient city. A multi-platform learning experience, ARL first and foremost presents original content:.", 
+    "description": "ANCIENT ROME LIVE: A new way to learn about Rome's past. Rome’s enduring contribution to world civilization can, and should, be communicated in a way that combines the hard facts, solid reasoning, and new discoveries of university research with the excitement and immediacy of on-location filming in Rome. If a picture is worth a thousand words, then a video is worth a million. Ancient Rome Live (ARL) is an immersive journey that provides new perspectives about the ancient city. A multi-platform learning experience, ARL first and foremost presents original content:.", 
     "domain": "www.ancientromelive.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6649175982905770172", 
             "resource_date": "2015-04-29T08:52:00.247-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.215194"
+            "when": "2015-10-27T18:45:06.151300"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/ancient-rome-live-new-way-to-learn.html", 
             "resource_date": "2015-04-29T08:52:00.247-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.215211"
+            "when": "2015-10-27T18:45:06.151315"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6649175982905770172", 
             "resource_date": "2015-04-29T08:52:00.247-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.219973"
+            "when": "2015-10-27T18:45:06.155081"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/ancient-rome-live-new-way-to-learn.html", 
             "resource_date": "2015-04-29T08:52:00.247-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.219993"
+            "when": "2015-10-27T18:45:06.155095"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:26.245149"
+            "when": "2015-10-27T18:45:06.176983"
         }
     ], 
     "publishers": [], 

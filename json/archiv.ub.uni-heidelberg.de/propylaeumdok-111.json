@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Arnold, W. and Jursa, M. and M\u00fcller, W. and Proch\u00e1zka, S. (Hrsgg. ): Philologisches und Historisches zwischen Anatolien und Sokotra, Analecta Semitica In Memorium Alexander Sima. Wiesbaden 2005 447-455. ISBN 978-3-447-06104-9. Yule, Paul (1996).", 
+    "description": "In: Arnold, W. and Jursa, M. and Müller, W. and Procházka, S. (Hrsgg. ): Philologisches und Historisches zwischen Anatolien und Sokotra, Analecta Semitica In Memorium Alexander Sima. Wiesbaden 2005 447-455. ISBN 978-3-447-06104-9. Yule, Paul (1996).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.240534"
+            "when": "2015-10-27T18:46:27.026049"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.240552"
+            "when": "2015-10-27T18:46:27.026065"
         }
     ], 
     "publishers": [], 

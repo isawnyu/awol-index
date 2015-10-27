@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3017551928609623322", 
             "resource_date": "2013-04-22T10:31:15.994-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:00.223131"
+            "when": "2015-10-27T18:39:08.683358"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/new-open-access-journal-asfar.html", 
             "resource_date": "2013-04-22T10:31:15.994-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:00.223149"
+            "when": "2015-10-27T18:39:08.683376"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3017551928609623322", 
             "resource_date": "2013-04-22T10:31:15.994-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:00.225599"
+            "when": "2015-10-27T18:39:08.685601"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/new-open-access-journal-asfar.html", 
             "resource_date": "2013-04-22T10:31:15.994-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:00.225623"
+            "when": "2015-10-27T18:39:08.685614"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:00.227923"
+            "when": "2015-10-27T18:39:08.687511"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:18.741102"
+            "when": "2015-10-27T18:43:51.652200"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:18.741116"
+            "when": "2015-10-27T18:43:51.652214"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Fragile Ambivalenz - Die Abgusssammlung der Unit\u00e9 d'arch\u00e9ologie classique der Universit\u00e4t Genf", 
+    "title": "Fragile Ambivalenz - Die Abgusssammlung der Unité d'archéologie classique der Universität Genf", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

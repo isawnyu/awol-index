@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2438118749532558525", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.400258"
+            "when": "2015-10-27T18:38:45.346110"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/introduction-to-homeric-greek-volume-1.html", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.400275"
+            "when": "2015-10-27T18:38:45.346125"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2438118749532558525", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.403183"
+            "when": "2015-10-27T18:38:45.348910"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/introduction-to-homeric-greek-volume-1.html", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.403200"
+            "when": "2015-10-27T18:38:45.348923"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:37.434286"
+            "when": "2015-10-27T18:38:45.386218"
         }
     ], 
     "publishers": [], 
@@ -159,67 +159,67 @@
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#content"
         }, 
         {
-            "title_full": "1\u00a71 The Alphabet", 
+            "title_full": "1§1 The Alphabet", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-1"
         }, 
         {
-            "title_full": "1\u00a72 Diphthongs", 
+            "title_full": "1§2 Diphthongs", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-2"
         }, 
         {
-            "title_full": "1\u00a73 More on \u03ba, \u03c7, \u03be, \u03c1", 
+            "title_full": "1§3 More on κ, χ, ξ, ρ", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-3"
         }, 
         {
-            "title_full": "1\u00a74 First Declension Noun \u03b2\u03af\u03b7", 
+            "title_full": "1§4 First Declension Noun βίη", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-4"
         }, 
         {
-            "title_full": "1\u00a75 First Declension Noun \u03b3\u03b1\u1fd6\u03b1", 
+            "title_full": "1§5 First Declension Noun γαῖα", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-5"
         }, 
         {
-            "title_full": "1\u00a76 Nominal Sentences", 
+            "title_full": "1§6 Nominal Sentences", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-6"
         }, 
         {
-            "title_full": "1\u00a77 First Declension Nouns in Iliad 1, Lines 1-7", 
+            "title_full": "1§7 First Declension Nouns in Iliad 1, Lines 1-7", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-7"
         }, 
         {
-            "title_full": "1\u00a78 More on Iliad 1, Lines 1-3", 
+            "title_full": "1§8 More on Iliad 1, Lines 1-3", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-8"
         }, 
         {
-            "title_full": "1\u00a79 First look at Odyssey 1, Lines 1-9", 
+            "title_full": "1§9 First look at Odyssey 1, Lines 1-9", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-9"
         }, 
         {
-            "title_full": "1\u00a710 First Prepositions & Conjunctions", 
+            "title_full": "1§10 First Prepositions & Conjunctions", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-10"
         }, 
         {
-            "title_full": "1\u00a711 Preview Dual", 
+            "title_full": "1§11 Preview Dual", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-11"
         }, 
         {
-            "title_full": "1\u00a712 Present Indicative of \u2018To Be\u2019 \u03b5\u1f30\u03bc\u03af", 
+            "title_full": "1§12 Present Indicative of ‘To Be’ εἰμί", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-12"
         }, 
         {
-            "title_full": "1\u00a713 Imperfect Indicative of \u2018To Be\u2019", 
+            "title_full": "1§13 Imperfect Indicative of ‘To Be’", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-13"
         }, 
         {
-            "title_full": "1\u00a714 Preview Verbal Tense and Aspect", 
+            "title_full": "1§14 Preview Verbal Tense and Aspect", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-14"
         }, 
         {
-            "title_full": "1\u00a715 \u1f14\u03c3\u03c4\u03b9\u03bd, \u2018There is...\u2019 & \u03b5\u1f30\u03bc\u03af plus dative possessor", 
+            "title_full": "1§15 ἔστιν, ‘There is...’ & εἰμί plus dative possessor", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-15"
         }, 
         {
-            "title_full": "1\u00a716 Practice Reading Core Vocabulary", 
+            "title_full": "1§16 Practice Reading Core Vocabulary", 
             "url": "http://hour25.heroesx.chs.harvard.edu/?page_id=12605#1-16"
         }
     ], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "141-151 Bodzek, Jaros\u0142aw; Madyda-Legutko, Renata: The Ascalon coin found at Zarzecze, Przemy\u015bl Voivodship.", 
+    "description": "141-151 Bodzek, Jarosław; Madyda-Legutko, Renata: The Ascalon coin found at Zarzecze, Przemyśl Voivodship.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.277644"
+            "when": "2015-10-27T18:46:50.495193"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.277658"
+            "when": "2015-10-27T18:46:50.495211"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "129-139 Morawiecki, Les\u0142aw: Coins from Cossyra", 
+    "title": "129-139 Morawiecki, Lesław: Coins from Cossyra", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

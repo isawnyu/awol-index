@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archives de Bernard Bruy\u00e8re (1879-1971)", 
+        "title_full": "Archives de Bernard Bruyère (1879-1971)", 
         "url": "http://www.ifao.egnet.net/bases/archives/bruyere/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1140883796174785142", 
             "resource_date": "2012-01-07T16:29:06.657-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:11.706462"
+            "when": "2015-10-27T18:37:12.909691"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/archives-de-bernard-bruyere-1879-1971.html", 
             "resource_date": "2012-01-07T16:29:06.657-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:11.706476"
+            "when": "2015-10-27T18:37:12.909707"
         }
     ], 
     "publishers": [], 

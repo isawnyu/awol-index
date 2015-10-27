@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6692539277195691517", 
             "resource_date": "2014-10-30T11:00:08.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.289577"
+            "when": "2015-10-27T18:45:07.284058"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-monograph-series-graeca.html", 
             "resource_date": "2014-10-30T11:00:08.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.289593"
+            "when": "2015-10-27T18:45:07.284073"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6692539277195691517", 
             "resource_date": "2014-10-30T11:00:08.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.291375"
+            "when": "2015-10-27T18:45:07.285995"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-monograph-series-graeca.html", 
             "resource_date": "2014-10-30T11:00:08.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.291389"
+            "when": "2015-10-27T18:45:07.286010"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.312027"
+            "when": "2015-10-27T18:45:07.308610"
         }
     ], 
     "publishers": [], 
@@ -164,11 +164,11 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/10343"
         }, 
         {
-            "title_full": "Peani in dattili tra Ellade classica ed et\u00e0 imperiale Andrea Tessier", 
+            "title_full": "Peani in dattili tra Ellade classica ed età imperiale Andrea Tessier", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/10140"
         }, 
         {
-            "title_full": "Graeca Tergestina. Storia e civilt\u00e0", 
+            "title_full": "Graeca Tergestina. Storia e civiltà", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/8648"
         }, 
         {

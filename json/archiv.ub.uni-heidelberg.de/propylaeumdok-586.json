@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wieseh\u00f6fer, J. and B\u00f6rm, H. (Hrsgg. ): Theodor Mommsen: Gelehrter, Politiker und Literat. Stuttgart 2005, pp. 137-164. Malitz, J\u00fcrgen (1990).", 
+    "description": "In: Wiesehöfer, J. and Börm, H. (Hrsgg. ): Theodor Mommsen: Gelehrter, Politiker und Literat. Stuttgart 2005, pp. 137-164. Malitz, Jürgen (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.115304"
+            "when": "2015-10-27T18:46:46.294207"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.115318"
+            "when": "2015-10-27T18:46:46.294222"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.181959"
+            "when": "2015-10-27T18:48:49.951623"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.181973"
+            "when": "2015-10-27T18:48:49.951638"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:54.669597"
+            "when": "2015-10-27T18:48:50.532674"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\"Auch ein Wort \u00fcber unser Judenthum\". Theodor Mommsen und der Berliner Antisemitismusstreit", 
+    "title": "\"Auch ein Wort über unser Judenthum\". Theodor Mommsen und der Berliner Antisemitismusstreit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

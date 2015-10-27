@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Acta Universitatis Nicolai Copernici, Archeologia jest czasopismem ukazuj\u0105cym si\u0119 od 1968, najpierw jako Zeszyty Naukowe Uniwersytetu Miko\u0142aja Kopernika w Toruniu, Nauki Humanistyczno-Spo\u0142eczne z. 26, Archeologia 1, a od 1974 roku pod obecnym tytu\u0142em. Na jego \u0142amach publikowane s\u0105 artyku\u0142y z zakresu archeologii Polski, powszechnej i antycznej. W jego ramach redagowane s\u0105 te\u017c tomy tematyczne, takie jak Archeologia szk\u0142a i Archeologia podwodna. W artyku\u0142ach prezentowane s\u0105 aktualne wyniki bada\u0144 i dokona\u0144 kadry naukowej Instytutu Archeologii UMK i wsp\u00f3\u0142pracuj\u0105cych z ni\u0105 badaczami z innych o\u015brodk\u00f3w naukowych w kraju oraz zagranic\u0105. Poprzez powy\u017cszy profil kolejni redaktorzy stworzyli p\u0142aszczyzn\u0119 do prezentacji pogl\u0105d\u00f3w naukowych dla szerokiego grona badaczy, zajmuj\u0105cych si\u0119 histori\u0105 kultury odczytywan\u0105 poprzez \u017ar\u00f3d\u0142a archeologiczne, historyczne i bioarcheologiczne. Acta Universitatis Nicolai Copernici, Archeology is a journal published since 1968, first as Scientific Papers of the Nicolaus Copernicus University in Torun, Humanities and Social Sciences 26, Archaeology 1, and since 1974 under this title. On its pages are published articles in the field of polish, europiean and ancient archaeology. In this framework, there are also edited thematic volumes, such as Glass Archaeology and Underwater Archaeology. The articles presented current research, results and achievements of the scientific staff of the Institute of Archaeology, Nicolaus Copernicus University and its associates researchers from other scientific centers in the country and abroad. Through the above profile of successive editors have created platform for the presentation of scientific ideas to a wide range of researchers involved in the cultural history read through archaeological, historical and bioarcheological records.", 
+    "description": "Acta Universitatis Nicolai Copernici, Archeologia jest czasopismem ukazującym się od 1968, najpierw jako Zeszyty Naukowe Uniwersytetu Mikołaja Kopernika w Toruniu, Nauki Humanistyczno-Społeczne z. 26, Archeologia 1, a od 1974 roku pod obecnym tytułem. Na jego łamach publikowane są artykuły z zakresu archeologii Polski, powszechnej i antycznej. W jego ramach redagowane są też tomy tematyczne, takie jak Archeologia szkła i Archeologia podwodna. W artykułach prezentowane są aktualne wyniki badań i dokonań kadry naukowej Instytutu Archeologii UMK i współpracujących z nią badaczami z innych ośrodków naukowych w kraju oraz zagranicą. Poprzez powyższy profil kolejni redaktorzy stworzyli płaszczyznę do prezentacji poglądów naukowych dla szerokiego grona badaczy, zajmujących się historią kultury odczytywaną poprzez źródła archeologiczne, historyczne i bioarcheologiczne. Acta Universitatis Nicolai Copernici, Archeology is a journal published since 1968, first as Scientific Papers of the Nicolaus Copernicus University in Torun, Humanities and Social Sciences 26, Archaeology 1, and since 1974 under this title. On its pages are published articles in the field of polish, europiean and ancient archaeology. In this framework, there are also edited thematic volumes, such as Glass Archaeology and Underwater Archaeology. The articles presented current research, results and achievements of the scientific staff of the Institute of Archaeology, Nicolaus Copernicus University and its associates researchers from other scientific centers in the country and abroad. Through the above profile of successive editors have created platform for the presentation of scientific ideas to a wide range of researchers involved in the cultural history read through archaeological, historical and bioarcheological records.", 
     "domain": "www.aunc.archeologia.umk.pl", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8258937135871710449", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.023899"
+            "when": "2015-10-27T18:47:07.043482"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-acta.html", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.023917"
+            "when": "2015-10-27T18:47:07.043499"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Spis tre\u015bci", 
+            "title_full": "Spis treści", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_spis%20tresci.pdf"
         }, 
         {
@@ -87,27 +87,27 @@
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_od%20redakcji.pdf"
         }, 
         {
-            "title_full": "Anna Rembisz, Dar wotywny z\u0142o\u017cony z ozd\u00f3b, narz\u0119dzi i broni odkryty w jeziorze Kamienica, w miejscowo\u015bci Trzynik. pow. Ko\u0142obrzeg (stanowisko 12) 11", 
+            "title_full": "Anna Rembisz, Dar wotywny złożony z ozdób, narzędzi i broni odkryty w jeziorze Kamienica, w miejscowości Trzynik. pow. Kołobrzeg (stanowisko 12) 11", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_01_Anna%20Rembisz.pdf"
         }, 
         {
-            "title_full": "Andrzej Pydyn, Smiljan Glu\u015b\u0107evi\u0107, Port rzymski w Zaton, w Chorwacji 25", 
+            "title_full": "Andrzej Pydyn, Smiljan Gluśćević, Port rzymski w Zaton, w Chorwacji 25", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_02_Andrzej%20Pydyn,%20Smiljan%20Gluscevic.pdf"
         }, 
         {
-            "title_full": "Robert Dom\u017ca\u0142, Podwodne badania archeologiczne domniemanej bariery nawigacyjnej z VIII w. n.e. w zatoce Schlei w Niemczech 49", 
+            "title_full": "Robert Domżał, Podwodne badania archeologiczne domniemanej bariery nawigacyjnej z VIII w. n.e. w zatoce Schlei w Niemczech 49", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_03_Robert%20Domzal.pdf"
         }, 
         {
-            "title_full": "Gerard Wilke, Najstarsze mosty zachodnios\u0142owia\u0144skie z mi\u0119dzyrzecza \u0141aby i Odry (VIII-X/XIwiek) 57", 
+            "title_full": "Gerard Wilke, Najstarsze mosty zachodniosłowiańskie z międzyrzecza Łaby i Odry (VIII-X/XIwiek) 57", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_04_Gerard%20Wilke.pdf"
         }, 
         {
-            "title_full": "Pawe\u0142 Rutecki, Wrak W-25. Podwodne badania archeologiczne w Zatoce Gda\u0144skiej 127", 
+            "title_full": "Paweł Rutecki, Wrak W-25. Podwodne badania archeologiczne w Zatoce Gdańskiej 127", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_05_Pawel%20Rutecki.pdf"
         }, 
         {
-            "title_full": "Tomasz Bednarz, Dariusz Kaczor, Pr\u00f3ba identyfikacji osiemnastowiecznego wraka W-27 na podstawie analizy por\u00f3wnawczej bada\u0144 archeologicznych i \u017ar\u00f3de\u0142 archiwalnych 149", 
+            "title_full": "Tomasz Bednarz, Dariusz Kaczor, Próba identyfikacji osiemnastowiecznego wraka W-27 na podstawie analizy porównawczej badań archeologicznych i źródeł archiwalnych 149", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_06_Tomasz%20Bednarz,%20Dariusz%20Kaczor.pdf"
         }, 
         {
@@ -115,7 +115,7 @@
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_07_Wojciech%20Kowalski.pdf"
         }, 
         {
-            "title_full": "George F. Bass, O takich co ukradli gwiazdy (t\u0142umaczenie Natalia Gr\u0105\u017cawska ) 185", 
+            "title_full": "George F. Bass, O takich co ukradli gwiazdy (tłumaczenie Natalia Grążawska ) 185", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_08_George%20F_%20Bass.pdf"
         }, 
         {
@@ -127,15 +127,15 @@
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_10_Wojciech%20Szulta.pdf"
         }, 
         {
-            "title_full": "Arkadiusz Koperkiewicz, Wojciech Szulta, Sprawozdanie z podwodnego rekonesansu archeologicznego w rzece Narew, w miejscowo\u015bci Sura\u017c, b. woj. podlaskie 197", 
+            "title_full": "Arkadiusz Koperkiewicz, Wojciech Szulta, Sprawozdanie z podwodnego rekonesansu archeologicznego w rzece Narew, w miejscowości Suraż, b. woj. podlaskie 197", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_11_Arkadiusz%20Koperkiewicz,%20Wojciech%20Szulta.pdf"
         }, 
         {
-            "title_full": "Krzysztof Radka, Podwodne badania rekonesansowe przeprowadzone przez Zak\u0142ad Archeologii Podwodnej w akwenach \u015br\u00f3dl\u0105dowych Polski w latach 2005-2006 205", 
+            "title_full": "Krzysztof Radka, Podwodne badania rekonesansowe przeprowadzone przez Zakład Archeologii Podwodnej w akwenach śródlądowych Polski w latach 2005-2006 205", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_12_Krzysztof%20Radka.pdf"
         }, 
         {
-            "title_full": "Danuta Baran, Arkadiusz Koperkiewicz, Sprawozdanie z prac Studenckiego Ko\u0142a Bada\u0144 Podwodnych przeprowadzonych na Pojezierzu \u0141\u0119czy\u0144sko-W\u0142odawskim 223", 
+            "title_full": "Danuta Baran, Arkadiusz Koperkiewicz, Sprawozdanie z prac Studenckiego Koła Badań Podwodnych przeprowadzonych na Pojezierzu Łęczyńsko-Włodawskim 223", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_13_Danuta%20Baran,%20Arkadiusz%20Koperkiewicz.pdf"
         }, 
         {
@@ -151,11 +151,11 @@
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_16_Andrzej%20Pydyn.pdf"
         }, 
         {
-            "title_full": "Wojciech Szulta, Mi\u0119dzynarodowa Konferencja Naukowa w K\u0142ajpedzie, na Litwie 241", 
+            "title_full": "Wojciech Szulta, Międzynarodowa Konferencja Naukowa w Kłajpedzie, na Litwie 241", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_17_Wojciech%20Szulta.pdf"
         }, 
         {
-            "title_full": "Krzysztof Radka, Mi\u0119dzynarodowa Konferencja Naukowa w Kilonii \"In Poseidons ReichXIV\" 245", 
+            "title_full": "Krzysztof Radka, Międzynarodowa Konferencja Naukowa w Kilonii \"In Poseidons ReichXIV\" 245", 
             "url": "http://www.aunc.archeologia.umk.pl/data/_uploaded/31aunc/ARCHEOLOGIA%20PODWODNA%206_18_Krzysztof%20Radka.pdf"
         }
     ], 

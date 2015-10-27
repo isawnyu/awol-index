@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Rivista italiana di numismatica e scienze affini - Milan Societ\u00e0 numismatica italiana.", 
+    "description": "Rivista italiana di numismatica e scienze affini - Milan Società numismatica italiana.", 
     "domain": "www.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5491553741332102121", 
             "resource_date": "2012-05-15T10:16:19.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.047175"
+            "when": "2015-10-27T18:43:36.047562"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-rivista-italiana-di.html", 
             "resource_date": "2012-05-15T10:16:19.719-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.047188"
+            "when": "2015-10-27T18:43:36.047574"
         }
     ], 
     "publishers": [], 

@@ -48,7 +48,7 @@
         "Seleucia", 
         "Lebanon", 
         "German", 
-        "Bo\u011fazk\u00f6y", 
+        "Boğazköy", 
         "Ras Shamra", 
         "archaeology", 
         "monograph"
@@ -99,13 +99,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
             "resource_date": "2014-06-02T14:58:09.839-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:03.672846"
+            "when": "2015-10-27T18:37:04.245485"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
             "resource_date": "2014-06-02T14:58:09.839-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:03.672863"
+            "when": "2015-10-27T18:37:04.245508"
         }, 
         {
             "fields": [
@@ -146,13 +146,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1055362887162564290", 
             "resource_date": "2014-06-02T14:58:09.839-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:03.674957"
+            "when": "2015-10-27T18:37:04.248689"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tepe-yahya-iran-in-amar.html", 
             "resource_date": "2014-06-02T14:58:09.839-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:03.674971"
+            "when": "2015-10-27T18:37:04.248707"
         }, 
         {
             "fields": [
@@ -166,7 +166,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:03.677810"
+            "when": "2015-10-27T18:37:04.251215"
         }, 
         {
             "fields": [
@@ -207,13 +207,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
             "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.515663"
+            "when": "2015-10-27T18:37:08.301197"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
             "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.515680"
+            "when": "2015-10-27T18:37:08.301213"
         }, 
         {
             "fields": [
@@ -227,7 +227,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:07.518728"
+            "when": "2015-10-27T18:37:08.304445"
         }, 
         {
             "fields": [
@@ -268,13 +268,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1096390894177956598", 
             "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.517668"
+            "when": "2015-10-27T18:37:08.303188"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/les-monuments-ayyoubides-de-damas-in.html", 
             "resource_date": "2014-06-02T15:14:48.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.517680"
+            "when": "2015-10-27T18:37:08.303200"
         }, 
         {
             "fields": [
@@ -287,7 +287,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:07.520656"
+            "when": "2015-10-27T18:37:08.306876"
         }, 
         {
             "fields": [
@@ -328,13 +328,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:39.276423"
+            "when": "2015-10-27T18:37:42.516930"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:39.276439"
+            "when": "2015-10-27T18:37:42.516947"
         }, 
         {
             "fields": [
@@ -348,7 +348,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:39.280031"
+            "when": "2015-10-27T18:37:42.520726"
         }, 
         {
             "fields": [
@@ -389,13 +389,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1512953949363753591", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:39.278590"
+            "when": "2015-10-27T18:37:42.519186"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/sardis-publications-of-american-society.html", 
             "resource_date": "2012-03-04T14:52:15.927-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:39.278603"
+            "when": "2015-10-27T18:37:42.519199"
         }, 
         {
             "fields": [
@@ -408,7 +408,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:39.282501"
+            "when": "2015-10-27T18:37:42.523770"
         }, 
         {
             "fields": [
@@ -449,13 +449,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
             "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.378094"
+            "when": "2015-10-27T18:37:56.299352"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
             "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.378110"
+            "when": "2015-10-27T18:37:56.299368"
         }, 
         {
             "fields": [
@@ -469,7 +469,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.381544"
+            "when": "2015-10-27T18:37:56.305195"
         }, 
         {
             "fields": [
@@ -510,13 +510,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1640575574774770026", 
             "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.379968"
+            "when": "2015-10-27T18:37:56.301488"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/isin-isan-bahriyat-in-amar.html", 
             "resource_date": "2015-02-02T06:25:29.133-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.379980"
+            "when": "2015-10-27T18:37:56.301500"
         }, 
         {
             "fields": [
@@ -529,7 +529,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.384635"
+            "when": "2015-10-27T18:37:56.311710"
         }, 
         {
             "fields": [
@@ -570,13 +570,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2143639301795409527", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:17.719467"
+            "when": "2015-10-27T18:38:25.308130"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:17.719485"
+            "when": "2015-10-27T18:38:25.308146"
         }, 
         {
             "fields": [
@@ -590,7 +590,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:17.723573"
+            "when": "2015-10-27T18:38:25.312510"
         }, 
         {
             "fields": [
@@ -631,13 +631,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2143639301795409527", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:17.721665"
+            "when": "2015-10-27T18:38:25.310407"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/demircihuyuk-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:41:48.098-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:17.721678"
+            "when": "2015-10-27T18:38:25.310420"
         }, 
         {
             "fields": [
@@ -650,7 +650,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:17.727282"
+            "when": "2015-10-27T18:38:25.316958"
         }, 
         {
             "fields": [
@@ -691,13 +691,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3129339539768469992", 
             "resource_date": "2014-06-02T14:59:26.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:07.925938"
+            "when": "2015-10-27T18:39:17.181476"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html", 
             "resource_date": "2014-06-02T14:59:26.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:07.925954"
+            "when": "2015-10-27T18:39:17.181491"
         }, 
         {
             "fields": [
@@ -711,7 +711,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:07.930269"
+            "when": "2015-10-27T18:39:17.186085"
         }, 
         {
             "fields": [
@@ -752,13 +752,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3129339539768469992", 
             "resource_date": "2014-06-02T14:59:26.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:07.927883"
+            "when": "2015-10-27T18:39:17.183667"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/beycesultan-in-amar.html", 
             "resource_date": "2014-06-02T14:59:26.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:07.927895"
+            "when": "2015-10-27T18:39:17.183680"
         }, 
         {
             "fields": [
@@ -771,7 +771,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:07.963545"
+            "when": "2015-10-27T18:39:17.191315"
         }, 
         {
             "fields": [
@@ -812,13 +812,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3152921216295895396", 
             "resource_date": "2014-06-02T15:15:13.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:09.514623"
+            "when": "2015-10-27T18:39:18.922028"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html", 
             "resource_date": "2014-06-02T15:15:13.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:09.514639"
+            "when": "2015-10-27T18:39:18.922044"
         }, 
         {
             "fields": [
@@ -832,7 +832,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:09.519726"
+            "when": "2015-10-27T18:39:18.927351"
         }, 
         {
             "fields": [
@@ -873,13 +873,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3152921216295895396", 
             "resource_date": "2014-06-02T15:15:13.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:09.517160"
+            "when": "2015-10-27T18:39:18.924680"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/kamid-el-loz-in-amar.html", 
             "resource_date": "2014-06-02T15:15:13.568-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:09.517173"
+            "when": "2015-10-27T18:39:18.924693"
         }, 
         {
             "fields": [
@@ -892,7 +892,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:09.529330"
+            "when": "2015-10-27T18:39:18.934407"
         }, 
         {
             "fields": [
@@ -933,13 +933,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267095498670794634", 
             "resource_date": "2014-06-09T07:53:41.443-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.286137"
+            "when": "2015-10-27T18:40:20.463962"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html", 
             "resource_date": "2014-06-09T07:53:41.443-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.286162"
+            "when": "2015-10-27T18:40:20.463978"
         }, 
         {
             "fields": [
@@ -953,7 +953,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:08.291508"
+            "when": "2015-10-27T18:40:20.469002"
         }, 
         {
             "fields": [
@@ -994,13 +994,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267095498670794634", 
             "resource_date": "2014-06-09T07:53:41.443-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.288593"
+            "when": "2015-10-27T18:40:20.465983"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/series-in-amar.html", 
             "resource_date": "2014-06-09T07:53:41.443-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.288610"
+            "when": "2015-10-27T18:40:20.465995"
         }, 
         {
             "fields": [
@@ -1013,7 +1013,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:08.297742"
+            "when": "2015-10-27T18:40:20.479268"
         }, 
         {
             "fields": [
@@ -1054,13 +1054,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
             "resource_date": "2014-06-02T14:57:34.337-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.844198"
+            "when": "2015-10-27T18:40:34.531009"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
             "resource_date": "2014-06-02T14:57:34.337-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.844213"
+            "when": "2015-10-27T18:40:34.531026"
         }, 
         {
             "fields": [
@@ -1074,7 +1074,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.849294"
+            "when": "2015-10-27T18:40:34.536769"
         }, 
         {
             "fields": [
@@ -1115,13 +1115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364285961671530694", 
             "resource_date": "2014-06-02T14:57:34.337-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.846328"
+            "when": "2015-10-27T18:40:34.533377"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/bogazkoy-in-amir.html", 
             "resource_date": "2014-06-02T14:57:34.337-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.846339"
+            "when": "2015-10-27T18:40:34.533389"
         }, 
         {
             "fields": [
@@ -1134,7 +1134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.859363"
+            "when": "2015-10-27T18:40:34.548061"
         }, 
         {
             "fields": [
@@ -1175,13 +1175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3469875165025212226", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:27.523434"
+            "when": "2015-10-27T18:40:42.413737"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:27.523450"
+            "when": "2015-10-27T18:40:42.413754"
         }, 
         {
             "fields": [
@@ -1195,7 +1195,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:27.529382"
+            "when": "2015-10-27T18:40:42.420374"
         }, 
         {
             "fields": [
@@ -1236,13 +1236,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3469875165025212226", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:27.526201"
+            "when": "2015-10-27T18:40:42.416850"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/viewing-complete-books-in-amar.html", 
             "resource_date": "2013-03-28T10:53:49.922-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:27.526214"
+            "when": "2015-10-27T18:40:42.416865"
         }, 
         {
             "fields": [
@@ -1255,7 +1255,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:27.535901"
+            "when": "2015-10-27T18:40:42.428604"
         }, 
         {
             "fields": [
@@ -1296,13 +1296,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2014-06-02T14:55:25.031-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:45.136399"
+            "when": "2015-10-27T18:41:05.211199"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2014-06-02T14:55:25.031-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:45.136416"
+            "when": "2015-10-27T18:41:05.211222"
         }, 
         {
             "fields": [
@@ -1316,7 +1316,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:45.142598"
+            "when": "2015-10-27T18:41:05.220299"
         }, 
         {
             "fields": [
@@ -1357,13 +1357,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3783077536232104276", 
             "resource_date": "2014-06-02T14:55:25.031-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:45.138718"
+            "when": "2015-10-27T18:41:05.215194"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/larsa-reports-in-amar.html", 
             "resource_date": "2014-06-02T14:55:25.031-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:45.138734"
+            "when": "2015-10-27T18:41:05.215217"
         }, 
         {
             "fields": [
@@ -1376,7 +1376,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:45.150313"
+            "when": "2015-10-27T18:41:05.230283"
         }, 
         {
             "fields": [
@@ -1417,13 +1417,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3801411834309915256", 
             "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:45.942513"
+            "when": "2015-10-27T18:41:05.991014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html", 
             "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:45.942528"
+            "when": "2015-10-27T18:41:05.991029"
         }, 
         {
             "fields": [
@@ -1437,7 +1437,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:45.949186"
+            "when": "2015-10-27T18:41:05.997831"
         }, 
         {
             "fields": [
@@ -1478,13 +1478,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3801411834309915256", 
             "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:45.944839"
+            "when": "2015-10-27T18:41:05.993473"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-sendschirli-in-amar.html", 
             "resource_date": "2014-06-02T15:14:20.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:45.944855"
+            "when": "2015-10-27T18:41:05.993488"
         }, 
         {
             "fields": [
@@ -1497,7 +1497,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:45.957888"
+            "when": "2015-10-27T18:41:06.009484"
         }, 
         {
             "fields": [
@@ -1538,13 +1538,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
             "resource_date": "2015-05-01T08:16:25.000-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.170766"
+            "when": "2015-10-27T18:42:08.992240"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
             "resource_date": "2015-05-01T08:16:25.000-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.170783"
+            "when": "2015-10-27T18:42:08.992257"
         }, 
         {
             "fields": [
@@ -1558,7 +1558,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.177186"
+            "when": "2015-10-27T18:42:08.999356"
         }, 
         {
             "fields": [
@@ -1599,13 +1599,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4717975320200967161", 
             "resource_date": "2015-05-01T08:16:25.000-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.172824"
+            "when": "2015-10-27T18:42:08.994788"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ugaritica-in-amar.html", 
             "resource_date": "2015-05-01T08:16:25.000-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.172836"
+            "when": "2015-10-27T18:42:08.994803"
         }, 
         {
             "fields": [
@@ -1618,7 +1618,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.190517"
+            "when": "2015-10-27T18:42:09.010020"
         }, 
         {
             "fields": [
@@ -1659,13 +1659,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-492969630572444609", 
             "resource_date": "2014-06-02T14:59:56.251-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.550661"
+            "when": "2015-10-27T18:43:05.591718"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html", 
             "resource_date": "2014-06-02T14:59:56.251-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.550678"
+            "when": "2015-10-27T18:43:05.591733"
         }, 
         {
             "fields": [
@@ -1679,7 +1679,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:35.557637"
+            "when": "2015-10-27T18:43:05.598623"
         }, 
         {
             "fields": [
@@ -1720,13 +1720,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-492969630572444609", 
             "resource_date": "2014-06-02T14:59:56.251-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.552925"
+            "when": "2015-10-27T18:43:05.593977"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/mission-archeologique-de-mari-in-amar.html", 
             "resource_date": "2014-06-02T14:59:56.251-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.552938"
+            "when": "2015-10-27T18:43:05.593990"
         }, 
         {
             "fields": [
@@ -1739,7 +1739,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:35.567443"
+            "when": "2015-10-27T18:43:05.611111"
         }, 
         {
             "fields": [
@@ -1780,13 +1780,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
             "resource_date": "2014-06-02T15:15:40.760-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.451264"
+            "when": "2015-10-27T18:43:35.390450"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
             "resource_date": "2014-06-02T15:15:40.760-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.451282"
+            "when": "2015-10-27T18:43:35.390466"
         }, 
         {
             "fields": [
@@ -1800,7 +1800,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.458600"
+            "when": "2015-10-27T18:43:35.397807"
         }, 
         {
             "fields": [
@@ -1841,13 +1841,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5477920149853260085", 
             "resource_date": "2014-06-02T15:15:40.760-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.453615"
+            "when": "2015-10-27T18:43:35.392705"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-in-uruk-warka-endberichte.html", 
             "resource_date": "2014-06-02T15:15:40.760-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.453630"
+            "when": "2015-10-27T18:43:35.392718"
         }, 
         {
             "fields": [
@@ -1860,7 +1860,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.468778"
+            "when": "2015-10-27T18:43:35.411213"
         }, 
         {
             "fields": [
@@ -1901,13 +1901,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
             "resource_date": "2014-06-02T14:55:45.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.587980"
+            "when": "2015-10-27T18:44:16.295668"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
             "resource_date": "2014-06-02T14:55:45.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.588004"
+            "when": "2015-10-27T18:44:16.295684"
         }, 
         {
             "fields": [
@@ -1921,7 +1921,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:41.594794"
+            "when": "2015-10-27T18:44:16.302762"
         }, 
         {
             "fields": [
@@ -1962,13 +1962,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6014684559764687998", 
             "resource_date": "2014-06-02T14:55:45.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.589907"
+            "when": "2015-10-27T18:44:16.297660"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/excavations-at-tell-brak-in-amar.html", 
             "resource_date": "2014-06-02T14:55:45.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.589920"
+            "when": "2015-10-27T18:44:16.297671"
         }, 
         {
             "fields": [
@@ -1981,7 +1981,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:41.610457"
+            "when": "2015-10-27T18:44:16.315340"
         }, 
         {
             "fields": [
@@ -2022,13 +2022,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473868758059801161", 
             "resource_date": "2014-06-02T14:59:09.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:05.622746"
+            "when": "2015-10-27T18:44:43.368228"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html", 
             "resource_date": "2014-06-02T14:59:09.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:05.622762"
+            "when": "2015-10-27T18:44:43.368243"
         }, 
         {
             "fields": [
@@ -2042,7 +2042,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:05.630650"
+            "when": "2015-10-27T18:44:43.375786"
         }, 
         {
             "fields": [
@@ -2083,13 +2083,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6473868758059801161", 
             "resource_date": "2014-06-02T14:59:09.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:05.624781"
+            "when": "2015-10-27T18:44:43.370226"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/halabiyya-zenobia-in-amar.html", 
             "resource_date": "2014-06-02T14:59:09.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:05.624798"
+            "when": "2015-10-27T18:44:43.370239"
         }, 
         {
             "fields": [
@@ -2102,7 +2102,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:05.647854"
+            "when": "2015-10-27T18:44:43.389248"
         }, 
         {
             "fields": [
@@ -2143,13 +2143,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:21.465105"
+            "when": "2015-10-27T18:45:00.749492"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:21.465121"
+            "when": "2015-10-27T18:45:00.749508"
         }, 
         {
             "fields": [
@@ -2163,7 +2163,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:21.472664"
+            "when": "2015-10-27T18:45:00.757989"
         }, 
         {
             "fields": [
@@ -2204,13 +2204,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6591476688235662047", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:21.467198"
+            "when": "2015-10-27T18:45:00.751949"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/gordion-excavation-reports-in-amar.html", 
             "resource_date": "2013-05-14T09:42:02.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:21.467210"
+            "when": "2015-10-27T18:45:00.751962"
         }, 
         {
             "fields": [
@@ -2223,7 +2223,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:21.489801"
+            "when": "2015-10-27T18:45:00.772520"
         }, 
         {
             "fields": [
@@ -2264,13 +2264,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7604339822458723814", 
             "resource_date": "2014-06-02T15:00:19.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.511328"
+            "when": "2015-10-27T18:45:57.944094"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html", 
             "resource_date": "2014-06-02T15:00:19.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.511344"
+            "when": "2015-10-27T18:45:57.944111"
         }, 
         {
             "fields": [
@@ -2284,7 +2284,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:13.519338"
+            "when": "2015-10-27T18:45:57.952614"
         }, 
         {
             "fields": [
@@ -2325,13 +2325,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7604339822458723814", 
             "resource_date": "2014-06-02T15:00:19.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.513329"
+            "when": "2015-10-27T18:45:57.946221"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/ausgrabungen-der-deutschen-orient.html", 
             "resource_date": "2014-06-02T15:00:19.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.513342"
+            "when": "2015-10-27T18:45:57.946234"
         }, 
         {
             "fields": [
@@ -2344,7 +2344,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:13.537128"
+            "when": "2015-10-27T18:45:57.967105"
         }, 
         {
             "fields": [
@@ -2385,13 +2385,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
             "resource_date": "2014-06-02T14:54:45.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.629276"
+            "when": "2015-10-27T18:49:11.257903"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
             "resource_date": "2014-06-02T14:54:45.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.629292"
+            "when": "2015-10-27T18:49:11.257919"
         }, 
         {
             "fields": [
@@ -2405,7 +2405,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:13.637746"
+            "when": "2015-10-27T18:49:11.266822"
         }, 
         {
             "fields": [
@@ -2446,13 +2446,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9016964047355295590", 
             "resource_date": "2014-06-02T14:54:45.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.631501"
+            "when": "2015-10-27T18:49:11.260276"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/archaologische-berichte-aus-dem-yemen.html", 
             "resource_date": "2014-06-02T14:54:45.357-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.631512"
+            "when": "2015-10-27T18:49:11.260289"
         }, 
         {
             "fields": [
@@ -2465,7 +2465,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:13.650485"
+            "when": "2015-10-27T18:49:11.287698"
         }, 
         {
             "fields": [
@@ -2506,13 +2506,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2014-06-02T14:56:15.320-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.882180"
+            "when": "2015-10-27T18:49:18.086758"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2014-06-02T14:56:15.320-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.882197"
+            "when": "2015-10-27T18:49:18.086775"
         }, 
         {
             "fields": [
@@ -2526,7 +2526,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:19.891907"
+            "when": "2015-10-27T18:49:18.096276"
         }, 
         {
             "fields": [
@@ -2567,13 +2567,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9123824952500248838", 
             "resource_date": "2014-06-02T14:56:15.320-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.884392"
+            "when": "2015-10-27T18:49:18.089037"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/seleucia-on-tigris-in-amar.html", 
             "resource_date": "2014-06-02T14:56:15.320-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.884406"
+            "when": "2015-10-27T18:49:18.089051"
         }, 
         {
             "fields": [
@@ -2586,7 +2586,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:19.906847"
+            "when": "2015-10-27T18:49:18.112509"
         }
     ], 
     "publishers": [], 

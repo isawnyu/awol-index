@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Memnonia. Bulletin \u00e9gyptologique annuel d\u2019arch\u00e9ologie et d\u2019histoire, consacr\u00e9 en priorit\u00e9 aux \u00e9tudes th\u00e9baines. Fond\u00e9 en 1990, et \u00e9dit\u00e9 en \u00c9gypte (Le Caire), pour le compte de l\u2019Association pour la Sauvegarde du Ramesseum (ASR). Directeur de la publication: Christian Leblanc.", 
+    "description": "Memnonia. Bulletin égyptologique annuel d’archéologie et d’histoire, consacré en priorité aux études thébaines. Fondé en 1990, et édité en Égypte (Le Caire), pour le compte de l’Association pour la Sauvegarde du Ramesseum (ASR). Directeur de la publication: Christian Leblanc.", 
     "domain": "www.mafto.fr", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1085368165727328883", 
             "resource_date": "2013-01-22T15:05:13.547-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.183915"
+            "when": "2015-10-27T18:37:07.933166"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-memnonia.html", 
             "resource_date": "2013-01-22T15:05:13.547-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.183930"
+            "when": "2015-10-27T18:37:07.933184"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2645850087875203525", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.818375"
+            "when": "2015-10-27T18:38:51.955244"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.818391"
+            "when": "2015-10-27T18:38:51.955255"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:43.853161"
+            "when": "2015-10-27T18:38:51.990177"
         }
     ], 
     "publishers": [], 

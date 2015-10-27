@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Theological Commons The Theological Commons is a digital library of over 80,000 resources on theology and religion. It consists mainly of public domain books but also includes periodicals, audio recordings, and other formats. Please see the Acknowledgments page for information on our partners and sponsors. Selection of materials for inclusion in the Theological Commons is guided by the Library\u2019s Collection Development Policy. Additionally, due to legal restrictions on copyrighted works, the Theological Commons only includes materials that are out of copyright, or for which special permission has been obtained from the copyright holder. Typically, works published before 1923 are unambiguously out of copyright, and such works constitute the vast majority of content in the Theological Commons.", 
+    "description": "Theological Commons The Theological Commons is a digital library of over 80,000 resources on theology and religion. It consists mainly of public domain books but also includes periodicals, audio recordings, and other formats. Please see the Acknowledgments page for information on our partners and sponsors. Selection of materials for inclusion in the Theological Commons is guided by the Library’s Collection Development Policy. Additionally, due to legal restrictions on copyrighted works, the Theological Commons only includes materials that are out of copyright, or for which special permission has been obtained from the copyright holder. Typically, works published before 1923 are unambiguously out of copyright, and such works constitute the vast majority of content in the Theological Commons.", 
     "domain": "commons.ptsem.edu", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603730892067485959", 
             "resource_date": "2015-06-02T14:23:30.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:05.042573"
+            "when": "2015-10-27T18:47:56.653760"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-library-theological-commons.html", 
             "resource_date": "2015-06-02T14:23:30.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:05.042596"
+            "when": "2015-10-27T18:47:56.653777"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8603730892067485959", 
             "resource_date": "2015-06-02T14:23:30.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:05.046182"
+            "when": "2015-10-27T18:47:56.655649"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-library-theological-commons.html", 
             "resource_date": "2015-06-02T14:23:30.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:05.046204"
+            "when": "2015-10-27T18:47:56.655663"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:05.114876"
+            "when": "2015-10-27T18:47:56.702806"
         }
     ], 
     "publishers": [], 

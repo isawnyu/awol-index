@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "T\u00dcBA-KED", 
+        "title_full": "TÜBA-KED", 
         "url": "http://www.tuba.gov.tr/en/yayinlar/sureli-yayinlar/tuba-kultur-envanteri-dergisi.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9119618154031057776", 
             "resource_date": "2013-09-24T10:32:39.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.838606"
+            "when": "2015-10-27T18:49:18.045903"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-tuba-ked.html", 
             "resource_date": "2013-09-24T10:32:39.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.838620"
+            "when": "2015-10-27T18:49:18.045917"
         }
     ], 
     "publishers": [], 

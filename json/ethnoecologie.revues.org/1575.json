@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.617281"
+            "when": "2015-10-27T18:47:51.664219"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.617293"
+            "when": "2015-10-27T18:47:51.664242"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Margareta Tengberg , Claire Newton et Vincent Battesti \u00ab L\u2019arbre sans rival \u00bb. Palmiers dattiers et palmeraies au Moyen-Orient et en \u00c9gypte de la pr\u00e9histoire \u00e0 nos jours [Texte int\u00e9gral] \"The unrivalled tree\". Date palms and palm groves in the Middle East and Egypt, from Prehistory to the present day", 
+    "title": "Margareta Tengberg , Claire Newton et Vincent Battesti « L’arbre sans rival ». Palmiers dattiers et palmeraies au Moyen-Orient et en Égypte de la préhistoire à nos jours [Texte intégral] \"The unrivalled tree\". Date palms and palm groves in the Middle East and Egypt, from Prehistory to the present day", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

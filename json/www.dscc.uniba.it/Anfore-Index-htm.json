@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anfore Brindisine. ANFORE Le anfore da trasporto che si producevano, a partire dall\u2019et\u00e0 repubblicana, nelle fornaci rinvenute nell\u2019ager Brundisinus - gi\u00e0 segnalate in una sezione particolare nel IX vol. del Corpus Inscriptionum Latinarum, pp. 613-615, sotto la denominazione di Amphorae Calabrae - sono oggetto negli ultimi decenni di studi articolati tesi a distinguere i vari centri di produzione, in connessione, ove possibile, con le varie tipologie e cronologie. I siti produttori individuati sono i seguenti: Apani e Giancola, lungo il litorale a nord di Brindisi, Marmorelle nell\u2019entroterra e La Rosa nella zona portuale, alla periferia sud della citt\u00e0. Tutti questi siti presentano una conformazione ed una localizzazione geografica adatta all\u2019impianto di officine per la produzione ceramica: vale a dire disponibilit\u00e0 in loco di cave di argilla, presenza di un corso d\u2019acqua e di un facile approdo, vicinanza di un\u2019arteria viaria. CATALOGO DEI BOLLI.", 
+    "description": "Anfore Brindisine. ANFORE Le anfore da trasporto che si producevano, a partire dall’età repubblicana, nelle fornaci rinvenute nell’ager Brundisinus - già segnalate in una sezione particolare nel IX vol. del Corpus Inscriptionum Latinarum, pp. 613-615, sotto la denominazione di Amphorae Calabrae - sono oggetto negli ultimi decenni di studi articolati tesi a distinguere i vari centri di produzione, in connessione, ove possibile, con le varie tipologie e cronologie. I siti produttori individuati sono i seguenti: Apani e Giancola, lungo il litorale a nord di Brindisi, Marmorelle nell’entroterra e La Rosa nella zona portuale, alla periferia sud della città. Tutti questi siti presentano una conformazione ed una localizzazione geografica adatta all’impianto di officine per la produzione ceramica: vale a dire disponibilità in loco di cave di argilla, presenza di un corso d’acqua e di un facile approdo, vicinanza di un’arteria viaria. CATALOGO DEI BOLLI.", 
     "domain": "www.dscc.uniba.it", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4808901037043869294", 
             "resource_date": "2012-10-16T16:10:54.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:56.099997"
+            "when": "2015-10-27T18:42:23.910122"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/anfore-brindisine.html", 
             "resource_date": "2012-10-16T16:10:54.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:56.100019"
+            "when": "2015-10-27T18:42:23.910138"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4808901037043869294", 
             "resource_date": "2012-10-16T16:10:54.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:56.102792"
+            "when": "2015-10-27T18:42:23.911684"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/anfore-brindisine.html", 
             "resource_date": "2012-10-16T16:10:54.094-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:56.102815"
+            "when": "2015-10-27T18:42:23.911697"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:56.113318"
+            "when": "2015-10-27T18:42:23.922978"
         }
     ], 
     "publishers": [], 

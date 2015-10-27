@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8564830786692082832", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.469398"
+            "when": "2015-10-27T18:47:51.497804"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-nippur-excavations.html", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.469421"
+            "when": "2015-10-27T18:47:51.497821"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8564830786692082832", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.472679"
+            "when": "2015-10-27T18:47:51.501104"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-nippur-excavations.html", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.472693"
+            "when": "2015-10-27T18:47:51.501116"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:00.542190"
+            "when": "2015-10-27T18:47:51.572016"
         }
     ], 
     "publishers": [], 
@@ -158,7 +158,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip111.html"
         }, 
         {
-            "title_full": "Nippur, Volume 4: The Early Neo-Babylonian Governor\u2019s Archive from Nippur. S. W. Cole. 1996", 
+            "title_full": "Nippur, Volume 4: The Early Neo-Babylonian Governor’s Archive from Nippur. S. W. Cole. 1996", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip114.html"
         }, 
         {

@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-302463094712134852", 
             "resource_date": "2012-09-15T19:05:39.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:00.491254"
+            "when": "2015-10-27T18:39:08.954987"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/gis-in-archaeology-complete-guide.html", 
             "resource_date": "2012-09-15T19:05:39.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:00.491271"
+            "when": "2015-10-27T18:39:08.955003"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-302463094712134852", 
             "resource_date": "2012-09-15T19:05:39.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:00.492897"
+            "when": "2015-10-27T18:39:08.956736"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/gis-in-archaeology-complete-guide.html", 
             "resource_date": "2012-09-15T19:05:39.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:00.492909"
+            "when": "2015-10-27T18:39:08.956749"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:00.510084"
+            "when": "2015-10-27T18:39:08.975774"
         }
     ], 
     "publishers": [], 

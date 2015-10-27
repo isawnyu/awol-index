@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6047901463925449098", 
             "resource_date": "2014-07-28T07:27:06.865-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.537485"
+            "when": "2015-10-27T18:44:17.326484"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/new-open-access-journal-indo-european.html", 
             "resource_date": "2014-07-28T07:27:06.865-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.537503"
+            "when": "2015-10-27T18:44:17.326500"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8530994805382728569", 
             "resource_date": "2014-02-04T06:50:27.852-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:58.287907"
+            "when": "2015-10-27T18:47:49.145645"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/new-open-access-journal-indo-european.html", 
             "resource_date": "2014-02-04T06:50:27.852-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:58.287925"
+            "when": "2015-10-27T18:47:49.145661"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:58.292153"
+            "when": "2015-10-27T18:47:49.149826"
         }
     ], 
     "publishers": [], 
@@ -174,7 +174,7 @@
             "url": "http://booksandjournals.brillonline.com/search?value1=&option1=all&value2=Adam+I.+Cooper&option2=author"
         }, 
         {
-            "title_full": "The Synchrony and Diachrony of a Scalar Coordinator: Latin n\u0113dum \u2018Let Alone\u2019 Author: David Goldstein pp.: 68-106 (39)", 
+            "title_full": "The Synchrony and Diachrony of a Scalar Coordinator: Latin nēdum ‘Let Alone’ Author: David Goldstein pp.: 68-106 (39)", 
             "url": "http://booksandjournals.brillonline.com/content/journals/10.1163/22125892-00101003"
         }, 
         {
@@ -182,11 +182,11 @@
             "url": "http://booksandjournals.brillonline.com/search?value1=&option1=all&value2=David+Goldstein&option2=author"
         }, 
         {
-            "title_full": "Accent in Thematic Nouns Author: G\u00f6tz Keydana pp.: 107-130 (24)", 
+            "title_full": "Accent in Thematic Nouns Author: Götz Keydana pp.: 107-130 (24)", 
             "url": "http://booksandjournals.brillonline.com/content/journals/10.1163/22125892-13010101"
         }, 
         {
-            "title_full": "Author: G\u00f6tz Keydana", 
+            "title_full": "Author: Götz Keydana", 
             "url": "http://booksandjournals.brillonline.com/search?value1=&option1=all&value2=G%c3%b6tz+Keydana&option2=author"
         }, 
         {

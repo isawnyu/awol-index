@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum).", 
+    "description": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum).", 
     "domain": "web.rgzm.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum)", 
+        "title_full": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum)", 
         "url": "http://web.rgzm.de/publikationen/rgzm-open-access.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2363895708489820912", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.821110"
+            "when": "2015-10-27T18:38:41.705736"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-publikationen-des-rgzm.html", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.821128"
+            "when": "2015-10-27T18:38:41.705753"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2363895708489820912", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.823632"
+            "when": "2015-10-27T18:38:41.707540"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-publikationen-des-rgzm.html", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.823646"
+            "when": "2015-10-27T18:38:41.707552"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:33.837516"
+            "when": "2015-10-27T18:38:41.721901"
         }
     ], 
     "publishers": [], 
@@ -142,15 +142,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum)", 
+            "title_full": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum)", 
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access.html"
         }, 
         {
-            "title_full": "Jahrbuch des R\u00f6misch-Germanischen Zentralmuseums", 
+            "title_full": "Jahrbuch des Römisch-Germanischen Zentralmuseums", 
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access/jahrbuch/jahrbuch-des-roemisch-germanischen-zentralmuseums.html"
         }, 
         {
-            "title_full": "Monographie: Das kaiserzeitliche Gr\u00e4berfeld von Halbturn (Mainz, 2014)", 
+            "title_full": "Monographie: Das kaiserzeitliche Gräberfeld von Halbturn (Mainz, 2014)", 
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access/open-access-publikationen/monographie-das-kaiserzeitliche-graeberfeld-von-halbturn-mainz-2014.html"
         }, 
         {
@@ -158,15 +158,15 @@
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access/open-access-publikationen/tagungsband-sustainable-documentation-in-archaeology-technological-perspectives-in-excavation-an-processing-2014.html"
         }, 
         {
-            "title_full": "Tagungsband: Wissen f\u00fcr die Gesellschaft. Wissenstransfer als Schl\u00fcsselherausforderung f\u00fcr Forschungsinstitutionen und Forschungsmuseen (2013)", 
+            "title_full": "Tagungsband: Wissen für die Gesellschaft. Wissenstransfer als Schlüsselherausforderung für Forschungsinstitutionen und Forschungsmuseen (2013)", 
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access/open-access-publikationen/tagungsband-wissen-fuer-die-gesellschaft-wissenstransfer-als-schluesselherausforderung-fuer-forschungsinstitutionen-und-forschungsmuseen-2013.html"
         }, 
         {
-            "title_full": "Monographie: Die chronologische Einordnung der pal\u00e4olithischen Fundstellen von Sch\u00f6ningen / The chronological setting of the Palaeolithic sites of Sch\u00f6ningen (Mainz, 2012)", 
+            "title_full": "Monographie: Die chronologische Einordnung der paläolithischen Fundstellen von Schöningen / The chronological setting of the Palaeolithic sites of Schöningen (Mainz, 2012)", 
             "url": "http://web.rgzm.de/publikationen/rgzm-open-access/open-access-publikationen/monographie-die-chronologische-einordnung-der-palaeolithischen-fundstellen-von-schoeningen-the-chronological-setting-of-the-palaeolithic-sites-of-schoeningen-mainz-2012.html"
         }
     ], 
-    "title": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum)", 
+    "title": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

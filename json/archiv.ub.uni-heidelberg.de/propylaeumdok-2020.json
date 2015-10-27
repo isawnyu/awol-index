@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 168 (1999), pp. 97-100. Schenkel, Wolfgang and Brinks, J\u00fcrgen and Dittmar, Johanna and Goma\u00e0, Farouk and J\u00fcrgens, Peter (1984).", 
+    "description": "In: Göttinger Miszellen, 168 (1999), pp. 97-100. Schenkel, Wolfgang and Brinks, Jürgen and Dittmar, Johanna and Gomaà, Farouk and Jürgens, Peter (1984).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:02.464937"
+            "when": "2015-10-27T18:40:14.229846"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:02.464954"
+            "when": "2015-10-27T18:40:14.229863"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "*mu\u1e96n\u0306 t \u201eF\u00e4hre\". Die Graphie mw des Nominalbildungspr\u00e4fixes mw\u0325 in den Sargtexten, Schreiberlaune und Indiz f\u00fcr die Vokalisation", 
+    "title": "*muẖn̆ t „Fähre\". Die Graphie mw des Nominalbildungspräfixes mw̥ in den Sargtexten, Schreiberlaune und Indiz für die Vokalisation", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

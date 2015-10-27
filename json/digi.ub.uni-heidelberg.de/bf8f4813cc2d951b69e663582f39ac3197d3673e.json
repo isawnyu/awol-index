@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "323-340 Mitkowa-Szubert, Kunka: Zespo\u0142y monet Boles\u0142awa Krzywoustego i W\u0142adys\u0142awa II z miejscowo\u015bci Rudniki i Ruszcza Dolna, woj. tarnobrzeskie.", 
+    "description": "323-340 Mitkowa-Szubert, Kunka: Zespoły monet Bolesława Krzywoustego i Władysława II z miejscowości Rudniki i Ruszcza Dolna, woj. tarnobrzeskie.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.309930"
+            "when": "2015-10-27T18:46:50.526964"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.309944"
+            "when": "2015-10-27T18:46:50.526975"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "303-321 Suchodolski, Stanis\u0142aw: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Boles\u0142aw the Brave", 
+    "title": "303-321 Suchodolski, Stanisław: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Bolesław the Brave", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

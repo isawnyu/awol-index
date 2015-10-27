@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707245032706733265", 
             "resource_date": "2013-02-03T08:10:57.210-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:42.078537"
+            "when": "2015-10-27T18:45:23.583899"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/lbi-libyco-berber-inscriptions-online.html", 
             "resource_date": "2013-02-03T08:10:57.210-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:42.078553"
+            "when": "2015-10-27T18:45:23.583916"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-707245032706733265", 
             "resource_date": "2013-02-03T08:10:57.210-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:42.083661"
+            "when": "2015-10-27T18:45:23.589485"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/lbi-libyco-berber-inscriptions-online.html", 
             "resource_date": "2013-02-03T08:10:57.210-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:42.083676"
+            "when": "2015-10-27T18:45:23.589498"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:42.121118"
+            "when": "2015-10-27T18:45:23.627650"
         }
     ], 
     "publishers": [], 

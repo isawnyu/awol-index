@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Divination \u00bb.", 
+    "description": "Divination ».", 
     "domain": "ccp.yale.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4864541812229390279", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:11.819105"
+            "when": "2015-10-27T18:42:41.030656"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/cuneiform-commentaries-project.html", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:11.819125"
+            "when": "2015-10-27T18:42:41.030668"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Magic \u00bb Udughul, Marduk\u2019s address \u0160urpu, Maql\u00fb, Tummu b\u012btu Namburbi \u0160aziga Rituals", 
+    "title": "Magic » Udughul, Marduk’s address Šurpu, Maqlû, Tummu bītu Namburbi Šaziga Rituals", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

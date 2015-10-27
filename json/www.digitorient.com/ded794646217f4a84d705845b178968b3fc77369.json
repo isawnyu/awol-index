@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le \u00abDieu de J\u00e9rusalem\u00bb \u00e0 la lumi\u00e8re de l\u2019\u00e9pigraphie.", 
+    "description": "Le «Dieu de Jérusalem» à la lumière de l’épigraphie.", 
     "domain": "www.digitorient.com", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725702980694724880", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.337974"
+            "when": "2015-10-27T18:45:08.465062"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/andre-lemaire-articles-online.html", 
             "resource_date": "2013-07-27T07:30:51.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.337985"
+            "when": "2015-10-27T18:45:08.465074"
         }
     ], 
     "publishers": [], 

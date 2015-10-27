@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "RAMAGE: Revue d'anthropologie de l'art. \u00c9dit\u00e9e par le Centre d\u2019Arch\u00e9ologie G\u00e9n\u00e9rale, cette revue poursuit, dans la ligne des articles de RAMAGE, le trait\u00e9 complet d\u2019une arch\u00e9ologie et d\u2019une histoire de l\u2019art radicalement refond\u00e9es. Parce qu\u2019elle s\u2019en trouve aujourd\u2019hui d\u00e9pourvue, on propose ici d\u2019assigner \u00e0 l\u2019arch\u00e9ologie un objet qui ne peut \u00eatre que les produits de la conduite outill\u00e9e l\u2019art au sens latin du terme, non par pass\u00e9isme, mais parce que de tous les aspects de l\u2019humain, l\u2019homme technicien seul n\u2019a pas vraiment trouv\u00e9 preneur universitaire et qu\u2019elle est la plus apte \u00e0 s\u2019en charger, pour un bel avenir dans le d\u00e9veloppement des sciences de la culture. La revue a \u00e9t\u00e9 fond\u00e9e par P. -Y. Balut et Ph. Bruneau en 1982. Elle para\u00eet sous forme num\u00e9rique, depuis 2012.", 
+    "description": "RAMAGE: Revue d'anthropologie de l'art. Éditée par le Centre d’Archéologie Générale, cette revue poursuit, dans la ligne des articles de RAMAGE, le traité complet d’une archéologie et d’une histoire de l’art radicalement refondées. Parce qu’elle s’en trouve aujourd’hui dépourvue, on propose ici d’assigner à l’archéologie un objet qui ne peut être que les produits de la conduite outillée l’art au sens latin du terme, non par passéisme, mais parce que de tous les aspects de l’humain, l’homme technicien seul n’a pas vraiment trouvé preneur universitaire et qu’elle est la plus apte à s’en charger, pour un bel avenir dans le développement des sciences de la culture. La revue a été fondée par P. -Y. Balut et Ph. Bruneau en 1982. Elle paraît sous forme numérique, depuis 2012.", 
     "domain": "anthropologiedelart.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.495031"
+            "when": "2015-10-27T18:45:19.722867"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.495046"
+            "when": "2015-10-27T18:45:19.722883"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.523102"
+            "when": "2015-10-27T18:45:19.758582"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.523114"
+            "when": "2015-10-27T18:45:19.758593"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.582737"
+            "when": "2015-10-27T18:45:19.822958"
         }
     ], 
     "publishers": [], 
@@ -144,23 +144,23 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Centre d\u2019Arch\u00e9ologie G\u00e9n\u00e9rale", 
+            "title_full": "Centre d’Archéologie Générale", 
             "url": "http://anthropologiedelart.org/centrage/"
         }, 
         {
-            "title_full": "Pr\u00e9sentation", 
+            "title_full": "Présentation", 
             "url": "http://anthropologiedelart.org/ramage"
         }, 
         {
-            "title_full": "RAMAGE - s\u00e9rie en ligne Sommaire R\u00e9sum\u00e9s Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Pr\u00e9sentation des auteurs Mathilde Couronn\u00e9 Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Editorial - RAMAGE, le retour ! Le tatouage Les disparus de l\u2019arch\u00e9ologie L\u2019antiquit\u00e9 \u00e0 l\u2019\u00e9preuve du disparu Arch\u00e9ologie du disparu et p\u00e9riode moderne A la recherche du cuir disparu : le tan retrouv\u00e9 Hermopolis gr\u00e9co-romaine La peinture grecque disparue La musique antique et le disparu D\u2019une g\u00e9ographie du disparu \u00e0 une arch\u00e9ologie du paysage Compte-rendu", 
+            "title_full": "RAMAGE - série en ligne Sommaire Résumés Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Présentation des auteurs Mathilde Couronné Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Editorial - RAMAGE, le retour ! Le tatouage Les disparus de l’archéologie L’antiquité à l’épreuve du disparu Archéologie du disparu et période moderne A la recherche du cuir disparu : le tan retrouvé Hermopolis gréco-romaine La peinture grecque disparue La musique antique et le disparu D’une géographie du disparu à une archéologie du paysage Compte-rendu", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=329"
         }, 
         {
-            "title_full": "Sommaire R\u00e9sum\u00e9s Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Pr\u00e9sentation des auteurs Mathilde Couronn\u00e9 Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
+            "title_full": "Sommaire Résumés Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Présentation des auteurs Mathilde Couronné Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=159"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
+            "title_full": "Résumés Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=220"
         }, 
         {
@@ -180,11 +180,11 @@
             "url": "http://anthropologiedelart.org/ramage/?page_id=254"
         }, 
         {
-            "title_full": "Pr\u00e9sentation des auteurs Mathilde Couronn\u00e9 Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
+            "title_full": "Présentation des auteurs Mathilde Couronné Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=104"
         }, 
         {
-            "title_full": "Mathilde Couronn\u00e9", 
+            "title_full": "Mathilde Couronné", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=286"
         }, 
         {
@@ -212,23 +212,23 @@
             "url": "http://anthropologiedelart.org/ramage/?page_id=475"
         }, 
         {
-            "title_full": "Les disparus de l\u2019arch\u00e9ologie", 
+            "title_full": "Les disparus de l’archéologie", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=393"
         }, 
         {
-            "title_full": "L\u2019antiquit\u00e9 \u00e0 l\u2019\u00e9preuve du disparu", 
+            "title_full": "L’antiquité à l’épreuve du disparu", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=396"
         }, 
         {
-            "title_full": "Arch\u00e9ologie du disparu et p\u00e9riode moderne", 
+            "title_full": "Archéologie du disparu et période moderne", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=401"
         }, 
         {
-            "title_full": "A la recherche du cuir disparu : le tan retrouv\u00e9", 
+            "title_full": "A la recherche du cuir disparu : le tan retrouvé", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=404"
         }, 
         {
-            "title_full": "Hermopolis gr\u00e9co-romaine", 
+            "title_full": "Hermopolis gréco-romaine", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=452"
         }, 
         {
@@ -240,7 +240,7 @@
             "url": "http://anthropologiedelart.org/ramage/?page_id=414"
         }, 
         {
-            "title_full": "D\u2019une g\u00e9ographie du disparu \u00e0 une arch\u00e9ologie du paysage", 
+            "title_full": "D’une géographie du disparu à une archéologie du paysage", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=460"
         }, 
         {
@@ -248,7 +248,7 @@
             "url": "http://anthropologiedelart.org/ramage/?page_id=441"
         }, 
         {
-            "title_full": "Archives - Fascicules en texte int\u00e9gral RAMAGE 1 (1982) Sommaire", 
+            "title_full": "Archives - Fascicules en texte intégral RAMAGE 1 (1982) Sommaire", 
             "url": "http://anthropologiedelart.org/ramage/?page_id=27"
         }, 
         {

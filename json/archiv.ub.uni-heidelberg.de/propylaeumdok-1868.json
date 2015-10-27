@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 149 (1995), pp. 67-82. Peust, Carsten (1997).", 
+    "description": "In: Göttinger Miszellen, 149 (1995), pp. 67-82. Peust, Carsten (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:57.649542"
+            "when": "2015-10-27T18:40:09.251260"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:57.649560"
+            "when": "2015-10-27T18:40:09.251277"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "M\u00f6glichkeiten einer Rekonstruktion \u00e4gyptischer Vortonvokale aus dem Befund der koptischen Dialekte", 
+    "title": "Möglichkeiten einer Rekonstruktion ägyptischer Vortonvokale aus dem Befund der koptischen Dialekte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

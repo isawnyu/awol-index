@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+        "title_full": "Dialogues d'histoire ancienne. Suppléments", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.109217"
+            "when": "2015-10-27T18:47:54.349282"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.109231"
+            "when": "2015-10-27T18:47:54.349298"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Trajan, Pline et l\u2019appauvrissement de la pl\u00e8be \u00e0 Rome", 
+    "title": "Trajan, Pline et l’appauvrissement de la plèbe à Rome", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

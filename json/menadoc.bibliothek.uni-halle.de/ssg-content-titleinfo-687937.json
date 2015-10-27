@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted 12/2/10, Most recently updated 12 April 2013]. Hallesche Beitr\u00e4ge zur Orientwissenschaft. ISSN 0440-1298.", 
+    "description": "[First posted 12/2/10, Most recently updated 12 April 2013]. Hallesche Beiträge zur Orientwissenschaft. ISSN 0440-1298.", 
     "domain": "menadoc.bibliothek.uni-halle.de", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Hallesche Beitr\u00e4ge zur Orientwissenschaft", 
+        "title_full": "Hallesche Beiträge zur Orientwissenschaft", 
         "url": "http://menadoc.bibliothek.uni-halle.de/ssg/sru?http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243479query=Hallesche+Beitr%C3%A4ge+zur+Orientwissenschaf&searchtype=combined&mode=view&operation=searchRetrieve"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2239546717630774161", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:21.255027"
+            "when": "2015-10-27T18:38:29.105207"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-open-access-journal-hallesche.html", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:21.255040"
+            "when": "2015-10-27T18:38:29.105219"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "44 (2007) Stabilisierung und Profilierung der koptischen Kirche im 4. Jahrhundert : Beitr\u00e4ge zur X. Internationalen Halleschen Koptologentagung 2006 Content of this Publication", 
+    "title": "44 (2007) Stabilisierung und Profilierung der koptischen Kirche im 4. Jahrhundert : Beiträge zur X. Internationalen Halleschen Koptologentagung 2006 Content of this Publication", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Florin Gog\u00e2ltan, Victor Sava, Lucian Mercea.", 
+    "description": "Florin Gogâltan, Victor Sava, Lucian Mercea.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.557777"
+            "when": "2015-10-27T18:43:06.642203"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.557791"
+            "when": "2015-10-27T18:43:06.642215"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Contributions to the Knowledge of Parietal Art in North-Western Transylvania. the Discoveries from Ileanda (S\u0103laj County)", 
+    "title": "Contributions to the Knowledge of Parietal Art in North-Western Transylvania. the Discoveries from Ileanda (Sălaj County)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

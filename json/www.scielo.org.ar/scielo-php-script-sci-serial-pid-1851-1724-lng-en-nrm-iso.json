@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8116860560823889643", 
             "resource_date": "2013-12-01T19:52:24.006-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.240529"
+            "when": "2015-10-27T18:47:00.750637"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/new-open-access-journal-circe.html", 
             "resource_date": "2013-12-01T19:52:24.006-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.240544"
+            "when": "2015-10-27T18:47:00.750654"
         }
     ], 
     "publishers": [], 
@@ -127,7 +127,7 @@
             "url": "http://www.scielo.org.ar/scielo.php?script=sci_issuetoc&pid=1851-172420040001&lng=en&nrm=iso"
         }
     ], 
-    "title": "Circe de Cl\u00e1sicos y Modernos", 
+    "title": "Circe de Clásicos y Modernos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

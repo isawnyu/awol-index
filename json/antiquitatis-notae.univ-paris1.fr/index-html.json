@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ANTIQUITATIS NOTAE: Bulletin des sciences antiques du monde m\u00e9diterran\u00e9en. Antiquitatis Notae est un bulletin en ligne, consacr\u00e9 \u00e0 l\u2019Antiquit\u00e9, qui a pour cadre les civilisations s\u2019\u00e9tant d\u00e9velopp\u00e9es autour de la M\u00e9diterran\u00e9e et pour objectif d\u2019\u00e9tablir des liens entre des disciplines isol\u00e9es les unes des autres. Le bulletin permettra la diffusion d\u2019informations rapides entre sp\u00e9cialistes. Il est destin\u00e9 aussi \u00e0 des non-sp\u00e9cialistes d\u00e9sireux de s\u2019informer dans le secteur de leur choix. ACCUEIL. PRESENTATION. AUTEURS. ARTICLES. PUBLICATIONS. COLLOQUES. ENTREVUES. LIENS. VOYAGES. INFORMATIONS See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "ANTIQUITATIS NOTAE: Bulletin des sciences antiques du monde méditerranéen. Antiquitatis Notae est un bulletin en ligne, consacré à l’Antiquité, qui a pour cadre les civilisations s’étant développées autour de la Méditerranée et pour objectif d’établir des liens entre des disciplines isolées les unes des autres. Le bulletin permettra la diffusion d’informations rapides entre spécialistes. Il est destiné aussi à des non-spécialistes désireux de s’informer dans le secteur de leur choix. ACCUEIL. PRESENTATION. AUTEURS. ARTICLES. PUBLICATIONS. COLLOQUES. ENTREVUES. LIENS. VOYAGES. INFORMATIONS See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "antiquitatis-notae.univ-paris1.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ANTIQUITATIS NOTAE: Bulletin des sciences antiques du monde m\u00e9diterran\u00e9en", 
+        "title_full": "ANTIQUITATIS NOTAE: Bulletin des sciences antiques du monde méditerranéen", 
         "url": "http://antiquitatis-notae.univ-paris1.fr/index.html"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3605599659612415819", 
             "resource_date": "2014-07-12T08:21:02.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.877902"
+            "when": "2015-10-27T18:40:49.562634"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-antiquitatis-notae.html", 
             "resource_date": "2014-07-12T08:21:02.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.877916"
+            "when": "2015-10-27T18:40:49.562650"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3605599659612415819", 
             "resource_date": "2014-07-12T08:21:02.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.886630"
+            "when": "2015-10-27T18:40:49.571598"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-antiquitatis-notae.html", 
             "resource_date": "2014-07-12T08:21:02.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.886647"
+            "when": "2015-10-27T18:40:49.571618"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:33.900542"
+            "when": "2015-10-27T18:40:49.586747"
         }
     ], 
     "publishers": [], 
@@ -144,7 +144,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "ANTIQUITATIS NOTAE : Bulletin des sciences antiques du monde m\u00e9diterran\u00e9en", 
+            "title_full": "ANTIQUITATIS NOTAE : Bulletin des sciences antiques du monde méditerranéen", 
             "url": "http://antiquitatis-notae.univ-paris1.fr/index.html"
         }, 
         {
@@ -184,7 +184,7 @@
             "url": "http://antiquitatis-notae.univ-paris1.fr/page24.html"
         }
     ], 
-    "title": "ANTIQUITATIS NOTAE : Bulletin des sciences antiques du monde m\u00e9diterran\u00e9en", 
+    "title": "ANTIQUITATIS NOTAE : Bulletin des sciences antiques du monde méditerranéen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

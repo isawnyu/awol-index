@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Berkeley Undergraduate Journal of Classics. The Berkeley Undergraduate Journal of Classics is committed to the progress and proliferation of scholarship in the field of Classics and to providing a common medium through which undergraduates from all relevant disciplines can actively engage in one another\u2019s work. In order to establish a channel for interdepartmental exchange and collaboration, we seek to publish exceptional papers and translations from a wide range of fields pertaining to Classics and the world of the ancient Mediterranean.", 
+    "description": "Berkeley Undergraduate Journal of Classics. The Berkeley Undergraduate Journal of Classics is committed to the progress and proliferation of scholarship in the field of Classics and to providing a common medium through which undergraduates from all relevant disciplines can actively engage in one another’s work. In order to establish a channel for interdepartmental exchange and collaboration, we seek to publish exceptional papers and translations from a wide range of fields pertaining to Classics and the world of the ancient Mediterranean.", 
     "domain": "escholarship.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1235132675665443317", 
             "resource_date": "2013-11-12T08:06:14.217-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:15.893113"
+            "when": "2015-10-27T18:37:17.474148"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-berkeley.html", 
             "resource_date": "2013-11-12T08:06:14.217-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:15.893128"
+            "when": "2015-10-27T18:37:17.474165"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Comic Spaces and Plautus\u2019 Rudens", 
+            "title_full": "Comic Spaces and Plautus’ Rudens", 
             "url": "http://escholarship.org/uc/item/90q29089"
         }, 
         {
@@ -107,7 +107,7 @@
             "url": "http://escholarship.org/uc/item/67t7807d"
         }, 
         {
-            "title_full": "The Declension of Bloom: Grammar, Diversion, and Union in Joyce\u2019s Ulysses", 
+            "title_full": "The Declension of Bloom: Grammar, Diversion, and Union in Joyce’s Ulysses", 
             "url": "http://escholarship.org/uc/item/56m627ts"
         }, 
         {
@@ -127,7 +127,7 @@
             "url": "http://escholarship.org/uc/item/3kg020n6"
         }, 
         {
-            "title_full": "The Political Nature of Plato\u2019s Symposium", 
+            "title_full": "The Political Nature of Plato’s Symposium", 
             "url": "http://escholarship.org/uc/item/8pk0942w"
         }, 
         {

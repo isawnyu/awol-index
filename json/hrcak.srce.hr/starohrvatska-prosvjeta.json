@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.807359"
+            "when": "2015-10-27T18:43:05.820435"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.807395"
+            "when": "2015-10-27T18:43:05.820448"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8341708848626308623", 
             "resource_date": "2012-12-19T06:16:33.429-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:21.657957"
+            "when": "2015-10-27T18:47:09.822376"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/newly-open-access-journal-starohrvatska.html", 
             "resource_date": "2012-12-19T06:16:33.429-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:21.657980"
+            "when": "2015-10-27T18:47:09.822391"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:21.721935"
+            "when": "2015-10-27T18:47:09.877725"
         }
     ], 
     "publishers": [], 

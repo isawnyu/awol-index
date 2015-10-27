@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Recherches Arch\u00e9ologiques Nouvelle Serie", 
+        "title_full": "Recherches Archéologiques Nouvelle Serie", 
         "url": "http://www.farkha.nazwa.pl/RechACrac/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2583452340409885846", 
             "resource_date": "2013-10-06T19:25:37.284-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.591115"
+            "when": "2015-10-27T18:38:49.759327"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-recherches.html", 
             "resource_date": "2013-10-06T19:25:37.284-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.591136"
+            "when": "2015-10-27T18:38:49.759340"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Recherches Arch\u00e9ologiques 1991-1992", 
+    "title": "Recherches Archéologiques 1991-1992", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

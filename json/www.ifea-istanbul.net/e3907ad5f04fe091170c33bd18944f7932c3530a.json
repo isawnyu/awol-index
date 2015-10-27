@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Rencontres d'Arch\u00e9ologie de l'IFEA. Institut Francais d'Etudes Anatoliennes. L'IFEA est un Institut de recherche fran\u00e7ais en Turquie. D\u00e9pendant du MAE et du CNRS, il a pour vocation de faciliter, de f\u00e9d\u00e9rer et d'impulser des recherches en sciences humaines et sociales et en arch\u00e9ologie. C'est une structure de services (biblioth\u00e8que, documentation, cartographie) et d'accueil des chercheurs, doctorants et stagiaires. L'institut propose une programmation scientifique ouverte au public. Les Rencontres d'Arch\u00e9ologie de l'IFEA sont le lieu d'\u00e9change sur l'actualit\u00e9 de l'arch\u00e9ologie fran\u00e7aise en Turquie et un point de rencontre entre chercheurs turcs, fran\u00e7ais et \u00e9trangers, qu'ils soient jeunes chercheurs ou confirm\u00e9s.", 
+    "description": "Rencontres d'Archéologie de l'IFEA. Institut Francais d'Etudes Anatoliennes. L'IFEA est un Institut de recherche français en Turquie. Dépendant du MAE et du CNRS, il a pour vocation de faciliter, de fédérer et d'impulser des recherches en sciences humaines et sociales et en archéologie. C'est une structure de services (bibliothèque, documentation, cartographie) et d'accueil des chercheurs, doctorants et stagiaires. L'institut propose une programmation scientifique ouverte au public. Les Rencontres d'Archéologie de l'IFEA sont le lieu d'échange sur l'actualité de l'archéologie française en Turquie et un point de rencontre entre chercheurs turcs, français et étrangers, qu'ils soient jeunes chercheurs ou confirmés.", 
     "domain": "www.ifea-istanbul.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Rencontres d'Arch\u00e9ologie de l'IFEA", 
+        "title_full": "Rencontres d'Archéologie de l'IFEA", 
         "url": "http://www.ifea-istanbul.net/index.php?option=com_k2&view=itemlist&layout=user&id=1167&task=user&Itemid=464&lang=fr"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7914203564531960043", 
             "resource_date": "2013-07-22T10:04:16.704-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:02.490923"
+            "when": "2015-10-27T18:46:49.602024"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-rencontres.html", 
             "resource_date": "2013-07-22T10:04:16.704-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:02.490934"
+            "when": "2015-10-27T18:46:49.602037"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Maussollos\u2019s mnema: An iconographical approach to the architecture of the Maussolleion at Halikarnassos", 
+    "title": "Maussollos’s mnema: An iconographical approach to the architecture of the Maussolleion at Halikarnassos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mouton, M. and Carrez, F. (Hrsgg. ): Assemblages c\u00e9ramique des sites de l\u2019\u00e2ge du fer de la p\u00e9ninsule d\u2019Oman. Lyon 1998. ISBN 2-903264-85-6. Yule, Paul (2001).", 
+    "description": "In: Mouton, M. and Carrez, F. (Hrsgg. ): Assemblages céramique des sites de l’âge du fer de la péninsule d’Oman. Lyon 1998. ISBN 2-903264-85-6. Yule, Paul (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.290594"
+            "when": "2015-10-27T18:46:27.077021"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.290610"
+            "when": "2015-10-27T18:46:27.077037"
         }
     ], 
     "publishers": [], 

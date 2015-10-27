@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen. Die Universit\u00e4tsbibliothek bietet allen Angeh\u00f6rigen der Eberhard Karls Universit\u00e4t T\u00fcbingen - Forschenden, Lehrenden und Studierenden - die M\u00f6glichkeit, elektronisch erzeugte, qualifizierte Dokumente \u00fcber ihr Online-Publikations-System kostenlos zu ver\u00f6ffentlichen. Die Texte stehen nach ihrer Ver\u00f6ffentlichung im Sinne von Open Access weltweit frei zug\u00e4nglich im Internet zur Verf\u00fcgung und werden von der Bibliothek dauerhaft archiviert. Die Dokumente werden \u00fcber Bibliothekskataloge und Internetsuchmaschinen erschlossen und zug\u00e4nglich gemacht. Dissertations on Antiquity online from Eberhard Karls Universit\u00e4t T\u00fcbingen.", 
+    "description": "TOBIAS-lib - Hochschulschriftenserver der Universität Tübingen. Die Universitätsbibliothek bietet allen Angehörigen der Eberhard Karls Universität Tübingen - Forschenden, Lehrenden und Studierenden - die Möglichkeit, elektronisch erzeugte, qualifizierte Dokumente über ihr Online-Publikations-System kostenlos zu veröffentlichen. Die Texte stehen nach ihrer Veröffentlichung im Sinne von Open Access weltweit frei zugänglich im Internet zur Verfügung und werden von der Bibliothek dauerhaft archiviert. Die Dokumente werden über Bibliothekskataloge und Internetsuchmaschinen erschlossen und zugänglich gemacht. Dissertations on Antiquity online from Eberhard Karls Universität Tübingen.", 
     "domain": "tobias-lib.uni-tuebingen.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen", 
+        "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universität Tübingen", 
         "url": "http://tobias-lib.uni-tuebingen.de/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5526740173698139530", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.745115"
+            "when": "2015-10-27T18:43:36.815103"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.745130"
+            "when": "2015-10-27T18:43:36.815120"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5526740173698139530", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.749053"
+            "when": "2015-10-27T18:43:36.819135"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.749067"
+            "when": "2015-10-27T18:43:36.819150"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:04.789686"
+            "when": "2015-10-27T18:43:36.853634"
         }
     ], 
     "publishers": [], 
@@ -142,15 +142,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen", 
+            "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universität Tübingen", 
             "url": "http://tobias-lib.uni-tuebingen.de/"
         }, 
         {
-            "title_full": "\u00c7ilingiroglu, \u00c7iler (2009): Central-West Anatolia at the end of 7th and beginning of 6th millennium BCE in the light of pottery from Ulucak (Izmir) Dissertation", 
+            "title_full": "Çilingiroglu, Çiler (2009): Central-West Anatolia at the end of 7th and beginning of 6th millennium BCE in the light of pottery from Ulucak (Izmir) Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4278&la=de"
         }, 
         {
-            "title_full": "Hepperle, Ursula (2010): Hellenismos bei Flavius Claudius Iulianus und der Konsolidierungsprozess des Christentums im Osten des R\u00f6mischen Reiches Dissertation", 
+            "title_full": "Hepperle, Ursula (2010): Hellenismos bei Flavius Claudius Iulianus und der Konsolidierungsprozess des Christentums im Osten des Römischen Reiches Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4865&la=de"
         }, 
         {
@@ -166,7 +166,7 @@
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=2481&la=de"
         }, 
         {
-            "title_full": "Kusber, Eberhard (2005): Der alt\u00e4gyptische Ka - \"Seele\" oder \"Pers\u00f6nlichkeit\"? Dissertation", 
+            "title_full": "Kusber, Eberhard (2005): Der altägyptische Ka - \"Seele\" oder \"Persönlichkeit\"? Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=1893&la=de"
         }, 
         {
@@ -182,23 +182,23 @@
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=5000&la=de"
         }, 
         {
-            "title_full": "\u00dcnl\u00fcsoy, Sinan (2010): Die Stratigraphie der Burg von Troia II Dissertation", 
+            "title_full": "Ünlüsoy, Sinan (2010): Die Stratigraphie der Burg von Troia II Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4509&la=de"
         }, 
         {
-            "title_full": "Wo, Haowei (2010): Arch\u00e4ometrische Untersuchungen an antiken chinesischen Bronzen Dissertation", 
+            "title_full": "Wo, Haowei (2010): Archäometrische Untersuchungen an antiken chinesischen Bronzen Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=4511&la=de"
         }, 
         {
-            "title_full": "Zentler, Marco-Alexander (2011): \u00c4gyptischer Himmel in koptischer Erde - pagan-alt\u00e4gyptische Reminiszenzen (Survivals) im sp\u00e4tantiken, koptischen Christentum Dissertation", 
+            "title_full": "Zentler, Marco-Alexander (2011): Ägyptischer Himmel in koptischer Erde - pagan-altägyptische Reminiszenzen (Survivals) im spätantiken, koptischen Christentum Dissertation", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=5744&la=de"
         }, 
         {
-            "title_full": "Zischow, Arianna (2004): Die bronzezeitlichen Fundpl\u00e4tze des Tsalka-Plateaus in Trialeti/Georgien im Kontext der Bronzezeit Transkaukasiens Diplomarbeit, Magisterarbeit", 
+            "title_full": "Zischow, Arianna (2004): Die bronzezeitlichen Fundplätze des Tsalka-Plateaus in Trialeti/Georgien im Kontext der Bronzezeit Transkaukasiens Diplomarbeit, Magisterarbeit", 
             "url": "http://tobias-lib.uni-tuebingen.de/frontdoor.php?source_opus=2180&la=de"
         }
     ], 
-    "title": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen", 
+    "title": "TOBIAS-lib - Hochschulschriftenserver der Universität Tübingen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

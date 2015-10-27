@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Onoba. Revista de arqueolog\u00eda y antig\u00fcedad", 
+        "title_full": "Onoba. Revista de arqueología y antigüedad", 
         "url": "http://www.uhu.es/publicaciones/ojs/index.php/onoba/index"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4698370895497261762", 
             "resource_date": "2013-08-08T09:04:08.001-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.645084"
+            "when": "2015-10-27T18:42:08.371726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/new-open-access-journal-onoba-revista.html", 
             "resource_date": "2013-08-08T09:04:08.001-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.645095"
+            "when": "2015-10-27T18:42:08.371737"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "PDF (Espa\u00f1ol (Espa\u00f1a))", 
+    "title": "PDF (Español (España))", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

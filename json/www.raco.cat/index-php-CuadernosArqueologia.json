@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-340430011959530416", 
             "resource_date": "2013-08-28T17:04:37.125-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:22.007722"
+            "when": "2015-10-27T18:40:35.871981"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-journal-cuadernos-de.html", 
             "resource_date": "2013-08-28T17:04:37.125-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:22.007738"
+            "when": "2015-10-27T18:40:35.871998"
         }
     ], 
     "publishers": [], 
@@ -80,79 +80,79 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "N\u00fam.: 18", 
+            "title_full": "Núm.: 18", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/17974"
         }, 
         {
-            "title_full": "N\u00fam.: 17", 
+            "title_full": "Núm.: 17", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/17972"
         }, 
         {
-            "title_full": "N\u00fam.: 16", 
+            "title_full": "Núm.: 16", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/17969"
         }, 
         {
-            "title_full": "N\u00fam.: 15", 
+            "title_full": "Núm.: 15", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/6839"
         }, 
         {
-            "title_full": "N\u00fam.: 14", 
+            "title_full": "Núm.: 14", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/6838"
         }, 
         {
-            "title_full": "N\u00fam.: 13", 
+            "title_full": "Núm.: 13", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/4476"
         }, 
         {
-            "title_full": "N\u00fam.: 12", 
+            "title_full": "Núm.: 12", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3714"
         }, 
         {
-            "title_full": "N\u00fam.: 11", 
+            "title_full": "Núm.: 11", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3713"
         }, 
         {
-            "title_full": "N\u00fam.: 10", 
+            "title_full": "Núm.: 10", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3712"
         }, 
         {
-            "title_full": "N\u00fam.: 9", 
+            "title_full": "Núm.: 9", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3711"
         }, 
         {
-            "title_full": "N\u00fam.: 8", 
+            "title_full": "Núm.: 8", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3710"
         }, 
         {
-            "title_full": "N\u00fam.: 7", 
+            "title_full": "Núm.: 7", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3709"
         }, 
         {
-            "title_full": "N\u00fam.: 5-6", 
+            "title_full": "Núm.: 5-6", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3708"
         }, 
         {
-            "title_full": "N\u00fam.: 4", 
+            "title_full": "Núm.: 4", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3707"
         }, 
         {
-            "title_full": "N\u00fam.: 3", 
+            "title_full": "Núm.: 3", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3706"
         }, 
         {
-            "title_full": "N\u00fam.: 2", 
+            "title_full": "Núm.: 2", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3705"
         }, 
         {
-            "title_full": "N\u00fam.: 1", 
+            "title_full": "Núm.: 1", 
             "url": "http://www.raco.cat/index.php/CuadernosArqueologia/issue/view/3704"
         }, 
         {
-            "title_full": "Revistes Catalanes amb Acc\u00e9s Ober", 
+            "title_full": "Revistes Catalanes amb Accés Ober", 
             "url": "http://www.raco.cat/index.php/index/raco/revistes"
         }
     ], 
-    "title": "Cuadernos de Arqueolog\u00eda Mediterr\u00e1nea", 
+    "title": "Cuadernos de Arqueología Mediterránea", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

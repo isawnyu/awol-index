@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: K\u00fchne, Hartmut (Hrsg. ): Magdalu/ Magdala, Tall Seh Hamad von der postassyrischen Zeit bis zur r\u00f6mischen Kaiserzeit. Berichte der Ausgrabung Tall Seh Hamad- / Dur-Katlimmu Bd. 2/1. Berlin 2005, pp. 313-320. R\u00f6llig, Wolfgang (2001).", 
+    "description": "In: Kühne, Hartmut (Hrsg. ): Magdalu/ Magdala, Tall Seh Hamad von der postassyrischen Zeit bis zur römischen Kaiserzeit. Berichte der Ausgrabung Tall Seh Hamad- / Dur-Katlimmu Bd. 2/1. Berlin 2005, pp. 313-320. Röllig, Wolfgang (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.602807"
+            "when": "2015-10-27T18:46:24.394200"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.602823"
+            "when": "2015-10-27T18:46:24.394215"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Aramaica Haburensia IV. Gef\u00e4\u00dfaufschriften r\u00f6misch-parthischer Zeit aus Tall Seh Hamad", 
+    "title": "Aramaica Haburensia IV. Gefäßaufschriften römisch-parthischer Zeit aus Tall Seh Hamad", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

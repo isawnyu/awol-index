@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-435383913220076450", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.742917"
+            "when": "2015-10-27T18:41:51.160191"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/teasers-from-forthcoming-encyclopedia.html", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.742928"
+            "when": "2015-10-27T18:41:51.160203"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Edict, magistrate\u2019s", 
+    "title": "Edict, magistrate’s", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

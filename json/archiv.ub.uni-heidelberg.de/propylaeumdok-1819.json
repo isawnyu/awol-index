@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Vaisselle m\u00e9tallique - vaisselle c\u00e9ramique. Rencontre d'\u00e9tudes sur les vases \u00e9trusques, Nantes Mai 1994. 1995, pp. 77-87 (Revue des \u00e9tudes anciennes; 97). Krauskopf, Ingrid (2006).", 
+    "description": "In: Vaisselle métallique - vaisselle céramique. Rencontre d'études sur les vases étrusques, Nantes Mai 1994. 1995, pp. 77-87 (Revue des études anciennes; 97). Krauskopf, Ingrid (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:38.286365"
+            "when": "2015-10-27T18:48:32.231208"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:38.286380"
+            "when": "2015-10-27T18:48:32.231223"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00dcberlegungen zur zeitlichen Diskrepanz zwichen [zwischen] Metallgef\u00e4ssen und ihren Nachbildungen in Ton", 
+    "title": "Überlegungen zur zeitlichen Diskrepanz zwichen [zwischen] Metallgefässen und ihren Nachbildungen in Ton", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

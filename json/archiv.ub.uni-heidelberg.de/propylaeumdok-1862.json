@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Acts of the 9th Cretological Congress [\u03a0\u03b5\u03c0\u03c1\u03b1\u03b3\u03bc\u03ad\u03bd\u03b1 \u0398\u0384 \u0394\u03b9\u03b5\u03b8\u03bd\u03bf. \u03c2 \u039a\u03c1\u03b7\u03c4\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf. \u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03bf\u03c5]. Heraklion 2006, pp. 9-24. Chaniotis, Angelos (2005).", 
+    "description": "In: Acts of the 9th Cretological Congress [Πεπραγμένα Θ΄ Διεθνο. ς Κρητολογικο. Συνεδρίου]. Heraklion 2006, pp. 9-24. Chaniotis, Angelos (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:33.572071"
+            "when": "2015-10-27T18:48:26.705301"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:33.572086"
+            "when": "2015-10-27T18:48:26.705318"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u03a0\u03c1\u03bf\u03c3\u03b4\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u1f76 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03c4\u1f74\u03bd \u1f11\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u1f74 \u039a\u03c1\u03ae\u03c4\u03b7", 
+    "title": "Προσδιορισμοὶ ταυτότητας στὴν ἑλληνιστικὴ Κρήτη", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

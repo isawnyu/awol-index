@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: R\u00fcpke, J. (Hrsg. ): Antike Religionsgeschichte in r\u00e4umlicher Perspektive. T\u00fcbingen 2007, pp. 117-124. Chaniotis, Angelos and Thaler, Ulrich (2006).", 
+    "description": "In: Rüpke, J. (Hrsg. ): Antike Religionsgeschichte in räumlicher Perspektive. Tübingen 2007, pp. 117-124. Chaniotis, Angelos and Thaler, Ulrich (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.493241"
+            "when": "2015-10-27T18:46:45.661533"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.493258"
+            "when": "2015-10-27T18:46:45.661549"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:34.173085"
+            "when": "2015-10-27T18:48:27.454962"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:34.173100"
+            "when": "2015-10-27T18:48:27.454980"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.469351"
+            "when": "2015-10-27T18:48:38.068055"
         }
     ], 
     "publishers": [], 
@@ -134,7 +134,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Sprache der religi\u00f6sen Kommunikation im r\u00f6mischen Osten: Konvergenz und Differenzierung", 
+    "title": "Die Sprache der religiösen Kommunikation im römischen Osten: Konvergenz und Differenzierung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

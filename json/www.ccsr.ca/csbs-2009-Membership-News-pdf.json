@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "The CSBS/SC\u00c9B Bulletin", 
+        "title_full": "The CSBS/SCÉB Bulletin", 
         "url": "http://www.ccsr.ca/csbs/Bulletin.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9138998602446993018", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:20.686173"
+            "when": "2015-10-27T18:49:19.008202"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-csbssceb-bulletin.html", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:20.686187"
+            "when": "2015-10-27T18:49:19.008219"
         }
     ], 
     "publishers": [], 

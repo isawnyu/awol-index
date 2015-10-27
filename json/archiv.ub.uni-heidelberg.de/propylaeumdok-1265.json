@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Monographien zur \u00e4gyptischen Sprache, Bd. 2 (1999). Peust und Gutschmidt, G\u00f6ttingen 1999. Peust, Carsten (1999).", 
+    "description": "In: Monographien zur ägyptischen Sprache, Bd. 2 (1999). Peust und Gutschmidt, Göttingen 1999. Peust, Carsten (1999).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:57.480353"
+            "when": "2015-10-27T18:40:09.067996"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:57.480371"
+            "when": "2015-10-27T18:40:09.068011"
         }
     ], 
     "publishers": [], 

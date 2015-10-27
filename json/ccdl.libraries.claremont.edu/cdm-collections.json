@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3844890379588790433", 
             "resource_date": "2013-10-27T08:48:50.747-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:50.244085"
+            "when": "2015-10-27T18:41:11.608384"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html", 
             "resource_date": "2013-10-27T08:48:50.747-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:50.244110"
+            "when": "2015-10-27T18:41:11.608401"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3844890379588790433", 
             "resource_date": "2013-10-27T08:48:50.747-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:50.247086"
+            "when": "2015-10-27T18:41:11.610816"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/claremont-colleges-digital-library.html", 
             "resource_date": "2013-10-27T08:48:50.747-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:50.247103"
+            "when": "2015-10-27T18:41:11.610832"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:50.268794"
+            "when": "2015-10-27T18:41:11.624903"
         }
     ], 
     "publishers": [], 

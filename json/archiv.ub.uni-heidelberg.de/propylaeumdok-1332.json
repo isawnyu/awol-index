@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Evers, C\u00e9cile and Tsingarida, Ath\u00e8ne (Hrsgg. ): Rome et ses provinces. Gen\u00e8se & diffusion d\u2019une image de pouvoir. Hommages \u00e0 Jean Charles Balty. Br\u00fcsse\u00f6 2001, pp. 29-48. Andreae, Bernard (1958).", 
+    "description": "In: Evers, Cécile and Tsingarida, Athène (Hrsgg. ): Rome et ses provinces. Genèse & diffusion d’une image de pouvoir. Hommages à Jean Charles Balty. Brüsseö 2001, pp. 29-48. Andreae, Bernard (1958).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:31.843042"
+            "when": "2015-10-27T18:48:24.816683"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:31.843060"
+            "when": "2015-10-27T18:48:24.816700"
         }
     ], 
     "publishers": [], 

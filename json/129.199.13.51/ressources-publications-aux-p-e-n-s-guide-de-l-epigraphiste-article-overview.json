@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Guide de l\u2019Epigraphiste. Guide de l\u2019\u00e9pigraphiste Bibliographie choisie des \u00e9pigraphies antiques et m\u00e9di\u00e9valesFran\u00e7ois B\u00e9rard, Denis Feissel, Nicolas Laubry, Pierre Petitmengin, Denis Rousset, Michel S\u00e8ve et collaborateurs. Quatri\u00e8me \u00e9dition enti\u00e8rement refondue. Guides et inventaires bibliographiques de la Biblioth\u00e8que de l\u2019\u00c9cole normale sup\u00e9rieure, 7.", 
+    "description": "Guide de l’Epigraphiste. Guide de l’épigraphiste Bibliographie choisie des épigraphies antiques et médiévalesFrançois Bérard, Denis Feissel, Nicolas Laubry, Pierre Petitmengin, Denis Rousset, Michel Sève et collaborateurs. Quatrième édition entièrement refondue. Guides et inventaires bibliographiques de la Bibliothèque de l’École normale supérieure, 7.", 
     "domain": "129.199.13.51", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Guide de l\u2019Epigraphiste", 
+        "title_full": "Guide de l’Epigraphiste", 
         "url": "http://129.199.13.51/ressources/publications-aux-p-e-n-s/guide-de-l-epigraphiste/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8868723366774250251", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.104558"
+            "when": "2015-10-27T18:48:53.157639"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/guide-de-lepigraphiste-online-supplement.html", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.104570"
+            "when": "2015-10-27T18:48:53.157652"
         }
     ], 
     "publishers": [], 

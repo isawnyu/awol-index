@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3511519813221209903", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:28.566432"
+            "when": "2015-10-27T18:40:43.611360"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-diyala-excavations.html", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:28.566448"
+            "when": "2015-10-27T18:40:43.611377"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3511519813221209903", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:28.568879"
+            "when": "2015-10-27T18:40:43.614083"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-diyala-excavations.html", 
             "resource_date": "2015-04-09T15:42:51.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:28.568892"
+            "when": "2015-10-27T18:40:43.614099"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:28.605845"
+            "when": "2015-10-27T18:40:43.656604"
         }, 
         {
             "fields": [
@@ -177,13 +177,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.735155"
+            "when": "2015-10-27T18:47:14.264141"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.735166"
+            "when": "2015-10-27T18:47:14.264154"
         }, 
         {
             "fields": [
@@ -196,7 +196,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.807275"
+            "when": "2015-10-27T18:47:14.329348"
         }
     ], 
     "publishers": [], 
@@ -222,7 +222,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oic/oic16.html"
         }, 
         {
-            "title_full": "OIC 13. Tell Asmar and Khafaje: The First Season\u2019s Work in Eshnunna 1930/31. Henri Frankfort, Thorkild Jacobsen, and Conrad Preusser. 1932", 
+            "title_full": "OIC 13. Tell Asmar and Khafaje: The First Season’s Work in Eshnunna 1930/31. Henri Frankfort, Thorkild Jacobsen, and Conrad Preusser. 1932", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oic/oic13.html"
         }, 
         {
@@ -258,7 +258,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip44.html"
         }, 
         {
-            "title_full": "OIP 43. The Gimilsin Temple and the Palace of the Rulers at Tell Asmar. Henri Frankfort, Seton Lloyd, and Thorkild Jacobsen, with a chapter by G\u00fcnter Martiny. 1940", 
+            "title_full": "OIP 43. The Gimilsin Temple and the Palace of the Rulers at Tell Asmar. Henri Frankfort, Seton Lloyd, and Thorkild Jacobsen, with a chapter by Günter Martiny. 1940", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip43.html"
         }, 
         {

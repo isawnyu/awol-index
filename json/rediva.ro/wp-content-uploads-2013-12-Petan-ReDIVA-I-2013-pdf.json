@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Szab\u00f3 Csaba, The Mithraic Statue of Secundinus from Apulum.", 
+    "description": "Szabó Csaba, The Mithraic Statue of Secundinus from Apulum.", 
     "domain": "rediva.ro", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
+        "title_full": "ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
         "url": "http://rediva.ro/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.969449"
+            "when": "2015-10-27T18:47:55.494626"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.969460"
+            "when": "2015-10-27T18:47:55.494645"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Aurora Pe\u021ban, Sarmizegetusa Regia in the Austrian map of 1804", 
+    "title": "Aurora Pețan, Sarmizegetusa Regia in the Austrian map of 1804", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Weiss, Thomas (Hrsg. ): Von der Sch\u00f6nheit des weissen Marmors. Zum 200. Todestag Bartolomeo Cavaceppis. Mainz 1999, pp. 1-10. R\u00f6\u00dfler, Detlef (2011).", 
+    "description": "In: Weiss, Thomas (Hrsg. ): Von der Schönheit des weissen Marmors. Zum 200. Todestag Bartolomeo Cavaceppis. Mainz 1999, pp. 1-10. Rößler, Detlef (2011).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:40.638396"
+            "when": "2015-10-27T18:48:34.911798"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:40.638413"
+            "when": "2015-10-27T18:48:34.911815"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Arch\u00e4ologie in der ersten H\u00e4lfte des 18. Jahrhunderts", 
+    "title": "Archäologie in der ersten Hälfte des 18. Jahrhunderts", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8279567214250372065", 
             "resource_date": "2011-09-21T10:23:04.444-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.503585"
+            "when": "2015-10-27T18:47:07.552785"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/ithaka-sr-case-studies-in.html", 
             "resource_date": "2011-09-21T10:23:04.444-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.503600"
+            "when": "2015-10-27T18:47:07.552796"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The Department of Digital Humanities (DDH) at King\u2019s College London (formerly the Centre for Computing in the Humanities)", 
+    "title": "The Department of Digital Humanities (DDH) at King’s College London (formerly the Centre for Computing in the Humanities)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

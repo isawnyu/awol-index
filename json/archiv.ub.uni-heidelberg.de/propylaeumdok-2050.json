@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Feucht, Erika (Hrsg. ): Vom Nil zum Neckar. Kunstsch\u00e4tze \u00c4gyptens aus pharaonischer und koptischer Zeit an der Universit\u00e4t Heidelberg. Heidelberg 1986, pp. 147-150. Burkard, G\u00fcnter (1995).", 
+    "description": "In: Feucht, Erika (Hrsg. ): Vom Nil zum Neckar. Kunstschätze Ägyptens aus pharaonischer und koptischer Zeit an der Universität Heidelberg. Heidelberg 1986, pp. 147-150. Burkard, Günter (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:51.332012"
+            "when": "2015-10-27T18:40:02.744057"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:51.332036"
+            "when": "2015-10-27T18:40:02.744074"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Schriftzeugnisse und Schreibger\u00e4te", 
+    "title": "Schriftzeugnisse und Schreibgeräte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Chronozones: Bulletin des sciences de l'Antiquit\u00e9 de l'universit\u00e9 de Lausanne. Bienvenue sur le site de Chronozones, la revue de l'Institut d'Arch\u00e9ologie et des sciences de l'Antiquit\u00e9 (IASA) de l'universit\u00e9 de Lausanne (UNIL). Chronozones est une parution annuelle enti\u00e8rement con\u00e7ue par les \u00e9tudiants des sections de l'IASA: histoire grecque et romaine, arch\u00e9ologie provinciale romaine et classique (Gr\u00e8ce), protohistoire et monde celtique, latin, grec, \u00e9pigraphie et numismatique. Sur notre site, vous avez acc\u00e8s \u00e0 de nombreux articles publi\u00e9s dans les volumes 3 (1997), 5 (1999), 6 (2000), 7 (2001), 8 (2002), 10 (2004), 11 (2005), 12 (2006), ainsi qu'\u00e0 l'ensemble du volume 4 (1998). Chronozones 2008, dernier volume paru, peut \u00e9galement \u00eatre command\u00e9 en ligne; vous participez ainsi au financement de l'impression du prochain volume. Articles en ligne. Remarque: tous les articles sont au format *. pdf et r\u00e9clament le logiciel Adobe acrobat reader(t\u00e9l\u00e9chargement gratuit). Volume 3 (1997).", 
+    "description": "Chronozones: Bulletin des sciences de l'Antiquité de l'université de Lausanne. Bienvenue sur le site de Chronozones, la revue de l'Institut d'Archéologie et des sciences de l'Antiquité (IASA) de l'université de Lausanne (UNIL). Chronozones est une parution annuelle entièrement conçue par les étudiants des sections de l'IASA: histoire grecque et romaine, archéologie provinciale romaine et classique (Grèce), protohistoire et monde celtique, latin, grec, épigraphie et numismatique. Sur notre site, vous avez accès à de nombreux articles publiés dans les volumes 3 (1997), 5 (1999), 6 (2000), 7 (2001), 8 (2002), 10 (2004), 11 (2005), 12 (2006), ainsi qu'à l'ensemble du volume 4 (1998). Chronozones 2008, dernier volume paru, peut également être commandé en ligne; vous participez ainsi au financement de l'impression du prochain volume. Articles en ligne. Remarque: tous les articles sont au format *. pdf et réclament le logiciel Adobe acrobat reader(téléchargement gratuit). Volume 3 (1997).", 
     "domain": "www2.unil.ch", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7156607865653827687", 
             "resource_date": "2013-05-20T11:56:24.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.484180"
+            "when": "2015-10-27T18:45:29.556804"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-chronozones.html", 
             "resource_date": "2013-05-20T11:56:24.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.484192"
+            "when": "2015-10-27T18:45:29.556818"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "M. Haldemann, S. Oesterl\u00e9, L'\u00e9volution des fesses masculines dans la statuaire grecque", 
+    "title": "M. Haldemann, S. Oesterlé, L'évolution des fesses masculines dans la statuaire grecque", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

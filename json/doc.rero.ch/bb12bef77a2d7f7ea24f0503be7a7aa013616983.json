@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 October 2013, updated 24 April 2015 (volume 4 now added)]. Digitized and served from the biblioth\u00e8que num\u00e9rique RERO DOC.", 
+    "description": "[First posted in AWOL 21 October 2013, updated 24 April 2015 (volume 4 now added)]. Digitized and served from the bibliothèque numérique RERO DOC.", 
     "domain": "doc.rero.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "biblioth\u00e8que num\u00e9rique RERO DOC", 
+        "title_full": "bibliothèque numérique RERO DOC", 
         "url": "http://doc.rero.ch/?ln=fr"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3013200019511334153", 
             "resource_date": "2015-04-24T06:07:21.498-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:59.960621"
+            "when": "2015-10-27T18:39:08.376496"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/les-papyrus-de-geneve-1-3-online.html", 
             "resource_date": "2015-04-24T06:07:21.498-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:59.960637"
+            "when": "2015-10-27T18:39:08.376511"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3013200019511334153", 
             "resource_date": "2015-04-24T06:07:21.498-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:59.963137"
+            "when": "2015-10-27T18:39:08.379128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/les-papyrus-de-geneve-1-3-online.html", 
             "resource_date": "2015-04-24T06:07:21.498-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:59.963150"
+            "when": "2015-10-27T18:39:08.379140"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:00.105740"
+            "when": "2015-10-27T18:39:08.550292"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "biblioth\u00e8que num\u00e9rique RERO DOC", 
+            "title_full": "bibliothèque numérique RERO DOC", 
             "url": "http://doc.rero.ch/?ln=fr"
         }, 
         {
@@ -149,7 +149,7 @@
             "url": "http://doc.rero.ch/record/235671/export/xm"
         }, 
         {
-            "title_full": "Les papyrus de Gen\u00e8ve. Volume 4. : Textes litt\u00e9raires , semi-litt\u00e9raires et documentaires", 
+            "title_full": "Les papyrus de Genève. Volume 4. : Textes littéraires , semi-littéraires et documentaires", 
             "url": "http://doc.rero.ch/record/235671?ln=en"
         }, 
         {
@@ -157,7 +157,7 @@
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Schubert,%20Paul%20Henri"
         }, 
         {
-            "title_full": "G\u00e4lln\u00f6, Sophie", 
+            "title_full": "Gällnö, Sophie", 
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:G%C3%A4lln%C3%B6,%20Sophie"
         }, 
         {
@@ -165,7 +165,7 @@
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Poget,%20Noemi"
         }, 
         {
-            "title_full": "Gaffino M\u00f6ri, Sarah", 
+            "title_full": "Gaffino Möri, Sarah", 
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Gaffino%20M%C3%B6ri,%20Sarah"
         }, 
         {
@@ -173,7 +173,7 @@
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Fischer%20Bovet,%20Christelle"
         }, 
         {
-            "title_full": "Steinr\u00fcck, Martin", 
+            "title_full": "Steinrück, Martin", 
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Steinr%C3%BCck,%20Martin"
         }, 
         {
@@ -181,7 +181,7 @@
             "url": "http://doc.rero.ch/record/27210/export/xm"
         }, 
         {
-            "title_full": "Les papyrus de Gen\u00e8ve. Volume 1. : Textes documentaires", 
+            "title_full": "Les papyrus de Genève. Volume 1. : Textes documentaires", 
             "url": "http://doc.rero.ch/record/27210?ln=en"
         }, 
         {
@@ -197,15 +197,15 @@
             "url": "http://doc.rero.ch/record/27209/export/xm"
         }, 
         {
-            "title_full": "Les papyrus de Gen\u00e8ve. Volume 3. : Textes litt\u00e9raires et documentaires", 
+            "title_full": "Les papyrus de Genève. Volume 3. : Textes littéraires et documentaires", 
             "url": "http://doc.rero.ch/record/27209?ln=en"
         }, 
         {
-            "title_full": "Duttenh\u00f6fer, Ruth", 
+            "title_full": "Duttenhöfer, Ruth", 
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Duttenh%C3%B6fer,%20Ruth"
         }, 
         {
-            "title_full": "Hurst, Andr\u00e9", 
+            "title_full": "Hurst, André", 
             "url": "http://doc.rero.ch/search?ln=en&ifacets=author:Hurst,%20Andr%C3%A9"
         }, 
         {
@@ -221,7 +221,7 @@
             "url": "http://doc.rero.ch/record/27208/export/xm"
         }, 
         {
-            "title_full": "Les papyrus de Gen\u00e8ve. Volume 2. : Textes litt\u00e9raires et documentaires", 
+            "title_full": "Les papyrus de Genève. Volume 2. : Textes littéraires et documentaires", 
             "url": "http://doc.rero.ch/record/27208?ln=en"
         }, 
         {
@@ -229,7 +229,7 @@
             "url": "http://doc.rero.ch/record/31785/export/xm"
         }, 
         {
-            "title_full": "Un catalogue d'oeuvres d'art conserv\u00e9es \u00e0 Rome \u00e0 l'\u00e9poque imp\u00e9riale : texte du papyrus latin VII de Gen\u00e8ve transcrit et comment\u00e9", 
+            "title_full": "Un catalogue d'oeuvres d'art conservées à Rome à l'époque impériale : texte du papyrus latin VII de Genève transcrit et commenté", 
             "url": "http://doc.rero.ch/record/31785?ln=fr"
         }, 
         {
@@ -241,7 +241,7 @@
             "url": "http://doc.rero.ch/record/31783/export/xm"
         }, 
         {
-            "title_full": "Textes Grecs In\u00e9dits de la Collection Papyrologique de Gen\u00e8ve", 
+            "title_full": "Textes Grecs Inédits de la Collection Papyrologique de Genève", 
             "url": "http://doc.rero.ch/record/31783?ln=fr"
         }, 
         {
@@ -249,7 +249,7 @@
             "url": "http://doc.rero.ch/record/30361/export/xm"
         }, 
         {
-            "title_full": "L'apologie d'Antiphon ou \"Logos peri metastase\u014ds\" d'apr\u00e8s des fragments in\u00e9dits sur papyrus d'Egypte : avec un fac-simil\u00e9", 
+            "title_full": "L'apologie d'Antiphon ou \"Logos peri metastaseōs\" d'après des fragments inédits sur papyrus d'Egypte : avec un fac-similé", 
             "url": "http://doc.rero.ch/record/30361?ln=fr"
         }, 
         {
@@ -261,7 +261,7 @@
             "url": "http://doc.rero.ch/record/29062/export/xm"
         }, 
         {
-            "title_full": "Projet pour une Biblioth\u00e8que de Gen\u00e8ve : du papyrus au num\u00e9rique", 
+            "title_full": "Projet pour une Bibliothèque de Genève : du papyrus au numérique", 
             "url": "http://doc.rero.ch/record/29062?ln=fr"
         }, 
         {
@@ -277,11 +277,11 @@
             "url": "http://doc.rero.ch/record/22305/export/xm"
         }, 
         {
-            "title_full": "La Biblioth\u00e8que de Gen\u00e8ve en 2008 et 2009", 
+            "title_full": "La Bibliothèque de Genève en 2008 et 2009", 
             "url": "http://doc.rero.ch/record/22305?ln=fr"
         }, 
         {
-            "title_full": "Buchet, H\u00e9l\u00e8ne", 
+            "title_full": "Buchet, Hélène", 
             "url": "http://doc.rero.ch/search?ln=fr&ifacets=author:Buchet,%20H%C3%A9l%C3%A8ne"
         }, 
         {
@@ -289,7 +289,7 @@
             "url": "http://doc.rero.ch/search?ln=fr&ifacets=author:Dubois,%20Thierry"
         }, 
         {
-            "title_full": "G\u00e4lln\u00f6, Sophie", 
+            "title_full": "Gällnö, Sophie", 
             "url": "http://doc.rero.ch/search?ln=fr&ifacets=author:G%C3%A4lln%C3%B6,%20Sophie"
         }, 
         {
@@ -309,15 +309,15 @@
             "url": "http://doc.rero.ch/search?ln=fr&ifacets=author:Tsioli%20Bodenmann-Ray,%20Marianne"
         }, 
         {
-            "title_full": "Biblioth\u00e8que de Gen\u00e8ve", 
+            "title_full": "Bibliothèque de Genève", 
             "url": "http://doc.rero.ch/search?f=author&ln=fr&p=Biblioth%C3%A8que%20de%20Gen%C3%A8ve"
         }, 
         {
-            "title_full": "Biblioth\u00e8que musicale (Gen\u00e8ve)", 
+            "title_full": "Bibliothèque musicale (Genève)", 
             "url": "http://doc.rero.ch/search?f=author&ln=fr&p=Biblioth%C3%A8que%20musicale%20%28Gen%C3%A8ve%29"
         }, 
         {
-            "title_full": "Institut et Mus\u00e9e Voltaire (Gen\u00e8ve)", 
+            "title_full": "Institut et Musée Voltaire (Genève)", 
             "url": "http://doc.rero.ch/search?f=author&ln=fr&p=Institut%20et%20Mus%C3%A9e%20Voltaire%20%28Gen%C3%A8ve%29"
         }, 
         {
@@ -329,7 +329,7 @@
             "url": "http://doc.rero.ch/record/19056/export/xm"
         }, 
         {
-            "title_full": "Fragments de la Genizah du Caire \u00e0 la Biblioth\u00e8que de Gen\u00e8ve", 
+            "title_full": "Fragments de la Genizah du Caire à la Bibliothèque de Genève", 
             "url": "http://doc.rero.ch/record/19056?ln=fr"
         }, 
         {
@@ -337,7 +337,7 @@
             "url": "http://doc.rero.ch/record/12393/export/xm"
         }, 
         {
-            "title_full": "Le laboureur de M\u00e9nandre : fragments in\u00e9dits sur papyrus d'Egypte", 
+            "title_full": "Le laboureur de Ménandre : fragments inédits sur papyrus d'Egypte", 
             "url": "http://doc.rero.ch/record/12393?ln=fr"
         }, 
         {
@@ -349,7 +349,7 @@
             "url": "http://doc.rero.ch/record/9517/export/xm"
         }, 
         {
-            "title_full": "Les papyrus de la Biblioth\u00e8que publique et universitaire de Gen\u00e8ve", 
+            "title_full": "Les papyrus de la Bibliothèque publique et universitaire de Genève", 
             "url": "http://doc.rero.ch/record/9517?ln=fr"
         }, 
         {
@@ -361,11 +361,11 @@
             "url": "http://doc.rero.ch/record/9516/export/xm"
         }, 
         {
-            "title_full": "Un voyage en \u00c9gypte (1896-1897), Extrait des souvenirs d\u2019Albert Nicole", 
+            "title_full": "Un voyage en Égypte (1896-1897), Extrait des souvenirs d’Albert Nicole", 
             "url": "http://doc.rero.ch/record/9516?ln=fr"
         }
     ], 
-    "title": "biblioth\u00e8que num\u00e9rique RERO DOC", 
+    "title": "bibliothèque numérique RERO DOC", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

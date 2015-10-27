@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde, 136/1 (2009), 87-98 + Tafel XII. Verhoeven, Ursula (2012).", 
+    "description": "In: Zeitschrift für ägyptische Sprache und Altertumskunde, 136/1 (2009), 87-98 + Tafel XII. Verhoeven, Ursula (2012).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3032918877875857459", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.655334"
+            "when": "2015-10-27T18:39:10.260283"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/the-ancient-egyptian-necropolis-of.html", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.655345"
+            "when": "2015-10-27T18:39:10.260299"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:03.569586"
+            "when": "2015-10-27T18:40:15.462448"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:03.569603"
+            "when": "2015-10-27T18:40:15.462464"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:04.383274"
+            "when": "2015-10-27T18:40:16.264568"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Von der \u201eLoyalistischen Lehre\" zur \u201eLehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
+    "title": "Von der „Loyalistischen Lehre\" zur „Lehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

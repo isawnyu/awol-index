@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6883529154133922618", 
             "resource_date": "2015-05-17T08:16:30.769-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.630515"
+            "when": "2015-10-27T18:45:17.671852"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-acta.html", 
             "resource_date": "2015-05-17T08:16:30.769-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.630531"
+            "when": "2015-10-27T18:45:17.671868"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6883529154133922618", 
             "resource_date": "2015-05-17T08:16:30.769-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.632328"
+            "when": "2015-10-27T18:45:17.673827"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-acta.html", 
             "resource_date": "2015-05-17T08:16:30.769-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.632340"
+            "when": "2015-10-27T18:45:17.673839"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:36.705670"
+            "when": "2015-10-27T18:45:17.738863"
         }
     ], 
     "publishers": [], 
@@ -144,7 +144,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/series/acta-iranica"
         }, 
         {
-            "title_full": "Acta Iranica. Troisi\u00e8me s\u00e9rie, Textes et m\u00e9moires v. 4", 
+            "title_full": "Acta Iranica. Troisième série, Textes et mémoires v. 4", 
             "url": "http://dlib.nyu.edu/ancientworld/series/acta-iranica-troisieme-serie-textes-et-memoires"
         }, 
         {
@@ -156,7 +156,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/2941"
         }, 
         {
-            "title_full": "Ab\u016b Sa\u02bb\u012bd ibn Ab\u012b al-Khayr 967-1049", 
+            "title_full": "Abū Saʻīd ibn Abī al-Khayr 967-1049", 
             "url": "http://dlib.nyu.edu/ancientworld/subjects/2940"
         }, 
         {
@@ -164,7 +164,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/215"
         }, 
         {
-            "title_full": "Acta Iranica. Deuxi\u00e8me s\u00e9rie. Hommages et opera minora v. 6", 
+            "title_full": "Acta Iranica. Deuxième série. Hommages et opera minora v. 6", 
             "url": "http://dlib.nyu.edu/ancientworld/series/acta-iranica-deuxieme-serie-hommages-et-opera-minora"
         }, 
         {
@@ -192,7 +192,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/87"
         }, 
         {
-            "title_full": "Acta Iranica. Premi\u00e8re s\u00e9rie, Actes de congr\u00e8s v. 4", 
+            "title_full": "Acta Iranica. Première série, Actes de congrès v. 4", 
             "url": "http://dlib.nyu.edu/ancientworld/series/acta-iranica-premiere-serie-actes-de-congres"
         }, 
         {

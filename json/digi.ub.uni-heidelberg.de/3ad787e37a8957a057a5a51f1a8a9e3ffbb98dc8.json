@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "158-164 My\u015bli\u0144ski, Micha\u0142: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worc\u0142aw.", 
+    "description": "158-164 Myśliński, Michał: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worcław.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.216483"
+            "when": "2015-10-27T18:46:50.437141"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.216496"
+            "when": "2015-10-27T18:46:50.437153"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Ma\u0142opolska", 
+    "title": "119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Małopolska", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7606755686447207637", 
             "resource_date": "2015-03-26T11:36:26.504-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.575187"
+            "when": "2015-10-27T18:45:58.011651"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-backdirt.html", 
             "resource_date": "2015-03-26T11:36:26.504-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.575204"
+            "when": "2015-10-27T18:45:58.011667"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7606755686447207637", 
             "resource_date": "2015-03-26T11:36:26.504-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.592424"
+            "when": "2015-10-27T18:45:58.029732"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-backdirt.html", 
             "resource_date": "2015-03-26T11:36:26.504-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.592437"
+            "when": "2015-10-27T18:45:58.029747"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:13.606072"
+            "when": "2015-10-27T18:45:58.043769"
         }
     ], 
     "publishers": [], 

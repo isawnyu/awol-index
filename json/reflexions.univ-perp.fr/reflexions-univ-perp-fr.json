@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "R\u00e9flexion(s) - Regards crois\u00e9s sur le monde antique et le monde moderne. ISSN: 2100-0034.", 
+    "description": "Réflexion(s) - Regards croisés sur le monde antique et le monde moderne. ISSN: 2100-0034.", 
     "domain": "reflexions.univ-perp.fr", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1831511464590959401", 
             "resource_date": "2013-02-21T14:56:59.225-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:01.624027"
+            "when": "2015-10-27T18:38:06.939613"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-open-access-journal-reflexions.html", 
             "resource_date": "2013-02-21T14:56:59.225-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:01.624043"
+            "when": "2015-10-27T18:38:06.939630"
         }
     ], 
     "publishers": [], 
@@ -94,7 +94,7 @@
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=60&Itemid=70"
         }, 
         {
-            "title_full": "Litt\u00e9rature", 
+            "title_full": "Littérature", 
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=59&Itemid=69"
         }, 
         {
@@ -102,11 +102,11 @@
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=63&Itemid=75"
         }, 
         {
-            "title_full": "M\u00e9decine", 
+            "title_full": "Médecine", 
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=54&Itemid=63"
         }, 
         {
-            "title_full": "P\u00e9dagogie", 
+            "title_full": "Pédagogie", 
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=53&Itemid=62"
         }, 
         {
@@ -122,11 +122,11 @@
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=55&Itemid=64"
         }, 
         {
-            "title_full": "Soci\u00e9t\u00e9", 
+            "title_full": "Société", 
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=58&Itemid=68"
         }, 
         {
-            "title_full": "A para\u00eetre", 
+            "title_full": "A paraître", 
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=57&Itemid=67"
         }, 
         {
@@ -150,9 +150,9 @@
             "url": "http://reflexions.univ-perp.fr/index.php?option=com_content&view=article&id=67&Itemid=78"
         }
     ], 
-    "title": "R\u00e9flexion(s)", 
+    "title": "Réflexion(s)", 
     "title_alternates": [], 
-    "title_extended": "R\u00e9flexion(s) - Regards crois\u00e9s sur le monde antique et le monde moderne", 
+    "title_extended": "Réflexion(s) - Regards croisés sur le monde antique et le monde moderne", 
     "type": null, 
     "url": "http://reflexions.univ-perp.fr/", 
     "url_alternates": [], 

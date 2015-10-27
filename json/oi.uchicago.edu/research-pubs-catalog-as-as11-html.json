@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AS 10. Gilgamesh and the \u1e2auluppu-Tree: A Reconstructed Sumerian Text. Samuel N. Kramer. Originally published in 1938.", 
+    "description": "AS 10. Gilgamesh and the Ḫuluppu-Tree: A Reconstructed Sumerian Text. Samuel N. Kramer. Originally published in 1938.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.931442"
+            "when": "2015-10-27T18:38:38.992043"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.931460"
+            "when": "2015-10-27T18:38:38.992056"
         }
     ], 
     "publishers": [], 

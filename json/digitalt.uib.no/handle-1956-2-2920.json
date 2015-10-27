@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4681461451708615157", 
             "resource_date": "2013-03-11T15:58:09.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.335992"
+            "when": "2015-10-27T18:42:08.079709"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/digitized-publications-of-norwegian.html", 
             "resource_date": "2013-03-11T15:58:09.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.336008"
+            "when": "2015-10-27T18:42:08.079725"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4681461451708615157", 
             "resource_date": "2013-03-11T15:58:09.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.337678"
+            "when": "2015-10-27T18:42:08.081596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/digitized-publications-of-norwegian.html", 
             "resource_date": "2013-03-11T15:58:09.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.337689"
+            "when": "2015-10-27T18:42:08.081609"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:41.350918"
+            "when": "2015-10-27T18:42:08.096280"
         }
     ], 
     "publishers": [], 

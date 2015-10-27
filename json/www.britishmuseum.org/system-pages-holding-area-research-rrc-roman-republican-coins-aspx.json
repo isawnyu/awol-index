@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2628755985533643375", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.505566"
+            "when": "2015-10-27T18:38:51.619534"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.505581"
+            "when": "2015-10-27T18:38:51.619544"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8382675651056225911", 
             "resource_date": "2010-08-14T16:31:30.545-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:24.044347"
+            "when": "2015-10-27T18:47:12.449583"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/roman-republican-coins-in-british.html", 
             "resource_date": "2010-08-14T16:31:30.545-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:24.044363"
+            "when": "2015-10-27T18:47:12.449599"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:24.066727"
+            "when": "2015-10-27T18:47:12.479481"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8382675651056225911", 
             "resource_date": "2010-08-14T16:31:30.545-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:24.047852"
+            "when": "2015-10-27T18:47:12.453264"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/roman-republican-coins-in-british.html", 
             "resource_date": "2010-08-14T16:31:30.545-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:24.047864"
+            "when": "2015-10-27T18:47:12.453276"
         }, 
         {
             "fields": [
@@ -195,7 +195,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:24.068530"
+            "when": "2015-10-27T18:47:12.482077"
         }
     ], 
     "publishers": [], 

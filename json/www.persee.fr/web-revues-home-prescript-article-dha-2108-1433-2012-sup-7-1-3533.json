@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+        "title_full": "Dialogues d'histoire ancienne. Suppléments", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.796529"
+            "when": "2015-10-27T18:47:55.152362"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.796541"
+            "when": "2015-10-27T18:47:55.152378"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Alimentation et soci\u00e9t\u00e9 dans la Rome classique : bilan historiographique (IIe si\u00e8cle av. J.-C. - IIe si\u00e8cle apr. J.-C.)", 
+    "title": "Alimentation et société dans la Rome classique : bilan historiographique (IIe siècle av. J.-C. - IIe siècle apr. J.-C.)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

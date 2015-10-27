@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anales de prehistoria y arqueolog\u00eda. ISSN: 0213-5663.", 
+    "description": "Anales de prehistoria y arqueología. ISSN: 0213-5663.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0213-5663", 
-        "title_full": "Anales de prehistoria y arqueolog\u00eda", 
+        "title_full": "Anales de prehistoria y arqueología", 
         "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:16.837433"
+            "when": "2015-10-27T18:47:04.662787"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:16.837449"
+            "when": "2015-10-27T18:47:04.662803"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:16.839354"
+            "when": "2015-10-27T18:47:04.664889"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:16.839366"
+            "when": "2015-10-27T18:47:04.664901"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:16.872129"
+            "when": "2015-10-27T18:47:04.701052"
         }
     ], 
     "publishers": [], 
@@ -152,7 +152,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Anales de prehistoria y arqueolog\u00eda", 
+            "title_full": "Anales de prehistoria y arqueología", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78"
         }, 
         {
@@ -164,23 +164,23 @@
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12756"
         }, 
         {
-            "title_full": "Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda", 
+            "title_full": "Boletín del Seminario de Estudios de Arte y Arqueología", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=226"
         }, 
         {
-            "title_full": "Bolskan: Revista de arqueolog\u00eda del Instituto de Estudios Altoaragoneses", 
+            "title_full": "Bolskan: Revista de arqueología del Instituto de Estudios Altoaragoneses", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=231"
         }, 
         {
-            "title_full": "Cl\u00e1sicos de la arqueolog\u00eda de Huelva", 
+            "title_full": "Clásicos de la arqueología de Huelva", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=10381"
         }, 
         {
-            "title_full": "Cuadernos de prehistoria y arqueolog\u00eda castellonenses", 
+            "title_full": "Cuadernos de prehistoria y arqueología castellonenses", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=7156"
         }, 
         {
-            "title_full": "Cuba Arqueol\u00f3gica. Revista digital de Arqueolog\u00eda de Cuba y el Caribe", 
+            "title_full": "Cuba Arqueológica. Revista digital de Arqueología de Cuba y el Caribe", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=12564"
         }, 
         {
@@ -196,15 +196,15 @@
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=647"
         }, 
         {
-            "title_full": "Huelva arqueol\u00f3gica", 
+            "title_full": "Huelva arqueológica", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=669"
         }, 
         {
-            "title_full": "Iberia: Revista de la Antig\u00fcedad", 
+            "title_full": "Iberia: Revista de la Antigüedad", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=673"
         }, 
         {
-            "title_full": "Marq, arqueolog\u00eda y museos", 
+            "title_full": "Marq, arqueología y museos", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=7340"
         }, 
         {
@@ -216,19 +216,19 @@
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=937"
         }, 
         {
-            "title_full": "Minerva: Revista de filolog\u00eda cl\u00e1sica", 
+            "title_full": "Minerva: Revista de filología clásica", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=945"
         }, 
         {
-            "title_full": "Quaderns de prehist\u00f2ria i arqueologia de Castell\u00f3", 
+            "title_full": "Quaderns de prehistòria i arqueologia de Castelló", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=2319"
         }, 
         {
-            "title_full": "Trabajos de arqueolog\u00eda Navarra", 
+            "title_full": "Trabajos de arqueología Navarra", 
             "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=1439"
         }
     ], 
-    "title": "Anales de prehistoria y arqueolog\u00eda", 
+    "title": "Anales de prehistoria y arqueología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

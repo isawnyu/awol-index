@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista \u201eTyragetia\". ISSN: 1857-0240 Revist\u0103 prevede publicarea studiilor arheologice, istorice, muzeografice, rezultatele cercet\u0103rilor \u015ftiin\u0163elor interdisciplinare \u00een domeniul arheologico-istoric, ocrotirea patrimoniului. Articolele \u015fi alte tipuri de lucr\u0103ri \u015ftiin\u0163ifico-muzeografice vor reflecta din punct de vedere geografic spa\u0163iul balcanico-carpato-pontic \u015fi teritoriile limitrofe. Articolele pot fi prezentate \u00een limbile rom\u00e2n\u0103, rus\u0103, englez\u0103, german\u0103, francez\u0103. Toate materialele prezentate spre publicare urmeaz\u0103 a fi recenzate de membrii Colegiului de redac\u0163ie precum \u015fi de al\u0163i speciali\u015fti \u00een domeniu. \u00cen cazul unui aviz negativ, Colegiul de redac\u0163ie nu este obligat s\u0103 comenteze decizia sa. The journal publishes papers on archaeology, history, and museology, results of interdisciplinary scientific research in the fields of archaeology and history, protection of the cultural heritage. Articles and other types of works must refer to the area of the Balkans, Carpathians, Black Sea littoral, and the neighboring territories.", 
+    "description": "Revista „Tyragetia\". ISSN: 1857-0240 Revistă prevede publicarea studiilor arheologice, istorice, muzeografice, rezultatele cercetărilor ştiinţelor interdisciplinare în domeniul arheologico-istoric, ocrotirea patrimoniului. Articolele şi alte tipuri de lucrări ştiinţifico-muzeografice vor reflecta din punct de vedere geografic spaţiul balcanico-carpato-pontic şi teritoriile limitrofe. Articolele pot fi prezentate în limbile română, rusă, engleză, germană, franceză. Toate materialele prezentate spre publicare urmează a fi recenzate de membrii Colegiului de redacţie precum şi de alţi specialişti în domeniu. În cazul unui aviz negativ, Colegiul de redacţie nu este obligat să comenteze decizia sa. The journal publishes papers on archaeology, history, and museology, results of interdisciplinary scientific research in the fields of archaeology and history, protection of the cultural heritage. Articles and other types of works must refer to the area of the Balkans, Carpathians, Black Sea littoral, and the neighboring territories.", 
     "domain": "www.nationalmuseum.md", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1966375195414505892", 
             "resource_date": "2012-04-17T10:19:23.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:06.953345"
+            "when": "2015-10-27T18:38:13.324810"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-revista-tyragetia.html", 
             "resource_date": "2012-04-17T10:19:23.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:06.953362"
+            "when": "2015-10-27T18:38:13.324827"
         }
     ], 
     "publishers": [], 
@@ -126,7 +126,7 @@
             "url": "http://www.nationalmuseum.md/ro/press_releases/journal_tyragetia/tyragetia_serie_noua_vol_v_xx_nr_2_istorie_muzeologie"
         }
     ], 
-    "title": "Revista \u201eTyragetia\"", 
+    "title": "Revista „Tyragetia\"", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

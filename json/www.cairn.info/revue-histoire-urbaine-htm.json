@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Histoire urbaine. ISBN 2914350104. La Soci\u00e9t\u00e9 Fran\u00e7aise d\u2019Histoire Urbaine a tenu son assembl\u00e9e constitutive le 21 novembre 1998. Cette soci\u00e9t\u00e9 est une association (loi 1901) dont les statuts sont d\u00e9pos\u00e9s \u00e0 la pr\u00e9fecture de Paris. Elle a pour vocation de rassembler tous ceux qui abordent le fait urbain dans son historicit\u00e9. Elle se d\u00e9finit par cons\u00e9quent moins par un ancrage disciplinaire que par des pratiques scientifiques communes. Elle a pour objectif de favoriser les \u00e9changes et les d\u00e9bats entre ses membres et de promouvoir la connaissance et la diffusion de l\u2019Histoire urbaine. While it occasionally has contributions on antiquity, readers of AWOL are directed in particular to n\u00b0 10, 2004/2:.", 
+    "description": "Histoire urbaine. ISBN 2914350104. La Société Française d’Histoire Urbaine a tenu son assemblée constitutive le 21 novembre 1998. Cette société est une association (loi 1901) dont les statuts sont déposés à la préfecture de Paris. Elle a pour vocation de rassembler tous ceux qui abordent le fait urbain dans son historicité. Elle se définit par conséquent moins par un ancrage disciplinaire que par des pratiques scientifiques communes. Elle a pour objectif de favoriser les échanges et les débats entre ses membres et de promouvoir la connaissance et la diffusion de l’Histoire urbaine. While it occasionally has contributions on antiquity, readers of AWOL are directed in particular to n° 10, 2004/2:.", 
     "domain": "www.cairn.info", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7743454972619267203", 
             "resource_date": "2014-05-15T10:58:33.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.017637"
+            "when": "2015-10-27T18:46:33.471923"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-histoire-urbaine.html", 
             "resource_date": "2014-05-15T10:58:33.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.017654"
+            "when": "2015-10-27T18:46:33.471953"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7743454972619267203", 
             "resource_date": "2014-05-15T10:58:33.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.021875"
+            "when": "2015-10-27T18:46:33.476942"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/one-off-journal-issues-histoire-urbaine.html", 
             "resource_date": "2014-05-15T10:58:33.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.021888"
+            "when": "2015-10-27T18:46:33.476958"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.065367"
+            "when": "2015-10-27T18:46:33.530172"
         }
     ], 
     "publishers": [], 
@@ -152,11 +152,11 @@
             "url": "http://www.cairn.info/revue-histoire-urbaine.htm"
         }, 
         {
-            "title_full": "Violence et expression du pouvoir dans l\u2019espace urbain de l\u2019Antiquit\u00e9 au haut Moyen \u00c2ge", 
+            "title_full": "Violence et expression du pouvoir dans l’espace urbain de l’Antiquité au haut Moyen Âge", 
             "url": "http://www.cairn.info/revue-histoire-urbaine-2004-2.htm"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0005"
         }, 
         {
@@ -168,7 +168,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0005"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0009"
         }, 
         {
@@ -180,7 +180,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0009"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0027"
         }, 
         {
@@ -192,7 +192,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0027"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0043"
         }, 
         {
@@ -204,7 +204,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0043"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0063"
         }, 
         {
@@ -216,7 +216,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0063"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0089"
         }, 
         {
@@ -228,7 +228,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0089"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0113"
         }, 
         {
@@ -240,7 +240,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0113"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0123"
         }, 
         {
@@ -252,7 +252,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0123"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0141"
         }, 
         {
@@ -264,7 +264,7 @@
             "url": "http://www.cairn.info/load_pdf.php?ID_ARTICLE=RHU_010_0141"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9", 
+            "title_full": "Résumé", 
             "url": "http://www.cairn.info/resume.php?ID_ARTICLE=RHU_010_0181"
         }, 
         {

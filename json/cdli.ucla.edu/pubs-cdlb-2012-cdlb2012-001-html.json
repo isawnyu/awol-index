@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3517250511287342288", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.318012"
+            "when": "2015-10-27T18:40:44.272227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_08.html", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.318026"
+            "when": "2015-10-27T18:40:44.272244"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Remarks to W. Mayer\u2019s Catalogue of the Nuzi Palace Texts", 
+    "title": "Remarks to W. Mayer’s Catalogue of the Nuzi Palace Texts", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

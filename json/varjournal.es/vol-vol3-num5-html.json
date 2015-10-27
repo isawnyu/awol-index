@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "VOLUMEN 2 / N\u00daMERO 4 VOL 2 / NUMBER 4 MAYO 2011 ONLINEDOWNLOAD.", 
+    "description": "VOLUMEN 2 / NÚMERO 4 VOL 2 / NUMBER 4 MAYO 2011 ONLINEDOWNLOAD.", 
     "domain": "varjournal.es", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9188898254449713328", 
             "resource_date": "2013-02-12T17:10:22.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:22.687929"
+            "when": "2015-10-27T18:49:21.287040"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-virtual-archaeology.html", 
             "resource_date": "2013-02-12T17:10:22.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:22.687941"
+            "when": "2015-10-27T18:49:21.287052"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "VOLUMEN 3 / N\u00daMERO 5 VOL 3 / NUMBER 5 MAYO 2012 ONLINE DOWNLOAD", 
+    "title": "VOLUMEN 3 / NÚMERO 5 VOL 3 / NUMBER 5 MAYO 2012 ONLINE DOWNLOAD", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

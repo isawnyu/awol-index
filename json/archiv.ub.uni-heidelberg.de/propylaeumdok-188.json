@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Rheinisches Museum f\u00fcr Philologie, 145 (2002), pp. 281-394. Schmitzer, Ulrich (2010).", 
+    "description": "In: Rheinisches Museum für Philologie, 145 (2002), pp. 281-394. Schmitzer, Ulrich (2010).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.634597"
+            "when": "2015-10-27T18:46:46.838813"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.634610"
+            "when": "2015-10-27T18:46:46.838827"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.367270"
+            "when": "2015-10-27T18:48:50.172212"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.367296"
+            "when": "2015-10-27T18:48:50.172228"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:54.698531"
+            "when": "2015-10-27T18:48:50.569934"
         }
     ], 
     "publishers": [], 
@@ -134,7 +134,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Macht \u00fcber die Imagination. Literatur und Politik unter den Bedingungen des fr\u00fchen Prinzipats", 
+    "title": "Die Macht über die Imagination. Literatur und Politik unter den Bedingungen des frühen Prinzipats", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Hommages \u00e0 Francois Daumas, Bd. 1. Montpellier 1986, pp. 1-15. Altenm\u00fcller, Hartwig (1997).", 
+    "description": "In: Hommages à Francois Daumas, Bd. 1. Montpellier 1986, pp. 1-15. Altenmüller, Hartwig (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.026770"
+            "when": "2015-10-27T18:39:57.348493"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.026786"
+            "when": "2015-10-27T18:39:57.348510"
         }
     ], 
     "publishers": [], 

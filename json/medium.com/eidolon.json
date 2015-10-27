@@ -4,7 +4,7 @@
         "a unique point of view"
     ], 
     "contributors": [], 
-    "description": "Eidolon: A Modern Way to Write about the Ancient World. Eidolon is a home for scholarly writing about Classics that isn\u2019t formal scholarship. Our goal is to create a platform for essays that have a strong authorial voice and a unique point of view.", 
+    "description": "Eidolon: A Modern Way to Write about the Ancient World. Eidolon is a home for scholarly writing about Classics that isn’t formal scholarship. Our goal is to create a platform for essays that have a strong authorial voice and a unique point of view.", 
     "domain": "medium.com", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2556422680233067902", 
             "resource_date": "2015-04-27T18:02:30.639-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.404152"
+            "when": "2015-10-27T18:38:48.530943"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/new-open-access-journal-eidolon-modern.html", 
             "resource_date": "2015-04-27T18:02:30.639-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.404169"
+            "when": "2015-10-27T18:38:48.530960"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2556422680233067902", 
             "resource_date": "2015-04-27T18:02:30.639-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.418977"
+            "when": "2015-10-27T18:38:48.545481"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/new-open-access-journal-eidolon-modern.html", 
             "resource_date": "2015-04-27T18:02:30.639-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.418993"
+            "when": "2015-10-27T18:38:48.545494"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:40.428711"
+            "when": "2015-10-27T18:38:48.554601"
         }
     ], 
     "publishers": [], 

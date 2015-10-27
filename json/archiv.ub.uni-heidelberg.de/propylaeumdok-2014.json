@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: D\u00f6nmez, \u015eevket (Hrsg. ): Veysel Donbaz'a sunulan yaz\u0131lar. DUB. SAR \u00c9. DUB. BA. A. Studies presented in honour of Veysel Donbaz, Istanbul 2010, pp. 115-134. Faist, Betina and Vita, Juan-Pablo (2008).", 
+    "description": "In: Dönmez, Şevket (Hrsg. ): Veysel Donbaz'a sunulan yazılar. DUB. SAR É. DUB. BA. A. Studies presented in honour of Veysel Donbaz, Istanbul 2010, pp. 115-134. Faist, Betina and Vita, Juan-Pablo (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.139829"
+            "when": "2015-10-27T18:46:19.850110"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.139847"
+            "when": "2015-10-27T18:46:19.850127"
         }
     ], 
     "publishers": [], 

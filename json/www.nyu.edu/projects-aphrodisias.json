@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aphrodisias Newsletter. Thank you for visiting the website of New York University Excavations at Aphrodisias. We wish to inform you that the website is being refurbished to include new features and information about the latest programs of research. Until this process is complete, you can learn about the ancient site of Aphrodisias and our earlier projects by entering the present website, and for more recent activities see the latest newsletter sent to the Friends of Aphrodisias. New York University Excavations at Aphrodisias, which began in 1961, are sponsored by the Institute of Fine Arts in cooperation with the Faculty of Arts & Science with invaluable support from private individuals and the following groups of friends of the project: the American Friends of Aphrodisias (President, Nina K\u00f6pr\u00fcl\u00fc); the Aphrodisias Sevenler Dernegi in Izmir (President, Lise Sur); the Friends of Aphrodisias Trust in London (President, Lady Patricia Daunt); the Association des Amis d'Aphrodisias in Paris (President, Christian Le Roy; Vice-Presidents, Nathalie de Chaisemartin and Pascale Linant de Bellefonds); and the Geyre Vakfi in Istanbul (President, \u00d6mer Ko\u00e7). We are very grateful to all these loyal supporters for their outstanding generosity.", 
+    "description": "Aphrodisias Newsletter. Thank you for visiting the website of New York University Excavations at Aphrodisias. We wish to inform you that the website is being refurbished to include new features and information about the latest programs of research. Until this process is complete, you can learn about the ancient site of Aphrodisias and our earlier projects by entering the present website, and for more recent activities see the latest newsletter sent to the Friends of Aphrodisias. New York University Excavations at Aphrodisias, which began in 1961, are sponsored by the Institute of Fine Arts in cooperation with the Faculty of Arts & Science with invaluable support from private individuals and the following groups of friends of the project: the American Friends of Aphrodisias (President, Nina Köprülü); the Aphrodisias Sevenler Dernegi in Izmir (President, Lise Sur); the Friends of Aphrodisias Trust in London (President, Lady Patricia Daunt); the Association des Amis d'Aphrodisias in Paris (President, Christian Le Roy; Vice-Presidents, Nathalie de Chaisemartin and Pascale Linant de Bellefonds); and the Geyre Vakfi in Istanbul (President, Ömer Koç). We are very grateful to all these loyal supporters for their outstanding generosity.", 
     "domain": "www.nyu.edu", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3616326825722972692", 
             "resource_date": "2013-08-25T21:37:24.181-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.955449"
+            "when": "2015-10-27T18:40:49.647973"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-aphrodisias.html", 
             "resource_date": "2013-08-25T21:37:24.181-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.955464"
+            "when": "2015-10-27T18:40:49.647989"
         }
     ], 
     "publishers": [], 

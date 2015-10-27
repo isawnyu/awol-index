@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Naukratis: Greeks in Egypt. Alexandra Villing, Marianne Bergeron, Giorgos Bourogiannis, Fran\u00e7ois Lecl\u00e8re and Ross Thomas With Alan Johnston, Valerie Smallwood and Susan Woodford. The Greek-Egyptian town of Naukratis in the Nile Delta was a major centre of cross-cultural contact in the ancient world. This catalogue presents the wealth of archaeological finds made in late 19th and early 20th century excavations at the site that are today dispersed in museums worldwide. Comprising Egyptian, Greek, Roman, and Cypriot objects dating from the 7th century BC to the 7th century AD, it will eventually contain over 16,000 objects.", 
+    "description": "Naukratis: Greeks in Egypt. Alexandra Villing, Marianne Bergeron, Giorgos Bourogiannis, François Leclère and Ross Thomas With Alan Johnston, Valerie Smallwood and Susan Woodford. The Greek-Egyptian town of Naukratis in the Nile Delta was a major centre of cross-cultural contact in the ancient world. This catalogue presents the wealth of archaeological finds made in late 19th and early 20th century excavations at the site that are today dispersed in museums worldwide. Comprising Egyptian, Greek, Roman, and Cypriot objects dating from the 7th century BC to the 7th century AD, it will eventually contain over 16,000 objects.", 
     "domain": "www.britishmuseum.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2628755985533643375", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.483077"
+            "when": "2015-10-27T18:38:51.598171"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.483092"
+            "when": "2015-10-27T18:38:51.598187"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2628755985533643375", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.485043"
+            "when": "2015-10-27T18:38:51.599989"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/british-museum-online-research.html", 
             "resource_date": "2013-04-02T09:58:49.668-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.485058"
+            "when": "2015-10-27T18:38:51.600002"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:43.509615"
+            "when": "2015-10-27T18:38:51.623642"
         }
     ], 
     "publishers": [], 

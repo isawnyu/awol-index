@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen des Deutschen Arch\u00e4ologischen Institutes, Athenische Abteilung, 2 (1877), pp. 107-131. Zimmer, Gerhard (2012).", 
+    "description": "In: Mitteilungen des Deutschen Archäologischen Institutes, Athenische Abteilung, 2 (1877), pp. 107-131. Zimmer, Gerhard (2012).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.782401"
+            "when": "2015-10-27T18:46:46.989206"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.782417"
+            "when": "2015-10-27T18:46:46.989220"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:43.154675"
+            "when": "2015-10-27T18:48:37.691053"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:43.154692"
+            "when": "2015-10-27T18:48:37.691069"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.774342"
+            "when": "2015-10-27T18:48:38.679279"
         }
     ], 
     "publishers": [], 
@@ -138,7 +138,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Untersuchungen \u00fcber die antiken Wasserleitungen Athens", 
+    "title": "Untersuchungen über die antiken Wasserleitungen Athens", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

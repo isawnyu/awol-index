@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Spring 2012. Allspice as Template for the Classic Maya K'an Sign By Estella Weiss-Krejci. The San Bartolo Regional Archaeological Project: Results of the Second Field Season 2003. By M\u00f3nica Urquiz\u00fa and William A. Saturno.", 
+    "description": "Spring 2012. Allspice as Template for the Classic Maya K'an Sign By Estella Weiss-Krejci. The San Bartolo Regional Archaeological Project: Results of the Second Field Season 2003. By Mónica Urquizú and William A. Saturno.", 
     "domain": "www.mesoweb.com", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.100256"
+            "when": "2015-10-27T18:42:11.040547"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.100268"
+            "when": "2015-10-27T18:42:11.040560"
         }
     ], 
     "publishers": [], 

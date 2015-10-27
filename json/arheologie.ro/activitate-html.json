@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2110189232919257655", 
             "resource_date": "2014-11-20T00:40:50.956-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:14.409218"
+            "when": "2015-10-27T18:38:21.728707"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-studii-de.html", 
             "resource_date": "2014-11-20T00:40:50.956-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:14.409234"
+            "when": "2015-10-27T18:38:21.728724"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2110189232919257655", 
             "resource_date": "2014-11-20T00:40:50.956-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:14.655967"
+            "when": "2015-10-27T18:38:22.011496"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-journal-studii-de.html", 
             "resource_date": "2014-11-20T00:40:50.956-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:14.655985"
+            "when": "2015-10-27T18:38:22.011513"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:14.775505"
+            "when": "2015-10-27T18:38:22.137922"
         }
     ], 
     "publishers": [], 
@@ -146,7 +146,7 @@
             "url": "http://arheologie.ro/activitate.html"
         }, 
         {
-            "title_full": "Colegiu de redac\u0163ie", 
+            "title_full": "Colegiu de redacţie", 
             "url": "http://arheologie.ro/colegiu_redactie.html"
         }, 
         {
@@ -182,11 +182,11 @@
             "url": "http://arheologie.ro/doc/sp4/7_15_Bailey_rez.pdf"
         }, 
         {
-            "title_full": "Roxana DOBRESCU - Obsidianul din asezarile aurignaciene din nord-vestul Rom\u00e2niei / Obsidian in Aurignacian sites from north-west Romania", 
+            "title_full": "Roxana DOBRESCU - Obsidianul din asezarile aurignaciene din nord-vestul României / Obsidian in Aurignacian sites from north-west Romania", 
             "url": "http://arheologie.ro/doc/sp4/17-31_Dobrescu%20rez.pdf"
         }, 
         {
-            "title_full": "Corneliu BELDIMAN, Diana-Maria SZTANCS - Pierres et mammouths. Les ivoires ouvr\u00e9s au Pal\u00e9olithique sup\u00e9rieur en Roumanie - donn\u00e9es r\u00e9centes", 
+            "title_full": "Corneliu BELDIMAN, Diana-Maria SZTANCS - Pierres et mammouths. Les ivoires ouvrés au Paléolithique supérieur en Roumanie - données récentes", 
             "url": "http://arheologie.ro/doc/sp4/33_51_Beldiman%20rez.pdf"
         }, 
         {
@@ -198,7 +198,7 @@
             "url": "http://arheologie.ro/doc/sp4/67-85%20Bacuet%20rez.pdf"
         }, 
         {
-            "title_full": "Silvia MARINESCU-B\u00ceLCU - \"Greutati\" decorate din aria Gumelnita / Decorate \"clay weights\" in Gumelnita culture", 
+            "title_full": "Silvia MARINESCU-BÎLCU - \"Greutati\" decorate din aria Gumelnita / Decorate \"clay weights\" in Gumelnita culture", 
             "url": "http://arheologie.ro/doc/sp4/87_103_Marinescu%20rez.pdf"
         }, 
         {
@@ -214,19 +214,19 @@
             "url": "http://arheologie.ro/doc/sp4/159_167_Gatej%20rez.pdf"
         }, 
         {
-            "title_full": "Alexandru S. MORINTZ - Neue daten zur pr\u00e4historischen Ansiedlung bei Tausanca (Gemeinde Ulmeni, Bezirk Calarasi)", 
+            "title_full": "Alexandru S. MORINTZ - Neue daten zur prähistorischen Ansiedlung bei Tausanca (Gemeinde Ulmeni, Bezirk Calarasi)", 
             "url": "http://arheologie.ro/doc/sp4/169_177_Morintz%20rez.pdf"
         }, 
         {
-            "title_full": "Cristian SCHUSTER - Erw\u00e4ngungen zu den befestigten bronzezeitlichen Siedlungen an der Unteren Donau (S\u00fcdrum\u00e4nien)", 
+            "title_full": "Cristian SCHUSTER - Erwängungen zu den befestigten bronzezeitlichen Siedlungen an der Unteren Donau (Südrumänien)", 
             "url": "http://arheologie.ro/doc/sp4/179-187_Schuster%20rez.pdf"
         }, 
         {
-            "title_full": "David PECREAUX - Arch\u00e9oentomologie et Pal\u00e9oentomologie. Les Insectes: t\u00e9moins du pass\u00e9 des hommes et de leur environnement", 
+            "title_full": "David PECREAUX - Archéoentomologie et Paléoentomologie. Les Insectes: témoins du passé des hommes et de leur environnement", 
             "url": "http://arheologie.ro/doc/sp4/189-200_Pecreaux%20rez.pdf"
         }, 
         {
-            "title_full": "Ludovic Orlando, L\u2019anti-Jurassic Park: Faire parler l\u2019ADN fossile, Aux editions Berlin-Pour la Science, 2005, ISBN 2-7011-4136-2, 272 pag., 21 fig (Adriana Maria STAN)", 
+            "title_full": "Ludovic Orlando, L’anti-Jurassic Park: Faire parler l’ADN fossile, Aux editions Berlin-Pour la Science, 2005, ISBN 2-7011-4136-2, 272 pag., 21 fig (Adriana Maria STAN)", 
             "url": "http://arheologie.ro/doc/sp4/201-202_Stan%20rez.pdf"
         }, 
         {
@@ -234,7 +234,7 @@
             "url": "http://arheologie.ro/doc/sp5/1_p.%207-13_DWBailey.pdf"
         }, 
         {
-            "title_full": "Vincent OLLIVIER, Paul ROIRON, Adrian BALASESCU, Samuel NAHAPETYAN, Yvan GABRIELYAN, Jean-Louis GUENDON - Milieux, processus, faci\u00e8s et dynamiques morphos\u00e9dimentaires des formations travertineuses quaternaires en relation avec les changements climatiques et les occupations humaines entre M\u00e9diterran\u00e9e et Caucase", 
+            "title_full": "Vincent OLLIVIER, Paul ROIRON, Adrian BALASESCU, Samuel NAHAPETYAN, Yvan GABRIELYAN, Jean-Louis GUENDON - Milieux, processus, faciès et dynamiques morphosédimentaires des formations travertineuses quaternaires en relation avec les changements climatiques et les occupations humaines entre Méditerranée et Caucase", 
             "url": "http://arheologie.ro/doc/sp5/2_p.%2015-35_Vincent%20Ollivier,%20Travertins.pdf"
         }, 
         {
@@ -254,11 +254,11 @@
             "url": "http://arheologie.ro/doc/sp5/6_p.%2079-88_Despre_topoarele_de_tip_Vidra.pdf"
         }, 
         {
-            "title_full": "Corneliu BELDIMAN, Diana-Maria SZTANCS - Mati\u00e8re, artefact, symbole. Dents perc\u00e9es et imitations en os dans les d\u00e9p\u00f4ts d\u2019objets de prestige de la culture Cucuteni", 
+            "title_full": "Corneliu BELDIMAN, Diana-Maria SZTANCS - Matière, artefact, symbole. Dents percées et imitations en os dans les dépôts d’objets de prestige de la culture Cucuteni", 
             "url": "http://arheologie.ro/doc/sp5/7_p.89-101_Beldiman_Sztancs.pdf"
         }, 
         {
-            "title_full": "Alexandra ION - Oseminte umane descoperite \u00een asezari din arealul culturii Gumelnita", 
+            "title_full": "Alexandra ION - Oseminte umane descoperite în asezari din arealul culturii Gumelnita", 
             "url": "http://arheologie.ro/doc/sp5/8_p.%20109-129_Oseminte.pdf"
         }, 
         {
@@ -286,7 +286,7 @@
             "url": "http://arheologie.ro/doc/sp5/14_Dragoman.pdf"
         }, 
         {
-            "title_full": "Paul Goldberg and Richard I. Macphail (cu contributii de Wendy Matthews), Practical and Theoretical Geoarchaeology, Blackwell Publishing, 2006, 455 pagini, 192 figuri alb/negru, 48 tabele, 12 planse color, ISBN 0-632-06044-1, format h\u00e2rtie, 64.95 USD.(Constantin HAITA)", 
+            "title_full": "Paul Goldberg and Richard I. Macphail (cu contributii de Wendy Matthews), Practical and Theoretical Geoarchaeology, Blackwell Publishing, 2006, 455 pagini, 192 figuri alb/negru, 48 tabele, 12 planse color, ISBN 0-632-06044-1, format hârtie, 64.95 USD.(Constantin HAITA)", 
             "url": "http://arheologie.ro/doc/sp5/15_Haita.pdf"
         }, 
         {
@@ -298,7 +298,7 @@
             "url": "http://arheologie.ro/doc/sp6/1_Bailey.pdf"
         }, 
         {
-            "title_full": "Adina BORONEAN\u0162, Vasile BORONEAN\u0162 - Schela Cladovei 1965-1968. Dup\u0103 40 de ani", 
+            "title_full": "Adina BORONEANŢ, Vasile BORONEANŢ - Schela Cladovei 1965-1968. După 40 de ani", 
             "url": "http://arheologie.ro/doc/sp6/2_Boroneant.pdf"
         }, 
         {
@@ -306,51 +306,51 @@
             "url": "http://arheologie.ro/doc/sp6/3_Jacobsson.pdf"
         }, 
         {
-            "title_full": "Alexandra ION, Andrei-Dorian SOFICARU, Nicolae MIRI\u0162OIU Dismembered human remains from the \"Neolithic\" C\u00e2rcea site (Romania)", 
+            "title_full": "Alexandra ION, Andrei-Dorian SOFICARU, Nicolae MIRIŢOIU Dismembered human remains from the \"Neolithic\" Cârcea site (Romania)", 
             "url": "http://arheologie.ro/doc/sp6/4_Ion.pdf"
         }, 
         {
-            "title_full": "Valentina VOINEA - Practici funerare \u00een cultura Hamangia - sacrificii de animale", 
+            "title_full": "Valentina VOINEA - Practici funerare în cultura Hamangia - sacrificii de animale", 
             "url": "http://arheologie.ro/doc/sp6/5_Voinea.pdf"
         }, 
         {
-            "title_full": "Alexandru DRAGOMAN - Note on V\u0103dastra excised pots", 
+            "title_full": "Alexandru DRAGOMAN - Note on Vădastra excised pots", 
             "url": "http://arheologie.ro/doc/sp6/6_Dragoman.pdf"
         }, 
         {
-            "title_full": "Georgeta EL SUSI - New data on livestock and hunting in the precucutenian settlement at Costi\u015fa -\u201eCet\u0103\u0163uie\" (Neam\u0163 County)", 
+            "title_full": "Georgeta EL SUSI - New data on livestock and hunting in the precucutenian settlement at Costişa -„Cetăţuie\" (Neamţ County)", 
             "url": "http://arheologie.ro/doc/sp6/7_ElSusi.pdf"
         }, 
         {
-            "title_full": "Radian-Romus ANDREESCU, Lauren\u0163iu GRIGORA\u015e, Eugen PAVELE\u0162, Katia MOLDOVEANU - New discoveries in the Eneolithic settlement from Co\u0163atcu \"Cet\u0103\u0163uia\", Buz\u0103u County", 
+            "title_full": "Radian-Romus ANDREESCU, Laurenţiu GRIGORAŞ, Eugen PAVELEŢ, Katia MOLDOVEANU - New discoveries in the Eneolithic settlement from Coţatcu \"Cetăţuia\", Buzău County", 
             "url": "http://arheologie.ro/doc/sp6/8_Andreescu.pdf"
         }, 
         {
-            "title_full": "Cristian Eduard \u015eTEFAN - A few remarks concerning the clay stamp-seals from the Gumelni\u0163a culture", 
+            "title_full": "Cristian Eduard ŞTEFAN - A few remarks concerning the clay stamp-seals from the Gumelniţa culture", 
             "url": "http://arheologie.ro/doc/sp6/9_Stefan.pdf"
         }, 
         {
-            "title_full": "C\u0103t\u0103lin LAZ\u0102R, Radian ANDREESCU, Theodor IGNAT, Monica M\u0102RG\u0102RIT, Mihai FLOREA, Adrian B\u0102L\u0102\u015eESCU - New Data on the Eneolithic Cemetery from Sultana-Malu Ro\u015fu (C\u0103l\u0103ra\u015fi county, Romania)", 
+            "title_full": "Cătălin LAZĂR, Radian ANDREESCU, Theodor IGNAT, Monica MĂRGĂRIT, Mihai FLOREA, Adrian BĂLĂŞESCU - New Data on the Eneolithic Cemetery from Sultana-Malu Roşu (Călăraşi county, Romania)", 
             "url": "http://arheologie.ro/doc/sp6/10_Lazar.pdf"
         }, 
         {
-            "title_full": "Hortensia DUMITRESCU - (cu o adnotare de / with an annotation of Silvia MARINESCU-B\u00ceLCU) Piscul Corni\u015forului (S\u0103lcu\u0163a 1945)", 
+            "title_full": "Hortensia DUMITRESCU - (cu o adnotare de / with an annotation of Silvia MARINESCU-BÎLCU) Piscul Cornişorului (Sălcuţa 1945)", 
             "url": "http://arheologie.ro/doc/sp6/11_Marinescu.pdf"
         }, 
         {
-            "title_full": "Tomasz Jacek CHMIELEWSKI - Let\u2019s twist again... or on the Eneolithic methods of yarn production", 
+            "title_full": "Tomasz Jacek CHMIELEWSKI - Let’s twist again... or on the Eneolithic methods of yarn production", 
             "url": "http://arheologie.ro/doc/sp6/12_Chmielewski.pdf"
         }, 
         {
-            "title_full": "C\u0103t\u0103lin DOBRINESCU Observa\u0163ii asupra originii \u015fi circula\u0163iei obiectelor de bronz \u00een aria culturii Coslogeni", 
+            "title_full": "Cătălin DOBRINESCU Observaţii asupra originii şi circulaţiei obiectelor de bronz în aria culturii Coslogeni", 
             "url": "http://arheologie.ro/doc/sp6/13_Dobrinescu.pdf"
         }, 
         {
-            "title_full": "Alexandru DRAGOMAN - \u015eaptezeci de ani de la moartea lui Vasile Christescu", 
+            "title_full": "Alexandru DRAGOMAN - Şaptezeci de ani de la moartea lui Vasile Christescu", 
             "url": "http://arheologie.ro/doc/sp6/14_Dragoman.pdf"
         }, 
         {
-            "title_full": "Jan Vanmoerkeke, Jo\u00eblle Burnouf (coordonatori \u015ftiin\u0163ifici), Cent mille ans sous le rails. Arc\u00e9hologie de la ligne a grande vitesse est europ\u00e9enne, Somogy \u00e9dition d\u2019art, Inrap, Paris 2006, ISBN 2-7572-000-6-2, 136 p., 30 \u20ac (Pavel MIREA)", 
+            "title_full": "Jan Vanmoerkeke, Joëlle Burnouf (coordonatori ştiinţifici), Cent mille ans sous le rails. Arcéhologie de la ligne a grande vitesse est européenne, Somogy édition d’art, Inrap, Paris 2006, ISBN 2-7572-000-6-2, 136 p., 30 € (Pavel MIREA)", 
             "url": "http://arheologie.ro/doc/sp6/.pdf"
         }, 
         {
@@ -362,7 +362,7 @@
             "url": "http://arheologie.ro/doc/sup/Atlas_sup_1.pdf"
         }, 
         {
-            "title_full": "Industria materiilor dure animale \u00een preistoria Rom\u00e2niei", 
+            "title_full": "Industria materiilor dure animale în preistoria României", 
             "url": "http://arheologie.ro/doc/sup/IMDA_sup_2.pdf"
         }, 
         {

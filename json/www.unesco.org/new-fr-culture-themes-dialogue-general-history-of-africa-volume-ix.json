@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Histoire g\u00e9n\u00e9rale de l'Afrique. L\u2019UNESCO a lanc\u00e9 en 1964 l\u2019\u00e9laboration de l\u2019Histoire g\u00e9n\u00e9rale de l\u2019Afrique pour rem\u00e9dier \u00e0 l\u2019ignorance g\u00e9n\u00e9ralis\u00e9e sur le pass\u00e9 de l\u2019Afrique. Pour relever ce d\u00e9fi qui consistait \u00e0 reconstruire une histoire de l\u2019Afrique lib\u00e9r\u00e9e des pr\u00e9jug\u00e9s raciaux h\u00e9rit\u00e9s de la traite n\u00e9gri\u00e8re et de la colonisation et favoriser une perspective africaine, l\u2019UNESCO a fait appel aux plus grands sp\u00e9cialistes africains et internationaux de l\u2019\u00e9poque. Supervis\u00e9e par un Comit\u00e9 scientifique international dont deux tiers \u00e9taient africains, l\u2019\u00e9laboration des huit volumes de l\u2019Histoire g\u00e9n\u00e9rale de l\u2019Afrique a mobilis\u00e9 plus de 230 historiens et autres sp\u00e9cialistes pendant plus de 35 ann\u00e9es. Achev\u00e9 en 1999, ce travail colossal qui eut un grand retentissement en Afrique et, au-del\u00e0, dans les milieux scientifiques et universitaires, est consid\u00e9r\u00e9 comme une contribution majeure \u00e0 la connaissance de l\u2019histoire et de l\u2019historiographie africaines. \u00c9tant donn\u00e9 son importance pour l\u2019humanit\u00e9, l\u2019Histoire g\u00e9n\u00e9rale de l\u2019Afrique a \u00e9t\u00e9 traduite en 13 langues notamment en anglais, en fran\u00e7ais et en arabe, mais aussi dans trois langues africaines. Poursuivant son action en faveur de l\u2019Afrique, l\u2019UNESCO vient de lancer la seconde phase de ce projet: l\u2019utilisation p\u00e9dagogique de l\u2019Histoire g\u00e9n\u00e9rale de l\u2019Afrique.", 
+    "description": "Histoire générale de l'Afrique. L’UNESCO a lancé en 1964 l’élaboration de l’Histoire générale de l’Afrique pour remédier à l’ignorance généralisée sur le passé de l’Afrique. Pour relever ce défi qui consistait à reconstruire une histoire de l’Afrique libérée des préjugés raciaux hérités de la traite négrière et de la colonisation et favoriser une perspective africaine, l’UNESCO a fait appel aux plus grands spécialistes africains et internationaux de l’époque. Supervisée par un Comité scientifique international dont deux tiers étaient africains, l’élaboration des huit volumes de l’Histoire générale de l’Afrique a mobilisé plus de 230 historiens et autres spécialistes pendant plus de 35 années. Achevé en 1999, ce travail colossal qui eut un grand retentissement en Afrique et, au-delà, dans les milieux scientifiques et universitaires, est considéré comme une contribution majeure à la connaissance de l’histoire et de l’historiographie africaines. Étant donné son importance pour l’humanité, l’Histoire générale de l’Afrique a été traduite en 13 langues notamment en anglais, en français et en arabe, mais aussi dans trois langues africaines. Poursuivant son action en faveur de l’Afrique, l’UNESCO vient de lancer la seconde phase de ce projet: l’utilisation pédagogique de l’Histoire générale de l’Afrique.", 
     "domain": "www.unesco.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Histoire g\u00e9n\u00e9rale de l'Afrique", 
+        "title_full": "Histoire générale de l'Afrique", 
         "url": "http://www.unesco.org/new/fr/culture/themes/dialogue/general-history-of-africa/volumes/#c181073"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-139975993489386696", 
             "resource_date": "2014-12-03T07:34:16.093-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.090826"
+            "when": "2015-10-27T18:37:30.582903"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/histoire-generale-de-lafrique-online.html", 
             "resource_date": "2014-12-03T07:34:16.093-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.090839"
+            "when": "2015-10-27T18:37:30.582916"
         }
     ], 
     "publishers": [], 

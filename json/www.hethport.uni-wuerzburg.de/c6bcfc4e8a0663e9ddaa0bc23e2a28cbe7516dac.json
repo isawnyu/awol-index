@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 1 October 2010, updated 18 March 2015]. Catalog der Texte der Hethiter (CTH). Catalogue des textes hittites - Catalogue of Hittite Texts. in Fortf\u00fchrung der Arbeit von E. Laroche bearbeitet von S. Ko\u0161ak und G. G. W. M\u00fcller. Published online as a part of the.", 
+    "description": "[First posted in AWOL 1 October 2010, updated 18 March 2015]. Catalog der Texte der Hethiter (CTH). Catalogue des textes hittites - Catalogue of Hittite Texts. in Fortführung der Arbeit von E. Laroche bearbeitet von S. Košak und G. G. W. Müller. Published online as a part of the.", 
     "domain": "www.hethport.uni-wuerzburg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8479169636220564258", 
             "resource_date": "2015-03-22T09:18:16.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:53.951670"
+            "when": "2015-10-27T18:47:44.228494"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-hittite-text-corpus.html", 
             "resource_date": "2015-03-22T09:18:16.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:53.951682"
+            "when": "2015-10-27T18:47:44.228506"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Culture & Mus\u00e9es. Revue scientifique \u00e0 comit\u00e9 de lecture, Culture et Mus\u00e9es publie des travaux de recherche in\u00e9dits sur les publics, les institutions et les m\u00e9diations de la culture. Les contributions, regroup\u00e9es autour d\u2019un th\u00e8me, font de chaque livraison un ouvrage collectif charg\u00e9 d\u2019approfondir une question vive et qui est plac\u00e9, \u00e0 ce titre, sous la direction d\u2019un scientifique sp\u00e9cialiste choisi par le comit\u00e9 de r\u00e9daction.", 
+    "description": "Culture & Musées. Revue scientifique à comité de lecture, Culture et Musées publie des travaux de recherche inédits sur les publics, les institutions et les médiations de la culture. Les contributions, regroupées autour d’un thème, font de chaque livraison un ouvrage collectif chargé d’approfondir une question vive et qui est placé, à ce titre, sous la direction d’un scientifique spécialiste choisi par le comité de rédaction.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Culture & Mus\u00e9es", 
+        "title_full": "Culture & Musées", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/pumus"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5763382825317509391", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:15.082114"
+            "when": "2015-10-27T18:43:47.868040"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-culture-musees.html", 
             "resource_date": "2011-02-14T09:02:33.881-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:15.082126"
+            "when": "2015-10-27T18:43:47.868054"
         }
     ], 
     "publishers": [], 

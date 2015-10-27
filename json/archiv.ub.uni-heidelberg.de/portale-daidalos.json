@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie. From.", 
+    "description": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie. From.", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie", 
+        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie", 
         "url": "http://archiv.ub.uni-heidelberg.de/portale/daidalos/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7166318577704825915", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.186516"
+            "when": "2015-10-27T18:45:30.359852"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/daidalos-heidelberger-magisterarbeiten.html", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.186533"
+            "when": "2015-10-27T18:45:30.359869"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7166318577704825915", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.188548"
+            "when": "2015-10-27T18:45:30.362026"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/daidalos-heidelberger-magisterarbeiten.html", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.188559"
+            "when": "2015-10-27T18:45:30.362039"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:48.198876"
+            "when": "2015-10-27T18:45:30.372386"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie", 
+            "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/portale/daidalos/"
         }, 
         {
@@ -169,7 +169,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1357"
         }
     ], 
-    "title": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie", 
+    "title": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ministerul Culturii \u015fi Patrimoniului Na\u0163ional Repertoriul Arheologic Na\u0163ional (RAN) - National Archaeological Record Database", 
+    "description": "Ministerul Culturii şi Patrimoniului Naţional Repertoriul Arheologic Naţional (RAN) - National Archaeological Record Database", 
     "domain": "www.cimec.ro", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Ministerul Culturii \u015fi Patrimoniului Na\u0163ional Repertoriul Arheologic Na\u0163ional (RAN) - National Archaeological Record Database", 
+        "title_full": "Ministerul Culturii şi Patrimoniului Naţional Repertoriul Arheologic Naţional (RAN) - National Archaeological Record Database", 
         "url": "http://www.cimec.ro/scripts/ARH/RAn/sel.asp"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-239159702724255372", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.555872"
+            "when": "2015-10-27T18:38:44.473015"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/romanian-national-archaeological-record.html", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.555890"
+            "when": "2015-10-27T18:38:44.473031"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-239159702724255372", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.558773"
+            "when": "2015-10-27T18:38:44.475115"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/romanian-national-archaeological-record.html", 
             "resource_date": "2013-05-09T10:49:11.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.558788"
+            "when": "2015-10-27T18:38:44.475128"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:36.560710"
+            "when": "2015-10-27T18:38:44.477072"
         }
     ], 
     "publishers": [], 
@@ -145,11 +145,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Ministerul Culturii \u015fi Patrimoniului Na\u0163ional Repertoriul Arheologic Na\u0163ional (RAN) - National Archaeological Record Database", 
+            "title_full": "Ministerul Culturii şi Patrimoniului Naţional Repertoriul Arheologic Naţional (RAN) - National Archaeological Record Database", 
             "url": "http://www.cimec.ro/scripts/ARH/RAn/sel.asp"
         }
     ], 
-    "title": "Ministerul Culturii \u015fi Patrimoniului Na\u0163ional Repertoriul Arheologic Na\u0163ional (RAN) - National Archaeological Record Database", 
+    "title": "Ministerul Culturii şi Patrimoniului Naţional Repertoriul Arheologic Naţional (RAN) - National Archaeological Record Database", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

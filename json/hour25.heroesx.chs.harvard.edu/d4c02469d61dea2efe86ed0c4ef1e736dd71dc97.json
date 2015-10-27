@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "1\u00a76 Nominal Sentences.", 
+    "description": "1§6 Nominal Sentences.", 
     "domain": "hour25.heroesx.chs.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2438118749532558525", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.413377"
+            "when": "2015-10-27T18:38:45.363646"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/introduction-to-homeric-greek-volume-1.html", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.413388"
+            "when": "2015-10-27T18:38:45.363660"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "1\u00a75 First Declension Noun \u03b3\u03b1\u1fd6\u03b1", 
+    "title": "1§5 First Declension Noun γαῖα", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

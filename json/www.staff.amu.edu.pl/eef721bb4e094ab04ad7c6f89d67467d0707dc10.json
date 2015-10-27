@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Variability and Evolution. The journal Variability and Evolution was founded by Jerzy Szweykowski, Krzysztof \u0141astowski and Janusz Piontek, Professors of Adam Mickiewicz University in Pozna\u0144 in 1991. Jerzy Szweykowski edited first four volumes and Janusz Piontek has been the editor from the 5th volume (1996). Starting from the 6th volume (1997) Variability and Evolution has been published by the Institute of Anthropology of Adam Mickiewicz University and also has possessed the Board of International Collaborators. See the full.", 
+    "description": "Variability and Evolution. The journal Variability and Evolution was founded by Jerzy Szweykowski, Krzysztof Łastowski and Janusz Piontek, Professors of Adam Mickiewicz University in Poznań in 1991. Jerzy Szweykowski edited first four volumes and Janusz Piontek has been the editor from the 5th volume (1996). Starting from the 6th volume (1997) Variability and Evolution has been published by the Institute of Anthropology of Adam Mickiewicz University and also has possessed the Board of International Collaborators. See the full.", 
     "domain": "www.staff.amu.edu.pl", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5467941143727145041", 
             "resource_date": "2010-02-28T09:36:22.817-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.184712"
+            "when": "2015-10-27T18:43:35.100510"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-variability-and.html", 
             "resource_date": "2010-02-28T09:36:22.817-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.184727"
+            "when": "2015-10-27T18:43:35.100524"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5467941143727145041", 
             "resource_date": "2010-02-28T09:36:22.817-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.188742"
+            "when": "2015-10-27T18:43:35.104581"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-variability-and.html", 
             "resource_date": "2010-02-28T09:36:22.817-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.188759"
+            "when": "2015-10-27T18:43:35.104598"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.190931"
+            "when": "2015-10-27T18:43:35.106942"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Marzahn, Joachim and Neumann, Hans (Hrsgg. ): Assyriologica et Semitica. Festschrift f\u00fcr Joachim Oelsner. Alter Orient und Altes Testament 252. M\u00fcnster 2000, pp. 73-94. Fuchs, Andreas (2010).", 
+    "description": "In: Marzahn, Joachim and Neumann, Hans (Hrsgg. ): Assyriologica et Semitica. Festschrift für Joachim Oelsner. Alter Orient und Altes Testament 252. Münster 2000, pp. 73-94. Fuchs, Andreas (2010).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.371121"
+            "when": "2015-10-27T18:46:20.066796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.371137"
+            "when": "2015-10-27T18:46:20.066811"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "M\u0101t Habhi", 
+    "title": "Māt Habhi", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

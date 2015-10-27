@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-495741986864015130", 
             "resource_date": "2015-05-05T15:35:49.369-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.237436"
+            "when": "2015-10-27T18:43:06.281170"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html", 
             "resource_date": "2015-05-05T15:35:49.369-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.237452"
+            "when": "2015-10-27T18:43:06.281185"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-495741986864015130", 
             "resource_date": "2015-05-05T15:35:49.369-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.239848"
+            "when": "2015-10-27T18:43:06.283661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/digital-archive-of-worlds-heritage.html", 
             "resource_date": "2015-05-05T15:35:49.369-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.239861"
+            "when": "2015-10-27T18:43:06.283676"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:36.241751"
+            "when": "2015-10-27T18:43:06.285734"
         }
     ], 
     "publishers": [], 

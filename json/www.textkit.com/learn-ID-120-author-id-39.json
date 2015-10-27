@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-837386773766905832", 
             "resource_date": "2013-08-29T10:48:26.906-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.157791"
+            "when": "2015-10-27T18:47:11.465815"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/textkit-to-help-you-learn-ancient-greek.html", 
             "resource_date": "2013-08-29T10:48:26.906-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.157804"
+            "when": "2015-10-27T18:47:11.465828"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Illustrated Dictionary to Xenophon\u2019s Anabasis", 
+    "title": "Illustrated Dictionary to Xenophon’s Anabasis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arabia Antica: History and Culture of Pre-Islamic Arabia. Arabia Antica is the portal for Pre-Islamic Arabian studies conducted by the University of Pisa Dipartimento di Civilt\u00e0 e Forme del Sapere.", 
+    "description": "Arabia Antica: History and Culture of Pre-Islamic Arabia. Arabia Antica is the portal for Pre-Islamic Arabian studies conducted by the University of Pisa Dipartimento di Civiltà e Forme del Sapere.", 
     "domain": "arabiantica.humnet.unipi.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3725524249160949948", 
             "resource_date": "2015-02-16T07:58:38.762-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:41.395984"
+            "when": "2015-10-27T18:40:58.696642"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/arabia-antica-history-and-culture-of.html", 
             "resource_date": "2015-02-16T07:58:38.762-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:41.395996"
+            "when": "2015-10-27T18:40:58.696657"
         }
     ], 
     "publishers": [], 

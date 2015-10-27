@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "World Heritage Earthen Architecture Programme (WHEAP). The World Heritage Programme on Earthen Architecture (WHEAP) aims for the improvement of the state of conservation and management of earthen architecture sites worldwide. Pilot projects on earthen architectural sites inscribed on the World Heritage List, or included in States Parties\u2019 Tentative Lists, will help identify best practices and set examples for the development and dissemination of appropriate methods and techniques in conservation, management, and capacity building. Scientific research will further the endeavor to ameliorate know-how in the field. Expected results include a better understanding of the problems facing earthen architecture, the development of policies favoring its conservation, the definition of practical guidelines and the organization of training and awareness activities, particularly in local communities through workshops, exhibitions, conferences and technical publications to raise the recognition of earthen architecture, as well as the creation of an active global network for the exchange of information and experience.", 
+    "description": "World Heritage Earthen Architecture Programme (WHEAP). The World Heritage Programme on Earthen Architecture (WHEAP) aims for the improvement of the state of conservation and management of earthen architecture sites worldwide. Pilot projects on earthen architectural sites inscribed on the World Heritage List, or included in States Parties’ Tentative Lists, will help identify best practices and set examples for the development and dissemination of appropriate methods and techniques in conservation, management, and capacity building. Scientific research will further the endeavor to ameliorate know-how in the field. Expected results include a better understanding of the problems facing earthen architecture, the development of policies favoring its conservation, the definition of practical guidelines and the organization of training and awareness activities, particularly in local communities through workshops, exhibitions, conferences and technical publications to raise the recognition of earthen architecture, as well as the creation of an active global network for the exchange of information and experience.", 
     "domain": "whc.unesco.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4843185468866749210", 
             "resource_date": "2012-06-01T11:53:34.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:08.728694"
+            "when": "2015-10-27T18:42:37.576339"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/world-heritage-earthen-architecture.html", 
             "resource_date": "2012-06-01T11:53:34.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:08.728711"
+            "when": "2015-10-27T18:42:37.576356"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4843185468866749210", 
             "resource_date": "2012-06-01T11:53:34.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:08.730590"
+            "when": "2015-10-27T18:42:37.578660"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/world-heritage-earthen-architecture.html", 
             "resource_date": "2012-06-01T11:53:34.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:08.730602"
+            "when": "2015-10-27T18:42:37.578676"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:08.795719"
+            "when": "2015-10-27T18:42:37.665059"
         }
     ], 
     "publishers": [], 
@@ -193,11 +193,11 @@
             "url": "http://whc.unesco.org/en/list/743"
         }, 
         {
-            "title_full": "Old Town of Ghadam\u00e8s", 
+            "title_full": "Old Town of Ghadamès", 
             "url": "http://whc.unesco.org/en/list/362"
         }, 
         {
-            "title_full": "Old Towns of Djenn\u00e9", 
+            "title_full": "Old Towns of Djenné", 
             "url": "http://whc.unesco.org/en/list/116"
         }, 
         {
@@ -269,19 +269,19 @@
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-24.pdf"
         }, 
         {
-            "title_full": "09b - R\u00e9habilitation et revitalisation de la Maison des jeunes de Djenn\u00e9 : rapport interm\u00e9diaire 2\u00b0, mars 2011", 
+            "title_full": "09b - Réhabilitation et revitalisation de la Maison des jeunes de Djenné : rapport intermédiaire 2°, mars 2011", 
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-12.pdf"
         }, 
         {
-            "title_full": "10 - R\u00e9habilitation et revitalisation de la Maison des jeunes de Djenn\u00e9 : LIVRET de d\u00e9tail, f\u00e9vrier 2011", 
+            "title_full": "10 - Réhabilitation et revitalisation de la Maison des jeunes de Djenné : LIVRET de détail, février 2011", 
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-13.pdf"
         }, 
         {
-            "title_full": "11 - R\u00e9habilitation et revitalisation de la Maison des jeunes de Djenn\u00e9 : LIVRET des plans, janvier 2011", 
+            "title_full": "11 - Réhabilitation et revitalisation de la Maison des jeunes de Djenné : LIVRET des plans, janvier 2011", 
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-14.pdf"
         }, 
         {
-            "title_full": "12 - R\u00e9habilitation et revitalisation de la Maison des jeunes de Djenn\u00e9 : rapport de la mission de d\u00e9marrage, juillet 2010", 
+            "title_full": "12 - Réhabilitation et revitalisation de la Maison des jeunes de Djenné : rapport de la mission de démarrage, juillet 2010", 
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-15.pdf"
         }, 
         {
@@ -293,7 +293,7 @@
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-9.pdf"
         }, 
         {
-            "title_full": "15 - Rapport de mission pour l'\u00e9laboration d'un projet de r\u00e8glement d'urbanisme pour Djenn\u00e9, juin 2010", 
+            "title_full": "15 - Rapport de mission pour l'élaboration d'un projet de règlement d'urbanisme pour Djenné, juin 2010", 
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-16.pdf"
         }, 
         {
@@ -301,7 +301,7 @@
             "url": "http://whc.unesco.org/uploads/activities/documents/activity-21-17.pdf"
         }, 
         {
-            "title_full": "Safeguarding project of Hassan Fathy\u2019s New Gourna Village", 
+            "title_full": "Safeguarding project of Hassan Fathy’s New Gourna Village", 
             "url": "http://whc.unesco.org/en/activities/637/"
         }
     ], 

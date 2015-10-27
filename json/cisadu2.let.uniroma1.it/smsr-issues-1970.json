@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Volume XLII - 1973-1976 [Religioni e Civilt\u00e0 (Nuova Serie, Vol. II / 1976)]. sommario |.", 
+    "description": "Volume XLII - 1973-1976 [Religioni e Civiltà (Nuova Serie, Vol. II / 1976)]. sommario |.", 
     "domain": "cisadu2.let.uniroma1.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6317983857756196817", 
             "resource_date": "2014-04-27T08:12:09.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:59.805511"
+            "when": "2015-10-27T18:44:37.160947"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-studi-e-materiali.html", 
             "resource_date": "2014-04-27T08:12:09.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:59.805523"
+            "when": "2015-10-27T18:44:37.160958"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Volume XLI - 1970-1972 [Religioni e Civilt\u00e0 (Nuova Serie, Vol. I / 1972)] . sommario | sfoglia", 
+    "title": "Volume XLI - 1970-1972 [Religioni e Civiltà (Nuova Serie, Vol. I / 1972)] . sommario | sfoglia", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

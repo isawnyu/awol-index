@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Trabalhos do CNANS: Arqueologia n\u00e1utica.", 
+    "description": "Trabalhos do CNANS: Arqueologia náutica.", 
     "domain": "www.igespar.pt", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Trabalhos do CNANS : Arqueologia n\u00e1utica", 
+        "title_full": "Trabalhos do CNANS : Arqueologia náutica", 
         "url": "http://www.igespar.pt/en/publications/category/50/assets/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792181840661738260", 
             "resource_date": "2011-11-09T16:39:17.205-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:48.461502"
+            "when": "2015-10-27T18:46:35.015289"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/open-access-journal-trabalhos-do-cnans.html", 
             "resource_date": "2011-11-09T16:39:17.205-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:48.461514"
+            "when": "2015-10-27T18:46:35.015301"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Trabalhos do CNANS - Arqueologia N\u00e1utica e Subaqu\u00e1tica", 
+    "title": "Trabalhos do CNANS - Arqueologia Náutica e Subaquática", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

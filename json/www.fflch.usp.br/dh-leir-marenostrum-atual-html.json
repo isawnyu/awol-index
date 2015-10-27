@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mare Nostrum. Estudos sobre o Mediterr\u00e2neo Antigo. ISSN: 2177-4218. MARE NOSTRUM - Hist\u00f3ria e Integra\u00e7\u00e3o no Mediterr\u00e2neo Antigo \u00e9 uma revista de estudos sobre as sociedades antigas na regi\u00e3o do Mar Mediterr\u00e2neo. Esta revista \u00e9 organizada pelo Laborat\u00f3rio de Estudos do Imp\u00e9rio Romano - Mediterr\u00e2neo Antigo/ Universidade de S\u00e3o Paulo.", 
+    "description": "Mare Nostrum. Estudos sobre o Mediterrâneo Antigo. ISSN: 2177-4218. MARE NOSTRUM - História e Integração no Mediterrâneo Antigo é uma revista de estudos sobre as sociedades antigas na região do Mar Mediterrâneo. Esta revista é organizada pelo Laboratório de Estudos do Império Romano - Mediterrâneo Antigo/ Universidade de São Paulo.", 
     "domain": "www.fflch.usp.br", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2511790614469402249", 
             "resource_date": "2015-01-20T15:55:31.766-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.684001"
+            "when": "2015-10-27T18:38:46.767717"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-mare-nostrum.html", 
             "resource_date": "2015-01-20T15:55:31.766-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.684018"
+            "when": "2015-10-27T18:38:46.767732"
         }
     ], 
     "publishers": [], 
@@ -85,29 +85,29 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "N\u00famero 1", 
+            "title_full": "Número 1", 
             "url": "http://www.fflch.usp.br/dh/leir/marenostrum/marenostrum-v1-2010/marenostrum-v1-2010.html"
         }, 
         {
-            "title_full": "N\u00famero 2", 
+            "title_full": "Número 2", 
             "url": "http://www.fflch.usp.br/dh/leir/marenostrum/marenostrum-v2-2011/marenostrum-v2-2011.html"
         }, 
         {
-            "title_full": "N\u00famero 3", 
+            "title_full": "Número 3", 
             "url": "http://www.fflch.usp.br/dh/leir/marenostrum/marenostrum-v3-2012/marenostrum-v3-2012.html"
         }, 
         {
-            "title_full": "N\u00famero 4", 
+            "title_full": "Número 4", 
             "url": "http://www.fflch.usp.br/dh/leir/marenostrum/marenostrum-v4-2013/marenostrum-v4-2013.html"
         }, 
         {
-            "title_full": "N\u00famero 5", 
+            "title_full": "Número 5", 
             "url": "http://www.fflch.usp.br/dh/leir/marenostrum/marenostrum-v5-2014/marenostrum-v5-2014.html"
         }
     ], 
     "title": "Mare Nostrum", 
     "title_alternates": [], 
-    "title_extended": "Mare Nostrum. Estudos sobre o Mediterr\u00e2neo Antigo", 
+    "title_extended": "Mare Nostrum. Estudos sobre o Mediterrâneo Antigo", 
     "type": null, 
     "url": "http://www.fflch.usp.br/dh/leir/marenostrum/atual.html", 
     "url_alternates": [], 

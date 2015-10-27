@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Erga-Logoi: Rivista di storia, letteratura, diritto e culture dell'antichit\u00e0. Online ISSN: 2282-3212. Print ISSN: 2280-9678. Erga-Logoi \u00e8 una rivista, soggetta a peer-review, di storia, letteratura, diritto e culture dell'antichit\u00e0; un concetto, quest'ultimo, da intendere in senso ampio sul piano dell'estensione geografica e cronologica. Il titolo \u00e8 stato scelto per sottolineare, evocando il proemio metodologico di Tucidide - bench\u00e9 la contrapposizione abbia ovviamente, in quel contesto, valore diverso -, l'intento di guardare al mondo antico prestando attenzione sia al \"fatto\" (gli eventi storici, la produzione artistica, la cultura materiale), sia al \"detto\" (il discorso poetico, letterario, storico, normativo nella sua forma orale e scritta).", 
+    "description": "Erga-Logoi: Rivista di storia, letteratura, diritto e culture dell'antichità. Online ISSN: 2282-3212. Print ISSN: 2280-9678. Erga-Logoi è una rivista, soggetta a peer-review, di storia, letteratura, diritto e culture dell'antichità; un concetto, quest'ultimo, da intendere in senso ampio sul piano dell'estensione geografica e cronologica. Il titolo è stato scelto per sottolineare, evocando il proemio metodologico di Tucidide - benché la contrapposizione abbia ovviamente, in quel contesto, valore diverso -, l'intento di guardare al mondo antico prestando attenzione sia al \"fatto\" (gli eventi storici, la produzione artistica, la cultura materiale), sia al \"detto\" (il discorso poetico, letterario, storico, normativo nella sua forma orale e scritta).", 
     "domain": "www.ledonline.it", 
     "editors": [], 
     "end_date": null, 
@@ -19,7 +19,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Erga-Logoi: Rivista di storia, letteratura, diritto e culture dell'antichit\u00e0", 
+        "title_full": "Erga-Logoi: Rivista di storia, letteratura, diritto e culture dell'antichità", 
         "url": "http://www.ledonline.it/Erga-Logoi/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6235055472336167996", 
             "resource_date": "2015-04-07T10:49:41.765-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:54.131101"
+            "when": "2015-10-27T18:44:30.376168"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-open-access-journal-erga-logoi.html", 
             "resource_date": "2015-04-07T10:49:41.765-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:54.131114"
+            "when": "2015-10-27T18:44:30.376180"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Vol. 2: Verborgen, unsichtbar, unlesbar - zur Problematik restringierter Schriftpr\u00e4senz (2014) Ed. by Frese, Tobias / Keil, Wilfried E. / Kr\u00fcger, Kristina.", 
+    "description": "Vol. 2: Verborgen, unsichtbar, unlesbar - zur Problematik restringierter Schriftpräsenz (2014) Ed. by Frese, Tobias / Keil, Wilfried E. / Krüger, Kristina.", 
     "domain": "www.degruyter.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2649674975390406416", 
             "resource_date": "2015-03-15T10:35:14.373-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:44.940677"
+            "when": "2015-10-27T18:38:53.179573"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series-materiale.html", 
             "resource_date": "2015-03-15T10:35:14.373-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:44.940691"
+            "when": "2015-10-27T18:38:53.179585"
         }
     ], 
     "publishers": [], 

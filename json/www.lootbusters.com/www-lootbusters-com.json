@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364042573166289215", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.785580"
+            "when": "2015-10-27T18:40:34.466962"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/loot-busters.html", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.785603"
+            "when": "2015-10-27T18:40:34.466983"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3364042573166289215", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.787932"
+            "when": "2015-10-27T18:40:34.469279"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/loot-busters.html", 
             "resource_date": "2012-02-29T06:12:20.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.787948"
+            "when": "2015-10-27T18:40:34.469304"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.789673"
+            "when": "2015-10-27T18:40:34.471762"
         }
     ], 
     "publishers": [], 

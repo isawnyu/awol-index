@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Baier, Thomas (Hrsg. ): Generationenkonflikte auf der B\u00fchne. Perspektiven im antiken und mittelalterlichen Drama. T\u00fcbingen 2007, pp. 83-99. M\u00f6llendorff, Peter von (2003).", 
+    "description": "In: Baier, Thomas (Hrsg. ): Generationenkonflikte auf der Bühne. Perspektiven im antiken und mittelalterlichen Drama. Tübingen 2007, pp. 83-99. Möllendorff, Peter von (2003).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.272879"
+            "when": "2015-10-27T18:48:50.051565"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.272891"
+            "when": "2015-10-27T18:48:50.051580"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "In alter Frische - Generation und Generationskonflikt in der Aristophanischen Kom\u00f6die der zweiten Schaffensperiode", 
+    "title": "In alter Frische - Generation und Generationskonflikt in der Aristophanischen Komödie der zweiten Schaffensperiode", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

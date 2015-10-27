@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Moatti, C. (Hrsg. ): La mobilit\u00e9 des personnes en M\u00e9diterran\u00e9e, de l\\'Antiquit\u00e9 \u00e0 l\\'\u00e9poque moderne. II. La mobilit\u00e9 n\u00e9goci\u00e9e. Proc\u00e9dures de contr\u00f4le et documents d\\'identification. Rom 2004, pp. 481-500. Chaniotis, Angelos (1990).", 
+    "description": "In: Moatti, C. (Hrsg. ): La mobilité des personnes en Méditerranée, de l\\'Antiquité à l\\'époque moderne. II. La mobilité négociée. Procédures de contrôle et documents d\\'identification. Rom 2004, pp. 481-500. Chaniotis, Angelos (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.147624"
+            "when": "2015-10-27T18:46:45.318152"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.147641"
+            "when": "2015-10-27T18:46:45.318167"
         }
     ], 
     "publishers": [], 

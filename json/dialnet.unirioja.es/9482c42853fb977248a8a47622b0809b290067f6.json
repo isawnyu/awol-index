@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:06.878109"
+            "when": "2015-10-27T18:43:38.812659"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:06.878127"
+            "when": "2015-10-27T18:43:38.812676"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5594714661926615041", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:06.880181"
+            "when": "2015-10-27T18:43:38.814927"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-gallaecia.html", 
             "resource_date": "2011-12-23T08:01:20.974-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:06.880194"
+            "when": "2015-10-27T18:43:38.814940"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:06.948748"
+            "when": "2015-10-27T18:43:38.872790"
         }
     ], 
     "publishers": [], 

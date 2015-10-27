@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Magic \u00bb.", 
+    "description": "Magic ».", 
     "domain": "ccp.yale.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4864541812229390279", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:11.810387"
+            "when": "2015-10-27T18:42:41.021359"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/cuneiform-commentaries-project.html", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:11.810399"
+            "when": "2015-10-27T18:42:41.021371"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Literary \u00bb En\u016bma eli\u0161 Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others", 
+    "title": "Literary » Enūma eliš Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

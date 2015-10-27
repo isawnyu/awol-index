@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ancient History Encyclopedia is a non-profit educational website with the mission to provide the best ancient history information on the internet for free. We exist as a reference to ancient history educators, students, and enthusiasts. All contributions to this website are submitted and reviewed by expert volunteers who wish to share their knowledge. Everything we publish is easy to read and understand, but also well-researched and referenced. All content material on Ancient History Encyclopedia is reviewed before publication by a group of volunteer peer-reviewers. Our information is balanced and neutral, as we want to present history from every angle. We are committed to open education: All our original content is available under a Creative Commons license that enables teachers to freely distribute it in class, as it allows anyone to re-use our content in a non-commercial context. We're an open education resource listed in the OER Commons and we also share our data through the academic Pelagios network, side by side with institutions such as The British Museum and King\u0092s College.", 
+    "description": "Ancient History Encyclopedia is a non-profit educational website with the mission to provide the best ancient history information on the internet for free. We exist as a reference to ancient history educators, students, and enthusiasts. All contributions to this website are submitted and reviewed by expert volunteers who wish to share their knowledge. Everything we publish is easy to read and understand, but also well-researched and referenced. All content material on Ancient History Encyclopedia is reviewed before publication by a group of volunteer peer-reviewers. Our information is balanced and neutral, as we want to present history from every angle. We are committed to open education: All our original content is available under a Creative Commons license that enables teachers to freely distribute it in class, as it allows anyone to re-use our content in a non-commercial context. We're an open education resource listed in the OER Commons and we also share our data through the academic Pelagios network, side by side with institutions such as The British Museum and Kings College.", 
     "domain": "www.ancient.eu.com", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4104169575173239763", 
             "resource_date": "2014-07-01T10:40:44.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:59.734485"
+            "when": "2015-10-27T18:41:22.497636"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/ancient-history-encyclopedia.html", 
             "resource_date": "2014-07-01T10:40:44.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:59.734501"
+            "when": "2015-10-27T18:41:22.497654"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4104169575173239763", 
             "resource_date": "2014-07-01T10:40:44.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:59.738675"
+            "when": "2015-10-27T18:41:22.502578"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/ancient-history-encyclopedia.html", 
             "resource_date": "2014-07-01T10:40:44.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:59.738688"
+            "when": "2015-10-27T18:41:22.502595"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:59.751179"
+            "when": "2015-10-27T18:41:22.515139"
         }
     ], 
     "publishers": [], 

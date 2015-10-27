@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.916077"
+            "when": "2015-10-27T18:38:38.982342"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.916107"
+            "when": "2015-10-27T18:38:38.982353"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8174888293195998402", 
             "resource_date": "2011-04-08T15:22:55.950-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:15.148987"
+            "when": "2015-10-27T18:47:02.879749"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/newly-online-from-oriental-institutes.html", 
             "resource_date": "2011-04-08T15:22:55.950-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:15.149002"
+            "when": "2015-10-27T18:47:02.879776"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:15.152065"
+            "when": "2015-10-27T18:47:02.885024"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8174888293195998402", 
             "resource_date": "2011-04-08T15:22:55.950-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:15.151258"
+            "when": "2015-10-27T18:47:02.883814"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/newly-online-from-oriental-institutes.html", 
             "resource_date": "2011-04-08T15:22:55.950-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:15.151270"
+            "when": "2015-10-27T18:47:02.883834"
         }, 
         {
             "fields": [
@@ -194,7 +194,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:15.153592"
+            "when": "2015-10-27T18:47:02.888046"
         }
     ], 
     "publishers": [], 
@@ -204,11 +204,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. G\u00fcterbock and Thorkild Jacobsen. Originally published in 1965", 
+            "title_full": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. Güterbock and Thorkild Jacobsen. Originally published in 1965", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/as/as16.html"
         }
     ], 
-    "title": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. G\u00fcterbock and Thorkild Jacobsen. Originally published in 1965", 
+    "title": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. Güterbock and Thorkild Jacobsen. Originally published in 1965", 
     "title_alternates": [], 
     "title_extended": "Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963", 
     "type": null, 

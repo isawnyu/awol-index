@@ -3,7 +3,7 @@
         "Neuhauser, Alexandra"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Palme, Bernhard", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Palme, Bernhard", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.666102"
+            "when": "2015-10-27T18:36:58.327359"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.666113"
+            "when": "2015-10-27T18:36:58.327372"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Geschichte und Verwaltung der au\u00dfer\u00e4gyptischen Besitzungen des Ptolem\u00e4erreiches", 
+    "title": "Geschichte und Verwaltung der außerägyptischen Besitzungen des Ptolemäerreiches", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

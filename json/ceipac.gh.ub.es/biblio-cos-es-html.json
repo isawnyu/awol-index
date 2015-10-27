@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "CEIPAC: Biblioteca On-line. CENTRO PARA EL ESTUDIO DE LA INTERDEPENDENCIA PROVINCIAL EN LA ANTIG\u00dcEDAD CL\u00c1SICA. Jos\u00e9 Remesal Rodr\u00edguez (C\u00e1tedra de Historia Antigua). Departament de Prehist\u00f2ria, Hist\u00f2ria Antiga y Arqueologia. Facultat de Geografia i Hist\u00f2ria, Universitat de Barcelona. C/ Montalegre 6, 08001 Barcelona, Espa\u00f1a M\u00e1s de 600 publicaciones on-line de los miembros y colaboradores del grupo. Puedes enviarnos tus art\u00edculos en PDF para darles difusi\u00f3n y compartirlos en nuestra web. Cons\u00falta el cat\u00e1logo aqu\u00ed. La Biblioteca Virtual reune todas las publicaciones realizadas por los miembros y colaboradores del grupo CEIPAC. El cat\u00e1logo est\u00e1 compuesto de libros, art\u00edculos, rese\u00f1as y CD-Rom multimedia, escritos en diferentes idiomas. Desde la biblioteca on-line podr\u00e1 consultar el cat\u00e1logo, editar la ficha de cada t\u00edtulo, y bajar a su ordenador algunas de las publicaciones en formato PDF. El acceso a la Biblioteca es completamente abierto. Las publicaciones electr\u00f3nicas en formato PDF han sido colocadas con la autorizaci\u00f3n de sus respectivos autores, con el prop\u00f3sito de dar la m\u00e1s amplia difusi\u00f3n posible a los temas que estudiamos.", 
+    "description": "CEIPAC: Biblioteca On-line. CENTRO PARA EL ESTUDIO DE LA INTERDEPENDENCIA PROVINCIAL EN LA ANTIGÜEDAD CLÁSICA. José Remesal Rodríguez (Cátedra de Historia Antigua). Departament de Prehistòria, Història Antiga y Arqueologia. Facultat de Geografia i Història, Universitat de Barcelona. C/ Montalegre 6, 08001 Barcelona, España Más de 600 publicaciones on-line de los miembros y colaboradores del grupo. Puedes enviarnos tus artículos en PDF para darles difusión y compartirlos en nuestra web. Consúlta el catálogo aquí. La Biblioteca Virtual reune todas las publicaciones realizadas por los miembros y colaboradores del grupo CEIPAC. El catálogo está compuesto de libros, artículos, reseñas y CD-Rom multimedia, escritos en diferentes idiomas. Desde la biblioteca on-line podrá consultar el catálogo, editar la ficha de cada título, y bajar a su ordenador algunas de las publicaciones en formato PDF. El acceso a la Biblioteca es completamente abierto. Las publicaciones electrónicas en formato PDF han sido colocadas con la autorización de sus respectivos autores, con el propósito de dar la más amplia difusión posible a los temas que estudiamos.", 
     "domain": "ceipac.gh.ub.es", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8167676784712675110", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.601765"
+            "when": "2015-10-27T18:47:02.279862"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/ceipac-biblioteca-on-line.html", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.601781"
+            "when": "2015-10-27T18:47:02.279878"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8167676784712675110", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.607050"
+            "when": "2015-10-27T18:47:02.285370"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/ceipac-biblioteca-on-line.html", 
             "resource_date": "2013-05-01T19:21:28.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.607064"
+            "when": "2015-10-27T18:47:02.285384"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:14.608497"
+            "when": "2015-10-27T18:47:02.287571"
         }
     ], 
     "publishers": [], 

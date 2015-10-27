@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.635744"
+            "when": "2015-10-27T18:45:29.781634"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.635761"
+            "when": "2015-10-27T18:45:29.781650"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7159942778566681074", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.637923"
+            "when": "2015-10-27T18:45:29.783830"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-monograph-series-polymnia.html", 
             "resource_date": "2014-10-30T11:12:10.250-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.637938"
+            "when": "2015-10-27T18:45:29.783842"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:47.710228"
+            "when": "2015-10-27T18:45:29.850423"
         }
     ], 
     "publishers": [], 
@@ -183,19 +183,19 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/8697"
         }, 
         {
-            "title_full": "Sylloge of Islamic Coins in the Israel Museum. The Paul Balog Collection. Egypt vol. III The Maml\u016bks 1248-1517", 
+            "title_full": "Sylloge of Islamic Coins in the Israel Museum. The Paul Balog Collection. Egypt vol. III The Mamlūks 1248-1517", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/9309"
         }, 
         {
-            "title_full": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Storia romana", 
+            "title_full": "Polymnia: Collana di Scienze dell'Antichità. Studi di Storia romana", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/6080"
         }, 
         {
-            "title_full": "Hoc quoque laboris praemium. Scritti in onore di Gino Bandelli a cura di Monica Chiab\u00e0", 
+            "title_full": "Hoc quoque laboris praemium. Scritti in onore di Gino Bandelli a cura di Monica Chiabà", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/9846"
         }, 
         {
-            "title_full": "Roma e le priscae Latinae coloniae: ricerche sulla colonizzazione del Lazio... di Monica Chiab\u00e0", 
+            "title_full": "Roma e le priscae Latinae coloniae: ricerche sulla colonizzazione del Lazio... di Monica Chiabà", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/6082"
         }, 
         {
@@ -203,7 +203,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/7103"
         }, 
         {
-            "title_full": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Archeologia", 
+            "title_full": "Polymnia: Collana di Scienze dell'Antichità. Studi di Archeologia", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/3933"
         }, 
         {
@@ -215,11 +215,11 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/8005"
         }, 
         {
-            "title_full": "Polymnia. Studi di Archeologia n.03 L\u2019archeologia come mestiere. Dallo scavo al magazzino: i materiali", 
+            "title_full": "Polymnia. Studi di Archeologia n.03 L’archeologia come mestiere. Dallo scavo al magazzino: i materiali", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/10321"
         }, 
         {
-            "title_full": "Polymnia. Studi di Archeologia n.04 Culti e romanizzazione. Resistenze, continuit\u00e0, trasformazioni", 
+            "title_full": "Polymnia. Studi di Archeologia n.04 Culti e romanizzazione. Resistenze, continuità, trasformazioni", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/8700"
         }, 
         {
@@ -231,7 +231,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/10344"
         }, 
         {
-            "title_full": "Polymnia: Collana di Scienze dell'Antichit\u00e0. Studi di Filologia classica", 
+            "title_full": "Polymnia: Collana di Scienze dell'Antichità. Studi di Filologia classica", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/888"
         }, 
         {
@@ -255,7 +255,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/3414"
         }, 
         {
-            "title_full": "13. Il calamo della memoria. Riuso di testi e mestiere letterario nella tarda antichit\u00e0. IV a cura di Lucio Cristante e Simona Ravalico", 
+            "title_full": "13. Il calamo della memoria. Riuso di testi e mestiere letterario nella tarda antichità. IV a cura di Lucio Cristante e Simona Ravalico", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/4390"
         }, 
         {
@@ -267,7 +267,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/8016"
         }, 
         {
-            "title_full": "16. Il calamo della memoria. Riuso di testi e mestiere letterario nella tarda antichit\u00e0. V a cura di Lucio Cristante e Tommaso Mazzoli", 
+            "title_full": "16. Il calamo della memoria. Riuso di testi e mestiere letterario nella tarda antichità. V a cura di Lucio Cristante e Tommaso Mazzoli", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/9370"
         }
     ], 

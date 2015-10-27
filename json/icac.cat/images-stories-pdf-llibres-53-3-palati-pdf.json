@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les termes p\u00fabliques de l'\u00e0rea portu\u00e0ria de T\u00e0rraco.", 
+    "description": "Les termes públiques de l'àrea portuària de Tàrraco.", 
     "domain": "icac.cat", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+        "title_full": "Institut Català d'Arqueologia Clàssica", 
         "url": "http://icac.cat/en/publicacions-3/publicacions-propies"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6101806186654765679", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.865545"
+            "when": "2015-10-27T18:44:19.701797"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-books-from-institut-catala.html", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.865570"
+            "when": "2015-10-27T18:44:19.701807"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "El Palat\u00ed. La formaci\u00f3 dels palaus imperials a Roma", 
+    "title": "El Palatí. La formació dels palaus imperials a Roma", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

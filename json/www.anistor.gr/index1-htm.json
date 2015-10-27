@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anistoriton /\u0391\u03bd\u03b9\u03c3\u03c4\u03cc\u03c1\u03b7\u03c4\u03bf\u03bd. ISSN 1108-4081. Anistoriton is an electronic Journal of History, Archaeology and ArtHistory. It publishes scholarly papers since 1997 and it is freely available on the Internet. All papers and images since vol. 1 (1997) are available on line. The United States Library of Congress has selected Anistoriton site for inclusion in its historic collections of Internet materials (The Library of Congress Web Archiving). See the full.", 
+    "description": "Anistoriton /Ανιστόρητον. ISSN 1108-4081. Anistoriton is an electronic Journal of History, Archaeology and ArtHistory. It publishes scholarly papers since 1997 and it is freely available on the Internet. All papers and images since vol. 1 (1997) are available on line. The United States Library of Congress has selected Anistoriton site for inclusion in its historic collections of Internet materials (The Library of Congress Web Archiving). See the full.", 
     "domain": "www.anistor.gr", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7236110420823584227", 
             "resource_date": "2010-06-01T07:18:47.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:52.030668"
+            "when": "2015-10-27T18:45:34.605164"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-anistoriton.html", 
             "resource_date": "2010-06-01T07:18:47.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:52.030685"
+            "when": "2015-10-27T18:45:34.605180"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7236110420823584227", 
             "resource_date": "2010-06-01T07:18:47.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:52.033964"
+            "when": "2015-10-27T18:45:34.608673"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-anistoriton.html", 
             "resource_date": "2010-06-01T07:18:47.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:52.033977"
+            "when": "2015-10-27T18:45:34.608687"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:52.035387"
+            "when": "2015-10-27T18:45:34.610650"
         }
     ], 
     "publishers": [], 

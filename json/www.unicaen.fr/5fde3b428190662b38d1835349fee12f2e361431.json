@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 17 August 2014, updated 10 April 2015]. Roma illustrata. Repr\u00e9sentations de la ville. Responsables: Philippe Fleury et Olivier Desbordes.", 
+    "description": "[First posted in AWOL 17 August 2014, updated 10 April 2015]. Roma illustrata. Représentations de la ville. Responsables: Philippe Fleury et Olivier Desbordes.", 
     "domain": "www.unicaen.fr", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969831462903354133", 
             "resource_date": "2015-04-10T18:18:34.663-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.970234"
+            "when": "2015-10-27T18:45:20.226880"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/roma-illustrata.html", 
             "resource_date": "2015-04-10T18:18:34.663-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.970250"
+            "when": "2015-10-27T18:45:20.226897"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969831462903354133", 
             "resource_date": "2015-04-10T18:18:34.663-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.973575"
+            "when": "2015-10-27T18:45:20.230502"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/roma-illustrata.html", 
             "resource_date": "2015-04-10T18:18:34.663-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.973588"
+            "when": "2015-10-27T18:45:20.230516"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.033751"
+            "when": "2015-10-27T18:45:20.311568"
         }
     ], 
     "publishers": [], 
@@ -143,117 +143,117 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Roma illustrata. Repr\u00e9sentations de la ville", 
+            "title_full": "Roma illustrata. Représentations de la ville", 
             "url": "http://www.unicaen.fr/puc/html/spip62ab.html?article763"
         }, 
         {
-            "title_full": "Notice de l\u2019ouvrage", 
+            "title_full": "Notice de l’ouvrage", 
             "url": "http://www.unicaen.fr/services/puc/article.php3?id_article=761"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/00roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/01roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/02roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/03roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/04roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/05roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/06roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/07roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/08roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/09roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/10roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/11roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/12roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/13roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/14roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/15roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/16roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/17roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/18roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/19roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/20roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/21roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/22roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/23roma_illustrata.pdf"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger cet article en PDF", 
+            "title_full": "Télécharger cet article en PDF", 
             "url": "http://www.unicaen.fr/puc/images/24roma_illustrata.pdf"
         }
     ], 
-    "title": "Roma illustrata. Repr\u00e9sentations de la ville", 
+    "title": "Roma illustrata. Représentations de la ville", 
     "title_alternates": [], 
-    "title_extended": "Roma illustrata. Repr\u00e9sentations de la ville", 
+    "title_extended": "Roma illustrata. Représentations de la ville", 
     "type": null, 
     "url": "http://www.unicaen.fr/puc/html/spip62ab.html?article763", 
     "url_alternates": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wagner, Andreas (Hrsg. ): Bote und Brief - Sprachliche Systeme der Informations\u00fcbermittlung im Spannungsfeld von M\u00fcndlichkeit und Schriftlichkeit. Frankfurt 2003, pp. 31-51 (Nordostafrikanisch/Westasiatische Studien; 4). Verhoeven, Ursula (2009).", 
+    "description": "In: Wagner, Andreas (Hrsg. ): Bote und Brief - Sprachliche Systeme der Informationsübermittlung im Spannungsfeld von Mündlichkeit und Schriftlichkeit. Frankfurt 2003, pp. 31-51 (Nordostafrikanisch/Westasiatische Studien; 4). Verhoeven, Ursula (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:03.549086"
+            "when": "2015-10-27T18:40:15.440021"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:03.549102"
+            "when": "2015-10-27T18:40:15.440038"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Post ins Jenseits - Formular und Funktion alt\u00e4gyptischer Briefe an Tote", 
+    "title": "Post ins Jenseits - Formular und Funktion altägyptischer Briefe an Tote", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

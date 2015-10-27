@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In-schrif-ten von Philippi im Bild. Auf dieser Seite werden die Bilder der In-schrif-ten von Philippi (Ma-ke-do-nien) allen In-ter-ess-ier-ten zug\u00e4ng-lich ge-macht. Die Tex-te der grie-chi-schen und la-tei-ni-schen In-schrif-ten wur-den im Jahr 2000 in dem \"Ka-ta-log der In-schrif-ten von Phil-ip-pi\" (vgl. das Li-te-ra-tur-ver-zeich-nis) erst-mals in einem Band zu-sam-men-ge-stellt. Aus Um-fangs- wie aus Ko-sten-gr\u00fcn-den war nie-mals ge-plant, die-sem Band auch Pho-to-gra-phien bei-zu-ge-ben. Im Zu-ge meiner Be-ru-fungs-ver-hand-lun-gen an der Fried-rich-Alex-ander-Uni-ver-sit\u00e4t Er-lan-gen-N\u00fcrn-berg hat der Kanz-ler dieser Uni-versi-t\u00e4t, Herr Tho-mas A. H. Sch\u00f6ck, Mit-tel be-wil-ligt, die die An-stel-lung einer Hilfs-kraft f\u00fcr drei Jah-re er-m\u00f6g-li-chen, um die Phil-ip-pi-Dias zu scan-nen und ins Netz zu stel-len. Ihm gilt da-her mein be-son-derer Dank. Mein Dank gilt so-dann mei-nem Mit-ar-beit-er, Herrn Hol-ger Ibisch, der sich be-reit-wil-lig und ein-ge-hend mit der Hard- und Soft-ware ver-traut ge-macht hat, die er-for-der-lich ist, um eine solche In-ter-net-Sei-te zu ge-stal-ten. Er wur-de un-terst\u00fctzt von Herrn Bj\u00f6rn Nord-gauer, der die Da-ten-bank ent-wor-fen und pro-gra-mmiert hat. Auch ihm dan-ke ich herz-lich.", 
+    "description": "In-schrif-ten von Philippi im Bild. Auf dieser Seite werden die Bilder der In-schrif-ten von Philippi (Ma-ke-do-nien) allen In-ter-ess-ier-ten zugäng-lich ge-macht. Die Tex-te der grie-chi-schen und la-tei-ni-schen In-schrif-ten wur-den im Jahr 2000 in dem \"Ka-ta-log der In-schrif-ten von Phil-ip-pi\" (vgl. das Li-te-ra-tur-ver-zeich-nis) erst-mals in einem Band zu-sam-men-ge-stellt. Aus Um-fangs- wie aus Ko-sten-grün-den war nie-mals ge-plant, die-sem Band auch Pho-to-gra-phien bei-zu-ge-ben. Im Zu-ge meiner Be-ru-fungs-ver-hand-lun-gen an der Fried-rich-Alex-ander-Uni-ver-sität Er-lan-gen-Nürn-berg hat der Kanz-ler dieser Uni-versi-tät, Herr Tho-mas A. H. Schöck, Mit-tel be-wil-ligt, die die An-stel-lung einer Hilfs-kraft für drei Jah-re er-mög-li-chen, um die Phil-ip-pi-Dias zu scan-nen und ins Netz zu stel-len. Ihm gilt da-her mein be-son-derer Dank. Mein Dank gilt so-dann mei-nem Mit-ar-beit-er, Herrn Hol-ger Ibisch, der sich be-reit-wil-lig und ein-ge-hend mit der Hard- und Soft-ware ver-traut ge-macht hat, die er-for-der-lich ist, um eine solche In-ter-net-Sei-te zu ge-stal-ten. Er wur-de un-terstützt von Herrn Björn Nord-gauer, der die Da-ten-bank ent-wor-fen und pro-gra-mmiert hat. Auch ihm dan-ke ich herz-lich.", 
     "domain": "www.philippoi.de", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1650727245620283332", 
             "resource_date": "2014-10-24T15:30:02.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.639686"
+            "when": "2015-10-27T18:37:56.591746"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/inschriften-von-philippi-im-bild.html", 
             "resource_date": "2014-10-24T15:30:02.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.639703"
+            "when": "2015-10-27T18:37:56.591763"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1650727245620283332", 
             "resource_date": "2014-10-24T15:30:02.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.644398"
+            "when": "2015-10-27T18:37:56.596658"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/inschriften-von-philippi-im-bild.html", 
             "resource_date": "2014-10-24T15:30:02.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.644412"
+            "when": "2015-10-27T18:37:56.596672"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.646255"
+            "when": "2015-10-27T18:37:56.598626"
         }
     ], 
     "publishers": [], 

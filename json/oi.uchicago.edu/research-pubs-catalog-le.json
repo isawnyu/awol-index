@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Lost Egypt, Volumes II. A Limited Edition Portfolio Series of Photographic Images from Egypt\u2019s Past. The Epigraphic Survey of the Oriental Institute of the University of Chicago. Originally published in 1992.", 
+    "description": "Lost Egypt, Volumes II. A Limited Edition Portfolio Series of Photographic Images from Egypt’s Past. The Epigraphic Survey of the Oriental Institute of the University of Chicago. Originally published in 1992.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7727387562812706910", 
             "resource_date": "2009-09-04T09:29:59.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.670838"
+            "when": "2015-10-27T18:46:33.071801"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/twelve-additional-volumes-online-at.html", 
             "resource_date": "2009-09-04T09:29:59.051-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.670851"
+            "when": "2015-10-27T18:46:33.071819"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Lost Egypt, Volumes I. A Limited Edition Portfolio Series of Photographic Images from Egypt\u2019s Past. The Epigraphic Survey of the Oriental Institute of the University of Chicago. Originally published in 1992", 
+    "title": "Lost Egypt, Volumes I. A Limited Edition Portfolio Series of Photographic Images from Egypt’s Past. The Epigraphic Survey of the Oriental Institute of the University of Chicago. Originally published in 1992", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

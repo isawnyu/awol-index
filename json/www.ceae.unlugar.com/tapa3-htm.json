@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Apuntes de Egiptolog\u00eda es una publicaci\u00f3n peri\u00f3dica del Centro de Estudios del Antiguo Egipto ( C. E. A. E. ) de Buenos Aires, Rep\u00fablica Argentina, Sudam\u00e9rica.", 
+    "description": "Apuntes de Egiptología es una publicación periódica del Centro de Estudios del Antiguo Egipto ( C. E. A. E. ) de Buenos Aires, República Argentina, Sudamérica.", 
     "domain": "www.ceae.unlugar.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Apuntes de Egiptolog\u00eda", 
+        "title_full": "Apuntes de Egiptología", 
         "url": "http://www.ceae.unlugar.com/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1566649983282805285", 
             "resource_date": "2012-05-20T18:54:41.087-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:47.470052"
+            "when": "2015-10-27T18:37:51.426403"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/opoen-access-journal-apuntes-de.html", 
             "resource_date": "2012-05-20T18:54:41.087-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:47.470064"
+            "when": "2015-10-27T18:37:51.426416"
         }
     ], 
     "publishers": [], 

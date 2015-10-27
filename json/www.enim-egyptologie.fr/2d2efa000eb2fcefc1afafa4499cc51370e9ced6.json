@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 5 July 201, updated 22 December 2014]. CENiM - Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb. ISSN 2102-6637. [Tables of contents only for volumes 2, 3, 5, 8 and 9. ].", 
+    "description": "[First posted in AWOL 5 July 201, updated 22 December 2014]. CENiM - Les Cahiers «Égypte Nilotique et Méditérranéenne». ISSN 2102-6637. [Tables of contents only for volumes 2, 3, 5, 8 and 9. ].", 
     "domain": "www.enim-egyptologie.fr", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "2102-6637", 
-        "title_full": "Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb", 
+        "title_full": "Les Cahiers «Égypte Nilotique et Méditérranéenne»", 
         "url": "http://www.enim-egyptologie.fr/index.php?page=cahiers"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668451656123331598", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.463277"
+            "when": "2015-10-27T18:38:53.791190"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-monographs-les-cahiers.html", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.463294"
+            "when": "2015-10-27T18:38:53.791207"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668451656123331598", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.466063"
+            "when": "2015-10-27T18:38:53.794014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-monographs-les-cahiers.html", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.466076"
+            "when": "2015-10-27T18:38:53.794029"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:45.513100"
+            "when": "2015-10-27T18:38:53.841410"
         }
     ], 
     "publishers": [], 
@@ -152,43 +152,43 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "CENiM - Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb", 
+            "title_full": "CENiM - Les Cahiers «Égypte Nilotique et Méditérranéenne»", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=cahiers"
         }, 
         {
-            "title_full": "Le myrte & la rose. M\u00e9langes offerts \u00e0 Fran\u00e7oise Dunand par ses \u00e9l\u00e8ves, coll\u00e8gues et amis", 
+            "title_full": "Le myrte & la rose. Mélanges offerts à Françoise Dunand par ses élèves, collègues et amis", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=9"
         }, 
         {
-            "title_full": "Table des mati\u00e8res au format PDF (368)", 
+            "title_full": "Table des matières au format PDF (368)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=9"
         }, 
         {
-            "title_full": "Documents de Th\u00e9ologies Th\u00e9baines Tardives (D3T 2)", 
+            "title_full": "Documents de Théologies Thébaines Tardives (D3T 2)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=8"
         }, 
         {
-            "title_full": "Table des mati\u00e8res au format PDF (1635)", 
+            "title_full": "Table des matières au format PDF (1635)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=8"
         }, 
         {
-            "title_full": "Le mat\u00e9riel arch\u00e9ologique et les restes humains de la n\u00e9cropole de Dabashiya", 
+            "title_full": "Le matériel archéologique et les restes humains de la nécropole de Dabashiya", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=7"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger au format PDF (1323)", 
+            "title_full": "Télécharger au format PDF (1323)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=7"
         }, 
         {
-            "title_full": "Quatre \u00e9tudes sur la bataille de Qadech", 
+            "title_full": "Quatre études sur la bataille de Qadech", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=6"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger au format PDF (2324)", 
+            "title_full": "Télécharger au format PDF (2324)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=6"
         }, 
         {
-            "title_full": "Et in \u00c6gypto et ad \u00c6gyptum, Recueil d\u2019\u00e9tudes d\u00e9di\u00e9es \u00e0 Jean-Claude Grenier", 
+            "title_full": "Et in Ægypto et ad Ægyptum, Recueil d’études dédiées à Jean-Claude Grenier", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement-CENIM5"
         }, 
         {
@@ -196,15 +196,15 @@
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=4"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger au format PDF (3645)", 
+            "title_full": "Télécharger au format PDF (3645)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=4"
         }, 
         {
-            "title_full": "Documents de Th\u00e9ologies Th\u00e9baines Tardives (D3T 1)", 
+            "title_full": "Documents de Théologies Thébaines Tardives (D3T 1)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement-CENIM3"
         }, 
         {
-            "title_full": "Verba manent . Recueil d\u2019\u00e9tudes d\u00e9di\u00e9es \u00e0 Dimitri Meeks par ses coll\u00e8gues et amis", 
+            "title_full": "Verba manent . Recueil d’études dédiées à Dimitri Meeks par ses collègues et amis", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement-CENIM2"
         }, 
         {
@@ -212,13 +212,13 @@
             "url": "http://www.enim-egyptologie.fr/index.php?page=cenim&n=1"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger au format PDF (5402)", 
+            "title_full": "Télécharger au format PDF (5402)", 
             "url": "http://www.enim-egyptologie.fr/index.php?page=telechargement&cenim=1&n=1"
         }
     ], 
-    "title": "CENiM - Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb", 
+    "title": "CENiM - Les Cahiers «Égypte Nilotique et Méditérranéenne»", 
     "title_alternates": [], 
-    "title_extended": "CENiM - Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb", 
+    "title_extended": "CENiM - Les Cahiers «Égypte Nilotique et Méditérranéenne»", 
     "type": null, 
     "url": "http://www.enim-egyptologie.fr/index.php?page=cahiers", 
     "url_alternates": [], 

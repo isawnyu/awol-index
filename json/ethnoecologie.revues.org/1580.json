@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.646107"
+            "when": "2015-10-27T18:47:51.693967"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.646121"
+            "when": "2015-10-27T18:47:51.693979"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Claire Newton , Jean-Fr\u00e9d\u00e9ric Terral , Sarah Ivorra , Muriel Gros-Balthazard , Claire Tito de Morais , Sandrine Picq , Margareta Tengberg et Jean-Christophe Pintaud Graines d'histoire [Texte int\u00e9gral] Approche morphom\u00e9trique de l'agrobiodiversit\u00e9 du palmier dattier, actuelle et d'\u00c9gypte ancienne Seeds of history: A morphometric approach to date palm agrobiodiversity, in ancient Egypt and today", 
+    "title": "Claire Newton , Jean-Frédéric Terral , Sarah Ivorra , Muriel Gros-Balthazard , Claire Tito de Morais , Sandrine Picq , Margareta Tengberg et Jean-Christophe Pintaud Graines d'histoire [Texte intégral] Approche morphométrique de l'agrobiodiversité du palmier dattier, actuelle et d'Égypte ancienne Seeds of history: A morphometric approach to date palm agrobiodiversity, in ancient Egypt and today", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

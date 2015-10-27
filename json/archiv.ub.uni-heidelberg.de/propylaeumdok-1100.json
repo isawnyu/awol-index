@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Neue Ephemeris f\u00fcr Semitische Epigraphik, 2 (1974), pp. 17-36. R\u00f6llig, Wolfgang (1992).", 
+    "description": "In: Neue Ephemeris für Semitische Epigraphik, 2 (1974), pp. 17-36. Röllig, Wolfgang (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.983171"
+            "when": "2015-10-27T18:46:24.770650"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.983188"
+            "when": "2015-10-27T18:46:24.770666"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Amulette von Arslan Ta\u015f", 
+    "title": "Die Amulette von Arslan Taş", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

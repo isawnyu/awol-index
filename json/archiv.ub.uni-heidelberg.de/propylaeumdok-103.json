@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr Papyrologie und Epigraphik, 71 (1988), pp. 154-156. Chaniotis, Angelos (1992).", 
+    "description": "In: Zeitschrift für Papyrologie und Epigraphik, 71 (1988), pp. 154-156. Chaniotis, Angelos (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:57.706797"
+            "when": "2015-10-27T18:46:44.882286"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:57.706818"
+            "when": "2015-10-27T18:46:44.882303"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Als die Diplomaten noch tanzten und sangen. Zu zwei Dekreten kretischer St\u00e4dte in Mylasa", 
+    "title": "Als die Diplomaten noch tanzten und sangen. Zu zwei Dekreten kretischer Städte in Mylasa", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The Musawwarat Graffiti Archive: Exploring Pictures in Place. The Musawwarat Graffiti Archive was developed in a collaborative effort by the Max Planck Institute for the History of Science and Humboldt University Berlin. Its first phase of development during 2011 was financed by the Golden Web Foundation. The Musawwarat Graffiti Archive serves as a case study for the development of a work-bench environment allowing the online publication of large image collections together with related extensive and varied data sets. These data sets are made available for scholarly analysis as well as public appreciation via in an easily accessible web interface. With the \u2018Graffiti in Place Database\u2019 a solution was developed especially for the integration of systematic graffiti-focussed information and of data on the exact spatial contexts in which the pictorial and inscriptional graffiti were created and used. Such space-related data sets are difficult to publish in traditional paper format and thus often neglected in research and publication. The Musawwarat Graffiti Archive thus presents a multi-facetted approach to the open access publication of intricate visual data. In an ongoing process it aims at making accessible the full corpus of graffiti at Musawwarat, thus providing an exemplary platform for barrier-free research into an extensive collection of primary sources on Africa\u2019s past.", 
+    "description": "The Musawwarat Graffiti Archive: Exploring Pictures in Place. The Musawwarat Graffiti Archive was developed in a collaborative effort by the Max Planck Institute for the History of Science and Humboldt University Berlin. Its first phase of development during 2011 was financed by the Golden Web Foundation. The Musawwarat Graffiti Archive serves as a case study for the development of a work-bench environment allowing the online publication of large image collections together with related extensive and varied data sets. These data sets are made available for scholarly analysis as well as public appreciation via in an easily accessible web interface. With the ‘Graffiti in Place Database’ a solution was developed especially for the integration of systematic graffiti-focussed information and of data on the exact spatial contexts in which the pictorial and inscriptional graffiti were created and used. Such space-related data sets are difficult to publish in traditional paper format and thus often neglected in research and publication. The Musawwarat Graffiti Archive thus presents a multi-facetted approach to the open access publication of intricate visual data. In an ongoing process it aims at making accessible the full corpus of graffiti at Musawwarat, thus providing an exemplary platform for barrier-free research into an extensive collection of primary sources on Africa’s past.", 
     "domain": "musawwaratgraffiti.mpiwg-berlin.mpg.de", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7754214444957750135", 
             "resource_date": "2014-03-22T09:55:08.507-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.356315"
+            "when": "2015-10-27T18:46:33.816925"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/musawwarat-graffiti-archive-online.html", 
             "resource_date": "2014-03-22T09:55:08.507-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.356332"
+            "when": "2015-10-27T18:46:33.816942"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7754214444957750135", 
             "resource_date": "2014-03-22T09:55:08.507-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.361870"
+            "when": "2015-10-27T18:46:33.822260"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/musawwarat-graffiti-archive-online.html", 
             "resource_date": "2014-03-22T09:55:08.507-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.361887"
+            "when": "2015-10-27T18:46:33.822274"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.396033"
+            "when": "2015-10-27T18:46:33.855596"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+        "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
         "url": "http://yod.revues.org/1747"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.296731"
+            "when": "2015-10-27T18:37:33.887838"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.296744"
+            "when": "2015-10-27T18:37:33.887851"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Daniel Bodi Que reste-t-il des th\u00e9ories sociologiques de George Mendenhall et de Norman Gottwald sur l\u2019installation des tribus isra\u00e9lites au pays de Canaan ? [Texte int\u00e9gral] What valuability for the sociological theories of George Mendenhall and Norman Gottwald concerning the installation of Israelite Tribes in Canaan? \u05de\u05d4 \u05e0\u05d5\u05ea\u05e8 \u05de\u05df \u05d4\u05ea\u05d0\u05d5\u05e8\u05d9\u05d5\u05ea \u05d4\u05e1\u05d5\u05e6\u05d9\u05d5\u05dc\u05d5\u05d2\u05d9\u05d5\u05ea \u05e9\u05dc \u05de\u05e0\u05d3\u05e0\u05d4\u05dc \u05d5\u05d2\u05d5\u05d8\u05d5\u05d5\u05dc\u05d3 \u05e2\u05dc \u05d4\u05ea\u05d9\u05d9\u05e9\u05d1\u05d5\u05ea \u05e9\u05d1\u05d8\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d1\u05d0\u05e8\u05e5 \u05db\u05e0\u05e2\u05df ?", 
+    "title": "Daniel Bodi Que reste-t-il des théories sociologiques de George Mendenhall et de Norman Gottwald sur l’installation des tribus israélites au pays de Canaan ? [Texte intégral] What valuability for the sociological theories of George Mendenhall and Norman Gottwald concerning the installation of Israelite Tribes in Canaan? מה נותר מן התאוריות הסוציולוגיות של מנדנהל וגוטוולד על התיישבות שבטי ישראל בארץ כנען ?", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

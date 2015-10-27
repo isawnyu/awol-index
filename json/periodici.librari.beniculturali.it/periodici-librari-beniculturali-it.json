@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 14 December 2009. Updated 12 January 2012]. BiASA - Periodici Italiani Digitalizzati. L'applicazione dei Periodici Italiani Digitalizzati rende disponibili, per la consultazione in linea, una banca dati di 117 testate, per un totale di 785. 321 immagini, possedute dalla Biblioteca e pubblicate tra il XVIII e i primi decenni del XX secolo. Si tratta di una importante realizzazione che, da un lato, risponde alle esigenze della salvaguardia del materiale e dall'altro, attraverso l'impiego della tecnologia digitale, consente una pi\u00f9 ampia fruizione, grazie alla consultazione da remoto dei testi. BiASA includes 117 titles of which 39 deal more or less directly with Antiquity:.", 
+    "description": "[First posted in AWOL 14 December 2009. Updated 12 January 2012]. BiASA - Periodici Italiani Digitalizzati. L'applicazione dei Periodici Italiani Digitalizzati rende disponibili, per la consultazione in linea, una banca dati di 117 testate, per un totale di 785. 321 immagini, possedute dalla Biblioteca e pubblicate tra il XVIII e i primi decenni del XX secolo. Si tratta di una importante realizzazione che, da un lato, risponde alle esigenze della salvaguardia del materiale e dall'altro, attraverso l'impiego della tecnologia digitale, consente una più ampia fruizione, grazie alla consultazione da remoto dei testi. BiASA includes 117 titles of which 39 deal more or less directly with Antiquity:.", 
     "domain": "periodici.librari.beniculturali.it", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3594640992701880014", 
             "resource_date": "2012-01-12T10:16:03.266-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.687173"
+            "when": "2015-10-27T18:40:49.342083"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/biasa-periodici-italiani-digitalizzati.html", 
             "resource_date": "2012-01-12T10:16:03.266-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.687191"
+            "when": "2015-10-27T18:40:49.342099"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3594640992701880014", 
             "resource_date": "2012-01-12T10:16:03.266-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.690898"
+            "when": "2015-10-27T18:40:49.346117"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/biasa-periodici-italiani-digitalizzati.html", 
             "resource_date": "2012-01-12T10:16:03.266-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.690911"
+            "when": "2015-10-27T18:40:49.346131"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:33.768202"
+            "when": "2015-10-27T18:40:49.428928"
         }
     ], 
     "publishers": [], 
@@ -162,7 +162,7 @@
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=25&Start=0"
         }, 
         {
-            "title_full": "Archivio storico artistico archeologico e letterario della citt\u00e0 e provincia di Roma (1875-1881)", 
+            "title_full": "Archivio storico artistico archeologico e letterario della città e provincia di Roma (1875-1881)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=81&Start=0"
         }, 
         {
@@ -182,11 +182,11 @@
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=3&Start=0"
         }, 
         {
-            "title_full": "Atti della Societ\u00e0 di archeologia e belle arti per la provincia di Torino (1875-1897)", 
+            "title_full": "Atti della Società di archeologia e belle arti per la provincia di Torino (1875-1897)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=58&Start=0"
         }, 
         {
-            "title_full": "Atti della Societ\u00e0 Piemontese di archeologia e belle arti (1910-1930)", 
+            "title_full": "Atti della Società Piemontese di archeologia e belle arti (1910-1930)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=59&Start=0"
         }, 
         {
@@ -254,15 +254,15 @@
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=113&Start=0"
         }, 
         {
-            "title_full": "Memorie Enciclopediche Romane sulle belle arti, antichit\u00e0 Ec. (1807)", 
+            "title_full": "Memorie Enciclopediche Romane sulle belle arti, antichità Ec. (1807)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=108&Start=0"
         }, 
         {
-            "title_full": "Memorie romane di antichit\u00e0 e di belle arti (1824-1827)", 
+            "title_full": "Memorie romane di antichità e di belle arti (1824-1827)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=77&Start=0"
         }, 
         {
-            "title_full": "Miscellanea della R. Societ\u00e0 Romana di Storia Patria (1882-1888;1920)", 
+            "title_full": "Miscellanea della R. Società Romana di Storia Patria (1882-1888;1920)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=100&Start=0"
         }, 
         {
@@ -270,7 +270,7 @@
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=48&Start=0"
         }, 
         {
-            "title_full": "Museo italiano di antichit\u00e0 classica (1885-1890)", 
+            "title_full": "Museo italiano di antichità classica (1885-1890)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=26&Start=0"
         }, 
         {
@@ -278,7 +278,7 @@
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=57&Start=0"
         }, 
         {
-            "title_full": "Notizie degli scavi di antichit\u00e0 (1884-1929)", 
+            "title_full": "Notizie degli scavi di antichità (1884-1929)", 
             "url": "http://periodici.librari.beniculturali.it/PeriodicoScheda.aspx?id_testata=31&Start=0"
         }, 
         {

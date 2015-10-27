@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anichini F. , Fabiani F. , Gattiglia G. , Gualandi M. L. 2012, Un database per la registrazione e l\u2019analisi dei dati archeologici, in MapPapers 1-II, pp. 1-20 MapPapers 1-II.", 
+    "description": "Anichini F. , Fabiani F. , Gattiglia G. , Gualandi M. L. 2012, Un database per la registrazione e l’analisi dei dati archeologici, in MapPapers 1-II, pp. 1-20 MapPapers 1-II.", 
     "domain": "mappaproject.arch.unipi.it", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8990041275652527187", 
             "resource_date": "2012-12-12T06:20:01.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.830343"
+            "when": "2015-10-27T18:49:03.926392"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/mappa.html", 
             "resource_date": "2012-12-12T06:20:01.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.830355"
+            "when": "2015-10-27T18:49:03.926415"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bini D., Dubbini N., Steff\u00e8 S. 2011, Mathematical models for the determination of archaeological potential, in MapPapers 4en-I, pp.77-85 MapPapers 4en-I", 
+    "title": "Bini D., Dubbini N., Steffè S. 2011, Mathematical models for the determination of archaeological potential, in MapPapers 4en-I, pp.77-85 MapPapers 4en-I", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

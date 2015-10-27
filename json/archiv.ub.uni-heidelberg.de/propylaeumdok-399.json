@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Clauss, M. (Hrsg. ): Die r\u00f6mischen Kaiser. 55 historische Portraits von Caesar bis Iustinian. M\u00fcnchen 1997, pp. 86-94. Malitz, J\u00fcrgen (2007).", 
+    "description": "In: Clauss, M. (Hrsg. ): Die römischen Kaiser. 55 historische Portraits von Caesar bis Iustinian. München 1997, pp. 86-94. Malitz, Jürgen (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.324494"
+            "when": "2015-10-27T18:46:46.504919"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.324524"
+            "when": "2015-10-27T18:46:46.504934"
         }
     ], 
     "publishers": [], 

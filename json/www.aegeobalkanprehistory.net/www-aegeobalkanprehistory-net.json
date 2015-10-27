@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aegeo-Balkan Prehistory edited by Barbara Horejs and Peter Pav\u00fak with technical support by Peter Demj\u00e1n.", 
+    "description": "Aegeo-Balkan Prehistory edited by Barbara Horejs and Peter Pavúk with technical support by Peter Demján.", 
     "domain": "www.aegeobalkanprehistory.net", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-198471539899299101", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.723948"
+            "when": "2015-10-27T18:38:14.203749"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/aegeo-balkan-prehistory.html", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.723965"
+            "when": "2015-10-27T18:38:14.203765"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-198471539899299101", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.726023"
+            "when": "2015-10-27T18:38:14.205939"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/aegeo-balkan-prehistory.html", 
             "resource_date": "2011-05-03T11:02:22.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.726036"
+            "when": "2015-10-27T18:38:14.205952"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:07.770516"
+            "when": "2015-10-27T18:38:14.258871"
         }
     ], 
     "publishers": [], 

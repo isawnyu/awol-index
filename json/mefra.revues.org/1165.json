@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "124-2 | 2012. R\u00e9gler l'usage: norme et standard dans l'Italie pr\u00e9romaine - Varia.", 
+    "description": "124-2 | 2012. Régler l'usage: norme et standard dans l'Italie préromaine - Varia.", 
     "domain": "mefra.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Les M\u00e9langes de l\u2019\u00c9cole fran\u00e7aise de Rome - Antiquit\u00e9 (MEFRA)", 
+        "title_full": "Les Mélanges de l’École française de Rome - Antiquité (MEFRA)", 
         "url": "http://mefra.revues.org/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267924207388048367", 
             "resource_date": "2015-02-02T18:36:49.336-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.327011"
+            "when": "2015-10-27T18:40:20.511143"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-open-access-journal-les-melanges.html", 
             "resource_date": "2015-02-02T18:36:49.336-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.327024"
+            "when": "2015-10-27T18:40:20.511156"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7490440634972219795", 
             "resource_date": "2014-06-30T10:12:27.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.648574"
+            "when": "2015-10-27T18:45:52.693483"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-jpurnal-melanges-de-lecole.html", 
             "resource_date": "2014-06-30T10:12:27.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.648591"
+            "when": "2015-10-27T18:45:52.693497"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:08.659318"
+            "when": "2015-10-27T18:45:52.707867"
         }
     ], 
     "publishers": [], 
@@ -139,7 +139,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "125-1 | 2013 . Arch\u00e9ologie et religion : le sanctuaire dionysiaque de S. Abbondio \u00e0 Pomp\u00e9i - Varia", 
+    "title": "125-1 | 2013 . Archéologie et religion : le sanctuaire dionysiaque de S. Abbondio à Pompéi - Varia", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

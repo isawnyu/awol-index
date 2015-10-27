@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 23 February 2011. Most recently updated 27 January 2015]. Kernos - Revue internationale et pluridisciplinaire de religion grecque antique. ISSN \u00e9lectronique 2034-7871.", 
+    "description": "[First posted in AWOL 23 February 2011. Most recently updated 27 January 2015]. Kernos - Revue internationale et pluridisciplinaire de religion grecque antique. ISSN électronique 2034-7871.", 
     "domain": "kernos.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3633555356732043428", 
             "resource_date": "2015-01-27T06:18:23.860-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:37.824471"
+            "when": "2015-10-27T18:40:54.196721"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-kernos.html", 
             "resource_date": "2015-01-27T06:18:23.860-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:37.824488"
+            "when": "2015-10-27T18:40:54.196735"
         }
     ], 
     "publishers": [], 

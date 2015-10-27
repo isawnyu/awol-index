@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "T\u00dcBA-KED: K\u00fclt\u00fcr Envanteri Dergisi - Journal of Cultural Inventory. ISSN: 1304-2440. 1 (2003). 2 (2004). 3 (2004). 4 (2005). 5 (2006). 6 (2007). See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "TÜBA-KED: Kültür Envanteri Dergisi - Journal of Cultural Inventory. ISSN: 1304-2440. 1 (2003). 2 (2004). 3 (2004). 4 (2005). 5 (2006). 6 (2007). See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.tuba.gov.tr", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9119618154031057776", 
             "resource_date": "2013-09-24T10:32:39.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.834971"
+            "when": "2015-10-27T18:49:18.042090"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-tuba-ked.html", 
             "resource_date": "2013-09-24T10:32:39.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.834986"
+            "when": "2015-10-27T18:49:18.042105"
         }
     ], 
     "publishers": [], 
@@ -111,9 +111,9 @@
             "url": "http://www.tuba.gov.tr/index.php/en/yayinlar/sureli-yayinlar/tuba-kultur-envanteri-dergisi/1335-7-46.html"
         }
     ], 
-    "title": "T\u00dcBA-KED", 
+    "title": "TÜBA-KED", 
     "title_alternates": [], 
-    "title_extended": "T\u00dcBA-KED: K\u00fclt\u00fcr Envanteri Dergisi - Journal of Cultural Inventory", 
+    "title_extended": "TÜBA-KED: Kültür Envanteri Dergisi - Journal of Cultural Inventory", 
     "type": null, 
     "url": "http://www.tuba.gov.tr/en/yayinlar/sureli-yayinlar/tuba-kultur-envanteri-dergisi.html", 
     "url_alternates": [], 

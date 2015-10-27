@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Estudios de Cultura Maya es el \u00f3rgano oficial del Centro de Estudios Mayas del Instituto de Investigaciones Filol\u00f3gicas de la UNAM. Acoge art\u00edculos in\u00e9ditos de investigaci\u00f3n, documentos de archivo provistos de estudios introductorios, y rese\u00f1as sobre libros y art\u00edculos recientes. Publica art\u00edculos en espa\u00f1ol, lenguas mayances, ingl\u00e9s o franc\u00e9s y se distribuye en M\u00e9xico y en el extranjero. Se publica semestralmente, en primavera y oto\u00f1o. Los textos enviados se turnan a dos dictaminadores, especialistas en la tem\u00e1tica. En caso de que uno de los dict\u00e1menes sea negativo, se somete a una tercera evaluaci\u00f3n. Dos dict\u00e1menes negativos implican rechazo.", 
+    "description": "Estudios de Cultura Maya es el órgano oficial del Centro de Estudios Mayas del Instituto de Investigaciones Filológicas de la UNAM. Acoge artículos inéditos de investigación, documentos de archivo provistos de estudios introductorios, y reseñas sobre libros y artículos recientes. Publica artículos en español, lenguas mayances, inglés o francés y se distribuye en México y en el extranjero. Se publica semestralmente, en primavera y otoño. Los textos enviados se turnan a dos dictaminadores, especialistas en la temática. En caso de que uno de los dictámenes sea negativo, se somete a una tercera evaluación. Dos dictámenes negativos implican rechazo.", 
     "domain": "www.filologicas.unam.mx", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-114657792952806609", 
             "resource_date": "2010-11-03T16:32:33.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:12.967902"
+            "when": "2015-10-27T18:37:14.322227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-estudios-de-cultura.html", 
             "resource_date": "2010-11-03T16:32:33.335-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:12.967918"
+            "when": "2015-10-27T18:37:14.322243"
         }
     ], 
     "publishers": [], 

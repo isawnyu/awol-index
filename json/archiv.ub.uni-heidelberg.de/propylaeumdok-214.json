@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Bleicken, J. (Hrsg. ): Colloquium aus Anla\u00df des 80. Geburtstages von Alfred Heuss (= Frankfurter Althistorische Studien, Bd. 13). Kallm\u00fcnz 1993, pp. 29-48. Funke, Peter (1980).", 
+    "description": "In: Bleicken, J. (Hrsg. ): Colloquium aus Anlaß des 80. Geburtstages von Alfred Heuss (= Frankfurter Althistorische Studien, Bd. 13). Kallmünz 1993, pp. 29-48. Funke, Peter (1980).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.860677"
+            "when": "2015-10-27T18:46:46.013963"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.860693"
+            "when": "2015-10-27T18:46:46.013978"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Stamm und Polis. \u00dcberlegungen zur Entstehung der griechischen Staatenwelt in den \"Dunklen Jahrhunderten\"", 
+    "title": "Stamm und Polis. Überlegungen zur Entstehung der griechischen Staatenwelt in den \"Dunklen Jahrhunderten\"", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

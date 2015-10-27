@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Victor Loret: Egyptologue et collectionneur. Ce projet est le fruit de la collaboration entre les chercheurs et les biblioth\u00e9caires de la Maison de l\u2019Orient et de la M\u00e9diterran\u00e9e. C\u2019est sous l\u2019impulsion de l\u2019\u00e9gyptologue, professeur \u00e0 l\u2019universit\u00e9 de Lyon 2, et dans le cadre d\u2019un programme de mise en valeur de la biblioth\u00e8que Victor Loret, qu\u2019un site Internet a \u00e9t\u00e9 consacr\u00e9 \u00e0 ce personnage. Grand \u00e9gyptologue fran\u00e7ais ayant v\u00e9cu \u00e0 la charni\u00e8re du XIXe et du XXe si\u00e8cle, Victor Loret a en effet l\u00e9gu\u00e9 ses nombreuses collections \u00e0 l\u2019Universit\u00e9 de Lyon, en 1946. Le site Victor Loret a pour objectif de faciliter les recherches des \u00e9tudiants et des chercheurs travaillant sur les \u00e9gyptologues du pass\u00e9 et l\u2019histoire de l\u2019\u00e9gyptologie. Outre une biographie, une bibliographie et la pr\u00e9sentation des collections (monographies, livres anciens, tir\u00e9s-\u00e0-part, photographies. ), il permet d\u2019acc\u00e9der \u00e0 l\u2019inventaire num\u00e9ris\u00e9 de la biblioth\u00e8que Victor Loret et \u00e0 la liste des ouvrages conserv\u00e9s dans la biblioth\u00e8que de la Maison de l\u2019Orient et de la M\u00e9diterran\u00e9e. Un espace \u00ab Voyageurs \u00bb pr\u00e9sente le fonds des r\u00e9cits de voyage de cette biblioth\u00e8que, et une galerie d\u2019images est mise \u00e0 la disposition des internautes. (\u00a9 Universit\u00e9 de Lyon). Cette premi\u00e8re version du site a \u00e9t\u00e9 \u00e9labor\u00e9e par Magali Mathey, lors d\u2019un stage de trois mois dans le cadre du Master Pro \u00ab Culture de l\u2019\u00e9crit et de l\u2019image \u00bb (ENSSIB/Universit\u00e9 Lyon 2/GHHAT).", 
+    "description": "Victor Loret: Egyptologue et collectionneur. Ce projet est le fruit de la collaboration entre les chercheurs et les bibliothécaires de la Maison de l’Orient et de la Méditerranée. C’est sous l’impulsion de l’égyptologue, professeur à l’université de Lyon 2, et dans le cadre d’un programme de mise en valeur de la bibliothèque Victor Loret, qu’un site Internet a été consacré à ce personnage. Grand égyptologue français ayant vécu à la charnière du XIXe et du XXe siècle, Victor Loret a en effet légué ses nombreuses collections à l’Université de Lyon, en 1946. Le site Victor Loret a pour objectif de faciliter les recherches des étudiants et des chercheurs travaillant sur les égyptologues du passé et l’histoire de l’égyptologie. Outre une biographie, une bibliographie et la présentation des collections (monographies, livres anciens, tirés-à-part, photographies. ), il permet d’accéder à l’inventaire numérisé de la bibliothèque Victor Loret et à la liste des ouvrages conservés dans la bibliothèque de la Maison de l’Orient et de la Méditerranée. Un espace « Voyageurs » présente le fonds des récits de voyage de cette bibliothèque, et une galerie d’images est mise à la disposition des internautes. (© Université de Lyon). Cette première version du site a été élaborée par Magali Mathey, lors d’un stage de trois mois dans le cadre du Master Pro « Culture de l’écrit et de l’image » (ENSSIB/Université Lyon 2/GHHAT).", 
     "domain": "www.victor-loret.mom.fr", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1721842664636893444", 
             "resource_date": "2013-01-09T09:02:18.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:56.559443"
+            "when": "2015-10-27T18:38:01.214538"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/victor-loret-egyptologue-et.html", 
             "resource_date": "2013-01-09T09:02:18.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:56.559460"
+            "when": "2015-10-27T18:38:01.214559"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1721842664636893444", 
             "resource_date": "2013-01-09T09:02:18.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:56.565245"
+            "when": "2015-10-27T18:38:01.221061"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/victor-loret-egyptologue-et.html", 
             "resource_date": "2013-01-09T09:02:18.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:56.565259"
+            "when": "2015-10-27T18:38:01.221076"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:56.568778"
+            "when": "2015-10-27T18:38:01.224686"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
             "url": "http://www.victor-loret.mom.fr/"
         }, 
         {
-            "title_full": "Victor Loret et sa biblioth\u00e8que", 
+            "title_full": "Victor Loret et sa bibliothèque", 
             "url": "http://www.victor-loret.mom.fr/#"
         }
     ], 

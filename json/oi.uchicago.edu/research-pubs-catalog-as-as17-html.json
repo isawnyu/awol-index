@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. G\u00fcterbock and Thorkild Jacobsen. Originally published in 1965.", 
+    "description": "AS 16. Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Edited by Hans G. Güterbock and Thorkild Jacobsen. Originally published in 1965.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.912897"
+            "when": "2015-10-27T18:38:38.979908"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.912914"
+            "when": "2015-10-27T18:38:38.979920"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8564830786692082832", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.487860"
+            "when": "2015-10-27T18:47:51.517087"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-nippur-excavations.html", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.487871"
+            "when": "2015-10-27T18:47:51.517098"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:00.545840"
+            "when": "2015-10-27T18:47:51.576579"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 15 January 2012, updated 21 August, 2014]. R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis). Plus de 13,000 r\u00e9f\u00e9rences bibliographiques. (nom - titre(s) - parent\u00e9 - r\u00e9f\u00e9rence bibliographique). Classement selon les noms inscrits sur les statuettes. R\u00e9partition des attestations suivant les grandes p\u00e9riodes de l\u2019histoire \u00e9gyptienne. Mode de citation recommand\u00e9: http://www. segweb. ch/Base sehedj - Nom du fichier \u00ab pdf \u00bb et date. Pour de plus amples informations, lisez l\u2019\u00e9tat des travaux ou contactez-nous !.", 
+    "description": "[First posted in AWOL 15 January 2012, updated 21 August, 2014]. Répertoire bibliographique des figurines funéraires (shabtis / oushebtis). Plus de 13,000 références bibliographiques. (nom - titre(s) - parenté - référence bibliographique). Classement selon les noms inscrits sur les statuettes. Répartition des attestations suivant les grandes périodes de l’histoire égyptienne. Mode de citation recommandé: http://www. segweb. ch/Base sehedj - Nom du fichier « pdf » et date. Pour de plus amples informations, lisez l’état des travaux ou contactez-nous !.", 
     "domain": "www.segweb.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis)", 
+        "title_full": "Répertoire bibliographique des figurines funéraires (shabtis / oushebtis)", 
         "url": "http://www.segweb.ch/shabti.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4883609201485438284", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:13.071045"
+            "when": "2015-10-27T18:42:42.388299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/repertoire-bibliographique-des.html", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:13.071057"
+            "when": "2015-10-27T18:42:42.388313"
         }
     ], 
     "publishers": [], 

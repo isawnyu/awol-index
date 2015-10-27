@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 10 February 2010. Updated 18 January 2015]. sehepunkte: Rezensionsjournal f\u00fcr die Geschichtswissenschaften. ISBN: 1618-6168. Der Name sehepunkte f\u00fcr dieses Rezensionsjournal ist Programm: Als der Theologe und Historiker Johann Martin Chladenius (1710 - 1759) den - urspr\u00fcnglich aus der Optik stammenden - Begriff in seiner 1742 erschienenen Einleitung zur richtigen Auslegung vern\u00fcnftiger Reden und Schriften auf die Geschichtsschreibung \u00fcbertrug, vollzog er bekanntlich einen bemerkenswerten Schritt. Denn damit war der \"perspektivische Blick des Historikers\" umrissen, hatte sich die Einsicht in den subjektiven Charakter aller Geschichtsschreibung Bahn gebrochen: Eine objektive Wahrheit, so Chladenius, gibt es nicht. In jeder Wahrnehmung und Deutung historischer Ereignisse kommt vielmehr immer auch und vor allem der individuelle Standort des Betrachters zum Ausdruck, mithin dessen spezifischer \"Sehepunckt\": \"Ebenso ist es mit allen Geschichten beschaffen; eine Rebellion wird anders von einem getreuen Untertanen, anders von einem Rebellen, anders von einem Ausl\u00e4nder, anders von einem Hofmann, anders von einem B\u00fcrger oder Bauern angesehen. \".", 
+    "description": "[First posted in AWOL 10 February 2010. Updated 18 January 2015]. sehepunkte: Rezensionsjournal für die Geschichtswissenschaften. ISBN: 1618-6168. Der Name sehepunkte für dieses Rezensionsjournal ist Programm: Als der Theologe und Historiker Johann Martin Chladenius (1710 - 1759) den - ursprünglich aus der Optik stammenden - Begriff in seiner 1742 erschienenen Einleitung zur richtigen Auslegung vernünftiger Reden und Schriften auf die Geschichtsschreibung übertrug, vollzog er bekanntlich einen bemerkenswerten Schritt. Denn damit war der \"perspektivische Blick des Historikers\" umrissen, hatte sich die Einsicht in den subjektiven Charakter aller Geschichtsschreibung Bahn gebrochen: Eine objektive Wahrheit, so Chladenius, gibt es nicht. In jeder Wahrnehmung und Deutung historischer Ereignisse kommt vielmehr immer auch und vor allem der individuelle Standort des Betrachters zum Ausdruck, mithin dessen spezifischer \"Sehepunckt\": \"Ebenso ist es mit allen Geschichten beschaffen; eine Rebellion wird anders von einem getreuen Untertanen, anders von einem Rebellen, anders von einem Ausländer, anders von einem Hofmann, anders von einem Bürger oder Bauern angesehen. \".", 
     "domain": "www.sehepunkte.de", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "sehepunkte: Rezensionsjournal f\u00fcr die Geschichtswissenschaften", 
+        "title_full": "sehepunkte: Rezensionsjournal für die Geschichtswissenschaften", 
         "url": "http://www.sehepunkte.de/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7395765776646613360", 
             "resource_date": "2015-01-18T09:12:53.297-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:00.723516"
+            "when": "2015-10-27T18:45:43.869841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-sehepunkte.html", 
             "resource_date": "2015-01-18T09:12:53.297-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:00.723532"
+            "when": "2015-10-27T18:45:43.869854"
         }
     ], 
     "publishers": [], 

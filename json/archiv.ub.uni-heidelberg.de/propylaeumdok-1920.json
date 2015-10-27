@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Studien zu Sprache und Religion \u00c4gyptens zu Ehren von Wolfhart Westendorf. G\u00f6ttingen 1984, pp. 157-174. Schenkel, Wolfgang (1973).", 
+    "description": "In: Studien zu Sprache und Religion Ägyptens zu Ehren von Wolfhart Westendorf. Göttingen 1984, pp. 157-174. Schenkel, Wolfgang (1973).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:00.946808"
+            "when": "2015-10-27T18:40:12.647008"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:00.946825"
+            "when": "2015-10-27T18:40:12.647025"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Fokussierung. \u00dcber die Reihenfolge von Subjekt und Pr\u00e4dikat im klassisch-\u00e4gyptischen Nominalsatz", 
+    "title": "Fokussierung. Über die Reihenfolge von Subjekt und Prädikat im klassisch-ägyptischen Nominalsatz", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

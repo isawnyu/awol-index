@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Internetplattform f\u00fcr die Wissenschaft von den hieratischen Handschriften des Alten \u00c4gypten. \"Hieratistik\" bezeichnet die Wissenschaft von der so genannten hieratischen Schrift der Alten \u00c4gypter. Erforscht werden die Funktionen und Besonderheiten dieser eigentlichen und allt\u00e4glichen Schrift der Alten \u00c4gypter. Wichtiges Hilfsmittel sind Pal\u00e4ographien, die auf m\u00f6glichst umfassenden Zusammenstellungen einzelner Schriftzeichen basieren, aus deren Vergleich und Analyse Schreiberindividuen, Schulen, Entwicklungslinien und ggf. auch Datierungen von Schriftquellen abgeleitet werden k\u00f6nnen.", 
+    "description": "Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten. \"Hieratistik\" bezeichnet die Wissenschaft von der so genannten hieratischen Schrift der Alten Ägypter. Erforscht werden die Funktionen und Besonderheiten dieser eigentlichen und alltäglichen Schrift der Alten Ägypter. Wichtiges Hilfsmittel sind Paläographien, die auf möglichst umfassenden Zusammenstellungen einzelner Schriftzeichen basieren, aus deren Vergleich und Analyse Schreiberindividuen, Schulen, Entwicklungslinien und ggf. auch Datierungen von Schriftquellen abgeleitet werden können.", 
     "domain": "www.hieratistik.uni-mainz.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Internetplattform f\u00fcr die Wissenschaft von den hieratischen Handschriften des Alten \u00c4gypten", 
+        "title_full": "Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten", 
         "url": "http://www.hieratistik.uni-mainz.de/index.php"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6346080744460181023", 
             "resource_date": "2014-11-02T08:28:28.542-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.025051"
+            "when": "2015-10-27T18:44:39.551348"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/internetplattform-fur-die-wissenschaft.html", 
             "resource_date": "2014-11-02T08:28:28.542-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.025073"
+            "when": "2015-10-27T18:44:39.551364"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6346080744460181023", 
             "resource_date": "2014-11-02T08:28:28.542-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.032478"
+            "when": "2015-10-27T18:44:39.555176"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/internetplattform-fur-die-wissenschaft.html", 
             "resource_date": "2014-11-02T08:28:28.542-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.032499"
+            "when": "2015-10-27T18:44:39.555189"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:02.053329"
+            "when": "2015-10-27T18:44:39.570888"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Internetplattform f\u00fcr die Wissenschaft von den hieratischen Handschriften des Alten \u00c4gypten", 
+            "title_full": "Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten", 
             "url": "http://www.hieratistik.uni-mainz.de/index.php"
         }, 
         {
-            "title_full": "Pal\u00e4ographien", 
+            "title_full": "Paläographien", 
             "url": "http://www.hieratistik.uni-mainz.de/31.php"
         }, 
         {
@@ -166,7 +166,7 @@
             "url": "http://www.hieratistik.uni-mainz.de/32.php"
         }, 
         {
-            "title_full": "Aktivit\u00e4ten", 
+            "title_full": "Aktivitäten", 
             "url": "http://www.hieratistik.uni-mainz.de/33.php"
         }, 
         {
@@ -178,7 +178,7 @@
             "url": "http://www.hieratistik.uni-mainz.de/48.php"
         }
     ], 
-    "title": "Internetplattform f\u00fcr die Wissenschaft von den hieratischen Handschriften des Alten \u00c4gypten", 
+    "title": "Internetplattform für die Wissenschaft von den hieratischen Handschriften des Alten Ägypten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

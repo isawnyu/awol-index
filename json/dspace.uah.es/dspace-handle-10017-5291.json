@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Polis: revista de ideas y formas pol\u00edticas de la Antig\u00fcedad. ISSN: 1130-0728. Editada por el Departamento de Historia I y Filosof\u00eda, \u00c1rea de Historia Antigua, y Servicio de Publicaciones de la Universidad de Alcal\u00e1. Coordinador: Dr. Luis A. Garc\u00eda Moreno.", 
+    "description": "Polis: revista de ideas y formas políticas de la Antigüedad. ISSN: 1130-0728. Editada por el Departamento de Historia I y Filosofía, Área de Historia Antigua, y Servicio de Publicaciones de la Universidad de Alcalá. Coordinador: Dr. Luis A. García Moreno.", 
     "domain": "dspace.uah.es", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9052057708455102673", 
             "resource_date": "2013-04-30T06:04:04.522-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:15.541736"
+            "when": "2015-10-27T18:49:13.318231"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-polis-revista-de.html", 
             "resource_date": "2013-04-30T06:04:04.522-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:15.541752"
+            "when": "2015-10-27T18:49:13.318257"
         }
     ], 
     "publishers": [], 
@@ -86,95 +86,95 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Polis - N\u00famero 01, 1989 [6]", 
+            "title_full": "Polis - Número 01, 1989 [6]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5293"
         }, 
         {
-            "title_full": "Polis - N\u00famero 02, 1990 [8]", 
+            "title_full": "Polis - Número 02, 1990 [8]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5294"
         }, 
         {
-            "title_full": "Polis - N\u00famero 03, 1991 [11]", 
+            "title_full": "Polis - Número 03, 1991 [11]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5295"
         }, 
         {
-            "title_full": "Polis - N\u00famero 04, 1992 [12]", 
+            "title_full": "Polis - Número 04, 1992 [12]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5296"
         }, 
         {
-            "title_full": "Polis - N\u00famero 05, 1993 [14]", 
+            "title_full": "Polis - Número 05, 1993 [14]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5297"
         }, 
         {
-            "title_full": "Polis - N\u00famero 06, 1994 [11]", 
+            "title_full": "Polis - Número 06, 1994 [11]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5298"
         }, 
         {
-            "title_full": "Polis - N\u00famero 07, 1995 [9]", 
+            "title_full": "Polis - Número 07, 1995 [9]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5299"
         }, 
         {
-            "title_full": "Polis - N\u00famero 08, 1996 [9]", 
+            "title_full": "Polis - Número 08, 1996 [9]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5300"
         }, 
         {
-            "title_full": "Polis - N\u00famero 09, 1997 [9]", 
+            "title_full": "Polis - Número 09, 1997 [9]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5301"
         }, 
         {
-            "title_full": "Polis - N\u00famero 10, 1998 [11]", 
+            "title_full": "Polis - Número 10, 1998 [11]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5302"
         }, 
         {
-            "title_full": "Polis - N\u00famero 11, 1999 [11]", 
+            "title_full": "Polis - Número 11, 1999 [11]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5303"
         }, 
         {
-            "title_full": "Polis - N\u00famero 12, 2000 [7]", 
+            "title_full": "Polis - Número 12, 2000 [7]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5304"
         }, 
         {
-            "title_full": "Polis - N\u00famero 13, 2001 [6]", 
+            "title_full": "Polis - Número 13, 2001 [6]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5305"
         }, 
         {
-            "title_full": "Polis - N\u00famero 14, 2002 [9]", 
+            "title_full": "Polis - Número 14, 2002 [9]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5306"
         }, 
         {
-            "title_full": "Polis - N\u00famero 15, 2003 [8]", 
+            "title_full": "Polis - Número 15, 2003 [8]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5307"
         }, 
         {
-            "title_full": "Polis - N\u00famero 16, 2004 [8]", 
+            "title_full": "Polis - Número 16, 2004 [8]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5308"
         }, 
         {
-            "title_full": "Polis - N\u00famero 17, 2005 [6]", 
+            "title_full": "Polis - Número 17, 2005 [6]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5309"
         }, 
         {
-            "title_full": "Polis - N\u00famero 18, 2006 [7]", 
+            "title_full": "Polis - Número 18, 2006 [7]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/5310"
         }, 
         {
-            "title_full": "Polis - N\u00famero 19, 2007 [7]", 
+            "title_full": "Polis - Número 19, 2007 [7]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/9361"
         }, 
         {
-            "title_full": "Polis - N\u00famero 20, 2008 [6]", 
+            "title_full": "Polis - Número 20, 2008 [6]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/9362"
         }, 
         {
-            "title_full": "Polis - N\u00famero 21, 2009 [4]", 
+            "title_full": "Polis - Número 21, 2009 [4]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/11381"
         }, 
         {
-            "title_full": "Polis - N\u00famero 22, 2010 [6]", 
+            "title_full": "Polis - Número 22, 2010 [6]", 
             "url": "http://dspace.uah.es/dspace/handle/10017/11470"
         }
     ], 
-    "title": "Polis: revista de ideas y formas pol\u00edticas de la Antig\u00fcedad", 
+    "title": "Polis: revista de ideas y formas políticas de la Antigüedad", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

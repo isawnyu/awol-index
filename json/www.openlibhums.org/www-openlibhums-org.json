@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3352559239735388301", 
             "resource_date": "2013-01-26T08:39:35.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.513577"
+            "when": "2015-10-27T18:40:34.160197"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/under-development-open-library-of.html", 
             "resource_date": "2013-01-26T08:39:35.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.513591"
+            "when": "2015-10-27T18:40:34.160219"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3352559239735388301", 
             "resource_date": "2013-01-26T08:39:35.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.515274"
+            "when": "2015-10-27T18:40:34.162227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/under-development-open-library-of.html", 
             "resource_date": "2013-01-26T08:39:35.977-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.515287"
+            "when": "2015-10-27T18:40:34.162242"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.522735"
+            "when": "2015-10-27T18:40:34.171656"
         }
     ], 
     "publishers": [], 
@@ -144,15 +144,15 @@
             "url": "http://www.openlibhums.org/"
         }, 
         {
-            "title_full": "About \u00bb", 
+            "title_full": "About »", 
             "url": "http://www.openlibhums.org/about/"
         }, 
         {
-            "title_full": "Media \u00bb", 
+            "title_full": "Media »", 
             "url": "http://www.openlibhums.org/media/"
         }, 
         {
-            "title_full": "Get Involved \u00bb", 
+            "title_full": "Get Involved »", 
             "url": "http://www.openlibhums.org/get-involved/"
         }, 
         {

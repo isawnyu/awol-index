@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "353-356 Kubiak, Stanis\u0142awa: Udzia\u0142 monet z\u0142otych w obiegu pieni\u0119\u017cnym na ziemiach polskich w XIV i XV wieku.", 
+    "description": "353-356 Kubiak, Stanisława: Udział monet złotych w obiegu pieniężnym na ziemiach polskich w XIV i XV wieku.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.316086"
+            "when": "2015-10-27T18:46:50.531587"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.316099"
+            "when": "2015-10-27T18:46:50.531598"
         }
     ], 
     "publishers": [], 

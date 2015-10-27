@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Scrivere leggere interpretare: studi di antichit\u00e0 in onore di Sergio Daris", 
+        "title_full": "Scrivere leggere interpretare: studi di antichità in onore di Sergio Daris", 
         "url": "http://www.openstarts.units.it/dspace/handle/10077/5258"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5983428801647848864", 
             "resource_date": "2014-02-18T12:47:42.172-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.929259"
+            "when": "2015-10-27T18:44:14.525994"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/scrivere-leggere-interpretare-studi-di.html", 
             "resource_date": "2014-02-18T12:47:42.172-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.929280"
+            "when": "2015-10-27T18:44:14.526006"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Odisseo mendico a Troia (PK\u00f6ln VI 245)", 
+    "title": "Odisseo mendico a Troia (PKöln VI 245)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

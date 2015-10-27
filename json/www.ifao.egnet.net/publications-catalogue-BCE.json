@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de liaison du groupe international d\u2019\u00e9tude de la c\u00e9ramique \u00e9gyptienne. ISSN: 0255-0903.", 
+    "description": "Bulletin de liaison du groupe international d’étude de la céramique égyptienne. ISSN: 0255-0903.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Bulletin de liaison du groupe international d\u2019\u00e9tude de la c\u00e9ramique \u00e9gyptienne", 
+        "title_full": "Bulletin de liaison du groupe international d’étude de la céramique égyptienne", 
         "url": "http://www.ifao.egnet.net/publications/catalogue/BCE/"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1166495182940069644", 
             "resource_date": "2014-09-26T10:44:35.259-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:13.850887"
+            "when": "2015-10-27T18:37:15.312194"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/open-access-journal-bulletin-de-liaison.html", 
             "resource_date": "2014-09-26T10:44:35.259-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:13.850904"
+            "when": "2015-10-27T18:37:15.312214"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1166495182940069644", 
             "resource_date": "2014-09-26T10:44:35.259-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:14.003135"
+            "when": "2015-10-27T18:37:15.474868"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/open-access-journal-bulletin-de-liaison.html", 
             "resource_date": "2014-09-26T10:44:35.259-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:14.003151"
+            "when": "2015-10-27T18:37:15.474884"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:14.082380"
+            "when": "2015-10-27T18:37:15.572225"
         }
     ], 
     "publishers": [], 
@@ -152,7 +152,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin de liaison du groupe international d\u2019\u00e9tude de la c\u00e9ramique \u00e9gyptienne", 
+            "title_full": "Bulletin de liaison du groupe international d’étude de la céramique égyptienne", 
             "url": "http://www.ifao.egnet.net/publications/catalogue/BCE/"
         }, 
         {
@@ -260,7 +260,7 @@
             "url": "http://www.ifao.egnet.net/uploads/publications/enligne/IF486_BCE01.pdf"
         }
     ], 
-    "title": "Bulletin de liaison du groupe international d\u2019\u00e9tude de la c\u00e9ramique \u00e9gyptienne", 
+    "title": "Bulletin de liaison du groupe international d’étude de la céramique égyptienne", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

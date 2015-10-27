@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Claude Calame, Poetic and Performative Memory in Ancient Greece: Heroic Reference and Ritual Gestures in Time and Space Foreword. Translator's Preface. I. Spatio-temporal Poetics of the Past in Ancient Greece. II. The Succession of Ages and Poetic Pragmatics of Justice: Hesiod\u2019s Narrative of the Five Human Species. III. Creation of Gender and Heroic Identity between Legend and Cult: The Political Creation Of Theseus By Bacchylides. IV. Regimes of Historicity and Oracular Logic: How To Re-Found A Colonial City?. V. Ritual and Initiatory Itineraries toward the Afterlife: Time, Space, and Pragmatics in the Gold Lamellae. By Way of Conclusion: Returns to the Present. Bibliography. Image Credits. And See AWOL's List of.", 
+    "description": "Claude Calame, Poetic and Performative Memory in Ancient Greece: Heroic Reference and Ritual Gestures in Time and Space Foreword. Translator's Preface. I. Spatio-temporal Poetics of the Past in Ancient Greece. II. The Succession of Ages and Poetic Pragmatics of Justice: Hesiod’s Narrative of the Five Human Species. III. Creation of Gender and Heroic Identity between Legend and Cult: The Political Creation Of Theseus By Bacchylides. IV. Regimes of Historicity and Oracular Logic: How To Re-Found A Colonial City?. V. Ritual and Initiatory Itineraries toward the Afterlife: Time, Space, and Pragmatics in the Gold Lamellae. By Way of Conclusion: Returns to the Present. Bibliography. Image Credits. And See AWOL's List of.", 
     "domain": "chs.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-697138453473249210", 
             "resource_date": "2015-05-09T09:22:01.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.086800"
+            "when": "2015-10-27T18:45:20.351114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/new-online-from-chs-claude-calame.html", 
             "resource_date": "2015-05-09T09:22:01.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.086817"
+            "when": "2015-10-27T18:45:20.351129"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-697138453473249210", 
             "resource_date": "2015-05-09T09:22:01.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.088988"
+            "when": "2015-10-27T18:45:20.353314"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/new-online-from-chs-claude-calame.html", 
             "resource_date": "2015-05-09T09:22:01.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.089003"
+            "when": "2015-10-27T18:45:20.353326"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.112874"
+            "when": "2015-10-27T18:45:20.376409"
         }
     ], 
     "publishers": [], 
@@ -159,7 +159,7 @@
             "url": "http://chs.harvard.edu/CHS/article/display/5803"
         }, 
         {
-            "title_full": "II. The Succession of Ages and Poetic Pragmatics of Justice: Hesiod\u2019s Narrative of the Five Human Species", 
+            "title_full": "II. The Succession of Ages and Poetic Pragmatics of Justice: Hesiod’s Narrative of the Five Human Species", 
             "url": "http://chs.harvard.edu/CHS/article/display/5804"
         }, 
         {

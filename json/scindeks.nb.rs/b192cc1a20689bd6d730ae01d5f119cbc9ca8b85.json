@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 10 July 2009. Updated 29 December 2011]. Glasnik Srpskog arheolo\u0161kog dru\u0161tva. Serbian Archaeological Society. ISSN 0352-5678.", 
+    "description": "[First posted in AWOL 10 July 2009. Updated 29 December 2011]. Glasnik Srpskog arheološkog društva. Serbian Archaeological Society. ISSN 0352-5678.", 
     "domain": "scindeks.nb.rs", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Glasnik Srpskog arheolo\u0161kog dru\u0161tva", 
+        "title_full": "Glasnik Srpskog arheološkog društva", 
         "url": "http://scindeks.nb.rs/journalDetails.aspx?issn=0352-5678"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5303485522201988590", 
             "resource_date": "2012-11-04T14:23:04.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:52.826341"
+            "when": "2015-10-27T18:43:24.215456"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-glasnik-srpskog.html", 
             "resource_date": "2012-11-04T14:23:04.687-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:52.826353"
+            "when": "2015-10-27T18:43:24.215469"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Introduction to Manicheism by P. Oktor Skj\u00e6rv\u00f8.", 
+    "description": "Introduction to Manicheism by P. Oktor Skjærvø.", 
     "domain": "www.fas.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4735539286725078176", 
             "resource_date": "2013-06-05T10:55:26.134-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.409055"
+            "when": "2015-10-27T18:42:09.199477"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-introductions-to-iranian.html", 
             "resource_date": "2013-06-05T10:55:26.134-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.409066"
+            "when": "2015-10-27T18:42:09.199489"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Introduction to Zoroastrianism by P. Oktor Skj\u00e6rv\u00f8", 
+    "title": "Introduction to Zoroastrianism by P. Oktor Skjærvø", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

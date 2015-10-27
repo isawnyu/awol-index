@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "314 - Paolo Vison\u00e0, George M. Crothers, Justin N. Carlson, Donald L. Handshoe, Silvana Lora, Piera Allegra Rasia - Universit\u00e0 degli Studi di Venezia - Ca\u2019 Foscari, Luana Toniolo. 2014. A Forgotten Roman Settlement in the Veneto. University of Kentucky Geoarchaeological Investigations at Tezze di Arzignano (Vicenza, Italy) in 2012. PDF.", 
+    "description": "314 - Paolo Visonà, George M. Crothers, Justin N. Carlson, Donald L. Handshoe, Silvana Lora, Piera Allegra Rasia - Università degli Studi di Venezia - Ca’ Foscari, Luana Toniolo. 2014. A Forgotten Roman Settlement in the Veneto. University of Kentucky Geoarchaeological Investigations at Tezze di Arzignano (Vicenza, Italy) in 2012. PDF.", 
     "domain": "www.fastionline.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6485308727897627331", 
             "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:09.336914"
+            "when": "2015-10-27T18:44:47.492170"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-fold.html", 
             "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:09.336927"
+            "when": "2015-10-27T18:44:47.492182"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "315 - Maria Ausilia Fadda. 2014. Il villaggio adiacente al nuraghe Tanca Manna e l'et\u00e0 del Bronzo nella citt\u00e0 di Nuoro . PDF permalink Record Sheet", 
+    "title": "315 - Maria Ausilia Fadda. 2014. Il villaggio adiacente al nuraghe Tanca Manna e l'età del Bronzo nella città di Nuoro . PDF permalink Record Sheet", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

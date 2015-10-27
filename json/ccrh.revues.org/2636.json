@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "14-15 | 1995. Les banques de donn\u00e9es au C. R. H.", 
+    "description": "14-15 | 1995. Les banques de données au C. R. H.", 
     "domain": "ccrh.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-640575694160719619", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:03.340943"
+            "when": "2015-10-27T18:44:40.989460"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-les-cahiers-du.html", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:03.340955"
+            "when": "2015-10-27T18:44:40.989472"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "16 | 1996 . Pour une histoire compar\u00e9e du v\u0153u", 
+    "title": "16 | 1996 . Pour une histoire comparée du vœu", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

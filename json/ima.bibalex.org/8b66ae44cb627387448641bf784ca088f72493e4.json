@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0645\u062c\u0644\u0629 \u0627\u0644\u0636\u064a\u0627\u0621 (8).", 
+    "description": "مجلة الضياء (8).", 
     "domain": "ima.bibalex.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2321106686499336232", 
             "resource_date": "2012-02-03T14:30:43.485-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.366703"
+            "when": "2015-10-27T18:38:39.333551"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/digital-library-institut-du-monde-arabe.html", 
             "resource_date": "2012-02-03T14:30:43.485-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.366718"
+            "when": "2015-10-27T18:38:39.333562"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u0645\u062c\u0644\u0629 \u0627\u0644\u0631\u0633\u0627\u0644\u0629 (36)", 
+    "title": "مجلة الرسالة (36)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

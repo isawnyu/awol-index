@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sandro Gorgone, Dio e natura. La teologia trinitaria della creazione di J\u00fcrgen Moltmann.", 
+    "description": "Sandro Gorgone, Dio e natura. La teologia trinitaria della creazione di Jürgen Moltmann.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.174973"
+            "when": "2015-10-27T18:44:38.638225"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.174985"
+            "when": "2015-10-27T18:44:38.638237"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Alice Gonzi, Vie della teologia contemporanea: il dibattito tra Slavoj \u017di\u017eek e John Milbank", 
+    "title": "Alice Gonzi, Vie della teologia contemporanea: il dibattito tra Slavoj Žižek e John Milbank", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

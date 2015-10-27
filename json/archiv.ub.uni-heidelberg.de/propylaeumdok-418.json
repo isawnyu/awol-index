@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: H\u00f6rnke, N. and Baumbach, M. (Hrsgg. ): Fremde Wirklichkeiten. Literarische Phantastik und antike Literatur. Heidelberg 2006, pp. 187-201. M\u00f6llendorff, Peter von (2005).", 
+    "description": "In: Hörnke, N. and Baumbach, M. (Hrsgg. ): Fremde Wirklichkeiten. Literarische Phantastik und antike Literatur. Heidelberg 2006, pp. 187-201. Möllendorff, Peter von (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.294829"
+            "when": "2015-10-27T18:48:50.076347"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.294841"
+            "when": "2015-10-27T18:48:50.076364"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sophistische Phantastik: Lukians L\u00fcgenfreunde", 
+    "title": "Sophistische Phantastik: Lukians Lügenfreunde", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

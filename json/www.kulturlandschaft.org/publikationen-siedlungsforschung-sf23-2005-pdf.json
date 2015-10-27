@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 2 August 2010. Updated 21 October 2014 (changed location online)]. Siedlungsforschung. Arch\u00e4ologie - Geschichte - Geographie. ISSN: 0175-0046. Die Zeitschrift \"Siedlungsforschung: Arch\u00e4ologie - Geschichte - Geographie\" enth\u00e4lt Aufs\u00e4tze, Miszellen, Rezensionsartikel, Berichte und Bibliographien. Die Zeitschrift erscheint in einem Band von ca. 300 Seiten im Verlag \"Siedlungsforschung\" in Bonn. Bei den pers\u00f6nlichen Mitgliedern des \"Arbeitskreises f\u00fcr historische Kulturlandschaftsforschung in Mitteleuropa e. V. \" ist der Bezugspreis im Jahresbeitrag enthalten. The following volumes are available online:.", 
+    "description": "[First posted in AWOL 2 August 2010. Updated 21 October 2014 (changed location online)]. Siedlungsforschung. Archäologie - Geschichte - Geographie. ISSN: 0175-0046. Die Zeitschrift \"Siedlungsforschung: Archäologie - Geschichte - Geographie\" enthält Aufsätze, Miszellen, Rezensionsartikel, Berichte und Bibliographien. Die Zeitschrift erscheint in einem Band von ca. 300 Seiten im Verlag \"Siedlungsforschung\" in Bonn. Bei den persönlichen Mitgliedern des \"Arbeitskreises für historische Kulturlandschaftsforschung in Mitteleuropa e. V. \" ist der Bezugspreis im Jahresbeitrag enthalten. The following volumes are available online:.", 
     "domain": "www.kulturlandschaft.org", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Siedlungsforschung. Arch\u00e4ologie - Geschichte - Geographie", 
+        "title_full": "Siedlungsforschung. Archäologie - Geschichte - Geographie", 
         "url": "http://www.kulturlandschaft.org/publikationen/siedlungsforschung"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5660671862422381010", 
             "resource_date": "2014-10-21T16:45:45.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:10.178143"
+            "when": "2015-10-27T18:43:42.371893"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/open-access-journal-siedlungsforschung.html", 
             "resource_date": "2014-10-21T16:45:45.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:10.178155"
+            "when": "2015-10-27T18:43:42.371918"
         }
     ], 
     "publishers": [], 

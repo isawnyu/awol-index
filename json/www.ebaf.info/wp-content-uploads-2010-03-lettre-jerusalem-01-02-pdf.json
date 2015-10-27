@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ann\u00e9e 2003Ann\u00e9e 2004Ann\u00e9e 2005. Ann\u00e9e 2006: actuellement manquante, disponible en version anglaise. Ann\u00e9e 2007: actuellement manquante, disponible en version anglaiseAnn\u00e9e 2008Ann\u00e9e 2009Ann\u00e9e 2010. Nouvelles de J\u00e9rusalem 2012.", 
+    "description": "Année 2003Année 2004Année 2005. Année 2006: actuellement manquante, disponible en version anglaise. Année 2007: actuellement manquante, disponible en version anglaiseAnnée 2008Année 2009Année 2010. Nouvelles de Jérusalem 2012.", 
     "domain": "www.ebaf.info", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Nouvelles de J\u00e9rusalem", 
+        "title_full": "Nouvelles de Jérusalem", 
         "url": "ttp://www.ebaf.info/?p=1335&lang=fr"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4405704380127378727", 
             "resource_date": "2013-08-26T06:47:21.791-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:26.769077"
+            "when": "2015-10-27T18:41:52.284005"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-nouvelles-de.html", 
             "resource_date": "2013-08-26T06:47:21.791-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:26.769087"
+            "when": "2015-10-27T18:41:52.284017"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ann\u00e9e 2002", 
+    "title": "Année 2002", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

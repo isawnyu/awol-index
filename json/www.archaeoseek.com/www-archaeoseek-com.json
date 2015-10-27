@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7684735312244059192", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:43.768876"
+            "when": "2015-10-27T18:46:29.960105"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:43.768894"
+            "when": "2015-10-27T18:46:29.960120"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7684735312244059192", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:43.770336"
+            "when": "2015-10-27T18:46:29.961569"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/archaeoseek-social-network-for.html", 
             "resource_date": "2012-09-07T14:58:43.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:43.770348"
+            "when": "2015-10-27T18:46:29.961581"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:43.771767"
+            "when": "2015-10-27T18:46:29.963512"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Antike und Abendland, 49 (2003), pp. 14-35. M\u00f6llendorff, Peter von (2009).", 
+    "description": "In: Antike und Abendland, 49 (2003), pp. 14-35. Möllendorff, Peter von (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.277096"
+            "when": "2015-10-27T18:48:50.056428"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.277109"
+            "when": "2015-10-27T18:48:50.056443"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Literarische Konstruktionen von autonom\u00eda bei Herodot und Aristophanes", 
+    "title": "Literarische Konstruktionen von autonomía bei Herodot und Aristophanes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Die Welt des Orients, 11 (1980), pp. 164-165. R\u00f6llig, Wolfgang (2004).", 
+    "description": "In: Die Welt des Orients, 11 (1980), pp. 164-165. Röllig, Wolfgang (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.361288"
+            "when": "2015-10-27T18:46:25.170771"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.361303"
+            "when": "2015-10-27T18:46:25.170787"
         }
     ], 
     "publishers": [], 
@@ -84,7 +84,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Elizabeth N. von Voigtl\u00e4nder: The Bisutun Iscription of Darius the Great.Babylonian Version. Corpus Inscriptionum Iranicarum Part I: Inscriptions of Ancient Iran Vol. II: The Babylonian Version of the Achaemenian Inscriptions. Texts I. Lund Humphries, London 1978", 
+    "title": "Elizabeth N. von Voigtländer: The Bisutun Iscription of Darius the Great.Babylonian Version. Corpus Inscriptionum Iranicarum Part I: Inscriptions of Ancient Iran Vol. II: The Babylonian Version of the Achaemenian Inscriptions. Texts I. Lund Humphries, London 1978", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

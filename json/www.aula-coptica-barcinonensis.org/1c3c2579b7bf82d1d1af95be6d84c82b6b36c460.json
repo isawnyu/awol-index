@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gram\u00e1ticas boha\u00edrico.", 
+    "description": "Gramáticas bohaírico.", 
     "domain": "www.aula-coptica-barcinonensis.org", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2521478469270116344", 
             "resource_date": "2013-12-12T10:45:29.028-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:39.334248"
+            "when": "2015-10-27T18:38:47.461697"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/aula-coptica-barcinoensis-instrumenta.html", 
             "resource_date": "2013-12-12T10:45:29.028-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:39.334263"
+            "when": "2015-10-27T18:38:47.461708"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gram\u00e1ticas sah\u00eddico", 
+    "title": "Gramáticas sahídico", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

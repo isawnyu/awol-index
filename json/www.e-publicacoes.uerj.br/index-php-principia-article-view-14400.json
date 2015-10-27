@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Principia: Revista do Departamento de Letras Cl\u00e1ssicas e Orientais do Instituto de Letras da UERJ. ISSN: 1415-6881. O seu nome, em latim, significa \"princ\u00edpios\", os princ\u00edpios da Cultura Ocidental, cujas ra\u00edzes s\u00e3o gregas, hebraicas e latinas. Para uma publica\u00e7\u00e3o que congrega tal multiplicidade lingu\u00edstico-cultural, escolheu-se o latim como a l\u00edngua a figurar no t\u00edtulo, na medida em que as culturas hel\u00eanicas, hebraicas e, evidentemente, latinas foram, muitas vezes, divulgadas atrav\u00e9s do latim. PRINCIPIA \u00e9 uma revista voltada para o p\u00fablico que aprecia os estudos cl\u00e1ssicos e orientais, de maneira geral, e, mais especificamente, para os alunos de gradua\u00e7\u00e3o, que poder\u00e3o encontrar subs\u00eddios valiosos para seus estudos. - Edi\u00e7\u00e3o Atual. - Edi\u00e7\u00f5es Anteriores.", 
+    "description": "Principia: Revista do Departamento de Letras Clássicas e Orientais do Instituto de Letras da UERJ. ISSN: 1415-6881. O seu nome, em latim, significa \"princípios\", os princípios da Cultura Ocidental, cujas raízes são gregas, hebraicas e latinas. Para uma publicação que congrega tal multiplicidade linguístico-cultural, escolheu-se o latim como a língua a figurar no título, na medida em que as culturas helênicas, hebraicas e, evidentemente, latinas foram, muitas vezes, divulgadas através do latim. PRINCIPIA é uma revista voltada para o público que aprecia os estudos clássicos e orientais, de maneira geral, e, mais especificamente, para os alunos de graduação, que poderão encontrar subsídios valiosos para seus estudos. - Edição Atual. - Edições Anteriores.", 
     "domain": "www.e-publicacoes.uerj.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Principia: Revista do Departamento de Letras Cl\u00e1ssicas e Orientais do Instituto de Letras da UERJ", 
+        "title_full": "Principia: Revista do Departamento de Letras Clássicas e Orientais do Instituto de Letras da UERJ", 
         "url": "http://www.e-publicacoes.uerj.br/index.php/principia/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1431279839333251535", 
             "resource_date": "2015-04-19T08:10:39.454-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.869898"
+            "when": "2015-10-27T18:37:34.504902"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-access-journal-principia-revista.html", 
             "resource_date": "2015-04-19T08:10:39.454-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.869912"
+            "when": "2015-10-27T18:37:34.504926"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "A CONSTRU\u00c7\u00c3O DA \u00c9PICA DE VIRG\u00cdLIO E O IDEAL AUGUSTANO", 
+    "title": "A CONSTRUÇÃO DA ÉPICA DE VIRGÍLIO E O IDEAL AUGUSTANO", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

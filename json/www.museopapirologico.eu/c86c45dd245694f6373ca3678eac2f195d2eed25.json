@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento. Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 1, 2009 Consulta Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 2, 2010 Consulta Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 3, 2011 Consulta Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento 4, 2012 ConsultaSee the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Byblos. Bollettino del Museo Papirologico dell'Università del Salento. Byblos. Bollettino del Museo Papirologico dell'Università del Salento 1, 2009 Consulta Byblos. Bollettino del Museo Papirologico dell'Università del Salento 2, 2010 Consulta Byblos. Bollettino del Museo Papirologico dell'Università del Salento 3, 2011 Consulta Byblos. Bollettino del Museo Papirologico dell'Università del Salento 4, 2012 ConsultaSee the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.museopapirologico.eu", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6562792332842356726", 
             "resource_date": "2014-08-03T09:43:04.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:14.497104"
+            "when": "2015-10-27T18:44:53.134505"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-journal-byblos-bollettino.html", 
             "resource_date": "2014-08-03T09:43:04.317-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:14.497120"
+            "when": "2015-10-27T18:44:53.134521"
         }
     ], 
     "publishers": [], 
@@ -98,7 +98,7 @@
             "url": "http://www.museopapirologico.eu/Componenti%20web/Byblos201204.pdf"
         }
     ], 
-    "title": "Byblos. Bollettino del Museo Papirologico dell'Universit\u00e0 del Salento", 
+    "title": "Byblos. Bollettino del Museo Papirologico dell'Università del Salento", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

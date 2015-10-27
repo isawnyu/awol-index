@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Biblioth\u00e8que arch\u00e9ologique et historiqueISSN (\u00c9dition imprim\u00e9e): 0768-2506.", 
+    "description": "Bibliothèque archéologique et historiqueISSN (Édition imprimée): 0768-2506.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0768-2506", 
-        "title_full": "Biblioth\u00e8que arch\u00e9ologique et historique", 
+        "title_full": "Bibliothèque archéologique et historique", 
         "url": "http://books.openedition.org/ifpo/396"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.965599"
+            "when": "2015-10-27T18:45:06.913661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.965615"
+            "when": "2015-10-27T18:45:06.913678"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6665207399371968011", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.967916"
+            "when": "2015-10-27T18:45:06.916281"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series.html", 
             "resource_date": "2015-05-19T06:58:29.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.967929"
+            "when": "2015-10-27T18:45:06.916294"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.005952"
+            "when": "2015-10-27T18:45:06.967179"
         }
     ], 
     "publishers": [], 
@@ -150,51 +150,51 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Biblioth\u00e8que arch\u00e9ologique et historique", 
+            "title_full": "Bibliothèque archéologique et historique", 
             "url": "http://books.openedition.org/ifpo/396"
         }, 
         {
-            "title_full": "Le comt\u00e9 de Tripoli sous la dynastie toulousaine (1102-1187) Jean Richard 1945 ..", 
+            "title_full": "Le comté de Tripoli sous la dynastie toulousaine (1102-1187) Jean Richard 1945 ..", 
             "url": "http://books.openedition.org/ifpo/4443"
         }, 
         {
-            "title_full": "Institutions des S\u00e9leucides Elias Joseph Bickerman 1938 ..", 
+            "title_full": "Institutions des Séleucides Elias Joseph Bickerman 1938 ..", 
             "url": "http://books.openedition.org/ifpo/5413"
         }, 
         {
-            "title_full": "La p\u00e9n\u00e9tration des Arabes en Syrie avant l\u2019Islam Ren\u00e9 Dussaud 1955 ..", 
+            "title_full": "La pénétration des Arabes en Syrie avant l’Islam René Dussaud 1955 ..", 
             "url": "http://books.openedition.org/ifpo/6507"
         }, 
         {
-            "title_full": "Libanios et la terre : discours et id\u00e9ologie politique Panagiotis N. Doukellis 1995 ..", 
+            "title_full": "Libanios et la terre : discours et idéologie politique Panagiotis N. Doukellis 1995 ..", 
             "url": "http://books.openedition.org/ifpo/6091"
         }, 
         {
-            "title_full": "Le Comt\u00e9 d\u2019\u00c9desse (1098-1150) Monique Amouroux-Mourad 1988 ..", 
+            "title_full": "Le Comté d’Édesse (1098-1150) Monique Amouroux-Mourad 1988 ..", 
             "url": "http://books.openedition.org/ifpo/6477"
         }, 
         {
-            "title_full": "Le sacr\u00e9 et le salut \u00e0 Antioche au IV e si\u00e8cle apr. J.-C. Pratiques festives et comportements religieux dans le processus de christianisation de la cit\u00e9 Emmanuel Soler 2006 ..", 
+            "title_full": "Le sacré et le salut à Antioche au IV e siècle apr. J.-C. Pratiques festives et comportements religieux dans le processus de christianisation de la cité Emmanuel Soler 2006 ..", 
             "url": "http://books.openedition.org/ifpo/4057"
         }, 
         {
-            "title_full": "Les lois des b\u00e2timents Voisinage et habitat urbain dans l\u2019Empire romain. Recherches sur les rapports entre le droit et la construction priv\u00e9e du si\u00e8cle d\u2019Auguste au si\u00e8cle de Justinien Catherine Saliou 1994 ..", 
+            "title_full": "Les lois des bâtiments Voisinage et habitat urbain dans l’Empire romain. Recherches sur les rapports entre le droit et la construction privée du siècle d’Auguste au siècle de Justinien Catherine Saliou 1994 ..", 
             "url": "http://books.openedition.org/ifpo/6125"
         }, 
         {
-            "title_full": "La Syrie antique et m\u00e9di\u00e9vale illustr\u00e9e Ren\u00e9 Dussaud , Paul Deschamp et Henri Seyrig 1931 ..", 
+            "title_full": "La Syrie antique et médiévale illustrée René Dussaud , Paul Deschamp et Henri Seyrig 1931 ..", 
             "url": "http://books.openedition.org/ifpo/3677"
         }, 
         {
-            "title_full": "Topographie historique de la Syrie antique et m\u00e9di\u00e9vale Ren\u00e9 Dussaud 1927 ..", 
+            "title_full": "Topographie historique de la Syrie antique et médiévale René Dussaud 1927 ..", 
             "url": "http://books.openedition.org/ifpo/3692"
         }, 
         {
-            "title_full": "Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIV e et XV e si\u00e8cles) Jean Richard 1962 ..", 
+            "title_full": "Chypre sous les Lusignans : documents chypriotes des archives du Vatican (XIV e et XV e siècles) Jean Richard 1962 ..", 
             "url": "http://books.openedition.org/ifpo/4812"
         }, 
         {
-            "title_full": "Libanius et la vie municipale \u00e0 Antioche au IV e si\u00e8cle apr\u00e8s J.-C. Paul Petit 1955 ..", 
+            "title_full": "Libanius et la vie municipale à Antioche au IV e siècle après J.-C. Paul Petit 1955 ..", 
             "url": "http://books.openedition.org/ifpo/5151"
         }, 
         {
@@ -202,11 +202,11 @@
             "url": "http://books.openedition.org/ifpo/4334"
         }, 
         {
-            "title_full": "Sidon et la Ph\u00e9nicie m\u00e9ridionale au Bronze r\u00e9cent \u00c0 propos des tombes de Dakerman Roger Sa\u00efdah 2004 ..", 
+            "title_full": "Sidon et la Phénicie méridionale au Bronze récent À propos des tombes de Dakerman Roger Saïdah 2004 ..", 
             "url": "http://books.openedition.org/ifpo/3712"
         }, 
         {
-            "title_full": "Strat\u00e9gies d'acquisition de l'eau et soci\u00e9t\u00e9 au Moyen-Orient depuis l'Antiquit\u00e9 Mohamed Al-Dbiyat et Michel Mouton 2009 ..", 
+            "title_full": "Stratégies d'acquisition de l'eau et société au Moyen-Orient depuis l'Antiquité Mohamed Al-Dbiyat et Michel Mouton 2009 ..", 
             "url": "http://books.openedition.org/ifpo/1053"
         }, 
         {
@@ -218,11 +218,11 @@
             "url": "http://books.openedition.org/ifpo/3763"
         }, 
         {
-            "title_full": "L\u2019\u00e9poque des premiers bourgs fortifi\u00e9s Pertinence de l\u2019existence d\u2019un processus d\u2019urbanisation dans le Levant sud au troisi\u00e8me mill\u00e9naire Christophe Nicolle . 1999 ... And see AWOL's Alphabetical List of Open Access Monograph Series in Ancient Studies", 
+            "title_full": "L’époque des premiers bourgs fortifiés Pertinence de l’existence d’un processus d’urbanisation dans le Levant sud au troisième millénaire Christophe Nicolle . 1999 ... And see AWOL's Alphabetical List of Open Access Monograph Series in Ancient Studies", 
             "url": "http://books.openedition.org/ifpo/3739"
         }
     ], 
-    "title": "Biblioth\u00e8que arch\u00e9ologique et historique", 
+    "title": "Bibliothèque archéologique et historique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

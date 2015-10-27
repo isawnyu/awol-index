@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", Atti del Convegno Internazionale di Studi, Napoli, 3-4-5 marzo 2005, a cura di Michaela B\u00f6hmig - Antonella D\u2019Amelia, Universit\u00e0 degli Studi di Napoli: L\u2019Orientale, Dipartimento di Studi dell\u2019Europa Orientale, Napoli, M. D\u2019Auria Editore, 2007, [Hungarica et Slavica, 4], collana diretta da Amedeo Di Francesco - Boris Uspenskij - Aleksander Wilko\u0144, 508 pp. (Judit Papp), p. 149.", 
+    "description": ", Atti del Convegno Internazionale di Studi, Napoli, 3-4-5 marzo 2005, a cura di Michaela Böhmig - Antonella D’Amelia, Università degli Studi di Napoli: L’Orientale, Dipartimento di Studi dell’Europa Orientale, Napoli, M. D’Auria Editore, 2007, [Hungarica et Slavica, 4], collana diretta da Amedeo Di Francesco - Boris Uspenskij - Aleksander Wilkoń, 508 pp. (Judit Papp), p. 149.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9039930559165941759", 
             "resource_date": "2013-10-29T16:32:41.907-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:15.018891"
+            "when": "2015-10-27T18:49:12.743144"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-orientalia.html", 
             "resource_date": "2013-10-29T16:32:41.907-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:15.018907"
+            "when": "2015-10-27T18:49:12.743162"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Le capitali nei paesi dell\u2019Europa Centrale e Orientale: Centri politici e laboratori culturali", 
+    "title": "Le capitali nei paesi dell’Europa Centrale e Orientale: Centri politici e laboratori culturali", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

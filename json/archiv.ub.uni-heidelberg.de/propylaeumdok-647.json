@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zwischen Original und F\u00e4lschung. Zur Ambivalenz der Nachahmung in der Antikenrezeption. 2006, pp. 46-56. Kunze, Max (1983).", 
+    "description": "In: Zwischen Original und Fälschung. Zur Ambivalenz der Nachahmung in der Antikenrezeption. 2006, pp. 46-56. Kunze, Max (1983).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:38.427326"
+            "when": "2015-10-27T18:48:32.464160"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:38.427343"
+            "when": "2015-10-27T18:48:32.464178"
         }
     ], 
     "publishers": [], 

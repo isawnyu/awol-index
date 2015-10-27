@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011).", 
+    "description": "The Topographical Bibliography working list of objects in Ägyptisches Museum in Berlin has been updated. (July 14, 2011).", 
     "domain": "www.griffith.ox.ac.uk", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.376660"
+            "when": "2015-10-27T18:46:59.820260"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.376683"
+            "when": "2015-10-27T18:46:59.820271"
         }
     ], 
     "publishers": [], 

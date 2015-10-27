@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2986200580991837056", 
             "resource_date": "2014-07-11T09:36:26.619-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:58.694166"
+            "when": "2015-10-27T18:39:07.020652"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/ara-pacis-augustae-online.html", 
             "resource_date": "2014-07-11T09:36:26.619-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:58.694191"
+            "when": "2015-10-27T18:39:07.020668"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2986200580991837056", 
             "resource_date": "2014-07-11T09:36:26.619-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:58.695823"
+            "when": "2015-10-27T18:39:07.022379"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/ara-pacis-augustae-online.html", 
             "resource_date": "2014-07-11T09:36:26.619-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:58.695835"
+            "when": "2015-10-27T18:39:07.022391"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:58.736095"
+            "when": "2015-10-27T18:39:07.064044"
         }
     ], 
     "publishers": [], 

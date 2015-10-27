@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Travellers\u2019Graffiti from Egypt and the Sudan. Roger O. De KeersmaeckerBiography. In Memoriam. Articles. Books. Reviews. Additional Information. Interview.", 
+    "description": "Travellers’Graffiti from Egypt and the Sudan. Roger O. De KeersmaeckerBiography. In Memoriam. Articles. Books. Reviews. Additional Information. Interview.", 
     "domain": "www.egypt-sudan-graffiti.be", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Travellers\u2019Graffiti from Egypt and the Sudan", 
+        "title_full": "Travellers’Graffiti from Egypt and the Sudan", 
         "url": "http://www.egypt-sudan-graffiti.be/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7935221463227762859", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.776670"
+            "when": "2015-10-27T18:46:50.996645"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/travellersgraffiti-from-egypt-and-sudan.html", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.776685"
+            "when": "2015-10-27T18:46:50.996657"
         }
     ], 
     "publishers": [], 

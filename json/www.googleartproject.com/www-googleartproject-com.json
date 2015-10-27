@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Google Art Project. The Art Project is a collaboration between Google and 151 acclaimed art partners from across 40 countries. Using a combination of various Google technologies and expert information provided by our museum partners, we have created a unique online art experience. Users can explore a wide range of artworks at brushstroke level detail, take a virtual tour of a museum and even build their own collections to share. With a team of Googlers working across many product areas we are able to harness the best of Google to power the Art Project experience. Few people will ever be lucky enough to be able to visit every museum or see every work of art they\u2019re interested in but now many more can enjoy over 30 000 works of art from sculpture to architecture and drawings and explore over 150 collections from 40 countries, all in one place. We\u2019re also lucky at Google to have the technology to make this kind of project a reality. How to use the site. Simply select a museum from the homepage and then either choose \u2018Explore the museum\u2019 or \u2018View Artwork\u2019. Once you are in the main site use the drop-down menus or the side info bar to navigate between artworks and museums. Finally create and share your own collections online. Collections.", 
+    "description": "Google Art Project. The Art Project is a collaboration between Google and 151 acclaimed art partners from across 40 countries. Using a combination of various Google technologies and expert information provided by our museum partners, we have created a unique online art experience. Users can explore a wide range of artworks at brushstroke level detail, take a virtual tour of a museum and even build their own collections to share. With a team of Googlers working across many product areas we are able to harness the best of Google to power the Art Project experience. Few people will ever be lucky enough to be able to visit every museum or see every work of art they’re interested in but now many more can enjoy over 30 000 works of art from sculpture to architecture and drawings and explore over 150 collections from 40 countries, all in one place. We’re also lucky at Google to have the technology to make this kind of project a reality. How to use the site. Simply select a museum from the homepage and then either choose ‘Explore the museum’ or ‘View Artwork’. Once you are in the main site use the drop-down menus or the side info bar to navigate between artworks and museums. Finally create and share your own collections online. Collections.", 
     "domain": "www.googleartproject.com", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7177906525624949844", 
             "resource_date": "2012-04-05T06:15:40.536-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:49.070588"
+            "when": "2015-10-27T18:45:31.337373"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/google-art-project.html", 
             "resource_date": "2012-04-05T06:15:40.536-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:49.070603"
+            "when": "2015-10-27T18:45:31.337389"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7177906525624949844", 
             "resource_date": "2012-04-05T06:15:40.536-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:49.075203"
+            "when": "2015-10-27T18:45:31.342430"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/google-art-project.html", 
             "resource_date": "2012-04-05T06:15:40.536-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:49.075216"
+            "when": "2015-10-27T18:45:31.342444"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:49.081046"
+            "when": "2015-10-27T18:45:31.349430"
         }
     ], 
     "publishers": [], 

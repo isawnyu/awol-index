@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (\u00e4ltere Jahrg\u00e4nge).", 
+    "description": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (ältere Jahrgänge).", 
     "domain": "rzblx1.uni-regensburg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (\u00e4ltere Jahrg\u00e4nge)", 
+        "title_full": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (ältere Jahrgänge)", 
         "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=de&jour_id=35693"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8307488469633205592", 
             "resource_date": "2010-01-25T15:49:17.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:20.634159"
+            "when": "2015-10-27T18:47:08.764880"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/four-additional-open-access-journals.html", 
             "resource_date": "2010-01-25T15:49:17.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:20.634176"
+            "when": "2015-10-27T18:47:08.764895"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8307488469633205592", 
             "resource_date": "2010-01-25T15:49:17.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:20.635992"
+            "when": "2015-10-27T18:47:08.766651"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/four-additional-open-access-journals.html", 
             "resource_date": "2010-01-25T15:49:17.129-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:20.636006"
+            "when": "2015-10-27T18:47:08.766662"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:20.641946"
+            "when": "2015-10-27T18:47:08.773049"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (\u00e4ltere Jahrg\u00e4nge)", 
+            "title_full": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (ältere Jahrgänge)", 
             "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=de&jour_id=35693"
         }, 
         {
@@ -151,15 +151,15 @@
             "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=de&jour_id=35272"
         }, 
         {
-            "title_full": "La Revue Latine: Journal de Litterature Compar\u00e9e", 
+            "title_full": "La Revue Latine: Journal de Litterature Comparée", 
             "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=de&jour_id=35657"
         }, 
         {
-            "title_full": "Rheinisches Museum f\u00fcr Philologie", 
+            "title_full": "Rheinisches Museum für Philologie", 
             "url": "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?bibid=AAAAA&colors=7&lang=de&jour_id=67309"
         }
     ], 
-    "title": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (\u00e4ltere Jahrg\u00e4nge)", 
+    "title": "Archivum Latinitatis Medii Aevi (ALMA): Bulletin Du Cange (ältere Jahrgänge)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

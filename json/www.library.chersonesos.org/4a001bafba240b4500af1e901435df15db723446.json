@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission. Altogether 37 volumes were issued (1866-1918).", 
+    "description": "Материалы по Археологии России - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission. Altogether 37 volumes were issued (1866-1918).", 
     "domain": "www.library.chersonesos.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8360981738578768290", 
             "resource_date": "2011-03-11T10:03:46.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:22.443028"
+            "when": "2015-10-27T18:47:10.668104"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal_11.html", 
             "resource_date": "2011-03-11T10:03:46.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:22.443046"
+            "when": "2015-10-27T18:47:10.668121"
         }
     ], 
     "publishers": [], 
@@ -289,7 +289,7 @@
             "url": "http://www.library.chersonesos.org/getfile.php?tome_code=245&ext=djvu"
         }, 
         {
-            "title_full": "\u041cAR no. 27 (1902)", 
+            "title_full": "МAR no. 27 (1902)", 
             "url": "http://www.library.chersonesos.org/showtome.php?tome_code=246&section_code=7"
         }, 
         {
@@ -305,7 +305,7 @@
             "url": "http://www.library.chersonesos.org/getfile.php?tome_code=247&ext=djvu"
         }, 
         {
-            "title_full": "\u041cAR no. 29 (1903)", 
+            "title_full": "МAR no. 29 (1903)", 
             "url": "http://www.library.chersonesos.org/showtome.php?tome_code=248&section_code=7"
         }, 
         {
@@ -377,9 +377,9 @@
             "url": "http://www.library.chersonesos.org/getfile.php?tome_code=256&ext=djvu"
         }
     ], 
-    "title": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438", 
+    "title": "Материалы по Археологии России", 
     "title_alternates": [], 
-    "title_extended": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission", 
+    "title_extended": "Материалы по Археологии России - Materials for the Archaeology of Russia, Published by the Imperial Archaeological Commission", 
     "type": null, 
     "url": "http://www.library.chersonesos.org/showsection.php?section_code=7", 
     "url_alternates": [], 

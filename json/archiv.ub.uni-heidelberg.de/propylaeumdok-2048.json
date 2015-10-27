@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Textes et languages de l\u2019\u00c9gypte pharaonique. Cent cinquante ann\u00e9es de recherches 1822 - 1972. Kairo 1974, pp. 167-176 (Biblioth\u00e8que d' \u00c9tude; LXIV/1). Schenkel, Wolfgang (1964).", 
+    "description": "In: Textes et languages de l’Égypte pharaonique. Cent cinquante années de recherches 1822 - 1972. Kairo 1974, pp. 167-176 (Bibliothèque d' Étude; LXIV/1). Schenkel, Wolfgang (1964).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:01.535097"
+            "when": "2015-10-27T18:40:13.235051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:01.535115"
+            "when": "2015-10-27T18:40:13.235068"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Neue linguistische Methoden und arbeitstechnische Verfahren in der Erschliessung der \u00e4gyptischen Grammatik", 
+    "title": "Neue linguistische Methoden und arbeitstechnische Verfahren in der Erschliessung der ägyptischen Grammatik", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

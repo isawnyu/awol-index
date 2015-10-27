@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIC 25. Figurines and Other Clay Objects from Sarab and Cay\u00f6n\u00fc. V. B. Morales. 1990.", 
+    "description": "OIC 25. Figurines and Other Clay Objects from Sarab and Cayönü. V. B. Morales. 1990.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5565161802291945297", 
             "resource_date": "2014-06-18T15:16:23.767-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:05.719372"
+            "when": "2015-10-27T18:43:37.603428"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/new-book-from-orienal-institute.html", 
             "resource_date": "2014-06-18T15:16:23.767-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:05.719389"
+            "when": "2015-10-27T18:43:37.603444"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5565161802291945297", 
             "resource_date": "2014-06-18T15:16:23.767-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:05.720934"
+            "when": "2015-10-27T18:43:37.605162"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/new-book-from-orienal-institute.html", 
             "resource_date": "2014-06-18T15:16:23.767-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:05.720946"
+            "when": "2015-10-27T18:43:37.605175"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:05.725335"
+            "when": "2015-10-27T18:43:37.610268"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.721544"
+            "when": "2015-10-27T18:47:14.249978"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.721556"
+            "when": "2015-10-27T18:47:14.249988"
         }, 
         {
             "fields": [
@@ -197,7 +197,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.797675"
+            "when": "2015-10-27T18:47:14.322647"
         }
     ], 
     "publishers": [], 

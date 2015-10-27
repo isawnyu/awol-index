@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Jahreshefte des \u00d6sterreichischen Arch\u00e4ologischen Institutes in Wien, 18 (1915), pp. 66-78. Kekul\u00e9, Reinhard (1888).", 
+    "description": "In: Jahreshefte des Österreichischen Archäologischen Institutes in Wien, 18 (1915), pp. 66-78. Kekulé, Reinhard (1888).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:37.439455"
+            "when": "2015-10-27T18:48:31.167565"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:37.439475"
+            "when": "2015-10-27T18:48:31.167581"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Denkm\u00e4ler des Meter-Kultes", 
+    "title": "Denkmäler des Meter-Kultes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

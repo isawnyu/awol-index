@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Love Archaeology Magazine. Created and run by University of Glasgow archaeology postgrads, Love Archaeology Magazine is published twice a year. We aim to provide a platform for aspiring researchers, but not necessarily a platform solely for new research. We believe that archaeology is a way of thinking about the world, and this can manifest itself through the study of the material remains of the past as easily as the culture of the present. As such, we strive to include both cutting-edge research alongside the musings of archaeologists and non-archaeologists alike which showcase the potential of archaeological modes of thought. Our tone is smart but fun, providing a bridge between a popular archaeology magazine and an academic journal. In other words, anyone can submit! If you\u2019ve got a great idea or even a finished piece, first check out our Style Guide (see link above) then email us at. See the full.", 
+    "description": "Love Archaeology Magazine. Created and run by University of Glasgow archaeology postgrads, Love Archaeology Magazine is published twice a year. We aim to provide a platform for aspiring researchers, but not necessarily a platform solely for new research. We believe that archaeology is a way of thinking about the world, and this can manifest itself through the study of the material remains of the past as easily as the culture of the present. As such, we strive to include both cutting-edge research alongside the musings of archaeologists and non-archaeologists alike which showcase the potential of archaeological modes of thought. Our tone is smart but fun, providing a bridge between a popular archaeology magazine and an academic journal. In other words, anyone can submit! If you’ve got a great idea or even a finished piece, first check out our Style Guide (see link above) then email us at. See the full.", 
     "domain": "lovearchmag.tumblr.com", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2718897921535458309", 
             "resource_date": "2013-01-03T17:31:36.565-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.273195"
+            "when": "2015-10-27T18:38:55.641961"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-love-archaeology.html", 
             "resource_date": "2013-01-03T17:31:36.565-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.273212"
+            "when": "2015-10-27T18:38:55.641977"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2718897921535458309", 
             "resource_date": "2013-01-03T17:31:36.565-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.278373"
+            "when": "2015-10-27T18:38:55.646855"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-love-archaeology.html", 
             "resource_date": "2013-01-03T17:31:36.565-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.278389"
+            "when": "2015-10-27T18:38:55.646870"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:47.280367"
+            "when": "2015-10-27T18:38:55.648775"
         }
     ], 
     "publishers": [], 

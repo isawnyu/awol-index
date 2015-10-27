@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-333344090200729066", 
             "resource_date": "2011-01-24T11:48:29.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:18.664915"
+            "when": "2015-10-27T18:40:32.116500"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/new-partially-open-access-journal.html", 
             "resource_date": "2011-01-24T11:48:29.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:18.664933"
+            "when": "2015-10-27T18:40:32.116513"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-333344090200729066", 
             "resource_date": "2011-01-24T11:48:29.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:18.667015"
+            "when": "2015-10-27T18:40:32.118843"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/new-partially-open-access-journal.html", 
             "resource_date": "2011-01-24T11:48:29.785-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:18.667028"
+            "when": "2015-10-27T18:40:32.118856"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:18.668918"
+            "when": "2015-10-27T18:40:32.120864"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5937794980011251354", 
             "resource_date": "2013-08-18T15:29:23.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:36.438085"
+            "when": "2015-10-27T18:44:10.763333"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/new-open-access-journal-popular.html", 
             "resource_date": "2013-08-18T15:29:23.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:36.438105"
+            "when": "2015-10-27T18:44:10.763350"
         }, 
         {
             "fields": [
@@ -193,7 +193,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:36.457206"
+            "when": "2015-10-27T18:44:10.783129"
         }, 
         {
             "fields": [
@@ -234,13 +234,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5937794980011251354", 
             "resource_date": "2013-08-18T15:29:23.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:36.456225"
+            "when": "2015-10-27T18:44:10.781907"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/new-open-access-journal-popular.html", 
             "resource_date": "2013-08-18T15:29:23.431-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:36.456240"
+            "when": "2015-10-27T18:44:10.781921"
         }, 
         {
             "fields": [
@@ -252,7 +252,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:36.459015"
+            "when": "2015-10-27T18:44:10.785343"
         }
     ], 
     "publishers": [], 

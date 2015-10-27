@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "; of 5 inscriptions relating to phratries (Demotionidai), gen\u0113 (Salaminioi, Euenoridai) and thiasoi:.", 
+    "description": "; of 5 inscriptions relating to phratries (Demotionidai), genē (Salaminioi, Euenoridai) and thiasoi:.", 
     "domain": "www.atticinscriptions.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5278075583802589501", 
             "resource_date": "2015-05-26T11:18:38.987-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:51.982350"
+            "when": "2015-10-27T18:43:23.331036"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/attic-inscriptions-online-aio-update.html", 
             "resource_date": "2015-05-26T11:18:38.987-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:51.982361"
+            "when": "2015-10-27T18:43:23.331047"
         }
     ], 
     "publishers": [], 

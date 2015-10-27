@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista d\u2019Arqueologia de Ponent (RAP). ISSN: 1131-883X. La Revista d\u2019Arqueologia de Ponent (RAP) \u00e9s la publicaci\u00f3 anual de la Unitat d\u2019Arqueologia, Prehist\u00f2ria i Hist\u00f2ria Antiga del Departament d\u2019Hist\u00f2ria de la Universitat de Lleida. S\u2019edita mitjan\u00e7ant un conveni de col\u00b7laboraci\u00f3 amb la Paeria-Ajuntament de Lleida i la Fundaci\u00f3 P\u00fablica Institut d\u2019Estudis Ilerdencs. La RAP publica preferentment articles sobre Prehist\u00f2ria, Arqueologia i Hist\u00f2ria Antiga de la Pen\u00ednsula Ib\u00e8rica i sobre les seves relacions amb Europa i el Mediterrani tant a nivell te\u00f2ric i metodol\u00f2gic com de presentaci\u00f3 de resultats d\u2019excavacions, s\u00edntesis o estudis cr\u00edtics. La llengua de la revista \u00e9s el catal\u00e0 i rep articles en totes les lleng\u00fces oficials de l\u2019Estat, aix\u00ed com en angl\u00e8s, itali\u00e0, franc\u00e8s i alemany. Aplica un sistema d\u2019avaluaci\u00f3 externa per a cadascun dels treballs rebuts (revisi\u00f3 d'experts). The Revista d\u2019Arqueologia de Ponent (RAP) is an annual publication of the Archaeology, Prehistory and Ancient History Unit of the University of Lleida History Department. It is published through a cooperation agreement with the Lleida City Council and the Institut d\u2019Estudis Ilerdencs Public Foundation. The journal mainly publishes reports on the prehistory, archaeology and ancient history of the Iberian Peninsula and its links to Europe and the Mediterranean in the theoretical and methodological fields, as well as presenting excavation results, summaries and critical studies. All the articles received are peer reviewed. See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Revista d’Arqueologia de Ponent (RAP). ISSN: 1131-883X. La Revista d’Arqueologia de Ponent (RAP) és la publicació anual de la Unitat d’Arqueologia, Prehistòria i Història Antiga del Departament d’Història de la Universitat de Lleida. S’edita mitjançant un conveni de col·laboració amb la Paeria-Ajuntament de Lleida i la Fundació Pública Institut d’Estudis Ilerdencs. La RAP publica preferentment articles sobre Prehistòria, Arqueologia i Història Antiga de la Península Ibèrica i sobre les seves relacions amb Europa i el Mediterrani tant a nivell teòric i metodològic com de presentació de resultats d’excavacions, síntesis o estudis crítics. La llengua de la revista és el català i rep articles en totes les llengües oficials de l’Estat, així com en anglès, italià, francès i alemany. Aplica un sistema d’avaluació externa per a cadascun dels treballs rebuts (revisió d'experts). The Revista d’Arqueologia de Ponent (RAP) is an annual publication of the Archaeology, Prehistory and Ancient History Unit of the University of Lleida History Department. It is published through a cooperation agreement with the Lleida City Council and the Institut d’Estudis Ilerdencs Public Foundation. The journal mainly publishes reports on the prehistory, archaeology and ancient history of the Iberian Peninsula and its links to Europe and the Mediterranean in the theoretical and methodological fields, as well as presenting excavation results, summaries and critical studies. All the articles received are peer reviewed. See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.rap.cat", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Revista d\u2019Arqueologia de Ponent", 
+        "title_full": "Revista d’Arqueologia de Ponent", 
         "url": "http://www.rap.cat/cat/index.php?pag=presentacio.php"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1992503680301699712", 
             "resource_date": "2013-10-17T07:08:00.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.950089"
+            "when": "2015-10-27T18:38:14.472996"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-revista.html", 
             "resource_date": "2013-10-17T07:08:00.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.950105"
+            "when": "2015-10-27T18:38:14.473014"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1992503680301699712", 
             "resource_date": "2013-10-17T07:08:00.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.956299"
+            "when": "2015-10-27T18:38:14.480970"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-revista.html", 
             "resource_date": "2013-10-17T07:08:00.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.956312"
+            "when": "2015-10-27T18:38:14.480985"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:07.958428"
+            "when": "2015-10-27T18:38:14.482990"
         }
     ], 
     "publishers": [], 
@@ -151,13 +151,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Revista d\u2019Arqueologia de Ponent (RAP)", 
+            "title_full": "Revista d’Arqueologia de Ponent (RAP)", 
             "url": "http://www.rap.cat/cat/index.php?pag=presentacio.php"
         }
     ], 
-    "title": "Revista d\u2019Arqueologia de Ponent (RAP)", 
+    "title": "Revista d’Arqueologia de Ponent (RAP)", 
     "title_alternates": [], 
-    "title_extended": "Revista d\u2019Arqueologia de Ponent (RAP)", 
+    "title_extended": "Revista d’Arqueologia de Ponent (RAP)", 
     "type": null, 
     "url": "http://www.rap.cat/cat/index.php?pag=presentacio.php", 
     "url_alternates": [], 

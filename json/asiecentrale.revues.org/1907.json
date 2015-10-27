@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019arch\u00e9ologie fran\u00e7aise en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
+        "title_full": "L’archéologie française en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
         "url": "http://asiecentrale.revues.org/1586"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1407540500306198905", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.421278"
+            "when": "2015-10-27T18:37:30.936144"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/one-off-journal-issues-larcheologie.html", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.421292"
+            "when": "2015-10-27T18:37:30.936156"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Johanna Lhuillier , Julio Bendezu-Sarmiento , Olivier Lecomte et Claude Rapin Les cultures \u00e0 c\u00e9ramique model\u00e9e peinte de l\u2019\u00e2ge du fer ancien : quelques pistes de r\u00e9flexion d\u2019apr\u00e8s les exemples de Koktepe, Dzharkutan (Ouzb\u00e9kistan) et Ulug d\u00e9p\u00e9 (Turkm\u00e9nistan) [Texte int\u00e9gral disponible en septembre 2014]", 
+    "title": "Johanna Lhuillier , Julio Bendezu-Sarmiento , Olivier Lecomte et Claude Rapin Les cultures à céramique modelée peinte de l’âge du fer ancien : quelques pistes de réflexion d’après les exemples de Koktepe, Dzharkutan (Ouzbékistan) et Ulug dépé (Turkménistan) [Texte intégral disponible en septembre 2014]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

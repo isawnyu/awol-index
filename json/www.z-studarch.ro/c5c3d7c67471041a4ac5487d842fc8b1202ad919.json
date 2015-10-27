@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anca Ni\u0163oi, Florin M\u0103rginean, George P. Hurezan.", 
+    "description": "Anca Niţoi, Florin Mărginean, George P. Hurezan.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.656436"
+            "when": "2015-10-27T18:43:06.725168"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.656458"
+            "when": "2015-10-27T18:43:06.725189"
         }
     ], 
     "publishers": [], 
@@ -81,7 +81,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Dental Indicators of Stress and Diet Habits of Individuals Discovered in the Ossuary of the Medieval Church in Tau\u0163 (Arad County)", 
+    "title": "Dental Indicators of Stress and Diet Habits of Individuals Discovered in the Ossuary of the Medieval Church in Tauţ (Arad County)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

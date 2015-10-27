@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2754595316880084854", 
             "resource_date": "2013-11-01T15:29:17.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.857639"
+            "when": "2015-10-27T18:38:56.307167"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-journal-notanda-borea.html", 
             "resource_date": "2013-11-01T15:29:17.529-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.857656"
+            "when": "2015-10-27T18:38:56.307190"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7078957257871230677", 
             "resource_date": "2013-11-01T15:24:32.218-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:45.741589"
+            "when": "2015-10-27T18:45:27.566655"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-laetaberis-journal.html", 
             "resource_date": "2013-11-01T15:24:32.218-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:45.741615"
+            "when": "2015-10-27T18:45:27.566666"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:45.754139"
+            "when": "2015-10-27T18:45:27.581393"
         }
     ], 
     "publishers": [], 

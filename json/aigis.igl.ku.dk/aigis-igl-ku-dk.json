@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6498135078300374619", 
             "resource_date": "2014-05-22T16:29:39.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:10.733577"
+            "when": "2015-10-27T18:44:49.031361"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-aigis.html", 
             "resource_date": "2014-05-22T16:29:39.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:10.733596"
+            "when": "2015-10-27T18:44:49.031378"
         }
     ], 
     "publishers": [], 
@@ -79,19 +79,19 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Suethice. Dissertationer, disputationer och dissertations\u00f6vers\u00e4ttningar under 1800-talet", 
+            "title_full": "Suethice. Dissertationer, disputationer och dissertationsöversättningar under 1800-talet", 
             "url": "http://aigis.igl.ku.dk/2014,1/JA-Suethice.pdf"
         }, 
         {
-            "title_full": "Appendix. F\u00f6rteckning \u00f6ver dissertations\u00f6vers\u00e4ttningar under 1800-talet", 
+            "title_full": "Appendix. Förteckning över dissertationsöversättningar under 1800-talet", 
             "url": "http://aigis.igl.ku.dk/2014,1/JA-Suethice-app.pdf"
         }, 
         {
-            "title_full": "Platons Timaeus 31b4 - 32c4: Hvorfor beh\u00f8ver vi to b\u00e5nd mellem ild og jord?", 
+            "title_full": "Platons Timaeus 31b4 - 32c4: Hvorfor behøver vi to bånd mellem ild og jord?", 
             "url": "http://aigis.igl.ku.dk/2014,1/Karasmanis-Timaios.pdf"
         }, 
         {
-            "title_full": "OSTIA ANTICA. Vandhjul og termer - 37 \u00e5r efte", 
+            "title_full": "OSTIA ANTICA. Vandhjul og termer - 37 år efte", 
             "url": "http://aigis.igl.ku.dk/2014,1/TS.JMH-vandhjul.pdf"
         }, 
         {
@@ -99,7 +99,7 @@
             "url": "http://aigis.igl.ku.dk/2014,1/CMT-Platon.pdf"
         }, 
         {
-            "title_full": "Heraklits \u03bb\u03cc\u03b3\u03bf\u03c2", 
+            "title_full": "Heraklits λόγος", 
             "url": "http://aigis.igl.ku.dk/2014,1/JCHT-Heraklit.pdf"
         }, 
         {
@@ -115,7 +115,7 @@
             "url": "http://aigis.igl.ku.dk/2014,1/CGT-Lysias.pdf"
         }, 
         {
-            "title_full": "Overs\u00e6ttelse af udvalgte epigrammer fra Anthologia Graeca", 
+            "title_full": "Oversættelse af udvalgte epigrammer fra Anthologia Graeca", 
             "url": "http://aigis.igl.ku.dk/2014,1/CWN-Anthologi.pdf"
         }, 
         {
@@ -235,7 +235,7 @@
             "url": "http://aigis.igl.ku.dk/AB-J/Forside.html"
         }, 
         {
-            "title_full": "suppl. III: Festskrift til Christian Marinus Taisbak - 80 \u00e5r", 
+            "title_full": "suppl. III: Festskrift til Christian Marinus Taisbak - 80 år", 
             "url": "http://aigis.igl.ku.dk/CMT80/Forside.html"
         }, 
         {

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Minos: Revista de Filolog\u00eda Egea", 
+        "title_full": "Minos: Revista de Filología Egea", 
         "url": "http://campus.usal.es/%7Erevistas_trabajo/index.php/0544-3733/index"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4879755691996232435", 
             "resource_date": "2013-05-22T10:41:36.411-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.992654"
+            "when": "2015-10-27T18:42:42.290369"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-minos.html", 
             "resource_date": "2013-05-22T10:41:36.411-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.992667"
+            "when": "2015-10-27T18:42:42.290381"
         }
     ], 
     "publishers": [], 

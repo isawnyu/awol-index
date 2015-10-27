@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "A. Co\u015fkun: B\u00fcrgerrechtsentzug oder Fremdenausweisung? Studien zu den Rechten von Latinern und weiteren Fremden sowie zum B\u00fcrgerrechtswechsel in der R\u00f6mischen Republik, 2009. (Kaj Sandberg).", 
+    "description": "A. Coşkun: Bürgerrechtsentzug oder Fremdenausweisung? Studien zu den Rechten von Latinern und weiteren Fremden sowie zum Bürgerrechtswechsel in der Römischen Republik, 2009. (Kaj Sandberg).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.424776"
+            "when": "2015-10-27T18:40:19.512127"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.424791"
+            "when": "2015-10-27T18:40:19.512139"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Medien religi\u00f6ser Kommunikation im Imperium Romanum. Hrsg. von G. Sch\u00f6rner - Da. \u0160terbenc Erker, 2008. (Mika Kajava)", 
+    "title": "Medien religiöser Kommunikation im Imperium Romanum. Hrsg. von G. Schörner - Da. Šterbenc Erker, 2008. (Mika Kajava)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

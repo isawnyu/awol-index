@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno. ISSN: 1137-0572. KALAKORIKOS es el fruto de una larga carrera de concienciaci\u00f3n y de lucha en favor del patrimonio hist\u00f3rico-art\u00edstico calagurritano por parte de la Asociaci\u00f3n Amigos de la Historia de Calahorra. Sus objetivos principales son difundir la historia de Calahorra y su comarca, promover estudios e investigaciones, actuar en defensa del patrimonio arqueol\u00f3gico, hist\u00f3rico, art\u00edstico y cultural de esta ciudad. La revista admite colaboraciones de investigadores que centren su \u00e1mbito de trabajo en cualquier aspecto vinculado con Calahorra y su comarca.", 
+    "description": "Kalakorikos: Revista para el estudio, defensa, protección y divulgación del patrimonio histórico, artístico y cultural de Calahorra y su entorno. ISSN: 1137-0572. KALAKORIKOS es el fruto de una larga carrera de concienciación y de lucha en favor del patrimonio histórico-artístico calagurritano por parte de la Asociación Amigos de la Historia de Calahorra. Sus objetivos principales son difundir la historia de Calahorra y su comarca, promover estudios e investigaciones, actuar en defensa del patrimonio arqueológico, histórico, artístico y cultural de esta ciudad. La revista admite colaboraciones de investigadores que centren su ámbito de trabajo en cualquier aspecto vinculado con Calahorra y su comarca.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Kalakorikos: Revista para el estudio, defensa, protecci\u00f3n y divulgaci\u00f3n del patrimonio hist\u00f3rico, art\u00edstico y cultural de Calahorra y su entorno", 
+        "title_full": "Kalakorikos: Revista para el estudio, defensa, protección y divulgación del patrimonio histórico, artístico y cultural de Calahorra y su entorno", 
         "url": "http://dialnet.unirioja.es/servlet/revista?codigo=831"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4128034590350407470", 
             "resource_date": "2014-12-29T10:11:12.001-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:00.683825"
+            "when": "2015-10-27T18:41:23.675530"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/newly-open-access-journal-kalakorikos.html", 
             "resource_date": "2014-12-29T10:11:12.001-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:00.683842"
+            "when": "2015-10-27T18:41:23.675548"
         }
     ], 
     "publishers": [], 

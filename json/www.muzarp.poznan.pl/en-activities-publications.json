@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Poznan Archaeological Museum Open Access Publication. Tell el-Farkha I. Excavations 1998-2011\"Tell el-Farkha I. Excavations 1998-2011\" (Pozna\u0144-Krak\u00f3w, ISBN 978-83-60109) is a volume edited by dr Marek Ch\u0142odnicki, prof. Krzysztof M. Cia\u0142owicz and dr Agnieszka M\u0105czy\u0144ska. It is the first comprehensive scientific publication of one of the most important archaeological sites in Egypt which constantly brings new information concerning the emergence of the united Egyptian state. The book, published by the Pozna\u0144 Archaeological Museum, presents major archaeological discoveries made by the Polish Archaeological Expedition to the Eastern Nile Delta in the years 1998-2011, for over 14 archaeological seasons. Its 460 colour pages, organised in 27 chapters, contain not only the information about artefacts found at the site, but also their wider interpretation complemented with the results of specialised analyses. The publication was prepared as part of the promotion of the project entitled \"The Nile Delta as a centre of cultural exchange between the Upper Egypt and the south Levantin the 4th millennium B. C. \", financed by the Foundation for Polish Science under the Pomost-Powroty Programme. The volume is not meant for sale. The whole circulation will be distributed among scholars studying Egyptian archaeology, and will be dispatched to libraries in Poland and abroad with which the Library of the Pozna\u0144 Archaeologica Museum has an exchange programme. Studies in African Archaeology. Lower Egyptian Communities and Their Interactions with Southern Levant in the 4th Millennium BC, A. M\u0105czy\u0144ska, Studies in African Archaeology, vol. 12, Pozna\u0144, 2013. PL ISSN 0866-9244. ISBN 978-83-60109-33-5. The Nile Delta as a centre of cultural interactions between Upper Egypt and the Southern Levant in 4th millennium BC, pod redakcj\u0105 A. M\u0105czy\u0144skiej, Studies in African Archaeology, vol. 13, Pozna\u0144, 2014. IP ISSN 0866-9244. ISBN 978-83-60109-35-9.", 
+    "description": "Poznan Archaeological Museum Open Access Publication. Tell el-Farkha I. Excavations 1998-2011\"Tell el-Farkha I. Excavations 1998-2011\" (Poznań-Kraków, ISBN 978-83-60109) is a volume edited by dr Marek Chłodnicki, prof. Krzysztof M. Ciałowicz and dr Agnieszka Mączyńska. It is the first comprehensive scientific publication of one of the most important archaeological sites in Egypt which constantly brings new information concerning the emergence of the united Egyptian state. The book, published by the Poznań Archaeological Museum, presents major archaeological discoveries made by the Polish Archaeological Expedition to the Eastern Nile Delta in the years 1998-2011, for over 14 archaeological seasons. Its 460 colour pages, organised in 27 chapters, contain not only the information about artefacts found at the site, but also their wider interpretation complemented with the results of specialised analyses. The publication was prepared as part of the promotion of the project entitled \"The Nile Delta as a centre of cultural exchange between the Upper Egypt and the south Levantin the 4th millennium B. C. \", financed by the Foundation for Polish Science under the Pomost-Powroty Programme. The volume is not meant for sale. The whole circulation will be distributed among scholars studying Egyptian archaeology, and will be dispatched to libraries in Poland and abroad with which the Library of the Poznań Archaeologica Museum has an exchange programme. Studies in African Archaeology. Lower Egyptian Communities and Their Interactions with Southern Levant in the 4th Millennium BC, A. Mączyńska, Studies in African Archaeology, vol. 12, Poznań, 2013. PL ISSN 0866-9244. ISBN 978-83-60109-33-5. The Nile Delta as a centre of cultural interactions between Upper Egypt and the Southern Levant in 4th millennium BC, pod redakcją A. Mączyńskiej, Studies in African Archaeology, vol. 13, Poznań, 2014. IP ISSN 0866-9244. ISBN 978-83-60109-35-9.", 
     "domain": "www.muzarp.poznan.pl", 
     "editors": [], 
     "end_date": null, 
@@ -80,13 +80,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6813619074738987340", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:34.259929"
+            "when": "2015-10-27T18:45:15.041606"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/poznan-archaeological-museum-open.html", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:34.259944"
+            "when": "2015-10-27T18:45:15.041623"
         }, 
         {
             "fields": [
@@ -127,13 +127,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6813619074738987340", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:34.266860"
+            "when": "2015-10-27T18:45:15.047461"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/poznan-archaeological-museum-open.html", 
             "resource_date": "2015-02-08T17:46:34.627-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:34.266878"
+            "when": "2015-10-27T18:45:15.047475"
         }, 
         {
             "fields": [
@@ -147,7 +147,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:34.279439"
+            "when": "2015-10-27T18:45:15.059478"
         }
     ], 
     "publishers": [], 

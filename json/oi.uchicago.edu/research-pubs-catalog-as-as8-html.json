@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.944344"
+            "when": "2015-10-27T18:38:38.998657"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.944358"
+            "when": "2015-10-27T18:38:38.998669"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:52.710016"
+            "when": "2015-10-27T18:43:24.091215"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:52.710035"
+            "when": "2015-10-27T18:43:24.091235"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:52.744326"
+            "when": "2015-10-27T18:43:24.132354"
         }
     ], 
     "publishers": [], 
@@ -139,7 +139,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Laga\u0161. Samuel N. Kramer. Originally published in 1936", 
+    "title": "AS 8. The Sumerian Prefix Forms BE- and BI- in the Time of the Earlier Princes of Lagaš. Samuel N. Kramer. Originally published in 1936", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue d'assyriologie et d'arch\u00e9ologie orientale.", 
+    "description": "Revue d'assyriologie et d'archéologie orientale.", 
     "domain": "www.etana.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8377551444714480184", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.945661"
+            "when": "2015-10-27T18:47:12.341431"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/now-online-journals.html", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.945672"
+            "when": "2015-10-27T18:47:12.341442"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Revue Arch\u00e9ologique", 
+    "title": "Revue Archéologique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

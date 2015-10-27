@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Akkadische Glossare und Indizes (AGI) bearbeitet von Walter Sommerfeld. Belegsammlung. Quellen: Archiv f\u00fcr Orientforschung 25 (1974/1977) - 52 (2011), Beiheft 21 (1986).", 
+    "description": "Akkadische Glossare und Indizes (AGI) bearbeitet von Walter Sommerfeld. Belegsammlung. Quellen: Archiv für Orientforschung 25 (1974/1977) - 52 (2011), Beiheft 21 (1986).", 
     "domain": "dnms.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3665721246389709720", 
             "resource_date": "2014-12-14T10:00:27.422-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.546376"
+            "when": "2015-10-27T18:40:56.386766"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/akkadische-glossare-und-indizes-agi.html", 
             "resource_date": "2014-12-14T10:00:27.422-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.546392"
+            "when": "2015-10-27T18:40:56.386779"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3665721246389709720", 
             "resource_date": "2014-12-14T10:00:27.422-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.548594"
+            "when": "2015-10-27T18:40:56.388951"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/akkadische-glossare-und-indizes-agi.html", 
             "resource_date": "2014-12-14T10:00:27.422-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.548607"
+            "when": "2015-10-27T18:40:56.388963"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:39.551399"
+            "when": "2015-10-27T18:40:56.392688"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN: 1845-7789 (Print). Vjesnik za arheologiju i povijest dalmatinsku je osnovan 1878. godine pod imenom Bullettino di archeologia e storia dalmata, koji je kao stru\u010dno glasilo Arheolo\u0161kog muzeja u Splitu postao jedan od najzna\u010dajnijih arheolo\u0161kih \u010dasopisa u Hrvatskoj i kontinuirano izlazi do danas. Godine 1920. \u010dasopisu (br. 43) je promjenjeno ime u Vjesnik za arheologiju i historiju dalmatinsku (VAHD), a 2005. izlazi pod imenom Vjesnik za arheologiju i povijest dalmatinsku (VAPD). Od osnutka do 2005. godine publicirano je 98 brojeva ovovga \u010dasopisa. Kao znanstvena publikacija sa podru\u010dja arheologije i povijesti u kategorizaciji \u010dasopisa Nacionalnog vije\u0107a za znanost ocijenjen je najve\u0107om ocjenom (a1). Journal of Dalmatian archaeology and history was founded in 1878. as a Bullettino di archeologia e storia Dalmata, which become one of the most important archaeological review in Croatia. Since foundation until 2005. it has been publish 98 numbers of the journal. As a scientific publication on archaeology and history it is review from National council for science as a most excellent (a1 grade).", 
+    "description": "ISSN: 1845-7789 (Print). Vjesnik za arheologiju i povijest dalmatinsku je osnovan 1878. godine pod imenom Bullettino di archeologia e storia dalmata, koji je kao stručno glasilo Arheološkog muzeja u Splitu postao jedan od najznačajnijih arheoloških časopisa u Hrvatskoj i kontinuirano izlazi do danas. Godine 1920. časopisu (br. 43) je promjenjeno ime u Vjesnik za arheologiju i historiju dalmatinsku (VAHD), a 2005. izlazi pod imenom Vjesnik za arheologiju i povijest dalmatinsku (VAPD). Od osnutka do 2005. godine publicirano je 98 brojeva ovovga časopisa. Kao znanstvena publikacija sa područja arheologije i povijesti u kategorizaciji časopisa Nacionalnog vijeća za znanost ocijenjen je najvećom ocjenom (a1). Journal of Dalmatian archaeology and history was founded in 1878. as a Bullettino di archeologia e storia Dalmata, which become one of the most important archaeological review in Croatia. Since foundation until 2005. it has been publish 98 numbers of the journal. As a scientific publication on archaeology and history it is review from National council for science as a most excellent (a1 grade).", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.782285"
+            "when": "2015-10-27T18:43:05.800732"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.782299"
+            "when": "2015-10-27T18:43:05.800743"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-786334668355540556", 
             "resource_date": "2015-01-22T10:31:04.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:52.902577"
+            "when": "2015-10-27T18:46:39.832914"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html", 
             "resource_date": "2015-01-22T10:31:04.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:52.902593"
+            "when": "2015-10-27T18:46:39.832931"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.202777"
+            "when": "2015-10-27T18:46:40.168045"
         }, 
         {
             "fields": [
@@ -184,13 +184,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-786334668355540556", 
             "resource_date": "2015-01-22T10:31:04.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.110816"
+            "when": "2015-10-27T18:46:40.063123"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-vjesnik-za.html", 
             "resource_date": "2015-01-22T10:31:04.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.110832"
+            "when": "2015-10-27T18:46:40.063139"
         }, 
         {
             "fields": [
@@ -204,7 +204,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.209634"
+            "when": "2015-10-27T18:46:40.176142"
         }
     ], 
     "publishers": [], 
@@ -218,7 +218,7 @@
             "url": "http://hrcak.srce.hr/vapd"
         }, 
         {
-            "title_full": "Sto\u010darstvo i gradine na isto\u010dnom Jadranu u bron\u010dano i \u017eeljezno doba: rezultati iskopavanja na gradini Rat 2007.-2010", 
+            "title_full": "Stočarstvo i gradine na istočnom Jadranu u brončano i željezno doba: rezultati iskopavanja na gradini Rat 2007.-2010", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196517"
         }, 
         {
@@ -234,7 +234,7 @@
             "url": "http://hrcak.srce.hr/file/196518"
         }, 
         {
-            "title_full": "Nekropola gradine Velika Mrdakovica - grobovi starijega \u017eeljeznog doba*", 
+            "title_full": "Nekropola gradine Velika Mrdakovica - grobovi starijega željeznog doba*", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196493"
         }, 
         {
@@ -266,7 +266,7 @@
             "url": "http://hrcak.srce.hr/file/196496"
         }, 
         {
-            "title_full": "Helenisti\u010dka reljefna keramika iz Sikula (Resnika)", 
+            "title_full": "Helenistička reljefna keramika iz Sikula (Resnika)", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196497"
         }, 
         {
@@ -282,7 +282,7 @@
             "url": "http://hrcak.srce.hr/file/196498"
         }, 
         {
-            "title_full": "Svjetiljke iz Gr\u010dko-helenisti\u010dke zbirke Arheolo\u0161kog muzeja u Splitu", 
+            "title_full": "Svjetiljke iz Grčko-helenističke zbirke Arheološkog muzeja u Splitu", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196499"
         }, 
         {
@@ -298,7 +298,7 @@
             "url": "http://hrcak.srce.hr/file/196500"
         }, 
         {
-            "title_full": "Nalazi novca s nekropole Vla\u0161ka njiva u Visu", 
+            "title_full": "Nalazi novca s nekropole Vlaška njiva u Visu", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196501"
         }, 
         {
@@ -306,7 +306,7 @@
             "url": "http://hrcak.srce.hr/file/196501"
         }, 
         {
-            "title_full": "The Coin Finds from the Vla\u0161ka njiva Necropolis at Vis", 
+            "title_full": "The Coin Finds from the Vlaška njiva Necropolis at Vis", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196502"
         }, 
         {
@@ -314,7 +314,7 @@
             "url": "http://hrcak.srce.hr/file/196502"
         }, 
         {
-            "title_full": "Anti\u010dki spoliji u ku\u0107i Benzon u Vranjicu", 
+            "title_full": "Antički spoliji u kući Benzon u Vranjicu", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196503"
         }, 
         {
@@ -330,7 +330,7 @@
             "url": "http://hrcak.srce.hr/file/196504"
         }, 
         {
-            "title_full": "Nekoliko novih figuralnih prikaza u Dioklecijanovoj pala\u010di", 
+            "title_full": "Nekoliko novih figuralnih prikaza u Dioklecijanovoj palači", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196505"
         }, 
         {
@@ -338,7 +338,7 @@
             "url": "http://hrcak.srce.hr/file/196505"
         }, 
         {
-            "title_full": "Several New Figural Portrayals in Diocletian\u2019s Palace", 
+            "title_full": "Several New Figural Portrayals in Diocletian’s Palace", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196506"
         }, 
         {
@@ -362,7 +362,7 @@
             "url": "http://hrcak.srce.hr/file/196508"
         }, 
         {
-            "title_full": "Reutilizacija anti\u010dkih sarkofaga i dvojica splitskih kanonika iz XV. i XVI. stolje\u0107a", 
+            "title_full": "Reutilizacija antičkih sarkofaga i dvojica splitskih kanonika iz XV. i XVI. stoljeća", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196509"
         }, 
         {
@@ -378,7 +378,7 @@
             "url": "http://hrcak.srce.hr/file/196510"
         }, 
         {
-            "title_full": "\u0160to je Durana (Hurania, Doranua) iz srednjovjekovnih izvora - Dvorine ili Vranjic?", 
+            "title_full": "Što je Durana (Hurania, Doranua) iz srednjovjekovnih izvora - Dvorine ili Vranjic?", 
             "url": "http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=196511"
         }, 
         {

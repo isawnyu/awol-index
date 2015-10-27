@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "(cited variously as D\u00e9l\u00e9gation en Perse; Mission arch\u00e9ologique de Susiane; Mission arch\u00e9ologique de Perse, and commonly known as MDP).", 
+    "description": "(cited variously as Délégation en Perse; Mission archéologique de Susiane; Mission archéologique de Perse, and commonly known as MDP).", 
     "domain": "www.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Mission arch\u00e9ologique en Iran", 
+        "title_full": "Mission archéologique en Iran", 
         "url": "http://www.archive.org/search.php?query=Mission%20arch%C3%A9ologique%20en%20Iran"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3604156070734272972", 
             "resource_date": "2010-10-01T13:58:47.236-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.844066"
+            "when": "2015-10-27T18:40:49.519681"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/mission-archeologique-en-iran-online.html", 
             "resource_date": "2010-10-01T13:58:47.236-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.844085"
+            "when": "2015-10-27T18:40:49.519697"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3604156070734272972", 
             "resource_date": "2010-10-01T13:58:47.236-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.846407"
+            "when": "2015-10-27T18:40:49.521825"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/mission-archeologique-en-iran-online.html", 
             "resource_date": "2010-10-01T13:58:47.236-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.846418"
+            "when": "2015-10-27T18:40:49.521838"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:33.847787"
+            "when": "2015-10-27T18:40:49.524051"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Mission arch\u00e9ologique en Iran", 
+            "title_full": "Mission archéologique en Iran", 
             "url": "http://www.archive.org/search.php?query=Mission%20arch%C3%A9ologique%20en%20Iran"
         }
     ], 
-    "title": "Mission arch\u00e9ologique en Iran", 
+    "title": "Mission archéologique en Iran", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

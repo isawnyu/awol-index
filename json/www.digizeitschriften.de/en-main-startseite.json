@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3272325571666783067", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.401182"
+            "when": "2015-10-27T18:40:20.598884"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/digizeitschriften.html", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.401199"
+            "when": "2015-10-27T18:40:20.598901"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3272325571666783067", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.404038"
+            "when": "2015-10-27T18:40:20.601563"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/digizeitschriften.html", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.404054"
+            "when": "2015-10-27T18:40:20.601576"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:08.435470"
+            "when": "2015-10-27T18:40:20.630102"
         }
     ], 
     "publishers": [], 
@@ -146,7 +146,7 @@
             "url": "http://www.digizeitschriften.de/en/main/startseite/"
         }, 
         {
-            "title_full": "G\u00f6ttinger Miszellen", 
+            "title_full": "Göttinger Miszellen", 
             "url": "http://www.digizeitschriften.de/resolveppn/PPN522563589"
         }, 
         {
@@ -154,7 +154,7 @@
             "url": "http://www.digizeitschriften.de/en/main/dms/toc/?PPN=PPN558786588"
         }, 
         {
-            "title_full": "Hermes Zeitschrift f\u00fcr klassische Philologie", 
+            "title_full": "Hermes Zeitschrift für klassische Philologie", 
             "url": "http://www.digizeitschriften.de/en/main/dms/toc/?PPN=PPN509862098"
         }, 
         {
@@ -166,7 +166,7 @@
             "url": "http://www.digizeitschriften.de/resolveppn/PPN523141513"
         }, 
         {
-            "title_full": "Studien zur alt\u00e4gyptischen Kultur", 
+            "title_full": "Studien zur altägyptischen Kultur", 
             "url": "http://www.digizeitschriften.de/resolveppn/PPN522563147"
         }, 
         {
@@ -174,19 +174,19 @@
             "url": "http://www.digizeitschriften.de/resolveppn/PPN490492916"
         }, 
         {
-            "title_full": "Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte Romanistische Abteilung", 
+            "title_full": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte Romanistische Abteilung", 
             "url": "http://www.digizeitschriften.de/en/main/dms/toc/?PPN=PPN602167531"
         }, 
         {
-            "title_full": "Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte Kanonistische Abteilung", 
+            "title_full": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte Kanonistische Abteilung", 
             "url": "http://www.digizeitschriften.de/en/main/dms/toc/?PPN=PPN602167337"
         }, 
         {
-            "title_full": "Zeitschrift f\u00fcr christliche Arch\u00e4ologie und Kunst", 
+            "title_full": "Zeitschrift für christliche Archäologie und Kunst", 
             "url": "http://www.digizeitschriften.de/en/main/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-36765"
         }, 
         {
-            "title_full": "* Zeitschrift f\u00fcr deutsches Alterthum", 
+            "title_full": "* Zeitschrift für deutsches Alterthum", 
             "url": "http://www.digizeitschriften.de/main/dms/resolveppn/?PPN=PPN345204107"
         }, 
         {

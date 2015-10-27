@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Marion BOURBON, Jeu th\u00e9\u00e2tral et r\u00e9alit\u00e9 dans le sto\u00efcisme: du possible \"jouable\" \u00e0 la reprise.", 
+    "description": "Marion BOURBON, Jeu théâtral et réalité dans le stoïcisme: du possible \"jouable\" à la reprise.", 
     "domain": "www.zetesis.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquit\u00e9", 
+        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquité", 
         "url": "http://www.zetesis.fr/actes/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1354315617737913649", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.864538"
+            "when": "2015-10-27T18:37:29.264911"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-actes-de-lassociation.html", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.864554"
+            "when": "2015-10-27T18:37:29.264925"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Diane DEMANCHE, Fatalit\u00e9 et libert\u00e9 au c\u0153ur de la guerre civile. Enjeux \u00e9thiques et po\u00e9tiques des modalisations du r\u00e9el dans la Pharsale de Lucain", 
+    "title": "Diane DEMANCHE, Fatalité et liberté au cœur de la guerre civile. Enjeux éthiques et poétiques des modalisations du réel dans la Pharsale de Lucain", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

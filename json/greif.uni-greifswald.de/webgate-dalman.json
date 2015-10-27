@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bilddatenbank des Gustaf-Dalman-Institutes. In Greifswald beherbergt die Theologische Fakult\u00e4t eine europaweit einmalige Sammlung: Das Gustaf-Dalman-Institut dokumentiert das von Bauern und Hirten gepr\u00e4gte Pal\u00e4stina, wie es heute nicht mehr existiert. Schon vor dem Ersten Weltkrieg trug der deutsche Theologe Gustaf Dalman (1855-1941) zusammen, was f\u00fcr ihn das Land der Bibel ausmachte. So verf\u00fcgt das Institut \u00fcber Gesteins- und Pflanzenproben, Haus- und Ackerger\u00e4te, Keramiken, arch\u00e4ologische Kleinfunde, Land- und Reliefkarten, rund 15. 000 historische Fotografien und eine Bibliothek mit rund 5. 000 B\u00e4nden - darunter seltene Drucke des 16. Jahrhunderts. Was sonst Ethnologen, Arch\u00e4ologen, Geographen, Theologen, Botaniker und Mineralogen je f\u00fcr sich betrachten, hat Dalman in Greifswald zu einem Universalbild zusammengef\u00fcgt. Weltweit profitieren Wissenschaftler heute von dieser Sammlung.", 
+    "description": "Bilddatenbank des Gustaf-Dalman-Institutes. In Greifswald beherbergt die Theologische Fakultät eine europaweit einmalige Sammlung: Das Gustaf-Dalman-Institut dokumentiert das von Bauern und Hirten geprägte Palästina, wie es heute nicht mehr existiert. Schon vor dem Ersten Weltkrieg trug der deutsche Theologe Gustaf Dalman (1855-1941) zusammen, was für ihn das Land der Bibel ausmachte. So verfügt das Institut über Gesteins- und Pflanzenproben, Haus- und Ackergeräte, Keramiken, archäologische Kleinfunde, Land- und Reliefkarten, rund 15. 000 historische Fotografien und eine Bibliothek mit rund 5. 000 Bänden - darunter seltene Drucke des 16. Jahrhunderts. Was sonst Ethnologen, Archäologen, Geographen, Theologen, Botaniker und Mineralogen je für sich betrachten, hat Dalman in Greifswald zu einem Universalbild zusammengefügt. Weltweit profitieren Wissenschaftler heute von dieser Sammlung.", 
     "domain": "greif.uni-greifswald.de", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6092475039250304625", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.457648"
+            "when": "2015-10-27T18:44:19.274366"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/bilddatenbank-des-gustaf-dalman.html", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.457663"
+            "when": "2015-10-27T18:44:19.274382"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6092475039250304625", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.464910"
+            "when": "2015-10-27T18:44:19.278871"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/bilddatenbank-des-gustaf-dalman.html", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.464931"
+            "when": "2015-10-27T18:44:19.278886"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:44.513757"
+            "when": "2015-10-27T18:44:19.326592"
         }
     ], 
     "publishers": [], 
@@ -159,23 +159,23 @@
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1365"
         }, 
         {
-            "title_full": "C - s\u00fcdliches Jud\u00e4a", 
+            "title_full": "C - südliches Judäa", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1386"
         }, 
         {
-            "title_full": "D - K\u00fcstenebene und Samaria", 
+            "title_full": "D - Küstenebene und Samaria", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1407"
         }, 
         {
-            "title_full": "E - n\u00f6rdliches Samaria/ s\u00fcdliches Galil\u00e4a", 
+            "title_full": "E - nördliches Samaria/ südliches Galiläa", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1428"
         }, 
         {
-            "title_full": "F - n\u00f6rdliches Galil\u00e4a/ Jordansenke (bis z Toten Meer)", 
+            "title_full": "F - nördliches Galiläa/ Jordansenke (bis z Toten Meer)", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1449"
         }, 
         {
-            "title_full": "G - \u00f6stlich des Jordan: Hermon bis Petra", 
+            "title_full": "G - östlich des Jordan: Hermon bis Petra", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1470"
         }, 
         {
@@ -183,23 +183,23 @@
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1491"
         }, 
         {
-            "title_full": "I - Vegetation/ Lebensweise in Pal\u00e4stina", 
+            "title_full": "I - Vegetation/ Lebensweise in Palästina", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1650"
         }, 
         {
-            "title_full": "K - Religion/ Arch\u00e4ologie", 
+            "title_full": "K - Religion/ Archäologie", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1671"
         }, 
         {
-            "title_full": "L - Vorderer Orient/ arch\u00e4ologische Kleinfunde", 
+            "title_full": "L - Vorderer Orient/ archäologische Kleinfunde", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1692"
         }, 
         {
-            "title_full": "M - J\u00fcdische Kultur und Diverses", 
+            "title_full": "M - Jüdische Kultur und Diverses", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?folder=1713"
         }, 
         {
-            "title_full": "Dalman-Sammlung Arbeit Arch\u00e4ologie - Kulturkreis Arch\u00e4ologie - Objekte Darstellungsformen Geb\u00e4ude allgemein Kultur Kulturst\u00e4tten Landschaft sonstiges", 
+            "title_full": "Dalman-Sammlung Arbeit Archäologie - Kulturkreis Archäologie - Objekte Darstellungsformen Gebäude allgemein Kultur Kulturstätten Landschaft sonstiges", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=184"
         }, 
         {
@@ -207,11 +207,11 @@
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=218"
         }, 
         {
-            "title_full": "Arch\u00e4ologie - Kulturkreis", 
+            "title_full": "Archäologie - Kulturkreis", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=192"
         }, 
         {
-            "title_full": "Arch\u00e4ologie - Objekte", 
+            "title_full": "Archäologie - Objekte", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=200"
         }, 
         {
@@ -219,7 +219,7 @@
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=232"
         }, 
         {
-            "title_full": "Geb\u00e4ude allgemein", 
+            "title_full": "Gebäude allgemein", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=2480"
         }, 
         {
@@ -227,7 +227,7 @@
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=209"
         }, 
         {
-            "title_full": "Kulturst\u00e4tten", 
+            "title_full": "Kulturstätten", 
             "url": "http://greif.uni-greifswald.de/webgate_dalman/index.php?keyword=226"
         }, 
         {

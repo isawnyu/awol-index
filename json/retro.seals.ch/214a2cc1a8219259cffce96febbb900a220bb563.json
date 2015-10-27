@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de l'Association Pro Aventico. ISSN: 1015-115X. Le \"Bulletin de l'Association Pro Aventico\" (BPA) est l?organe de publication des activit\u00e9s du Site et Mus\u00e9e romains d?Avenches; il para\u00eet depuis 1887. Il contient des contributions scientifiques relatives aux fouilles, aux monuments et \u00e0 tous sujets scientifiques touchant de pr\u00e8s ou de loin Aventicum. L'\"Association Pro Aventico\" a \u00e9t\u00e9 fond\u00e9e en 1885 par un groupe de savants soucieux de sauvegarder le site d'Aventicum, la capitale de l?Helv\u00e9tie romaine. Des fouilles syst\u00e9matiques furent entreprises et publi\u00e9es r\u00e9guli\u00e8rement dans le \"Bulletin de l?Association Pro Aventico\". L?organisation des fouilles ayant pass\u00e9 aux mains de la \"Fondation Pro Aventico\" en 1964, l?Association a gard\u00e9 pour t\u00e2che principale de promouvoir les publications scientifiques et de haute vulgarisation tendant \u00e0 faire conna\u00eetre les r\u00e9sultats des fouilles.", 
+    "description": "Bulletin de l'Association Pro Aventico. ISSN: 1015-115X. Le \"Bulletin de l'Association Pro Aventico\" (BPA) est l?organe de publication des activités du Site et Musée romains d?Avenches; il paraît depuis 1887. Il contient des contributions scientifiques relatives aux fouilles, aux monuments et à tous sujets scientifiques touchant de près ou de loin Aventicum. L'\"Association Pro Aventico\" a été fondée en 1885 par un groupe de savants soucieux de sauvegarder le site d'Aventicum, la capitale de l?Helvétie romaine. Des fouilles systématiques furent entreprises et publiées régulièrement dans le \"Bulletin de l?Association Pro Aventico\". L?organisation des fouilles ayant passé aux mains de la \"Fondation Pro Aventico\" en 1964, l?Association a gardé pour tâche principale de promouvoir les publications scientifiques et de haute vulgarisation tendant à faire connaître les résultats des fouilles.", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9198949988784857416", 
             "resource_date": "2014-10-17T09:07:31.875-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:23.795066"
+            "when": "2015-10-27T18:49:22.539853"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-bulletin-de.html", 
             "resource_date": "2014-10-17T09:07:31.875-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:23.795078"
+            "when": "2015-10-27T18:49:22.539866"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8168438252623916245", 
             "resource_date": "2013-12-31T08:13:11.299-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.619786"
+            "when": "2015-10-27T18:47:02.304682"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/coming-soon-international-journal-of.html", 
             "resource_date": "2013-12-31T08:13:11.299-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.619807"
+            "when": "2015-10-27T18:47:02.304703"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8168438252623916245", 
             "resource_date": "2013-12-31T08:13:11.299-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.626723"
+            "when": "2015-10-27T18:47:02.311312"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/coming-soon-international-journal-of.html", 
             "resource_date": "2013-12-31T08:13:11.299-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.626744"
+            "when": "2015-10-27T18:47:02.311331"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:14.629301"
+            "when": "2015-10-27T18:47:02.314675"
         }
     ], 
     "publishers": [], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9066795648570386291", 
             "resource_date": "2014-11-03T16:02:12.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:18.788594"
+            "when": "2015-10-27T18:49:16.845211"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/kritische-bibliographie-der.html", 
             "resource_date": "2014-11-03T16:02:12.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:18.788611"
+            "when": "2015-10-27T18:49:16.845233"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9066795648570386291", 
             "resource_date": "2014-11-03T16:02:12.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:18.790826"
+            "when": "2015-10-27T18:49:16.848577"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/kritische-bibliographie-der.html", 
             "resource_date": "2014-11-03T16:02:12.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:18.790839"
+            "when": "2015-10-27T18:49:16.848620"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:18.811221"
+            "when": "2015-10-27T18:49:16.880172"
         }
     ], 
     "publishers": [], 

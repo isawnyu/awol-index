@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Strocka, Volker Michael (Hrsg. ): Die Regierungszeit des Kaisers Claudius (41-54 n. Chr. ). Umbruch oder Episode? Internationales interdisziplin\u00e4res Symposion aus Anla\u00df des hundertj\u00e4hrigen Jubil\u00e4ums des Arch\u00e4ologischen Instituts der Universit\u00e4t Freiburg i. Br. 16. -18. Februar 1991. Mainz 1994, pp. 221-243. Andreae, Bernard (1968).", 
+    "description": "In: Strocka, Volker Michael (Hrsg. ): Die Regierungszeit des Kaisers Claudius (41-54 n. Chr. ). Umbruch oder Episode? Internationales interdisziplinäres Symposion aus Anlaß des hundertjährigen Jubiläums des Archäologischen Instituts der Universität Freiburg i. Br. 16. -18. Februar 1991. Mainz 1994, pp. 221-243. Andreae, Bernard (1968).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:32.271110"
+            "when": "2015-10-27T18:48:25.284165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:32.271125"
+            "when": "2015-10-27T18:48:25.284181"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zur Einheitlichkeit der Statuenausstattung im Nymph\u00e4um des Kaisers Claudius bei Baiae", 
+    "title": "Zur Einheitlichkeit der Statuenausstattung im Nymphäum des Kaisers Claudius bei Baiae", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

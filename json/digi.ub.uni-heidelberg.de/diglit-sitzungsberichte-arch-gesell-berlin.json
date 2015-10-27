@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sitzungs-Berichte der Arch\u00e4ologischen Gesellschaft zu Berlin. B\u00e4nde 1. Berlin, 1886 2. Berlin, 1886/87 3. Berlin, 1887 4. Berlin, 1887/88 5. Berlin, 1888 6. Berlin, 1888/89 7. Berlin, 1889. See the full.", 
+    "description": "Sitzungs-Berichte der Archäologischen Gesellschaft zu Berlin. Bände 1. Berlin, 1886 2. Berlin, 1886/87 3. Berlin, 1887 4. Berlin, 1887/88 5. Berlin, 1888 6. Berlin, 1888/89 7. Berlin, 1889. See the full.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6062984752607891093", 
             "resource_date": "2011-05-23T14:49:50.985-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.467927"
+            "when": "2015-10-27T18:44:18.336714"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-sitzungs-berichte.html", 
             "resource_date": "2011-05-23T14:49:50.985-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.467943"
+            "when": "2015-10-27T18:44:18.336730"
         }
     ], 
     "publishers": [], 
@@ -106,7 +106,7 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/sitzungsberichte_arch_gesell_berlin1889?sid=187ac22d72370b8300af7cdf2116a0d9"
         }
     ], 
-    "title": "Sitzungs-Berichte der Arch\u00e4ologischen Gesellschaft zu Berlin", 
+    "title": "Sitzungs-Berichte der Archäologischen Gesellschaft zu Berlin", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

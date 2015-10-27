@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Rollinger, Robert (Hrsg. ): Interkulturalit\u00e4t in der Alten Welt: Vorderasien, Hellas, \u00c4gypten und die vielf\u00e4ltigen Ebenen des Kontakts. Wiesbaden 2010, pp. 409-427. Fuchs, Andreas (1997).", 
+    "description": "In: Rollinger, Robert (Hrsg. ): Interkulturalität in der Alten Welt: Vorderasien, Hellas, Ägypten und die vielfältigen Ebenen des Kontakts. Wiesbaden 2010, pp. 409-427. Fuchs, Andreas (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.342482"
+            "when": "2015-10-27T18:46:20.036655"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.342497"
+            "when": "2015-10-27T18:46:20.036671"
         }
     ], 
     "publishers": [], 

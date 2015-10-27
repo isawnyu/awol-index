@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revistas digitalizadas por InterClassica. Antig\u00fcedad y CristianismoCuadernos de Arquitectura RomanaCuadernos de la Fundaci\u00f3n PastorErytheiaEstudios Cl\u00e1sicosEstudios OrientalesMyrtiaSee the full.", 
+    "description": "Revistas digitalizadas por InterClassica. Antigüedad y CristianismoCuadernos de Arquitectura RomanaCuadernos de la Fundación PastorErytheiaEstudios ClásicosEstudios OrientalesMyrtiaSee the full.", 
     "domain": "interclassica.um.es", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4609486013349040248", 
             "resource_date": "2012-07-02T14:56:41.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.291400"
+            "when": "2015-10-27T18:42:06.878744"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journals-from-universidad.html", 
             "resource_date": "2012-07-02T14:56:41.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.291418"
+            "when": "2015-10-27T18:42:06.878757"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4609486013349040248", 
             "resource_date": "2012-07-02T14:56:41.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.293176"
+            "when": "2015-10-27T18:42:06.880463"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journals-from-universidad.html", 
             "resource_date": "2012-07-02T14:56:41.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.293189"
+            "when": "2015-10-27T18:42:06.880477"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:40.304334"
+            "when": "2015-10-27T18:42:06.894361"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
             "url": "http://interclassica.um.es/index.php/interclassica/investigacion/hemeroteca"
         }, 
         {
-            "title_full": "Antig\u00fcedad y Cristianismo", 
+            "title_full": "Antigüedad y Cristianismo", 
             "url": "http://interclassica.um.es/investigacion/hemeroteca/antigueedad_y_cristianismo"
         }, 
         {
@@ -153,7 +153,7 @@
             "url": "http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_arquitectura_romana"
         }, 
         {
-            "title_full": "Cuadernos de la Fundaci\u00f3n Pastor", 
+            "title_full": "Cuadernos de la Fundación Pastor", 
             "url": "http://interclassica.um.es/investigacion/hemeroteca/cuadernos_de_la_fundacion_pastor"
         }, 
         {
@@ -161,7 +161,7 @@
             "url": "http://interclassica.um.es/investigacion/hemeroteca/erytheia"
         }, 
         {
-            "title_full": "Estudios Cl\u00e1sicos", 
+            "title_full": "Estudios Clásicos", 
             "url": "http://interclassica.um.es/investigacion/hemeroteca/estudios_clasicos"
         }, 
         {

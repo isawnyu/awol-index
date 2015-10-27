@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cachette de Karnak et num\u00e9ros \"K\" de G. Legrain", 
+        "title_full": "Cachette de Karnak et numéros \"K\" de G. Legrain", 
         "url": "http://www.ifao.egnet.net/bases/cachette/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2101538204733779680", 
             "resource_date": "2013-01-24T13:50:12.241-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:13.452059"
+            "when": "2015-10-27T18:38:20.632131"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/karnak-cachette-online.html", 
             "resource_date": "2013-01-24T13:50:12.241-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:13.452072"
+            "when": "2015-10-27T18:38:20.632165"
         }
     ], 
     "publishers": [], 

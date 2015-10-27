@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gram\u00e1ticas dialectales.", 
+    "description": "Gramáticas dialectales.", 
     "domain": "www.aula-coptica-barcinonensis.org", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2521478469270116344", 
             "resource_date": "2013-12-12T10:45:29.028-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:39.335754"
+            "when": "2015-10-27T18:38:47.463007"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/aula-coptica-barcinoensis-instrumenta.html", 
             "resource_date": "2013-12-12T10:45:29.028-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:39.335769"
+            "when": "2015-10-27T18:38:47.463018"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gram\u00e1ticas boha\u00edrico", 
+    "title": "Gramáticas bohaírico", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

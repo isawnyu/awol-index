@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3038748884144108299", 
             "resource_date": "2015-03-13T06:54:22.451-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:02.448841"
+            "when": "2015-10-27T18:39:11.120897"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/online-british-mandate-survey-of.html", 
             "resource_date": "2015-03-13T06:54:22.451-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:02.448858"
+            "when": "2015-10-27T18:39:11.120912"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3038748884144108299", 
             "resource_date": "2015-03-13T06:54:22.451-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:02.453103"
+            "when": "2015-10-27T18:39:11.125421"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/online-british-mandate-survey-of.html", 
             "resource_date": "2015-03-13T06:54:22.451-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:02.453117"
+            "when": "2015-10-27T18:39:11.125434"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:02.634452"
+            "when": "2015-10-27T18:39:11.318891"
         }
     ], 
     "publishers": [], 

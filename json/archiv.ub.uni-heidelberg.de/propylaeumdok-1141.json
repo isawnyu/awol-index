@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Niemeyer, H. G. (Hrsg. ): Ph\u00f6nizier im Westen; in: Madrider Beitr\u00e4ge 8. 1982, pp. 15-30. R\u00f6llig, Wolfgang (1973).", 
+    "description": "In: Niemeyer, H. G. (Hrsg. ): Phönizier im Westen; in: Madrider Beiträge 8. 1982, pp. 15-30. Röllig, Wolfgang (1973).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.079089"
+            "when": "2015-10-27T18:46:24.881357"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.079105"
+            "when": "2015-10-27T18:46:24.881374"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Ph\u00f6nizier des Mutterlandes zur Zeit der Kolonisierung", 
+    "title": "Die Phönizier des Mutterlandes zur Zeit der Kolonisierung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

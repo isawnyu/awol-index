@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 19 February 2010. Most recently updated 7 December 2014]. Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres. eISSN - 1969-6663. En 1857, Ernest Desjardins, membre de l'Acad\u00e9mie des Inscriptions et Belles-Lettres, prit l'initiative personnelle de publier pour la premi\u00e8re fois, sous le format maniable d\u2019un volume in-8\u00b0, les Comptes rendus des s\u00e9ances de la Compagnie. A partir de 1865, l'Acad\u00e9mie d\u00e9cida d\u2019assumer elle-m\u00eame la charge de la publication des Comptes rendus des s\u00e9ances, qui fut plac\u00e9e sous l'autorit\u00e9 de son Secr\u00e9taire perp\u00e9tuel. Les CRAI font \u00e9cho \u00e0 l\u2019actualit\u00e9 nationale et internationale des trois grands domaines de recherche qui correspondent aux trois vocations majeures de la Compagnie: arch\u00e9ologie, philologie et histoire. As of 7 December 2014: (1857 -2007), 663 Issues, 25218 Articles.", 
+    "description": "[First posted in AWOL 19 February 2010. Most recently updated 7 December 2014]. Comptes-rendus des séances de l'Académie des Inscriptions et Belles-Lettres. eISSN - 1969-6663. En 1857, Ernest Desjardins, membre de l'Académie des Inscriptions et Belles-Lettres, prit l'initiative personnelle de publier pour la première fois, sous le format maniable d’un volume in-8°, les Comptes rendus des séances de la Compagnie. A partir de 1865, l'Académie décida d’assumer elle-même la charge de la publication des Comptes rendus des séances, qui fut placée sous l'autorité de son Secrétaire perpétuel. Les CRAI font écho à l’actualité nationale et internationale des trois grands domaines de recherche qui correspondent aux trois vocations majeures de la Compagnie: archéologie, philologie et histoire. As of 7 December 2014: (1857 -2007), 663 Issues, 25218 Articles.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Comptes-rendus des s\u00e9ances de l'Acad\u00e9mie des Inscriptions et Belles-Lettres", 
+        "title_full": "Comptes-rendus des séances de l'Académie des Inscriptions et Belles-Lettres", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/crai"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5866005983584945252", 
             "resource_date": "2014-12-07T13:37:37.640-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:29.772043"
+            "when": "2015-10-27T18:44:03.688775"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/02/newly-open-access-journal-comptes.html", 
             "resource_date": "2014-12-07T13:37:37.640-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:29.772061"
+            "when": "2015-10-27T18:44:03.688789"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung. ISSN: 0065-6593.", 
+    "description": "Altbabylonische Briefe in Umschrift und Übersetzung. ISSN: 0065-6593.", 
     "domain": "dlib.nyu.edu", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0065-6593", 
-        "title_full": "Altbabylonische Briefe in Umschrift und \u00dcbersetzung", 
+        "title_full": "Altbabylonische Briefe in Umschrift und Übersetzung", 
         "url": "http://dlib.nyu.edu/ancientworld/series/altbabylonische-briefe-in-umschrift-und-uebersetzung"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126027862145705236", 
             "resource_date": "2015-05-15T13:27:11.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.313004"
+            "when": "2015-10-27T18:44:20.188462"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series.html", 
             "resource_date": "2015-05-15T13:27:11.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.313030"
+            "when": "2015-10-27T18:44:20.188475"
         }
     ], 
     "publishers": [], 
@@ -85,7 +85,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Briefe aus dem Archive des \u0160ama\u0161-\u1e2a\u0101zir in Paris und Oxford (TCL 7 und OECT 3)", 
+    "title": "Briefe aus dem Archive des Šamaš-Ḫāzir in Paris und Oxford (TCL 7 und OECT 3)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

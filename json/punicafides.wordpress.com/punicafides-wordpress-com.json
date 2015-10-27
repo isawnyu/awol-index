@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PUNICA FIDES: Revista de Filolog\u00eda Cl\u00e1sica y de Filosof\u00eda Antigua. ISSN 1988-768X. Hartenstein, Jan (2010): Historia de la filosof\u00eda antigua para alumnos avanzados de instituto, Salamanca. Pic\u00f3n Casas, Javier: - (2008): La noci\u00f3n de \"necessitas\" en la novela antigua, Salamanca. - (2008-2010): Art\u00edculos, Salamanca. - (2010): Mitos y personajes m\u00edticos en el \"corpus aristotelicum\", Salamanca. See the full.", 
+    "description": "PUNICA FIDES: Revista de Filología Clásica y de Filosofía Antigua. ISSN 1988-768X. Hartenstein, Jan (2010): Historia de la filosofía antigua para alumnos avanzados de instituto, Salamanca. Picón Casas, Javier: - (2008): La noción de \"necessitas\" en la novela antigua, Salamanca. - (2008-2010): Artículos, Salamanca. - (2010): Mitos y personajes míticos en el \"corpus aristotelicum\", Salamanca. See the full.", 
     "domain": "punicafides.wordpress.com", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8833089894972725987", 
             "resource_date": "2013-09-06T12:01:18.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:55.974027"
+            "when": "2015-10-27T18:48:51.965173"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-punica-fides.html", 
             "resource_date": "2013-09-06T12:01:18.328-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:55.974047"
+            "when": "2015-10-27T18:48:51.965189"
         }
     ], 
     "publishers": [], 
@@ -88,7 +88,7 @@
     "subordinate_resources": [], 
     "title": "PUNICA FIDES", 
     "title_alternates": [], 
-    "title_extended": "PUNICA FIDES: Revista de Filolog\u00eda Cl\u00e1sica y de Filosof\u00eda Antigua", 
+    "title_extended": "PUNICA FIDES: Revista de Filología Clásica y de Filosofía Antigua", 
     "type": null, 
     "url": "http://punicafides.wordpress.com/", 
     "url_alternates": [], 

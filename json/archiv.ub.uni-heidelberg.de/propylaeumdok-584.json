@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wirbelauer, E. and Hausmann, F. -R. and Paletschek, S. and Speck, D. (Hrsgg. ): Die Freiburger Philosophische Fakult\u00e4t 1920 - 1960. Mitglieder - Strukturen - Vernetzungen. Freiburger Beitr\u00e4ge zur Wissenschafts- und Universit\u00e4tsgeschichte. Neue Folge, Bd. 1. Freiburg, M\u00fcnchen 2006, pp. 303-364. Malitz, J\u00fcrgen (1983).", 
+    "description": "In: Wirbelauer, E. and Hausmann, F. -R. and Paletschek, S. and Speck, D. (Hrsgg. ): Die Freiburger Philosophische Fakultät 1920 - 1960. Mitglieder - Strukturen - Vernetzungen. Freiburger Beiträge zur Wissenschafts- und Universitätsgeschichte. Neue Folge, Bd. 1. Freiburg, München 2006, pp. 303-364. Malitz, Jürgen (1983).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.192155"
+            "when": "2015-10-27T18:48:49.962799"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.192168"
+            "when": "2015-10-27T18:48:49.962812"
         }
     ], 
     "publishers": [], 

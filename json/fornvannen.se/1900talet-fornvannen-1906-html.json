@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Fornv\u00e4nnen", 
+        "title_full": "Fornvännen", 
         "url": "http://fornvannen.se/fornvannen.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6700494801013072138", 
             "resource_date": "2011-07-07T09:15:02.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.456972"
+            "when": "2015-10-27T18:45:07.470719"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-journal-fornvannen.html", 
             "resource_date": "2011-07-07T09:15:02.831-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.456983"
+            "when": "2015-10-27T18:45:07.470731"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8970798832636519686", 
             "resource_date": "2012-01-19T15:14:09.949-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:05.918577"
+            "when": "2015-10-27T18:49:02.714559"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-open-access-journal-fornvannen.html", 
             "resource_date": "2012-01-19T15:14:09.949-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:05.918589"
+            "when": "2015-10-27T18:49:02.714569"
         }, 
         {
             "fields": [
@@ -122,7 +122,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:05.940411"
+            "when": "2015-10-27T18:49:02.735870"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archiv f\u00fcr Orientforschung: Gesamtabk\u00fcrzungsverzeichnis. Gesamtabk\u00fcrzungsverzeichnis, Liste 1 und Liste 2, f\u00fcr Register Assyrologie (Stand:XII 2012) Other online material from AfO. AfO 52InhaltsverzeichnisTabelle I zu N. Wassermann, The Distant Voice of Gilgame\u0161. AfO 52 (2011), p. 2 finden Sie hier als PDF. Die Antwort von J. A. Halloran auf die Rezension von G. Z\u00f3lyomi (AfO 52) zu J. A. Halloran, Sumerian Lexicon. A Dictionary Guide to the Ancient Sumerian Language, Logogram Publishing, Los Angeles 2006, finden Sie hier als PDF. Gesamtabk\u00fcrzungsverzeichnis, Liste 1 und Liste 2, f\u00fcr Register Assyrologie (Stand:XII 2012) AfO 50Die Rezension zu J. Tropper, Ugaritische Grammatik (AOAT 273), Ugarit-Verlag, M\u00fcnster 2000 von D. Pardee (AfO 50) finden Sie hier als PDF.", 
+    "description": "Archiv für Orientforschung: Gesamtabkürzungsverzeichnis. Gesamtabkürzungsverzeichnis, Liste 1 und Liste 2, für Register Assyrologie (Stand:XII 2012) Other online material from AfO. AfO 52InhaltsverzeichnisTabelle I zu N. Wassermann, The Distant Voice of Gilgameš. AfO 52 (2011), p. 2 finden Sie hier als PDF. Die Antwort von J. A. Halloran auf die Rezension von G. Zólyomi (AfO 52) zu J. A. Halloran, Sumerian Lexicon. A Dictionary Guide to the Ancient Sumerian Language, Logogram Publishing, Los Angeles 2006, finden Sie hier als PDF. Gesamtabkürzungsverzeichnis, Liste 1 und Liste 2, für Register Assyrologie (Stand:XII 2012) AfO 50Die Rezension zu J. Tropper, Ugaritische Grammatik (AOAT 273), Ugarit-Verlag, Münster 2000 von D. Pardee (AfO 50) finden Sie hier als PDF.", 
     "domain": "orientalistik.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archiv f\u00fcr Orientforschung: Gesamtabk\u00fcrzungsverzeichnis", 
+        "title_full": "Archiv für Orientforschung: Gesamtabkürzungsverzeichnis", 
         "url": "http://orientalistik.univie.ac.at/de/forschung/publikationen/archiv-fuer-orientforschung/#other"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1774949851153018264", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.034755"
+            "when": "2015-10-27T18:38:02.871585"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/assyriological-abbreviations-list.html", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.034772"
+            "when": "2015-10-27T18:38:02.871602"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1774949851153018264", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.036393"
+            "when": "2015-10-27T18:38:02.873309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/assyriological-abbreviations-list.html", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.036406"
+            "when": "2015-10-27T18:38:02.873321"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:58.047317"
+            "when": "2015-10-27T18:38:02.884396"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Archiv f\u00fcr Orientforschung: Gesamtabk\u00fcrzungsverzeichnis", 
+            "title_full": "Archiv für Orientforschung: Gesamtabkürzungsverzeichnis", 
             "url": "http://orientalistik.univie.ac.at/de/forschung/publikationen/archiv-fuer-orientforschung/#other"
         }, 
         {
@@ -170,7 +170,7 @@
             "url": "http://orientalistik.univie.ac.at/fileadmin/documents/Rezension_Tropper_AOAT273.pdf"
         }
     ], 
-    "title": "Archiv f\u00fcr Orientforschung: Gesamtabk\u00fcrzungsverzeichnis", 
+    "title": "Archiv für Orientforschung: Gesamtabkürzungsverzeichnis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

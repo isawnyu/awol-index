@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Collegium Biblicum \u00c5rsskrift. ISSN: 2246-4158.", 
+    "description": "Collegium Biblicum Årsskrift. ISSN: 2246-4158.", 
     "domain": "ojs.statsbiblioteket.dk", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Collegium Biblicum \u00c5rsskrift", 
+        "title_full": "Collegium Biblicum Årsskrift", 
         "url": "http://ojs.statsbiblioteket.dk/index.php/cb/index"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6067615800505009145", 
             "resource_date": "2015-02-02T14:24:17.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.848057"
+            "when": "2015-10-27T18:44:18.707416"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/opean-access-jurnal-collegium-biblicum.html", 
             "resource_date": "2015-02-02T14:24:17.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.848072"
+            "when": "2015-10-27T18:44:18.707427"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00c5rg. 15 (2011)", 
+    "title": "Årg. 15 (2011)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

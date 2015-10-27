@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Die Digitalisate und die Metadaten dieser Zeitschrift werden von der Universit\u00e4tsbibliothek Heidelberg im Rahmen des DFG-Projekts \"Rezeption der Antike im semanstischen Netz: Buch, Bild und Objekt\" bereitgestellt. Aktuelle Informationen finden Sie auf der.", 
+    "description": "Die Digitalisate und die Metadaten dieser Zeitschrift werden von der Universitätsbibliothek Heidelberg im Rahmen des DFG-Projekts \"Rezeption der Antike im semanstischen Netz: Buch, Bild und Objekt\" bereitgestellt. Aktuelle Informationen finden Sie auf der.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Compte rendu de la Commission Imp\u00e9riale Arch\u00e9ologique", 
+        "title_full": "Compte rendu de la Commission Impériale Archéologique", 
         "url": "http://www.digizeitschriften.de/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-112170"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8979383343922679840", 
             "resource_date": "2013-02-21T10:38:48.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.477926"
+            "when": "2015-10-27T18:49:03.526204"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-compte-rendu-de-la.html", 
             "resource_date": "2013-02-21T10:38:48.734-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.477943"
+            "when": "2015-10-27T18:49:03.526218"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "1882 Compte rendu de la Commission Imp\u00e9riale Arch\u00e9ologique: pour l'ann\u00e9e ..: Pour l'... Band Atlas", 
+    "title": "1882 Compte rendu de la Commission Impériale Archéologique: pour l'année ..: Pour l'... Band Atlas", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

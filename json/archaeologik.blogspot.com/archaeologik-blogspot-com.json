@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archaeologik. ISSN 2197-7283. Archaeologik ist ein wissenschaftlich orientiertes Blog zu Themen aus den Feldern Arch\u00e4ologie und Denkmalschutz. Das Augenmerk gilt weniger sensationellen Neufunden, sondern methodisch-theoretischen und wissenschaftspolitischen Aspekten der Arch\u00e4ologie. Archaeologik ist kein Nachrichtendienst, greift aber oft aktuelle Anl\u00e4\u00dfe auf, um kritische Themen anzusprechen. Archaeologik presents news and thoughts on various aspects of archaeological research and cultural heritage management.", 
+    "description": "Archaeologik. ISSN 2197-7283. Archaeologik ist ein wissenschaftlich orientiertes Blog zu Themen aus den Feldern Archäologie und Denkmalschutz. Das Augenmerk gilt weniger sensationellen Neufunden, sondern methodisch-theoretischen und wissenschaftspolitischen Aspekten der Archäologie. Archaeologik ist kein Nachrichtendienst, greift aber oft aktuelle Anläße auf, um kritische Themen anzusprechen. Archaeologik presents news and thoughts on various aspects of archaeological research and cultural heritage management.", 
     "domain": "archaeologik.blogspot.com", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1839338985267616789", 
             "resource_date": "2013-12-01T09:40:03.125-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:01.698159"
+            "when": "2015-10-27T18:38:07.022116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-archaeologik.html", 
             "resource_date": "2013-12-01T09:40:03.125-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:01.698173"
+            "when": "2015-10-27T18:38:07.022133"
         }
     ], 
     "publishers": [], 
@@ -85,7 +85,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Kulturgut im syrischen B\u00fcrgerkrieg (November 2013)", 
+            "title_full": "Kulturgut im syrischen Bürgerkrieg (November 2013)", 
             "url": "http://archaeologik.blogspot.com/2013/12/kulturgut-im-syrischen-burgerkrieg.html"
         }
     ], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sandro Gorgone, Universit\u00e0 di Messina, Le fenomenologia della religione di Bernhard Welte.", 
+    "description": "Sandro Gorgone, Università di Messina, Le fenomenologia della religione di Bernhard Welte.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.332098"
+            "when": "2015-10-27T18:44:38.800055"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.332109"
+            "when": "2015-10-27T18:44:38.800073"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Umberto Galeazzi, Universit\u00e0 di Chieti, Sulla conoscenza di Dio in Tommaso d'Aquino", 
+    "title": "Umberto Galeazzi, Università di Chieti, Sulla conoscenza di Dio in Tommaso d'Aquino", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

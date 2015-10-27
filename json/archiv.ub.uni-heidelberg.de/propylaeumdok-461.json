@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kussl, R. (Hrsg. ): Alte Texte - Neue Wege [= Dialog Schule Wissenschaft. Klassische Sprachen und Literaturen, Bd. XXXVIII]. M\u00fcnchen 2004, pp. 45-72. M\u00f6llendorff, Peter von (2007).", 
+    "description": "In: Kussl, R. (Hrsg. ): Alte Texte - Neue Wege [= Dialog Schule Wissenschaft. Klassische Sprachen und Literaturen, Bd. XXXVIII]. München 2004, pp. 45-72. Möllendorff, Peter von (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.268004"
+            "when": "2015-10-27T18:48:50.046123"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.268018"
+            "when": "2015-10-27T18:48:50.046138"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Im Grenzland der literarischen Satire: Apuleius\u2019 Metamorphosen", 
+    "title": "Im Grenzland der literarischen Satire: Apuleius’ Metamorphosen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

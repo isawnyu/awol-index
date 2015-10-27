@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 9 December 2012, updated 19 February 2015]. Revista Numism\u00e1tica OMNI. ISSN-e: 2104-8363. La revista OMNI naci\u00f3 en 2009 con el fin de satisfacer una comunidad que desea enriquecer la numism\u00e1tica con lazos hist\u00f3ricos y arqueol\u00f3gicos. Este proyecto est\u00e1 dirigido por un comit\u00e9 editorial y un comit\u00e9 cient\u00edfico internacional. As\u00ed, en OMNI, los arque\u00f3logos, numism\u00e1ticos e historiadores se dan cita para asegurar una cohesi\u00f3n de estos dominios hasta ahora fragmentados. La revista OMNI es semestral. Su distribuci\u00f3n es internacional, principalmente en los pa\u00edses franc\u00f3fonos e hispanohablantes (incluyendo, pues, la mayor\u00eda de los pa\u00edses de Am\u00e9rica del Sur). Los temas cubiertos por OMNI son muy variados ya que la revista publica trabajos numism\u00e1ticos con la \u00fanica condici\u00f3n de que sean originales y validados cient\u00edficamente por el comit\u00e9 cient\u00edfico (evaluaci\u00f3n por los pares, a doble ciego).", 
+    "description": "[First posted in AWOL 9 December 2012, updated 19 February 2015]. Revista Numismática OMNI. ISSN-e: 2104-8363. La revista OMNI nació en 2009 con el fin de satisfacer una comunidad que desea enriquecer la numismática con lazos históricos y arqueológicos. Este proyecto está dirigido por un comité editorial y un comité científico internacional. Así, en OMNI, los arqueólogos, numismáticos e historiadores se dan cita para asegurar una cohesión de estos dominios hasta ahora fragmentados. La revista OMNI es semestral. Su distribución es internacional, principalmente en los países francófonos e hispanohablantes (incluyendo, pues, la mayoría de los países de América del Sur). Los temas cubiertos por OMNI son muy variados ya que la revista publica trabajos numismáticos con la única condición de que sean originales y validados científicamente por el comité científico (evaluación por los pares, a doble ciego).", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Revista Numism\u00e1tica OMNI", 
+        "title_full": "Revista Numismática OMNI", 
         "url": "http://dialnet.unirioja.es/servlet/revista?codigo=19789"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6051825158650478127", 
             "resource_date": "2015-02-19T11:23:54.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.780926"
+            "when": "2015-10-27T18:44:17.593072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-journal-revista-numismatica.html", 
             "resource_date": "2015-02-19T11:23:54.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.780944"
+            "when": "2015-10-27T18:44:17.593085"
         }
     ], 
     "publishers": [], 

@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2991059502125210979", 
             "resource_date": "2011-06-27T10:25:51.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:58.896094"
+            "when": "2015-10-27T18:39:07.241071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/new-open-access-journal-egyptological.html", 
             "resource_date": "2011-06-27T10:25:51.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:58.896107"
+            "when": "2015-10-27T18:39:07.241084"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7562351484380749023", 
             "resource_date": "2014-10-15T08:47:25.525-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:12.718440"
+            "when": "2015-10-27T18:45:57.051640"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-open-access-journal-egyptological.html", 
             "resource_date": "2014-10-15T08:47:25.525-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:12.718467"
+            "when": "2015-10-27T18:45:57.051654"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:12.734582"
+            "when": "2015-10-27T18:45:57.067279"
         }
     ], 
     "publishers": [], 

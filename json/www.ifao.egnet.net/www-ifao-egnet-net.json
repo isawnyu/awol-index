@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "P\u00e9riodiques en ligne.", 
+    "description": "Périodiques en ligne.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,14 +10,14 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "AG\u00c9A: Anthroponymes et G\u00e9n\u00e9alogies de l\u2019\u00c9gypte Ancienne", 
+        "title_full": "AGÉA: Anthroponymes et Généalogies de l’Égypte Ancienne", 
         "url": "http://www.ifao.egnet.net/bases/agea/noms/"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "Institut fran\u00e7ais d'arch\u00e9ologie orientale", 
+        "Institut français d'archéologie orientale", 
         "French"
     ], 
     "languages": [
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1327537518357970663", 
             "resource_date": "2014-01-30T11:17:38.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.122800"
+            "when": "2015-10-27T18:37:28.470024"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/online-anthroponyms-and-genealogy-of.html", 
             "resource_date": "2014-01-30T11:17:38.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.122812"
+            "when": "2015-10-27T18:37:28.470037"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1815233798517663329", 
             "resource_date": "2015-02-27T18:49:58.514-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:00.502442"
+            "when": "2015-10-27T18:38:05.663098"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-le-bulletin-de.html", 
             "resource_date": "2015-02-27T18:49:58.514-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:00.502454"
+            "when": "2015-10-27T18:38:05.663110"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:00.578765"
+            "when": "2015-10-27T18:38:05.758940"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7434132402691421194", 
             "resource_date": "2010-07-05T08:24:20.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:04.868454"
+            "when": "2015-10-27T18:45:48.500503"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/bifao-update.html", 
             "resource_date": "2010-07-05T08:24:20.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:04.868467"
+            "when": "2015-10-27T18:45:48.500516"
         }, 
         {
             "fields": [
@@ -191,7 +191,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:05.143245"
+            "when": "2015-10-27T18:45:48.821872"
         }, 
         {
             "fields": [
@@ -232,13 +232,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7735076758975827661", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.819624"
+            "when": "2015-10-27T18:46:33.225588"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/institut-francais-darcheologie.html", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.819639"
+            "when": "2015-10-27T18:46:33.225604"
         }, 
         {
             "fields": [
@@ -251,7 +251,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:46.845633"
+            "when": "2015-10-27T18:46:33.258914"
         }
     ], 
     "publishers": [], 
@@ -260,7 +260,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Institut fran\u00e7ais d'arch\u00e9ologie orientale", 
+    "title": "Institut français d'archéologie orientale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

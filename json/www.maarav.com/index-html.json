@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-414651272742149728", 
             "resource_date": "2011-10-10T13:24:11.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:01.086862"
+            "when": "2015-10-27T18:41:24.124129"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/maarav-supplementatry-data-online.html", 
             "resource_date": "2011-10-10T13:24:11.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:01.086882"
+            "when": "2015-10-27T18:41:24.124145"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-414651272742149728", 
             "resource_date": "2011-10-10T13:24:11.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:01.088621"
+            "when": "2015-10-27T18:41:24.126059"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/maarav-supplementatry-data-online.html", 
             "resource_date": "2011-10-10T13:24:11.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:01.088633"
+            "when": "2015-10-27T18:41:24.126073"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:01.095635"
+            "when": "2015-10-27T18:41:24.136035"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "(Click to download). J. Lundon. The Scholia Minora in Homerum. An Alphabetical List. Version 1. 0 (November 2012), K\u00f6ln / Leuven 2012, 250 pp. (2. 0 Mb). ISBN: 978-94-9060-407-3. TOP 8. Y. Broux. Double Names in Roman Egypt: A Prosopography. Version 1. 0 (forthcoming 2014), Leuven 2014. Further volumes are in preparation. Out of the TOP series: J. France. Theadelpheia and Euhemereia. Village History in Graeco-Roman Egypt. Leuven, 1999 (.", 
+    "description": "(Click to download). J. Lundon. The Scholia Minora in Homerum. An Alphabetical List. Version 1. 0 (November 2012), Köln / Leuven 2012, 250 pp. (2. 0 Mb). ISBN: 978-94-9060-407-3. TOP 8. Y. Broux. Double Names in Roman Egypt: A Prosopography. Version 1. 0 (forthcoming 2014), Leuven 2014. Further volumes are in preparation. Out of the TOP series: J. France. Theadelpheia and Euhemereia. Village History in Graeco-Roman Egypt. Leuven, 1999 (.", 
     "domain": "www.trismegistos.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.710320"
+            "when": "2015-10-27T18:40:34.376435"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.710332"
+            "when": "2015-10-27T18:40:34.376455"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4569376484981262742", 
             "resource_date": "2014-07-18T09:34:47.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:30.074583"
+            "when": "2015-10-27T18:41:55.906371"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-monograph-series.html", 
             "resource_date": "2014-07-18T09:34:47.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:30.074610"
+            "when": "2015-10-27T18:41:55.906384"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:30.098984"
+            "when": "2015-10-27T18:41:55.934454"
         }
     ], 
     "publishers": [], 

@@ -3,7 +3,7 @@
         "Schintlmeister, Luise"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Ladst\u00e4tter, Sabine", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Ladstätter, Sabine", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.705458"
+            "when": "2015-10-27T18:36:58.354030"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.705477"
+            "when": "2015-10-27T18:36:58.354046"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.941460"
+            "when": "2015-10-27T18:36:58.625806"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.941472"
+            "when": "2015-10-27T18:36:58.625819"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.481381"
+            "when": "2015-10-27T18:36:59.267932"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:58.260051"
+            "when": "2015-10-27T18:36:58.990693"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:58.260062"
+            "when": "2015-10-27T18:36:58.990704"
         }, 
         {
             "fields": [
@@ -190,7 +190,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.560696"
+            "when": "2015-10-27T18:36:59.380817"
         }
     ], 
     "publishers": [], 
@@ -200,11 +200,11 @@
             "url": "http://othes.univie.ac.at/view/subjects/15=2E27.html"
         }, 
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }, 
         {
-            "title_full": "R\u00f6misches Reich", 
+            "title_full": "Römisches Reich", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E28.html"
         }
     ], 

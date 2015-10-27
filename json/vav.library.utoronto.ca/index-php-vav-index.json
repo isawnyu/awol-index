@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "vis-\u00e0-vis: Explorations in Anthropology is an academic forum dedicated to publishing graduate student work from any of the anthropology sub-fields. The journal is published exclusively in online form and all articles published since 2008 are available under a Creative Commons license. Our aim is to recognize outstanding scholarly works within and beyond the University of Toronto. vis-\u00e1-vis welcomes submissions from graduate students and faculty affiliated with recognized institutions in Canada. Submissions may include research articles and book reviews.", 
+    "description": "vis-à-vis: Explorations in Anthropology is an academic forum dedicated to publishing graduate student work from any of the anthropology sub-fields. The journal is published exclusively in online form and all articles published since 2008 are available under a Creative Commons license. Our aim is to recognize outstanding scholarly works within and beyond the University of Toronto. vis-á-vis welcomes submissions from graduate students and faculty affiliated with recognized institutions in Canada. Submissions may include research articles and book reviews.", 
     "domain": "vav.library.utoronto.ca", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "vis-\u00e0-vis: Explorations in Anthropology", 
+        "title_full": "vis-à-vis: Explorations in Anthropology", 
         "url": "http://vav.library.utoronto.ca/index.php/vav/index"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6988556125933858112", 
             "resource_date": "2011-01-01T09:31:28.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.460647"
+            "when": "2015-10-27T18:45:20.755729"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-journal-vis-vis.html", 
             "resource_date": "2011-01-01T09:31:28.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.460661"
+            "when": "2015-10-27T18:45:20.755745"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6988556125933858112", 
             "resource_date": "2011-01-01T09:31:28.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.463907"
+            "when": "2015-10-27T18:45:20.759420"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/open-access-journal-vis-vis.html", 
             "resource_date": "2011-01-01T09:31:28.700-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.463919"
+            "when": "2015-10-27T18:45:20.759434"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.465268"
+            "when": "2015-10-27T18:45:20.761303"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "vis-\u00e0-vis: Explorations in Anthropology", 
+            "title_full": "vis-à-vis: Explorations in Anthropology", 
             "url": "http://vav.library.utoronto.ca/index.php/vav/index"
         }
     ], 
-    "title": "vis-\u00e0-vis: Explorations in Anthropology", 
+    "title": "vis-à-vis: Explorations in Anthropology", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

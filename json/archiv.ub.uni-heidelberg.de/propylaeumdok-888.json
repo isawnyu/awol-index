@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Bonatz, D. and Czichon, R. M. and Kreppner, J. (Hrsgg. ): Fundstellen: Gesammelte Schriften zur Arch\u00e4ologie und Geschichte Altvorderasiens ad honorem Hartmut K\u00fchne. Wiesbaden 2008, pp. 95-118. Pf\u00e4lzner, Peter (2007).", 
+    "description": "In: Bonatz, D. and Czichon, R. M. and Kreppner, J. (Hrsgg. ): Fundstellen: Gesammelte Schriften zur Archäologie und Geschichte Altvorderasiens ad honorem Hartmut Kühne. Wiesbaden 2008, pp. 95-118. Pfälzner, Peter (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.983728"
+            "when": "2015-10-27T18:46:23.750482"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.983744"
+            "when": "2015-10-27T18:46:23.750498"
         }
     ], 
     "publishers": [], 

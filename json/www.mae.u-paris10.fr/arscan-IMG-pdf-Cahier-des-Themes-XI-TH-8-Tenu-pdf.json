@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DELHOPITAL, N. Des morts et des vivants en Nabat\u00e8ne, p. 287-293.", 
+    "description": "DELHOPITAL, N. Des morts et des vivants en Nabatène, p. 287-293.", 
     "domain": "www.mae.u-paris10.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ArScAn - Histoire et Arch\u00e9ologie de l\u2019Orient Cun\u00e9iforme", 
+        "title_full": "ArScAn - Histoire et Archéologie de l’Orient Cunéiforme", 
         "url": "http://www.mae.u-paris10.fr/arscan/-ArScAn-Histoire-et-Archeologie-de-.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7717632521991657876", 
             "resource_date": "2015-03-20T18:40:00.876-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.446684"
+            "when": "2015-10-27T18:46:32.788776"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/arscan-histoire-et-archeologie-de.html", 
             "resource_date": "2015-03-20T18:40:00.876-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.446695"
+            "when": "2015-10-27T18:46:32.788787"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "TENU, A. Ville des vivants et ville des morts. L\u2019espace fun\u00e9raire en Syrie et M\u00e9sopotamie (IIIe-Ier mill\u00e9naires) , p. 275-285", 
+    "title": "TENU, A. Ville des vivants et ville des morts. L’espace funéraire en Syrie et Mésopotamie (IIIe-Ier millénaires) , p. 275-285", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

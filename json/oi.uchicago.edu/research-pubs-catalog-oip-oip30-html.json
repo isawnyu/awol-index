@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Alishar H\u00fcy\u00fck", 
+        "title_full": "Alishar Hüyük", 
         "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip6.html"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6165299289552557374", 
             "resource_date": "2011-07-30T07:58:05.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:47.810638"
+            "when": "2015-10-27T18:44:23.510841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/newly-online-from-oriental-institutes.html", 
             "resource_date": "2011-07-30T07:58:05.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:47.810650"
+            "when": "2015-10-27T18:44:23.510857"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7003857881950205621", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.665008"
+            "when": "2015-10-27T18:45:20.983429"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-monograph-series-oriental.html", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.665037"
+            "when": "2015-10-27T18:45:20.983521"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.695729"
+            "when": "2015-10-27T18:45:21.011421"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7003857881950205621", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.668649"
+            "when": "2015-10-27T18:45:20.987862"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-monograph-series-oriental.html", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.668667"
+            "when": "2015-10-27T18:45:20.987878"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.697645"
+            "when": "2015-10-27T18:45:21.013646"
         }
     ], 
     "publishers": [], 
@@ -208,15 +208,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "OIP 30. Researches in Anatolia 9. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 3. Hans Henning von der Osten, with contributions by Wilton Marion Krogman and Others. Originally published in 1937", 
+            "title_full": "OIP 30. Researches in Anatolia 9. The Alishar Hüyük Seasons of 1930-32, Part 3. Hans Henning von der Osten, with contributions by Wilton Marion Krogman and Others. Originally published in 1937", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip30.html"
         }, 
         {
-            "title_full": "OIP 29. Researches in Anatolia 8. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 2. Hans Henning von der Osten. Originally published in 1937", 
+            "title_full": "OIP 29. Researches in Anatolia 8. The Alishar Hüyük Seasons of 1930-32, Part 2. Hans Henning von der Osten. Originally published in 1937", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip29.html"
         }, 
         {
-            "title_full": "OIP 28. Researches in Anatolia 7. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 1. Hans Henning von der Osten. Originally published in 1937", 
+            "title_full": "OIP 28. Researches in Anatolia 7. The Alishar Hüyük Seasons of 1930-32, Part 1. Hans Henning von der Osten. Originally published in 1937", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip28.html"
         }, 
         {
@@ -224,19 +224,19 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip27.html"
         }, 
         {
-            "title_full": "OIP 20. Researches in Anatolia 5. The Alishar H\u00fcy\u00fck Seasons of 1928 and 1929, Part 2. Erich F. Schmidt with a chapter by Wilton Marion Krogman. Originally published in 1933", 
+            "title_full": "OIP 20. Researches in Anatolia 5. The Alishar Hüyük Seasons of 1928 and 1929, Part 2. Erich F. Schmidt with a chapter by Wilton Marion Krogman. Originally published in 1933", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip20.html"
         }, 
         {
-            "title_full": "OIP 19. Researches in Anatolia 4. The Alishar H\u00fcy\u00fck Seasons of 1928 and 1929, Part 1. Erich F. Schmidt. Originally published in 1932", 
+            "title_full": "OIP 19. Researches in Anatolia 4. The Alishar Hüyük Seasons of 1928 and 1929, Part 1. Erich F. Schmidt. Originally published in 1932", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip19.html"
         }, 
         {
-            "title_full": "OIP 7. Researches in Anatolia 3. The Alishar H\u00fcy\u00fck Season of 1927, Part 2. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1932", 
+            "title_full": "OIP 7. Researches in Anatolia 3. The Alishar Hüyük Season of 1927, Part 2. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1932", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip7.html"
         }, 
         {
-            "title_full": "OIP 6. Researches in Anatolia 2. The Alishar H\u00fcy\u00fck Season of 1927, Part 1. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1930", 
+            "title_full": "OIP 6. Researches in Anatolia 2. The Alishar Hüyük Season of 1927, Part 1. Hans Henning von der Osten and Erich F. Schmidt. Originally published in 1930", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip6.html"
         }, 
         {
@@ -248,7 +248,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oic/oic11.html"
         }
     ], 
-    "title": "OIP 30. Researches in Anatolia 9. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 3. Hans Henning von der Osten, with contributions by Wilton Marion Krogman and Others. Originally published in 1937", 
+    "title": "OIP 30. Researches in Anatolia 9. The Alishar Hüyük Seasons of 1930-32, Part 3. Hans Henning von der Osten, with contributions by Wilton Marion Krogman and Others. Originally published in 1937", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

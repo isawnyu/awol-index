@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Artigos e S\u00e9ries.", 
+    "description": "Artigos e Séries.", 
     "domain": "aramaico.wordpress.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Aramaico: Una biblioteca sobre a l\u00edngua e cultura aramaica", 
+        "title_full": "Aramaico: Una biblioteca sobre a língua e cultura aramaica", 
         "url": "http://aramaico.wordpress.com/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3974596959369162901", 
             "resource_date": "2013-09-09T17:04:49.211-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:53.419158"
+            "when": "2015-10-27T18:41:15.236631"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/aramaico-una-biblioteca-sobre-lingua-e.html", 
             "resource_date": "2013-09-09T17:04:49.211-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:53.419175"
+            "when": "2015-10-27T18:41:15.236643"
         }
     ], 
     "publishers": [], 

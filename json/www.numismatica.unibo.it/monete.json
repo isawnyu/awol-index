@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-747910771438258465", 
             "resource_date": "2013-07-13T07:33:56.999-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.484478"
+            "when": "2015-10-27T18:45:52.564721"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/monete-al-femminile-database.html", 
             "resource_date": "2013-07-13T07:33:56.999-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.484494"
+            "when": "2015-10-27T18:45:52.564737"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-747910771438258465", 
             "resource_date": "2013-07-13T07:33:56.999-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.486092"
+            "when": "2015-10-27T18:45:52.566355"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/monete-al-femminile-database.html", 
             "resource_date": "2013-07-13T07:33:56.999-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.486103"
+            "when": "2015-10-27T18:45:52.566366"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:08.494821"
+            "when": "2015-10-27T18:45:52.576726"
         }
     ], 
     "publishers": [], 

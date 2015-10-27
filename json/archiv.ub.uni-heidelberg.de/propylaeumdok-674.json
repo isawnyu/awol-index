@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Alonso Troncoso, V. (Hrsg. ): Di\u00e1dochos tes basile\u00edas. La figura del sucesor en las monarqu\u00edas de \u00e9poca helen\u00edstica (= Geri\u00f3n Anejos, vol. 9). Madrid 2005, pp. 45-56. Funke, Peter (2009).", 
+    "description": "In: Alonso Troncoso, V. (Hrsg. ): Diádochos tes basileías. La figura del sucesor en las monarquías de época helenística (= Gerión Anejos, vol. 9). Madrid 2005, pp. 45-56. Funke, Peter (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.781148"
+            "when": "2015-10-27T18:46:45.945466"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.781166"
+            "when": "2015-10-27T18:46:45.945480"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:35.075993"
+            "when": "2015-10-27T18:48:28.620455"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:35.076009"
+            "when": "2015-10-27T18:48:28.620472"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.504892"
+            "when": "2015-10-27T18:48:38.242858"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Philippos III. Arrhidaios und Alexander IV. - \"von Amun auserw\u00e4hlt\"", 
+    "title": "Philippos III. Arrhidaios und Alexander IV. - \"von Amun auserwählt\"", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

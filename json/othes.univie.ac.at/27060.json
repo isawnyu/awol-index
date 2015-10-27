@@ -3,7 +3,7 @@
         "Fabiankowitsch, Anna"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Philologisch-Kulturwissenschaftliche Fakult\u00e4t BetreuerIn: Alram, Michael. Keine Volltext-Freigabe durch VerfasserIn", 
+    "description": "Diplomarbeit, University of Vienna. Philologisch-Kulturwissenschaftliche Fakultät BetreuerIn: Alram, Michael. Keine Volltext-Freigabe durch VerfasserIn", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.324033"
+            "when": "2015-10-27T18:36:57.899124"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.324045"
+            "when": "2015-10-27T18:36:57.899137"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.765793"
+            "when": "2015-10-27T18:36:58.425557"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.765804"
+            "when": "2015-10-27T18:36:58.425568"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.438532"
+            "when": "2015-10-27T18:36:59.212761"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:58.057263"
+            "when": "2015-10-27T18:36:58.763703"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:58.057277"
+            "when": "2015-10-27T18:36:58.763714"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.501123"
+            "when": "2015-10-27T18:36:59.296749"
         }
     ], 
     "publishers": [], 
@@ -202,11 +202,11 @@
             "url": "http://othes.univie.ac.at/view/subjects/15=2E25.html"
         }, 
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }, 
         {
-            "title_full": "R\u00f6misches Reich", 
+            "title_full": "Römisches Reich", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E28.html"
         }
     ], 
@@ -214,7 +214,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Fundm\u00fcnzen der antiken Zivilstadt Lauriacum aus den arch\u00e4ologischen Grabungen der Jahre 1951 - 1959", 
+    "title": "Die Fundmünzen der antiken Zivilstadt Lauriacum aus den archäologischen Grabungen der Jahre 1951 - 1959", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

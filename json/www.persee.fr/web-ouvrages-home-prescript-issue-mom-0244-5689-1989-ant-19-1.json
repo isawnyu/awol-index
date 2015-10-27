@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Collection de la Maison de l'Orient, S\u00e9rie arch\u00e9ologique", 
+        "title_full": "Collection de la Maison de l'Orient, Série archéologique", 
         "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/mom"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7895460914528786993", 
             "resource_date": "2014-06-04T12:52:49.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:00.776294"
+            "when": "2015-10-27T18:46:47.718827"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series-collection.html", 
             "resource_date": "2014-06-04T12:52:49.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:00.776310"
+            "when": "2015-10-27T18:46:47.718848"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Architecture et Po\u00e9sie dans le monde grec. Hommage \u00e0 Georges Roux . 1989", 
+    "title": "Architecture et Poésie dans le monde grec. Hommage à Georges Roux . 1989", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology. ISSN 2344-5548ISSN-L 2344-5548. Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie (ReDIVA) reprezint\u0103 o ini\u0163iativ\u0103 editorial\u0103 a doctoranzilor Universit\u0103\u0163ii \u201eBabe\u015f-Bolyai\" din Cluj-Napoca, cu specializarea \u00een istorie veche \u015fi arheologie. Aceasta a luat na\u015ftere din dorin\u0163a de a \u00eencuraja \u015fi fructifica cercetarea tinerilor \u00een aceste domenii. Misiunea revistei este aceea de a oferi doctoranzilor din centrele universitare na\u0163ionale \u0219i din afara \u021b\u0103rii un spa\u0163iu de dialog \u0219i, \u00een acela\u0219i timp, de a sus\u0163ine tinerii cercet\u0103tori \u00een integrarea lor \u00een mediul academic. Din acest motiv, dar \u0219i pentru a asigura leg\u0103tura \u00eentre genera\u021biile de actuali \u0219i viitori doctoranzi, se accept\u0103 \u015fi lucr\u0103ri ale masteranzilor cu poten\u0163ial. Publica\u0163ia este anual\u0103, iar materialele acoper\u0103 domeniul istoriei antice \u015fi arheologiei, sub forma unor articole, note \u0219i recenzii. Limbile de redactare acceptate sunt: engleza, franceza, germana, italiana \u015fi spaniola. Nr. I / 2013.", 
+    "description": "ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology. ISSN 2344-5548ISSN-L 2344-5548. Revista Doctoranzilor în Istorie Veche şi Arheologie (ReDIVA) reprezintă o iniţiativă editorială a doctoranzilor Universităţii „Babeş-Bolyai\" din Cluj-Napoca, cu specializarea în istorie veche şi arheologie. Aceasta a luat naştere din dorinţa de a încuraja şi fructifica cercetarea tinerilor în aceste domenii. Misiunea revistei este aceea de a oferi doctoranzilor din centrele universitare naţionale și din afara țării un spaţiu de dialog și, în același timp, de a susţine tinerii cercetători în integrarea lor în mediul academic. Din acest motiv, dar și pentru a asigura legătura între generațiile de actuali și viitori doctoranzi, se acceptă şi lucrări ale masteranzilor cu potenţial. Publicaţia este anuală, iar materialele acoperă domeniul istoriei antice şi arheologiei, sub forma unor articole, note și recenzii. Limbile de redactare acceptate sunt: engleza, franceza, germana, italiana şi spaniola. Nr. I / 2013.", 
     "domain": "rediva.ro", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
+        "title_full": "ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
         "url": "http://rediva.ro/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.981321"
+            "when": "2015-10-27T18:47:55.518135"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.981334"
+            "when": "2015-10-27T18:47:55.518156"
         }
     ], 
     "publishers": [], 

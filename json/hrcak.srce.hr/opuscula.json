@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.794051"
+            "when": "2015-10-27T18:43:05.808698"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.794066"
+            "when": "2015-10-27T18:43:05.808710"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.931345"
+            "when": "2015-10-27T18:45:16.909785"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.931361"
+            "when": "2015-10-27T18:45:16.909801"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:36.058378"
+            "when": "2015-10-27T18:45:17.058345"
         }, 
         {
             "fields": [
@@ -182,13 +182,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6842039897589014782", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.018611"
+            "when": "2015-10-27T18:45:17.014679"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-opvscvla.html", 
             "resource_date": "2012-09-14T05:54:47.148-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.018626"
+            "when": "2015-10-27T18:45:17.014695"
         }, 
         {
             "fields": [
@@ -203,7 +203,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:36.064477"
+            "when": "2015-10-27T18:45:17.064048"
         }
     ], 
     "publishers": [], 
@@ -213,7 +213,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Opvscvla Archaeologica Radovi Arheolo\u0161kog zavoda", 
+            "title_full": "Opvscvla Archaeologica Radovi Arheološkog zavoda", 
             "url": "http://hrcak.srce.hr/opuscula"
         }, 
         {

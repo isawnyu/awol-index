@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Megalim -- \u05de\u05d2\u05dc\u05d9\"\u05dd", 
+        "title_full": "Megalim -- מגלי\"ם", 
         "url": "http://www.megalim.org.il/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2715628219943994969", 
             "resource_date": "2011-11-04T06:18:48.590-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.160917"
+            "when": "2015-10-27T18:38:55.549943"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/megalim-institute.html", 
             "resource_date": "2011-11-04T06:18:48.590-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.160930"
+            "when": "2015-10-27T18:38:55.549953"
         }
     ], 
     "publishers": [], 

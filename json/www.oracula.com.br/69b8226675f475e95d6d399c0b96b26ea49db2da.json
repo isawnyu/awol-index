@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 5 November 2009. Updated 22 June 2013]. Oracula - Revista Eletr\u00f4nica de Pesquisas em Apocal\u00edptica Judaica e Crist\u00e3. ISSN: 1807-8222. O Grupo Oracula articula professores, doutorandos e mestrandos da \u00e1rea da literatura b\u00edblica, bem como da hist\u00f3ria da antiguidade, para estudo da apocal\u00edptica judaica e crist\u00e3 primitiva, com m\u00e9todos da hist\u00f3ria da religi\u00e3o e da exegese b\u00edblica. O grupo se organizou como projeto tem\u00e1tico FAPESP intitulado \"Estruturas Religiosas Convergentes no Juda\u00edsmo e no Cristianismo do Primeiro S\u00e9culo, de 1999 a 2003. Promoveu publica\u00e7\u00f5es especializadas sobre a tem\u00e1tica e semin\u00e1rios de pesquisa nos quais estabeleceu interc\u00e2mbios e intera\u00e7\u00e3o com pesquisadores de universidades estrangeiras (como Oxford, Yale, Amsterdan) e de universidades brasileiras (como Unicamp, UnB, UFRJ, UFES).", 
+    "description": "[First posted in AWOL 5 November 2009. Updated 22 June 2013]. Oracula - Revista Eletrônica de Pesquisas em Apocalíptica Judaica e Cristã. ISSN: 1807-8222. O Grupo Oracula articula professores, doutorandos e mestrandos da área da literatura bíblica, bem como da história da antiguidade, para estudo da apocalíptica judaica e cristã primitiva, com métodos da história da religião e da exegese bíblica. O grupo se organizou como projeto temático FAPESP intitulado \"Estruturas Religiosas Convergentes no Judaísmo e no Cristianismo do Primeiro Século, de 1999 a 2003. Promoveu publicações especializadas sobre a temática e seminários de pesquisa nos quais estabeleceu intercâmbios e interação com pesquisadores de universidades estrangeiras (como Oxford, Yale, Amsterdan) e de universidades brasileiras (como Unicamp, UnB, UFRJ, UFES).", 
     "domain": "www.oracula.com.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Oracula - Revista Eletr\u00f4nica de Pesquisas em Apocal\u00edptica Judaica e Crist\u00e3", 
+        "title_full": "Oracula - Revista Eletrônica de Pesquisas em Apocalíptica Judaica e Cristã", 
         "url": "http://www.oracula.com.br/site/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6744554849909471926", 
             "resource_date": "2013-06-22T08:22:52.470-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.970288"
+            "when": "2015-10-27T18:45:09.167337"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-oracula-revista.html", 
             "resource_date": "2013-06-22T08:22:52.470-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.970299"
+            "when": "2015-10-27T18:45:09.167352"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ano 8 - N\u00famero 13 - 2012", 
+    "title": "Ano 8 - Número 13 - 2012", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

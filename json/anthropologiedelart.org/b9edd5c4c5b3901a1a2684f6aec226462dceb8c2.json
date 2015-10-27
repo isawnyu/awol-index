@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "D\u2019une g\u00e9ographie du disparu \u00e0 une arch\u00e9ologie du paysage.", 
+    "description": "D’une géographie du disparu à une archéologie du paysage.", 
     "domain": "anthropologiedelart.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.563543"
+            "when": "2015-10-27T18:45:19.803182"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.563554"
+            "when": "2015-10-27T18:45:19.803193"
         }
     ], 
     "publishers": [], 

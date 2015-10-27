@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archaiologik\u0113 eph\u0113meris", 
+        "title_full": "Archaiologikē ephēmeris", 
         "url": "http://digi.ub.uni-heidelberg.de/diglit/aephem"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7739685993320600011", 
             "resource_date": "2013-09-07T08:05:57.830-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.892161"
+            "when": "2015-10-27T18:46:33.317037"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-archaiologike.html", 
             "resource_date": "2013-09-07T08:05:57.830-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.892180"
+            "when": "2015-10-27T18:46:33.317053"
         }
     ], 
     "publishers": [], 

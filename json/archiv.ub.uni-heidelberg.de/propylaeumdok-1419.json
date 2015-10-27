@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift f\u00fcr J\u00fcrgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 15-36. Malitz, J\u00fcrgen (1990).", 
+    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift für Jürgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 15-36. Malitz, Jürgen (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.153486"
+            "when": "2015-10-27T18:46:46.335125"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.153501"
+            "when": "2015-10-27T18:46:46.335140"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "ConcEyst, GBD und NBE. Drei Computerprojekte am Eichst\u00e4tter Lehrstuhl f\u00fcr Alte Geschichte", 
+    "title": "ConcEyst, GBD und NBE. Drei Computerprojekte am Eichstätter Lehrstuhl für Alte Geschichte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

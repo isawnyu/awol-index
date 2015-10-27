@@ -3,7 +3,7 @@
         "Macho, Claudia"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t BetreuerIn: Harter-Uibopuu, Kaja. Keine Volltext-Freigabe durch VerfasserIn", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät BetreuerIn: Harter-Uibopuu, Kaja. Keine Volltext-Freigabe durch VerfasserIn", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.401855"
+            "when": "2015-10-27T18:36:57.982946"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.401867"
+            "when": "2015-10-27T18:36:57.982958"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Anakrisis - Vorverfahren und Beweisf\u00fchrung im attischen Prozess", 
+    "title": "Anakrisis - Vorverfahren und Beweisführung im attischen Prozess", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

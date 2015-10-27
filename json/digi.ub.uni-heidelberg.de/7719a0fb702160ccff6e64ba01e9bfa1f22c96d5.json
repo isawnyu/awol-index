@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "303-321 Suchodolski, Stanis\u0142aw: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Boles\u0142aw the Brave.", 
+    "description": "303-321 Suchodolski, Stanisław: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Bolesław the Brave.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.306846"
+            "when": "2015-10-27T18:46:50.524268"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.306865"
+            "when": "2015-10-27T18:46:50.524280"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "299-301 Reyman, Janusz: Wczesno\u015bredniowieczny skarb srebrny z Gniezna: Monety zachodnioeuropejskie", 
+    "title": "299-301 Reyman, Janusz: Wczesnośredniowieczny skarb srebrny z Gniezna: Monety zachodnioeuropejskie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

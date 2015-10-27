@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aegypten Forum Berlin e. V. Isched Onlinebeitr\u00e4geAn dieser Stelle bieten wir unseren Besuchern wissenschaftliche Aufs\u00e4tze als PDF-Dokument zum Download an. 09. Februar 2012. Dr. des. Veit Vaelske, Berlin. Am besten immer noch im \u00e4gyptischen Stil! \u00c4gyptisierende Gr\u00e4ber auf Berliner Friedh\u00f6fen. Zusammenfassung: \"Der Beitrag fu\u00dft auf einem Vortrag im Aegypten Forum Berlin, der erstmals die Gr\u00e4ber Berlins zusammenfasste, die auf \u00e4gyptische Konzepte zur\u00fcckgehen oder f\u00fcr deren Dekor auf \u00e4gyptische Motive zur\u00fcckgegriffen wurde. Obwohl Krieg und Abruch den historischen Denkm\u00e4lerbestand ausged\u00fcnnt haben, ist der Versuch einer typologische Ordnung des Materials legitim. Es werden Obelisken, rundansichtige Architekturen, Epitaphe, pyramidale Bauten, prominente Einzelmotive und sogar Originale erfa\u00dft. In einem auswertenden Schlu\u00dfkapitel wird den Gr\u00fcnden f\u00fcr die Wahl einer \u00e4gyptisierenden Ausstattung nachgesp\u00fcrt. Die in der Forschung bisher vorgebrachte These, beim \u00e4gyptisierenden Stil h\u00e4tte es sich um eine Art \u00fcberreligi\u00f6sen Allgemeinplatz gehandelt, kann an ausgew\u00e4hlten Beispielen entgegengetreten werden. \". Download (PDF - ca. 11 MB).", 
+    "description": "Aegypten Forum Berlin e. V. Isched OnlinebeiträgeAn dieser Stelle bieten wir unseren Besuchern wissenschaftliche Aufsätze als PDF-Dokument zum Download an. 09. Februar 2012. Dr. des. Veit Vaelske, Berlin. Am besten immer noch im ägyptischen Stil! Ägyptisierende Gräber auf Berliner Friedhöfen. Zusammenfassung: \"Der Beitrag fußt auf einem Vortrag im Aegypten Forum Berlin, der erstmals die Gräber Berlins zusammenfasste, die auf ägyptische Konzepte zurückgehen oder für deren Dekor auf ägyptische Motive zurückgegriffen wurde. Obwohl Krieg und Abruch den historischen Denkmälerbestand ausgedünnt haben, ist der Versuch einer typologische Ordnung des Materials legitim. Es werden Obelisken, rundansichtige Architekturen, Epitaphe, pyramidale Bauten, prominente Einzelmotive und sogar Originale erfaßt. In einem auswertenden Schlußkapitel wird den Gründen für die Wahl einer ägyptisierenden Ausstattung nachgespürt. Die in der Forschung bisher vorgebrachte These, beim ägyptisierenden Stil hätte es sich um eine Art überreligiösen Allgemeinplatz gehandelt, kann an ausgewählten Beispielen entgegengetreten werden. \". Download (PDF - ca. 11 MB).", 
     "domain": "www.aefobe.de", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7451218649349425126", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.083977"
+            "when": "2015-10-27T18:45:52.078040"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/new-online-publication-series-from.html", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.083992"
+            "when": "2015-10-27T18:45:52.078055"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7451218649349425126", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.086312"
+            "when": "2015-10-27T18:45:52.080669"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/new-online-publication-series-from.html", 
             "resource_date": "2012-09-24T10:25:00.814-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.086324"
+            "when": "2015-10-27T18:45:52.080682"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:08.097295"
+            "when": "2015-10-27T18:45:52.097925"
         }
     ], 
     "publishers": [], 
@@ -149,11 +149,11 @@
             "url": "http://www.aefobe.de/html/frameset.html"
         }, 
         {
-            "title_full": "Isched Onlinebeitr\u00e4ge", 
+            "title_full": "Isched Onlinebeiträge", 
             "url": "http://www.aefobe.de/html/onlinebeitraege/onlinebeitraege.htm"
         }, 
         {
-            "title_full": "Am besten immer noch im \u00e4gyptischen Stil! \u00c4gyptisierende Gr\u00e4ber auf Berliner Friedh\u00f6fen", 
+            "title_full": "Am besten immer noch im ägyptischen Stil! Ägyptisierende Gräber auf Berliner Friedhöfen", 
             "url": "http://www.aefobe.de/html/onlinebeitraege/Aefobe_Vaelske_%C4gyptisierende_Gr%E4ber.pdf"
         }
     ], 

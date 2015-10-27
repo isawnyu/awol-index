@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Nouvelles assyriologiques br\u00e8ves et utilitaires, (1990), pp. 11-12. Maul, Stefan (1995).", 
+    "description": "In: Nouvelles assyriologiques brèves et utilitaires, (1990), pp. 11-12. Maul, Stefan (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.982202"
+            "when": "2015-10-27T18:46:21.737132"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.982217"
+            "when": "2015-10-27T18:46:21.737148"
         }
     ], 
     "publishers": [], 

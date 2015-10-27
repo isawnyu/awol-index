@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Nubische Altert\u00fcmer im Netz", 
+        "title_full": "Nubische Altertümer im Netz", 
         "url": "http://www2.hu-berlin.de/aknoa/sammlung/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3031037845941738869", 
             "resource_date": "2015-03-26T11:27:12.927-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.505338"
+            "when": "2015-10-27T18:39:10.092498"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/nubische-altertumer-im-netz.html", 
             "resource_date": "2015-03-26T11:27:12.927-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.505346"
+            "when": "2015-10-27T18:39:10.092506"
         }
     ], 
     "publishers": [], 

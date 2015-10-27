@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3272325571666783067", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.426880"
+            "when": "2015-10-27T18:40:20.621500"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/digizeitschriften.html", 
             "resource_date": "2011-01-14T11:44:38.102-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.426895"
+            "when": "2015-10-27T18:40:20.621514"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5128721546312797621", 
             "resource_date": "2009-12-07T10:02:45.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.585799"
+            "when": "2015-10-27T18:43:13.118865"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/05/open-access-journals-at.html", 
             "resource_date": "2009-12-07T10:02:45.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.585815"
+            "when": "2015-10-27T18:43:13.118886"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.595571"
+            "when": "2015-10-27T18:43:13.129868"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5128721546312797621", 
             "resource_date": "2009-12-07T10:02:45.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.587281"
+            "when": "2015-10-27T18:43:13.120791"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/05/open-access-journals-at.html", 
             "resource_date": "2009-12-07T10:02:45.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.587293"
+            "when": "2015-10-27T18:43:13.120806"
         }, 
         {
             "fields": [
@@ -196,7 +196,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.597296"
+            "when": "2015-10-27T18:43:13.131995"
         }
     ], 
     "publishers": [], 
@@ -206,27 +206,27 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Zeitschrift f\u00fcr deutsches Alterthum", 
+            "title_full": "Zeitschrift für deutsches Alterthum", 
             "url": "http://www.digizeitschriften.de/main/dms/resolveppn/?PPN=PPN345204107"
         }, 
         {
-            "title_full": "Deutsches Archiv f\u00fcr Erforschung des Mittelalters , 1951 - 2004", 
+            "title_full": "Deutsches Archiv für Erforschung des Mittelalters , 1951 - 2004", 
             "url": "http://www.digizeitschriften.de/resolveppn/PPN345858735&L=2"
         }, 
         {
-            "title_full": "Deutsches Archiv f\u00fcr Geschichte des Mittelalters , 1937 - 1944", 
+            "title_full": "Deutsches Archiv für Geschichte des Mittelalters , 1937 - 1944", 
             "url": "http://www.digizeitschriften.de/no_cache/en/home/jkdigitools/loader/?tx_jkDigiTools_pi1%5Bcol%5D=12%2C5%2C17%2C&tx_jkDigiTools_pi1%5BIDDOC%5D=574445"
         }, 
         {
-            "title_full": "Neues Archiv der Gesellschaft f\u00fcr \u00c4ltere Deutsche Geschichtskunde zur Bef\u00f6rderung einer Gesamtausgabe der Quellenschriften deutscher Geschichten des Mittelalters , 1876 - 1935", 
+            "title_full": "Neues Archiv der Gesellschaft für Ältere Deutsche Geschichtskunde zur Beförderung einer Gesamtausgabe der Quellenschriften deutscher Geschichten des Mittelalters , 1876 - 1935", 
             "url": "http://www.digizeitschriften.de/resolveppn/PPN345858530&L=2"
         }, 
         {
-            "title_full": "Archiv der Gesellschaft f\u00fcr \u00c4ltere Deutsche Geschichtkunde zur Bef\u00f6rderung einer Gesammtausgabe der Quellenschriften deutscher Geschichten des Mittelalters , 1820 - 1874", 
+            "title_full": "Archiv der Gesellschaft für Ältere Deutsche Geschichtkunde zur Beförderung einer Gesammtausgabe der Quellenschriften deutscher Geschichten des Mittelalters , 1820 - 1874", 
             "url": "http://www.digizeitschriften.de/resolveppn/PPN345858514&L=2"
         }
     ], 
-    "title": "* Zeitschrift f\u00fcr deutsches Alterthum", 
+    "title": "* Zeitschrift für deutsches Alterthum", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

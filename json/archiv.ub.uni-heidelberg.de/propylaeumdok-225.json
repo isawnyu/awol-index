@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Drexhage, H. -J. and S\u00fcnskes, J. (Hrsgg. ): Migratio et Commutatio. Studien zur Alten Geschichte und deren Nachleben. Festschrift Th. Pek\u00e1ry. St. Katharinen 1989, pp. 1-18. Funke, Peter (2004).", 
+    "description": "In: Drexhage, H. -J. and Sünskes, J. (Hrsgg. ): Migratio et Commutatio. Studien zur Alten Geschichte und deren Nachleben. Festschrift Th. Pekáry. St. Katharinen 1989, pp. 1-18. Funke, Peter (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.831368"
+            "when": "2015-10-27T18:46:45.988374"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.831382"
+            "when": "2015-10-27T18:46:45.988388"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Rom und das Nabat\u00e4erreich bis zur Aufrichtung der Provinz Arabia", 
+    "title": "Rom und das Nabatäerreich bis zur Aufrichtung der Provinz Arabia", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

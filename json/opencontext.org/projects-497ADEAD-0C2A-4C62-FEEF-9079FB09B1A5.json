@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.590533"
+            "when": "2015-10-27T18:44:08.839177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.590543"
+            "when": "2015-10-27T18:44:08.839188"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903049139474208425", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.774260"
+            "when": "2015-10-27T18:48:53.892354"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/new-data-at-open-context-chogha-mish.html", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.774277"
+            "when": "2015-10-27T18:48:53.892371"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:57.800293"
+            "when": "2015-10-27T18:48:53.920151"
         }, 
         {
             "fields": [
@@ -172,13 +172,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903049139474208425", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.779456"
+            "when": "2015-10-27T18:48:53.897854"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/new-data-at-open-context-chogha-mish.html", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.779471"
+            "when": "2015-10-27T18:48:53.897868"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:57.804516"
+            "when": "2015-10-27T18:48:53.922603"
         }
     ], 
     "publishers": [], 
@@ -262,7 +262,7 @@
             "url": "http://opencontext.org/projects/PGold1PRJ0000000005"
         }, 
         {
-            "title_full": "P\u0131narba\u015f\u0131 1994: Animal Bones", 
+            "title_full": "Pınarbaşı 1994: Animal Bones", 
             "url": "http://opencontext.org/projects/TESTPRJ0000000004"
         }, 
         {

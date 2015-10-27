@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cahiers de l'Institut du Moyen-\u00c2ge Grec et Latin", 
+        "title_full": "Cahiers de l'Institut du Moyen-Âge Grec et Latin", 
         "url": "http://cimagl.saxo.ku.dk/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6606443326841180948", 
             "resource_date": "2013-04-22T10:32:57.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:21.821186"
+            "when": "2015-10-27T18:45:01.175254"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/open-accessjournal-cahiers-de-linstitut.html", 
             "resource_date": "2013-04-22T10:32:57.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:21.821198"
+            "when": "2015-10-27T18:45:01.175268"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AS 4. Beitrage zum Assyrischen W\u00f6rterbuch II. Bruno Meissner. Originally published in 1932.", 
+    "description": "AS 4. Beitrage zum Assyrischen Wörterbuch II. Bruno Meissner. Originally published in 1932.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.955715"
+            "when": "2015-10-27T18:38:39.005196"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.955736"
+            "when": "2015-10-27T18:38:39.005208"
         }
     ], 
     "publishers": [], 

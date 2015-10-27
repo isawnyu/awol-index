@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archaeological Survey of Israel - The sites documented in the Archaeological Survey of Israel are published on the website where they are displayed in survey squares of 100 sq km (10 \u00d7 10 km). The list of maps is presented below in alphabetic order, according to their names and numbers as recorded in Yalqu\u1e6d Ha-Pirsumim. The survey maps can be seen on the right side of the screen against the background of an aerial photograph. The sites (marked with yellow dots) can be accessed by zooming in on the screen and a description of them will appear by clicking on the dots. The introduction to each map and search options are also displayed. Click through (English -.", 
+    "description": "Archaeological Survey of Israel - The sites documented in the Archaeological Survey of Israel are published on the website where they are displayed in survey squares of 100 sq km (10 × 10 km). The list of maps is presented below in alphabetic order, according to their names and numbers as recorded in Yalquṭ Ha-Pirsumim. The survey maps can be seen on the right side of the screen against the background of an aerial photograph. The sites (marked with yellow dots) can be accessed by zooming in on the screen and a description of them will appear by clicking on the dots. The introduction to each map and search options are also displayed. Click through (English -.", 
     "domain": "www.antiquities.org.il", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1817654110906253879", 
             "resource_date": "2014-09-17T14:03:58.018-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:01.329910"
+            "when": "2015-10-27T18:38:06.598949"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/online-archaeological-survey-of-israel.html", 
             "resource_date": "2014-09-17T14:03:58.018-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:01.329926"
+            "when": "2015-10-27T18:38:06.598965"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1817654110906253879", 
             "resource_date": "2014-09-17T14:03:58.018-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:01.333422"
+            "when": "2015-10-27T18:38:06.602898"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/online-archaeological-survey-of-israel.html", 
             "resource_date": "2014-09-17T14:03:58.018-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:01.333436"
+            "when": "2015-10-27T18:38:06.602913"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:01.339563"
+            "when": "2015-10-27T18:38:06.609705"
         }
     ], 
     "publishers": [], 

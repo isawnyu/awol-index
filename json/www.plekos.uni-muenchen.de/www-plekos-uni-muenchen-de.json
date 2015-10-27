@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7076263870278389411", 
             "resource_date": "2014-03-26T05:57:13.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:45.556687"
+            "when": "2015-10-27T18:45:27.364217"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-plekos-periodicum.html", 
             "resource_date": "2014-03-26T05:57:13.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:45.556701"
+            "when": "2015-10-27T18:45:27.364236"
         }
     ], 
     "publishers": [], 
@@ -168,7 +168,7 @@
             "url": "http://www.plekos.uni-muenchen.de/2014/startseite16.html"
         }
     ], 
-    "title": "plekos: Periodicum OnLine zur Erforschung der KOmmunikationsstrukturen in der Sp\u00e4tantike", 
+    "title": "plekos: Periodicum OnLine zur Erforschung der KOmmunikationsstrukturen in der Spätantike", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

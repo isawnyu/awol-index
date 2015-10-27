@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde (1863-1924). The first 59 volumes (1863-1924) are available at the Internet Archive.", 
+    "description": "Zeitschrift für ägyptische Sprache und Altertumskunde (1863-1924). The first 59 volumes (1863-1924) are available at the Internet Archive.", 
     "domain": "www.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde (1863-1924)", 
+        "title_full": "Zeitschrift für ägyptische Sprache und Altertumskunde (1863-1924)", 
         "url": "http://www.archive.org/search.php?query=Zeitschrift%20f%C3%BCr%20%C3%A4gyptische%20sprache%20und%20altertumskunde%20AND%20creator:%22Deutsche%20Morgenl%C3%A4ndische%20Gesellschaft%22"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9147666867035729616", 
             "resource_date": "2010-09-07T11:38:37.305-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.556943"
+            "when": "2015-10-27T18:49:20.090341"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-accesss-to-early-voumes-of.html", 
             "resource_date": "2010-09-07T11:38:37.305-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.556957"
+            "when": "2015-10-27T18:49:20.090360"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9147666867035729616", 
             "resource_date": "2010-09-07T11:38:37.305-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.560805"
+            "when": "2015-10-27T18:49:20.092913"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-accesss-to-early-voumes-of.html", 
             "resource_date": "2010-09-07T11:38:37.305-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.560825"
+            "when": "2015-10-27T18:49:20.092929"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:21.563240"
+            "when": "2015-10-27T18:49:20.095101"
         }
     ], 
     "publishers": [], 
@@ -143,11 +143,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde (1863-1924)", 
+            "title_full": "Zeitschrift für ägyptische Sprache und Altertumskunde (1863-1924)", 
             "url": "http://www.archive.org/search.php?query=Zeitschrift%20f%C3%BCr%20%C3%A4gyptische%20sprache%20und%20altertumskunde%20AND%20creator:%22Deutsche%20Morgenl%C3%A4ndische%20Gesellschaft%22"
         }
     ], 
-    "title": "Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde (1863-1924)", 
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde (1863-1924)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Documenta Catholica Omnia - Multilanguage Catholic E-Book Database of all the Writings of Holy Popes, Councils, Church Fathers and Doctors, and Allied Auctors. Documenta Cattolica omnia est Corpus quod omnia documenta publici dominii redacta in pr\u00e6cipuis linguis cristianitatis continet. Iuxta Constitutionem Apostolicam \u2018Veterum Sapientia\u2019 de latinitatis Studio Provenendo a Beato Summo Pontifice Ioanne XXIII anno 1962 promulgatam, lingua latina semper pr\u00e6lata est aliquando adhiberi potuit. Verificata originalibus versionibus conformitate, correptionibus et impaginationibus firmo modo (ex procedura \"standard\") peractibus, talia documenta ex \"internet\" extracta in unico file modo *. doc vel *. pdf collecta sunt, in quo integrum textum continetur ut viteatur excursum in linea qua revera impedit et impossibilem integralem \"download\" nonnumquam reddit. Ita ut pr\u00e6dictum locum informaticum aptum ad studium et ricercam pr\u00e6cipue apparet. Ante \"download\" attendendum est de amplitudinibus (vel ad amplitudines) selecti documenti qu\u00e6 adsequere possunt etiam multos MB. Etenim nonnulla documenta qua in internet posita sunt in tractatibus hodie sine copyright continentur. Documenta Catholica Omnia is the collection of all catholic available texts, declared of public knowledge, written in the main Christianity\u2019s languages. In obedience to Blessed Sovereign Pontiff John XXIII\u2019s 1962 Constitutio Apostolica 'Veterum Sapientia' de Latinitatis Studio Provenendo, the Latin language has been chosen every time it was possible. These documents have been collected in the Web and are verified to comply with the official on paper version, corrected in case of need, made up according to the standard procedure and each and every one of them is shown in a *. doc or *pdf format with the whole text in order to avoid the very tiresome on line thumbing through that makes difficult and sometimes impossible its complete downloading. For this reason this Website seems to be very useful for both study and research. Before the downloading pay attention carefully to the chosen document\u2019s dimensions, that may reach 250 MB. Some of the texts have been digitalized from treatises no more copyright covered.", 
+    "description": "Documenta Catholica Omnia - Multilanguage Catholic E-Book Database of all the Writings of Holy Popes, Councils, Church Fathers and Doctors, and Allied Auctors. Documenta Cattolica omnia est Corpus quod omnia documenta publici dominii redacta in præcipuis linguis cristianitatis continet. Iuxta Constitutionem Apostolicam ‘Veterum Sapientia’ de latinitatis Studio Provenendo a Beato Summo Pontifice Ioanne XXIII anno 1962 promulgatam, lingua latina semper prælata est aliquando adhiberi potuit. Verificata originalibus versionibus conformitate, correptionibus et impaginationibus firmo modo (ex procedura \"standard\") peractibus, talia documenta ex \"internet\" extracta in unico file modo *. doc vel *. pdf collecta sunt, in quo integrum textum continetur ut viteatur excursum in linea qua revera impedit et impossibilem integralem \"download\" nonnumquam reddit. Ita ut prædictum locum informaticum aptum ad studium et ricercam præcipue apparet. Ante \"download\" attendendum est de amplitudinibus (vel ad amplitudines) selecti documenti quæ adsequere possunt etiam multos MB. Etenim nonnulla documenta qua in internet posita sunt in tractatibus hodie sine copyright continentur. Documenta Catholica Omnia is the collection of all catholic available texts, declared of public knowledge, written in the main Christianity’s languages. In obedience to Blessed Sovereign Pontiff John XXIII’s 1962 Constitutio Apostolica 'Veterum Sapientia' de Latinitatis Studio Provenendo, the Latin language has been chosen every time it was possible. These documents have been collected in the Web and are verified to comply with the official on paper version, corrected in case of need, made up according to the standard procedure and each and every one of them is shown in a *. doc or *pdf format with the whole text in order to avoid the very tiresome on line thumbing through that makes difficult and sometimes impossible its complete downloading. For this reason this Website seems to be very useful for both study and research. Before the downloading pay attention carefully to the chosen document’s dimensions, that may reach 250 MB. Some of the texts have been digitalized from treatises no more copyright covered.", 
     "domain": "www.documentacatholicaomnia.eu", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.269515"
+            "when": "2015-10-27T18:38:07.712372"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.269530"
+            "when": "2015-10-27T18:38:07.712389"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1862134636646060613", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.276624"
+            "when": "2015-10-27T18:38:07.720013"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/documenta-catholica-omnia-online.html", 
             "resource_date": "2013-12-26T11:01:51.612-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.276637"
+            "when": "2015-10-27T18:38:07.720029"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:02.312018"
+            "when": "2015-10-27T18:38:07.760061"
         }
     ], 
     "publishers": [], 

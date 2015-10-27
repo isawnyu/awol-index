@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4295004187085623245", 
             "resource_date": "2015-03-04T13:29:08.985-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.465296"
+            "when": "2015-10-27T18:41:49.756830"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/news-from-the-annotated-corpus-of.html", 
             "resource_date": "2015-03-04T13:29:08.985-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.465313"
+            "when": "2015-10-27T18:41:49.756846"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4295004187085623245", 
             "resource_date": "2015-03-04T13:29:08.985-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.466983"
+            "when": "2015-10-27T18:41:49.758677"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/news-from-the-annotated-corpus-of.html", 
             "resource_date": "2015-03-04T13:29:08.985-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.466995"
+            "when": "2015-10-27T18:41:49.758690"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:24.468421"
+            "when": "2015-10-27T18:41:49.760640"
         }
     ], 
     "publishers": [], 

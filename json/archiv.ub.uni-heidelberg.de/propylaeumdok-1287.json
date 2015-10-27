@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Hutter, M. and Hutter-Braunsar, S. (Hrsgg. ): Offizielle Religion, lokale Kulte und individuelle Religiosit\u00e4t. Akten des religionsgeschichtlichen Symposiums \u201eKleinasien und angrenzende Gebiete vom Beginn des 2. bis zur Mitte des 1. Jt. v. Chr. \", Alter Orient und Altes Testament 318. M\u00fcnster 2004 319. Nov\u00e1k, Mirko (1995).", 
+    "description": "In: Hutter, M. and Hutter-Braunsar, S. (Hrsgg. ): Offizielle Religion, lokale Kulte und individuelle Religiosität. Akten des religionsgeschichtlichen Symposiums „Kleinasien und angrenzende Gebiete vom Beginn des 2. bis zur Mitte des 1. Jt. v. Chr. \", Alter Orient und Altes Testament 318. Münster 2004 319. Novák, Mirko (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.565321"
+            "when": "2015-10-27T18:46:23.327291"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.565334"
+            "when": "2015-10-27T18:46:23.327307"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Religionspolitik der aram\u00e4ischen F\u00fcrstent\u00fcmer im 1. Jahrtausend v. Chr", 
+    "title": "Die Religionspolitik der aramäischen Fürstentümer im 1. Jahrtausend v. Chr", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

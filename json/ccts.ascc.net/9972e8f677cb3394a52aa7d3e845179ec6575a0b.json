@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5731995781517440503", 
             "resource_date": "2011-03-21T13:53:57.626-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:14.624601"
+            "when": "2015-10-27T18:43:47.363516"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/chinese-civilization-in-time-and-space.html", 
             "resource_date": "2011-03-21T13:53:57.626-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:14.624618"
+            "when": "2015-10-27T18:43:47.363533"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5731995781517440503", 
             "resource_date": "2011-03-21T13:53:57.626-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:14.626116"
+            "when": "2015-10-27T18:43:47.365163"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/chinese-civilization-in-time-and-space.html", 
             "resource_date": "2011-03-21T13:53:57.626-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:14.626128"
+            "when": "2015-10-27T18:43:47.365175"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:14.627519"
+            "when": "2015-10-27T18:43:47.367199"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "AGER, Bulletin de liaison (association d'\u00e9tude du monde rural gallo-romain)", 
+        "title_full": "AGER, Bulletin de liaison (association d'étude du monde rural gallo-romain)", 
         "url": "http://ager2.voila.net/Bulletin.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1198401906736570567", 
             "resource_date": "2012-04-14T07:59:04.314-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:15.002110"
+            "when": "2015-10-27T18:37:16.486110"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-ager-bulletin-de.html", 
             "resource_date": "2012-04-14T07:59:04.314-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:15.002122"
+            "when": "2015-10-27T18:37:16.486120"
         }
     ], 
     "publishers": [], 

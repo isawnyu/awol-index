@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted on AWOL on 1/22/09, updated 10 April 2014]. Hrcak: Portal of scientific journals of Croatia. Acta Turistica Nova ISSN:1846-4394. Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku ISSN:1330-0598. Annales Instituti Archaeologici ISSN:1845-4046. Archaeologica Adriatica ISSN:1846-4807. Asseria ISSN:1334-2479. Biblical Perspectives ISSN:1330-1497. Building and Stone-masonry ISSN:0353-7897. Bulletin of the International Association for Paleodontology e-ISSN:1846-6273. Contributions of Institute of Archaeology in Zagreb ISSN:1330-0644. Cris: Journal of the Historical Society of Kri\u017eevci ISSN:1332-2567. Dubrovnik Annals ISSN:1331-3878 Historical Contributions ISSN:0351-9767. Histria antiqua ISSN:1331-4270. Histria archaeologica ISSN:0350-6320. HISTRIA The Istrian Historical Society Review ISSN:1848-1183. Holon e-ISSN:1848-3518. Interdisciplinary Description of Complex Systems ISSN:1334-4676 e-ISSN:1334-4676. Journal - Institute of Croatian History ISSN:0353-295X. Journal of Dalmatian archaeology and history ISSN:1845-7789. Journal of the Zagreb Archaeological Museum ISSN:0350-7165 Latina et Graeca ISSN: 0350-414X Media, Culture and Public Relations ISSN:1333-6371. Opuscula Archaeologica Papers of the Department of Archaeology ISSN:0473-0992. Podravina: scientific multidisciplinary research journal ISSN:1333-5286. Portal, the Yearbook of the Croatian Conservation Institute. Povijesni zbornik: godi\u0161njak za kulturu i povijesno naslje\u0111e ISSN:1846-3819. Radovi / Institute for Historical Sciences of the Croatian Academy of Sciences and Arts in Zadar ISSN:1330-0474. Starohrvatska prosvjeta ISSN:0351-4536. The Museum Courier. Organ of the Museums of Northwestern Croatia ISSN:0350-9370. The Preservation of Cultural Heritage in Croatia ISSN:0350-2589. The Review of Senj ISSN:0582-673X. The Yearbook of the Vara\u017edin City Museum ISSN:0351-7926.", 
+    "description": "[First posted on AWOL on 1/22/09, updated 10 April 2014]. Hrcak: Portal of scientific journals of Croatia. Acta Turistica Nova ISSN:1846-4394. Anali Zavoda za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Dubrovniku ISSN:1330-0598. Annales Instituti Archaeologici ISSN:1845-4046. Archaeologica Adriatica ISSN:1846-4807. Asseria ISSN:1334-2479. Biblical Perspectives ISSN:1330-1497. Building and Stone-masonry ISSN:0353-7897. Bulletin of the International Association for Paleodontology e-ISSN:1846-6273. Contributions of Institute of Archaeology in Zagreb ISSN:1330-0644. Cris: Journal of the Historical Society of Križevci ISSN:1332-2567. Dubrovnik Annals ISSN:1331-3878 Historical Contributions ISSN:0351-9767. Histria antiqua ISSN:1331-4270. Histria archaeologica ISSN:0350-6320. HISTRIA The Istrian Historical Society Review ISSN:1848-1183. Holon e-ISSN:1848-3518. Interdisciplinary Description of Complex Systems ISSN:1334-4676 e-ISSN:1334-4676. Journal - Institute of Croatian History ISSN:0353-295X. Journal of Dalmatian archaeology and history ISSN:1845-7789. Journal of the Zagreb Archaeological Museum ISSN:0350-7165 Latina et Graeca ISSN: 0350-414X Media, Culture and Public Relations ISSN:1333-6371. Opuscula Archaeologica Papers of the Department of Archaeology ISSN:0473-0992. Podravina: scientific multidisciplinary research journal ISSN:1333-5286. Portal, the Yearbook of the Croatian Conservation Institute. Povijesni zbornik: godišnjak za kulturu i povijesno nasljeđe ISSN:1846-3819. Radovi / Institute for Historical Sciences of the Croatian Academy of Sciences and Arts in Zadar ISSN:1330-0474. Starohrvatska prosvjeta ISSN:0351-4536. The Museum Courier. Organ of the Museums of Northwestern Croatia ISSN:0350-9370. The Preservation of Cultural Heritage in Croatia ISSN:0350-2589. The Review of Senj ISSN:0582-673X. The Yearbook of the Varaždin City Museum ISSN:0351-7926.", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -107,13 +107,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.722391"
+            "when": "2015-10-27T18:43:05.751448"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.722413"
+            "when": "2015-10-27T18:43:05.751465"
         }, 
         {
             "fields": [
@@ -154,13 +154,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4951233991735144268", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:35.727377"
+            "when": "2015-10-27T18:43:05.753984"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/croatian-open-access-archaeology.html", 
             "resource_date": "2014-09-22T11:53:51.449-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:35.727396"
+            "when": "2015-10-27T18:43:05.753996"
         }, 
         {
             "fields": [
@@ -174,7 +174,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:35.822366"
+            "when": "2015-10-27T18:43:05.835570"
         }
     ], 
     "publishers": [], 
@@ -224,7 +224,7 @@
             "url": "http://hrcak.srce.hr/prilozi-iaz"
         }, 
         {
-            "title_full": "Cris: Journal of the Historical Society of Kri\u017eevci", 
+            "title_full": "Cris: Journal of the Historical Society of Križevci", 
             "url": "http://hrcak.srce.hr/cris"
         }, 
         {
@@ -288,7 +288,7 @@
             "url": "http://hrcak.srce.hr/portal"
         }, 
         {
-            "title_full": "Povijesni zbornik: godi\u0161njak za kulturu i povijesno naslje\u0111e", 
+            "title_full": "Povijesni zbornik: godišnjak za kulturu i povijesno nasljeđe", 
             "url": "http://hrcak.srce.hr/povijesni-zbornik"
         }, 
         {
@@ -312,7 +312,7 @@
             "url": "http://hrcak.srce.hr/senjski-zbornik"
         }, 
         {
-            "title_full": "The Yearbook of the Vara\u017edin City Museum", 
+            "title_full": "The Yearbook of the Varaždin City Museum", 
             "url": "http://hrcak.srce.hr/godisnjakgmv"
         }
     ], 

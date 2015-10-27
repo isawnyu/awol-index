@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Alberca - Revista de la Asociaci\u00f3n de Amigos del Museo Arqueol\u00f3gico de Lorca.", 
+    "description": "Alberca - Revista de la Asociación de Amigos del Museo Arqueológico de Lorca.", 
     "domain": "www.amigosdelmuseoarqueologicodelorca.com", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7294251575979441113", 
             "resource_date": "2011-08-16T10:41:12.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:54.407644"
+            "when": "2015-10-27T18:45:36.920812"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-alberca.html", 
             "resource_date": "2011-08-16T10:41:12.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:54.407661"
+            "when": "2015-10-27T18:45:36.920828"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7294251575979441113", 
             "resource_date": "2011-08-16T10:41:12.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:54.417933"
+            "when": "2015-10-27T18:45:36.931744"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-alberca.html", 
             "resource_date": "2011-08-16T10:41:12.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:54.417946"
+            "when": "2015-10-27T18:45:36.931759"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:54.419350"
+            "when": "2015-10-27T18:45:36.933633"
         }
     ], 
     "publishers": [], 
@@ -145,13 +145,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Alberca - Revista de la Asociaci\u00f3n de Amigos del Museo Arqueol\u00f3gico de Lorca", 
+            "title_full": "Alberca - Revista de la Asociación de Amigos del Museo Arqueológico de Lorca", 
             "url": "http://www.amigosdelmuseoarqueologicodelorca.com/alberca/index.php"
         }
     ], 
-    "title": "Alberca - Revista de la Asociaci\u00f3n de Amigos del Museo Arqueol\u00f3gico de Lorca", 
+    "title": "Alberca - Revista de la Asociación de Amigos del Museo Arqueológico de Lorca", 
     "title_alternates": [], 
-    "title_extended": "Alberca - Revista de la Asociaci\u00f3n de Amigos del Museo Arqueol\u00f3gico de Lorca", 
+    "title_extended": "Alberca - Revista de la Asociación de Amigos del Museo Arqueológico de Lorca", 
     "type": null, 
     "url": "http://www.amigosdelmuseoarqueologicodelorca.com/alberca/index.php", 
     "url_alternates": [], 

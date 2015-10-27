@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Kurzbibliographie zu den \u00fcbersetzten Tempeltexten der griechisch-r\u00f6mischen Zeit, 6e \u00e9d. Christian Leitz.", 
+    "description": "Kurzbibliographie zu den übersetzten Tempeltexten der griechisch-römischen Zeit, 6e éd. Christian Leitz.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Kurzbibliographie zu den \u00fcbersetzten Tempeltexten der griechisch-r\u00f6mischen Zeit, 6e \u00e9d", 
+        "title_full": "Kurzbibliographie zu den übersetzten Tempeltexten der griechisch-römischen Zeit, 6e éd", 
         "url": "http://www.ifao.egnet.net/publications/catalogue/978-2-7247-0667-3/"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4499640252135855535", 
             "resource_date": "2015-07-02T15:08:04.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.511960"
+            "when": "2015-10-27T18:41:54.209038"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/07/new-online-from-ifao-kurzbibliographie.html", 
             "resource_date": "2015-07-02T15:08:04.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.511976"
+            "when": "2015-10-27T18:41:54.209054"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4499640252135855535", 
             "resource_date": "2015-07-02T15:08:04.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.514509"
+            "when": "2015-10-27T18:41:54.210964"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/07/new-online-from-ifao-kurzbibliographie.html", 
             "resource_date": "2015-07-02T15:08:04.552-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.514533"
+            "when": "2015-10-27T18:41:54.210974"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:28.520401"
+            "when": "2015-10-27T18:41:54.216879"
         }
     ], 
     "publishers": [], 
@@ -144,7 +144,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Kurzbibliographie zu den \u00fcbersetzten Tempeltexten der griechisch-r\u00f6mischen Zeit, 6e \u00e9d", 
+            "title_full": "Kurzbibliographie zu den übersetzten Tempeltexten der griechisch-römischen Zeit, 6e éd", 
             "url": "http://www.ifao.egnet.net/publications/catalogue/978-2-7247-0667-3/"
         }, 
         {
@@ -156,7 +156,7 @@
             "url": "http://www.ifao.egnet.net/uploads/publications/enligne/IF1112_BDE165_2015.pdf"
         }
     ], 
-    "title": "Kurzbibliographie zu den \u00fcbersetzten Tempeltexten der griechisch-r\u00f6mischen Zeit, 6e \u00e9d", 
+    "title": "Kurzbibliographie zu den übersetzten Tempeltexten der griechisch-römischen Zeit, 6e éd", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

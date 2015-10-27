@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin d'information (vol. 8, no 1, f\u00e9vrier), 2006.", 
+    "description": "Bulletin d'information (vol. 8, no 1, février), 2006.", 
     "domain": "www.naghammadi.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin d\u2019information du Groupe BCNH", 
+        "title_full": "Bulletin d’information du Groupe BCNH", 
         "url": "http://www.naghammadi.org/bulletin/bulletin.aspx"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-893179180695258974", 
             "resource_date": "2015-04-19T09:13:38.635-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:05.423643"
+            "when": "2015-10-27T18:49:02.176303"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-journal-bulletin.html", 
             "resource_date": "2015-04-19T09:13:38.635-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:05.423655"
+            "when": "2015-10-27T18:49:02.176317"
         }
     ], 
     "publishers": [], 

@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6035636767928892379", 
             "resource_date": "2014-11-07T14:01:47.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.997274"
+            "when": "2015-10-27T18:44:16.741341"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/call-for-papers-journal-of-ancient.html", 
             "resource_date": "2014-11-07T14:01:47.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.997285"
+            "when": "2015-10-27T18:44:16.741354"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "THE SOLDIERS\u2019 MORALE IN THE ROMAN ARMY", 
+    "title": "THE SOLDIERS’ MORALE IN THE ROMAN ARMY", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Interf\u00e9rences Ars scribendi. ISSN: 1777-5485. La revue en ligne Interf\u00e9rences Ars scribendi a pour vocation de restituer dans sa globalit\u00e9 le ph\u00e9nom\u00e8ne de l\u2019\u00e9criture \u00e0 Rome. Il s\u2019agit \u00e0 la fois de replacer le corpus scripturaire par rapport \u00e0 ses enjeux de production en le r\u00e9ins\u00e9rant dans ses conditions d\u2019apparition, de reconstituer le statut que se reconna\u00eet et r\u00e9clame l\u2019auteur vis-\u00e0-vis de sa propre production, de d\u00e9finir les m\u00e9canismes de relecture / r\u00e9\u00e9criture qui r\u00e9gissent les relations aux \u0153uvres ant\u00e9rieures, de mettre en \u00e9vidence les th\u00e9orisations, implicites et explicites, dont ces textes ont fait l\u2019objet.", 
+    "description": "Interférences Ars scribendi. ISSN: 1777-5485. La revue en ligne Interférences Ars scribendi a pour vocation de restituer dans sa globalité le phénomène de l’écriture à Rome. Il s’agit à la fois de replacer le corpus scripturaire par rapport à ses enjeux de production en le réinsérant dans ses conditions d’apparition, de reconstituer le statut que se reconnaît et réclame l’auteur vis-à-vis de sa propre production, de définir les mécanismes de relecture / réécriture qui régissent les relations aux œuvres antérieures, de mettre en évidence les théorisations, implicites et explicites, dont ces textes ont fait l’objet.", 
     "domain": "ars-scribendi.ens-lyon.fr", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-89482862073302655", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:05.541328"
+            "when": "2015-10-27T18:49:02.299578"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-interferences.html", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:05.541344"
+            "when": "2015-10-27T18:49:02.299594"
         }
     ], 
     "publishers": [], 
@@ -85,55 +85,55 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Transferts de termes et transferts de m\u00e9thode dans les \u00e9tymologies bilingues. L\u2019acculturation de lexiques \u00e9trangers dans des lexiques autochtones", 
+            "title_full": "Transferts de termes et transferts de méthode dans les étymologies bilingues. L’acculturation de lexiques étrangers dans des lexiques autochtones", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=48&var_affichage=vf"
         }, 
         {
-            "title_full": "Ph\u00e9nom\u00e8nes de r\u00e9\u00e9criture dans l\u2019onomastique du genre bucolique", 
+            "title_full": "Phénomènes de réécriture dans l’onomastique du genre bucolique", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=36&var_affichage=vf"
         }, 
         {
-            "title_full": "La po\u00e9tique romaine comme hybridation f\u00e9conde. Les le\u00e7ons de la greffe (Virgile, G\u00e9orgiques, 2, 9-82)", 
+            "title_full": "La poétique romaine comme hybridation féconde. Les leçons de la greffe (Virgile, Géorgiques, 2, 9-82)", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=37&var_affichage=vf"
         }, 
         {
-            "title_full": "Hyle-silva (et alentour). Probl\u00e8mes de traduction entre rh\u00e9torique et m\u00e9taphore", 
+            "title_full": "Hyle-silva (et alentour). Problèmes de traduction entre rhétorique et métaphore", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=43&var_affichage=vf"
         }, 
         {
-            "title_full": "Composantes grecques de l\u2019annalistique moyenne", 
+            "title_full": "Composantes grecques de l’annalistique moyenne", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=47&var_affichage=vf"
         }, 
         {
-            "title_full": "Salluste ou la naissance de l\u2019histoire \u00e0 Rome", 
+            "title_full": "Salluste ou la naissance de l’histoire à Rome", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=38&var_affichage=vf"
         }, 
         {
-            "title_full": "Con Dolcezza. R\u00e9flexions sur l\u2019id\u00e9e de douceur dans la vie politique romaine. Le cas de mansuetudo et de lenitas", 
+            "title_full": "Con Dolcezza. Réflexions sur l’idée de douceur dans la vie politique romaine. Le cas de mansuetudo et de lenitas", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=39&var_affichage=vf"
         }, 
         {
-            "title_full": "La \u00ab victoire \u00bb du christianisme. Un transfert politico-religieux d\u2019apr\u00e8s la pens\u00e9e de Lactance", 
+            "title_full": "La « victoire » du christianisme. Un transfert politico-religieux d’après la pensée de Lactance", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=46&var_affichage=vf"
         }, 
         {
-            "title_full": "S\u00e9n\u00e8que lecteur d\u2019Ovide et le Trait\u00e9 du Sublime", 
+            "title_full": "Sénèque lecteur d’Ovide et le Traité du Sublime", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=44&var_affichage=vf"
         }, 
         {
-            "title_full": "D\u2019\u03b1\u1f30\u1f61\u03bd \u00e0 aeternitas : le transfert de la notion d\u2019\u00e9ternit\u00e9 chez Cic\u00e9ron", 
+            "title_full": "D’αἰὡν à aeternitas : le transfert de la notion d’éternité chez Cicéron", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=58&var_affichage=vf"
         }, 
         {
-            "title_full": "La d\u00e9finition aristot\u00e9licienne de l\u2019\u00e2me dans quelques textes latins : endelecheia ou entelecheia", 
+            "title_full": "La définition aristotélicienne de l’âme dans quelques textes latins : endelecheia ou entelecheia", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=45&var_affichage=vf"
         }, 
         {
-            "title_full": "Le grec et le refus du grec dans la po\u00e9tique juv\u00e9nalienne", 
+            "title_full": "Le grec et le refus du grec dans la poétique juvénalienne", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=40&var_affichage=vf"
         }, 
         {
-            "title_full": "Les pi\u00e8ces profanes de Dracontius. M\u00e9canismes de transfert et m\u00e9tamorphoses g\u00e9n\u00e9riques", 
+            "title_full": "Les pièces profanes de Dracontius. Mécanismes de transfert et métamorphoses génériques", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=41&var_affichage=vf"
         }, 
         {
@@ -141,11 +141,11 @@
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=42&var_affichage=vf"
         }, 
         {
-            "title_full": "Horace et la com\u00e9die romaine (\u00e0 propos de Carm. 4, 7, 19-20)", 
+            "title_full": "Horace et la comédie romaine (à propos de Carm. 4, 7, 19-20)", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=27&var_affichage=vf"
         }, 
         {
-            "title_full": "R\u00e9flexions sur les anapestes de S\u00e9n\u00e8que et la r\u00e9ception des m\u00e8tres grecs \u00e0 Rome", 
+            "title_full": "Réflexions sur les anapestes de Sénèque et la réception des mètres grecs à Rome", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=35&var_affichage=vf"
         }, 
         {
@@ -153,7 +153,7 @@
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=29&var_affichage=vf"
         }, 
         {
-            "title_full": "Voix du po\u00e8te et chant de la communaut\u00e9 dans les Hymnes d\u2019Ambroise de Milan", 
+            "title_full": "Voix du poète et chant de la communauté dans les Hymnes d’Ambroise de Milan", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=30&var_affichage=vf"
         }, 
         {
@@ -161,19 +161,19 @@
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=32&var_affichage=vf"
         }, 
         {
-            "title_full": "Tite-Live et le projet d\u2019\u00e9migration des Romains \u00e0 V\u00e9ies", 
+            "title_full": "Tite-Live et le projet d’émigration des Romains à Véies", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=16&var_affichage=vf"
         }, 
         {
-            "title_full": "Droit et com\u00e9die", 
+            "title_full": "Droit et comédie", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=17&var_affichage=vf"
         }, 
         {
-            "title_full": "L\u2019\u00e9criture juridique d\u2019Ovide des \u00e9l\u00e9gies amoureuses (Amours et H\u00e9ro\u00efdes) .aux Tristes de l\u2019exil", 
+            "title_full": "L’écriture juridique d’Ovide des élégies amoureuses (Amours et Héroïdes) .aux Tristes de l’exil", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=19&var_affichage=vf"
         }, 
         {
-            "title_full": "Ordo plebeius : approche d\u2019un mythe politique", 
+            "title_full": "Ordo plebeius : approche d’un mythe politique", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=18&var_affichage=vf"
         }, 
         {
@@ -181,19 +181,19 @@
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=20&var_affichage=vf"
         }, 
         {
-            "title_full": "\u00ab Pyrame et Thisb\u00e9 \u00bb dans les M\u00e9tamorphoses d\u2019Ovide : l\u2019\u00e9l\u00e9giaque, tragique de l\u2019Eros et le romanesque, \u00e9pique de l\u2019Eros ?", 
+            "title_full": "« Pyrame et Thisbé » dans les Métamorphoses d’Ovide : l’élégiaque, tragique de l’Eros et le romanesque, épique de l’Eros ?", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=9&var_affichage=vf"
         }, 
         {
-            "title_full": "Le romanesque dans l\u2019Achill\u00e9ide de Stace", 
+            "title_full": "Le romanesque dans l’Achilléide de Stace", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=10&var_affichage=vf"
         }, 
         {
-            "title_full": "Les avatars du pathos erotikon dans les M\u00e9tamorphoses d\u2019Ovide", 
+            "title_full": "Les avatars du pathos erotikon dans les Métamorphoses d’Ovide", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=11&var_affichage=vf"
         }, 
         {
-            "title_full": "\u00c9pique et romanesque : l\u2019exemple de deux \u00e9pop\u00e9es tardives, l\u2019Enl\u00e8vement de Proserpine de Claudien et la Trag\u00e9die d\u2019Oreste de Dracontius", 
+            "title_full": "Épique et romanesque : l’exemple de deux épopées tardives, l’Enlèvement de Proserpine de Claudien et la Tragédie d’Oreste de Dracontius", 
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=12&var_affichage=vf"
         }, 
         {
@@ -201,7 +201,7 @@
             "url": "http://ars-scribendi.ens-lyon.fr/article.php3?id_article=14&var_affichage=vf"
         }
     ], 
-    "title": "Interf\u00e9rences Ars scribendi", 
+    "title": "Interférences Ars scribendi", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

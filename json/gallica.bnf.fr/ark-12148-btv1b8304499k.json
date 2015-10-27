@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Source: Egyptien 61. Provenance: Biblioth\u00e8que nationale de France. Description: A, 1-4 + C, 1, 1-4: chapitre 22, R(3) n(y) rd. t r(3)=f n Wsjr \u1e0ed-\u1e24rj, \"Formule pour rendre sa bouche \u00e0 l'Osiris Djedhor\". A, 5-8 +C, 1, 4-9: chapitre 23, R(3) n(y) wn r(3) n(y) s n=f m \u1e96r(y). t-n \u1e6fr, \"Formule pour ouvrir la bouche d\u2019un homme dans la n\u00e9cropole\". C, 2, 1-9 + D, 1, 1-8: chapitre 26, R(3) n(y) rd. t n Wsjr \u1e0ed-\u1e24rj jb, \"Formule pour rendre \u00e0 l\u2019Osiris Djedhor son c\u0153ur\". D, 2, 1-9: chapitre 28 du Livre des Morts avec le titre, R(3) n(y) tm j \u1e6f=tw \u1e253ty n(y) Wsjr \u1e0ed-\u1e24rj \"Formule pour emp\u00eacher qu'on ne prenne son coeur \u00e0 Djedhor\". Date de mise en ligne: 22/02/2010.", 
+    "description": "Source: Egyptien 61. Provenance: Bibliothèque nationale de France. Description: A, 1-4 + C, 1, 1-4: chapitre 22, R(3) n(y) rd. t r(3)=f n Wsjr Ḏd-Ḥrj, \"Formule pour rendre sa bouche à l'Osiris Djedhor\". A, 5-8 +C, 1, 4-9: chapitre 23, R(3) n(y) wn r(3) n(y) s n=f m ẖr(y). t-n ṯr, \"Formule pour ouvrir la bouche d’un homme dans la nécropole\". C, 2, 1-9 + D, 1, 1-8: chapitre 26, R(3) n(y) rd. t n Wsjr Ḏd-Ḥrj jb, \"Formule pour rendre à l’Osiris Djedhor son cœur\". D, 2, 1-9: chapitre 28 du Livre des Morts avec le titre, R(3) n(y) tm j ṯ=tw ḥ3ty n(y) Wsjr Ḏd-Ḥrj \"Formule pour empêcher qu'on ne prenne son coeur à Djedhor\". Date de mise en ligne: 22/02/2010.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4872810227567841279", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.677630"
+            "when": "2015-10-27T18:42:41.960177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-egyptian-manuscripts-online-at.html", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.677643"
+            "when": "2015-10-27T18:42:41.960191"
         }
     ], 
     "publishers": [], 

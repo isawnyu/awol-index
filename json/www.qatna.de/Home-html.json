@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Qatna. HomeAktuelles VeranstaltungenNeuerscheinungenPressemitteilungenDie Stadt Qatna LageUmweltrekonstruktionTopographie & StadtbildGeschichteForschung Fr\u00fche AusgrabungenAktuelles KooperationsprojektZiele der MissionGrabungsberichte Kampagne 1998Kampagne 1999Kampagne 2000K\u00f6nigspalast Repr\u00e4sentationsr\u00e4umeKorridor - Gang zur UnterweltAhnenstatuen der K\u00f6nigsgruftDie K\u00f6nigsgruftDer PalastbrunnenDer Nordwestfl\u00fcgelDie Gruft VIIMultimediale 3D-TourFunde Die WandmalereienTontafeln des IdaddaBildergalerie K\u00f6nigsgruftBildergalerie Gruft VIIBildergalerie KeramikRestaurierung Architektur & Schutzd\u00e4cherTeam & Partner Das TeamF\u00f6rdererProjektpartnerBegleitende UntersuchungenWeiterf\u00fchrende ForschungReferenzen.", 
+    "description": "Qatna. HomeAktuelles VeranstaltungenNeuerscheinungenPressemitteilungenDie Stadt Qatna LageUmweltrekonstruktionTopographie & StadtbildGeschichteForschung Frühe AusgrabungenAktuelles KooperationsprojektZiele der MissionGrabungsberichte Kampagne 1998Kampagne 1999Kampagne 2000Königspalast RepräsentationsräumeKorridor - Gang zur UnterweltAhnenstatuen der KönigsgruftDie KönigsgruftDer PalastbrunnenDer NordwestflügelDie Gruft VIIMultimediale 3D-TourFunde Die WandmalereienTontafeln des IdaddaBildergalerie KönigsgruftBildergalerie Gruft VIIBildergalerie KeramikRestaurierung Architektur & SchutzdächerTeam & Partner Das TeamFördererProjektpartnerBegleitende UntersuchungenWeiterführende ForschungReferenzen.", 
     "domain": "www.qatna.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4544761335001957999", 
             "resource_date": "2012-05-11T22:21:36.658-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:29.236697"
+            "when": "2015-10-27T18:41:55.009450"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/qatna-online.html", 
             "resource_date": "2012-05-11T22:21:36.658-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:29.236714"
+            "when": "2015-10-27T18:41:55.009467"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4544761335001957999", 
             "resource_date": "2012-05-11T22:21:36.658-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:29.238396"
+            "when": "2015-10-27T18:41:55.011181"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/qatna-online.html", 
             "resource_date": "2012-05-11T22:21:36.658-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:29.238409"
+            "when": "2015-10-27T18:41:55.011191"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:29.295040"
+            "when": "2015-10-27T18:41:55.073405"
         }
     ], 
     "publishers": [], 
@@ -181,11 +181,11 @@
             "url": "http://www.qatna.de/stadt-geschichte.html"
         }, 
         {
-            "title_full": "Forschung Fr\u00fche Ausgrabungen Aktuelles Kooperationsprojekt Ziele der Mission Grabungsberichte Kampagne 1998 Kampagne 1999 Kampagne 2000", 
+            "title_full": "Forschung Frühe Ausgrabungen Aktuelles Kooperationsprojekt Ziele der Mission Grabungsberichte Kampagne 1998 Kampagne 1999 Kampagne 2000", 
             "url": "http://www.qatna.de/forschung.html"
         }, 
         {
-            "title_full": "Fr\u00fche Ausgrabungen", 
+            "title_full": "Frühe Ausgrabungen", 
             "url": "http://www.qatna.de/forschung-historisch.html"
         }, 
         {
@@ -213,11 +213,11 @@
             "url": "http://www.qatna.de/Home.html#nogo32"
         }, 
         {
-            "title_full": "K\u00f6nigspalast Repr\u00e4sentationsr\u00e4ume Korridor - Gang zur Unterwelt Ahnenstatuen der K\u00f6nigsgruft Die K\u00f6nigsgruft Der Palastbrunnen Der Nordwestfl\u00fcgel Die Gruft VII Multimediale 3D-Tour", 
+            "title_full": "Königspalast Repräsentationsräume Korridor - Gang zur Unterwelt Ahnenstatuen der Königsgruft Die Königsgruft Der Palastbrunnen Der Nordwestflügel Die Gruft VII Multimediale 3D-Tour", 
             "url": "http://www.qatna.de/Palast.html"
         }, 
         {
-            "title_full": "Repr\u00e4sentationsr\u00e4ume", 
+            "title_full": "Repräsentationsräume", 
             "url": "http://www.qatna.de/Palast-Audienzhalle.html"
         }, 
         {
@@ -225,7 +225,7 @@
             "url": "http://www.qatna.de/Palast-Vorkammer.html"
         }, 
         {
-            "title_full": "Die K\u00f6nigsgruft", 
+            "title_full": "Die Königsgruft", 
             "url": "http://www.qatna.de/Palast-Koenigsgruft.html"
         }, 
         {
@@ -233,7 +233,7 @@
             "url": "http://www.qatna.de/Palast-Brunnen.html"
         }, 
         {
-            "title_full": "Der Nordwestfl\u00fcgel", 
+            "title_full": "Der Nordwestflügel", 
             "url": "http://www.qatna.de/Palast-Nordwestfluegel.html"
         }, 
         {
@@ -245,7 +245,7 @@
             "url": "http://www.qatna.de/panorama/Panoramatour/Palast-3D.html"
         }, 
         {
-            "title_full": "Funde Die Wandmalereien Tontafeln des Idadda Bildergalerie K\u00f6nigsgruft Bildergalerie Gruft VII Bildergalerie Keramik", 
+            "title_full": "Funde Die Wandmalereien Tontafeln des Idadda Bildergalerie Königsgruft Bildergalerie Gruft VII Bildergalerie Keramik", 
             "url": "http://www.qatna.de/Funde.html"
         }, 
         {
@@ -257,7 +257,7 @@
             "url": "http://www.qatna.de/Funde-Tontafeln.html"
         }, 
         {
-            "title_full": "Bildergalerie K\u00f6nigsgruft", 
+            "title_full": "Bildergalerie Königsgruft", 
             "url": "http://www.qatna.de/Funde-Bildgalerie-1.html"
         }, 
         {
@@ -269,15 +269,15 @@
             "url": "http://www.qatna.de/Funde-Bildgalerie-3.html"
         }, 
         {
-            "title_full": "Restaurierung Architektur & Schutzd\u00e4cher", 
+            "title_full": "Restaurierung Architektur & Schutzdächer", 
             "url": "http://www.qatna.de/Restaurierung.html"
         }, 
         {
-            "title_full": "Architektur & Schutzd\u00e4cher", 
+            "title_full": "Architektur & Schutzdächer", 
             "url": "http://www.qatna.de/restaurierung-architektur.html"
         }, 
         {
-            "title_full": "Team & Partner Das Team F\u00f6rderer Projektpartner Begleitende Untersuchungen Weiterf\u00fchrende Forschung", 
+            "title_full": "Team & Partner Das Team Förderer Projektpartner Begleitende Untersuchungen Weiterführende Forschung", 
             "url": "http://www.qatna.de/Team.html"
         }, 
         {
@@ -285,7 +285,7 @@
             "url": "http://www.qatna.de/team-1.html"
         }, 
         {
-            "title_full": "F\u00f6rderer", 
+            "title_full": "Förderer", 
             "url": "http://www.qatna.de/team-foerderer.html"
         }, 
         {
@@ -297,7 +297,7 @@
             "url": "http://www.qatna.de/team-untersuchungen.html"
         }, 
         {
-            "title_full": "Weiterf\u00fchrende Forschung", 
+            "title_full": "Weiterführende Forschung", 
             "url": "http://www.qatna.de/team-forschung.html"
         }, 
         {

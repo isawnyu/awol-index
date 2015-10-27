@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Annuaire de la Soci\u00e9t\u00e9 arch\u00e9ologique de la province de Constantine. ISSN: 2195-934X. Die \u201eSociet\u00e9 Arch\u00e9ologique de la Province de Contantine\" war ein Zusammenschluss interessierter Altertumsforscher. Ihre Forschungen konzentrierten sich auf die Spuren der r\u00f6mischen Besiedlung der antiken Stadt Cirta, dem heutigen Constantine in Algerien. Von dort sowie von weiteren r\u00f6mischen Fundpl\u00e4tzen der Region wurden von den Mitgliedern der Societ\u00e9 Arch\u00e9ologique vor allem Inschriften publiziert. Viele der Fundst\u00e4tten, \u00fcber die die Societ\u00e9 Arch\u00e9ologique berichtete, sind heute nicht mehr zu sehen. Der erste Jahrgang der Zeitschrift erschien 1853, bereits nach wenigen Jahren wurde 1862 die Herausgabe eingestellt.", 
+    "description": "Annuaire de la Société archéologique de la province de Constantine. ISSN: 2195-934X. Die „Societé Archéologique de la Province de Contantine\" war ein Zusammenschluss interessierter Altertumsforscher. Ihre Forschungen konzentrierten sich auf die Spuren der römischen Besiedlung der antiken Stadt Cirta, dem heutigen Constantine in Algerien. Von dort sowie von weiteren römischen Fundplätzen der Region wurden von den Mitgliedern der Societé Archéologique vor allem Inschriften publiziert. Viele der Fundstätten, über die die Societé Archéologique berichtete, sind heute nicht mehr zu sehen. Der erste Jahrgang der Zeitschrift erschien 1853, bereits nach wenigen Jahren wurde 1862 die Herausgabe eingestellt.", 
     "domain": "annconstantine.uni-hd.de", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4564971385549000088", 
             "resource_date": "2013-06-12T10:18:46.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:29.926867"
+            "when": "2015-10-27T18:41:55.752279"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/annuaire-de-la-societe-archeologique-de.html", 
             "resource_date": "2013-06-12T10:18:46.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:29.926882"
+            "when": "2015-10-27T18:41:55.752294"
         }
     ], 
     "publishers": [], 
@@ -87,7 +87,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Annuaire de la Soci\u00e9t\u00e9 arch\u00e9ologique de la province de Constantine", 
+    "title": "Annuaire de la Société archéologique de la province de Constantine", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

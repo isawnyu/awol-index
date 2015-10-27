@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue arch\u00e9ologique du Centre de la France. ISSN: 0220-6617. EISSN: 19516207. Publisher: F\u00e9d\u00e9ration pour l\u2019\u00e9dition de la Revue arch\u00e9ologique du Centre de la France. La Revue arch\u00e9ologique du Centre de la France est l\u2019une des six revues arch\u00e9ologiques interr\u00e9gionales qui couvrent le territoire m\u00e9tropolitain; son ressort g\u00e9ographique concerne les r\u00e9gions Auvergne, Centre et \u00cele-de-France, ainsi que le d\u00e9partement de la Loire (r\u00e9gion Rh\u00f4ne-Alpes). Elle couvre l\u2019arch\u00e9ologie de toutes les p\u00e9riodes, depuis la Pr\u00e9histoire la plus ancienne jusqu\u2019\u00e0 l\u2019arch\u00e9ologie industrielle et des Temps Modernes, la majorit\u00e9 des contributions portant sur la Protohistoire, la p\u00e9riode gallo-romaine et le Moyen \u00c2ge. Num\u00e9ros en texte int\u00e9gral.", 
+    "description": "Revue archéologique du Centre de la France. ISSN: 0220-6617. EISSN: 19516207. Publisher: Fédération pour l’édition de la Revue archéologique du Centre de la France. La Revue archéologique du Centre de la France est l’une des six revues archéologiques interrégionales qui couvrent le territoire métropolitain; son ressort géographique concerne les régions Auvergne, Centre et Île-de-France, ainsi que le département de la Loire (région Rhône-Alpes). Elle couvre l’archéologie de toutes les périodes, depuis la Préhistoire la plus ancienne jusqu’à l’archéologie industrielle et des Temps Modernes, la majorité des contributions portant sur la Protohistoire, la période gallo-romaine et le Moyen Âge. Numéros en texte intégral.", 
     "domain": "racf.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Revue arch\u00e9ologique du Centre de la France", 
+        "title_full": "Revue archéologique du Centre de la France", 
         "url": "http://racf.revues.org/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352189185984310569", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.144059"
+            "when": "2015-10-27T18:44:39.665226"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-archeologique.html", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.144076"
+            "when": "2015-10-27T18:44:39.665239"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Suppl\u00e9ment n\u00b030", 
+    "title": "Supplément n°30", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

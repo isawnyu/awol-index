@@ -3,7 +3,7 @@
         "Reiter, Paul"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Fakult\u00e4t f\u00fcr Sozialwissenschaften. BetreuerIn: Chevron, Marie-France", 
+    "description": "Diplomarbeit, University of Vienna. Fakultät für Sozialwissenschaften. BetreuerIn: Chevron, Marie-France", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -60,13 +60,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.698803"
+            "when": "2015-10-27T18:36:58.341797"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.698814"
+            "when": "2015-10-27T18:36:58.341814"
         }
     ], 
     "publishers": [], 

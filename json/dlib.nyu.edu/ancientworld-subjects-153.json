@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2574513768245403685", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.152642"
+            "when": "2015-10-27T18:38:49.305384"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-cuneiform.html", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.152658"
+            "when": "2015-10-27T18:38:49.305398"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5930806261517756093", 
             "resource_date": "2015-05-16T17:57:29.921-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:36.308010"
+            "when": "2015-10-27T18:44:10.599935"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-library-of.html", 
             "resource_date": "2015-05-16T17:57:29.921-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:36.308022"
+            "when": "2015-10-27T18:44:10.599945"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:36.323302"
+            "when": "2015-10-27T18:44:10.618403"
         }, 
         {
             "fields": [
@@ -169,13 +169,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126027862145705236", 
             "resource_date": "2015-05-15T13:27:11.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.328746"
+            "when": "2015-10-27T18:44:20.202195"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series.html", 
             "resource_date": "2015-05-15T13:27:11.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.328758"
+            "when": "2015-10-27T18:44:20.202208"
         }, 
         {
             "fields": [
@@ -187,7 +187,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:45.381786"
+            "when": "2015-10-27T18:44:20.249477"
         }
     ], 
     "publishers": [], 

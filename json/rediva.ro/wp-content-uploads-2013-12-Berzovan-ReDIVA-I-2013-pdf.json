@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aurora Pe\u021ban, Sarmizegetusa Regia in the Austrian map of 1804.", 
+    "description": "Aurora Pețan, Sarmizegetusa Regia in the Austrian map of 1804.", 
     "domain": "rediva.ro", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ReDIVA: Revista Doctoranzilor \u00een Istorie Veche \u015fi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
+        "title_full": "ReDIVA: Revista Doctoranzilor în Istorie Veche şi Arheologie - The Postgraduate Journal of Ancient History and Archaeology", 
         "url": "http://rediva.ro/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8597554781167989807", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.967731"
+            "when": "2015-10-27T18:47:55.491086"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-rediva-revista.html", 
             "resource_date": "2013-12-02T15:45:35.177-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.967743"
+            "when": "2015-10-27T18:47:55.491102"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Alexandru Berzovan, Some remarks on the Dacian silver hoard found at Gura V\u0103ii (Ple\u0219cu\u021ba town, Arad County)", 
+    "title": "Alexandru Berzovan, Some remarks on the Dacian silver hoard found at Gura Văii (Pleșcuța town, Arad County)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5238016458939323528", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.573713"
+            "when": "2015-10-27T18:43:18.512959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/portal-of-national-archive-of-monuments.html", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.573730"
+            "when": "2015-10-27T18:43:18.512975"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5238016458939323528", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.577926"
+            "when": "2015-10-27T18:43:18.517363"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/portal-of-national-archive-of-monuments.html", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.577941"
+            "when": "2015-10-27T18:43:18.517377"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:47.623581"
+            "when": "2015-10-27T18:43:18.567346"
         }
     ], 
     "publishers": [], 
@@ -150,15 +150,15 @@
             "url": "http://nam.culture.gr/portal/page/portal/deam/deam"
         }, 
         {
-            "title_full": "\u2022 Identity", 
+            "title_full": "• Identity", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/deam/id"
         }, 
         {
-            "title_full": "\u2022 Structure", 
+            "title_full": "• Structure", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/deam/domh"
         }, 
         {
-            "title_full": "\u2022 Contact info", 
+            "title_full": "• Contact info", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/deam/contact_info"
         }, 
         {
@@ -166,75 +166,75 @@
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga"
         }, 
         {
-            "title_full": "\u2022 The National Archive of Monuments", 
+            "title_full": "• The National Archive of Monuments", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/nam"
         }, 
         {
-            "title_full": "\u2022 Digitisation of Collections", 
+            "title_full": "• Digitisation of Collections", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol"
         }, 
         {
-            "title_full": "\u2022 Digital Collections", 
+            "title_full": "• Digital Collections", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/collections"
         }, 
         {
-            "title_full": "\u2022 Coordination", 
+            "title_full": "• Coordination", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/subproject1"
         }, 
         {
-            "title_full": "\u2022 Moveable Monuments", 
+            "title_full": "• Moveable Monuments", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/subproject2"
         }, 
         {
-            "title_full": "\u2022 Ancient Dion", 
+            "title_full": "• Ancient Dion", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/subproject4"
         }, 
         {
-            "title_full": "\u2022 Acropolis", 
+            "title_full": "• Acropolis", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/subproject5"
         }, 
         {
-            "title_full": "\u2022 Publicity", 
+            "title_full": "• Publicity", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/digitcol/subproject7"
         }, 
         {
-            "title_full": "\u2022 Historical Archive", 
+            "title_full": "• Historical Archive", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/histarchive"
         }, 
         {
-            "title_full": "\u2022 Digitisation", 
+            "title_full": "• Digitisation", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/histarchive/digitisation"
         }, 
         {
-            "title_full": "\u2022 Conservation", 
+            "title_full": "• Conservation", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/histarchive/ergastirio"
         }, 
         {
-            "title_full": "\u2022 Exhibitions", 
+            "title_full": "• Exhibitions", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/histarchive/exhibition"
         }, 
         {
-            "title_full": "\u2022 Listed Monuments", 
+            "title_full": "• Listed Monuments", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/catalogue"
         }, 
         {
-            "title_full": "\u2022 Terminology", 
+            "title_full": "• Terminology", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/orologia"
         }, 
         {
-            "title_full": "\u2022 European Networks", 
+            "title_full": "• European Networks", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/Networks"
         }, 
         {
-            "title_full": "\u2022 Research Projects", 
+            "title_full": "• Research Projects", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/research"
         }, 
         {
-            "title_full": "\u2022 Publications", 
+            "title_full": "• Publications", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/publications"
         }, 
         {
-            "title_full": "\u2022 Conferences / Seminars", 
+            "title_full": "• Conferences / Seminars", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/erga/events"
         }, 
         {
@@ -254,19 +254,19 @@
             "url": "http://nam.culture.gr/portal/page/portal/deam/digitalrepository"
         }, 
         {
-            "title_full": "\u2022 Documentation Standards / Good Practice Guides", 
+            "title_full": "• Documentation Standards / Good Practice Guides", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/digitalrepository/guidelines"
         }, 
         {
-            "title_full": "\u2022 Sources / Bibliography", 
+            "title_full": "• Sources / Bibliography", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/digitalrepository/sources"
         }, 
         {
-            "title_full": "\u2022 Useful Links", 
+            "title_full": "• Useful Links", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/digitalrepository/links"
         }, 
         {
-            "title_full": "\u2022 Promotional Material", 
+            "title_full": "• Promotional Material", 
             "url": "http://nam.culture.gr/portal/page/portal/deam/digitalrepository/promo"
         }, 
         {

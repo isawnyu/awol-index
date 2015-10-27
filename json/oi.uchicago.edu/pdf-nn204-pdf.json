@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8169306654978670018", 
             "resource_date": "2014-10-01T18:41:43.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:14.821133"
+            "when": "2015-10-27T18:47:02.498007"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-chicago-house.html", 
             "resource_date": "2014-10-01T18:41:43.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:14.821145"
+            "when": "2015-10-27T18:47:02.498018"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8993497198722463004", 
             "resource_date": "2014-10-02T17:05:59.955-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:09.168051"
+            "when": "2015-10-27T18:49:06.537169"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-oriental-institute.html", 
             "resource_date": "2014-10-02T17:05:59.955-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:09.168066"
+            "when": "2015-10-27T18:49:06.537184"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:12.746812"
+            "when": "2015-10-27T18:49:10.414496"
         }
     ], 
     "publishers": [], 

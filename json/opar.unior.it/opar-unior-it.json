@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7426831857511592710", 
             "resource_date": "2014-02-07T15:24:33.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:03.755556"
+            "when": "2015-10-27T18:45:47.323968"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/more-open-access-monographs-from-opar.html", 
             "resource_date": "2014-02-07T15:24:33.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:03.755573"
+            "when": "2015-10-27T18:45:47.323984"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7426831857511592710", 
             "resource_date": "2014-02-07T15:24:33.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:03.757942"
+            "when": "2015-10-27T18:45:47.325737"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/more-open-access-monographs-from-opar.html", 
             "resource_date": "2014-02-07T15:24:33.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:03.757959"
+            "when": "2015-10-27T18:45:47.325750"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:03.830180"
+            "when": "2015-10-27T18:45:47.403872"
         }
     ], 
     "publishers": [], 
@@ -155,7 +155,7 @@
             "url": "http://opar.unior.it/1439/"
         }, 
         {
-            "title_full": "Archeologia della grecit\u00e0 occidentale 1 : la Magna Grecia", 
+            "title_full": "Archeologia della grecità occidentale 1 : la Magna Grecia", 
             "url": "http://opar.unior.it/1457/"
         }, 
         {
@@ -167,7 +167,7 @@
             "url": "http://opar.unior.it/1472/"
         }, 
         {
-            "title_full": "La grande iscrizione di Gortyna centoventi anni dopo la scoperta : atti del 1. Convegno internazionale di studi sulla Messar\u00e0, Scuola archeologica italiana di Atene, Atene -Haghii Deka 25-28 maggio 2004", 
+            "title_full": "La grande iscrizione di Gortyna centoventi anni dopo la scoperta : atti del 1. Convegno internazionale di studi sulla Messarà, Scuola archeologica italiana di Atene, Atene -Haghii Deka 25-28 maggio 2004", 
             "url": "http://opar.unior.it/1482/"
         }, 
         {
@@ -183,11 +183,11 @@
             "url": "http://opar.unior.it/1498/"
         }, 
         {
-            "title_full": "Poseidonia Paestum : la visita della citt\u00e0 / Emanuele Greco, Fausto Longo ; a cura di Marina Cipriani", 
+            "title_full": "Poseidonia Paestum : la visita della città / Emanuele Greco, Fausto Longo ; a cura di Marina Cipriani", 
             "url": "http://opar.unior.it/1516/"
         }, 
         {
-            "title_full": "Gli Achei e l'identit\u00e0 etnica degli Achei d'occidente : atti del Convegno internazionale di studi, Paestum, 23-25 febbraio 2001 / a cura di Emanuele Greco", 
+            "title_full": "Gli Achei e l'identità etnica degli Achei d'occidente : atti del Convegno internazionale di studi, Paestum, 23-25 febbraio 2001 / a cura di Emanuele Greco", 
             "url": "http://opar.unior.it/1517/"
         }, 
         {
@@ -207,7 +207,7 @@
             "url": "http://opar.unior.it/1541/"
         }, 
         {
-            "title_full": "La citt\u00e0 greca antica : societ\u00e0,istituzioni e forme urbane / a cura di Emanuele Greco", 
+            "title_full": "La città greca antica : società,istituzioni e forme urbane / a cura di Emanuele Greco", 
             "url": "http://opar.unior.it/1611/"
         }, 
         {

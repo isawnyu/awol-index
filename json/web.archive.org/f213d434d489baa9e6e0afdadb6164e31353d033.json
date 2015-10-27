@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Auteur: Mark de Brito. R\u00e9sum\u00e9: \"The thrust of this symposium is to interpret Egyptian civilization in the context of present-day and other African cultures. An impressive array of contributors, European and African, pursue the theme accross several disciplines: theory (epistemology), language, comparative religion, anthropology, history, prehistory, and archaeology. \". Cet article est paru dans les Cahiers Carib\u00e9ens d'Egyptologie n\u00b03/4.", 
+    "description": "Auteur: Mark de Brito. Résumé: \"The thrust of this symposium is to interpret Egyptian civilization in the context of present-day and other African cultures. An impressive array of contributors, European and African, pursue the theme accross several disciplines: theory (epistemology), language, comparative religion, anthropology, history, prehistory, and archaeology. \". Cet article est paru dans les Cahiers Caribéens d'Egyptologie n°3/4.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353794619872537154", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.557994"
+            "when": "2015-10-27T18:40:45.721915"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.558007"
+            "when": "2015-10-27T18:40:45.721939"
         }
     ], 
     "publishers": [], 

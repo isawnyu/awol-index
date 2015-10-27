@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 November 2010. Updated 19 December 2011]. Carl Richard LepsiusDenkm\u00e4ler aus Aegyptern uus Aethiopien. In den Jahren 1842 bis 1845 f\u00fchrte Carl Richard Lepsius im Auftrag seiner Majest\u00e4t dem K\u00f6nig von Preussen Friedrich Wilhelm IV. eine wissenschaftliche Expedition nach \u00c4gypten durch. Die dort gewonnenen Ergebnisse wurden von ihm in dem gro\u00dfen Tafelwerk \"Denkm\u00e4ler aus Aegypten und Aethiopien\" zusammengefa\u00dft, das in den Jahren 1849 bis 1859 erschien. Das Tafelwerk umfasst 12 B\u00e4nde, die in 6 Abteilungen unterteilt sind. Lepsius plante, diesen Tafeln einen erl\u00e4uternten Text beizugeben und die nicht in das Hauptwerk aufgenommenen Zeichnungen und Inschriften in einem Erg\u00e4nzungsband herauszugeben. Beide Pl\u00e4ne gelangten durch den Tod von Carl Richard Lepsius nicht zur Verwirklichung. Die Herausgabe der erl\u00e4uternden Texte \u00fcbernahm deshalb Eduard Naville, die Ausarbeitung wurde Kurt Sethe \u00fcbertragen, dem Regierungsbaumeister Borchardt f\u00fcr die architektonischen Abschnitte zur Seite stand. TEXTB\u00c4NDE BAND I. UNTERAEGYPTEN. UND MEMPHIS. BAND II. MITTELAEGYPTEN. MIT DEM FAYUM. BAND III. THEBEN. BAND IV. OBERAEGYPTEN. BAND V. NUBIEN, SINAI. EUROP. MUSEEN TAFELWERKE. ABTHEILUNG III. ABTHEILUNG IV. ABTHEILUNG VI. ERG\u00c4NZUNGSBAND: ZUSATZINFOS. : PROJEKT. : LEBENSLAUF. : DENKMALWERK. : LITERATUR.", 
+    "description": "[First posted in AWOL 21 November 2010. Updated 19 December 2011]. Carl Richard LepsiusDenkmäler aus Aegyptern uus Aethiopien. In den Jahren 1842 bis 1845 führte Carl Richard Lepsius im Auftrag seiner Majestät dem König von Preussen Friedrich Wilhelm IV. eine wissenschaftliche Expedition nach Ägypten durch. Die dort gewonnenen Ergebnisse wurden von ihm in dem großen Tafelwerk \"Denkmäler aus Aegypten und Aethiopien\" zusammengefaßt, das in den Jahren 1849 bis 1859 erschien. Das Tafelwerk umfasst 12 Bände, die in 6 Abteilungen unterteilt sind. Lepsius plante, diesen Tafeln einen erläuternten Text beizugeben und die nicht in das Hauptwerk aufgenommenen Zeichnungen und Inschriften in einem Ergänzungsband herauszugeben. Beide Pläne gelangten durch den Tod von Carl Richard Lepsius nicht zur Verwirklichung. Die Herausgabe der erläuternden Texte übernahm deshalb Eduard Naville, die Ausarbeitung wurde Kurt Sethe übertragen, dem Regierungsbaumeister Borchardt für die architektonischen Abschnitte zur Seite stand. TEXTBÄNDE BAND I. UNTERAEGYPTEN. UND MEMPHIS. BAND II. MITTELAEGYPTEN. MIT DEM FAYUM. BAND III. THEBEN. BAND IV. OBERAEGYPTEN. BAND V. NUBIEN, SINAI. EUROP. MUSEEN TAFELWERKE. ABTHEILUNG III. ABTHEILUNG IV. ABTHEILUNG VI. ERGÄNZUNGSBAND: ZUSATZINFOS. : PROJEKT. : LEBENSLAUF. : DENKMALWERK. : LITERATUR.", 
     "domain": "edoc3.bibliothek.uni-halle.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Carl Richard LepsiusDenkm\u00e4ler aus Aegyptern uus Aethiopien", 
+        "title_full": "Carl Richard LepsiusDenkmäler aus Aegyptern uus Aethiopien", 
         "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/start.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8241821646332482639", 
             "resource_date": "2011-12-19T12:52:19.166-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:18.062176"
+            "when": "2015-10-27T18:47:05.958685"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/lepsius-denkmaler-onlinne.html", 
             "resource_date": "2011-12-19T12:52:19.166-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:18.062192"
+            "when": "2015-10-27T18:47:05.958701"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8241821646332482639", 
             "resource_date": "2011-12-19T12:52:19.166-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:18.067395"
+            "when": "2015-10-27T18:47:05.964122"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/lepsius-denkmaler-onlinne.html", 
             "resource_date": "2011-12-19T12:52:19.166-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:18.067408"
+            "when": "2015-10-27T18:47:05.964135"
         }, 
         {
             "fields": [
@@ -127,7 +127,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:18.105144"
+            "when": "2015-10-27T18:47:06.002164"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Carl Richard LepsiusDenkm\u00e4ler aus Aegyptern uus Aethiopien", 
+            "title_full": "Carl Richard LepsiusDenkmäler aus Aegyptern uus Aethiopien", 
             "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/start.html"
         }, 
         {
@@ -181,7 +181,7 @@
             "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/tafelwa6.html"
         }, 
         {
-            "title_full": "ERG\u00c4NZUNGSBAND", 
+            "title_full": "ERGÄNZUNGSBAND", 
             "url": "http://edoc3.bibliothek.uni-halle.de/examples/servlet/BlaetterFrameImMap?dir=/lepsius/page/egb1-4/image/"
         }, 
         {
@@ -201,7 +201,7 @@
             "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/zusatz/literatur.htm"
         }
     ], 
-    "title": "Carl Richard LepsiusDenkm\u00e4ler aus Aegyptern uus Aethiopien", 
+    "title": "Carl Richard LepsiusDenkmäler aus Aegyptern uus Aethiopien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

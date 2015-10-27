@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2542949060813934995", 
             "resource_date": "2014-08-07T12:19:08.804-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.186240"
+            "when": "2015-10-27T18:38:48.307940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-acces-monograph-series-orientlab.html", 
             "resource_date": "2014-08-07T12:19:08.804-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.186257"
+            "when": "2015-10-27T18:38:48.307956"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2542949060813934995", 
             "resource_date": "2014-08-07T12:19:08.804-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.189275"
+            "when": "2015-10-27T18:38:48.310810"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-acces-monograph-series-orientlab.html", 
             "resource_date": "2014-08-07T12:19:08.804-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.189292"
+            "when": "2015-10-27T18:38:48.310822"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:40.191043"
+            "when": "2015-10-27T18:38:48.312683"
         }
     ], 
     "publishers": [], 

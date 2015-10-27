@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4651220095055090875", 
             "resource_date": "2014-12-04T12:38:32.135-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.070803"
+            "when": "2015-10-27T18:42:07.735474"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/stolen-gods-reporting-theft-and.html", 
             "resource_date": "2014-12-04T12:38:32.135-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.070820"
+            "when": "2015-10-27T18:42:07.735490"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4651220095055090875", 
             "resource_date": "2014-12-04T12:38:32.135-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.072531"
+            "when": "2015-10-27T18:42:07.737431"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/stolen-gods-reporting-theft-and.html", 
             "resource_date": "2014-12-04T12:38:32.135-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.072543"
+            "when": "2015-10-27T18:42:07.737445"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:41.080923"
+            "when": "2015-10-27T18:42:07.747068"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nailos: Estudios Interdisciplinares de Arqueologia. ISSN: 2340-9126. e-ISSN: 2341-1074. Nailos admite para su publicaci\u00f3n estudios relacionados directamente con la Arqueolog\u00eda, entendida esta como la disciplina cient\u00edfica que estudia las sociedades a partir de sus restos materiales, independientemente del periodo cronol\u00f3gico al que pertenezcan. Tambi\u00e9n acepta colaboraciones relativas a temas como la epistemolog\u00eda y metodolog\u00eda arqueol\u00f3gica, historia de la ciencia arqueol\u00f3gica, geoarqueolog\u00eda, paleoantropolog\u00eda, arqueometr\u00eda, estudios de paleoambiente, museolog\u00eda y did\u00e1ctica de la Arqueolog\u00eda, gesti\u00f3n del patrimonio arqueol\u00f3gico o etnoarqueolog\u00eda. 2014 Nailos Volumen 1. See the full.", 
+    "description": "Nailos: Estudios Interdisciplinares de Arqueologia. ISSN: 2340-9126. e-ISSN: 2341-1074. Nailos admite para su publicación estudios relacionados directamente con la Arqueología, entendida esta como la disciplina científica que estudia las sociedades a partir de sus restos materiales, independientemente del periodo cronológico al que pertenezcan. También acepta colaboraciones relativas a temas como la epistemología y metodología arqueológica, historia de la ciencia arqueológica, geoarqueología, paleoantropología, arqueometría, estudios de paleoambiente, museología y didáctica de la Arqueología, gestión del patrimonio arqueológico o etnoarqueología. 2014 Nailos Volumen 1. See the full.", 
     "domain": "nailos.org", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1056513428593203376", 
             "resource_date": "2014-03-22T09:07:37.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:03.692467"
+            "when": "2015-10-27T18:37:04.266165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-nailos-estudios.html", 
             "resource_date": "2014-03-22T09:07:37.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:03.692483"
+            "when": "2015-10-27T18:37:04.266180"
         }
     ], 
     "publishers": [], 

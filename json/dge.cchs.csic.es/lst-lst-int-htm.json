@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DICCIONARIO GRIEGO-ESPA\u00d1OL: Nueva Edici\u00f3n de las Listas I-IV -.", 
+    "description": "DICCIONARIO GRIEGO-ESPAÑOL: Nueva Edición de las Listas I-IV -.", 
     "domain": "dge.cchs.csic.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DICCIONARIO GRIEGO-ESPA\u00d1OL: Nueva Edici\u00f3n de las Listas I-IV", 
+        "title_full": "DICCIONARIO GRIEGO-ESPAÑOL: Nueva Edición de las Listas I-IV", 
         "url": "http://dge.cchs.csic.es/lst/lst-int.htm"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106521641675755269", 
             "resource_date": "2013-09-03T09:43:42.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:08.763708"
+            "when": "2015-10-27T18:37:09.683658"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/diccionario-griego-espanol-canon-lists.html", 
             "resource_date": "2013-09-03T09:43:42.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:08.763725"
+            "when": "2015-10-27T18:37:09.683675"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106521641675755269", 
             "resource_date": "2013-09-03T09:43:42.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:08.765449"
+            "when": "2015-10-27T18:37:09.685459"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/diccionario-griego-espanol-canon-lists.html", 
             "resource_date": "2013-09-03T09:43:42.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:08.765461"
+            "when": "2015-10-27T18:37:09.685472"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:08.770467"
+            "when": "2015-10-27T18:37:09.688959"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "DICCIONARIO GRIEGO-ESPA\u00d1OL: Nueva Edici\u00f3n de las Listas I-IV", 
+            "title_full": "DICCIONARIO GRIEGO-ESPAÑOL: Nueva Edición de las Listas I-IV", 
             "url": "http://dge.cchs.csic.es/lst/lst-int.htm"
         }, 
         {
@@ -153,7 +153,7 @@
             "url": "http://dge.cchs.csic.es/lst/3lst-int.htm"
         }
     ], 
-    "title": "DICCIONARIO GRIEGO-ESPA\u00d1OL: Nueva Edici\u00f3n de las Listas I-IV", 
+    "title": "DICCIONARIO GRIEGO-ESPAÑOL: Nueva Edición de las Listas I-IV", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

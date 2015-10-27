@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "19 | 2012. Patrimoines et conservation pr\u00e9ventive. Pratiques compar\u00e9es et nouveaux enjeux.", 
+    "description": "19 | 2012. Patrimoines et conservation préventive. Pratiques comparées et nouveaux enjeux.", 
     "domain": "insitu.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8522013699704149116", 
             "resource_date": "2015-05-26T11:52:18.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.553444"
+            "when": "2015-10-27T18:47:48.399595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/newly-open-access-journal-in-situ-revue.html", 
             "resource_date": "2015-05-26T11:52:18.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.553455"
+            "when": "2015-10-27T18:47:48.399607"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "20 | 2013 . Les patrimoines de la traite n\u00e9gri\u00e8re et de l'esclavage", 
+    "title": "20 | 2013 . Les patrimoines de la traite négrière et de l'esclavage", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

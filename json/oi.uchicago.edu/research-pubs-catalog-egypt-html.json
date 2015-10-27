@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.719988"
+            "when": "2015-10-27T18:41:50.075860"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.720004"
+            "when": "2015-10-27T18:41:50.075880"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.721385"
+            "when": "2015-10-27T18:41:50.077472"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.721399"
+            "when": "2015-10-27T18:41:50.077483"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:24.729419"
+            "when": "2015-10-27T18:41:50.086372"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4611425866076387221", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.380111"
+            "when": "2015-10-27T18:42:06.976046"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute.html", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.380129"
+            "when": "2015-10-27T18:42:06.976067"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:40.385313"
+            "when": "2015-10-27T18:42:06.981752"
         }, 
         {
             "fields": [
@@ -239,13 +239,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4611425866076387221", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.381499"
+            "when": "2015-10-27T18:42:06.977544"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute.html", 
             "resource_date": "2009-11-07T08:19:10.540-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.381511"
+            "when": "2015-10-27T18:42:06.977557"
         }, 
         {
             "fields": [
@@ -258,7 +258,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:40.389093"
+            "when": "2015-10-27T18:42:06.984120"
         }, 
         {
             "fields": [
@@ -299,13 +299,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674009128707412820", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.081836"
+            "when": "2015-10-27T18:45:07.046125"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_10.html", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.081854"
+            "when": "2015-10-27T18:45:07.046145"
         }, 
         {
             "fields": [
@@ -318,7 +318,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.087476"
+            "when": "2015-10-27T18:45:07.052597"
         }, 
         {
             "fields": [
@@ -359,13 +359,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674009128707412820", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.083198"
+            "when": "2015-10-27T18:45:07.047933"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_10.html", 
             "resource_date": "2009-11-10T16:49:02.698-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.083210"
+            "when": "2015-10-27T18:45:07.047946"
         }, 
         {
             "fields": [
@@ -378,7 +378,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.090061"
+            "when": "2015-10-27T18:45:07.055806"
         }, 
         {
             "fields": [
@@ -419,13 +419,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.396095"
+            "when": "2015-10-27T18:45:19.609637"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.396111"
+            "when": "2015-10-27T18:45:19.609661"
         }, 
         {
             "fields": [
@@ -439,7 +439,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.440494"
+            "when": "2015-10-27T18:45:19.655844"
         }, 
         {
             "fields": [
@@ -480,13 +480,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.397485"
+            "when": "2015-10-27T18:45:19.611071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.397497"
+            "when": "2015-10-27T18:45:19.611083"
         }, 
         {
             "fields": [
@@ -499,7 +499,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.446888"
+            "when": "2015-10-27T18:45:19.661480"
         }, 
         {
             "fields": [
@@ -540,13 +540,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8032728012236187945", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:10.322350"
+            "when": "2015-10-27T18:46:57.682162"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_12.html", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:10.322370"
+            "when": "2015-10-27T18:46:57.682178"
         }, 
         {
             "fields": [
@@ -559,7 +559,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:10.329328"
+            "when": "2015-10-27T18:46:57.688807"
         }, 
         {
             "fields": [
@@ -600,13 +600,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8032728012236187945", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:10.324105"
+            "when": "2015-10-27T18:46:57.683642"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_12.html", 
             "resource_date": "2009-11-12T11:29:04.513-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:10.324120"
+            "when": "2015-10-27T18:46:57.683653"
         }, 
         {
             "fields": [
@@ -619,7 +619,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:10.333738"
+            "when": "2015-10-27T18:46:57.693989"
         }
     ], 
     "publishers": [], 
@@ -693,7 +693,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip71.html"
         }, 
         {
-            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954", 
+            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo Hölscher. Originally published in 1954", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip66.html"
         }, 
         {
@@ -705,7 +705,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip51.html"
         }, 
         {
-            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo H\u00f6lscher. Originally published in 1939", 
+            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo Hölscher. Originally published in 1939", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip41.html"
         }, 
         {
@@ -717,7 +717,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html"
         }, 
         {
-            "title_full": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo H\u00f6lscher", 
+            "title_full": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo Hölscher", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip21.html"
         }, 
         {

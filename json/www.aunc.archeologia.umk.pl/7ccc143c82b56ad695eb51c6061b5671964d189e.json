@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pawe\u0142 Rutecki, Wrak W-25. Podwodne badania archeologiczne w Zatoce Gda\u0144skiej 127.", 
+    "description": "Paweł Rutecki, Wrak W-25. Podwodne badania archeologiczne w Zatoce Gdańskiej 127.", 
     "domain": "www.aunc.archeologia.umk.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8258937135871710449", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.054557"
+            "when": "2015-10-27T18:47:07.075714"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-acta.html", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.054568"
+            "when": "2015-10-27T18:47:07.075725"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gerard Wilke, Najstarsze mosty zachodnios\u0142owia\u0144skie z mi\u0119dzyrzecza \u0141aby i Odry (VIII-X/XIwiek) 57", 
+    "title": "Gerard Wilke, Najstarsze mosty zachodniosłowiańskie z międzyrzecza Łaby i Odry (VIII-X/XIwiek) 57", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arch\u00e9opages", 
+        "title_full": "Archéopages", 
         "url": "http://www.inrap.fr/archeologie-preventive/La-Recherche/Archeopages/La-revue/p-9131-A-propos.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2221337306484005741", 
             "resource_date": "2013-09-02T09:26:25.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:20.721024"
+            "when": "2015-10-27T18:38:28.552948"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-archeopages.html", 
             "resource_date": "2013-09-02T09:26:25.842-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:20.721037"
+            "when": "2015-10-27T18:38:28.552959"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revista \u201eTyragetia\"", 
+        "title_full": "Revista „Tyragetia\"", 
         "url": "http://www.nationalmuseum.md/ro/press_releases/journal_tyragetia"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1966375195414505892", 
             "resource_date": "2012-04-17T10:19:23.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:06.968788"
+            "when": "2015-10-27T18:38:13.341313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-revista-tyragetia.html", 
             "resource_date": "2012-04-17T10:19:23.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:06.968796"
+            "when": "2015-10-27T18:38:13.341320"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Halvo. Das halvo-Projekt ist eine studentisch initiierte Datenbank f\u00fcr das Studium der Vorderasiatischen Arch\u00e4ologie. Es ist nicht Ziel diese Datenbank Informationen zu arch\u00e4ologischen Themen m\u00f6glichst komplett aufzunehmen, sondern vielmehr eine Grundlage f\u00fcr die Recherche innerhalb des Studiums oder f\u00fcr frei Interessierte zu bieten. Diese Seite befindet sich immer noch im Aufbau, allerdings ist die Datenbank nun langsam etwas gef\u00fcllt, so das man schon nach einigen Beitr\u00e4gen und Literatur suchen kann. Nach und nach wird diese Seite erweitert werden, sowohl an Eintr\u00e4gen, als auch an Funktionen. Fundorte. Literatur. Autoren. Zeitschriften.", 
+    "description": "Halvo. Das halvo-Projekt ist eine studentisch initiierte Datenbank für das Studium der Vorderasiatischen Archäologie. Es ist nicht Ziel diese Datenbank Informationen zu archäologischen Themen möglichst komplett aufzunehmen, sondern vielmehr eine Grundlage für die Recherche innerhalb des Studiums oder für frei Interessierte zu bieten. Diese Seite befindet sich immer noch im Aufbau, allerdings ist die Datenbank nun langsam etwas gefüllt, so das man schon nach einigen Beiträgen und Literatur suchen kann. Nach und nach wird diese Seite erweitert werden, sowohl an Einträgen, als auch an Funktionen. Fundorte. Literatur. Autoren. Zeitschriften.", 
     "domain": "www.hageneuer.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8463837465790268123", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.585378"
+            "when": "2015-10-27T18:47:15.206418"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/halvo.html", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.585395"
+            "when": "2015-10-27T18:47:15.206434"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8463837465790268123", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.589212"
+            "when": "2015-10-27T18:47:15.209986"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/halvo.html", 
             "resource_date": "2013-03-02T08:17:06.872-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.589226"
+            "when": "2015-10-27T18:47:15.209999"
         }, 
         {
             "fields": [
@@ -127,7 +127,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.599820"
+            "when": "2015-10-27T18:47:15.221015"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Henri Gauthier, Le temple de Ouadi es-Sebou\u00e2, Tomepremier (Texte), Le Caire, 1912.", 
+    "description": "Henri Gauthier, Le temple de Ouadi es-Sebouâ, Tomepremier (Texte), Le Caire, 1912.", 
     "domain": "www.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1842899318967787609", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.119663"
+            "when": "2015-10-27T18:38:07.529515"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/les-temples-immerges-de-la-nubia-online.html", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.119674"
+            "when": "2015-10-27T18:38:07.529533"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Friedrich Zucker, Debod bis Bab Kalabsche, Tome troisi\u00e8me , Le Caire, 1912", 
+    "title": "Friedrich Zucker, Debod bis Bab Kalabsche, Tome troisième , Le Caire, 1912", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

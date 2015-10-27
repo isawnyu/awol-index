@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Laura Candiotto, Comment r\u00e9futer l\u2019exc\u00e8s ? La m\u00e9thode socratique face \u00e0 l\u2019outrance de Callicl\u00e8s.", 
+    "description": "Laura Candiotto, Comment réfuter l’excès ? La méthode socratique face à l’outrance de Calliclès.", 
     "domain": "www.zetesis.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquit\u00e9", 
+        "title_full": "Actes de colloques de l'association des doctorants et de jeunes chercheurs en philosophie ancienne et en sciences de l'Antiquité", 
         "url": "http://www.zetesis.fr/actes/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1354315617737913649", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.823847"
+            "when": "2015-10-27T18:37:29.224189"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-actes-de-lassociation.html", 
             "resource_date": "2015-02-10T15:42:39.686-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.823859"
+            "when": "2015-10-27T18:37:29.224203"
         }
     ], 
     "publishers": [], 

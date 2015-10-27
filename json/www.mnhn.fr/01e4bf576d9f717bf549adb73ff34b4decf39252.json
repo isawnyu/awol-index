@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Anthropozoologica. ISSN: 0761-3032. , p\u00e9riodique semestriel europ\u00e9en cr\u00e9\u00e9 en 1984, a pour objectif de favoriser les \u00e9changes de r\u00e9sultats et d'id\u00e9es entre les scientifiques qui travaillent sur la relation entre l'homme et l'animal, des origines \u00e0 nos jours. Il vise \u00e0 promouvoir l'\u00e9tude de cette relation en tant qu'expression forte de l'histoire des cultures et des soci\u00e9t\u00e9s dans leur environnement naturel. Il publie des articles originaux de toutes disciplines, en fran\u00e7ais ou en anglais, portant sur ce th\u00e8me, avec une pr\u00e9f\u00e9rence pour les synth\u00e8ses interdisciplinaires. Il re\u00e7oit \u00e9galement des recensions critiques d'ouvrages et contient des pages d'information bilingues (fran\u00e7ais et anglais) sur les \u00e9v\u00e9nements scientifiques relatifs aux relations homme-animal (nouvelles parutions, congr\u00e8s et colloques, th\u00e8ses et m\u00e9moires). Il peut accueillir des actes de colloques et des volumes th\u00e9matiques. ANTHROPOZOOLOGICA est \u00e9dit\u00e9 avec le concours du Centre National de la Recherche Scientifique. Un comit\u00e9 de Lecture interdisciplinaire compos\u00e9 d'une vingtaine de personnalit\u00e9s de la communaut\u00e9 internationale aide les auteurs \u00e0 am\u00e9liorer la qualit\u00e9 de leurs contributions. Les manuscrits accept\u00e9s sont en moyenne publi\u00e9s dans les 12 mois qui suivent leur soumission. ANTHROPOZOOLOGICA est diffus\u00e9 dans une vingtaine de pays, principalement en Europe.", 
+    "description": "Anthropozoologica. ISSN: 0761-3032. , périodique semestriel européen créé en 1984, a pour objectif de favoriser les échanges de résultats et d'idées entre les scientifiques qui travaillent sur la relation entre l'homme et l'animal, des origines à nos jours. Il vise à promouvoir l'étude de cette relation en tant qu'expression forte de l'histoire des cultures et des sociétés dans leur environnement naturel. Il publie des articles originaux de toutes disciplines, en français ou en anglais, portant sur ce thème, avec une préférence pour les synthèses interdisciplinaires. Il reçoit également des recensions critiques d'ouvrages et contient des pages d'information bilingues (français et anglais) sur les événements scientifiques relatifs aux relations homme-animal (nouvelles parutions, congrès et colloques, thèses et mémoires). Il peut accueillir des actes de colloques et des volumes thématiques. ANTHROPOZOOLOGICA est édité avec le concours du Centre National de la Recherche Scientifique. Un comité de Lecture interdisciplinaire composé d'une vingtaine de personnalités de la communauté internationale aide les auteurs à améliorer la qualité de leurs contributions. Les manuscrits acceptés sont en moyenne publiés dans les 12 mois qui suivent leur soumission. ANTHROPOZOOLOGICA est diffusé dans une vingtaine de pays, principalement en Europe.", 
     "domain": "www.mnhn.fr", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8310682174757938109", 
             "resource_date": "2013-09-20T13:58:59.282-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:20.824448"
+            "when": "2015-10-27T18:47:08.982339"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-anthropozoologica.html", 
             "resource_date": "2013-09-20T13:58:59.282-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:20.824464"
+            "when": "2015-10-27T18:47:08.982355"
         }
     ], 
     "publishers": [], 
@@ -83,15 +83,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Anthropozoologica, Num\u00e9ro sp\u00e9cial, 1989", 
+            "title_full": "Anthropozoologica, Numéro spécial, 1989", 
             "url": "http://www.mnhn.fr/museum/foffice/science/science/DocScientifique/publications/presentation/listeParution/ficheParution.xsp?PARUTION_ID=1127&PUBLICATION_ID=133&THEMPUB_ID=149&idx=12&nav=tableau1"
         }, 
         {
-            "title_full": "Anthropozoologica, Numero sp\u00e9cial, 1988", 
+            "title_full": "Anthropozoologica, Numero spécial, 1988", 
             "url": "http://www.mnhn.fr/museum/foffice/science/science/DocScientifique/publications/presentation/listeParution/ficheParution.xsp?PARUTION_ID=1126&PUBLICATION_ID=133&THEMPUB_ID=149&idx=9&nav=tableau1"
         }, 
         {
-            "title_full": "Anthropozoologica, Num\u00e9ro sp\u00e9cial, 1987", 
+            "title_full": "Anthropozoologica, Numéro spécial, 1987", 
             "url": "http://www.mnhn.fr/museum/foffice/science/science/DocScientifique/publications/presentation/listeParution/ficheParution.xsp?PARUTION_ID=1116&PUBLICATION_ID=133&THEMPUB_ID=149&idx=6&nav=tableau1"
         }, 
         {

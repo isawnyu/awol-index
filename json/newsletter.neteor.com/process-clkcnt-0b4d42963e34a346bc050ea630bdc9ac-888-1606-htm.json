@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Lettre/newsletter n\u00b0 9 : 02/2011", 
+        "title_full": "Lettre/newsletter n° 9 : 02/2011", 
         "url": "http://newsletter.neteor.com/online/view_0b4d42963e34a346bc050ea630bdc9ac_888.htm"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5974810971339828701", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.387424"
+            "when": "2015-10-27T18:44:13.898909"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/whats-new-in-e-corpus-digital-library.html", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.387436"
+            "when": "2015-10-27T18:44:13.898922"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Documents from the Maison M\u00e9diterran\u00e9enne des Sciences de l'Homme ( MMSH ) in Aix en Provence and from", 
+    "title": "Documents from the Maison Méditerranéenne des Sciences de l'Homme ( MMSH ) in Aix en Provence and from", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

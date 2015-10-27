@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1842899318967787609", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.100958"
+            "when": "2015-10-27T18:38:07.512442"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/les-temples-immerges-de-la-nubia-online.html", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.100975"
+            "when": "2015-10-27T18:38:07.512459"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1842899318967787609", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.104462"
+            "when": "2015-10-27T18:38:07.514397"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/les-temples-immerges-de-la-nubia-online.html", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.104485"
+            "when": "2015-10-27T18:38:07.514409"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:02.134839"
+            "when": "2015-10-27T18:38:07.545135"
         }
     ], 
     "publishers": [], 
@@ -156,27 +156,27 @@
             "url": "http://www.archive.org/details/letempledekalabc02gaut"
         }, 
         {
-            "title_full": "Henri Gauthier, Le temple de Kalabchah, tome second (planches)[= troisi\u00e8me fascicule] , Le Caire, 1914. bound with:", 
+            "title_full": "Henri Gauthier, Le temple de Kalabchah, tome second (planches)[= troisième fascicule] , Le Caire, 1914. bound with:", 
             "url": "http://www.archive.org/details/letempledekalabc03gaut"
         }, 
         {
-            "title_full": "G\u00fcnther Roeder, Debod bis Bab Kalabsche, Tome premier , Le Caire, 1911", 
+            "title_full": "Günther Roeder, Debod bis Bab Kalabsche, Tome premier , Le Caire, 1911", 
             "url": "http://www.archive.org/details/debodbisbabkalab01roed"
         }, 
         {
-            "title_full": "G\u00fcnther Roeder, Debod bis Bab Kalabsche, Tome second , Le Caire, 1911", 
+            "title_full": "Günther Roeder, Debod bis Bab Kalabsche, Tome second , Le Caire, 1911", 
             "url": "http://www.archive.org/details/debodbisbabkalab02roed"
         }, 
         {
-            "title_full": "Gaston Maspero, Rapports relatifs \u00e0 la consolidation des temples , 2 vols., Le Caire, 1911", 
+            "title_full": "Gaston Maspero, Rapports relatifs à la consolidation des temples , 2 vols., Le Caire, 1911", 
             "url": "http://www.archive.org/details/rapportsrelatifs01masp"
         }, 
         {
-            "title_full": "Friedrich Zucker, Debod bis Bab Kalabsche, Tome troisi\u00e8me , Le Caire, 1912", 
+            "title_full": "Friedrich Zucker, Debod bis Bab Kalabsche, Tome troisième , Le Caire, 1912", 
             "url": "http://www.archive.org/details/debodbisbabkalab03roed"
         }, 
         {
-            "title_full": "Henri Gauthier, Le temple de Ouadi es-Sebou\u00e2, Tomepremier (Texte) , Le Caire, 1912", 
+            "title_full": "Henri Gauthier, Le temple de Ouadi es-Sebouâ, Tomepremier (Texte) , Le Caire, 1912", 
             "url": "http://www.archive.org/details/letempledeouadie01gaut"
         }, 
         {
@@ -188,15 +188,15 @@
             "url": "http://www.archive.org/details/letempledamada01gaut"
         }, 
         {
-            "title_full": "Henri Gauthier, Le temple d'Amada, deuxi\u00e8me fascicule , Le Caire, 1926", 
+            "title_full": "Henri Gauthier, Le temple d'Amada, deuxième fascicule , Le Caire, 1926", 
             "url": "http://www.archive.org/details/letempledamada02gaut"
         }, 
         {
-            "title_full": "Aylward M. Blackman, The Temple of B\u00eegeh , Le Caire, 1915", 
+            "title_full": "Aylward M. Blackman, The Temple of Bîgeh , Le Caire, 1915", 
             "url": "http://www.archive.org/details/templeofbgeh00blacuoft"
         }, 
         {
-            "title_full": "Gaston Maspero, Documents sur l'\u00e9tat ancien des monuments,vol. 1, fascicle 2 , Le Caire, 1920", 
+            "title_full": "Gaston Maspero, Documents sur l'état ancien des monuments,vol. 1, fascicle 2 , Le Caire, 1920", 
             "url": "http://www.archive.org/details/documents12maspuoft"
         }
     ], 

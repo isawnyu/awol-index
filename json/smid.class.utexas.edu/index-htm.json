@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555522573063933018", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:12.556339"
+            "when": "2015-10-27T18:45:56.868861"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-studies-in.html", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:12.556355"
+            "when": "2015-10-27T18:45:56.868876"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7555522573063933018", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:12.558751"
+            "when": "2015-10-27T18:45:56.871895"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-studies-in.html", 
             "resource_date": "2012-06-28T21:15:53.920-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:12.558763"
+            "when": "2015-10-27T18:45:56.871913"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:12.565855"
+            "when": "2015-10-27T18:45:56.881280"
         }
     ], 
     "publishers": [], 

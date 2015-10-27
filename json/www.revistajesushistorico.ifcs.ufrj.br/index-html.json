@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Jesus Hist\u00f3rico: Revista deEstudios sobre o Jesus Hist\u00f3rico e sua Recep\u00e7\u00e3o. ISSN: 1983-4810. A revista Jesus Hist\u00f3rico dedica-se a publicar artigos, resenhas e entrevistas com especialistas renomados e jovens pesquisadores. O interesse editorial est\u00e1 associado a todo o enfoque ligado \u00e0s recentes pesquisas sobre o Jesus Hist\u00f3rico e Cristianismos Origin\u00e1rios. Assim, por exemplo, a revista se interessa em receber trabalhos relacionados tanto ao contexto judaico do s\u00e9culo I EC, quanto \u00e0s m\u00faltiplas e variadas manifesta\u00e7\u00f5es culturais e art\u00edsticas desde o s\u00e9culo I at\u00e9 os dias atuais que tenham como foco Jesus de Nazar\u00e9 e a sua recep\u00e7\u00e3o (cristianismos e hist\u00f3ria das religi\u00f5es em geral). Trata-se, portanto, de um projeto editorial transdisciplinar, acad\u00eamico e laico, interessado em congregar profissionais das mais diferentes \u00e1reas acad\u00eamicas que pesquisem o tema Jesus Hist\u00f3rico. [RJHR N\u00ba1] [RJHR N\u00ba2] [RJHR N\u00ba3] [RJHR N\u00ba4] [RJHR N\u00ba5] [RJHR N\u00ba6][RJHR N\u00ba7][RJHR N\u00ba8] [RJHR N\u00ba9] See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Jesus Histórico: Revista deEstudios sobre o Jesus Histórico e sua Recepção. ISSN: 1983-4810. A revista Jesus Histórico dedica-se a publicar artigos, resenhas e entrevistas com especialistas renomados e jovens pesquisadores. O interesse editorial está associado a todo o enfoque ligado às recentes pesquisas sobre o Jesus Histórico e Cristianismos Originários. Assim, por exemplo, a revista se interessa em receber trabalhos relacionados tanto ao contexto judaico do século I EC, quanto às múltiplas e variadas manifestações culturais e artísticas desde o século I até os dias atuais que tenham como foco Jesus de Nazaré e a sua recepção (cristianismos e história das religiões em geral). Trata-se, portanto, de um projeto editorial transdisciplinar, acadêmico e laico, interessado em congregar profissionais das mais diferentes áreas acadêmicas que pesquisem o tema Jesus Histórico. [RJHR Nº1] [RJHR Nº2] [RJHR Nº3] [RJHR Nº4] [RJHR Nº5] [RJHR Nº6][RJHR Nº7][RJHR Nº8] [RJHR Nº9] See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.revistajesushistorico.ifcs.ufrj.br", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3379574547374074623", 
             "resource_date": "2013-05-02T06:02:22.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:21.369348"
+            "when": "2015-10-27T18:40:35.112548"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-jesus-historico.html", 
             "resource_date": "2013-05-02T06:02:22.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:21.369364"
+            "when": "2015-10-27T18:40:35.112564"
         }
     ], 
     "publishers": [], 
@@ -89,39 +89,39 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "RJHR N\u00ba2", 
+            "title_full": "RJHR Nº2", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos2.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba3", 
+            "title_full": "RJHR Nº3", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos3.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba4", 
+            "title_full": "RJHR Nº4", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos4.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba5", 
+            "title_full": "RJHR Nº5", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos5.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba6", 
+            "title_full": "RJHR Nº6", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos6.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba7", 
+            "title_full": "RJHR Nº7", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos7.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba8", 
+            "title_full": "RJHR Nº8", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/antigos8.html"
         }, 
         {
-            "title_full": "RJHR N\u00ba9", 
+            "title_full": "RJHR Nº9", 
             "url": "http://www.revistajesushistorico.ifcs.ufrj.br/novos.htm"
         }
     ], 
-    "title": "Jesus Hist\u00f3rico: Revista deEstudios sobre o Jesus Hist\u00f3rico e sua Recep\u00e7\u00e3o", 
+    "title": "Jesus Histórico: Revista deEstudios sobre o Jesus Histórico e sua Recepção", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

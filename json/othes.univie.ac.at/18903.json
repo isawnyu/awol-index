@@ -3,7 +3,7 @@
         "Kaplarevic, Marko"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Pillinger, Renate", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Pillinger, Renate", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.575090"
+            "when": "2015-10-27T18:36:58.226757"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.575103"
+            "when": "2015-10-27T18:36:58.226769"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.828004"
+            "when": "2015-10-27T18:36:58.496823"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.828015"
+            "when": "2015-10-27T18:36:58.496843"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.453172"
+            "when": "2015-10-27T18:36:59.231257"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:58.126850"
+            "when": "2015-10-27T18:36:58.844039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:58.126861"
+            "when": "2015-10-27T18:36:58.844049"
         }, 
         {
             "fields": [
@@ -194,21 +194,21 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.530997"
+            "when": "2015-10-27T18:36:59.335902"
         }
     ], 
     "publishers": [], 
     "related_resources": [
         {
-            "title_full": "Altorientalische Arch\u00e4ologie, christliche Arch\u00e4ologie", 
+            "title_full": "Altorientalische Archäologie, christliche Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E16.html"
         }, 
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }, 
         {
-            "title_full": "R\u00f6misches Reich", 
+            "title_full": "Römisches Reich", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E28.html"
         }
     ], 
@@ -216,7 +216,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Fr\u00fchchristliche Malerei in Serbien", 
+    "title": "Frühchristliche Malerei in Serbien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

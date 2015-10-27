@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "al-Thurayy\u0101 Gazetteer, Ver. 02. This is our first usable demo of al-Thurayy\u0101 Gazetteer. Currently it includes over 2,000 toponyms and almost as many route sections georeferenced from Georgette Cornu\u2019s Atlas du monde arabo-islamique \u00e0 l'\u00e9poque classique: IXe-Xe si\u00e8cles (Leiden: Brill, 1983). The gazetteer is searchable (upper left corner), although English equivalents are not yet included; in other words, look for Dimashq/\u062f\u0645\u0634\u0642, not Damascus. You can browse the Gazetteer by clicking on any toponym marker. The popup will show the toponym both in Arabic script and transliterated. We are using a slightly modified transliteration system that facilitates conversion between fully transliterated, transliterated, and Arabic forms of toponyms. It should be easily understandable. There may be typos, because of the nature of how the data has been generated, so please, let us know if something should be corrected. The popup also offers a selection of possible sources on a toponym in question. You can check Arabic Sources: currently, al-Sam\u02bf\u0101n\u012b\u2019s Kit\u0101b al-ans\u0101b and Y\u0101q\u016bt\u2019s Mu\u02bfjam al-buld\u0101n. Currently, the Gazetteer will only check for exact matches, which means that in some cases there will not be any entry at all, while in other cases there may be more than one and they may refer to other places with the same name. Improving the precision of this lookup is on our to-do list. You can also check if there is information on a toponym in question in Brill's Encyclopaedia of Islam, Pleiades, and Wikipedia.", 
+    "description": "al-Thurayyā Gazetteer, Ver. 02. This is our first usable demo of al-Thurayyā Gazetteer. Currently it includes over 2,000 toponyms and almost as many route sections georeferenced from Georgette Cornu’s Atlas du monde arabo-islamique à l'époque classique: IXe-Xe siècles (Leiden: Brill, 1983). The gazetteer is searchable (upper left corner), although English equivalents are not yet included; in other words, look for Dimashq/دمشق, not Damascus. You can browse the Gazetteer by clicking on any toponym marker. The popup will show the toponym both in Arabic script and transliterated. We are using a slightly modified transliteration system that facilitates conversion between fully transliterated, transliterated, and Arabic forms of toponyms. It should be easily understandable. There may be typos, because of the nature of how the data has been generated, so please, let us know if something should be corrected. The popup also offers a selection of possible sources on a toponym in question. You can check Arabic Sources: currently, al-Samʿānī’s Kitāb al-ansāb and Yāqūt’s Muʿjam al-buldān. Currently, the Gazetteer will only check for exact matches, which means that in some cases there will not be any entry at all, while in other cases there may be more than one and they may refer to other places with the same name. Improving the precision of this lookup is on our to-do list. You can also check if there is information on a toponym in question in Brill's Encyclopaedia of Islam, Pleiades, and Wikipedia.", 
     "domain": "maximromanov.github.io", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "al-Thurayy\u0101 Gazetteer, Ver. 02", 
+        "title_full": "al-Thurayyā Gazetteer, Ver. 02", 
         "url": "http://maximromanov.github.io/2014/11-20.html"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1353768229985105694", 
             "resource_date": "2015-02-16T16:23:33.352-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.696677"
+            "when": "2015-10-27T18:37:29.091772"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/al-thurayya-gazetteer-ver-02.html", 
             "resource_date": "2015-02-16T16:23:33.352-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.696693"
+            "when": "2015-10-27T18:37:29.091788"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1353768229985105694", 
             "resource_date": "2015-02-16T16:23:33.352-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.702208"
+            "when": "2015-10-27T18:37:29.100815"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/al-thurayya-gazetteer-ver-02.html", 
             "resource_date": "2015-02-16T16:23:33.352-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.702221"
+            "when": "2015-10-27T18:37:29.100874"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:26.707175"
+            "when": "2015-10-27T18:37:29.104871"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "al-Thurayy\u0101 Gazetteer, Ver. 02", 
+            "title_full": "al-Thurayyā Gazetteer, Ver. 02", 
             "url": "http://maximromanov.github.io/2014/11-20.html"
         }
     ], 
-    "title": "al-Thurayy\u0101 Gazetteer, Ver. 02", 
+    "title": "al-Thurayyā Gazetteer, Ver. 02", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

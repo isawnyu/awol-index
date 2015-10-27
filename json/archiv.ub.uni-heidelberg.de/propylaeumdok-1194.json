@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Schlotzhauer, Udo (Hrsg. ): Griechen in der Fremde: wer weihte in den Filialheiligt\u00fcmern der Samier und Milesier in Naukratis? In: A. Naso (Hrsg. ), Stranieri e non cittadini nei santuari greci. Udine 2006, pp. 305-307. R\u00f6llig, Wolfgang (1992).", 
+    "description": "In: Schlotzhauer, Udo (Hrsg. ): Griechen in der Fremde: wer weihte in den Filialheiligtümern der Samier und Milesier in Naukratis? In: A. Naso (Hrsg. ), Stranieri e non cittadini nei santuari greci. Udine 2006, pp. 305-307. Röllig, Wolfgang (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.190471"
+            "when": "2015-10-27T18:46:24.986096"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.190489"
+            "when": "2015-10-27T18:46:24.986110"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die ph\u00f6nizische Inschrift auf einem Gef\u00e4\u00df aus Naukratis", 
+    "title": "Die phönizische Inschrift auf einem Gefäß aus Naukratis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-292806604727972358", 
             "resource_date": "2012-11-27T16:46:57.584-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.103354"
+            "when": "2015-10-27T18:39:03.204760"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/across-hindukush-of-first-millennium.html", 
             "resource_date": "2012-11-27T16:46:57.584-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.103379"
+            "when": "2015-10-27T18:39:03.204776"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-292806604727972358", 
             "resource_date": "2012-11-27T16:46:57.584-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.112578"
+            "when": "2015-10-27T18:39:03.210951"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/across-hindukush-of-first-millennium.html", 
             "resource_date": "2012-11-27T16:46:57.584-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.112602"
+            "when": "2015-10-27T18:39:03.210964"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:55.115066"
+            "when": "2015-10-27T18:39:03.212921"
         }
     ], 
     "publishers": [], 

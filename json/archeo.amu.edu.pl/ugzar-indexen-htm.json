@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4508949350059050487", 
             "resource_date": "2013-07-31T08:14:21.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.591265"
+            "when": "2015-10-27T18:41:54.286104"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/settlement-history-of-iraqi-kurdistan.html", 
             "resource_date": "2013-07-31T08:14:21.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.591281"
+            "when": "2015-10-27T18:41:54.286120"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4508949350059050487", 
             "resource_date": "2013-07-31T08:14:21.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.595112"
+            "when": "2015-10-27T18:41:54.290129"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/settlement-history-of-iraqi-kurdistan.html", 
             "resource_date": "2013-07-31T08:14:21.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.595127"
+            "when": "2015-10-27T18:41:54.290143"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:28.630010"
+            "when": "2015-10-27T18:41:54.326630"
         }
     ], 
     "publishers": [], 

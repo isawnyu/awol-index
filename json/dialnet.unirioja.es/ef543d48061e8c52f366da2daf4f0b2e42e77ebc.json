@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Thamyris, nova series: Revista de Did\u00e1ctica de Cultura Cl\u00e1sica, Griego y Lat\u00edn. ISSN: 2254-1799.", 
+    "description": "Thamyris, nova series: Revista de Didáctica de Cultura Clásica, Griego y Latín. ISSN: 2254-1799.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Thamyris, nova series: Revista de Did\u00e1ctica de Cultura Cl\u00e1sica, Griego y Lat\u00edn", 
+        "title_full": "Thamyris, nova series: Revista de Didáctica de Cultura Clásica, Griego y Latín", 
         "url": "http://dialnet.unirioja.es/servlet/revista?codigo=20078"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1477641486391894666", 
             "resource_date": "2015-01-10T08:52:07.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:37.680558"
+            "when": "2015-10-27T18:37:40.747143"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/new-open-access-journal-thamyris-nova.html", 
             "resource_date": "2015-01-10T08:52:07.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:37.680573"
+            "when": "2015-10-27T18:37:40.747157"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PhD thesis, Universit\u00e4t zu K\u00f6ln. Hissnauer, David (2013).", 
+    "description": "PhD thesis, Universität zu Köln. Hissnauer, David (2013).", 
     "domain": "kups.ub.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -12,7 +12,7 @@
         "issn": {}
     }, 
     "is_part_of": {
-        "title_full": "Dissertations (mostly) from Universit\u00e4t zu K\u00f6ln under the subject \"History of ancient world\"", 
+        "title_full": "Dissertations (mostly) from Universität zu Köln under the subject \"History of ancient world\"", 
         "url": "http://kups.ub.uni-koeln.de/view/subjects/930.html"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8360076532929982982", 
             "resource_date": "2015-02-27T13:43:29.361-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:22.215456"
+            "when": "2015-10-27T18:47:10.414994"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/dissertations-mostly-from-universitat.html", 
             "resource_date": "2015-02-27T13:43:29.361-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:22.215468"
+            "when": "2015-10-27T18:47:10.415006"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Turmgr\u00e4ber von Palmyra. Eine lokale Bauform als Ausdruck kultureller Identit\u00e4t", 
+    "title": "Die Turmgräber von Palmyra. Eine lokale Bauform als Ausdruck kultureller Identität", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zsuzsanna Kopeczny, Remus Dinc\u0103.", 
+    "description": "Zsuzsanna Kopeczny, Remus Dincă.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.661049"
+            "when": "2015-10-27T18:43:06.729616"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.661074"
+            "when": "2015-10-27T18:43:06.729628"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Medieval and Early Modern Military Items Discovered in the Village of Tau\u0163 (Arad County, Western Romania)", 
+    "title": "Medieval and Early Modern Military Items Discovered in the Village of Tauţ (Arad County, Western Romania)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

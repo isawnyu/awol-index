@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1289183797363417794", 
             "resource_date": "2010-09-05T13:23:09.165-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:17.506146"
+            "when": "2015-10-27T18:37:19.336165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-to-university-of-michigan.html", 
             "resource_date": "2010-09-05T13:23:09.165-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:17.506161"
+            "when": "2015-10-27T18:37:19.336180"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1289183797363417794", 
             "resource_date": "2010-09-05T13:23:09.165-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:17.508830"
+            "when": "2015-10-27T18:37:19.339102"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-to-university-of-michigan.html", 
             "resource_date": "2010-09-05T13:23:09.165-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:17.508845"
+            "when": "2015-10-27T18:37:19.339117"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:17.519342"
+            "when": "2015-10-27T18:37:19.349991"
         }
     ], 
     "publishers": [], 

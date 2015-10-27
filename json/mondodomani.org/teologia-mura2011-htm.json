@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Emanuela Palmieri, Trinit\u00e0 e kenosi.", 
+    "description": "Emanuela Palmieri, Trinità e kenosi.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.206189"
+            "when": "2015-10-27T18:44:38.670158"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.206202"
+            "when": "2015-10-27T18:44:38.670169"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gaspare Mura, La Trinit\u00e0 in San Tommaso ed Hegel. Differenze ontologiche e personalistiche", 
+    "title": "Gaspare Mura, La Trinità in San Tommaso ed Hegel. Differenze ontologiche e personalistiche", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

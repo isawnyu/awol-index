@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo H\u00f6lscher. With contributions by Rudolf Anthes. Originally published in 1951", 
+        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo Hölscher. With contributions by Rudolf Anthes. Originally published in 1951", 
         "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip55.html"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.247360"
+            "when": "2015-10-27T18:41:52.799543"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.247371"
+            "when": "2015-10-27T18:41:52.799555"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.400123"
+            "when": "2015-10-27T18:45:19.613728"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.400136"
+            "when": "2015-10-27T18:45:19.613740"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.451556"
+            "when": "2015-10-27T18:45:19.664992"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-789024539632057730", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.664063"
+            "when": "2015-10-27T18:46:40.673456"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/the-oriental-institutes-publications-on.html", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.664085"
+            "when": "2015-10-27T18:46:40.673468"
         }, 
         {
             "fields": [
@@ -194,7 +194,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.731954"
+            "when": "2015-10-27T18:46:40.740352"
         }
     ], 
     "publishers": [], 

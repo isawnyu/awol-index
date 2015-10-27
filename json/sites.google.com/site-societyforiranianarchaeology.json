@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 8 February 2010, updated 11 May 2015]. Society for Iranian Archaeology \u062c\u0627\u0645\u0639\u0647 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0627\u06cc\u0631\u0627\u0646.", 
+    "description": "[First posted in AWOL 8 February 2010, updated 11 May 2015]. Society for Iranian Archaeology جامعه باستان شناسی ایران.", 
     "domain": "sites.google.com", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7696267810864720297", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.180045"
+            "when": "2015-10-27T18:46:30.348906"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/society-for-iranian-archaeology-online.html", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.180061"
+            "when": "2015-10-27T18:46:30.348923"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7696267810864720297", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.182006"
+            "when": "2015-10-27T18:46:30.350971"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/society-for-iranian-archaeology-online.html", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.182017"
+            "when": "2015-10-27T18:46:30.350983"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:44.293018"
+            "when": "2015-10-27T18:46:30.466516"
         }
     ], 
     "publishers": [], 
@@ -146,255 +146,255 @@
             "url": "https://sites.google.com/site/societyforiranianarchaeology/"
         }, 
         {
-            "title_full": "\u0639\u0636\u0648\u06cc\u062a - Membership \u0628\u0647 \u0645\u0627 \u0628\u067e\u06cc\u0648\u0646\u062f\u06cc\u062f - Join Us \u062a\u0645\u062f\u06cc\u062f \u0639\u0636\u0648\u06cc\u062a - Renew Membership", 
+            "title_full": "عضویت - Membership به ما بپیوندید - Join Us تمدید عضویت - Renew Membership", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/membership"
         }, 
         {
-            "title_full": "\u0628\u0647 \u0645\u0627 \u0628\u067e\u06cc\u0648\u0646\u062f\u06cc\u062f - Join Us", 
+            "title_full": "به ما بپیوندید - Join Us", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/membership/join-us"
         }, 
         {
-            "title_full": "\u062a\u0645\u062f\u06cc\u062f \u0639\u0636\u0648\u06cc\u062a - Renew Membership", 
+            "title_full": "تمدید عضویت - Renew Membership", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/membership/renew-membership"
         }, 
         {
-            "title_full": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0627 -Our Organization \u0627\u0633\u0627\u0633\u0646\u0627\u0645\u0647 - Bylaws \u0627\u0647\u062f\u0627\u0641 - Aims \u0627\u0635\u0648\u0644 \u0627\u062e\u0644\u0627\u0642\u06cc \u0645\u0627 - Ethics \u0647\u06cc\u0626\u062a \u0645\u062f\u06cc\u0631\u0647 - Directors Committee \u0647\u06cc\u0626\u062a \u0627\u062c\u0631\u0627\u06cc\u06cc - Executive Board \u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a - Elections", 
+            "title_full": "سازمان ما -Our Organization اساسنامه - Bylaws اهداف - Aims اصول اخلاقی ما - Ethics هیئت مدیره - Directors Committee هیئت اجرایی - Executive Board انتخابات - Elections", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization"
         }, 
         {
-            "title_full": "\u0627\u0633\u0627\u0633\u0646\u0627\u0645\u0647 - Bylaws", 
+            "title_full": "اساسنامه - Bylaws", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/bylaws"
         }, 
         {
-            "title_full": "\u0627\u0647\u062f\u0627\u0641 - Aims", 
+            "title_full": "اهداف - Aims", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/aims"
         }, 
         {
-            "title_full": "\u0627\u0635\u0648\u0644 \u0627\u062e\u0644\u0627\u0642\u06cc \u0645\u0627 - Ethics", 
+            "title_full": "اصول اخلاقی ما - Ethics", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/ethics"
         }, 
         {
-            "title_full": "\u0647\u06cc\u0626\u062a \u0645\u062f\u06cc\u0631\u0647 - Directors Committee", 
+            "title_full": "هیئت مدیره - Directors Committee", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/directors-committee"
         }, 
         {
-            "title_full": "\u0647\u06cc\u0626\u062a \u0627\u062c\u0631\u0627\u06cc\u06cc - Executive Board", 
+            "title_full": "هیئت اجرایی - Executive Board", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/executive-board"
         }, 
         {
-            "title_full": "\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a - Elections", 
+            "title_full": "انتخابات - Elections", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/organization/elections"
         }, 
         {
-            "title_full": "\u06af\u0631\u0648\u0647 \u0647\u0627\u06cc \u0639\u0644\u0645\u06cc - Interest Groups \u0627\u062e\u0644\u0627\u0642 \u062f\u0631 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc - Ethics \u0628\u0627\u0633\u062a\u0627\u0646 \u0633\u0646\u062c\u06cc - Archaeometry \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0686\u0634\u0645 \u0627\u0646\u062f\u0627\u0632-Landscape Archaeology \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0632\u06cc\u0631\u0622\u0628-Underwater Archaeology \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0645\u0639\u0627\u0635\u0631-Contemporary Past \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0645\u06cc\u062f\u0627\u0646\u06cc-Field Archaeology \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0646\u0638\u0631\u06cc-Theoretical Archaeology \u0628\u06cc\u0646\u0627\u0631\u0634\u062a\u0647 \u0627\u06cc-Interdisciplinary \u067e\u0698\u0648\u0647\u0634 \u0647\u0627\u06cc \u0645\u0648\u0627\u062f \u0641\u0631\u0647\u0646\u06af\u06cc-Material Culture \u062a\u0627\u0631\u06cc\u062e \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc-History of Archaeology \u062d\u0641\u0627\u0638\u062a \u0648 \u0645\u0631\u0645\u062a -Conserv./Restoration \u0631\u0648\u0634 \u0634\u0646\u0627\u0633\u06cc \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u062e\u062a\u06cc-Methodologies \u0642\u0648\u0645 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc-Ethnoarchaeology \u062f\u06cc\u0631\u06cc\u0646 \u0627\u0646\u0633\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc - Palaeoanthropology \u067e\u0627\u0631\u06cc\u0646\u0647 \u0633\u0646\u06af\u06cc - Paleolithic \u0646\u0648\u0633\u0646\u06af\u06cc \u0648 \u0645\u0633-\u0633\u0646\u06af\u06cc-Neolithic and Chalcolithic \u0639\u0635\u0631 \u0645\u0641\u0631\u063a - Bronze Age \u0639\u0635\u0631 \u0622\u0647\u0646 - Iron Age \u0639\u06cc\u0644\u0627\u0645 - Elam \u0627\u0648\u0631\u0627\u0631\u062a\u0648 - Urartu \u0645\u0627\u0646\u0627 - Manna \u0645\u0627\u062f - Mede \u0647\u062e\u0627\u0645\u0646\u0634\u06cc - Achaemenid \u0633\u0644\u0648\u06a9\u06cc - Seleucid \u0627\u0644\u06cc\u0645\u0627\u06cc\u06cc - Elimaean \u0627\u0634\u06a9\u0627\u0646\u06cc (\u067e\u0627\u0631\u062a) - Parthian \u0633\u0627\u0633\u0627\u0646\u06cc - Sasanian \u062f\u0648\u0631\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u06cc - Islamic Period", 
+            "title_full": "گروه های علمی - Interest Groups اخلاق در باستان شناسی - Ethics باستان سنجی - Archaeometry باستان شناسی چشم انداز-Landscape Archaeology باستان شناسی زیرآب-Underwater Archaeology باستان شناسی معاصر-Contemporary Past باستان شناسی میدانی-Field Archaeology باستان شناسی نظری-Theoretical Archaeology بینارشته ای-Interdisciplinary پژوهش های مواد فرهنگی-Material Culture تاریخ باستان شناسی-History of Archaeology حفاظت و مرمت -Conserv./Restoration روش شناسی باستان شناختی-Methodologies قوم باستان شناسی-Ethnoarchaeology دیرین انسان شناسی - Palaeoanthropology پارینه سنگی - Paleolithic نوسنگی و مس-سنگی-Neolithic and Chalcolithic عصر مفرغ - Bronze Age عصر آهن - Iron Age عیلام - Elam اورارتو - Urartu مانا - Manna ماد - Mede هخامنشی - Achaemenid سلوکی - Seleucid الیمایی - Elimaean اشکانی (پارت) - Parthian ساسانی - Sasanian دوران اسلامی - Islamic Period", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups"
         }, 
         {
-            "title_full": "\u0627\u062e\u0644\u0627\u0642 \u062f\u0631 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc - Ethics", 
+            "title_full": "اخلاق در باستان شناسی - Ethics", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/ethics-in-archaeology"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0633\u0646\u062c\u06cc - Archaeometry", 
+            "title_full": "باستان سنجی - Archaeometry", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/archaeometry"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0686\u0634\u0645 \u0627\u0646\u062f\u0627\u0632-Landscape Archaeology", 
+            "title_full": "باستان شناسی چشم انداز-Landscape Archaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/landscape-archaeology"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0632\u06cc\u0631\u0622\u0628-Underwater Archaeology", 
+            "title_full": "باستان شناسی زیرآب-Underwater Archaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/underwater-archaeology"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0645\u0639\u0627\u0635\u0631-Contemporary Past", 
+            "title_full": "باستان شناسی معاصر-Contemporary Past", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/contemporary-past"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0645\u06cc\u062f\u0627\u0646\u06cc-Field Archaeology", 
+            "title_full": "باستان شناسی میدانی-Field Archaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/field-archaeology"
         }, 
         {
-            "title_full": "\u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0646\u0638\u0631\u06cc-Theoretical Archaeology", 
+            "title_full": "باستان شناسی نظری-Theoretical Archaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/theories-in-archaeology"
         }, 
         {
-            "title_full": "\u0628\u06cc\u0646\u0627\u0631\u0634\u062a\u0647 \u0627\u06cc-Interdisciplinary", 
+            "title_full": "بینارشته ای-Interdisciplinary", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/interdisciplinary-studies"
         }, 
         {
-            "title_full": "\u067e\u0698\u0648\u0647\u0634 \u0647\u0627\u06cc \u0645\u0648\u0627\u062f \u0641\u0631\u0647\u0646\u06af\u06cc-Material Culture", 
+            "title_full": "پژوهش های مواد فرهنگی-Material Culture", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/material-culture-studies"
         }, 
         {
-            "title_full": "\u062a\u0627\u0631\u06cc\u062e \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc-History of Archaeology", 
+            "title_full": "تاریخ باستان شناسی-History of Archaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/history-of-archaeology"
         }, 
         {
-            "title_full": "\u062d\u0641\u0627\u0638\u062a \u0648 \u0645\u0631\u0645\u062a -Conserv./Restoration", 
+            "title_full": "حفاظت و مرمت -Conserv./Restoration", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/conservation-restoration"
         }, 
         {
-            "title_full": "\u0631\u0648\u0634 \u0634\u0646\u0627\u0633\u06cc \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u062e\u062a\u06cc-Methodologies", 
+            "title_full": "روش شناسی باستان شناختی-Methodologies", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/methodologies"
         }, 
         {
-            "title_full": "\u0642\u0648\u0645 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc-Ethnoarchaeology", 
+            "title_full": "قوم باستان شناسی-Ethnoarchaeology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/ethnoarchaeology"
         }, 
         {
-            "title_full": "\u062f\u06cc\u0631\u06cc\u0646 \u0627\u0646\u0633\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc - Palaeoanthropology", 
+            "title_full": "دیرین انسان شناسی - Palaeoanthropology", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/palaeoanthropology"
         }, 
         {
-            "title_full": "\u067e\u0627\u0631\u06cc\u0646\u0647 \u0633\u0646\u06af\u06cc - Paleolithic", 
+            "title_full": "پارینه سنگی - Paleolithic", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/paleolithic-studies"
         }, 
         {
-            "title_full": "\u0646\u0648\u0633\u0646\u06af\u06cc \u0648 \u0645\u0633-\u0633\u0646\u06af\u06cc-Neolithic and Chalcolithic", 
+            "title_full": "نوسنگی و مس-سنگی-Neolithic and Chalcolithic", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/neolithic-and-chalcolithic"
         }, 
         {
-            "title_full": "\u0639\u0635\u0631 \u0645\u0641\u0631\u063a - Bronze Age", 
+            "title_full": "عصر مفرغ - Bronze Age", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/bronze-age"
         }, 
         {
-            "title_full": "\u0639\u0635\u0631 \u0622\u0647\u0646 - Iron Age", 
+            "title_full": "عصر آهن - Iron Age", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/iron-age"
         }, 
         {
-            "title_full": "\u0639\u06cc\u0644\u0627\u0645 - Elam", 
+            "title_full": "عیلام - Elam", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/elamite-studies"
         }, 
         {
-            "title_full": "\u0627\u0648\u0631\u0627\u0631\u062a\u0648 - Urartu", 
+            "title_full": "اورارتو - Urartu", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/urartian-studies"
         }, 
         {
-            "title_full": "\u0645\u0627\u0646\u0627 - Manna", 
+            "title_full": "مانا - Manna", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/mannaean-studies"
         }, 
         {
-            "title_full": "\u0645\u0627\u062f - Mede", 
+            "title_full": "ماد - Mede", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/median-studies"
         }, 
         {
-            "title_full": "\u0647\u062e\u0627\u0645\u0646\u0634\u06cc - Achaemenid", 
+            "title_full": "هخامنشی - Achaemenid", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/achaemenid-studies"
         }, 
         {
-            "title_full": "\u0633\u0644\u0648\u06a9\u06cc - Seleucid", 
+            "title_full": "سلوکی - Seleucid", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/seleucid-studies"
         }, 
         {
-            "title_full": "\u0627\u0644\u06cc\u0645\u0627\u06cc\u06cc - Elimaean", 
+            "title_full": "الیمایی - Elimaean", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/elimaean"
         }, 
         {
-            "title_full": "\u0627\u0634\u06a9\u0627\u0646\u06cc (\u067e\u0627\u0631\u062a) - Parthian", 
+            "title_full": "اشکانی (پارت) - Parthian", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/parthian-studies"
         }, 
         {
-            "title_full": "\u0633\u0627\u0633\u0627\u0646\u06cc - Sasanian", 
+            "title_full": "ساسانی - Sasanian", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/sasanian-studies"
         }, 
         {
-            "title_full": "\u062f\u0648\u0631\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u06cc - Islamic Period", 
+            "title_full": "دوران اسلامی - Islamic Period", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/interest-groups/islamic-period"
         }, 
         {
-            "title_full": "\u06a9\u0645\u06cc\u062a\u0647 \u0647\u0627 - Committees", 
+            "title_full": "کمیته ها - Committees", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/committees"
         }, 
         {
-            "title_full": "\u0637\u0631\u062d-\u0647\u0627- Projects \u0628\u0631\u0631\u0633\u06cc \u0647\u0627 - Surveys \u06a9\u0627\u0648\u0634 \u0647\u0627 - Excavations \u0641\u0631\u0635\u062a \u0647\u0627 - Opportunities", 
+            "title_full": "طرح-ها- Projects بررسی ها - Surveys کاوش ها - Excavations فرصت ها - Opportunities", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/projects"
         }, 
         {
-            "title_full": "\u0628\u0631\u0631\u0633\u06cc \u0647\u0627 - Surveys", 
+            "title_full": "بررسی ها - Surveys", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/projects/surveys"
         }, 
         {
-            "title_full": "\u06a9\u0627\u0648\u0634 \u0647\u0627 - Excavations", 
+            "title_full": "کاوش ها - Excavations", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/projects/excavations"
         }, 
         {
-            "title_full": "\u0641\u0631\u0635\u062a \u0647\u0627 - Opportunities", 
+            "title_full": "فرصت ها - Opportunities", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/projects/opportunities"
         }, 
         {
-            "title_full": "\u0627\u0646\u062a\u0634\u0627\u0631\u0627\u062a - Publications \u06a9\u062a\u0627\u0628 \u0647\u0627 - Books \u0645\u062c\u0644\u0627\u062a - Journals \u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0646\u06af\u0627\u0631\u0634 - Style Guide \u062a\u0628\u0644\u06cc\u063a\u0627\u062a - Advertisings", 
+            "title_full": "انتشارات - Publications کتاب ها - Books مجلات - Journals راهنمای نگارش - Style Guide تبلیغات - Advertisings", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/publications"
         }, 
         {
-            "title_full": "\u06a9\u062a\u0627\u0628 \u0647\u0627 - Books", 
+            "title_full": "کتاب ها - Books", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/publications/books"
         }, 
         {
-            "title_full": "\u0645\u062c\u0644\u0627\u062a - Journals", 
+            "title_full": "مجلات - Journals", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/publications/journals"
         }, 
         {
-            "title_full": "\u0631\u0627\u0647\u0646\u0645\u0627\u06cc \u0646\u06af\u0627\u0631\u0634 - Style Guide", 
+            "title_full": "راهنمای نگارش - Style Guide", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/publications/style-guide"
         }, 
         {
-            "title_full": "\u062a\u0628\u0644\u06cc\u063a\u0627\u062a - Advertisings", 
+            "title_full": "تبلیغات - Advertisings", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/publications/advertisings"
         }, 
         {
-            "title_full": "\u067e\u06cc\u0634 \u06a9\u0633\u0648\u062a\u0627\u0646 \u0628\u0627\u0633\u062a\u0627\u0646 \u0634\u0646\u0627\u0633\u06cc \u0627\u06cc\u0631\u0627\u0646 - Archaeologists", 
+            "title_full": "پیش کسوتان باستان شناسی ایران - Archaeologists", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/archaeologists"
         }, 
         {
-            "title_full": "\u0627\u06cc\u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 - eLibrary \u0639\u0636\u0648\u06cc\u062a \u062f\u0631 \u0627\u06cc\u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 - membership in eLibrary", 
+            "title_full": "ایکتابخانه - eLibrary عضویت در ایکتابخانه - membership in eLibrary", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/elibrary"
         }, 
         {
-            "title_full": "\u0639\u0636\u0648\u06cc\u062a \u062f\u0631 \u0627\u06cc\u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647 - membership in eLibrary", 
+            "title_full": "عضویت در ایکتابخانه - membership in eLibrary", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/elibrary/membership"
         }, 
         {
-            "title_full": "\u0645\u0646\u0627\u0633\u0628\u062a \u0647\u0627 - Events \u0647\u0645\u0627\u06cc\u0634 \u0647\u0627 - Conferences \u06af\u0631\u062f\u0647\u0645\u0627\u06cc\u06cc \u0647\u0627 - Seminars \u06a9\u0627\u0631\u06af\u0627\u0647 \u0622\u0645\u0648\u0632\u0634\u06cc - Workshops \u067e\u0634\u062a\u06cc\u0628\u0627\u0646 \u0645\u0627\u0644\u06cc - Sponsors \u06af\u0627\u0647\u0646\u0627\u0645\u0647 \u06cc \u0645\u0627 - SIA Calendar", 
+            "title_full": "مناسبت ها - Events همایش ها - Conferences گردهمایی ها - Seminars کارگاه آموزشی - Workshops پشتیبان مالی - Sponsors گاهنامه ی ما - SIA Calendar", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1"
         }, 
         {
-            "title_full": "\u0647\u0645\u0627\u06cc\u0634 \u0647\u0627 - Conferences", 
+            "title_full": "همایش ها - Conferences", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1/conferences"
         }, 
         {
-            "title_full": "\u06af\u0631\u062f\u0647\u0645\u0627\u06cc\u06cc \u0647\u0627 - Seminars", 
+            "title_full": "گردهمایی ها - Seminars", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1/annual-meetings"
         }, 
         {
-            "title_full": "\u06a9\u0627\u0631\u06af\u0627\u0647 \u0622\u0645\u0648\u0632\u0634\u06cc - Workshops", 
+            "title_full": "کارگاه آموزشی - Workshops", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1/workshops"
         }, 
         {
-            "title_full": "\u067e\u0634\u062a\u06cc\u0628\u0627\u0646 \u0645\u0627\u0644\u06cc - Sponsors", 
+            "title_full": "پشتیبان مالی - Sponsors", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1/sponsors"
         }, 
         {
-            "title_full": "\u06af\u0627\u0647\u0646\u0627\u0645\u0647 \u06cc \u0645\u0627 - SIA Calendar", 
+            "title_full": "گاهنامه ی ما - SIA Calendar", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/upcoming-events-and-meetings"
         }, 
         {
-            "title_full": "\u0628\u0631\u0627\u06cc \u0639\u0645\u0648\u0645 - For Public \u0627\u0639\u0644\u0627\u0646 \u0647\u0627 - Announcements \u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0627\u06cc \u0645\u0631\u062f\u0645\u06cc - Public Programs \u067e\u06cc\u0648\u0646\u062f\u0647\u0627 - Links", 
+            "title_full": "برای عموم - For Public اعلان ها - Announcements برنامه های مردمی - Public Programs پیوندها - Links", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/home/for-public"
         }, 
         {
-            "title_full": "\u0627\u0639\u0644\u0627\u0646 \u0647\u0627 - Announcements", 
+            "title_full": "اعلان ها - Announcements", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/home/for-public/announcements"
         }, 
         {
-            "title_full": "\u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0627\u06cc \u0645\u0631\u062f\u0645\u06cc - Public Programs", 
+            "title_full": "برنامه های مردمی - Public Programs", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/home/for-public/programs"
         }, 
         {
-            "title_full": "\u067e\u06cc\u0648\u0646\u062f\u0647\u0627 - Links", 
+            "title_full": "پیوندها - Links", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/home/for-public/links"
         }, 
         {
-            "title_full": "\u0641\u0639\u0627\u0644\u06cc\u062a \u0647\u0627\u06cc \u0627\u0639\u0636\u0627\u0621 Memebers' Activities", 
+            "title_full": "فعالیت های اعضاء Memebers' Activities", 
             "url": "https://sites.google.com/site/societyforiranianarchaeology/jobs-1/membersactivities"
         }
     ], 

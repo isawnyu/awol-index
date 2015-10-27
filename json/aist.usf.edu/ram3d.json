@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-879034998595948180", 
             "resource_date": "2013-06-01T08:14:13.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.333358"
+            "when": "2015-10-27T18:48:47.043486"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/ram3d.html", 
             "resource_date": "2013-06-01T08:14:13.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.333375"
+            "when": "2015-10-27T18:48:47.043502"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-879034998595948180", 
             "resource_date": "2013-06-01T08:14:13.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.338608"
+            "when": "2015-10-27T18:48:47.049014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/ram3d.html", 
             "resource_date": "2013-06-01T08:14:13.296-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.338621"
+            "when": "2015-10-27T18:48:47.049028"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:51.356443"
+            "when": "2015-10-27T18:48:47.067271"
         }
     ], 
     "publishers": [], 

@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Klio - Czasopismo Po\u015bwi\u0119cone Dziejom Polski i Powszechnym", 
+        "title_full": "Klio - Czasopismo Poświęcone Dziejom Polski i Powszechnym", 
         "url": "http://apcz.pl/czasopisma/index.php/KLIO/index"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4901501368976734652", 
             "resource_date": "2015-03-12T17:06:14.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:15.239925"
+            "when": "2015-10-27T18:42:44.800425"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/one-off-journal-issues-klio-czasopismo.html", 
             "resource_date": "2015-03-12T17:06:14.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:15.239940"
+            "when": "2015-10-27T18:42:44.800442"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4901501368976734652", 
             "resource_date": "2015-03-12T17:06:14.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:15.242655"
+            "when": "2015-10-27T18:42:44.803404"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/one-off-journal-issues-klio-czasopismo.html", 
             "resource_date": "2015-03-12T17:06:14.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:15.242668"
+            "when": "2015-10-27T18:42:44.803416"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:15.281194"
+            "when": "2015-10-27T18:42:44.845368"
         }
     ], 
     "publishers": [], 
@@ -151,7 +151,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Klio - Czasopismo Po\u015bwi\u0119cone Dziejom Polski i Powszechnym", 
+            "title_full": "Klio - Czasopismo Poświęcone Dziejom Polski i Powszechnym", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/index"
         }, 
         {
@@ -159,7 +159,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/issue/view/466/showToc"
         }, 
         {
-            "title_full": "Prof. Maria Jaczynowska - wybitna badaczka \u015bwiata staro\u017cytnego", 
+            "title_full": "Prof. Maria Jaczynowska - wybitna badaczka świata starożytnego", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.040"
         }, 
         {
@@ -167,7 +167,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.040/4962"
         }, 
         {
-            "title_full": "Herakles jako protoplasta macedo\u0144skiej rodziny kr\u00f3lewskiej", 
+            "title_full": "Herakles jako protoplasta macedońskiej rodziny królewskiej", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.041"
         }, 
         {
@@ -183,7 +183,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.042/4969"
         }, 
         {
-            "title_full": "Przyczynek do obrazu elit po\u0142udniowoapulijskich", 
+            "title_full": "Przyczynek do obrazu elit południowoapulijskich", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.043"
         }, 
         {
@@ -199,7 +199,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.044/4974"
         }, 
         {
-            "title_full": "Ofiara i rytua\u0142 w religii rzymskiej we wsp\u00f3\u0142czesnych badaniach. Rekonesans", 
+            "title_full": "Ofiara i rytuał w religii rzymskiej we współczesnych badaniach. Rekonesans", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.045"
         }, 
         {
@@ -215,7 +215,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.046/4980"
         }, 
         {
-            "title_full": "Pocz\u0105tki kultu wodz\u00f3w i w\u0142adzy charyzmatycznej w Rzymie w okresie p\u00f3\u017anej republiki", 
+            "title_full": "Początki kultu wodzów i władzy charyzmatycznej w Rzymie w okresie późnej republiki", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.047"
         }, 
         {
@@ -231,7 +231,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.048/4984"
         }, 
         {
-            "title_full": "Wiara w omeny w relacjach p\u00f3\u017anoantycznych autor\u00f3w chrze\u015bcija\u0144skich", 
+            "title_full": "Wiara w omeny w relacjach późnoantycznych autorów chrześcijańskich", 
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.049"
         }, 
         {
@@ -259,7 +259,7 @@
             "url": "http://apcz.pl/czasopisma/index.php/KLIO/article/view/KLIO.2014.054/4990"
         }
     ], 
-    "title": "Klio - Czasopismo Po\u015bwi\u0119cone Dziejom Polski i Powszechnym", 
+    "title": "Klio - Czasopismo Poświęcone Dziejom Polski i Powszechnym", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

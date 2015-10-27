@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "1\u00a714 Preview Verbal Tense and Aspect.", 
+    "description": "1§14 Preview Verbal Tense and Aspect.", 
     "domain": "hour25.heroesx.chs.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2438118749532558525", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.425115"
+            "when": "2015-10-27T18:38:45.377184"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/introduction-to-homeric-greek-volume-1.html", 
             "resource_date": "2015-04-23T17:40:25.520-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.425126"
+            "when": "2015-10-27T18:38:45.377196"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "1\u00a713 Imperfect Indicative of \u2018To Be\u2019", 
+    "title": "1§13 Imperfect Indicative of ‘To Be’", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

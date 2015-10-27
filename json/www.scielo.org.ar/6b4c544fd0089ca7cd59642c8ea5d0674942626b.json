@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00b7.", 
+    "description": "·.", 
     "domain": "www.scielo.org.ar", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1769595443435270814", 
             "resource_date": "2013-05-21T21:41:40.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.840280"
+            "when": "2015-10-27T18:38:02.656609"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-synthesis.html", 
             "resource_date": "2013-05-21T21:41:40.768-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.840293"
+            "when": "2015-10-27T18:38:02.656620"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ingl\u00e9s", 
+    "title": "Inglés", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

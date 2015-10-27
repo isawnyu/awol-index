@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "MANTIS: A Numismatic Technologies Integration Service. The ANS collections database contains information on more than 600,000 objects in the Society\u2019s collections. These include, coins, paper money, tokens, \u2018primitive\u2019 money, medals and decorations, from all parts of the world, and all periods in which such objects have been produced. Show search instructions. Click an image below to search a department.", 
+    "description": "MANTIS: A Numismatic Technologies Integration Service. The ANS collections database contains information on more than 600,000 objects in the Society’s collections. These include, coins, paper money, tokens, ‘primitive’ money, medals and decorations, from all parts of the world, and all periods in which such objects have been produced. Show search instructions. Click an image below to search a department.", 
     "domain": "numismatics.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8010053222031561942", 
             "resource_date": "2011-05-04T10:19:33.448-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:09.288015"
+            "when": "2015-10-27T18:46:56.642926"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/american-numismatic-societys-new.html", 
             "resource_date": "2011-05-04T10:19:33.448-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:09.288026"
+            "when": "2015-10-27T18:46:56.642939"
         }
     ], 
     "publishers": [], 

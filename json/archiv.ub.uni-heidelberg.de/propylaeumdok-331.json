@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zanker, P. and W\u00f6rrle, M. (Hrsgg. ): Stadtbild und B\u00fcrgerbild im Hellenismus. M\u00fcnchen 1995, pp. 147-172. Chaniotis, Angelos (2002).", 
+    "description": "In: Zanker, P. and Wörrle, M. (Hrsgg. ): Stadtbild und Bürgerbild im Hellenismus. München 1995, pp. 147-172. Chaniotis, Angelos (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.284250"
+            "when": "2015-10-27T18:46:45.449441"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.284266"
+            "when": "2015-10-27T18:46:45.449455"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sich selbst feiern? St\u00e4dtische Feste des Hellenismus im Spannungsfeld von Religion und Politik", 
+    "title": "Sich selbst feiern? Städtische Feste des Hellenismus im Spannungsfeld von Religion und Politik", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

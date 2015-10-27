@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DIO-Journal for Hysterical Astronomy 1. Testing Princetitute-Muffia Omert\u00e0: Equation 31, by Dennis Rawlins. DIO 2. A Mayan Table of Eclipses, by Hugh Thurston. 3. Crawling Towards Integrity. 4. OJ Darts & Nordberg Walks. 5. Hero & Doppelfanger: A Shaggy Were-Dog Story.", 
+    "description": "DIO-Journal for Hysterical Astronomy 1. Testing Princetitute-Muffia Omertà: Equation 31, by Dennis Rawlins. DIO 2. A Mayan Table of Eclipses, by Hugh Thurston. 3. Crawling Towards Integrity. 4. OJ Darts & Nordberg Walks. 5. Hero & Doppelfanger: A Shaggy Were-Dog Story.", 
     "domain": "www.dioi.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2112913952775028294", 
             "resource_date": "2014-06-13T11:55:43.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:15.126060"
+            "when": "2015-10-27T18:38:22.728970"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-journal-dio-international.html", 
             "resource_date": "2014-06-13T11:55:43.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:15.126075"
+            "when": "2015-10-27T18:38:22.728985"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4579968027525566573", 
             "resource_date": "2014-08-30T08:27:28.641-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:31.406560"
+            "when": "2015-10-27T18:41:57.590010"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-dio-international.html", 
             "resource_date": "2014-08-30T08:27:28.641-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:31.406571"
+            "when": "2015-10-27T18:41:57.590029"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:31.458609"
+            "when": "2015-10-27T18:41:57.680651"
         }, 
         {
             "fields": [
@@ -166,13 +166,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126354719826936192", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.626452"
+            "when": "2015-10-27T18:44:20.528603"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-dio-international.html", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.626472"
+            "when": "2015-10-27T18:44:20.528620"
         }, 
         {
             "fields": [
@@ -183,7 +183,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:45.692466"
+            "when": "2015-10-27T18:44:20.607487"
         }
     ], 
     "publishers": [], 

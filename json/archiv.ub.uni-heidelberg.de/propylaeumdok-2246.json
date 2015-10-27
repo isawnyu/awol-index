@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:56.245571"
+            "when": "2015-10-27T18:40:07.727502"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:56.245587"
+            "when": "2015-10-27T18:40:07.727517"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gundlach, Rolf, und Matthias Rochholz [Hrsg.]: \u00c4gyptische Tempel. Struktur, Funktion und Programm (Akten der \u00c4gyptologischen Tempeltagungen in Gosen 1990 und in Mainz 1992). Hildesheim: Gerstenberg Verlag. Pelizaeus-Museum 1994. VIII, 331 S. m. Abb. u. 1 Taf. gr. 8\u00b0 = Hildesheimer \u00c4gyptologische Beitr\u00e4ge, hrsg. von A. Eggebrecht und B. Schmitz, 37. Kart", 
+    "title": "Gundlach, Rolf, und Matthias Rochholz [Hrsg.]: Ägyptische Tempel. Struktur, Funktion und Programm (Akten der Ägyptologischen Tempeltagungen in Gosen 1990 und in Mainz 1992). Hildesheim: Gerstenberg Verlag. Pelizaeus-Museum 1994. VIII, 331 S. m. Abb. u. 1 Taf. gr. 8° = Hildesheimer Ägyptologische Beiträge, hrsg. von A. Eggebrecht und B. Schmitz, 37. Kart", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

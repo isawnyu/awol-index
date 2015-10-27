@@ -3,7 +3,7 @@
         "Grammer, Benedikt"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t BetreuerIn: Gassner, Verena. Keine Volltext-Freigabe durch VerfasserIn", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät BetreuerIn: Gassner, Verena. Keine Volltext-Freigabe durch VerfasserIn", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.796581"
+            "when": "2015-10-27T18:36:58.458084"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.796591"
+            "when": "2015-10-27T18:36:58.458096"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:58.079068"
+            "when": "2015-10-27T18:36:58.786769"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:58.079079"
+            "when": "2015-10-27T18:36:58.786779"
         }, 
         {
             "fields": [
@@ -131,17 +131,17 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.511909"
+            "when": "2015-10-27T18:36:59.309923"
         }
     ], 
     "publishers": [], 
     "related_resources": [
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }, 
         {
-            "title_full": "R\u00f6misches Reich", 
+            "title_full": "Römisches Reich", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E28.html"
         }
     ], 

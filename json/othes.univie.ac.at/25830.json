@@ -3,7 +3,7 @@
         "Linder, Nadia"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Philologisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Selz, Gebhard J", 
+    "description": "Diplomarbeit, University of Vienna. Philologisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Selz, Gebhard J", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.527909"
+            "when": "2015-10-27T18:36:58.170072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.527921"
+            "when": "2015-10-27T18:36:58.170083"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.582681"
+            "when": "2015-10-27T18:36:58.234835"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.582692"
+            "when": "2015-10-27T18:36:58.234847"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:05:58.396433"
+            "when": "2015-10-27T18:36:59.154750"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
             "url": "http://othes.univie.ac.at/view/subjects/15=2E26.html"
         }, 
         {
-            "title_full": "Altorientalische Arch\u00e4ologie, christliche Arch\u00e4ologie", 
+            "title_full": "Altorientalische Archäologie, christliche Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E16.html"
         }
     ], 
@@ -150,7 +150,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Fr\u00fchgeschichtliche Untersuchungen zur \"Schutzgottheit\" LAMMA", 
+    "title": "Frühgeschichtliche Untersuchungen zur \"Schutzgottheit\" LAMMA", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

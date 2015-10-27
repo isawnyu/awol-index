@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00bb. A partir du vol. 10 (2011), la s\u00e9rie devient une sous-collection de la \u00ab Biblioth\u00e8que d\u2019arch\u00e9ologie m\u00e9diterran\u00e9enne et africaine \u00bb (.", 
+    "description": "». A partir du vol. 10 (2011), la série devient une sous-collection de la « Bibliothèque d’archéologie méditerranéenne et africaine » (.", 
     "domain": "ccj.cnrs.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Etudes massali\u00e8tes", 
+        "title_full": "Etudes massaliètes", 
         "url": "http://ccj.cnrs.fr/spip.php?rubrique83"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668002532828441034", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.347563"
+            "when": "2015-10-27T18:38:53.666940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-etudes-massalietes.html", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.347579"
+            "when": "2015-10-27T18:38:53.666954"
         }
     ], 
     "publishers": [], 

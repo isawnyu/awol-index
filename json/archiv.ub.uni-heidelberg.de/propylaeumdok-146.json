@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Sch\u00e4fer, J. (Hrsg. ): Amnisos nach den arch\u00e4ologischen, historischen und epigraphischen Zeugnissen des Altertums und der Neuzeit. Gebr. Mann, Berlin 1992 51-127; 287-322; 350-355. Chaniotis, Angelos (2002).", 
+    "description": "In: Schäfer, J. (Hrsg. ): Amnisos nach den archäologischen, historischen und epigraphischen Zeugnissen des Altertums und der Neuzeit. Gebr. Mann, Berlin 1992 51-127; 287-322; 350-355. Chaniotis, Angelos (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:57.721545"
+            "when": "2015-10-27T18:46:44.892086"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:57.721561"
+            "when": "2015-10-27T18:46:44.892101"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Amnisos in den schriftlichen Quellen: Die Testimonien. Die Geschichte von Amnisos von Homer bis zur Eroberung Kretas durch die T\u00fcrken. Amnisos von den Dunklen Jahrhunderten bis zum Ende der Kaiserzeit. Amnisos als ein Problem der historischen Geographie", 
+    "title": "Amnisos in den schriftlichen Quellen: Die Testimonien. Die Geschichte von Amnisos von Homer bis zur Eroberung Kretas durch die Türken. Amnisos von den Dunklen Jahrhunderten bis zum Ende der Kaiserzeit. Amnisos als ein Problem der historischen Geographie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:45.522823"
+            "when": "2015-10-27T18:39:56.785447"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:45.522839"
+            "when": "2015-10-27T18:39:56.785464"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:45.538652"
+            "when": "2015-10-27T18:39:56.803100"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:45.538670"
+            "when": "2015-10-27T18:39:56.803116"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:03.750583"
+            "when": "2015-10-27T18:40:15.660763"
         }
     ], 
     "publishers": [], 
@@ -256,7 +256,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1478/"
         }, 
         {
-            "title_full": "Bemerkungen zu den neu gefundenen Daten im Grab der K\u00f6nigin Twosre (KV 14) im Tal der K\u00f6nige von Theben", 
+            "title_full": "Bemerkungen zu den neu gefundenen Daten im Grab der Königin Twosre (KV 14) im Tal der Könige von Theben", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1520/"
         }, 
         {
@@ -272,11 +272,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1832/"
         }, 
         {
-            "title_full": "Bemerkungen zur Gr\u00fcndung der 6. Dynastie", 
+            "title_full": "Bemerkungen zur Gründung der 6. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1586/"
         }, 
         {
-            "title_full": "Bemerkungen zur fr\u00fchen und sp\u00e4ten Bauphase des Djoserbezirkes in Saqqara", 
+            "title_full": "Bemerkungen zur frühen und späten Bauphase des Djoserbezirkes in Saqqara", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1407/"
         }, 
         {
@@ -292,43 +292,43 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1480/"
         }, 
         {
-            "title_full": "Das pr\u00e4sumtive Begr\u00e4bnis des Siptah", 
+            "title_full": "Das präsumtive Begräbnis des Siptah", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1613/"
         }, 
         {
-            "title_full": "Das \u00d6lmagazin im Grab des Hesire in Saqqara (QS 2405)", 
+            "title_full": "Das Ölmagazin im Grab des Hesire in Saqqara (QS 2405)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1406/"
         }, 
         {
-            "title_full": "Das \u201eFest des Wei\u00dfen Nilpferds\" und das \u201eOpfergefilde\"", 
+            "title_full": "Das „Fest des Weißen Nilpferds\" und das „Opfergefilde\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1479/"
         }, 
         {
-            "title_full": "Das \u201eS\u00e4nftenlied\" des Alten Reiches", 
+            "title_full": "Das „Sänftenlied\" des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1614/"
         }, 
         {
-            "title_full": "Der \"Socle B\u00e9hague\" und ein Statuentorso in Wien", 
+            "title_full": "Der \"Socle Béhague\" und ein Statuentorso in Wien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1529/"
         }, 
         {
-            "title_full": "Der Begr\u00e4bnistag Sethos' II", 
+            "title_full": "Der Begräbnistag Sethos' II", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1492/"
         }, 
         {
-            "title_full": "Der Grabherr des Alten Reiches als Horus, Sohn des Osiris. \u00dcberlegungen zum Sinn der Grabdarstellungen des Alten Reiches in \u00c4gypten", 
+            "title_full": "Der Grabherr des Alten Reiches als Horus, Sohn des Osiris. Überlegungen zum Sinn der Grabdarstellungen des Alten Reiches in Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1628/"
         }, 
         {
-            "title_full": "Der Grabherr des Alten Reiches in seinem Palast des Jenseits. Bemerkungen zur sog. Prunkscheint\u00fcr des Alten Reiches", 
+            "title_full": "Der Grabherr des Alten Reiches in seinem Palast des Jenseits. Bemerkungen zur sog. Prunkscheintür des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1587/"
         }, 
         {
-            "title_full": "Der Himmelsaufstieg des Grabherrn. Zu den Szenen des z\u0161\u0161 wad den Gr\u00e4bern des Alten Reiches", 
+            "title_full": "Der Himmelsaufstieg des Grabherrn. Zu den Szenen des zšš wad den Gräbern des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1616/"
         }, 
         {
-            "title_full": "Der K\u00f6nig als Vogelf\u00e4nger und Fischer (nbty wh) - Zu fr\u00fchen Belegen eines traditionellen Motivs", 
+            "title_full": "Der König als Vogelfänger und Fischer (nbty wh) - Zu frühen Belegen eines traditionellen Motivs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1511/"
         }, 
         {
@@ -336,7 +336,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1494/"
         }, 
         {
-            "title_full": "Der \u201eLiturgische Papyrus\" des Chonsu-maacheru im Museum f\u00fcr V\u00f6lkerkunde in Hamburg (Pap. Hamburg MVK C 3835)", 
+            "title_full": "Der „Liturgische Papyrus\" des Chonsu-maacheru im Museum für Völkerkunde in Hamburg (Pap. Hamburg MVK C 3835)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1493/"
         }, 
         {
@@ -344,7 +344,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1495/"
         }, 
         {
-            "title_full": "Die Bedeutung der \"Gotteshalle des Anubis\" im Begr\u00e4bnisritual", 
+            "title_full": "Die Bedeutung der \"Gotteshalle des Anubis\" im Begräbnisritual", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1531/"
         }, 
         {
@@ -356,7 +356,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1567/"
         }, 
         {
-            "title_full": "Die Mumienh\u00fclle des Chonsu-maacheru", 
+            "title_full": "Die Mumienhülle des Chonsu-maacheru", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1569/"
         }, 
         {
@@ -364,23 +364,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1617/"
         }, 
         {
-            "title_full": "Die Papyri des Museums f\u00fcr V\u00f6lkerkunde Hamburg (C 3835 und C 3836)", 
+            "title_full": "Die Papyri des Museums für Völkerkunde Hamburg (C 3835 und C 3836)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1570/"
         }, 
         {
-            "title_full": "Die Pyramidennamen der fr\u00fchen 12. Dynastie", 
+            "title_full": "Die Pyramidennamen der frühen 12. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1618/"
         }, 
         {
-            "title_full": "Die Reden und Rufe beim Dreschen in den Gr\u00e4bern des Alten Reiches", 
+            "title_full": "Die Reden und Rufe beim Dreschen in den Gräbern des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1588/"
         }, 
         {
-            "title_full": "Die Stellung der K\u00f6nigsmutter Chentkaus beim Ubergang von der 4. zur 5. Dynastie", 
+            "title_full": "Die Stellung der Königsmutter Chentkaus beim Ubergang von der 4. zur 5. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1532/"
         }, 
         {
-            "title_full": "Die Wandlungen des Sem-Priesters im Mund\u00f6ffnungsritual", 
+            "title_full": "Die Wandlungen des Sem-Priesters im Mundöffnungsritual", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1565/"
         }, 
         {
@@ -388,7 +388,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1530/"
         }, 
         {
-            "title_full": "Die \u201eGeschichte des Schiffbr\u00fcchigen\" - Ein Aufruf zum Loyalismus?", 
+            "title_full": "Die „Geschichte des Schiffbrüchigen\" - Ein Aufruf zum Loyalismus?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1594/"
         }, 
         {
@@ -400,11 +400,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1533/"
         }, 
         {
-            "title_full": "Ein Skarab\u00e4us mit Seligpreisung aus einer Hamburger Privatsammlung", 
+            "title_full": "Ein Skarabäus mit Seligpreisung aus einer Hamburger Privatsammlung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1534/"
         }, 
         {
-            "title_full": "Ein Zaubermesser aus T\u00fcbingen", 
+            "title_full": "Ein Zaubermesser aus Tübingen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1498/"
         }, 
         {
@@ -412,7 +412,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1391/"
         }, 
         {
-            "title_full": "Eine Stiftungsurkunde f\u00fcr die Opferversorgung des Grabherrn? Zum Bild des Grabherrn an der Staffelei", 
+            "title_full": "Eine Stiftungsurkunde für die Opferversorgung des Grabherrn? Zum Bild des Grabherrn an der Staffelei", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1619/"
         }, 
         {
@@ -420,7 +420,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1393/"
         }, 
         {
-            "title_full": "Etappen des Mythos: Vom Ikon zum Epitheton, vom Epitheton zum G\u00f6tternamen", 
+            "title_full": "Etappen des Mythos: Vom Ikon zum Epitheton, vom Epitheton zum Götternamen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1591/"
         }, 
         {
@@ -428,7 +428,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1395/"
         }, 
         {
-            "title_full": "Fisch und Vogel f\u00fcr den Grabherrn", 
+            "title_full": "Fisch und Vogel für den Grabherrn", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1593/"
         }, 
         {
@@ -444,35 +444,35 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1500/"
         }, 
         {
-            "title_full": "Gott und G\u00f6tter im alten \u00c4gypten. Gedanken zur pers\u00f6nlichen Fr\u00f6mmigkeit", 
+            "title_full": "Gott und Götter im alten Ägypten. Gedanken zur persönlichen Frömmigkeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1653/"
         }, 
         {
-            "title_full": "\u201eIch habe die Maat getan und bin auf ihrem Weg gegangen\". Zum Hamburger Totenbuchpapyrus C 3836", 
+            "title_full": "„Ich habe die Maat getan und bin auf ihrem Weg gegangen\". Zum Hamburger Totenbuchpapyrus C 3836", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1501/"
         }, 
         {
-            "title_full": "K\u00e4lberhirte und Schafhirte. Bemerkungen zur R\u00fcckkehr des Grabherrn", 
+            "title_full": "Kälberhirte und Schafhirte. Bemerkungen zur Rückkehr des Grabherrn", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1661/"
         }, 
         {
-            "title_full": "Le ma\u00eetre du tombeau en tant qu'Horus fils d'Osiris", 
+            "title_full": "Le maître du tombeau en tant qu'Horus fils d'Osiris", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1606/"
         }, 
         {
-            "title_full": "Lederb\u00e4nder und Lederanh\u00e4nger von der Mumie des Chonsu-maacheru", 
+            "title_full": "Lederbänder und Lederanhänger von der Mumie des Chonsu-maacheru", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1571/"
         }, 
         {
-            "title_full": "Letopolis und der Bericht des Herodot \u00fcber Papremis", 
+            "title_full": "Letopolis und der Bericht des Herodot über Papremis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1535/"
         }, 
         {
-            "title_full": "\u201eMessersee\", \u201egewundener Wasserlauf\" und \u201eFlammensee\"", 
+            "title_full": "„Messersee\", „gewundener Wasserlauf\" und „Flammensee\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1392/"
         }, 
         {
-            "title_full": "Nilpferd und Papyrusdickicht in den Gr\u00e4bern des Alten Reiches", 
+            "title_full": "Nilpferd und Papyrusdickicht in den Gräbern des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1615/"
         }, 
         {
@@ -484,15 +484,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1655/"
         }, 
         {
-            "title_full": "Sein Ba m\u00f6ge fortdauern bei Gott", 
+            "title_full": "Sein Ba möge fortdauern bei Gott", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1657/"
         }, 
         {
-            "title_full": "Seschat Jrj und Sdm als Garanten einer gl\u00fccklichen Regierungszeit", 
+            "title_full": "Seschat Jrj und Sdm als Garanten einer glücklichen Regierungszeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1502/"
         }, 
         {
-            "title_full": "Seschat, \u2018die den Leichnam versorgt\u2019, als Herrin \u00fcber Vergangenheit und Geschichte", 
+            "title_full": "Seschat, ‘die den Leichnam versorgt’, als Herrin über Vergangenheit und Geschichte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1705/"
         }, 
         {
@@ -504,7 +504,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1600/"
         }, 
         {
-            "title_full": "Tausrets Weg zum K\u00f6nigtum", 
+            "title_full": "Tausrets Weg zum Königtum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1598/"
         }, 
         {
@@ -516,15 +516,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1658/"
         }, 
         {
-            "title_full": "Verst\u00fcmmelte Opfertr\u00e4ger auf einem Relief aus Abusir", 
+            "title_full": "Verstümmelte Opferträger auf einem Relief aus Abusir", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1773/"
         }, 
         {
-            "title_full": "V\u00e4ter, Br\u00fcder und G\u00f6tter - Bemerkungen zur Szene der Ubergabe der Lotosbl\u00fcte", 
+            "title_full": "Väter, Brüder und Götter - Bemerkungen zur Szene der Ubergabe der Lotosblüte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1659/"
         }, 
         {
-            "title_full": "\u201eWasserv\u00f6gel sollen zu dir kommen zu Tausenden.\" Aspekte der Fisch- und Vogeljagd im Papyrusdickicht", 
+            "title_full": "„Wasservögel sollen zu dir kommen zu Tausenden.\" Aspekte der Fisch- und Vogeljagd im Papyrusdickicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1503/"
         }, 
         {
@@ -532,11 +532,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1592/"
         }, 
         {
-            "title_full": "Zum Beschriftungssystem bei religi\u00f6sen Texten", 
+            "title_full": "Zum Beschriftungssystem bei religiösen Texten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1566/"
         }, 
         {
-            "title_full": "Zum m\u00f6glichen religi\u00f6sen Gehalt von Grabdarstellungen des Alten Reiches", 
+            "title_full": "Zum möglichen religiösen Gehalt von Grabdarstellungen des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1568/"
         }, 
         {
@@ -544,7 +544,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1706/"
         }, 
         {
-            "title_full": "Zur Frage der Verg\u00f6ttlichung des Vezirs (Pa-)Rahotep", 
+            "title_full": "Zur Frage der Vergöttlichung des Vezirs (Pa-)Rahotep", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1597/"
         }, 
         {
@@ -552,11 +552,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1536/"
         }, 
         {
-            "title_full": "Zur Verg\u00f6ttlichung des K\u00f6nigs Unas im Alten Reich", 
+            "title_full": "Zur Vergöttlichung des Königs Unas im Alten Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1400/"
         }, 
         {
-            "title_full": "Zur \u00dcberlieferung des Amduat", 
+            "title_full": "Zur Überlieferung des Amduat", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1537/"
         }, 
         {
@@ -580,15 +580,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1774/"
         }, 
         {
-            "title_full": "Das Bild des Vaters im Alten \u00c4gypten", 
+            "title_full": "Das Bild des Vaters im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1775/"
         }, 
         {
-            "title_full": "Das Dekorationsprogramm der k\u00f6niglichen Sonnenheiligt\u00fcmer des Neuen Reiches nach einer Fassung der Sp\u00e4tzeit", 
+            "title_full": "Das Dekorationsprogramm der königlichen Sonnenheiligtümer des Neuen Reiches nach einer Fassung der Spätzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1732/"
         }, 
         {
-            "title_full": "Das Doppelgesicht der Zeit im alt\u00e4gyptischen Denken", 
+            "title_full": "Das Doppelgesicht der Zeit im altägyptischen Denken", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1733/"
         }, 
         {
@@ -596,7 +596,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1754/"
         }, 
         {
-            "title_full": "Das Heil: Religi\u00f6se Zukunftsvorstellungen im kulturellen Ged\u00e4chtnis", 
+            "title_full": "Das Heil: Religiöse Zukunftsvorstellungen im kulturellen Gedächtnis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1776/"
         }, 
         {
@@ -604,19 +604,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1777/"
         }, 
         {
-            "title_full": "Das g\u00f6ttliche Richtertum und die Lesbarkeit der Geschichte. Rez. John Gwyn Griffiths, The Divine Verdict. A Study of Divine Judgement in the Ancient Religions", 
+            "title_full": "Das göttliche Richtertum und die Lesbarkeit der Geschichte. Rez. John Gwyn Griffiths, The Divine Verdict. A Study of Divine Judgement in the Ancient Religions", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2317/"
         }, 
         {
-            "title_full": "Das kollektive Ged\u00e4chtnis zwischen K\u00f6rper und Schrift. Zur Ged\u00e4chtnistheorie von Maurice Halbwachs", 
+            "title_full": "Das kollektive Gedächtnis zwischen Körper und Schrift. Zur Gedächtnistheorie von Maurice Halbwachs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2338/"
         }, 
         {
-            "title_full": "Das \u00e4gyptische Prozessionsfest", 
+            "title_full": "Das ägyptische Prozessionsfest", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2110/"
         }, 
         {
-            "title_full": "Das \u00e4gyptische Zweibr\u00fcderm\u00e4rchen (Papyrus d'Orbiney)", 
+            "title_full": "Das ägyptische Zweibrüdermärchen (Papyrus d'Orbiney)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1708/"
         }, 
         {
@@ -624,7 +624,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1930/"
         }, 
         {
-            "title_full": "Der \"leidende Gerechte\" im alten \u00c4gypten. Zum Konfliktpotential der \u00e4gyptischen Religion", 
+            "title_full": "Der \"leidende Gerechte\" im alten Ägypten. Zum Konfliktpotential der ägyptischen Religion", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2055/"
         }, 
         {
@@ -636,11 +636,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1789/"
         }, 
         {
-            "title_full": "Der Mensch - das Tier, das zu viel wei\u00df. Altorientalische Mythen zum Thema der menschlichen Endlichkeit", 
+            "title_full": "Der Mensch - das Tier, das zu viel weiß. Altorientalische Mythen zum Thema der menschlichen Endlichkeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1779/"
         }, 
         {
-            "title_full": "Der Mythos des Gottk\u00f6nigs im Alten \u00c4gypten", 
+            "title_full": "Der Mythos des Gottkönigs im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1780/"
         }, 
         {
@@ -648,23 +648,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2353/"
         }, 
         {
-            "title_full": "Der Schrecken Gottes im Alten \u00c4gypten", 
+            "title_full": "Der Schrecken Gottes im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1781/"
         }, 
         {
-            "title_full": "Der Tempel der \u00e4gyptischen Sp\u00e4tzeit als Kanonisierung kultureller Identit\u00e4t", 
+            "title_full": "Der Tempel der ägyptischen Spätzeit als Kanonisierung kultureller Identität", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2155/"
         }, 
         {
-            "title_full": "Der literarische Text im Alten \u00c4gypten. Versuch einer Begriffsbestimmung", 
+            "title_full": "Der literarische Text im Alten Ägypten. Versuch einer Begriffsbestimmung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1709/"
         }, 
         {
-            "title_full": "Der sch\u00f6ne Tag. Sinnlichkeit und Verg\u00e4nglichkeit im alt\u00e4gyptischen Fest", 
+            "title_full": "Der schöne Tag. Sinnlichkeit und Vergänglichkeit im altägyptischen Fest", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1931/"
         }, 
         {
-            "title_full": "Der zweidimensionale Mensch: das Fest als Medium des kollektiven Ged\u00e4chtnisses", 
+            "title_full": "Der zweidimensionale Mensch: das Fest als Medium des kollektiven Gedächtnisses", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2136/"
         }, 
         {
@@ -672,15 +672,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1721/"
         }, 
         {
-            "title_full": "Die Entdeckung der Vergangenheit. Innovation und Restauration in der \u00e4gyptischen Literaturgeschichte", 
+            "title_full": "Die Entdeckung der Vergangenheit. Innovation und Restauration in der ägyptischen Literaturgeschichte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1734/"
         }, 
         {
-            "title_full": "Die Gestalt der Zeit in der \u00e4gyptischen Kunst", 
+            "title_full": "Die Gestalt der Zeit in der ägyptischen Kunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1720/"
         }, 
         {
-            "title_full": "Die Inschrift auf dem \u00e4u\u00dferen Sarkophagdeckel des Merenptah", 
+            "title_full": "Die Inschrift auf dem äußeren Sarkophagdeckel des Merenptah", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1702/"
         }, 
         {
@@ -688,15 +688,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2234/"
         }, 
         {
-            "title_full": "Die Macht der Bilder. Rahmenbedingungen ikonischen Handelns im Alten \u00c4gypten", 
+            "title_full": "Die Macht der Bilder. Rahmenbedingungen ikonischen Handelns im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1932/"
         }, 
         {
-            "title_full": "Die Piye(Pianchi)Stele: Erz\u00e4hlung als Medium politischer Repr\u00e4sentation", 
+            "title_full": "Die Piye(Pianchi)Stele: Erzählung als Medium politischer Repräsentation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1782/"
         }, 
         {
-            "title_full": "Die Rubren der Sinuhe-Erz\u00e4hlung", 
+            "title_full": "Die Rubren der Sinuhe-Erzählung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1783/"
         }, 
         {
@@ -704,23 +704,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2235/"
         }, 
         {
-            "title_full": "Die Verborgenheit des Mythos in \u00c4gypten", 
+            "title_full": "Die Verborgenheit des Mythos in Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1722/"
         }, 
         {
-            "title_full": "Die Wende der Weisheit im Alten \u00c4gypten", 
+            "title_full": "Die Wende der Weisheit im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2316/"
         }, 
         {
-            "title_full": "Die Zeugung des Sohnes. Bild, Spiel, Erz\u00e4hlung und das Problem des \u00e4gyptischen Mythos", 
+            "title_full": "Die Zeugung des Sohnes. Bild, Spiel, Erzählung und das Problem des ägyptischen Mythos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1784/"
         }, 
         {
-            "title_full": "Die \u201eH\u00e4resie\" des Echnaton: Aspekte der Amarna-Religion", 
+            "title_full": "Die „Häresie\" des Echnaton: Aspekte der Amarna-Religion", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1710/"
         }, 
         {
-            "title_full": "Egypte ancienne - la m\u00e9moire monumentale", 
+            "title_full": "Egypte ancienne - la mémoire monumentale", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1827/"
         }, 
         {
@@ -728,7 +728,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1933/"
         }, 
         {
-            "title_full": "Ein Gespr\u00e4ch im Goldhaus \u00fcber Kunst und andere Gegenst\u00e4nde", 
+            "title_full": "Ein Gespräch im Goldhaus über Kunst und andere Gegenstände", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2137/"
         }, 
         {
@@ -736,11 +736,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2339/"
         }, 
         {
-            "title_full": "Eine Traumoffenbarung der G\u00f6ttin Hathor. Zeugnisse 'Pers\u00f6nlicher Fr\u00f6mmigkeit' in thebanischen Privatgr\u00e4bern der Ramessidenzeit", 
+            "title_full": "Eine Traumoffenbarung der Göttin Hathor. Zeugnisse 'Persönlicher Frömmigkeit' in thebanischen Privatgräbern der Ramessidenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1711/"
         }, 
         {
-            "title_full": "Fest des Augenblicks - Verhei\u00dfung der Dauer. Die Kontroverse der \u00e4gyptischen Harfnerlieder", 
+            "title_full": "Fest des Augenblicks - Verheißung der Dauer. Die Kontroverse der ägyptischen Harfnerlieder", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1828/"
         }, 
         {
@@ -752,15 +752,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1829/"
         }, 
         {
-            "title_full": "F\u00fcnf Wege zum Kanon. Tradition und Schriftkultur im alten Israel und fr\u00fchen JudentumF\u00fcnf Wege zum Kanon. Tradition und Schriftkultur im alten Israel und fr\u00fchen Judentum", 
+            "title_full": "Fünf Wege zum Kanon. Tradition und Schriftkultur im alten Israel und frühen JudentumFünf Wege zum Kanon. Tradition und Schriftkultur im alten Israel und frühen Judentum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2236/"
         }, 
         {
-            "title_full": "Gebrauch und Ged\u00e4chtnis: Die zwei Kulturen des pharaonischen \u00c4gypten", 
+            "title_full": "Gebrauch und Gedächtnis: Die zwei Kulturen des pharaonischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2138/"
         }, 
         {
-            "title_full": "Geheimnis, Ged\u00e4chtnis und Gottesn\u00e4he: zum Strukturwandel der Grabsemantik und der Diesseits-Jenseitsbeziehungen im Neuen Reich", 
+            "title_full": "Geheimnis, Gedächtnis und Gottesnähe: zum Strukturwandel der Grabsemantik und der Diesseits-Jenseitsbeziehungen im Neuen Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2458/"
         }, 
         {
@@ -768,7 +768,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1830/"
         }, 
         {
-            "title_full": "Gibt es eine \"Klassik\" in der \u00e4gyptischen Literaturgeschichte? Ein Beitrag zur Geistesgeschichte der Ramessidenzeit", 
+            "title_full": "Gibt es eine \"Klassik\" in der ägyptischen Literaturgeschichte? Ein Beitrag zur Geistesgeschichte der Ramessidenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1809/"
         }, 
         {
@@ -776,19 +776,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1831/"
         }, 
         {
-            "title_full": "Gl\u00fcck und Weisheit im Alten \u00c4gypten", 
+            "title_full": "Glück und Weisheit im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2209/"
         }, 
         {
-            "title_full": "Gott und die G\u00f6tter", 
+            "title_full": "Gott und die Götter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1810/"
         }, 
         {
-            "title_full": "Gottesbeherzigung \"Pers\u00f6nliche Fr\u00f6mmigkeit\" als religi\u00f6se Str\u00f6mung der Ramessidenzeit", 
+            "title_full": "Gottesbeherzigung \"Persönliche Frömmigkeit\" als religiöse Strömung der Ramessidenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2253/"
         }, 
         {
-            "title_full": "Grundstrukturen der \u00e4gyptischen Gottesvorstellungen", 
+            "title_full": "Grundstrukturen der ägyptischen Gottesvorstellungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1723/"
         }, 
         {
@@ -796,23 +796,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1948/"
         }, 
         {
-            "title_full": "Harfnerlied und Horuss\u00f6hne. Zwei Bl\u00f6cke aus dem verschollenen Grab des B\u00fcrgermeisters Amenemhet (Theben Nr.163) im Britischen Museum", 
+            "title_full": "Harfnerlied und Horussöhne. Zwei Blöcke aus dem verschollenen Grab des Bürgermeisters Amenemhet (Theben Nr.163) im Britischen Museum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1735/"
         }, 
         {
-            "title_full": "Hierotaxis. Textkonstitution und Bildkomposition in der alt\u00e4gyptischen Kunst und Literatur", 
+            "title_full": "Hierotaxis. Textkonstitution und Bildkomposition in der altägyptischen Kunst und Literatur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1879/"
         }, 
         {
-            "title_full": "Ikonographie der Sch\u00f6nheit im alten \u00c4gypten", 
+            "title_full": "Ikonographie der Schönheit im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1839/"
         }, 
         {
-            "title_full": "Ikonologie der Identit\u00e4t. Vier Stilkategorien der \u00e4gyptischen Bildniskunst", 
+            "title_full": "Ikonologie der Identität. Vier Stilkategorien der ägyptischen Bildniskunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1949/"
         }, 
         {
-            "title_full": "Im Schatten junger Medienbl\u00fcte. \u00c4gypten und die Materialit\u00e4t des Zeichens", 
+            "title_full": "Im Schatten junger Medienblüte. Ägypten und die Materialität des Zeichens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1840/"
         }, 
         {
@@ -820,35 +820,35 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2237/"
         }, 
         {
-            "title_full": "Kollektives Ged\u00e4chtnis und kulturelle Identit\u00e4t", 
+            "title_full": "Kollektives Gedächtnis und kulturelle Identität", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1895/"
         }, 
         {
-            "title_full": "Konstellative Anthropologie. Zum Bild des Menschen im alten \u00c4gypten", 
+            "title_full": "Konstellative Anthropologie. Zum Bild des Menschen im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1838/"
         }, 
         {
-            "title_full": "Kulte und Religionen. Merkmale prim\u00e4rer und sekund\u00e4rer Religion(serfahrung) im Alten \u00c4gypten", 
+            "title_full": "Kulte und Religionen. Merkmale primärer und sekundärer Religion(serfahrung) im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1842/"
         }, 
         {
-            "title_full": "Kulturelles Ged\u00e4chtnis als normative Erinnerung. Das Prinzip ,Kanon' in der Erinnerungskultur \u00c4gyptens und Israels", 
+            "title_full": "Kulturelles Gedächtnis als normative Erinnerung. Das Prinzip ,Kanon' in der Erinnerungskultur Ägyptens und Israels", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2340/"
         }, 
         {
-            "title_full": "Kunst und Rituale: Mozarts Zauberfl\u00f6te", 
+            "title_full": "Kunst und Rituale: Mozarts Zauberflöte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1841/"
         }, 
         {
-            "title_full": "K\u00f6nigsdogma und Heilserwartung. Politische und kultische Chaosbeschreibungen in \u00e4gyptischen Texten", 
+            "title_full": "Königsdogma und Heilserwartung. Politische und kultische Chaosbeschreibungen in ägyptischen Texten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2053/"
         }, 
         {
-            "title_full": "Le temple \u00e9gyptien et la distinction entre le dedans et le dehors", 
+            "title_full": "Le temple égyptien et la distinction entre le dedans et le dehors", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2254/"
         }, 
         {
-            "title_full": "Literatur und Karneval im Alten \u00c4gypten", 
+            "title_full": "Literatur und Karneval im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2189/"
         }, 
         {
@@ -856,15 +856,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2044/"
         }, 
         {
-            "title_full": "Maat und die gespaltene Welt oder: \u00c4gyptertum und Pessimismus", 
+            "title_full": "Maat und die gespaltene Welt oder: Ägyptertum und Pessimismus", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2156/"
         }, 
         {
-            "title_full": "Magie und Ritual im Alten \u00c4gypten", 
+            "title_full": "Magie und Ritual im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1885/"
         }, 
         {
-            "title_full": "Magische Weisheit. Wissensformen im \u00e4gyptischen Kosmotheismus", 
+            "title_full": "Magische Weisheit. Wissensformen im ägyptischen Kosmotheismus", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2051/"
         }, 
         {
@@ -888,35 +888,35 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2299/"
         }, 
         {
-            "title_full": "Palast oder Tempel? \u00dcberlegungen zur Architektur und Topographie von Amarna", 
+            "title_full": "Palast oder Tempel? Überlegungen zur Architektur und Topographie von Amarna", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1897/"
         }, 
         {
-            "title_full": "Pathosformeln, Figuren und Erinnerungsmotive in Mozarts Zauberfl\u00f6te", 
+            "title_full": "Pathosformeln, Figuren und Erinnerungsmotive in Mozarts Zauberflöte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1898/"
         }, 
         {
-            "title_full": "Politik und Religion. Alt\u00e4gyptische und biblische Auspr\u00e4gungen eines aktuellen Problems", 
+            "title_full": "Politik und Religion. Altägyptische und biblische Ausprägungen eines aktuellen Problems", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1785/"
         }, 
         {
-            "title_full": "Politik zwischen Ritual und Dogma. Spielr\u00e4ume politischen Handelns im pharaonischen \u00c4gypten", 
+            "title_full": "Politik zwischen Ritual und Dogma. Spielräume politischen Handelns im pharaonischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1844/"
         }, 
         {
-            "title_full": "Politisierung durch Polarisierung. Zur impliziten Axiomatik alt\u00e4gyptischer Politik", 
+            "title_full": "Politisierung durch Polarisierung. Zur impliziten Axiomatik altägyptischer Politik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2188/"
         }, 
         {
-            "title_full": "Primat und Transzendenz. Struktur und Genese der \u00e4gyptischen Vorstellung eines 'H\u00f6chsten Wesens'", 
+            "title_full": "Primat und Transzendenz. Struktur und Genese der ägyptischen Vorstellung eines 'Höchsten Wesens'", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1860/"
         }, 
         {
-            "title_full": "Priorit\u00e4t und Interesse. Das Problem der Ramessidischen Beamtengr\u00e4ber", 
+            "title_full": "Priorität und Interesse. Das Problem der Ramessidischen Beamtengräber", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1861/"
         }, 
         {
-            "title_full": "Pythagoras und Lucius: zwei Formen \u00e4gyptischer Mysterien", 
+            "title_full": "Pythagoras und Lucius: zwei Formen ägyptischer Mysterien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1899/"
         }, 
         {
@@ -924,19 +924,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1900/"
         }, 
         {
-            "title_full": "Sagesse et \u00e9criture dans l'Ancienne \u00c9gypte", 
+            "title_full": "Sagesse et écriture dans l'Ancienne Égypte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2109/"
         }, 
         {
-            "title_full": "Sakralk\u00f6nigtum und Gemeinschaftskunst. Der Alte Orient und das Politische", 
+            "title_full": "Sakralkönigtum und Gemeinschaftskunst. Der Alte Orient und das Politische", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1808/"
         }, 
         {
-            "title_full": "Schrift, Tod und Identit\u00e4t. Das Grab als Vorschule der Literatur im alten \u00c4gypten", 
+            "title_full": "Schrift, Tod und Identität. Das Grab als Vorschule der Literatur im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1737/"
         }, 
         {
-            "title_full": "Sch\u00f6nheit und Gerechtigkeit. \u00bb... man gedenkt seiner wegen der Tugend\u00ab", 
+            "title_full": "Schönheit und Gerechtigkeit. »... man gedenkt seiner wegen der Tugend«", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1807/"
         }, 
         {
@@ -948,7 +948,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2157/"
         }, 
         {
-            "title_full": "Sepulkrale Selbstthematisierung im alten \u00c4gypten", 
+            "title_full": "Sepulkrale Selbstthematisierung im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2056/"
         }, 
         {
@@ -956,11 +956,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2259/"
         }, 
         {
-            "title_full": "Spruch 23 der Pyramidentexte und die \u00c4chtung der Feinde des Pharaos", 
+            "title_full": "Spruch 23 der Pyramidentexte und die Ächtung der Feinde des Pharaos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2260/"
         }, 
         {
-            "title_full": "Spruch 62 der Sargtexte und die \u00e4gyptischen Totenliturgien", 
+            "title_full": "Spruch 62 der Sargtexte und die ägyptischen Totenliturgien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2080/"
         }, 
         {
@@ -968,7 +968,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1950/"
         }, 
         {
-            "title_full": "Stein und Zeit. Das \u00bbmonumentale\u00ab Ged\u00e4chtnis der alt\u00e4gyptischen Kultur", 
+            "title_full": "Stein und Zeit. Das »monumentale« Gedächtnis der altägyptischen Kultur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1806/"
         }, 
         {
@@ -980,7 +980,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2354/"
         }, 
         {
-            "title_full": "Tod und Initiation im alt\u00e4gyptischen Totenglauben", 
+            "title_full": "Tod und Initiation im altägyptischen Totenglauben", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1952/"
         }, 
         {
@@ -988,7 +988,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2238/"
         }, 
         {
-            "title_full": "Unsichtbare Religion und Kulturelles Ged\u00e4chtnis", 
+            "title_full": "Unsichtbare Religion und Kulturelles Gedächtnis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2261/"
         }, 
         {
@@ -996,15 +996,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1953/"
         }, 
         {
-            "title_full": "Verk\u00fcnden und verkl\u00e4ren - Grundformen hymnischer Rede im Alten \u00c4gypten", 
+            "title_full": "Verkünden und verklären - Grundformen hymnischer Rede im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2300/"
         }, 
         {
-            "title_full": "Vertikaler Sozialismus. Solidarit\u00e4t und Gerechtigkeit im alt\u00e4gyptischen Staat", 
+            "title_full": "Vertikaler Sozialismus. Solidarität und Gerechtigkeit im altägyptischen Staat", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2196/"
         }, 
         {
-            "title_full": "Viel Stil am Nil? Alt\u00e4gypten und das Problem des Kulturstils", 
+            "title_full": "Viel Stil am Nil? Altägypten und das Problem des Kulturstils", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1786/"
         }, 
         {
@@ -1012,11 +1012,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1954/"
         }, 
         {
-            "title_full": "Weisheit, Loyalismus und Fr\u00f6mmigkeit", 
+            "title_full": "Weisheit, Loyalismus und Frömmigkeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2012/"
         }, 
         {
-            "title_full": "Weisheit, Schrift und Literatur im alten \u00c4gypten", 
+            "title_full": "Weisheit, Schrift und Literatur im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2052/"
         }, 
         {
@@ -1028,43 +1028,43 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1755/"
         }, 
         {
-            "title_full": "Zeit der Erneuerung, Zeit der Rechenschaft. Mythos und Geschichte in fr\u00fchen Kulturen", 
+            "title_full": "Zeit der Erneuerung, Zeit der Rechenschaft. Mythos und Geschichte in frühen Kulturen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2158/"
         }, 
         {
-            "title_full": "Zum Konzept der Fremdheit im alten \u00c4gypten", 
+            "title_full": "Zum Konzept der Fremdheit im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2275/"
         }, 
         {
-            "title_full": "Zur Baugeschichte der K\u00f6nigsgruft von Sidon", 
+            "title_full": "Zur Baugeschichte der Königsgruft von Sidon", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1700/"
         }, 
         {
-            "title_full": "Zur Geschichte des Herzens im Alten \u00c4gypten", 
+            "title_full": "Zur Geschichte des Herzens im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2307/"
         }, 
         {
-            "title_full": "Zur Verschriftung rechtlicher und sozialer Normen im Alten \u00c4gypten", 
+            "title_full": "Zur Verschriftung rechtlicher und sozialer Normen im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2309/"
         }, 
         {
-            "title_full": "Zwei Sonnenhymnen der sp\u00e4ten XVIII. Dynastie in thebanischen Gr\u00e4bern der Saitenzeit", 
+            "title_full": "Zwei Sonnenhymnen der späten XVIII. Dynastie in thebanischen Gräbern der Saitenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1703/"
         }, 
         {
-            "title_full": "\u00c4gyptologie als verstehende Wissenschaft. \u00dcber die hermeneutisohe Funktion des interdisziplin\u00e4ren Gespr\u00e4chs", 
+            "title_full": "Ägyptologie als verstehende Wissenschaft. Über die hermeneutisohe Funktion des interdisziplinären Gesprächs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1719/"
         }, 
         {
-            "title_full": "\u00c4gyptologie im Kontext der Geisteswissenschaften", 
+            "title_full": "Ägyptologie im Kontext der Geisteswissenschaften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1929/"
         }, 
         {
-            "title_full": "\u00c4gyptologie und Linguistik", 
+            "title_full": "Ägyptologie und Linguistik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1707/"
         }, 
         {
-            "title_full": "Untersuchungen zum Schatzhaus im Neuen Reich: Administrative und \u00f6konomische Aspekte", 
+            "title_full": "Untersuchungen zum Schatzhaus im Neuen Reich: Administrative und ökonomische Aspekte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/350/"
         }, 
         {
@@ -1084,23 +1084,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/363/"
         }, 
         {
-            "title_full": "Die Sonnenlaufszene. Untersuchungen zur Vignette 15 des Alt\u00e4gyptischen Totenbuches w\u00e4hrend der Sp\u00e4t- und Ptolem\u00e4erzeit: Tabelle", 
+            "title_full": "Die Sonnenlaufszene. Untersuchungen zur Vignette 15 des Altägyptischen Totenbuches während der Spät- und Ptolemäerzeit: Tabelle", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/137/"
         }, 
         {
-            "title_full": "\"Als Gott erschienen spricht er\". Die Lehre des Amenemhet als postumes Verm\u00e4chtnis", 
+            "title_full": "\"Als Gott erschienen spricht er\". Die Lehre des Amenemhet als postumes Vermächtnis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2088/"
         }, 
         {
-            "title_full": "Bibliotheken im alten \u00c4gypten", 
+            "title_full": "Bibliotheken im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2179/"
         }, 
         {
-            "title_full": "Der formale Aufbau alt\u00e4gyptischer Literaturwerke: Zur Problematik der Erschliessung seiner Grundstrukturen", 
+            "title_full": "Der formale Aufbau altägyptischer Literaturwerke: Zur Problematik der Erschliessung seiner Grundstrukturen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2174/"
         }, 
         {
-            "title_full": "Der in der W\u00fcste tanzt", 
+            "title_full": "Der in der Wüste tanzt", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2342/"
         }, 
         {
@@ -1120,11 +1120,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2250/"
         }, 
         {
-            "title_full": "Drei Amulette f\u00fcr Neugeborene aus Elephantine", 
+            "title_full": "Drei Amulette für Neugeborene aus Elephantine", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2226/"
         }, 
         {
-            "title_full": "\u00bbDu kennst doch die Situation der Stadt!\u00ab Zum Alltag der Nekropolenarbeiter Pharaos", 
+            "title_full": "»Du kennst doch die Situation der Stadt!« Zum Alltag der Nekropolenarbeiter Pharaos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2315/"
         }, 
         {
@@ -1132,7 +1132,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2040/"
         }, 
         {
-            "title_full": "Ein \u00e4gyptischer Totenbuch-Papyrus im Bundespostmuseum", 
+            "title_full": "Ein ägyptischer Totenbuch-Papyrus im Bundespostmuseum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2031/"
         }, 
         {
@@ -1144,15 +1144,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2355/"
         }, 
         {
-            "title_full": "Fr\u00fchgeschichte und R\u00f6merzeit: P. Berlin 23071 vso", 
+            "title_full": "Frühgeschichte und Römerzeit: P. Berlin 23071 vso", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2345/"
         }, 
         {
-            "title_full": "Literarische Tradition und historische Realit\u00e4t. Die persische Eroberung \u00c4gyptens am Beispiel Elephantine", 
+            "title_full": "Literarische Tradition und historische Realität. Die persische Eroberung Ägyptens am Beispiel Elephantine", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2367/"
         }, 
         {
-            "title_full": "Ostraka aus Deir el-Medine in sp\u00e4tzeitlichen Grabanlagen vor dem Deutschen Haus in Theben", 
+            "title_full": "Ostraka aus Deir el-Medine in spätzeitlichen Grabanlagen vor dem Deutschen Haus in Theben", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2344/"
         }, 
         {
@@ -1172,15 +1172,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2049/"
         }, 
         {
-            "title_full": "Schriftzeugnisse und Schreibger\u00e4te", 
+            "title_full": "Schriftzeugnisse und Schreibgeräte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2050/"
         }, 
         {
-            "title_full": "Schule und Schulausbildung im Alten \u00c4gypten", 
+            "title_full": "Schule und Schulausbildung im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2333/"
         }, 
         {
-            "title_full": "Sp\u00e4tzeitliche Osirisliturgien", 
+            "title_full": "Spätzeitliche Osirisliturgien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2343/"
         }, 
         {
@@ -1188,23 +1188,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2229/"
         }, 
         {
-            "title_full": "Ursula R\u00f6ssler-K\u00f6hler, Kapitel 17 des \u00e4gyptischen Totenbuches. Untersuchungen zur Textgeschichte und Funktion eines Textes der all\u00e4gyptischen Tolenliteratur. XIII. 38S pp. Wiesbaden, Harrassowitz, 1979 (GOF IV, 10)", 
+            "title_full": "Ursula Rössler-Köhler, Kapitel 17 des ägyptischen Totenbuches. Untersuchungen zur Textgeschichte und Funktion eines Textes der allägyptischen Tolenliteratur. XIII. 38S pp. Wiesbaden, Harrassowitz, 1979 (GOF IV, 10)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2239/"
         }, 
         {
-            "title_full": "Vorstellungen vom Kosmos - Die Weltgeb\u00e4ude", 
+            "title_full": "Vorstellungen vom Kosmos - Die Weltgebäude", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2175/"
         }, 
         {
-            "title_full": "W\u00fcrfelhocker des Wesirs Na-secheper-en-Sachmet", 
+            "title_full": "Würfelhocker des Wesirs Na-secheper-en-Sachmet", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2228/"
         }, 
         {
-            "title_full": "Zwei weitere Belege, f\u00fcr die Lehre Amenemhets I. f\u00fcr seinen Sohn", 
+            "title_full": "Zwei weitere Belege, für die Lehre Amenemhets I. für seinen Sohn", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2024/"
         }, 
         {
-            "title_full": "\u00c4gypten. Altert\u00fcmer, koptische Kunst, islamische Denkm\u00e4ler. Von Karlheinz Sch\u00fcssler. Mit 74 Abb., 88 Pl\u00e4nen und Zeichnungen. Z\u00fcrich und M\u00fcnchen: Artemis--Verlag 1977", 
+            "title_full": "Ägypten. Altertümer, koptische Kunst, islamische Denkmäler. Von Karlheinz Schüssler. Mit 74 Abb., 88 Plänen und Zeichnungen. Zürich und München: Artemis--Verlag 1977", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2025/"
         }, 
         {
@@ -1224,19 +1224,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2075/"
         }, 
         {
-            "title_full": "Catarino Mazzol\u00e0s Libretto \"Osiride\" (Dresden 1781). Ein Beitrag zum kulturgeschichtlichen Umfeld des Librettos der \u00bbZauberfl\u00f6te\u00ab", 
+            "title_full": "Catarino Mazzolàs Libretto \"Osiride\" (Dresden 1781). Ein Beitrag zum kulturgeschichtlichen Umfeld des Librettos der »Zauberflöte«", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2047/"
         }, 
         {
-            "title_full": "\u00bbGeheimnis\u00ab und \u00bbGeheimhaltung\u00ab in den Hermetica der Fr\u00fchen Neuzeit", 
+            "title_full": "»Geheimnis« und »Geheimhaltung« in den Hermetica der Frühen Neuzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1998/"
         }, 
         {
-            "title_full": "Mozarts Zauberfl\u00f6te. Der Schrecken des Todes und die Macht der Musik", 
+            "title_full": "Mozarts Zauberflöte. Der Schrecken des Todes und die Macht der Musik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1997/"
         }, 
         {
-            "title_full": "Rationale Mysterien? Eine Interpretationsoption f\u00fcr die Zauberfl\u00f6te", 
+            "title_full": "Rationale Mysterien? Eine Interpretationsoption für die Zauberflöte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2003/"
         }, 
         {
@@ -1244,7 +1244,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2062/"
         }, 
         {
-            "title_full": "\u201e\u00c4gyptische Freimaurerei\" in der zweiten H\u00e4lfte des 18. Jahrhunderts", 
+            "title_full": "„Ägyptische Freimaurerei\" in der zweiten Hälfte des 18. Jahrhunderts", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2041/"
         }, 
         {
@@ -1288,11 +1288,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/762/"
         }, 
         {
-            "title_full": "Das Verh\u00e4ltniss des Aegytpischen zu den semitischen Sprachen", 
+            "title_full": "Das Verhältniss des Aegytpischen zu den semitischen Sprachen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/364/"
         }, 
         {
-            "title_full": "Eine Reise nach Ph\u00f6nizien im 11. Jahrhundert v. Chr", 
+            "title_full": "Eine Reise nach Phönizien im 11. Jahrhundert v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/361/"
         }, 
         {
@@ -1300,7 +1300,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/904/"
         }, 
         {
-            "title_full": "Das Bildnis der Neith als Schlangeng\u00f6ttin", 
+            "title_full": "Das Bildnis der Neith als Schlangengöttin", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2400/"
         }, 
         {
@@ -1308,23 +1308,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2187/"
         }, 
         {
-            "title_full": "Der Weg des Verstorbenen bis zur Rechtfertigung nach Darstellungen in Ramessidischen Gr\u00e4bern", 
+            "title_full": "Der Weg des Verstorbenen bis zur Rechtfertigung nach Darstellungen in Ramessidischen Gräbern", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2213/"
         }, 
         {
-            "title_full": "Die Gr\u00e4ber des Nedjemger (TT 138) und des Hori (TT 259)", 
+            "title_full": "Die Gräber des Nedjemger (TT 138) und des Hori (TT 259)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/27/"
         }, 
         {
-            "title_full": "Die Stellung der Frau im alten \u00c4gypten", 
+            "title_full": "Die Stellung der Frau im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1916/"
         }, 
         {
-            "title_full": "Erster Vorbericht \u00fcber Arbeiten des \u00c4gyptologischen Instituts der Universit\u00e4t Heidelberg in thebanischen Gr\u00e4bern der Ramessidenzeit. Arbeiten an TT 296 , 138, 259 , 41 (178) in den Jahren 1977 - 1979", 
+            "title_full": "Erster Vorbericht über Arbeiten des Ägyptologischen Instituts der Universität Heidelberg in thebanischen Gräbern der Ramessidenzeit. Arbeiten an TT 296 , 138, 259 , 41 (178) in den Jahren 1977 - 1979", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2256/"
         }, 
         {
-            "title_full": "Eugen Strouhal: \u00c4gypten zur Pharaonenzeit. Alltag und gesellschaftliches Leben. Photos von Werner Forman. T\u00fcbingen/ Berlin: Wasmuth Verlag 1994", 
+            "title_full": "Eugen Strouhal: Ägypten zur Pharaonenzeit. Alltag und gesellschaftliches Leben. Photos von Werner Forman. Tübingen/ Berlin: Wasmuth Verlag 1994", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1957/"
         }, 
         {
@@ -1332,19 +1332,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2214/"
         }, 
         {
-            "title_full": "Gattenwahl, Ehe und Nachkommenschaft im Alten \u00c4gypten", 
+            "title_full": "Gattenwahl, Ehe und Nachkommenschaft im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1956/"
         }, 
         {
-            "title_full": "Geburt, Kindheit, Jugend und Ausbildung im Alten \u00c4gypten", 
+            "title_full": "Geburt, Kindheit, Jugend und Ausbildung im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1937/"
         }, 
         {
-            "title_full": "Johannes Dittmar: Blumen und Blumenstr\u00e4u\u00dfe als Opfergabe im alten \u00c4gypten. M\u00fcnchner \u00c4gyptologische Studien 43. M\u00fcnchen: Deutscher Kunstverlag, 1986", 
+            "title_full": "Johannes Dittmar: Blumen und Blumensträuße als Opfergabe im alten Ägypten. Münchner Ägyptologische Studien 43. München: Deutscher Kunstverlag, 1986", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1958/"
         }, 
         {
-            "title_full": "Kinder fremder V\u00f6lker in \u00c4gypten I", 
+            "title_full": "Kinder fremder Völker in Ägypten I", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2389/"
         }, 
         {
@@ -1356,19 +1356,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2004/"
         }, 
         {
-            "title_full": "Vilimkov\u00e4, Milada: Alt\u00e4gyptische Goldschmiedekunst. Auswahl der Abbildungen v. Moh. H. Abdul-Rahman, Fotografien v. D. Darbois, \u00fcbers, v. H. G\u00e4rtner. Prag: Artia [1969]", 
+            "title_full": "Vilimkovä, Milada: Altägyptische Goldschmiedekunst. Auswahl der Abbildungen v. Moh. H. Abdul-Rahman, Fotografien v. D. Darbois, übers, v. H. Gärtner. Prag: Artia [1969]", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1942/"
         }, 
         {
-            "title_full": "Statue und Kult. Eine Studie der funer\u00e4ren Praxis an nichtk\u00f6niglichen Grabanlagen der Residenz im Alten Reich", 
+            "title_full": "Statue und Kult. Eine Studie der funerären Praxis an nichtköniglichen Grabanlagen der Residenz im Alten Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/78/"
         }, 
         {
-            "title_full": "Theben und Memphis - Metropolen im Alten \u00c4gypten", 
+            "title_full": "Theben und Memphis - Metropolen im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/7/"
         }, 
         {
-            "title_full": "Fouilles du Service des Antiquit\u00e9s \u00e0 Deir Tassa", 
+            "title_full": "Fouilles du Service des Antiquités à Deir Tassa", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/365/"
         }, 
         {
@@ -1376,19 +1376,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/368/"
         }, 
         {
-            "title_full": "Der Kult des Antinoos und die Stadt Antinoupolis in \u00c4gypten. Beitr\u00e4ge aus der Sicht eines \u00c4gyptologen", 
+            "title_full": "Der Kult des Antinoos und die Stadt Antinoupolis in Ägypten. Beiträge aus der Sicht eines Ägyptologen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1414/"
         }, 
         {
-            "title_full": "Stellenregister zu Bonneau, Le r\u00e9gime administratif de l'eau du Nil", 
+            "title_full": "Stellenregister zu Bonneau, Le régime administratif de l'eau du Nil", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/4/"
         }, 
         {
-            "title_full": "Zum Amt des dioiketes im r\u00f6mischen \u00c4gypten", 
+            "title_full": "Zum Amt des dioiketes im römischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/82/"
         }, 
         {
-            "title_full": "Die Baustufen I bis IV der Gro\u00dfen Anlage von Musawwarat es Sufra", 
+            "title_full": "Die Baustufen I bis IV der Großen Anlage von Musawwarat es Sufra", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/83/"
         }, 
         {
@@ -1404,7 +1404,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1935/"
         }, 
         {
-            "title_full": "Astronomische und astrologische Kleinigkeiten IV: Ein Zeichen f\u00fcr \u201eNull\" im P. Carlsberg 32?", 
+            "title_full": "Astronomische und astrologische Kleinigkeiten IV: Ein Zeichen für „Null\" im P. Carlsberg 32?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1959/"
         }, 
         {
@@ -1412,7 +1412,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2092/"
         }, 
         {
-            "title_full": "Beinlich-Seeber, Christine: Bibliographie Alt\u00e4gypten 1822-1946. I: Alphabetisches Verzeichnis AI, II: JZ. XXXVII, 1789 Seiten. III: Indices. IX, 1158 Seiten. (= \u00c4gyptologische Abhandlungen 61). Harrassowitz Verlag Wiesbaden, 1988", 
+            "title_full": "Beinlich-Seeber, Christine: Bibliographie Altägypten 1822-1946. I: Alphabetisches Verzeichnis AI, II: JZ. XXXVII, 1789 Seiten. III: Indices. IX, 1158 Seiten. (= Ägyptologische Abhandlungen 61). Harrassowitz Verlag Wiesbaden, 1988", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1962/"
         }, 
         {
@@ -1420,15 +1420,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2231/"
         }, 
         {
-            "title_full": "Bosson, Nathalie / Aufrere, Sydney H. (Herausgeber): \u00c9gyptes...L'\u00c9gyptien et le copte. Catalogue de l'exposition (Exposition r\u00e9alis\u00e9e par le mus\u00e9e ach\u00e9ologique Henri Prades \u00e0 Lattes). Lattes, 1999", 
+            "title_full": "Bosson, Nathalie / Aufrere, Sydney H. (Herausgeber): Égyptes...L'Égyptien et le copte. Catalogue de l'exposition (Exposition réalisée par le musée achéologique Henri Prades à Lattes). Lattes, 1999", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1963/"
         }, 
         {
-            "title_full": "Das Geb\u00e4ude t(w)t(we)", 
+            "title_full": "Das Gebäude t(w)t(we)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1749/"
         }, 
         {
-            "title_full": "Das G\u00f6ttliche in der Natur - Biologie im alten \u00c4gypten", 
+            "title_full": "Das Göttliche in der Natur - Biologie im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/896/"
         }, 
         {
@@ -1448,7 +1448,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1750/"
         }, 
         {
-            "title_full": "Die Entstehung der demotischen Erz\u00e4hlliteratur. Beobachtungen zum \u00fcberlieferungsgeschichtlichen Kontext", 
+            "title_full": "Die Entstehung der demotischen Erzählliteratur. Beobachtungen zum überlieferungsgeschichtlichen Kontext", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2456/"
         }, 
         {
@@ -1456,23 +1456,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1960/"
         }, 
         {
-            "title_full": "Die Imkerei im alten \u00c4gypten", 
+            "title_full": "Die Imkerei im alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1263/"
         }, 
         {
-            "title_full": "Die Lesung des demotischen Wortes f\u00fcr \u201eG\u00f6tterbarke\"", 
+            "title_full": "Die Lesung des demotischen Wortes für „Götterbarke\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1846/"
         }, 
         {
-            "title_full": "Die L\u00e4nge des P. Spiegelberg", 
+            "title_full": "Die Länge des P. Spiegelberg", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1713/"
         }, 
         {
-            "title_full": "Die drei wirbellosen Tiere in Szene 10 des Mund\u00f6ffnungsrituals", 
+            "title_full": "Die drei wirbellosen Tiere in Szene 10 des Mundöffnungsrituals", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1811/"
         }, 
         {
-            "title_full": "Die \u00e4gyptischen literarischen Texte. Ein Forschungs\u00fcberblick", 
+            "title_full": "Die ägyptischen literarischen Texte. Ein Forschungsüberblick", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2033/"
         }, 
         {
@@ -1488,7 +1488,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2257/"
         }, 
         {
-            "title_full": "Eine sp\u00e4tdemotische Zahlungsquittung (P. Vindob. D6344)", 
+            "title_full": "Eine spätdemotische Zahlungsquittung (P. Vindob. D6344)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1751/"
         }, 
         {
@@ -1496,11 +1496,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1847/"
         }, 
         {
-            "title_full": "Einige Bemerkungen zur Geschichte von K\u00f6nig Amasis und dem Schiffer", 
+            "title_full": "Einige Bemerkungen zur Geschichte von König Amasis und dem Schiffer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1717/"
         }, 
         {
-            "title_full": "Einige Bemerkungen zur Lehre eines Mannes f\u00fcr seinen Sohn", 
+            "title_full": "Einige Bemerkungen zur Lehre eines Mannes für seinen Sohn", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2032/"
         }, 
         {
@@ -1508,7 +1508,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1714/"
         }, 
         {
-            "title_full": "Fischer-Elfert, Hans-Werner: Die Lehre eines Mannes f\u00fcr seinen Sohn. Eine Etappe auf dem ,Gottesweg' des loyalen und solidarischen Beamten des Mittleren Reiches, Wiesbaden (Harrassowitz Verlag) 1999 (\u00c4gyptologische Abhandlungen 60) Textband (geb.): XV, 480 S.; Tafelband", 
+            "title_full": "Fischer-Elfert, Hans-Werner: Die Lehre eines Mannes für seinen Sohn. Eine Etappe auf dem ,Gottesweg' des loyalen und solidarischen Beamten des Mittleren Reiches, Wiesbaden (Harrassowitz Verlag) 1999 (Ägyptologische Abhandlungen 60) Textband (geb.): XV, 480 S.; Tafelband", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2218/"
         }, 
         {
@@ -1516,7 +1516,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2176/"
         }, 
         {
-            "title_full": "Heike Guksch/Eva Hofmann/Martin Bommas (Hgg.), Grab und Totenkult im Alten \u00c4gypten, M\u00fcnchen (Verlag C. H. Beck) 2003, 264 S., 58 Abb", 
+            "title_full": "Heike Guksch/Eva Hofmann/Martin Bommas (Hgg.), Grab und Totenkult im Alten Ägypten, München (Verlag C. H. Beck) 2003, 264 S., 58 Abb", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2094/"
         }, 
         {
@@ -1524,15 +1524,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1768/"
         }, 
         {
-            "title_full": "\u201eHerrscher der Fl\u00fcsse,... der die R\u00e4uberei liebt\" - Das Nilkrokodil", 
+            "title_full": "„Herrscher der Flüsse,... der die Räuberei liebt\" - Das Nilkrokodil", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2230/"
         }, 
         {
-            "title_full": "Krokodildarstellungen in \u00c4gypten und Rom (Kat. 350-357)", 
+            "title_full": "Krokodildarstellungen in Ägypten und Rom (Kat. 350-357)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1974/"
         }, 
         {
-            "title_full": "Lost in Translation? Beobachtungen zum Verh\u00e4ltnis des lateinischen und griechischen Textes der Gallusstele", 
+            "title_full": "Lost in Translation? Beobachtungen zum Verhältnis des lateinischen und griechischen Textes der Gallusstele", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2034/"
         }, 
         {
@@ -1540,7 +1540,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1961/"
         }, 
         {
-            "title_full": "Neue Fragmente zu den drei gro\u00dfen Inaros-Petubastis-Texten", 
+            "title_full": "Neue Fragmente zu den drei großen Inaros-Petubastis-Texten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1848/"
         }, 
         {
@@ -1552,15 +1552,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2217/"
         }, 
         {
-            "title_full": "Ryholt, Kim: The story of Petese son of Petetum and seventy other good and bad Stories. (P. Petese). Copenhagen: Museum Tusculanum Press 1999. X X , 116 S., 12 Taf. 4\u00b0 = Carsten Niebuhr Institute Publications, 23; The Carlsberg Papyri, 4", 
+            "title_full": "Ryholt, Kim: The story of Petese son of Petetum and seventy other good and bad Stories. (P. Petese). Copenhagen: Museum Tusculanum Press 1999. X X , 116 S., 12 Taf. 4° = Carsten Niebuhr Institute Publications, 23; The Carlsberg Papyri, 4", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2095/"
         }, 
         {
-            "title_full": "S. P. Vleeming: Ostraka Varia. TaxReceipts and Legal Documents on Demotic, Greek, and Greek-Demotic Ostraka, Chiefly of the Early Ptolemaic Period, from Various Collections. Leiden / New York / K\u00f6ln : Brill 1994", 
+            "title_full": "S. P. Vleeming: Ostraka Varia. TaxReceipts and Legal Documents on Demotic, Greek, and Greek-Demotic Ostraka, Chiefly of the Early Ptolemaic Period, from Various Collections. Leiden / New York / Köln : Brill 1994", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1849/"
         }, 
         {
-            "title_full": "\u00bbSchlinge des Kampfes\u00ab (hgy n sdy)", 
+            "title_full": "»Schlinge des Kampfes« (hgy n sdy)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1752/"
         }, 
         {
@@ -1592,7 +1592,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1765/"
         }, 
         {
-            "title_full": "Zur angeblichen musikalischen Notation in einer \u00e4gyptischen Osirisliturgie", 
+            "title_full": "Zur angeblichen musikalischen Notation in einer ägyptischen Osirisliturgie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2093/"
         }, 
         {
@@ -1600,11 +1600,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1888/"
         }, 
         {
-            "title_full": "Zwei neue demotische Erz\u00e4hlungen (P. Wien D 62)", 
+            "title_full": "Zwei neue demotische Erzählungen (P. Wien D 62)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1887/"
         }, 
         {
-            "title_full": "\u00c4gyptische Wortliste", 
+            "title_full": "Ägyptische Wortliste", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1934/"
         }, 
         {
@@ -1628,7 +1628,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2324/"
         }, 
         {
-            "title_full": "Das Attentat auf Amenemhet I. und die erste \u00e4gyptische Koregentschaft", 
+            "title_full": "Das Attentat auf Amenemhet I. und die erste ägyptische Koregentschaft", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2225/"
         }, 
         {
@@ -1636,11 +1636,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2326/"
         }, 
         {
-            "title_full": "Das futurische Verbaladjektiv im Sp\u00e4tmittel\u00e4gyptischen", 
+            "title_full": "Das futurische Verbaladjektiv im Spätmittelägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2318/"
         }, 
         {
-            "title_full": "Das \u00e4gyptische Pseudopartizip", 
+            "title_full": "Das ägyptische Pseudopartizip", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2396/"
         }, 
         {
@@ -1648,11 +1648,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2371/"
         }, 
         {
-            "title_full": "Der Beginn der libyschen Herrschaft in \u00c4gypten", 
+            "title_full": "Der Beginn der libyschen Herrschaft in Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2440/"
         }, 
         {
-            "title_full": "Der Schlu\u00dfsatz der Biographie des Chnumhotep in Beni Hassan", 
+            "title_full": "Der Schlußsatz der Biographie des Chnumhotep in Beni Hassan", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2224/"
         }, 
         {
@@ -1676,7 +1676,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2271/"
         }, 
         {
-            "title_full": "Die \u00e4gyptische \"K\u00f6nigsnovelle\" als Texttyp", 
+            "title_full": "Die ägyptische \"Königsnovelle\" als Texttyp", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2441/"
         }, 
         {
@@ -1684,7 +1684,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2161/"
         }, 
         {
-            "title_full": "Drei Statueninschriften einer Familie aus fr\u00fchptolem\u00e4ischer Zeit", 
+            "title_full": "Drei Statueninschriften einer Familie aus frühptolemäischer Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2298/"
         }, 
         {
@@ -1704,7 +1704,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2405/"
         }, 
         {
-            "title_full": "Ein W\u00fcrfelhocker des Amunpropheten Djedbastetiufanch (Kairo JE 37597)", 
+            "title_full": "Ein Würfelhocker des Amunpropheten Djedbastetiufanch (Kairo JE 37597)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2185/"
         }, 
         {
@@ -1712,7 +1712,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2442/"
         }, 
         {
-            "title_full": "Eine Schreiberstatue der fr\u00fchen 26. Dynastie", 
+            "title_full": "Eine Schreiberstatue der frühen 26. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2270/"
         }, 
         {
@@ -1720,11 +1720,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2406/"
         }, 
         {
-            "title_full": "\"Horizont\" und \"Verkl\u00e4rtheit\": Zur Bedeutung der Wurzel Ax", 
+            "title_full": "\"Horizont\" und \"Verklärtheit\": Zur Bedeutung der Wurzel Ax", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2178/"
         }, 
         {
-            "title_full": "Marginalien zum \u2018Verbalsatz\u2019 im \u00e4lteren \u00c4gyptisch", 
+            "title_full": "Marginalien zum ‘Verbalsatz’ im älteren Ägyptisch", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2407/"
         }, 
         {
@@ -1740,7 +1740,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2269/"
         }, 
         {
-            "title_full": "Sprachliche Bemerkungen zu den \u201eUnterweltsb\u00fcchern\"", 
+            "title_full": "Sprachliche Bemerkungen zu den „Unterweltsbüchern\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2319/"
         }, 
         {
@@ -1748,15 +1748,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2294/"
         }, 
         {
-            "title_full": "Thronname und Begr\u00e4bnis Takeloths I", 
+            "title_full": "Thronname und Begräbnis Takeloths I", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2162/"
         }, 
         {
-            "title_full": "Vermerke. Zum Verst\u00e4ndnis kurzer und formelhafter Inschriften auf \u00e4gyptischen Denkm\u00e4lern", 
+            "title_full": "Vermerke. Zum Verständnis kurzer und formelhafter Inschriften auf ägyptischen Denkmälern", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2186/"
         }, 
         {
-            "title_full": "Vier Denkm\u00e4ler einer thebanischen Offiziersfamilie der 22. Dynastie", 
+            "title_full": "Vier Denkmäler einer thebanischen Offiziersfamilie der 22. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2296/"
         }, 
         {
@@ -1776,31 +1776,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2373/"
         }, 
         {
-            "title_full": "Zu einer Genealogie aus der fr\u00fchen 22. Dynastie", 
+            "title_full": "Zu einer Genealogie aus der frühen 22. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2369/"
         }, 
         {
-            "title_full": "Zu einigen religi\u00f6sen und historischen Inschriften", 
+            "title_full": "Zu einigen religiösen und historischen Inschriften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2445/"
         }, 
         {
-            "title_full": "Zu einigen \u201eTrinkspr\u00fcchen\" auf \u00e4gyptischen Gef\u00e4\u00dfen", 
+            "title_full": "Zu einigen „Trinksprüchen\" auf ägyptischen Gefäßen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2323/"
         }, 
         {
-            "title_full": "Zu zwei Personen der fr\u00fchen Dritten Zwischenzeit", 
+            "title_full": "Zu zwei Personen der frühen Dritten Zwischenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2325/"
         }, 
         {
-            "title_full": "Zum Verst\u00e4ndnis der \u201eSaitischen Formel\"", 
+            "title_full": "Zum Verständnis der „Saitischen Formel\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2322/"
         }, 
         {
-            "title_full": "Zum milit\u00e4rischen Befehlsbereich der Hohenpriester des Amun", 
+            "title_full": "Zum militärischen Befehlsbereich der Hohenpriester des Amun", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2163/"
         }, 
         {
-            "title_full": "Zur Bedeutung von \u1e25zj und mrj", 
+            "title_full": "Zur Bedeutung von ḥzj und mrj", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2446/"
         }, 
         {
@@ -1824,7 +1824,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/366/"
         }, 
         {
-            "title_full": "Briefe aus \u00c4gypten. Otto Friedrich von Richters wissenschaftliche Reise in \u00c4gypten und Unternubien im Jahre 1815", 
+            "title_full": "Briefe aus Ägypten. Otto Friedrich von Richters wissenschaftliche Reise in Ägypten und Unternubien im Jahre 1815", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/86/"
         }, 
         {
@@ -1832,19 +1832,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2085/"
         }, 
         {
-            "title_full": "Das Alter der Sonnenheiligt\u00fcmer", 
+            "title_full": "Das Alter der Sonnenheiligtümer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2089/"
         }, 
         {
-            "title_full": "Das \u00fcberlieferungsgeschichtliche Verh\u00e4ltnis von Unas und Sesostrisanch am Beispiel von PT 302312", 
+            "title_full": "Das überlieferungsgeschichtliche Verhältnis von Unas und Sesostrisanch am Beispiel von PT 302312", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2374/"
         }, 
         {
-            "title_full": "Der Gebrauch morphologischer und phonologischer Stilmittel im Gro\u00dfen Aton-Hymnus", 
+            "title_full": "Der Gebrauch morphologischer und phonologischer Stilmittel im Großen Aton-Hymnus", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2192/"
         }, 
         {
-            "title_full": "Der Gr\u00e4berberg von Assiut und seine Sch\u00e4tze", 
+            "title_full": "Der Gräberberg von Assiut und seine Schätze", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2143/"
         }, 
         {
@@ -1856,19 +1856,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/768/"
         }, 
         {
-            "title_full": "Die Farbgebung in der fr\u00fchen Hieroglyphenschrift", 
+            "title_full": "Die Farbgebung in der frühen Hieroglyphenschrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2284/"
         }, 
         {
-            "title_full": "Die \u00e4ltesten schriftlichen Belege f\u00fcr den Gott Seth", 
+            "title_full": "Die ältesten schriftlichen Belege für den Gott Seth", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2247/"
         }, 
         {
-            "title_full": "Ein Zeugnis alt\u00e4gyptischer Schulausfl\u00fcge", 
+            "title_full": "Ein Zeugnis altägyptischer Schulausflüge", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/770/"
         }, 
         {
-            "title_full": "Ein bislang unbeachtetes Beispiel f\u00fcr die Unsch\u00e4dlichmachung von Schriftzeichen aus dem sogenannten Menesgrab in Naqada", 
+            "title_full": "Ein bislang unbeachtetes Beispiel für die Unschädlichmachung von Schriftzeichen aus dem sogenannten Menesgrab in Naqada", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2198/"
         }, 
         {
@@ -1876,11 +1876,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2277/"
         }, 
         {
-            "title_full": "Hannig, Rainer. Zur Pal\u00e4ographie der S\u00e4rge aus Assiut. Hildesheim: Verlag Gebr\u00fcder Gerstenberg, 2006. XXVII + 930 S. 4\u00b0 = Hildesheimer \u00c4gyptologische Beitr\u00e4ge, 47. Hartbd. 98,00 \u20ac. ISBN 9793806785692", 
+            "title_full": "Hannig, Rainer. Zur Paläographie der Särge aus Assiut. Hildesheim: Verlag Gebrüder Gerstenberg, 2006. XXVII + 930 S. 4° = Hildesheimer Ägyptologische Beiträge, 47. Hartbd. 98,00 €. ISBN 9793806785692", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2279/"
         }, 
         {
-            "title_full": "Regionale Milieus und die Macht des Staates im Alten \u00c4gypten: Die Verg\u00f6ttlichung der Gaufursten von Assiut", 
+            "title_full": "Regionale Milieus und die Macht des Staates im Alten Ägypten: Die Vergöttlichung der Gaufursten von Assiut", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2144/"
         }, 
         {
@@ -1892,27 +1892,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2376/"
         }, 
         {
-            "title_full": "Vittmann, G\u00fcnter: Alt\u00e4gyptische Wegmetaphorik, Beitr\u00e4ge zur \u00c4gyptologie 15, Wien 1999. Ver\u00f6ffentlichungen der Institute f\u00fcr Afrikanistik und \u00c4gyptologie der Universit\u00e4t Wien, 83", 
+            "title_full": "Vittmann, Günter: Altägyptische Wegmetaphorik, Beiträge zur Ägyptologie 15, Wien 1999. Veröffentlichungen der Institute für Afrikanistik und Ägyptologie der Universität Wien, 83", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2262/"
         }, 
         {
-            "title_full": "Von h bis k. Indizien f\u00fcr eine \"alphabetische\" Reihenfolge einkonsonantiger Lautwerte in sp\u00e4tzeitlichen Papyri", 
+            "title_full": "Von h bis k. Indizien für eine \"alphabetische\" Reihenfolge einkonsonantiger Lautwerte in spätzeitlichen Papyri", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2084/"
         }, 
         {
-            "title_full": "Zu den S\u00e4rgen des Mittleren Reiches in \u00c4gypten. Eine kritische Betrachtung", 
+            "title_full": "Zu den Särgen des Mittleren Reiches in Ägypten. Eine kritische Betrachtung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2091/"
         }, 
         {
-            "title_full": "Zur Datierung der fr\u00fchen Grabplatten mit Opfertischszene", 
+            "title_full": "Zur Datierung der frühen Grabplatten mit Opfertischszene", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2375/"
         }, 
         {
-            "title_full": "Zur Problematik der sogenannten Steuervermerke im \u00c4gypten der 0.-1. Dynastie", 
+            "title_full": "Zur Problematik der sogenannten Steuervermerke im Ägypten der 0.-1. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2082/"
         }, 
         {
-            "title_full": "nb (\"jeder\") als Quantit\u00e4ts-Substantiv in der fr\u00fchen \u00e4gyptischen Sprache", 
+            "title_full": "nb (\"jeder\") als Quantitäts-Substantiv in der frühen ägyptischen Sprache", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2248/"
         }, 
         {
@@ -1920,11 +1920,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/771/"
         }, 
         {
-            "title_full": "\"Dornr\u00f6schen\" Assiut: Erste Ergebnisse einer Deutsch-\u00c4gyptischen Grabungskooperation", 
+            "title_full": "\"Dornröschen\" Assiut: Erste Ergebnisse einer Deutsch-Ägyptischen Grabungskooperation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/769/"
         }, 
         {
-            "title_full": "Die Wasserkrypten in den hellenistischen und r\u00f6mischen Heiligt\u00fcmern der \u00e4gyptischen G\u00f6tter im Mittelmeerraum", 
+            "title_full": "Die Wasserkrypten in den hellenistischen und römischen Heiligtümern der ägyptischen Götter im Mittelmeerraum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/37/"
         }, 
         {
@@ -1932,27 +1932,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/405/"
         }, 
         {
-            "title_full": "Die harmonischen Abmessungen aller Pyramidions sind jetzt gefunden! Ein Erlebnisbericht f\u00fcr Rainer Stadelmann, Jan Assmann und seine Heidelberger Studenden der \u00c4gyptologie", 
+            "title_full": "Die harmonischen Abmessungen aller Pyramidions sind jetzt gefunden! Ein Erlebnisbericht für Rainer Stadelmann, Jan Assmann und seine Heidelberger Studenden der Ägyptologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/830/"
         }, 
         {
-            "title_full": "Mathematische Berechnungen beweisen, da\u00df die Neigungen der Pyramiden musikalischen Intervallen aus der Partial- und Obertonreihe entsprechen. Widerlegung der Rezension des Prof. Dr. Frank M\u00fcller-R\u00f6mer", 
+            "title_full": "Mathematische Berechnungen beweisen, daß die Neigungen der Pyramiden musikalischen Intervallen aus der Partial- und Obertonreihe entsprechen. Widerlegung der Rezension des Prof. Dr. Frank Müller-Römer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/588/"
         }, 
         {
-            "title_full": "Rainer Stadelmanns neu aufgefundenes und an der Ostseite der Pyramide aufgestelltes Pyramidion von DAHSHUR-NORD (Basisl\u00e4nge drei Ellen) und das Pyramidion der Pyramide AMENEMHET III. /DAHSHUR (Basisl\u00e4nge drei Ellen und vier Handbreit) im \u00e4gyptischen Museum zu Kairo best\u00e4tigen zum dritten Mal meine Theorie der Pyramidenneigungen als musikalische Intervalle. Mit einer Einf\u00fchrung in die antike Intervalltheorie und in die chronologische Folge der von den \u00c4gyptern ausgew\u00e4hlten Pyramidenr\u00fcckspr\u00fcnge von Meidum bis Mykerinus Fortgesetzte Widerlegung der Rezension des Prof. Dr. Frank M\u00fcller-R\u00f6mer", 
+            "title_full": "Rainer Stadelmanns neu aufgefundenes und an der Ostseite der Pyramide aufgestelltes Pyramidion von DAHSHUR-NORD (Basislänge drei Ellen) und das Pyramidion der Pyramide AMENEMHET III. /DAHSHUR (Basislänge drei Ellen und vier Handbreit) im ägyptischen Museum zu Kairo bestätigen zum dritten Mal meine Theorie der Pyramidenneigungen als musikalische Intervalle. Mit einer Einführung in die antike Intervalltheorie und in die chronologische Folge der von den Ägyptern ausgewählten Pyramidenrücksprünge von Meidum bis Mykerinus Fortgesetzte Widerlegung der Rezension des Prof. Dr. Frank Müller-Römer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/629/"
         }, 
         {
-            "title_full": "St\u00e8le de l'an V de M\u00e9nheptah", 
+            "title_full": "Stèle de l'an V de Ménheptah", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/343/"
         }, 
         {
-            "title_full": "Der Serdab in den Privatgr\u00e4bern des Alten Reiches", 
+            "title_full": "Der Serdab in den Privatgräbern des Alten Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1/"
         }, 
         {
-            "title_full": "Das Todtenbuch der \u00c4gypter (nach dem hieroglyphischen Papyrus in Turin)", 
+            "title_full": "Das Todtenbuch der Ägypter (nach dem hieroglyphischen Papyrus in Turin)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/467/"
         }, 
         {
@@ -1960,11 +1960,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/203/"
         }, 
         {
-            "title_full": "Beobachtungen zu Pfostenl\u00f6chern auf dem S\u00e4ulenbankett des Zentraltempels der Gro\u00dfen Anlage", 
+            "title_full": "Beobachtungen zu Pfostenlöchern auf dem Säulenbankett des Zentraltempels der Großen Anlage", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2283/"
         }, 
         {
-            "title_full": "Castiglioni , Alfredo und Angelo, Jean Vercoutter: Das Goldland der Pharaonen. Die Entdeckung von Berenike Pancrisia. Wiss. Dok.: Karim Sadr. Vorw.: Sergio Donadoni. Mit Beitr\u00e4gen von Luigi Balbo [u.a.] Mainz: von Zabern 1998. 192 S. m. Abb. 4\u00b0. Hartbd. DM 128,. ISBN 3805317549", 
+            "title_full": "Castiglioni , Alfredo und Angelo, Jean Vercoutter: Das Goldland der Pharaonen. Die Entdeckung von Berenike Pancrisia. Wiss. Dok.: Karim Sadr. Vorw.: Sergio Donadoni. Mit Beiträgen von Luigi Balbo [u.a.] Mainz: von Zabern 1998. 192 S. m. Abb. 4°. Hartbd. DM 128,. ISBN 3805317549", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2245/"
         }, 
         {
@@ -1976,7 +1976,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2363/"
         }, 
         {
-            "title_full": "Der \u201eThronschatz\" der K\u00f6nigin Amanishakheto", 
+            "title_full": "Der „Thronschatz\" der Königin Amanishakheto", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2392/"
         }, 
         {
@@ -1984,7 +1984,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2350/"
         }, 
         {
-            "title_full": "Die Auswahl des K\u00f6nigs in Kusch", 
+            "title_full": "Die Auswahl des Königs in Kusch", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2360/"
         }, 
         {
@@ -1992,15 +1992,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2160/"
         }, 
         {
-            "title_full": "Die Darstellung der kuschitischen Kr\u00f6nung", 
+            "title_full": "Die Darstellung der kuschitischen Krönung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2191/"
         }, 
         {
-            "title_full": "Die Darstellung der k\u00f6niglichen Frauen von Kusch", 
+            "title_full": "Die Darstellung der königlichen Frauen von Kusch", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2449/"
         }, 
         {
-            "title_full": "Die Handlungen der Kuschitischen K\u00f6nigin im G\u00f6tterkult", 
+            "title_full": "Die Handlungen der Kuschitischen Königin im Götterkult", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2364/"
         }, 
         {
@@ -2012,15 +2012,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2351/"
         }, 
         {
-            "title_full": "Die St\u00e4ndige \u00c4gyptologenkonferenz (S\u00c4K) 2000", 
+            "title_full": "Die Ständige Ägyptologenkonferenz (SÄK) 2000", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2165/"
         }, 
         {
-            "title_full": "Die St\u00e4ndige \u00c4gyptologenkonferenz (S\u00c4K) in Hamburg (3.-5. Juli 1998). Hafen, Handel und Schiffahrt im Alten \u00c4gypten", 
+            "title_full": "Die Ständige Ägyptologenkonferenz (SÄK) in Hamburg (3.-5. Juli 1998). Hafen, Handel und Schiffahrt im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2164/"
         }, 
         {
-            "title_full": "Eisa, Khider Adam: Le mobilier et les coutumes fun\u00e9raires koushites \u00e0 l'\u00e9poque m\u00e9roitique . Wiesbaden; Harrassowitz 1999. XX, 151 S. m. Abb.8\u00b0 = Meroitica, 16. ISBN 3447040947", 
+            "title_full": "Eisa, Khider Adam: Le mobilier et les coutumes funéraires koushites à l'époque méroitique . Wiesbaden; Harrassowitz 1999. XX, 151 S. m. Abb.8° = Meroitica, 16. ISBN 3447040947", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2276/"
         }, 
         {
@@ -2028,19 +2028,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2448/"
         }, 
         {
-            "title_full": "Gefahren lauern \u00fcberall. Zu den Tiermotiven auf einem napatanischen Amulett", 
+            "title_full": "Gefahren lauern überall. Zu den Tiermotiven auf einem napatanischen Amulett", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2212/"
         }, 
         {
-            "title_full": "Gibt es mehr als zwei Geschlechter? Zum Verh\u00e4ltnis von Gender und Alter", 
+            "title_full": "Gibt es mehr als zwei Geschlechter? Zum Verhältnis von Gender und Alter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2169/"
         }, 
         {
-            "title_full": "Gundlach, Rolf, und Matthias Rochholz [Hrsg.]: \u00c4gyptische Tempel. Struktur, Funktion und Programm (Akten der \u00c4gyptologischen Tempeltagungen in Gosen 1990 und in Mainz 1992). Hildesheim: Gerstenberg Verlag. Pelizaeus-Museum 1994. VIII, 331 S. m. Abb. u. 1 Taf. gr. 8\u00b0 = Hildesheimer \u00c4gyptologische Beitr\u00e4ge, hrsg. von A. Eggebrecht und B. Schmitz, 37. Kart", 
+            "title_full": "Gundlach, Rolf, und Matthias Rochholz [Hrsg.]: Ägyptische Tempel. Struktur, Funktion und Programm (Akten der Ägyptologischen Tempeltagungen in Gosen 1990 und in Mainz 1992). Hildesheim: Gerstenberg Verlag. Pelizaeus-Museum 1994. VIII, 331 S. m. Abb. u. 1 Taf. gr. 8° = Hildesheimer Ägyptologische Beiträge, hrsg. von A. Eggebrecht und B. Schmitz, 37. Kart", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2246/"
         }, 
         {
-            "title_full": "K\u00f6nig/K\u00f6nigin - Gott/G\u00f6ttin. Zur Komplementarit\u00e4t von M\u00e4nnlichem und Weiblichem in napatanischer und meroitischer Zeit", 
+            "title_full": "König/Königin - Gott/Göttin. Zur Komplementarität von Männlichem und Weiblichem in napatanischer und meroitischer Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2170/"
         }, 
         {
@@ -2048,7 +2048,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2205/"
         }, 
         {
-            "title_full": "N\u00e4ser, Claudia / Lange, Mathias (Hg.): Proceedings of the Second International Conference on the Archaeology of the Fourth Nile Cataract. Berlin 2005", 
+            "title_full": "Näser, Claudia / Lange, Mathias (Hg.): Proceedings of the Second International Conference on the Archaeology of the Fourth Nile Cataract. Berlin 2005", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2466/"
         }, 
         {
@@ -2060,11 +2060,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2394/"
         }, 
         {
-            "title_full": "Schwimmen. Eine Kulturtechnik und ihre Darstellung im Land am Nil. Mit einem Exkurs zu den so genannten \u201eSchwimmerinnen\" als L\u00f6ffelgriff", 
+            "title_full": "Schwimmen. Eine Kulturtechnik und ihre Darstellung im Land am Nil. Mit einem Exkurs zu den so genannten „Schwimmerinnen\" als Löffelgriff", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2465/"
         }, 
         {
-            "title_full": "St\u00e4ndige \u00c4gyptologenkonferenz (S\u00c4K) 2001", 
+            "title_full": "Ständige Ägyptologenkonferenz (SÄK) 2001", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2366/"
         }, 
         {
@@ -2072,11 +2072,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2455/"
         }, 
         {
-            "title_full": "Umlaufzeit und Deponierung. Eine ph\u00f6nizische Bronzeschale im aksumitischen Reich", 
+            "title_full": "Umlaufzeit und Deponierung. Eine phönizische Bronzeschale im aksumitischen Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2395/"
         }, 
         {
-            "title_full": "Versuch einer Terminologie der Per\u00fccken im Relief des Neuen Reiches", 
+            "title_full": "Versuch einer Terminologie der Perücken im Relief des Neuen Reiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2244/"
         }, 
         {
@@ -2092,7 +2092,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/527/"
         }, 
         {
-            "title_full": "Alexander der Gro\u00dfe - sein Einfluss auf die Entwicklung \u00c4gyptens in vorchristlicher Zeit", 
+            "title_full": "Alexander der Große - sein Einfluss auf die Entwicklung Ägyptens in vorchristlicher Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1245/"
         }, 
         {
@@ -2100,19 +2100,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2069/"
         }, 
         {
-            "title_full": "Das neue Staatliche Museum \u00c4gyptischer Kunst in M\u00fcnchen", 
+            "title_full": "Das neue Staatliche Museum Ägyptischer Kunst in München", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2068/"
         }, 
         {
-            "title_full": "Der Schiffsbau im Alten \u00c4gypten", 
+            "title_full": "Der Schiffsbau im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2066/"
         }, 
         {
-            "title_full": "Die Pal\u00e4ste des Achet-Aton", 
+            "title_full": "Die Paläste des Achet-Aton", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2064/"
         }, 
         {
-            "title_full": "Entstehung des M\u00fcnzgeldes in der Sp\u00e4tzeit", 
+            "title_full": "Entstehung des Münzgeldes in der Spätzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1093/"
         }, 
         {
@@ -2120,15 +2120,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2065/"
         }, 
         {
-            "title_full": "\"Ist das R\u00e4tsel um die \u00e4u\u00dfere Form der Pyramiden gel\u00f6st? oder Der Klang der Pyramiden - Wirklichkeit oder Wunschdenken?\" - Vortrag am 18. Juli 2009 anl\u00e4sslich der 41. St\u00e4ndigen \u00c4gyptologenkonferenz in M\u00fcnster", 
+            "title_full": "\"Ist das Rätsel um die äußere Form der Pyramiden gelöst? oder Der Klang der Pyramiden - Wirklichkeit oder Wunschdenken?\" - Vortrag am 18. Juli 2009 anlässlich der 41. Ständigen Ägyptologenkonferenz in Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/307/"
         }, 
         {
-            "title_full": "K\u00f6nigsgr\u00e4ber der 5. Dynastie", 
+            "title_full": "Königsgräber der 5. Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2067/"
         }, 
         {
-            "title_full": "Mathematikunterricht im Alten \u00c4gypten", 
+            "title_full": "Mathematikunterricht im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1169/"
         }, 
         {
@@ -2140,19 +2140,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/349/"
         }, 
         {
-            "title_full": "Pyramidenbau im Alten \u00c4gypten", 
+            "title_full": "Pyramidenbau im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/138/"
         }, 
         {
-            "title_full": "Pyramidenbau im Alten \u00c4gypten", 
+            "title_full": "Pyramidenbau im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1095/"
         }, 
         {
-            "title_full": "Pyramidenbau im Alten \u00c4gypten. Pyramidenbau mit Rampen und Seilwinden - ein Beitrag zur Bautechnik im Alten Reich (2. Aufl.)", 
+            "title_full": "Pyramidenbau im Alten Ägypten. Pyramidenbau mit Rampen und Seilwinden - ein Beitrag zur Bautechnik im Alten Reich (2. Aufl.)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/136/"
         }, 
         {
-            "title_full": "Pyramidenbau im alten \u00c4gypten - auch eine vermessungstechnische Meisterleistung", 
+            "title_full": "Pyramidenbau im alten Ägypten - auch eine vermessungstechnische Meisterleistung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/706/"
         }, 
         {
@@ -2168,7 +2168,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2203/"
         }, 
         {
-            "title_full": "Richard Lepsius - Begr\u00fcnder der modernen \u00c4gyptologie", 
+            "title_full": "Richard Lepsius - Begründer der modernen Ägyptologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/460/"
         }, 
         {
@@ -2176,11 +2176,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2063/"
         }, 
         {
-            "title_full": "Transport gro\u00dfer Steinbl\u00f6cke im Alten \u00c4gypten", 
+            "title_full": "Transport großer Steinblöcke im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/756/"
         }, 
         {
-            "title_full": "Transporte auf dem Nil mit Booten und Schiffen im Alten \u00c4gypten", 
+            "title_full": "Transporte auf dem Nil mit Booten und Schiffen im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1094/"
         }, 
         {
@@ -2188,7 +2188,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2219/"
         }, 
         {
-            "title_full": "Das gefl\u00fcgelte Krokodil. Codierung von Totenbuch-Vignetten", 
+            "title_full": "Das geflügelte Krokodil. Codierung von Totenbuch-Vignetten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/369/"
         }, 
         {
@@ -2196,23 +2196,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/362/"
         }, 
         {
-            "title_full": "Kanalisationsanlagen, Wasserleitungen und sanit\u00e4re Einrichtungen im pharaonischen \u00c4gypten", 
+            "title_full": "Kanalisationsanlagen, Wasserleitungen und sanitäre Einrichtungen im pharaonischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1262/"
         }, 
         {
-            "title_full": "\u039f \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03bf\u03c2 \u03a0\u03c5\u03c1\u03b7\u03bd\u03b1\u03c2 \u03c4\u03c9\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03c4\u03b1\u03b5\u03c9\u03bd \u0391\u03b9\u03b3\u03b1\u03b9\u03c9\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u0391\u03b9\u03b3\u03c5\u03c0\u03c4\u03b9\u03b1\u03ba\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 18\u03b7\u03c2 \u0394\u03c5\u03bd\u03b1\u03c3\u03c4\u03b5\u03b9\u03b1\u03c2", 
+            "title_full": "Ο Ιστορικος Πυρηνας των Παρασταεων Αιγαιων στους Αιγυπτιακους της 18ης Δυναστειας", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/885/"
         }, 
         {
-            "title_full": "Der ferne Nachbar. Der Einfluss \u00c4gyptens auf das minoische Kreta und das mykenische Griechenland", 
+            "title_full": "Der ferne Nachbar. Der Einfluss Ägyptens auf das minoische Kreta und das mykenische Griechenland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/801/"
         }, 
         {
-            "title_full": "Ein ungew\u00f6hnlicher Besuch. \u00dcberlegungen zu einem thebanischen Ereignisbild", 
+            "title_full": "Ein ungewöhnlicher Besuch. Überlegungen zu einem thebanischen Ereignisbild", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/805/"
         }, 
         {
-            "title_full": "\u03a1\u03b1\u03bc\u03c3\u03ae\u03c2 \u0392' \u03bf \u039c\u03ad\u03b3\u03b1\u03c2. 'E\u03c1\u03b3\u03b1 \u03ba\u03b1\u03b9 \u0397\u03bc\u03ad\u03c1\u03b5\u03c2 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03bf\u03c1\u03b1 \u03c4\u03bf\u03c5 13\u03bf\u03c5 \u03b1\u03b9. \u03c0.\u03a7", 
+            "title_full": "Ραμσής Β' ο Μέγας. 'Eργα και Ημέρες ενός αυτοκράτορα του 13ου αι. π.Χ", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1820/"
         }, 
         {
@@ -2220,7 +2220,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/847/"
         }, 
         {
-            "title_full": "Geschenk oder Handel? Zu den Gaben der \u00c4g\u00e4ischen Prozessionen in den Thebanischen Privatgr\u00e4bern", 
+            "title_full": "Geschenk oder Handel? Zu den Gaben der Ägäischen Prozessionen in den Thebanischen Privatgräbern", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/850/"
         }, 
         {
@@ -2228,7 +2228,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/827/"
         }, 
         {
-            "title_full": "Tributabgaben und Huldigungsgeschenke aus der Levante. Die \u00e4gyptische Nordexpansion in der 18. Dynastie aus strukturgeschichtlicher Sicht", 
+            "title_full": "Tributabgaben und Huldigungsgeschenke aus der Levante. Die ägyptische Nordexpansion in der 18. Dynastie aus strukturgeschichtlicher Sicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/803/"
         }, 
         {
@@ -2236,23 +2236,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2306/"
         }, 
         {
-            "title_full": "Bemerkungen zum Kauderwelsch-Sprachf\u00fchrer 'Hieroglyphisch'", 
+            "title_full": "Bemerkungen zum Kauderwelsch-Sprachführer 'Hieroglyphisch'", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1889/"
         }, 
         {
-            "title_full": "Das Lehrst\u00fcck Kemit", 
+            "title_full": "Das Lehrstück Kemit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2305/"
         }, 
         {
-            "title_full": "Das Zweibr\u00fcderm\u00e4rchen", 
+            "title_full": "Das Zweibrüdermärchen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2215/"
         }, 
         {
-            "title_full": "Das meroitische Wort f\u00fcr \"Vater\"", 
+            "title_full": "Das meroitische Wort für \"Vater\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1890/"
         }, 
         {
-            "title_full": "Das \u00c4gyptische als afrikanische Sprache", 
+            "title_full": "Das Ägyptische als afrikanische Sprache", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2263/"
         }, 
         {
@@ -2264,7 +2264,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2304/"
         }, 
         {
-            "title_full": "Die Syntax des Vergleichs mit mj \u201ewie\" im \u00c4lteren \u00c4gyptisch", 
+            "title_full": "Die Syntax des Vergleichs mit mj „wie\" im Älteren Ägyptisch", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2243/"
         }, 
         {
@@ -2280,11 +2280,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1891/"
         }, 
         {
-            "title_full": "F\u00e4lle von strukturellem Einfluss des \u00c4gyptischen auf europ\u00e4ische Sprachen", 
+            "title_full": "Fälle von strukturellem Einfluss des Ägyptischen auf europäische Sprachen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2274/"
         }, 
         {
-            "title_full": "Gabor Tak\u00e1cs (Hrsg.), Egyptian and Semito-Hamitic (Afro-Asiatic) Studies in Memoriam W. Vycichl", 
+            "title_full": "Gabor Takács (Hrsg.), Egyptian and Semito-Hamitic (Afro-Asiatic) Studies in Memoriam W. Vycichl", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2347/"
         }, 
         {
@@ -2300,11 +2300,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2200/"
         }, 
         {
-            "title_full": "M\u00f6glichkeiten einer Rekonstruktion \u00e4gyptischer Vortonvokale aus dem Befund der koptischen Dialekte", 
+            "title_full": "Möglichkeiten einer Rekonstruktion ägyptischer Vortonvokale aus dem Befund der koptischen Dialekte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1868/"
         }, 
         {
-            "title_full": "Neue Impulse in der afroasiatischen Sprachwissenschaft. Zum Hamito-Semitic Etymological Dictionary von Vladimir \u0116mmanuilovi\u010d Or\u00ebl und Ol'ga Valer'evna Stolbova", 
+            "title_full": "Neue Impulse in der afroasiatischen Sprachwissenschaft. Zum Hamito-Semitic Etymological Dictionary von Vladimir Ėmmanuilovič Orël und Ol'ga Valer'evna Stolbova", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1892/"
         }, 
         {
@@ -2312,39 +2312,39 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2287/"
         }, 
         {
-            "title_full": "Objektspronomina im \u00c4gyptischen", 
+            "title_full": "Objektspronomina im Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1999/"
         }, 
         {
-            "title_full": "Survey \u00e4gyptologischer Dialekte, (1) Berlin, (2) Mainz", 
+            "title_full": "Survey ägyptologischer Dialekte, (1) Berlin, (2) Mainz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2292/"
         }, 
         {
-            "title_full": "Survey \u00e4gyptologischer Dialekte, (3) Wien", 
+            "title_full": "Survey ägyptologischer Dialekte, (3) Wien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2291/"
         }, 
         {
-            "title_full": "Survey \u00e4gyptologischer Dialekte, (4) \u00c4gypten", 
+            "title_full": "Survey ägyptologischer Dialekte, (4) Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2409/"
         }, 
         {
-            "title_full": "Tak\u00e1cs Gabor. Etymological Dictionary of Egyptian. Vol. 2: b-, p-,f-", 
+            "title_full": "Takács Gabor. Etymological Dictionary of Egyptian. Vol. 2: b-, p-,f-", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2348/"
         }, 
         {
-            "title_full": "Tak\u00e1cs G\u00e1bor. Etymological dictionary of Egyptian. Vol. 1: A phonological introduction. (Handbuch der Orientalistik. Erste Abteilung: Der Nahe und mittlere Osten. Handbook of Oriental Studies: The Near and Middle East, 48). Leiden, Boston, K\u00f6ln, Brill 1999", 
+            "title_full": "Takács Gábor. Etymological dictionary of Egyptian. Vol. 1: A phonological introduction. (Handbuch der Orientalistik. Erste Abteilung: Der Nahe und mittlere Osten. Handbook of Oriental Studies: The Near and Middle East, 48). Leiden, Boston, Köln, Brill 1999", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2199/"
         }, 
         {
-            "title_full": "Thomas Ritter: Das Verbalsystem der k\u00f6niglichen und privaten Inschriften. XVIII. Dynastie bis einschlie\u00dflich Amenophis III. Wiesbaden: Harrassowitz 1995", 
+            "title_full": "Thomas Ritter: Das Verbalsystem der königlichen und privaten Inschriften. XVIII. Dynastie bis einschließlich Amenophis III. Wiesbaden: Harrassowitz 1995", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2000/"
         }, 
         {
-            "title_full": "Weiteres zur Personenverschiebung in der \u00e4gyptischen indirekten Rede", 
+            "title_full": "Weiteres zur Personenverschiebung in der ägyptischen indirekten Rede", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2289/"
         }, 
         {
-            "title_full": "Zur Abfolge enklitischer Objektspronomina und des Quantors nb im Mittel\u00e4gyptischen", 
+            "title_full": "Zur Abfolge enklitischer Objektspronomina und des Quantors nb im Mittelägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2288/"
         }, 
         {
@@ -2352,15 +2352,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2410/"
         }, 
         {
-            "title_full": "Zur Herkunft des koptischen \u0397", 
+            "title_full": "Zur Herkunft des koptischen Η", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1867/"
         }, 
         {
-            "title_full": "\u00dcber \u00e4gyptische Lexikographie. 1. Zum Ptolemaic Lexikon von Penelope Wilson; 2. Versuch eines quantitativen Vergleichs der Textkorpora antiker Sprachen", 
+            "title_full": "Über ägyptische Lexikographie. 1. Zum Ptolemaic Lexikon von Penelope Wilson; 2. Versuch eines quantitativen Vergleichs der Textkorpora antiker Sprachen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1893/"
         }, 
         {
-            "title_full": "rdj + Pseudopartizip - eine m\u00f6gliche Konstruktion", 
+            "title_full": "rdj + Pseudopartizip - eine mögliche Konstruktion", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2290/"
         }, 
         {
@@ -2368,7 +2368,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1914/"
         }, 
         {
-            "title_full": "Bericht \u00fcber die 2. und 3. Grabungskampagne in der Nekropole von Dra' Abu el-Naga/Theben-West", 
+            "title_full": "Bericht über die 2. und 3. Grabungskampagne in der Nekropole von Dra' Abu el-Naga/Theben-West", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2182/"
         }, 
         {
@@ -2380,11 +2380,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1990/"
         }, 
         {
-            "title_full": "Die Hyksos-Bl\u00f6cke aus Gebel\u00ean. Zur Pr\u00e4senz der Hyksos in Ober\u00e4gypten", 
+            "title_full": "Die Hyksos-Blöcke aus Gebelên. Zur Präsenz der Hyksos in Oberägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2026/"
         }, 
         {
-            "title_full": "Die S\u00e4rge des (Pa-) Ramessu", 
+            "title_full": "Die Särge des (Pa-) Ramessu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1915/"
         }, 
         {
@@ -2396,7 +2396,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2183/"
         }, 
         {
-            "title_full": "\"Ihre Mauern sind verfallen..., ihre St\u00e4tte ist nicht mehr.\" Der Aufwand f\u00fcr den Toten im Theben der Zweiten Zwischenzeit", 
+            "title_full": "\"Ihre Mauern sind verfallen..., ihre Stätte ist nicht mehr.\" Der Aufwand für den Toten im Theben der Zweiten Zwischenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1971/"
         }, 
         {
@@ -2404,11 +2404,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1918/"
         }, 
         {
-            "title_full": "Mentuhotep, Hatschepsut und das Tal der K\u00f6nige - Eine Skizze", 
+            "title_full": "Mentuhotep, Hatschepsut und das Tal der Könige - Eine Skizze", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1991/"
         }, 
         {
-            "title_full": "New archaeological data from Dra\u2018 Abu el-Naga and their historical implications", 
+            "title_full": "New archaeological data from Dra‘ Abu el-Naga and their historical implications", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1972/"
         }, 
         {
@@ -2432,19 +2432,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/576/"
         }, 
         {
-            "title_full": "Aus zwei sp\u00e4tzeitlichen Traumb\u00fcchern (Pap. Berlin P. 29009 und 23058)", 
+            "title_full": "Aus zwei spätzeitlichen Traumbüchern (Pap. Berlin P. 29009 und 23058)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2081/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zum Peripherdemotischen", 
+            "title_full": "Beiträge zum Peripherdemotischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/656/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur koptischen Etymologie", 
+            "title_full": "Beiträge zur koptischen Etymologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/314/"
         }, 
         {
-            "title_full": "\"Da wurden diese zwei gro\u00dfen L\u00e4nder zu einem Land\". Die Beziehungen zwischen Hattusa und \u00c4gypten im Lichte ihrer diplomatischen Korrespondenz", 
+            "title_full": "\"Da wurden diese zwei großen Länder zu einem Land\". Die Beziehungen zwischen Hattusa und Ägypten im Lichte ihrer diplomatischen Korrespondenz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/582/"
         }, 
         {
@@ -2452,7 +2452,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/574/"
         }, 
         {
-            "title_full": "Das Deir el-Medine-Ostrakon der Lehre f\u00fcr Merikare", 
+            "title_full": "Das Deir el-Medine-Ostrakon der Lehre für Merikare", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/651/"
         }, 
         {
@@ -2460,23 +2460,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/671/"
         }, 
         {
-            "title_full": "Das nackte M\u00e4dchen im Griff halten. Zur Deutung der \u00e4gyptischen Karyatidenspiegel", 
+            "title_full": "Das nackte Mädchen im Griff halten. Zur Deutung der ägyptischen Karyatidenspiegel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/315/"
         }, 
         {
-            "title_full": "Dekane und Gliedervergottung. Alt\u00e4gyptische Traditionen im Apokryphon Johannis", 
+            "title_full": "Dekane und Gliedervergottung. Altägyptische Traditionen im Apokryphon Johannis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/292/"
         }, 
         {
-            "title_full": "Der Schlu\u00dfparagraph des Buches vom Atmen, das Isis machte", 
+            "title_full": "Der Schlußparagraph des Buches vom Atmen, das Isis machte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1975/"
         }, 
         {
-            "title_full": "Der pr\u00e4natale Geschlechtsverkehr von Isis und Osiris sowie eine Notiz zum Alter des Osiris", 
+            "title_full": "Der pränatale Geschlechtsverkehr von Isis und Osiris sowie eine Notiz zum Alter des Osiris", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/652/"
         }, 
         {
-            "title_full": "Die Datierung der Siegelabdr\u00fccke von Tel En Besor", 
+            "title_full": "Die Datierung der Siegelabdrücke von Tel En Besor", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/572/"
         }, 
         {
@@ -2484,7 +2484,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/583/"
         }, 
         {
-            "title_full": "Die Klage \u00fcber die Zerst\u00f6rung \u00c4gyptens. Versuch einer Neudeutung der \"Admonitions\" im Vergleich zu den altorientalischen St\u00e4dteklagen", 
+            "title_full": "Die Klage über die Zerstörung Ägyptens. Versuch einer Neudeutung der \"Admonitions\" im Vergleich zu den altorientalischen Städteklagen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/788/"
         }, 
         {
@@ -2500,15 +2500,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/310/"
         }, 
         {
-            "title_full": "Die sp\u00e4t\u00e4gyptische Alphabetreihenfolge und das \u2018s\u00fcdsemitische\u2019 Alphabet", 
+            "title_full": "Die spätägyptische Alphabetreihenfolge und das ‘südsemitische’ Alphabet", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/596/"
         }, 
         {
-            "title_full": "Die \u00dcberlieferungsstruktur des Buches vom Tempel", 
+            "title_full": "Die Überlieferungsstruktur des Buches vom Tempel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/597/"
         }, 
         {
-            "title_full": "Ein Pr\u00e4text und seine Realisierungen. Facetten des \u00e4gyptischen Mund\u00f6ffnungsrituals", 
+            "title_full": "Ein Prätext und seine Realisierungen. Facetten des ägyptischen Mundöffnungsrituals", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/658/"
         }, 
         {
@@ -2516,7 +2516,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/311/"
         }, 
         {
-            "title_full": "Ein demotischer Ausdruck in aram\u00e4ischer Transkription", 
+            "title_full": "Ein demotischer Ausdruck in aramäischer Transkription", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/320/"
         }, 
         {
@@ -2524,39 +2524,39 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/309/"
         }, 
         {
-            "title_full": "Ein neuer \u00e4gyptischer Weisheitstext", 
+            "title_full": "Ein neuer ägyptischer Weisheitstext", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/306/"
         }, 
         {
-            "title_full": "Ein \u00e4gyptischer Dialog \u00fcber die Schreibkunst und das arkane Wissen", 
+            "title_full": "Ein ägyptischer Dialog über die Schreibkunst und das arkane Wissen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/653/"
         }, 
         {
-            "title_full": "Eine Erw\u00e4hnung des Reiches von Aleppo in den \u00c4chtungstexten?", 
+            "title_full": "Eine Erwähnung des Reiches von Aleppo in den Ächtungstexten?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/507/"
         }, 
         {
-            "title_full": "Eine \u00e4gyptische Parallele zu KAI 214,32f.?", 
+            "title_full": "Eine ägyptische Parallele zu KAI 214,32f.?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/321/"
         }, 
         {
-            "title_full": "En route vers le copte. Notes sur l\u2019\u00e9volution du d\u00e9motique tardif", 
+            "title_full": "En route vers le copte. Notes sur l’évolution du démotique tardif", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/358/"
         }, 
         {
-            "title_full": "Fr\u00fche \u00e4gyptische Vorl\u00e4ufer der Paranatellonta?", 
+            "title_full": "Frühe ägyptische Vorläufer der Paranatellonta?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/609/"
         }, 
         {
-            "title_full": "Gebrochene Plurale im \u00c4gyptischen", 
+            "title_full": "Gebrochene Plurale im Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1379/"
         }, 
         {
-            "title_full": "Gefangene oder Edelfrau? Zu einem semitischen Fremdwort der \u00e4gyptischen Soldatencharakteristik", 
+            "title_full": "Gefangene oder Edelfrau? Zu einem semitischen Fremdwort der ägyptischen Soldatencharakteristik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/308/"
         }, 
         {
-            "title_full": "Gibt es eine \u00e4gyptische Homer-Rezeption?", 
+            "title_full": "Gibt es eine ägyptische Homer-Rezeption?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/313/"
         }, 
         {
@@ -2564,15 +2564,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/316/"
         }, 
         {
-            "title_full": "Grab und Grabausstattung im sp\u00e4ten \u00c4gypten", 
+            "title_full": "Grab und Grabausstattung im späten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1873/"
         }, 
         {
-            "title_full": "Griechische und andere D\u00e4monen in den sp\u00e4tdemotischen magischen Texten", 
+            "title_full": "Griechische und andere Dämonen in den spätdemotischen magischen Texten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/592/"
         }, 
         {
-            "title_full": "G\u00f6ttliche Gerechtigkeit und Recht am Beispiel des sp\u00e4tzeitlichen \u00c4gypten", 
+            "title_full": "Göttliche Gerechtigkeit und Recht am Beispiel des spätzeitlichen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1901/"
         }, 
         {
@@ -2588,39 +2588,39 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1903/"
         }, 
         {
-            "title_full": "Kontinuit\u00e4t und Wandel in der sp\u00e4t\u00e4gyptischen Magie", 
+            "title_full": "Kontinuität und Wandel in der spätägyptischen Magie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/613/"
         }, 
         {
-            "title_full": "Kritische Bemerkungen zur Bearbeitung von \u00e4gyptischen Hymnen nach dem Neuen Reich", 
+            "title_full": "Kritische Bemerkungen zur Bearbeitung von ägyptischen Hymnen nach dem Neuen Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/657/"
         }, 
         {
-            "title_full": "K\u00f6nigsweihe, Priesterweihe, Isisweihe", 
+            "title_full": "Königsweihe, Priesterweihe, Isisweihe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/612/"
         }, 
         {
-            "title_full": "Le manuel du temple. Une nouvelle source sur la vie des pr\u00eatres \u00e9gyptiens", 
+            "title_full": "Le manuel du temple. Une nouvelle source sur la vie des prêtres égyptiens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/573/"
         }, 
         {
-            "title_full": "Lokalressourcen oder Zentraltheologie? Zur Relevanz und Situierung geographisch strukturierter Mythologie im Alten \u00c4gypten", 
+            "title_full": "Lokalressourcen oder Zentraltheologie? Zur Relevanz und Situierung geographisch strukturierter Mythologie im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2096/"
         }, 
         {
-            "title_full": "Medien der Alltagskultur in \u00c4gypten und ihre Auswirkungen auf Pal\u00e4stina", 
+            "title_full": "Medien der Alltagskultur in Ägypten und ihre Auswirkungen auf Palästina", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/317/"
         }, 
         {
-            "title_full": "Menetekel an der Wand? Zur Deutung der \u201eDemotischen Chronik\"", 
+            "title_full": "Menetekel an der Wand? Zur Deutung der „Demotischen Chronik\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1965/"
         }, 
         {
-            "title_full": "Methoden und M\u00f6glichkeiten der Erforschung der Medizin im Alten \u00c4gypten", 
+            "title_full": "Methoden und Möglichkeiten der Erforschung der Medizin im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/826/"
         }, 
         {
-            "title_full": "Miniaturisierung als Schl\u00fcssel zum Verst\u00e4ndnis r\u00f6merzeitlicher \u00e4gyptischer Rituale?", 
+            "title_full": "Miniaturisierung als Schlüssel zum Verständnis römerzeitlicher ägyptischer Rituale?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1966/"
         }, 
         {
@@ -2628,15 +2628,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/594/"
         }, 
         {
-            "title_full": "Opfermahl und Feindvernichtung im Alt\u00e4gyptischen Ritual", 
+            "title_full": "Opfermahl und Feindvernichtung im Altägyptischen Ritual", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/672/"
         }, 
         {
-            "title_full": "Organiser le culte id\u00e9al. Le Manuel du temple", 
+            "title_full": "Organiser le culte idéal. Le Manuel du temple", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/575/"
         }, 
         {
-            "title_full": "Perspektiven zur Theologie im Alten \u00c4gypten: Antwort an Jan Assmann", 
+            "title_full": "Perspektiven zur Theologie im Alten Ägypten: Antwort an Jan Assmann", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/293/"
         }, 
         {
@@ -2648,23 +2648,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2098/"
         }, 
         {
-            "title_full": "Redaktion und Kodifizierung im sp\u00e4tzeitlichen \u00c4gypten. Der Fall des Totenbuches", 
+            "title_full": "Redaktion und Kodifizierung im spätzeitlichen Ägypten. Der Fall des Totenbuches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1872/"
         }, 
         {
-            "title_full": "Spuren \u00e4gyptischer Opfertheologie bei Jamblich?", 
+            "title_full": "Spuren ägyptischer Opfertheologie bei Jamblich?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1871/"
         }, 
         {
-            "title_full": "Tier des Sonnengottes und Schlangenbek\u00e4mpfer. Zur Theologie der Katze im Alten \u00c4gypten", 
+            "title_full": "Tier des Sonnengottes und Schlangenbekämpfer. Zur Theologie der Katze im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1380/"
         }, 
         {
-            "title_full": "Zu den vorarabischen semitischen Lehnw\u00f6rtern im Koptischen", 
+            "title_full": "Zu den vorarabischen semitischen Lehnwörtern im Koptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/789/"
         }, 
         {
-            "title_full": "Zum Charakter der \"zweiradikaligen\" Verben des \u00c4gyptischen", 
+            "title_full": "Zum Charakter der \"zweiradikaligen\" Verben des Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/790/"
         }, 
         {
@@ -2672,15 +2672,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/294/"
         }, 
         {
-            "title_full": "Zum \u00e4gyptischen Ritual im Iseum Campense in Rom", 
+            "title_full": "Zum ägyptischen Ritual im Iseum Campense in Rom", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/318/"
         }, 
         {
-            "title_full": "Zwischen Sonne und Mond - Zeitrechnung im Alten \u00c4gypten", 
+            "title_full": "Zwischen Sonne und Mond - Zeitrechnung im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/295/"
         }, 
         {
-            "title_full": "\u00c4gyptisch So.t \u201eKleie\" und ein angeblich semitischer Personenname", 
+            "title_full": "Ägyptisch So.t „Kleie\" und ein angeblich semitischer Personenname", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/319/"
         }, 
         {
@@ -2700,11 +2700,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/70/"
         }, 
         {
-            "title_full": "Ach\u00e4er und Trojaner in hethitischen Quellen?", 
+            "title_full": "Achäer und Trojaner in hethitischen Quellen?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1176/"
         }, 
         {
-            "title_full": "Exotische Welten - Die Inszenierung \u00c4gyptens in der Sonderausstellung \"Kairo\" der Berliner Gewerbe-Ausstellung von 1896", 
+            "title_full": "Exotische Welten - Die Inszenierung Ägyptens in der Sonderausstellung \"Kairo\" der Berliner Gewerbe-Ausstellung von 1896", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1114/"
         }, 
         {
@@ -2712,27 +2712,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/340/"
         }, 
         {
-            "title_full": "Davis, Virginia Leo: Syntax of the Negative particles bw and bn in Late Egyptian. M\u00fcnchen-Berlin: Deutscher Kunstverlag 1973. VIII, 409 S., 10 Tabellen gr. 8\u00b0 = M\u00fcnchner \u00c4gyptiologische Studien, hrsg. v. H. W. M\u00fcller, 29", 
+            "title_full": "Davis, Virginia Leo: Syntax of the Negative particles bw and bn in Late Egyptian. München-Berlin: Deutscher Kunstverlag 1973. VIII, 409 S., 10 Tabellen gr. 8° = Münchner Ägyptiologische Studien, hrsg. v. H. W. Müller, 29", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2278/"
         }, 
         {
-            "title_full": "Adversarien zu Attribut, Apposition und Genitiv-Relation des \u00c4gyptischen", 
+            "title_full": "Adversarien zu Attribut, Apposition und Genitiv-Relation des Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1797/"
         }, 
         {
-            "title_full": "Amun-Re. Eine Sondierung zu Struktur und Genese alt\u00e4gyptischer synkretistischer G\u00f6tter", 
+            "title_full": "Amun-Re. Eine Sondierung zu Struktur und Genese altägyptischer synkretistischer Götter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1799/"
         }, 
         {
-            "title_full": "Antizipation innerhalb der Wortgruppe und die sog. Badalapposition im \u00c4gyptischen", 
+            "title_full": "Antizipation innerhalb der Wortgruppe und die sog. Badalapposition im Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1800/"
         }, 
         {
-            "title_full": "Architektonische Struktur versus kultische Funktion: Zur Analyse alt\u00e4gyptischer Architektur", 
+            "title_full": "Architektonische Struktur versus kultische Funktion: Zur Analyse altägyptischer Architektur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1424/"
         }, 
         {
-            "title_full": "Atlantis, Labyrinthos: Statt einer Fu\u00dfnote", 
+            "title_full": "Atlantis, Labyrinthos: Statt einer Fußnote", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1576/"
         }, 
         {
@@ -2744,23 +2744,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1795/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur mittel\u00e4gyptischen Syntax", 
+            "title_full": "Beiträge zur mittelägyptischen Syntax", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1663/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur mittel\u00e4gyptischen Syntax", 
+            "title_full": "Beiträge zur mittelägyptischen Syntax", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1662/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur mittel\u00e4gyptischen Syntax", 
+            "title_full": "Beiträge zur mittelägyptischen Syntax", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1603/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur mittel\u00e4gyptischen Syntax. V. S\u00e4tze mit (festem) Verbum in der Suffixkonjugation oder im Imperativ", 
+            "title_full": "Beiträge zur mittelägyptischen Syntax. V. Sätze mit (festem) Verbum in der Suffixkonjugation oder im Imperativ", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1796/"
         }, 
         {
-            "title_full": "Bruch und Aufbruch. Adolf Erman und die Geschichte der \u00c4gyptologie", 
+            "title_full": "Bruch und Aufbruch. Adolf Erman und die Geschichte der Ägyptologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1578/"
         }, 
         {
@@ -2768,31 +2768,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1577/"
         }, 
         {
-            "title_full": "Das Ende des narrativen sDm.t=f. Schlu\u00dffolgerungen aus einer Beobachtung J.W.B. Barns\u2019, \"Some Readings and Interpretations in Sandry Egyptian Texts\", JEA 58 (1972), 160 f", 
+            "title_full": "Das Ende des narrativen sDm.t=f. Schlußfolgerungen aus einer Beobachtung J.W.B. Barns’, \"Some Readings and Interpretations in Sandry Egyptian Texts\", JEA 58 (1972), 160 f", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1802/"
         }, 
         {
-            "title_full": "Das Pr\u00e4positional- und Adverbialattribut des \u00e4lteren \u00c4gyptisch, eine Apokoinu-Konstruktion", 
+            "title_full": "Das Präpositional- und Adverbialattribut des älteren Ägyptisch, eine Apokoinu-Konstruktion", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1664/"
         }, 
         {
-            "title_full": "Das Stemma der alt\u00e4gyptischen Sonnenlitanei: Grundlegung der Textgeschichte nach der Methode der Textkritik", 
+            "title_full": "Das Stemma der altägyptischen Sonnenlitanei: Grundlegung der Textgeschichte nach der Methode der Textkritik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1630/"
         }, 
         {
-            "title_full": "Das Suffix -y\u00eas als fakultative morphophonematische Variante des Suffixes -s im Meroitischen", 
+            "title_full": "Das Suffix -yês als fakultative morphophonematische Variante des Suffixes -s im Meroitischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2388/"
         }, 
         {
-            "title_full": "Das T\u00fcbinger Konkordanz-Programm", 
+            "title_full": "Das Tübinger Konkordanz-Programm", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2379/"
         }, 
         {
-            "title_full": "Das Wort f\u00fcr \u201eK\u00f6nig (von Ober\u00e4gypten)\"", 
+            "title_full": "Das Wort für „König (von Oberägypten)\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1425/"
         }, 
         {
-            "title_full": "Das alt\u00e4gyptische Pseudopartizip und das indogermanische Medium/Perfekt", 
+            "title_full": "Das altägyptische Pseudopartizip und das indogermanische Medium/Perfekt", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1801/"
         }, 
         {
@@ -2804,7 +2804,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1579/"
         }, 
         {
-            "title_full": "Die Einf\u00fchrung der k\u00fcnstlichen Felderbew\u00e4sserung im Alten \u00c4gypten (Zusammenfassung der vorl\u00e4ufigen Ergebnisse einer vorbereiteten dokumentierten Darstellung)", 
+            "title_full": "Die Einführung der künstlichen Felderbewässerung im Alten Ägypten (Zusammenfassung der vorläufigen Ergebnisse einer vorbereiteten dokumentierten Darstellung)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1804/"
         }, 
         {
@@ -2816,31 +2816,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1581/"
         }, 
         {
-            "title_full": "Die Farben in \u00e4gyptischer Kunst und Sprache", 
+            "title_full": "Die Farben in ägyptischer Kunst und Sprache", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1665/"
         }, 
         {
-            "title_full": "Die Gr\u00e4ber des Pa'-tnf-j und eines Unbekannten in der thebanischen Nekropole (Nr. 128 und Nr. 129)", 
+            "title_full": "Die Gräber des Pa'-tnf-j und eines Unbekannten in der thebanischen Nekropole (Nr. 128 und Nr. 129)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1805/"
         }, 
         {
-            "title_full": "Die G\u00f6ttinger und T\u00fcbinger Konkordanz zu den alt\u00e4gyptischen Sargtexten", 
+            "title_full": "Die Göttinger und Tübinger Konkordanz zu den altägyptischen Sargtexten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1444/"
         }, 
         {
-            "title_full": "Die Konversion, ein Epiph\u00e4nomen der kemischen (\u00e4gyptisch-koptischen) Sprachgeschichte", 
+            "title_full": "Die Konversion, ein Epiphänomen der kemischen (ägyptisch-koptischen) Sprachgeschichte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1669/"
         }, 
         {
-            "title_full": "Die Numeri des Substantivs und die Konstruktion der Zahlw\u00f6rter im \u00c4gyptischen", 
+            "title_full": "Die Numeri des Substantivs und die Konstruktion der Zahlwörter im Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1851/"
         }, 
         {
-            "title_full": "Die Partikel \u1ec9w und die Intuition des Interpreten Randbemerkungen zu Antonio Loprieno, \u201eOn fuzzy boundaries in Egyptian syntax\\\"", 
+            "title_full": "Die Partikel ỉw und die Intuition des Interpreten Randbemerkungen zu Antonio Loprieno, „On fuzzy boundaries in Egyptian syntax\\\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1582/"
         }, 
         {
-            "title_full": "Die Wurzel bnj \u201es\u00fc\u00df\"", 
+            "title_full": "Die Wurzel bnj „süß\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1666/"
         }, 
         {
@@ -2848,23 +2848,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1629/"
         }, 
         {
-            "title_full": "Die mittel\u00e4gyptischen Nisben als Nuklei in pr\u00e4positionaler, limitierender und Genitiv Relation", 
+            "title_full": "Die mittelägyptischen Nisben als Nuklei in präpositionaler, limitierender und Genitiv Relation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1850/"
         }, 
         {
-            "title_full": "Die \u00e4gyptische Hieroglyphenschrift und ihre Weiterentwicklungen", 
+            "title_full": "Die ägyptische Hieroglyphenschrift und ihre Weiterentwicklungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2378/"
         }, 
         {
-            "title_full": "Direkter und indirekter \u201eGenitiv\"", 
+            "title_full": "Direkter und indirekter „Genitiv\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1602/"
         }, 
         {
-            "title_full": "Diskussionsbeitr\u00e4ge", 
+            "title_full": "Diskussionsbeiträge", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1852/"
         }, 
         {
-            "title_full": "Ein T\u00fcrsturz von der Grabkapelle des K\u00f6nigs Wah-'nh Antef", 
+            "title_full": "Ein Türsturz von der Grabkapelle des Königs Wah-'nh Antef", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1853/"
         }, 
         {
@@ -2876,7 +2876,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2022/"
         }, 
         {
-            "title_full": "Eine Syntax des klassischen \u00c4gyptisch ohne Verbalsatz", 
+            "title_full": "Eine Syntax des klassischen Ägyptisch ohne Verbalsatz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2222/"
         }, 
         {
@@ -2884,27 +2884,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1826/"
         }, 
         {
-            "title_full": "Erkundungen zur Reihenfolge der Zeichen im \u00e4gyptologischen Transkriptionsalphabet", 
+            "title_full": "Erkundungen zur Reihenfolge der Zeichen im ägyptologischen Transkriptionsalphabet", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1583/"
         }, 
         {
-            "title_full": "Fokussierung. \u00dcber die Reihenfolge von Subjekt und Pr\u00e4dikat im klassisch-\u00e4gyptischen Nominalsatz", 
+            "title_full": "Fokussierung. Über die Reihenfolge von Subjekt und Prädikat im klassisch-ägyptischen Nominalsatz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1920/"
         }, 
         {
-            "title_full": "Formalisierung der \u00e4gyptologischen Lexikographie als Voraussetzung und als Ergebnis des Einsatzes von EDV-Anlagen", 
+            "title_full": "Formalisierung der ägyptologischen Lexikographie als Voraussetzung und als Ergebnis des Einsatzes von EDV-Anlagen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1854/"
         }, 
         {
-            "title_full": "Fr\u00fchmittel\u00e4gyptische Studien", 
+            "title_full": "Frühmittelägyptische Studien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1441/"
         }, 
         {
-            "title_full": "Gesichtspunkte f\u00fcr die Neugestaltung der Hieroglyphenliste", 
+            "title_full": "Gesichtspunkte für die Neugestaltung der Hieroglyphenliste", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1921/"
         }, 
         {
-            "title_full": "Glottalisierte Verschlu\u00dflaute, glottaler Verschlu\u00dflaut und ein pharyngaler Reibelaut im Koptischen. R\u00fcckschl\u00fcsse aus den \u00e4gyptisch-koptischen Lehnw\u00f6rtern und Ortsnamen im \u00c4gyptisch-Arabischen", 
+            "title_full": "Glottalisierte Verschlußlaute, glottaler Verschlußlaut und ein pharyngaler Reibelaut im Koptischen. Rückschlüsse aus den ägyptisch-koptischen Lehnwörtern und Ortsnamen im Ägyptisch-Arabischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1584/"
         }, 
         {
@@ -2916,15 +2916,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1988/"
         }, 
         {
-            "title_full": "Grundformen mittel\u00e4gyptischer S\u00e4tze anhand der Sinuhe-Erz\u00e4hlung", 
+            "title_full": "Grundformen mittelägyptischer Sätze anhand der Sinuhe-Erzählung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1631/"
         }, 
         {
-            "title_full": "Haplographie von t als scheinbares morphologisches Indiz. Die Tilgung des Phonogramms t in Tabuschreibungen f\u00fcr das eigene Sterben und f\u00fcr Totengeister (Befunde der Sargtexte)", 
+            "title_full": "Haplographie von t als scheinbares morphologisches Indiz. Die Tilgung des Phonogramms t in Tabuschreibungen für das eigene Sterben und für Totengeister (Befunde der Sargtexte)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2402/"
         }, 
         {
-            "title_full": "Helck, Wolfgang: Der Text der \u201eLehre Amenemhets I. f\u00fcr seinen Sohn\". Wiesbaden: Harrassowitz 1969. IV, 105 S. gr. 8 \u00b0 = Kleine \u00e4gyptische Texte, hrsg. von W. Helck. -: Die Prophezeiung des Nfr.tj. Ebd. 1970. IV, 60 S. gr. 8\u00b0 = Kleine \u00e4gyptische Texte. - : Die Lehre des Dwa-Htjj. I. u. II. Ebd. 1970. IV, 166 S. gr. 8 U = Kleine \u00e4gyptische Texte. - : Der Text des \u201eNilhymnus\". Ebd. 1972. IV, 87 S. gr. 8\u00b0 = Kleine \u00e4gyptische Texte", 
+            "title_full": "Helck, Wolfgang: Der Text der „Lehre Amenemhets I. für seinen Sohn\". Wiesbaden: Harrassowitz 1969. IV, 105 S. gr. 8 ° = Kleine ägyptische Texte, hrsg. von W. Helck. -: Die Prophezeiung des Nfr.tj. Ebd. 1970. IV, 60 S. gr. 8° = Kleine ägyptische Texte. - : Die Lehre des Dwa-Htjj. I. u. II. Ebd. 1970. IV, 166 S. gr. 8 U = Kleine ägyptische Texte. - : Der Text des „Nilhymnus\". Ebd. 1972. IV, 87 S. gr. 8° = Kleine ägyptische Texte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2267/"
         }, 
         {
@@ -2932,11 +2932,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2358/"
         }, 
         {
-            "title_full": "Ist der Wortschatz des \"Lebensm\u00fcden\" gr\u00f6\u00dfer als der des \"Sinuhe\"", 
+            "title_full": "Ist der Wortschatz des \"Lebensmüden\" größer als der des \"Sinuhe\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1855/"
         }, 
         {
-            "title_full": "Ist \u201eMythos\" ein griechisches Lehnwort aus dem \u00c4gyptischen?", 
+            "title_full": "Ist „Mythos\" ein griechisches Lehnwort aus dem Ägyptischen?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1585/"
         }, 
         {
@@ -2944,11 +2944,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2201/"
         }, 
         {
-            "title_full": "Karl Jansen-Winkeln:Text und Sprache in der 3. Zwischenzeit. Vorarbeiten zu einer sp\u00e4tmittel\u00e4gyptischen Grammatik. \u00c4gypten und Altes Testament, 26. Wiesbaden: Harrassowitz Verlag 1994", 
+            "title_full": "Karl Jansen-Winkeln:Text und Sprache in der 3. Zwischenzeit. Vorarbeiten zu einer spätmittelägyptischen Grammatik. Ägypten und Altes Testament, 26. Wiesbaden: Harrassowitz Verlag 1994", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2019/"
         }, 
         {
-            "title_full": "\u015b-Kausativa, t-Kausativa und \u201einnere\" Kausativa. Die \u015b-Kausativa der Verben L\u015b in den Sargtexten", 
+            "title_full": "ś-Kausativa, t-Kausativa und „innere\" Kausativa. Die ś-Kausativa der Verben Lś in den Sargtexten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1676/"
         }, 
         {
@@ -2956,23 +2956,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1989/"
         }, 
         {
-            "title_full": "Kritisches zur Textkritik: Die sogenannten H\u00f6rfehler", 
+            "title_full": "Kritisches zur Textkritik: Die sogenannten Hörfehler", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2221/"
         }, 
         {
-            "title_full": "Kultmythos und M\u00e4rtyrerlegende: zur Kontinuit\u00e4t des \u00e4gyptischen Denkens", 
+            "title_full": "Kultmythos und Märtyrerlegende: zur Kontinuität des ägyptischen Denkens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1637/"
         }, 
         {
-            "title_full": "Kultmythus und M\u00e4rtyrenlegende", 
+            "title_full": "Kultmythus und Märtyrenlegende", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2202/"
         }, 
         {
-            "title_full": "Les syst\u00e8mes d\u2019irrigation dans l\u2019Egypte ancienne et leurs gen\u00e8se", 
+            "title_full": "Les systèmes d’irrigation dans l’Egypte ancienne et leurs genèse", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1426/"
         }, 
         {
-            "title_full": "\"Litt\u00e9rature et politique\" Fragestellung oder Antwort? Zwei Diskussionsbeitr\u00e4ge", 
+            "title_full": "\"Littérature et politique\" Fragestellung oder Antwort? Zwei Diskussionsbeiträge", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2045/"
         }, 
         {
@@ -2980,7 +2980,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1667/"
         }, 
         {
-            "title_full": "Memphis, Herakleopolis, Theben: die epigraphischen Zeugnisse der 7. - 11. Dynastie \u00c4gyptens", 
+            "title_full": "Memphis, Herakleopolis, Theben: die epigraphischen Zeugnisse der 7. - 11. Dynastie Ägyptens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1858/"
         }, 
         {
@@ -2988,19 +2988,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2412/"
         }, 
         {
-            "title_full": "Mit welchen Zielen man die alt\u00e4gyptische Sprache erforschen sollte", 
+            "title_full": "Mit welchen Zielen man die altägyptische Sprache erforschen sollte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1922/"
         }, 
         {
-            "title_full": "Neue linguistische Methoden und arbeitstechnische Verfahren in der Erschliessung der \u00e4gyptischen Grammatik", 
+            "title_full": "Neue linguistische Methoden und arbeitstechnische Verfahren in der Erschliessung der ägyptischen Grammatik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2048/"
         }, 
         {
-            "title_full": "\u201eNie kam ein Mi\u00dfgeschick \u00fcber mich\"", 
+            "title_full": "„Nie kam ein Mißgeschick über mich\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1668/"
         }, 
         {
-            "title_full": "Notes sur la transmission de l\u2019autobiographie traditionelle", 
+            "title_full": "Notes sur la transmission de l’autobiographie traditionelle", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1601/"
         }, 
         {
@@ -3008,23 +3008,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2266/"
         }, 
         {
-            "title_full": "Pr\u00e4dikatives und abstrakt-relativisches scm.n=f, Beobachtungen an den Verben II.gem. und ult.n im Korpus der Sargtexte", 
+            "title_full": "Prädikatives und abstrakt-relativisches scm.n=f, Beobachtungen an den Verben II.gem. und ult.n im Korpus der Sargtexte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1574/"
         }, 
         {
-            "title_full": "Ramses, Ptolemaios und die Sprache der Hieroglyphen: Noch einmal zur Nacherz\u00e4hlung der Entzifferungsgeschichte der Hieroglyphen", 
+            "title_full": "Ramses, Ptolemaios und die Sprache der Hieroglyphen: Noch einmal zur Nacherzählung der Entzifferungsgeschichte der Hieroglyphen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2413/"
         }, 
         {
-            "title_full": "Ramses: Die Erfindung einer Graphie in der Nacherz\u00e4hlung der Entzifferungsgeschichte der Hieroglyphen", 
+            "title_full": "Ramses: Die Erfindung einer Graphie in der Nacherzählung der Entzifferungsgeschichte der Hieroglyphen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2401/"
         }, 
         {
-            "title_full": "Rep\u00e8res chronologiques de l\u2019histoire r\u00e9dactionelle des coffin texts", 
+            "title_full": "Repères chronologiques de l’histoire rédactionelle des coffin texts", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1923/"
         }, 
         {
-            "title_full": "Scharuna I: der Grabungsplatz, die Nekropole, Gr\u00e4ber aus der Alten-Reichs-Nekropole", 
+            "title_full": "Scharuna I: der Grabungsplatz, die Nekropole, Gräber aus der Alten-Reichs-Nekropole", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1880/"
         }, 
         {
@@ -3032,7 +3032,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1987/"
         }, 
         {
-            "title_full": "\u201eSingularisches\" und \u201epluralisches\" Partizip", 
+            "title_full": "„Singularisches\" und „pluralisches\" Partizip", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1677/"
         }, 
         {
@@ -3040,31 +3040,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1427/"
         }, 
         {
-            "title_full": "Stricker, B. H.: De geboorte van Horus, I-III. Leiden: Brill 1963, 1968, 1975. 347 S. m. Abb. 4\u00b0 =Mededelingen en Verhandolingen van het Vooraziatisch-egyptisch Genootschap \u201eEx Oriente Lux\", Memoires de la Societe d'Etudes Orientale \u201eEx Oriente Lux\", XIV, XVII, XVIII", 
+            "title_full": "Stricker, B. H.: De geboorte van Horus, I-III. Leiden: Brill 1963, 1968, 1975. 347 S. m. Abb. 4° =Mededelingen en Verhandolingen van het Vooraziatisch-egyptisch Genootschap „Ex Oriente Lux\", Memoires de la Societe d'Etudes Orientale „Ex Oriente Lux\", XIV, XVII, XVIII", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2268/"
         }, 
         {
-            "title_full": "Syntagmen mit infiniten Verbalformen als Transformate von S\u00e4tzen", 
+            "title_full": "Syntagmen mit infiniten Verbalformen als Transformate von Sätzen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1985/"
         }, 
         {
-            "title_full": "S\u00e4ve-S\u00f6derbergh, Torgny: The Old Kingdom cemetery at Hamra Dom (El-Qasr wa es-Saiyad)", 
+            "title_full": "Säve-Söderbergh, Torgny: The Old Kingdom cemetery at Hamra Dom (El-Qasr wa es-Saiyad)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2414/"
         }, 
         {
-            "title_full": "T\u00fcbinger Einf\u00fchrung in die klassisch-\u00e4gyptische Sprache und Schrift", 
+            "title_full": "Tübinger Einführung in die klassisch-ägyptische Sprache und Schrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1485/"
         }, 
         {
-            "title_full": "Unterrichtsbehelfe und linguistische Theoriebildung in der Vermittlung der klassisch-\u00e4gyptischen Grammatik", 
+            "title_full": "Unterrichtsbehelfe und linguistische Theoriebildung in der Vermittlung der klassisch-ägyptischen Grammatik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1674/"
         }, 
         {
-            "title_full": "Verbesserungsvorschl\u00e4ge zu A. Erman, Neu\u00e4gyptische Grammatik, Catalogue of References, bearb. von G.E. Freeman und F.T. Miosi", 
+            "title_full": "Verbesserungsvorschläge zu A. Erman, Neuägyptische Grammatik, Catalogue of References, bearb. von G.E. Freeman und F.T. Miosi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2223/"
         }, 
         {
-            "title_full": "Von der Morphologie zur Syntax und zur\u00fcck", 
+            "title_full": "Von der Morphologie zur Syntax und zurück", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1673/"
         }, 
         {
@@ -3072,23 +3072,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2415/"
         }, 
         {
-            "title_full": "Warum die Gef\u00e4hrten des Odysseus nach dem Genu\u00df von Lotos die R\u00fcckkehr verga\u00dfen", 
+            "title_full": "Warum die Gefährten des Odysseus nach dem Genuß von Lotos die Rückkehr vergaßen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1448/"
         }, 
         {
-            "title_full": "Wie das \u00e4gyptische Labyrinth zu seinem Namen kam", 
+            "title_full": "Wie das ägyptische Labyrinth zu seinem Namen kam", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1449/"
         }, 
         {
-            "title_full": "W\u00f6rterbuch vs. Textkorpus oder: Wie und ob man \u00fcberhaupt ein W\u00f6rterbuch machen kann", 
+            "title_full": "Wörterbuch vs. Textkorpus oder: Wie und ob man überhaupt ein Wörterbuch machen kann", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1672/"
         }, 
         {
-            "title_full": "Zu den Verschlu\u00df- und Reibelauten im \u00c4gyptischen und (Hamito)Semitischen. Ein Versuch zur Synthese der Lehrmeinungen", 
+            "title_full": "Zu den Verschluß- und Reibelauten im Ägyptischen und (Hamito)Semitischen. Ein Versuch zur Synthese der Lehrmeinungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2416/"
         }, 
         {
-            "title_full": "Zum Feudalismus der ersten Zwischenzeit \u00c4gyptens", 
+            "title_full": "Zum Feudalismus der ersten Zwischenzeit Ägyptens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1968/"
         }, 
         {
@@ -3096,23 +3096,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1878/"
         }, 
         {
-            "title_full": "Zur Formenbildung des pr\u00e4dikativen scm=f der Verben II.gem., vornehmlich nach dem Zeugnis der Sargtexte", 
+            "title_full": "Zur Formenbildung des prädikativen scm=f der Verben II.gem., vornehmlich nach dem Zeugnis der Sargtexte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2417/"
         }, 
         {
-            "title_full": "Zur Fortf\u00fchrung des Projektes M.A.A.T. in G\u00f6ttingen", 
+            "title_full": "Zur Fortführung des Projektes M.A.A.T. in Göttingen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1967/"
         }, 
         {
-            "title_full": "Zur Frage der Vorlagen sp\u00e4tzeitlicher \"Kopien\"", 
+            "title_full": "Zur Frage der Vorlagen spätzeitlicher \"Kopien\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1445/"
         }, 
         {
-            "title_full": "Zur Funktion der meroitischen Verbalsuffixe -bh\u00ea und -(q\u00ea)b\u00eas", 
+            "title_full": "Zur Funktion der meroitischen Verbalsuffixe -bhê und -(qê)bês", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2418/"
         }, 
         {
-            "title_full": "Zur Redaktions- und \u00dcberlieferungsgeschichte des Spruchs 335 a der Sargtexte", 
+            "title_full": "Zur Redaktions- und Überlieferungsgeschichte des Spruchs 335 a der Sargtexte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1857/"
         }, 
         {
@@ -3120,11 +3120,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1798/"
         }, 
         {
-            "title_full": "Zur Relevanz der alt\u00e4gyptischen \u201eMetrik\"", 
+            "title_full": "Zur Relevanz der altägyptischen „Metrik\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1986/"
         }, 
         {
-            "title_full": "Zur Silbenstruktur des \u00c4gyptischen", 
+            "title_full": "Zur Silbenstruktur des Ägyptischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1671/"
         }, 
         {
@@ -3132,7 +3132,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1856/"
         }, 
         {
-            "title_full": "Zur Struktur des Verbalkomplexes in den Schlu\u00dfformeln der meroitischen Totentexte", 
+            "title_full": "Zur Struktur des Verbalkomplexes in den Schlußformeln der meroitischen Totentexte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2419/"
         }, 
         {
@@ -3144,55 +3144,55 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2265/"
         }, 
         {
-            "title_full": "\u00dcberlegungen zur XML-Notation \u00e4gyptischer Texte, Problemstellung und L\u00f6sungsans\u00e4tze am Beispiel der \u00dcbersetzung des T\u00fcbinger Sargtextkorpus in XML-Notation", 
+            "title_full": "Überlegungen zur XML-Notation ägyptischer Texte, Problemstellung und Lösungsansätze am Beispiel der Übersetzung des Tübinger Sargtextkorpus in XML-Notation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1675/"
         }, 
         {
-            "title_full": "\u015bcm.t-Perfekt und \u015bcm.t\u1ec9-Stativ: Die beiden Pseudopartizipien des \u00c4gyptischen nach dem Zeugnis der Sargtexte", 
+            "title_full": "ścm.t-Perfekt und ścm.tỉ-Stativ: Die beiden Pseudopartizipien des Ägyptischen nach dem Zeugnis der Sargtexte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1443/"
         }, 
         {
-            "title_full": "\u00c4gyptisch wnm \u201eessen\". Zur Interpretation der Graphien", 
+            "title_full": "Ägyptisch wnm „essen\". Zur Interpretation der Graphien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1504/"
         }, 
         {
-            "title_full": "\u00c4gyptisch-Koptisch: Einfahren einer linguistischen Ernte", 
+            "title_full": "Ägyptisch-Koptisch: Einfahren einer linguistischen Ernte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1464/"
         }, 
         {
-            "title_full": "\u00c4gyptische Literatur und \u00e4gyptologische Forschung: Eine wissenschaftsgeschichtliche Einleitung,", 
+            "title_full": "Ägyptische Literatur und ägyptologische Forschung: Eine wissenschaftsgeschichtliche Einleitung,", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1575/"
         }, 
         {
-            "title_full": "*mu\u1e96n\u0306 t \u201eF\u00e4hre\". Die Graphie mw des Nominalbildungspr\u00e4fixes mw\u0325 in den Sargtexten, Schreiberlaune und Indiz f\u00fcr die Vokalisation", 
+            "title_full": "*muẖn̆ t „Fähre\". Die Graphie mw des Nominalbildungspräfixes mw̥ in den Sargtexten, Schreiberlaune und Indiz für die Vokalisation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2020/"
         }, 
         {
-            "title_full": "al-K\u00f6m al-aHmar / S\u00e4r\u00fcna 1984", 
+            "title_full": "al-Köm al-aHmar / Särüna 1984", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1919/"
         }, 
         {
-            "title_full": "al-K\u00f6m al-aHmar / S\u00e4r\u00fcna", 
+            "title_full": "al-Köm al-aHmar / Särüna", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1924/"
         }, 
         {
-            "title_full": "G\u00f6ttinger Konkordanz zu den alt\u00e4gyptischen Sargtexten", 
+            "title_full": "Göttinger Konkordanz zu den altägyptischen Sargtexten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2039/"
         }, 
         {
-            "title_full": "Konkordanz zu den alt\u00e4gyptischen Sargtexten", 
+            "title_full": "Konkordanz zu den altägyptischen Sargtexten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2038/"
         }, 
         {
-            "title_full": "Ein chronologischer Fixpunkt f\u00fcr die Kunstgeschichte der zweiten Zwischenzeit \u00c4gyptens: Sbk-m-z\u0315,w=f", 
+            "title_full": "Ein chronologischer Fixpunkt für die Kunstgeschichte der zweiten Zwischenzeit Ägyptens: Sbk-m-z̕,w=f", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2016/"
         }, 
         {
-            "title_full": "Horus \u201eFl\u00fcgelsonne\", der Superheld", 
+            "title_full": "Horus „Flügelsonne\", der Superheld", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2018/"
         }, 
         {
-            "title_full": "\"Alt\u00e4gypten im deutschen Schulbuch\" - 25 Jahre sp\u00e4ter : Wiederholung einer Untersuchung von R. Klemm von 1976 (Basis 1972)", 
+            "title_full": "\"Altägypten im deutschen Schulbuch\" - 25 Jahre später : Wiederholung einer Untersuchung von R. Klemm von 1976 (Basis 1972)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2/"
         }, 
         {
@@ -3200,19 +3200,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/30/"
         }, 
         {
-            "title_full": "\u201eDas Kind sprach zu ihr\" - ein Dialog der Isis mit einem g\u00f6ttlichen Kind im Papyrus Wien D. 12006", 
+            "title_full": "„Das Kind sprach zu ihr\" - ein Dialog der Isis mit einem göttlichen Kind im Papyrus Wien D. 12006", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1874/"
         }, 
         {
-            "title_full": "Der Skarab\u00e4us als osirianisches Symbol vornehmlich nach sp\u00e4tzeitlichen Quellen", 
+            "title_full": "Der Skarabäus als osirianisches Symbol vornehmlich nach spätzeitlichen Quellen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1943/"
         }, 
         {
-            "title_full": "Ein \u201evollkommenes Gesicht\" aus dem sp\u00e4tptolem\u00e4ischen \u00c4gypten. Zu einer Mumienmaske des Martin von Wagner Museums", 
+            "title_full": "Ein „vollkommenes Gesicht\" aus dem spätptolemäischen Ägypten. Zu einer Mumienmaske des Martin von Wagner Museums", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1917/"
         }, 
         {
-            "title_full": "Eine neue Orientierungshilfe f\u00fcr die demotische Literatur", 
+            "title_full": "Eine neue Orientierungshilfe für die demotische Literatur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2103/"
         }, 
         {
@@ -3220,7 +3220,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1884/"
         }, 
         {
-            "title_full": "F\u00fcnf neue funer\u00e4re Kurztexte (Papyri Britisches Museum EA 10121, 10198, 10415, 10421a, b, 10426a) und eine Zwischenbilanz zu dieser Textgruppe", 
+            "title_full": "Fünf neue funeräre Kurztexte (Papyri Britisches Museum EA 10121, 10198, 10415, 10421a, b, 10426a) und eine Zwischenbilanz zu dieser Textgruppe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2061/"
         }, 
         {
@@ -3228,19 +3228,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2362/"
         }, 
         {
-            "title_full": "Irmtraut Munro, Ein Ritualbuch f\u00fcr Goldamulette und Totenbuch des Month-em-hat, mit Beitr\u00e4gen von Robert Fuchs und Katrin Janis, Studien zum Alt\u00e4gyptischen Totenbuch 7, Harrassowitz Wiesbaden 2003. ISBN 14309726", 
+            "title_full": "Irmtraut Munro, Ein Ritualbuch für Goldamulette und Totenbuch des Month-em-hat, mit Beiträgen von Robert Fuchs und Katrin Janis, Studien zum Altägyptischen Totenbuch 7, Harrassowitz Wiesbaden 2003. ISBN 14309726", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2190/"
         }, 
         {
-            "title_full": "Isis w\u00fcrfelt nicht", 
+            "title_full": "Isis würfelt nicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2104/"
         }, 
         {
-            "title_full": "Isis, das g\u00f6ttliche Kind und die Weltordnung. Prolegomena zur Deutung des unpublizierten Papyrus Wien D. 12006 recto", 
+            "title_full": "Isis, das göttliche Kind und die Weltordnung. Prolegomena zur Deutung des unpublizierten Papyrus Wien D. 12006 recto", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2058/"
         }, 
         {
-            "title_full": "Ist Weisheit weiblich? Die Identit\u00e4t der \u00e4gyptischen Gottheit Thot auf dem Pr\u00fcfstand", 
+            "title_full": "Ist Weisheit weiblich? Die Identität der ägyptischen Gottheit Thot auf dem Prüfstand", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2059/"
         }, 
         {
@@ -3248,7 +3248,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2390/"
         }, 
         {
-            "title_full": "Metatranszendenztheologie im Alten \u00c4gypten Pyramidentextspruch 215 und der ramessidische Weltgott", 
+            "title_full": "Metatranszendenztheologie im Alten Ägypten Pyramidentextspruch 215 und der ramessidische Weltgott", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2102/"
         }, 
         {
@@ -3264,11 +3264,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2380/"
         }, 
         {
-            "title_full": "Sp\u00e4t\u00e4gyptische Hymnen als Quellen f\u00fcr den interkulturellen Austausch und den Umgang mit dem eigenen Erbe - drei Fallstudien", 
+            "title_full": "Spätägyptische Hymnen als Quellen für den interkulturellen Austausch und den Umgang mit dem eigenen Erbe - drei Fallstudien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1883/"
         }, 
         {
-            "title_full": "Verbesserungsvorschl\u00e4ge zu den magischen Papyri British Museum EA 9997+10309 und EA 10042 (magischer Papyrus Harris)", 
+            "title_full": "Verbesserungsvorschläge zu den magischen Papyri British Museum EA 9997+10309 und EA 10042 (magischer Papyrus Harris)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1941/"
         }, 
         {
@@ -3276,15 +3276,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2381/"
         }, 
         {
-            "title_full": "War eine dramatische Auff\u00fchrung eines Totengerichts Teil der \u00e4gyptischen Totenriten?", 
+            "title_full": "War eine dramatische Aufführung eines Totengerichts Teil der ägyptischen Totenriten?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1945/"
         }, 
         {
-            "title_full": "Wege ins Jenseits. Das Alte \u00c4gypten zu Gast im W\u00fcrzburger Museum am Dom", 
+            "title_full": "Wege ins Jenseits. Das Alte Ägypten zu Gast im Würzburger Museum am Dom", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2423/"
         }, 
         {
-            "title_full": "Zur \u00e4gyptischen Vorlage der memphitischen Isisaretalogie", 
+            "title_full": "Zur ägyptischen Vorlage der memphitischen Isisaretalogie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2105/"
         }, 
         {
@@ -3296,7 +3296,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1876/"
         }, 
         {
-            "title_full": "Das Ritual, den Tempel des Sobek, des Herrn von Pai, zu betreten. Ein Ritualtext aus dem r\u00f6mischen Fayum", 
+            "title_full": "Das Ritual, den Tempel des Sobek, des Herrn von Pai, zu betreten. Ein Ritualtext aus dem römischen Fayum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2142/"
         }, 
         {
@@ -3304,27 +3304,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2054/"
         }, 
         {
-            "title_full": "Die Bedeutung des Alten Orients f\u00fcr deutsches Denken: Skizzen aus dem Zeitraum 1871-1945", 
+            "title_full": "Die Bedeutung des Alten Orients für deutsches Denken: Skizzen aus dem Zeitraum 1871-1945", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/40/"
         }, 
         {
-            "title_full": "Untersuchungen zum Einfluss der Wohnhaus- und Tempelarchitektur auf die Beamtengr\u00e4ber des Neuen Reiches in Amarna, Theben und Memphis", 
+            "title_full": "Untersuchungen zum Einfluss der Wohnhaus- und Tempelarchitektur auf die Beamtengräber des Neuen Reiches in Amarna, Theben und Memphis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/85/"
         }, 
         {
-            "title_full": "Alt\u00e4gyptische Literatur", 
+            "title_full": "Altägyptische Literatur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1911/"
         }, 
         {
-            "title_full": "Amun zwischen 25 M\u00e4nnern und zwei Frauen. Bemerkungen zur Inthronisationsstele des Aspelta", 
+            "title_full": "Amun zwischen 25 Männern und zwei Frauen. Bemerkungen zur Inthronisationsstele des Aspelta", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1912/"
         }, 
         {
-            "title_full": "Corpus Antiquitatum Aegypliacarum. Loseblatt-Katalog \u00c4gyptischer Altert\u00fcmer. Kunsthistorisches Museum Wien. \u00c4gyptisch-Orientalische Abteilung. Mainz. Lieferung 21: Regina H\u00f6lzl: Reliefs und Inschriftensteine des Alten Reiches II", 
+            "title_full": "Corpus Antiquitatum Aegypliacarum. Loseblatt-Katalog Ägyptischer Altertümer. Kunsthistorisches Museum Wien. Ägyptisch-Orientalische Abteilung. Mainz. Lieferung 21: Regina Hölzl: Reliefs und Inschriftensteine des Alten Reiches II", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2464/"
         }, 
         {
-            "title_full": "\"Das einzige bekannte Beispiel seiner Art\". Zu Kopenhagen, Nationalmuseet, AAe 5 und pT\u00fcbingen 2000 und pBerlin 3161", 
+            "title_full": "\"Das einzige bekannte Beispiel seiner Art\". Zu Kopenhagen, Nationalmuseet, AAe 5 und pTübingen 2000 und pBerlin 3161", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1926/"
         }, 
         {
@@ -3332,7 +3332,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2145/"
         }, 
         {
-            "title_full": "Die wie Kraniche balzen. M\u00e4nnerphantasien zur Zeit Amenhoteps III. in Assiut", 
+            "title_full": "Die wie Kraniche balzen. Männerphantasien zur Zeit Amenhoteps III. in Assiut", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1015/"
         }, 
         {
@@ -3340,7 +3340,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2252/"
         }, 
         {
-            "title_full": "Ein historischer \u201eSitz im Leben\" f\u00fcr die Erz\u00e4hlung von Horus und Seth des Papyrus Chester Beatty I", 
+            "title_full": "Ein historischer „Sitz im Leben\" für die Erzählung von Horus und Seth des Papyrus Chester Beatty I", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1925/"
         }, 
         {
@@ -3348,11 +3348,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1938/"
         }, 
         {
-            "title_full": "Erneut der Name des fr\u00fcheren K\u00f6nigs in der Erz\u00e4hlung des Papyrus Vandier (recto 1,6)", 
+            "title_full": "Erneut der Name des früheren Königs in der Erzählung des Papyrus Vandier (recto 1,6)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1927/"
         }, 
         {
-            "title_full": "Hornung,Erik: Der \u00e4gyptische Mythos von der Himmelskuh. Eine \u00c4tiologie des Unvollkommenen. Unter Mitarbeit von A. Brodbeck, H. Schl\u00f6gl, E. Staehelin, ti. mit einem Beitrag von G. Fecht. Freiburg/Schweiz: Universit\u00e4tsverlag;; G\u00f6ttingen: Vandenhoeck & Ruprecht 1982", 
+            "title_full": "Hornung,Erik: Der ägyptische Mythos von der Himmelskuh. Eine Ätiologie des Unvollkommenen. Unter Mitarbeit von A. Brodbeck, H. Schlögl, E. Staehelin, ti. mit einem Beitrag von G. Fecht. Freiburg/Schweiz: Universitätsverlag;; Göttingen: Vandenhoeck & Ruprecht 1982", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1976/"
         }, 
         {
@@ -3360,11 +3360,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2146/"
         }, 
         {
-            "title_full": "Irmgard Heim/Helmut Satzinger, Stelen des Mittleren Reiches II. Einschlie\u00dflich der I. und II. Zwischenzeit. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, \u00c4gyptisch-Orientalische Abteilung, Lieferung 7. Mainz 1993; Eva Rogge, Statuen der 30. Dynastie und der Ptolem\u00e4isch-R\u00f6mischen Epoche. Mit einem Beitrag von Hermann Harrauer. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, \u00c4gyptisch-Orientalische Abteilung, Lieferung 11. Mainz: Philipp von Zabern 1999; Brigitte Saro\u0161-Deckert/Eva Rogge, Statuen des Alten Reiches. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, \u00c4gyptisch-Orientalische Abteilung, Lieferung 15. Mainz 1993; Michaela H\u00fcttner/Helmut Satzinger, Stelen, Inschriftsteine und Reliefs aus der Zeit der 18. Dynastie. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, \u00c4gyptisch-Orientalische Abteilung, Lieferung 16. Mainz 1999; Regina H\u00f6lzl, Reliefs und Inschriftensteine des Alten Reiches I. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum, Wien. \u00c4gyptisch-Orientalische Abteilung, Lieferung 18. Mainz 1999", 
+            "title_full": "Irmgard Heim/Helmut Satzinger, Stelen des Mittleren Reiches II. Einschließlich der I. und II. Zwischenzeit. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, Ägyptisch-Orientalische Abteilung, Lieferung 7. Mainz 1993; Eva Rogge, Statuen der 30. Dynastie und der Ptolemäisch-Römischen Epoche. Mit einem Beitrag von Hermann Harrauer. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, Ägyptisch-Orientalische Abteilung, Lieferung 11. Mainz: Philipp von Zabern 1999; Brigitte Saroš-Deckert/Eva Rogge, Statuen des Alten Reiches. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, Ägyptisch-Orientalische Abteilung, Lieferung 15. Mainz 1993; Michaela Hüttner/Helmut Satzinger, Stelen, Inschriftsteine und Reliefs aus der Zeit der 18. Dynastie. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum Wien, Ägyptisch-Orientalische Abteilung, Lieferung 16. Mainz 1999; Regina Hölzl, Reliefs und Inschriftensteine des Alten Reiches I. Corpus Antiquitatum Aegyptiacarum. Kunsthistorisches Museum, Wien. Ägyptisch-Orientalische Abteilung, Lieferung 18. Mainz 1999", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2010/"
         }, 
         {
-            "title_full": "Kinder und Kindg\u00f6tter im Alten \u00c4gypten", 
+            "title_full": "Kinder und Kindgötter im Alten Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1928/"
         }, 
         {
@@ -3372,27 +3372,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2087/"
         }, 
         {
-            "title_full": "Post ins Jenseits - Formular und Funktion alt\u00e4gyptischer Briefe an Tote", 
+            "title_full": "Post ins Jenseits - Formular und Funktion altägyptischer Briefe an Tote", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2463/"
         }, 
         {
-            "title_full": "Von der \u201eLoyalistischen Lehre\" zur \u201eLehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
+            "title_full": "Von der „Loyalistischen Lehre\" zur „Lehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1353/"
         }, 
         {
-            "title_full": "\u00c4gyptens Texte entdecken. Leben, Liebe, Weisheit, Tod", 
+            "title_full": "Ägyptens Texte entdecken. Leben, Liebe, Weisheit, Tod", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2086/"
         }, 
         {
-            "title_full": "\u00c4gyptisch", 
+            "title_full": "Ägyptisch", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1910/"
         }, 
         {
-            "title_full": "Untersuchungen zu den Sonnenheiligt\u00fcmern der 5. Dynastie: Bedeutung und Funktion eines singul\u00e4ren Tempeltyps im Alten Reich", 
+            "title_full": "Untersuchungen zu den Sonnenheiligtümern der 5. Dynastie: Bedeutung und Funktion eines singulären Tempeltyps im Alten Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/77/"
         }, 
         {
-            "title_full": "M\u00e4chtige K\u00f6nige und m\u00e4chtige Priester? Kommunikation und Legitimation im ptolem\u00e4ischen \u00c4gypten", 
+            "title_full": "Mächtige Könige und mächtige Priester? Kommunikation und Legitimation im ptolemäischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1405/"
         }, 
         {

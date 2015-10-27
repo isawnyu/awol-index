@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u041f\u0423\u0411\u041b\u0418\u041a\u0410\u0426\u0418\u0418 \u0426\u0415\u041d\u0422\u0420\u0410 \u0410\u041d\u0422\u0418\u041a\u041e\u0412\u0415\u0414\u0415\u041d\u0418\u042f \u0421\u041f\u0431\u0413\u0423. Open Access Classics publications of St. Petersburg State University.", 
+    "description": "ПУБЛИКАЦИИ ЦЕНТРА АНТИКОВЕДЕНИЯ СПбГУ. Open Access Classics publications of St. Petersburg State University.", 
     "domain": "centant.spbu.ru", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u041f\u0423\u0411\u041b\u0418\u041a\u0410\u0426\u0418\u0418 \u0426\u0415\u041d\u0422\u0420\u0410 \u0410\u041d\u0422\u0418\u041a\u041e\u0412\u0415\u0414\u0415\u041d\u0418\u042f \u0421\u041f\u0431\u0413\u0423", 
+        "title_full": "ПУБЛИКАЦИИ ЦЕНТРА АНТИКОВЕДЕНИЯ СПбГУ", 
         "url": "http://centant.spbu.ru/centrum/publik/kafsbor/index.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5306266642631865249", 
             "resource_date": "2013-04-26T16:25:20.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:52.920136"
+            "when": "2015-10-27T18:43:24.308833"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-classics-publications-of-st.html", 
             "resource_date": "2013-04-26T16:25:20.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:52.920148"
+            "when": "2015-10-27T18:43:24.308845"
         }
     ], 
     "publishers": [], 

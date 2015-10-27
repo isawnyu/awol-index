@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 9 September 2009. Updated 30 June 2015]. Damqatum: THE CEHAO NEWSLETTER/ EL BOLET\u00cdN DE NOTICIAS DEL CEHAO. Damqatum es el bolet\u00edn de noticias del CEHAO editado tanto en castellano como en ingl\u00e9s, con el que se busca acercar la comunidad cient\u00edfica al p\u00fablico en general, para lo cual se realizan entrevistas a destacados acad\u00e9micos y se promueven o informa sobre diversas actividades tanto de extensi\u00f3n como de grado y posgrado, como exposiciones, congresos, jornadas y seminarios. Se aceptan todo tipo de contribuciones y/o informaci\u00f3n sobre eventos destacados sobre la historia de antiguo Cercano Oriente. Damqatum is the CEHAO newsletter, edited in Spanish and English. The newsletter endeavors to present scholarly topics to the general public, publishing interviews to prestigious scholars and promoting or informing academic and extra-curricular activities, such as expositions, congresses, workshops and seminars. Damqatum accepts all kinds of contributions and/or information on important events of the history of the ancient Near East.", 
+    "description": "[First posted in AWOL 9 September 2009. Updated 30 June 2015]. Damqatum: THE CEHAO NEWSLETTER/ EL BOLETÍN DE NOTICIAS DEL CEHAO. Damqatum es el boletín de noticias del CEHAO editado tanto en castellano como en inglés, con el que se busca acercar la comunidad científica al público en general, para lo cual se realizan entrevistas a destacados académicos y se promueven o informa sobre diversas actividades tanto de extensión como de grado y posgrado, como exposiciones, congresos, jornadas y seminarios. Se aceptan todo tipo de contribuciones y/o información sobre eventos destacados sobre la historia de antiguo Cercano Oriente. Damqatum is the CEHAO newsletter, edited in Spanish and English. The newsletter endeavors to present scholarly topics to the general public, publishing interviews to prestigious scholars and promoting or informing academic and extra-curricular activities, such as expositions, congresses, workshops and seminars. Damqatum accepts all kinds of contributions and/or information on important events of the history of the ancient Near East.", 
     "domain": "www.uca.edu.ar", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1159558787763934508", 
             "resource_date": "2015-07-01T10:46:31.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:13.452446"
+            "when": "2015-10-27T18:37:14.865750"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-damqatum-cehao.html", 
             "resource_date": "2015-07-01T10:46:31.059-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:13.452462"
+            "when": "2015-10-27T18:37:14.865766"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Damqatum: THE CEHAO NEWSLETTER/ EL BOLET\u00cdN DE NOTICIAS DEL CEHAO", 
+    "title": "Damqatum: THE CEHAO NEWSLETTER/ EL BOLETÍN DE NOTICIAS DEL CEHAO", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

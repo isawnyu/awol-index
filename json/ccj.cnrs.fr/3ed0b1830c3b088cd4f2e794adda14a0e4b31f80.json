@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 11 July 2011. Updated 9 January 2013]. Etudes massali\u00e8tes. ISSN: 0986-3974.", 
+    "description": "[First posted in AWOL 11 July 2011. Updated 9 January 2013]. Etudes massaliètes. ISSN: 0986-3974.", 
     "domain": "ccj.cnrs.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Etudes massali\u00e8tes", 
+        "title_full": "Etudes massaliètes", 
         "url": "http://ccj.cnrs.fr/spip.php?rubrique83"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668002532828441034", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.358926"
+            "when": "2015-10-27T18:38:53.680186"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-etudes-massalietes.html", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.358938"
+            "when": "2015-10-27T18:38:53.680214"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cuadernos de prehistoria y arqueolog\u00eda de la Universidad de Granada. ISSN: 2174-8063. CPAG es una revista anual del Departamento de Prehistoria y Arqueolog\u00eda de la Universidad de Granada.", 
+    "description": "Cuadernos de prehistoria y arqueología de la Universidad de Granada. ISSN: 2174-8063. CPAG es una revista anual del Departamento de Prehistoria y Arqueología de la Universidad de Granada.", 
     "domain": "revistaseug.ugr.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Cuadernos de prehistoria y arqueolog\u00eda de la Universidad de Granada", 
+        "title_full": "Cuadernos de prehistoria y arqueología de la Universidad de Granada", 
         "url": "http://revistaseug.ugr.es/index.php/cpag/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6520429408420308452", 
             "resource_date": "2013-11-04T11:41:44.140-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:12.457653"
+            "when": "2015-10-27T18:44:50.890508"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/oern-access-journal-cuadernos-de.html", 
             "resource_date": "2013-11-04T11:41:44.140-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:12.457664"
+            "when": "2015-10-27T18:44:50.890522"
         }
     ], 
     "publishers": [], 

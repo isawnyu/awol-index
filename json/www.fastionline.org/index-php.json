@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3993621974004464558", 
             "resource_date": "2014-07-09T17:59:19.275-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:54.046720"
+            "when": "2015-10-27T18:41:15.990886"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/opoen-access-journal-fasti.html", 
             "resource_date": "2014-07-09T17:59:19.275-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:54.046736"
+            "when": "2015-10-27T18:41:15.990906"
         }
     ], 
     "publishers": [], 
@@ -137,19 +137,19 @@
             "url": "http://www.fastionline.org/index.php?&lang=it"
         }, 
         {
-            "title_full": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438", 
+            "title_full": "Македонски", 
             "url": "http://www.fastionline.org/index.php?&lang=mk"
         }, 
         {
-            "title_full": "rom\u00e2n\u0103", 
+            "title_full": "română", 
             "url": "http://www.fastionline.org/index.php?&lang=ro"
         }, 
         {
-            "title_full": "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438", 
+            "title_full": "Български", 
             "url": "http://www.fastionline.org/index.php?&lang=bg"
         }, 
         {
-            "title_full": "\u0421\u0440\u043f\u0441\u043a\u0438", 
+            "title_full": "Српски", 
             "url": "http://www.fastionline.org/index.php?&lang=sr"
         }, 
         {
@@ -157,15 +157,15 @@
             "url": "http://www.fastionline.org/index.php?&lang=hr"
         }, 
         {
-            "title_full": "Fran\u03c2ais", 
+            "title_full": "Franςais", 
             "url": "http://www.fastionline.org/index.php?&lang=fr"
         }, 
         {
-            "title_full": "\u0639\u0631\u0628\u064a", 
+            "title_full": "عربي", 
             "url": "http://www.fastionline.org/index.php?&lang=ar"
         }, 
         {
-            "title_full": "Sloven\u0161\u010dina", 
+            "title_full": "Slovenščina", 
             "url": "http://www.fastionline.org/index.php?&lang=sl"
         }, 
         {
@@ -177,11 +177,11 @@
             "url": "http://www.fastionline.org/index.php?&lang=me"
         }, 
         {
-            "title_full": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e", 
+            "title_full": "Українською", 
             "url": "http://www.fastionline.org/index.php?&lang=uk"
         }, 
         {
-            "title_full": "\u0420\u043e\u0441\u0441\u0438\u044e", 
+            "title_full": "Россию", 
             "url": "http://www.fastionline.org/index.php?&lang=ru"
         }, 
         {

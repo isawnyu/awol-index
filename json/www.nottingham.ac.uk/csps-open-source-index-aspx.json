@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1543596775542567517", 
             "resource_date": "2013-08-03T07:22:16.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:46.831592"
+            "when": "2015-10-27T18:37:50.748171"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/centre-for-spartan-and-peloponnesian.html", 
             "resource_date": "2013-08-03T07:22:16.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:46.831609"
+            "when": "2015-10-27T18:37:50.748188"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1543596775542567517", 
             "resource_date": "2013-08-03T07:22:16.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:46.836030"
+            "when": "2015-10-27T18:37:50.752833"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/centre-for-spartan-and-peloponnesian.html", 
             "resource_date": "2013-08-03T07:22:16.509-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:46.836044"
+            "when": "2015-10-27T18:37:50.752847"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:46.945691"
+            "when": "2015-10-27T18:37:50.856250"
         }
     ], 
     "publishers": [], 
@@ -188,7 +188,7 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/burton.pdf"
         }, 
         {
-            "title_full": "The display of individual status in the burials \u03bff Classical and Hellenistic Argos", 
+            "title_full": "The display of individual status in the burials οf Classical and Hellenistic Argos", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/dimakis.pdf"
         }, 
         {
@@ -232,11 +232,11 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/kalogeropoulos,k.pdf"
         }, 
         {
-            "title_full": "The moirolo\u00ef (dirge) of the southern Laconian basin and the historical troubles of the area", 
+            "title_full": "The moiroloï (dirge) of the southern Laconian basin and the historical troubles of the area", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/katsoulakos,d.pdf"
         }, 
         {
-            "title_full": "The relationship of the moirolo\u00ef singer with the deceased as a source of inspiration", 
+            "title_full": "The relationship of the moiroloï singer with the deceased as a source of inspiration", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/katsoulakos,t.pdf"
         }, 
         {
@@ -284,7 +284,7 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/papadimitriou.pdf"
         }, 
         {
-            "title_full": "\u2018Honourable death\u2019: the honours paid in ancient Sparta to dead war-heroes and mothers dying in child-birth", 
+            "title_full": "‘Honourable death’: the honours paid in ancient Sparta to dead war-heroes and mothers dying in child-birth", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/papapostolou.pdf"
         }, 
         {
@@ -296,7 +296,7 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/paradiso.pdf"
         }, 
         {
-            "title_full": "Agamemnon\u2019s death in Seneca", 
+            "title_full": "Agamemnon’s death in Seneca", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/paraskeviotis.pdf"
         }, 
         {
@@ -304,7 +304,7 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/pavlides.pdf"
         }, 
         {
-            "title_full": "A child\u2019s remembrance of living through the Nazi atrocity against the \u2018118 Spartans\u2019 in autumn 1943", 
+            "title_full": "A child’s remembrance of living through the Nazi atrocity against the ‘118 Spartans’ in autumn 1943", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/petrakis.pdf"
         }, 
         {
@@ -336,7 +336,7 @@
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/sgouritsa.pdf"
         }, 
         {
-            "title_full": "Exemplary deaths in the Peloponnese: Plutarch\u2019s study of death and its revision by Georgius Trapezuntius Cretensis", 
+            "title_full": "Exemplary deaths in the Peloponnese: Plutarch’s study of death and its revision by Georgius Trapezuntius Cretensis", 
             "url": "http://www.nottingham.ac.uk/csps/documents/honoringthedead/steiris.pdf"
         }, 
         {

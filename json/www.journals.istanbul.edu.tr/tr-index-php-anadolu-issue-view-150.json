@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First listed in AWOL 21 January 2012, updated (all links repaired) 13 February 2014]. Anadolu Ara\u015ft\u0131rmalar\u0131 - Jahrbuch f\u00fcr kleinasiatische Forschung. ISSN: 0569-9746.", 
+    "description": "[First listed in AWOL 21 January 2012, updated (all links repaired) 13 February 2014]. Anadolu Araştırmaları - Jahrbuch für kleinasiatische Forschung. ISSN: 0569-9746.", 
     "domain": "www.journals.istanbul.edu.tr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Anadolu Ara\u015ft\u0131rmalar\u0131 - Jahrbuch f\u00fcr kleinasiatische Forschung", 
+        "title_full": "Anadolu Araştırmaları - Jahrbuch für kleinasiatische Forschung", 
         "url": "http://www.journals.istanbul.edu.tr/tr/index.php/anadolu/index"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3420708436095734335", 
             "resource_date": "2014-02-13T11:15:40.996-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:24.762100"
+            "when": "2015-10-27T18:40:39.058709"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/newly-open-access-journal-anadolu.html", 
             "resource_date": "2014-02-13T11:15:40.996-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:24.762112"
+            "when": "2015-10-27T18:40:39.058724"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Say\u0131 18/1", 
+    "title": "Sayı 18/1", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

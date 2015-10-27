@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7048714528471495602", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.215956"
+            "when": "2015-10-27T18:45:21.606956"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/ancient-egyptian-astronomy.html", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.215972"
+            "when": "2015-10-27T18:45:21.606972"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7048714528471495602", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.220490"
+            "when": "2015-10-27T18:45:21.610680"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/ancient-egyptian-astronomy.html", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.220511"
+            "when": "2015-10-27T18:45:21.610694"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:40.239549"
+            "when": "2015-10-27T18:45:21.626811"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7048714528471495602", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.229240"
+            "when": "2015-10-27T18:45:21.616935"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/ancient-egyptian-astronomy.html", 
             "resource_date": "2014-02-06T13:43:32.312-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.229257"
+            "when": "2015-10-27T18:45:21.616947"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:40.242802"
+            "when": "2015-10-27T18:45:21.630971"
         }
     ], 
     "publishers": [], 

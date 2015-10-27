@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Atlas arch\u00e9ologique de l'Alg\u00e9rie. Gsell, St\u00e9phane. 1864-1932: Atlas arch\u00e9ologique de l'Alg\u00e9rie: \u00e9dition sp\u00e9ciale des cartes au 200. 000e du Service G\u00e9ographique de l'Arm\u00e9e / avec un texte explicatif r\u00e9dig\u00e9 par St\u00e9phane Gsell. Texte. Alger: Paris 1911.", 
+    "description": "Atlas archéologique de l'Algérie. Gsell, Stéphane. 1864-1932: Atlas archéologique de l'Algérie: édition spéciale des cartes au 200. 000e du Service Géographique de l'Armée / avec un texte explicatif rédigé par Stéphane Gsell. Texte. Alger: Paris 1911.", 
     "domain": "arachne.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Atlas arch\u00e9ologique de l'Alg\u00e9rie", 
+        "title_full": "Atlas archéologique de l'Algérie", 
         "url": "http://arachne.uni-koeln.de/books/Gsell1911Text"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8662611628771135121", 
             "resource_date": "2012-07-16T11:33:45.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:47.086658"
+            "when": "2015-10-27T18:48:42.248199"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-lalgerie.html", 
             "resource_date": "2012-07-16T11:33:45.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:47.086675"
+            "when": "2015-10-27T18:48:42.248216"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8662611628771135121", 
             "resource_date": "2012-07-16T11:33:45.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:47.089155"
+            "when": "2015-10-27T18:48:42.250742"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-lalgerie.html", 
             "resource_date": "2012-07-16T11:33:45.433-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:47.089168"
+            "when": "2015-10-27T18:48:42.250755"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:47.090611"
+            "when": "2015-10-27T18:48:42.252637"
         }
     ], 
     "publishers": [], 
@@ -143,11 +143,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Atlas arch\u00e9ologique de l'Alg\u00e9rie", 
+            "title_full": "Atlas archéologique de l'Algérie", 
             "url": "http://arachne.uni-koeln.de/books/Gsell1911Text"
         }
     ], 
-    "title": "Atlas arch\u00e9ologique de l'Alg\u00e9rie", 
+    "title": "Atlas archéologique de l'Algérie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

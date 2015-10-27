@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "A New Interpretation of the Cone on the Head in New Kingdom Tomb Scenes. Eleanor B. Simmance. To reference this article we suggest: Simmance, E. B. 2013. \u2018Review of J. Padgham. A New Interpretation of the Cone on the Head in New Kingdom Tomb Scenes. BAR International Series. Archaeopress: Oxford. 2012. Birmingham Egyptology Journal 1: 19-21.", 
+    "description": "A New Interpretation of the Cone on the Head in New Kingdom Tomb Scenes. Eleanor B. Simmance. To reference this article we suggest: Simmance, E. B. 2013. ‘Review of J. Padgham. A New Interpretation of the Cone on the Head in New Kingdom Tomb Scenes. BAR International Series. Archaeopress: Oxford. 2012. Birmingham Egyptology Journal 1: 19-21.", 
     "domain": "birminghamegyptology.co.uk", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.791457"
+            "when": "2015-10-27T18:49:20.363432"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.791469"
+            "when": "2015-10-27T18:49:20.363446"
         }
     ], 
     "publishers": [], 

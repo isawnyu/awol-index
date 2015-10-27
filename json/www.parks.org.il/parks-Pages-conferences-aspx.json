@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969807584108974061", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.675729"
+            "when": "2015-10-27T18:45:19.914230"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/online-proceedings-water-in-antiquity.html", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.675752"
+            "when": "2015-10-27T18:45:19.914246"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6969807584108974061", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.679392"
+            "when": "2015-10-27T18:45:19.916606"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/online-proceedings-water-in-antiquity.html", 
             "resource_date": "2013-08-20T14:06:04.899-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.679415"
+            "when": "2015-10-27T18:45:19.916620"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.740653"
+            "when": "2015-10-27T18:45:19.966065"
         }
     ], 
     "publishers": [], 
@@ -158,7 +158,7 @@
             "url": "http://www.parks.org.il/sigalit/conferences/The_aqueducts_of_Tralleis_Israel.pdf"
         }, 
         {
-            "title_full": "\u200b When Ceres commands her nymphs - An investigation of the relation between mills and aqueducts in the antique mediterranean", 
+            "title_full": "​ When Ceres commands her nymphs - An investigation of the relation between mills and aqueducts in the antique mediterranean", 
             "url": "http://www.parks.org.il/sigalit/conferences/When_Ceres_commands.pdf"
         }, 
         {
@@ -174,7 +174,7 @@
             "url": "http://www.parks.org.il/sigalit/conferences/Touring_Israel%27s_ancient_water_systems_2_-2.pdf"
         }, 
         {
-            "title_full": "Das Heer und die Infrastruktur von St\u00e4dten in der r\u00f6mischen Kaiserzeit", 
+            "title_full": "Das Heer und die Infrastruktur von Städten in der römischen Kaiserzeit", 
             "url": "http://www.parks.org.il/sigalit/conferences/Das_Heer_und_die_Infrastruktur_von_St%C3%A4dten_in_der_r%C3%B6mischen_Kaiserzeit.__Werner_Eck.ppsx"
         }, 
         {
@@ -182,7 +182,7 @@
             "url": "http://www.parks.org.il/sigalit/conferences/Inverted%20siphon%20pipeline%20to%20Bet%20Yerah3.ppsx"
         }, 
         {
-            "title_full": "The \"\u2019Otzar\" in Ancient Ritual Baths", 
+            "title_full": "The \"’Otzar\" in Ancient Ritual Baths", 
             "url": "http://www.parks.org.il/sigalit/conferences/The_Otzar_in_Ancient_Ritual_Baths_-Yonatan_Adler.pps"
         }, 
         {
@@ -206,7 +206,7 @@
             "url": "http://www.parks.org.il/sigalit/conferences/MURPHY.pdf"
         }, 
         {
-            "title_full": "Die Datierung der r\u00f6mischen Kaikos- und Madradag- Kanalleitungen in Pergamon", 
+            "title_full": "Die Datierung der römischen Kaikos- und Madradag- Kanalleitungen in Pergamon", 
             "url": "http://www.parks.org.il/sigalit/conferences/DIEDAT.pdf"
         }, 
         {
@@ -222,7 +222,7 @@
             "url": "http://www.parks.org.il/sigalit/conferences/SinterDeposits.pdf"
         }, 
         {
-            "title_full": "\u200b The Atlas Project of Roman Aqueducts (ROMAQ)", 
+            "title_full": "​ The Atlas Project of Roman Aqueducts (ROMAQ)", 
             "url": "http://www.parks.org.il/sigalit/conferences/ROMAQ_cc.pdf"
         }, 
         {

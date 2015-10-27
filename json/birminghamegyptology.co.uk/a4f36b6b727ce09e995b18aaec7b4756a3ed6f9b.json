@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gabrielle Heffernan. To reference this article we suggest: Heffernan, G. 2013. \u2018Review of M. Raven, V. Verschoor, M. Vugts and R. Walsem. The Memphite Tomb of Horemheb. Commander in Chief of Tutankhamun. V. The forecourt and the area south of the tomb with some notes on the tomb of Tia. Brepols 2011. Birmingham Egyptology Journal 1: 22-24.", 
+    "description": "Gabrielle Heffernan. To reference this article we suggest: Heffernan, G. 2013. ‘Review of M. Raven, V. Verschoor, M. Vugts and R. Walsem. The Memphite Tomb of Horemheb. Commander in Chief of Tutankhamun. V. The forecourt and the area south of the tomb with some notes on the tomb of Tia. Brepols 2011. Birmingham Egyptology Journal 1: 22-24.", 
     "domain": "birminghamegyptology.co.uk", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9163183946628247604", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.794524"
+            "when": "2015-10-27T18:49:20.366937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/coming-soon-birmingham-egyptology-journa.html", 
             "resource_date": "2014-07-20T17:12:24.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.794535"
+            "when": "2015-10-27T18:49:20.366950"
         }
     ], 
     "publishers": [], 

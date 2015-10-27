@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Klinkott, H. (Hrsg. ): Anatolien im Lichte kultureller Wechselwirkungen. Akkulturationsph\u00e4nomene in Kleinasien und seinen Nachbarregionen w\u00e4hrend des 2. und 1. Jahrtausends v. Chr. T\u00fcbingen 2001, pp. 53-66. Faist, Betina (2002).", 
+    "description": "In: Klinkott, H. (Hrsg. ): Anatolien im Lichte kultureller Wechselwirkungen. Akkulturationsphänomene in Kleinasien und seinen Nachbarregionen während des 2. und 1. Jahrtausends v. Chr. Tübingen 2001, pp. 53-66. Faist, Betina (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:33.822204"
+            "when": "2015-10-27T18:46:19.495079"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:33.822222"
+            "when": "2015-10-27T18:46:19.495095"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Handelsbeziehungen zwischen Assyrien und Anatolien in der zweiten H\u00e4lfte des 2. Jt.s v. Chr., unter besonderer Ber\u00fccksichtigung des Metallhandels", 
+    "title": "Die Handelsbeziehungen zwischen Assyrien und Anatolien in der zweiten Hälfte des 2. Jt.s v. Chr., unter besonderer Berücksichtigung des Metallhandels", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

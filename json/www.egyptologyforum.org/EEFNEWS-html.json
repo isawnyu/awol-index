@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8807732743302673207", 
             "resource_date": "2011-08-08T12:03:24.826-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:52.566530"
+            "when": "2015-10-27T18:48:47.956806"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-eef-news.html", 
             "resource_date": "2011-08-08T12:03:24.826-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:52.566547"
+            "when": "2015-10-27T18:48:47.956822"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8807732743302673207", 
             "resource_date": "2011-08-08T12:03:24.826-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:52.569622"
+            "when": "2015-10-27T18:48:47.960299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-eef-news.html", 
             "resource_date": "2011-08-08T12:03:24.826-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:52.569634"
+            "when": "2015-10-27T18:48:47.960315"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:52.574564"
+            "when": "2015-10-27T18:48:47.966134"
         }
     ], 
     "publishers": [], 

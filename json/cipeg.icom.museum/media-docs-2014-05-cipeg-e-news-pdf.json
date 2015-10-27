@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "CIPEG E-News. The \"Comit\u00e9 international pour l\u2019\u00c9gyptologie\" (CIPEG) is one of 30 International Committees of the International Council of Museums (ICOM). The scope of CIPEG deals with the international representation of Egyptian collections and museums in a worldwide community. CIPEG provides a unique panel for museum professionals and scholars who deal with Ancient Egyptian heritage. The Mission of CIPEG is to promote collaboration among colleagues for the study, preservation, and presentation of Egyptian collections, monuments and sites. In addition, it supports collections of Egyptian art and archaeology, including the heritage of the Ancient Sudan, with a special focus on smaller collections, within the framework of ICOM and in close co-operation with the International Association of Egyptologists (IAE). CIPEG also seeks to promote collaboration among museums, universities and research institutes as well as supplying partnership opportunities, sharing resources, knowledge and experience for an international forum, and holding an annual conference. CIPEG frames resolutions and policies to promote actions and, if requested, advises museum staff, scholars or institutions.", 
+    "description": "CIPEG E-News. The \"Comité international pour l’Égyptologie\" (CIPEG) is one of 30 International Committees of the International Council of Museums (ICOM). The scope of CIPEG deals with the international representation of Egyptian collections and museums in a worldwide community. CIPEG provides a unique panel for museum professionals and scholars who deal with Ancient Egyptian heritage. The Mission of CIPEG is to promote collaboration among colleagues for the study, preservation, and presentation of Egyptian collections, monuments and sites. In addition, it supports collections of Egyptian art and archaeology, including the heritage of the Ancient Sudan, with a special focus on smaller collections, within the framework of ICOM and in close co-operation with the International Association of Egyptologists (IAE). CIPEG also seeks to promote collaboration among museums, universities and research institutes as well as supplying partnership opportunities, sharing resources, knowledge and experience for an international forum, and holding an annual conference. CIPEG frames resolutions and policies to promote actions and, if requested, advises museum staff, scholars or institutions.", 
     "domain": "cipeg.icom.museum", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4683372544692247230", 
             "resource_date": "2015-03-19T10:58:31.896-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:41.385745"
+            "when": "2015-10-27T18:42:08.133603"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-cipeg-e-news.html", 
             "resource_date": "2015-03-19T10:58:31.896-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:41.385757"
+            "when": "2015-10-27T18:42:08.133616"
         }
     ], 
     "publishers": [], 

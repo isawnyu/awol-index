@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Posluschny, A. and Lambers, K. and Herzog, I. (Hrsgg. ): Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, 2. -6. April 2007. Koll. Vor- u. Fr\u00fchgesch. 10. Bonn 2008 8 (Abstract). Fabricius, Ernst (1884).", 
+    "description": "In: Posluschny, A. and Lambers, K. and Herzog, I. (Hrsgg. ): Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, 2. -6. April 2007. Koll. Vor- u. Frühgesch. 10. Bonn 2008 8 (Abstract). Fabricius, Ernst (1884).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:34.736005"
+            "when": "2015-10-27T18:48:28.222766"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:34.736021"
+            "when": "2015-10-27T18:48:28.222791"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Pushing the archaeological interpretation by analysing workflow protocols: the variable transparency image stacker and DATARCH\u00a9 archaeological data management system", 
+    "title": "Pushing the archaeological interpretation by analysing workflow protocols: the variable transparency image stacker and DATARCH© archaeological data management system", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

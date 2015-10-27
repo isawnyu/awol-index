@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PHILOCTETES - \u03a6\u0399\u039b\u039f\u039a\u03a4\u0397\u03a4\u0397\u03a3N. Notre site met progressivement en ligne des textes qui fondent notre culture. Il s'agit d'oeuvres qui sont \u00e0 l'origine de la science, de la politique et de la litt\u00e9rature. Nous publions les textes originaux en grec et en latin avec leurs traductions fran\u00e7aises, anglaises et allemandes. This site gives reference texts in their original languages (Greek and Latin) and in English and French translations. On the screen the original texts and translations are shown simultaneously. In English: THALES: (Greek, English, French). ANAXIMANDER: (Greek, English, French). HERACLITUS: (Greek, English, French). PARMENIDES: (Greek, English, French). ZENO: (Greek, English, French). EMPEDOCLES: (Greek, English, French) New In French: EUCLID: Elements. HOMER: Iliad. HOMER: Odysseus. AESCHYLUS: Persians (interlinear). PLATO: Phaidrus. Dictionary of Greek Gods.", 
+    "description": "PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣN. Notre site met progressivement en ligne des textes qui fondent notre culture. Il s'agit d'oeuvres qui sont à l'origine de la science, de la politique et de la littérature. Nous publions les textes originaux en grec et en latin avec leurs traductions françaises, anglaises et allemandes. This site gives reference texts in their original languages (Greek and Latin) and in English and French translations. On the screen the original texts and translations are shown simultaneously. In English: THALES: (Greek, English, French). ANAXIMANDER: (Greek, English, French). HERACLITUS: (Greek, English, French). PARMENIDES: (Greek, English, French). ZENO: (Greek, English, French). EMPEDOCLES: (Greek, English, French) New In French: EUCLID: Elements. HOMER: Iliad. HOMER: Odysseus. AESCHYLUS: Persians (interlinear). PLATO: Phaidrus. Dictionary of Greek Gods.", 
     "domain": "philoctetes.free.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "PHILOCTETES - \u03a6\u0399\u039b\u039f\u039a\u03a4\u0397\u03a4\u0397\u03a3", 
+        "title_full": "PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣ", 
         "url": "http://philoctetes.free.fr/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3522937478250055218", 
             "resource_date": "2014-03-24T06:33:32.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.564629"
+            "when": "2015-10-27T18:40:44.586322"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/philoctetes.html", 
             "resource_date": "2014-03-24T06:33:32.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.564641"
+            "when": "2015-10-27T18:40:44.586339"
         }
     ], 
     "publishers": [], 

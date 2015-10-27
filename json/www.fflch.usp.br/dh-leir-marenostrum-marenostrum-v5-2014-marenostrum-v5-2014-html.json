@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mare Nostrum. Estudos sobre o Mediterr\u00e2neo Antigo. ISSN: 2177-4218. MARE NOSTRUM - Hist\u00f3ria e Integra\u00e7\u00e3o no Mediterr\u00e2neo Antigo \u00e9 uma revista de estudos sobre as sociedades antigas na regi\u00e3o do Mar Mediterr\u00e2neo. Esta revista \u00e9 organizada pelo Laborat\u00f3rio de Estudos do Imp\u00e9rio Romano - Mediterr\u00e2neo Antigo/ Universidade de S\u00e3o Paulo.", 
+    "description": "Mare Nostrum. Estudos sobre o Mediterrâneo Antigo. ISSN: 2177-4218. MARE NOSTRUM - História e Integração no Mediterrâneo Antigo é uma revista de estudos sobre as sociedades antigas na região do Mar Mediterrâneo. Esta revista é organizada pelo Laboratório de Estudos do Império Romano - Mediterrâneo Antigo/ Universidade de São Paulo.", 
     "domain": "www.fflch.usp.br", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2511790614469402249", 
             "resource_date": "2015-01-20T15:55:31.766-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.699557"
+            "when": "2015-10-27T18:38:46.785896"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-mare-nostrum.html", 
             "resource_date": "2015-01-20T15:55:31.766-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.699568"
+            "when": "2015-10-27T18:38:46.785911"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "N\u00famero 5", 
+    "title": "Número 5", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

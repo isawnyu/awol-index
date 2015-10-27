@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kessler, Dieter and Schulz, Regine (Hrsgg. ): Gedenkschrift f\u00fcr Winfried Barta (M\u00fcnchner \u00c4gyptologische Untersuchungen 4). M\u00fcnchen 1995, pp. 37-48. Altenm\u00fcller, Hartwig (1967).", 
+    "description": "In: Kessler, Dieter and Schulz, Regine (Hrsgg. ): Gedenkschrift für Winfried Barta (Münchner Ägyptologische Untersuchungen 4). München 1995, pp. 37-48. Altenmüller, Hartwig (1967).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.555573"
+            "when": "2015-10-27T18:39:57.903915"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.555593"
+            "when": "2015-10-27T18:39:57.903932"
         }
     ], 
     "publishers": [], 

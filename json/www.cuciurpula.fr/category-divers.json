@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Patrimoine B\u00e2ti.", 
+    "description": "Patrimoine Bâti.", 
     "domain": "www.cuciurpula.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrh\u00e9nienne", 
+        "title_full": "Cuciurpula.fr: Le portail de la Protohistoire corse et tyrrhénienne", 
         "url": "http://www.cuciurpula.fr/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2685320477009889457", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.774083"
+            "when": "2015-10-27T18:38:54.145634"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/cuciurpulafr-le-portail-de-la.html", 
             "resource_date": "2013-03-16T21:11:14.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.774095"
+            "when": "2015-10-27T18:38:54.145657"
         }
     ], 
     "publishers": [], 

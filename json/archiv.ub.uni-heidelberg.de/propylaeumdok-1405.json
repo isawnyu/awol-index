@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift f\u00fcr J\u00fcrgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 97-117. Wipszycka, Ewa (2011).", 
+    "description": "In: Hartmann, Andreas and Weber, Gregor (Hrsgg. ): Zwischen Antike und Moderne. Festschrift für Jürgen Malitz zum 65. Geburtstag. Speyer 2012, pp. 97-117. Wipszycka, Ewa (2011).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:03.651210"
+            "when": "2015-10-27T18:40:15.551561"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:03.651227"
+            "when": "2015-10-27T18:40:15.551577"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "M\u00e4chtige K\u00f6nige und m\u00e4chtige Priester? Kommunikation und Legitimation im ptolem\u00e4ischen \u00c4gypten", 
+    "title": "Mächtige Könige und mächtige Priester? Kommunikation und Legitimation im ptolemäischen Ägypten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

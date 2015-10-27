@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Forum Classicum: Zeitschrift f\u00fcr die F\u00e4cher Latein und Griechisch an Schulen und Universit\u00e4ten", 
+        "title_full": "Forum Classicum: Zeitschrift für die Fächer Latein und Griechisch an Schulen und Universitäten", 
         "url": "http://www.altphilologenverband.de/index.php?option=com_content&view=article&id=34&Itemid=39"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-276924240552370268", 
             "resource_date": "2015-02-27T13:43:45.541-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:48.511594"
+            "when": "2015-10-27T18:38:56.992202"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-forum-classicum.html", 
             "resource_date": "2015-02-27T13:43:45.541-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:48.511609"
+            "when": "2015-10-27T18:38:56.992213"
         }
     ], 
     "publishers": [], 

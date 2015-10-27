@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 38 (1980), pp. 33-43. Burkard, G\u00fcnter (1979).", 
+    "description": "In: Göttinger Miszellen, 38 (1980), pp. 33-43. Burkard, Günter (1979).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:51.497072"
+            "when": "2015-10-27T18:40:02.907298"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:51.497088"
+            "when": "2015-10-27T18:40:02.907315"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zwei weitere Belege, f\u00fcr die Lehre Amenemhets I. f\u00fcr seinen Sohn", 
+    "title": "Zwei weitere Belege, für die Lehre Amenemhets I. für seinen Sohn", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

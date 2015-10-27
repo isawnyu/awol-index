@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u041d\u0418\u0428 \u0418 \u0412\u0418\u0417\u0410\u041d\u0422\u0418\u0408\u0410 -.", 
+    "description": "НИШ И ВИЗАНТИЈА -.", 
     "domain": "www.ni.rs", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3270757214667374178", 
             "resource_date": "2012-11-15T13:03:35.901-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.369679"
+            "when": "2015-10-27T18:40:20.561262"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-nis-and-byzantium.html", 
             "resource_date": "2012-11-15T13:03:35.901-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.369694"
+            "when": "2015-10-27T18:40:20.561278"
         }
     ], 
     "publishers": [], 
@@ -83,7 +83,7 @@
             "url": "http://www.ni.rs/byzantium/english.php"
         }
     ], 
-    "title": "\u041d\u0418\u0428 \u0418 \u0412\u0418\u0417\u0410\u041d\u0422\u0418\u0408\u0410", 
+    "title": "НИШ И ВИЗАНТИЈА", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Lullies, R. and Schiering, W. (Hrsgg. ): Arch\u00e4ologenbildnisse. Portr\u00e4ts und Kurzbiographien von Klassischen Arch\u00e4ologen in deutscher Sprache. Berlin 1988, pp. 103-105. Stupperich, Reinhard (1984).", 
+    "description": "In: Lullies, R. and Schiering, W. (Hrsgg. ): Archäologenbildnisse. Porträts und Kurzbiographien von Klassischen Archäologen in deutscher Sprache. Berlin 1988, pp. 103-105. Stupperich, Reinhard (1984).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:41.127235"
+            "when": "2015-10-27T18:48:35.450551"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:41.127251"
+            "when": "2015-10-27T18:48:35.450567"
         }
     ], 
     "publishers": [], 

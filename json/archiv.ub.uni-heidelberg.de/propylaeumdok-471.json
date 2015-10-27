@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: W\u00fcrzburger Jahrb\u00fccher f\u00fcr die Altertumswissenschaft, N. F. 2 (1996), pp. 129-151. M\u00f6llendorff, Peter von (2000).", 
+    "description": "In: Würzburger Jahrbücher für die Altertumswissenschaft, N. F. 2 (1996), pp. 129-151. Möllendorff, Peter von (2000).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.220322"
+            "when": "2015-10-27T18:48:49.993167"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.220336"
+            "when": "2015-10-27T18:48:49.993181"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Aischylon d'aresomai. Der \u2018neue Aischylos\u2019 in den Fr\u00f6schen des Aristophanes", 
+    "title": "Aischylon d'aresomai. Der ‘neue Aischylos’ in den Fröschen des Aristophanes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

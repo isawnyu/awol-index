@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pubblicazioni del Dipartimento di Beni Culturali dell'Universit\u00e0 di Lecce - Settore Storico-Archeologico.", 
+    "description": "Pubblicazioni del Dipartimento di Beni Culturali dell'Università di Lecce - Settore Storico-Archeologico.", 
     "domain": "siba-ese.unisalento.it", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Pubblicazioni del Dipartimento di Beni Culturali dell'Universit\u00e0 di Lecce - Settore Storico-Archeologico", 
+        "title_full": "Pubblicazioni del Dipartimento di Beni Culturali dell'Università di Lecce - Settore Storico-Archeologico", 
         "url": "http://siba-ese.unisalento.it/index.php/pubbenicult"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1179484065408397169", 
             "resource_date": "2013-02-15T17:04:58.678-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:14.482050"
+            "when": "2015-10-27T18:37:15.936954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-pubblicazioni-del.html", 
             "resource_date": "2013-02-15T17:04:58.678-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:14.482061"
+            "when": "2015-10-27T18:37:15.936968"
         }
     ], 
     "publishers": [], 

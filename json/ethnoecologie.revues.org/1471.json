@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.639872"
+            "when": "2015-10-27T18:47:51.687563"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.639884"
+            "when": "2015-10-27T18:47:51.687574"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Julien Charbonnier La ma\u00eetrise du temps d\u2019irrigation au sein des oasis aliment\u00e9es par des afl\u00e2j [Texte int\u00e9gral] \u00c9tude de cas \u00e0 Adam (Sultanat d\u2019Oman) The management of irrigation time in the oasis irrigated by a falaj : case study in Adam (Sultanate of Oman)", 
+    "title": "Julien Charbonnier La maîtrise du temps d’irrigation au sein des oasis alimentées par des aflâj [Texte intégral] Étude de cas à Adam (Sultanat d’Oman) The management of irrigation time in the oasis irrigated by a falaj : case study in Adam (Sultanate of Oman)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

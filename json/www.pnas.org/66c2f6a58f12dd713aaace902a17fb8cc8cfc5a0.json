@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9170651495898656295", 
             "resource_date": "2014-05-15T10:57:32.954-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:22.231829"
+            "when": "2015-10-27T18:49:20.740871"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/one-off-journal-issues-critical.html", 
             "resource_date": "2014-05-15T10:57:32.954-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:22.231845"
+            "when": "2015-10-27T18:49:20.740888"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9170651495898656295", 
             "resource_date": "2014-05-15T10:57:32.954-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:22.234769"
+            "when": "2015-10-27T18:49:20.744006"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/one-off-journal-issues-critical.html", 
             "resource_date": "2014-05-15T10:57:32.954-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:22.234783"
+            "when": "2015-10-27T18:49:20.744021"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:22.286289"
+            "when": "2015-10-27T18:49:20.806387"
         }
     ], 
     "publishers": [], 

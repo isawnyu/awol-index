@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arkeometri Sonu\u00e7lar\u0131 Toplant\u0131lar\u0131.", 
+    "description": "Arkeometri Sonuçları Toplantıları.", 
     "domain": "www.kulturvarliklari.gov.tr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4900799395529718215", 
             "resource_date": "2014-10-24T12:08:14.352-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:15.146898"
+            "when": "2015-10-27T18:42:44.703433"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/seven-open-access-turkish.html", 
             "resource_date": "2014-10-24T12:08:14.352-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:15.146909"
+            "when": "2015-10-27T18:42:44.703445"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ara\u015ft\u0131rma Sonu\u00e7lar\u0131 Toplant\u0131lar\u0131", 
+    "title": "Araştırma Sonuçları Toplantıları", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

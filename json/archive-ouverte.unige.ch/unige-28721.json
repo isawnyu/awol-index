@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:18.729044"
+            "when": "2015-10-27T18:43:51.639297"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:18.729057"
+            "when": "2015-10-27T18:43:51.639312"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "La sculpture grecque originale dans les collections europ\u00e9ennes - butin de guerre, objet de collectionnisme et embl\u00e8me du philhell\u00e9nisme", 
+    "title": "La sculpture grecque originale dans les collections européennes - butin de guerre, objet de collectionnisme et emblème du philhellénisme", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

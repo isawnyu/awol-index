@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6092475039250304625", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.496251"
+            "when": "2015-10-27T18:44:19.309131"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/bilddatenbank-des-gustaf-dalman.html", 
             "resource_date": "2014-05-12T15:17:11.025-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.496266"
+            "when": "2015-10-27T18:44:19.309142"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Geb\u00e4ude allgemein", 
+    "title": "Gebäude allgemein", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

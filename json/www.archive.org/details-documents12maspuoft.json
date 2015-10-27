@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les Temples immerg\u00e9s de la Nubie (at the Internet Archive).", 
+    "description": "Les Temples immergés de la Nubie (at the Internet Archive).", 
     "domain": "www.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1842899318967787609", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.129968"
+            "when": "2015-10-27T18:38:07.542740"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/les-temples-immerges-de-la-nubia-online.html", 
             "resource_date": "2014-06-16T09:55:56.827-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.129979"
+            "when": "2015-10-27T18:38:07.542752"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Gaston Maspero, Documents sur l'\u00e9tat ancien des monuments,vol. 1, fascicle 2 , Le Caire, 1920", 
+    "title": "Gaston Maspero, Documents sur l'état ancien des monuments,vol. 1, fascicle 2 , Le Caire, 1920", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

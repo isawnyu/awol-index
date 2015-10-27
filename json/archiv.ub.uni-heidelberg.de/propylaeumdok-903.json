@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Paschoud, F. and Ehlers, W. W. (Hrsgg. ): La biographie antique. Entretiens sur l\u2019antiquit\u00e9 classique. Tome XLIV. Vandoevres / Gen\u00e8ves 1998, pp. 7-32. Maul, Stefan (2005).", 
+    "description": "In: Paschoud, F. and Ehlers, W. W. (Hrsgg. ): La biographie antique. Entretiens sur l’antiquité classique. Tome XLIV. Vandoevres / Genèves 1998, pp. 7-32. Maul, Stefan (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.426534"
+            "when": "2015-10-27T18:46:21.169477"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.426549"
+            "when": "2015-10-27T18:46:21.169493"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Altorientalische Tatenberichte mit (auto)biographischen Z\u00fcgen", 
+    "title": "Altorientalische Tatenberichte mit (auto)biographischen Zügen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

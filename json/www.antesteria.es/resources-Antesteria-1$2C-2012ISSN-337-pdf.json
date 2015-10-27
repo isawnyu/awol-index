@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "L\u00d3PEZ S\u00c1NCHEZ, Fernando.", 
+    "description": "LÓPEZ SÁNCHEZ, Fernando.", 
     "domain": "www.antesteria.es", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-204988945209195387", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.479610"
+            "when": "2015-10-27T18:38:18.460681"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-antesteria.html", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.479623"
+            "when": "2015-10-27T18:38:18.460695"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "El Pr\u00f3ximo Oriente, \u00c1frica y la Pen\u00ednsula Ib\u00e9rica en la Antig\u00fcedad", 
+    "title": "El Próximo Oriente, África y la Península Ibérica en la Antigüedad", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

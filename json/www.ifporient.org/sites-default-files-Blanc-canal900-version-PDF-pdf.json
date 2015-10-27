@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La mutation des pratiques sociales avec l\u2019emergence des grandes surfaces commerciales \u00e0 Beyrouth. Ninette Fadel Nasr (DGU Beyrouth).", 
+    "description": "La mutation des pratiques sociales avec l’emergence des grandes surfaces commerciales à Beyrouth. Ninette Fadel Nasr (DGU Beyrouth).", 
     "domain": "www.ifporient.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8140875634965002367", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.688169"
+            "when": "2015-10-27T18:47:01.254691"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-villes-et.html", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.688180"
+            "when": "2015-10-27T18:47:01.254705"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "D\u00e9veloppement et politique d\u2019irrigation : analyse d\u2019un am\u00e9nagement hydraulique dans la plaine de la B\u00e9kaa Pierre Blanc (IAM-CIHEAM)", 
+    "title": "Développement et politique d’irrigation : analyse d’un aménagement hydraulique dans la plaine de la Békaa Pierre Blanc (IAM-CIHEAM)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

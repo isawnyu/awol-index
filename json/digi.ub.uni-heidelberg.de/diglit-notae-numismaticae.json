@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Notae Numismaticae - Zapiski Numizmatyczne. ISSN:1426-5435. Notae Numismaticae - Zapiski Numizmatyczne ist eine Jahresschrift, die seit 1996 vom Nationalmuseum Krakau und der Numismatik-Fachgruppe der Arch\u00e4ologischen Kommission der Zweigstelle der polnischen Akademie der Wissenschaften in Krakau herausgegeben wird. Sie ist in erster Linie der allgemeinen Numismatik gewidmet, enth\u00e4lt aber gelegentlich auch Texte zu anderen Themen, z. B. zur Glyptik. Ver\u00f6ffentlicht werden Artikel, Nachrichten und Rezensionen, wobei der Jahresbericht der Numismatischen Abteilung des Nationalmuseums Krakau und der Numismatik-Fachgruppe der Arch\u00e4ologischen Kommission wesentlicher Bestandteil ist. Texte zu international relevanten Themen werden auf Englisch, Franz\u00f6sisch, Deutsch oder Italienisch publiziert, diejenigen zu spezifisch polnischen Themen auf Polnisch mit Zusammenfassungen in englischer Sprache. 2. 1997.", 
+    "description": "Notae Numismaticae - Zapiski Numizmatyczne. ISSN:1426-5435. Notae Numismaticae - Zapiski Numizmatyczne ist eine Jahresschrift, die seit 1996 vom Nationalmuseum Krakau und der Numismatik-Fachgruppe der Archäologischen Kommission der Zweigstelle der polnischen Akademie der Wissenschaften in Krakau herausgegeben wird. Sie ist in erster Linie der allgemeinen Numismatik gewidmet, enthält aber gelegentlich auch Texte zu anderen Themen, z. B. zur Glyptik. Veröffentlicht werden Artikel, Nachrichten und Rezensionen, wobei der Jahresbericht der Numismatischen Abteilung des Nationalmuseums Krakau und der Numismatik-Fachgruppe der Archäologischen Kommission wesentlicher Bestandteil ist. Texte zu international relevanten Themen werden auf Englisch, Französisch, Deutsch oder Italienisch publiziert, diejenigen zu spezifisch polnischen Themen auf Polnisch mit Zusammenfassungen in englischer Sprache. 2. 1997.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:02.879892"
+            "when": "2015-10-27T18:46:50.086427"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:02.879909"
+            "when": "2015-10-27T18:46:50.086443"
         }
     ], 
     "publishers": [], 
@@ -99,11 +99,11 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0005?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "Spis tre\u015bci", 
+            "title_full": "Spis treści", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0007?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "7-107 I. Artykuly 7-26 Kalita, Stanis\u0142aw: Portraits of rulers on Greco-Bactrian and Indo-Greek coins: An attempt at classification 27-65 Olbrycht, Marek Jan: Parthian king's tiara: Numismatic evidence and some aspects of Arsacid political ideology 66-83 Cieciela\u0322g, Jerzy: Some remarks on the coinage of Herod Philip 84-101 Kaczanowski, Piotr: Antike M\u00fcnzen von Kryspin\u00f3w 102-107 Ivanauskas, Eugenijus: Produce of tykocin mint", 
+            "title_full": "7-107 I. Artykuly 7-26 Kalita, Stanisław: Portraits of rulers on Greco-Bactrian and Indo-Greek coins: An attempt at classification 27-65 Olbrycht, Marek Jan: Parthian king's tiara: Numismatic evidence and some aspects of Arsacid political ideology 66-83 Cieciela̢g, Jerzy: Some remarks on the coinage of Herod Philip 84-101 Kaczanowski, Piotr: Antike Münzen von Kryspinów 102-107 Ivanauskas, Eugenijus: Produce of tykocin mint", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0009?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
@@ -111,11 +111,11 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0029?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "66-83 Cieciela\u0322g, Jerzy: Some remarks on the coinage of Herod Philip", 
+            "title_full": "66-83 Cieciela̢g, Jerzy: Some remarks on the coinage of Herod Philip", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0068?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "84-101 Kaczanowski, Piotr: Antike M\u00fcnzen von Kryspin\u00f3w", 
+            "title_full": "84-101 Kaczanowski, Piotr: Antike Münzen von Kryspinów", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0086?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
@@ -123,15 +123,15 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0104?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "108-206 II. Materia\u0142y 108-118 Bodzek, Jaros\u0142aw; Madyda-Legutko, Renata: Einige Bemerkungen \u00fcber den Schatzfund von Laskowa, Woiw. Nowy Sac\u0328z 119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Ma\u0142opolska 158-164 My\u015bli\u0144ski, Micha\u0142: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worc\u0142aw 165-178 Bartczak, Andrzej: Dirhams in the collection of the Auxiliary Science and Archive Department, Institute of History, Jagiellonian University 179-195 Paszkiewicz, Borys: Monety z bada\u0144 archeologicznych w Jakuszowicach: W sprawie chronologii monet raciborskich w p\u00f3\u017anym \u015bredniowieczu 196-206 Reyman-Walczak, Bo\u017cena: Skarb monet z Wie\u017cy Ratuszowej", 
+            "title_full": "108-206 II. Materiały 108-118 Bodzek, Jarosław; Madyda-Legutko, Renata: Einige Bemerkungen über den Schatzfund von Laskowa, Woiw. Nowy Sac̨z 119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Małopolska 158-164 Myśliński, Michał: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worcław 165-178 Bartczak, Andrzej: Dirhams in the collection of the Auxiliary Science and Archive Department, Institute of History, Jagiellonian University 179-195 Paszkiewicz, Borys: Monety z badań archeologicznych w Jakuszowicach: W sprawie chronologii monet raciborskich w późnym średniowieczu 196-206 Reyman-Walczak, Bożena: Skarb monet z Wieży Ratuszowej", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0110?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Ma\u0142opolska", 
+            "title_full": "119-157 Bursche, Aleksander: Roman coinage from januszowice settlement in North Małopolska", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0121?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "158-164 My\u015bli\u0144ski, Micha\u0142: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worc\u0142aw", 
+            "title_full": "158-164 Myśliński, Michał: Les monnaies byzantines inconnues de l'epoque de la dynastie des paleologues dans la collection du Musee National de Worcław", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0160?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
@@ -139,19 +139,19 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0167?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "179-195 Paszkiewicz, Borys: Monety z bada\u0144 archeologicznych w Jakuszowicach: W sprawie chronologii monet raciborskich w p\u00f3\u017anym \u015bredniowieczu", 
+            "title_full": "179-195 Paszkiewicz, Borys: Monety z badań archeologicznych w Jakuszowicach: W sprawie chronologii monet raciborskich w późnym średniowieczu", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0181?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "196-206 Reyman-Walczak, Bo\u017cena: Skarb monet z Wie\u017cy Ratuszowej", 
+            "title_full": "196-206 Reyman-Walczak, Bożena: Skarb monet z Wieży Ratuszowej", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0198?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "207-219 III. Kronika 207-210 Salamon, Maciej: Sekcja Numizmatyczna Komisji Archeologicznej Oddzia\u0142u Polskiej Akademii Nauk w Krakowie 211-216 Korczy\u0144ska, El\u017cbieta: Kronika Gabinetu Numizmatycznego Muzeum Narodowego w Krakowie (1989-1996) 217-219 Mielczarek, Mariusz: Anne Kronmann: 1936-1996", 
+            "title_full": "207-219 III. Kronika 207-210 Salamon, Maciej: Sekcja Numizmatyczna Komisji Archeologicznej Oddziału Polskiej Akademii Nauk w Krakowie 211-216 Korczyńska, Elżbieta: Kronika Gabinetu Numizmatycznego Muzeum Narodowego w Krakowie (1989-1996) 217-219 Mielczarek, Mariusz: Anne Kronmann: 1936-1996", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0209?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "211-216 Korczy\u0144ska, El\u017cbieta: Kronika Gabinetu Numizmatycznego Muzeum Narodowego w Krakowie (1989-1996)", 
+            "title_full": "211-216 Korczyńska, Elżbieta: Kronika Gabinetu Numizmatycznego Muzeum Narodowego w Krakowie (1989-1996)", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0213?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
@@ -163,7 +163,7 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0228?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
-            "title_full": "Ma\u00dfstab/Farbkeil", 
+            "title_full": "Maßstab/Farbkeil", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1997/0229?sid=a85fedb4e03ec989cefc2de165946e09"
         }, 
         {
@@ -183,15 +183,15 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0010?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "Spis tre\u015bci", 
+            "title_full": "Spis treści", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0013?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "17-23 Cia\u0142owicz, Krzysztof M.: Piecz\u0119\u0107 Narmera", 
+            "title_full": "17-23 Ciałowicz, Krzysztof M.: Pieczęć Narmera", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0017?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "25-30 \u015aliwa, Joachim: Three magical gems with representations of Chnoubis from the collection of Konstanty Schmidt-Ci\u0105\u017cy\u0144ski", 
+            "title_full": "25-30 Śliwa, Joachim: Three magical gems with representations of Chnoubis from the collection of Konstanty Schmidt-Ciążyński", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0025?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
@@ -199,31 +199,31 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0031?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "45-49 Krzy\u017canowska, Aleksandra: Remarks on the coins of Ptolemy VI found in Egypt", 
+            "title_full": "45-49 Krzyżanowska, Aleksandra: Remarks on the coins of Ptolemy VI found in Egypt", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0045?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "51-67 Kalita, Stanis\u0142aw: The coins of Diodotus of Bactria and the problem of dating the Bactrian secession", 
+            "title_full": "51-67 Kalita, Stanisław: The coins of Diodotus of Bactria and the problem of dating the Bactrian secession", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0051?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "69-93 Olbrycht, Marek Jan: Bemerkungen zur parthischen M\u00fcnzpr\u00e4gung unter Vologases I und Pakoros II", 
+            "title_full": "69-93 Olbrycht, Marek Jan: Bemerkungen zur parthischen Münzprägung unter Vologases I und Pakoros II", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0069?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "95-101 Wolski, J\u00f3zef: Znaczenie pewnych element\u00f3w epigraficznych i ikonograficznych na monetach partyjskich dla rekonstrukcji procesu historycznego", 
+            "title_full": "95-101 Wolski, Józef: Znaczenie pewnych elementów epigraficznych i ikonograficznych na monetach partyjskich dla rekonstrukcji procesu historycznego", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0095?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "103-128 Cieciela\u0322g, Jerzy: Coins of Aretas IV, king of Nabataeans (9BC-AD40)", 
+            "title_full": "103-128 Cieciela̢g, Jerzy: Coins of Aretas IV, king of Nabataeans (9BC-AD40)", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0103?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "129-139 Morawiecki, Les\u0142aw: Coins from Cossyra", 
+            "title_full": "129-139 Morawiecki, Lesław: Coins from Cossyra", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0129?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "141-151 Bodzek, Jaros\u0142aw; Madyda-Legutko, Renata: The Ascalon coin found at Zarzecze, Przemy\u015bl Voivodship", 
+            "title_full": "141-151 Bodzek, Jarosław; Madyda-Legutko, Renata: The Ascalon coin found at Zarzecze, Przemyśl Voivodship", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0141?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
@@ -235,47 +235,47 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0167?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "183-199 Kaczanowski, Piotr; Rodzi\u0144ska-Nowak, Judyta: Die r\u00f6mischen Fundm\u00fcnzen aus der Siedlung der Przeworsk-Kultur in Opatkowice (Gemeinde Proszowice, Woiwodschaft Krak\u00f3w)", 
+            "title_full": "183-199 Kaczanowski, Piotr; Rodzińska-Nowak, Judyta: Die römischen Fundmünzen aus der Siedlung der Przeworsk-Kultur in Opatkowice (Gemeinde Proszowice, Woiwodschaft Kraków)", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0183?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "201-211 Biborski, Marcin: Konserwacja skarbu monet rzymskich z Nietuliska Ma\u0142ego, gm. Kun\u00f3w, woj. kieleckie", 
+            "title_full": "201-211 Biborski, Marcin: Konserwacja skarbu monet rzymskich z Nietuliska Małego, gm. Kunów, woj. kieleckie", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0201?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "213-220 Salamon, Maciej: U\u0142amek monety bizanty\u0144skiej ze skarbu z Gniezna (w sprawie zaniku miliaresion\u00f3w w skarbach wczesno\u015bredniowiecznych)", 
+            "title_full": "213-220 Salamon, Maciej: Ułamek monety bizantyńskiej ze skarbu z Gniezna (w sprawie zaniku miliaresionów w skarbach wczesnośredniowiecznych)", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0213?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "221-242 Kruszy\u0144ski, Miros\u0142aw: A group of Byzantine coins from Lebanon", 
+            "title_full": "221-242 Kruszyński, Mirosław: A group of Byzantine coins from Lebanon", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0221?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "243-250 Mielczarek, Mariusz: Macieja z Miechowa wiedza o pieni\u0105dzu antycznym", 
+            "title_full": "243-250 Mielczarek, Mariusz: Macieja z Miechowa wiedza o pieniądzu antycznym", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0243?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "251-262 Kolendo, Jerzy: Praca Georga Wende z roku 1699 o monetach rzymskich bitych z okazji zwyci\u0119stw nad Sarmatami", 
+            "title_full": "251-262 Kolendo, Jerzy: Praca Georga Wende z roku 1699 o monetach rzymskich bitych z okazji zwycięstw nad Sarmatami", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0251?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "263-290 Bartczak, Andrzej: Islamic dirhams from the G\u00f3ra Str\u0119kowa hoard", 
+            "title_full": "263-290 Bartczak, Andrzej: Islamic dirhams from the Góra Strękowa hoard", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0263?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "291-298 Malarczyk, Dorota: S\u0101m\u0101nid dirhams from R\u0101s\u0306t", 
+            "title_full": "291-298 Malarczyk, Dorota: Sāmānid dirhams from Rās̆t", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0291?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "299-301 Reyman, Janusz: Wczesno\u015bredniowieczny skarb srebrny z Gniezna: Monety zachodnioeuropejskie", 
+            "title_full": "299-301 Reyman, Janusz: Wczesnośredniowieczny skarb srebrny z Gniezna: Monety zachodnioeuropejskie", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0299?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "303-321 Suchodolski, Stanis\u0142aw: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Boles\u0142aw the Brave", 
+            "title_full": "303-321 Suchodolski, Stanisław: Beware, the fraud! On alleged finds of deniers with the legend GNEZDVN CIVITAS and other coins from the reign of Bolesław the Brave", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0303?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "323-340 Mitkowa-Szubert, Kunka: Zespo\u0142y monet Boles\u0142awa Krzywoustego i W\u0142adys\u0142awa II z miejscowo\u015bci Rudniki i Ruszcza Dolna, woj. tarnobrzeskie", 
+            "title_full": "323-340 Mitkowa-Szubert, Kunka: Zespoły monet Bolesława Krzywoustego i Władysława II z miejscowości Rudniki i Ruszcza Dolna, woj. tarnobrzeskie", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0323?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
@@ -283,19 +283,19 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0341?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "353-356 Kubiak, Stanis\u0142awa: Udzia\u0142 monet z\u0142otych w obiegu pieni\u0119\u017cnym na ziemiach polskich w XIV i XV wieku", 
+            "title_full": "353-356 Kubiak, Stanisława: Udział monet złotych w obiegu pieniężnym na ziemiach polskich w XIV i XV wieku", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0353?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "357-371 Rokosz, Mieczys\u0142aw: O dw\u00f3ch renesansowych medalach: Alda Manucjusza i Piotra Bembo", 
+            "title_full": "357-371 Rokosz, Mieczysław: O dwóch renesansowych medalach: Alda Manucjusza i Piotra Bembo", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0358?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "373-391 Wojtulewicz, Henryk: Skarb talar\u00f3w z XVI-XVIII wieku z J\u00f3zefowa, woj. zamojskie", 
+            "title_full": "373-391 Wojtulewicz, Henryk: Skarb talarów z XVI-XVIII wieku z Józefowa, woj. zamojskie", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0374?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "393-414 Haczewska, Bogumi\u0142a: Nieznane brakteaty polskie z XIII wieku: Informacja wst\u0119pna", 
+            "title_full": "393-414 Haczewska, Bogumiła: Nieznane brakteaty polskie z XIII wieku: Informacja wstępna", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0394?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
@@ -303,7 +303,7 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0419?sid=21f352fa75a7032c67508558de4c311c"
         }, 
         {
-            "title_full": "Ma\u00dfstab/Farbkeil", 
+            "title_full": "Maßstab/Farbkeil", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/notae_numismaticae1999/0420?sid=21f352fa75a7032c67508558de4c311c"
         }
     ], 

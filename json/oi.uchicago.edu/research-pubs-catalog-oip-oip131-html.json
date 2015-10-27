@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal H\u00fcy\u00fck, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970.", 
+    "description": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal Hüyük, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-108634535579200786", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.244560"
+            "when": "2015-10-27T18:37:08.029196"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/oriental-institute-excavations-in-amuq.html", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.244574"
+            "when": "2015-10-27T18:37:08.029213"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-108634535579200786", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.247419"
+            "when": "2015-10-27T18:37:08.034048"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/oriental-institute-excavations-in-amuq.html", 
             "resource_date": "2015-06-06T09:06:53.339-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.247431"
+            "when": "2015-10-27T18:37:08.034068"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:07.275413"
+            "when": "2015-10-27T18:37:08.080523"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip131.html"
         }, 
         {
-            "title_full": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal H\u00fcy\u00fck, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
+            "title_full": "OIP 95. Excavations in the Plain of Antioch, Vol. II: The Structural Remains of the Later Phases: Chatal Hüyük, Tell Al-Judaidah, and Tell Tayinat. R. C. Haines. 1970", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip95.html"
         }, 
         {

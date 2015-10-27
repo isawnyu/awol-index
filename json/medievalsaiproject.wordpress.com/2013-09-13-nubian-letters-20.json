@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nubian Letters. ISSN: 0921-8270. Nubian Letters in an independent biannual bulletin for Nubian history and archaeology, published under the auspices of the International Society for Nubian Studies and the Department of Early Christian Art at the University of Leiden, the Netherlands. Edited by Elizabeth de Ranitz and Karel Inemm\u00e9e.", 
+    "description": "Nubian Letters. ISSN: 0921-8270. Nubian Letters in an independent biannual bulletin for Nubian history and archaeology, published under the auspices of the International Society for Nubian Studies and the Department of Early Christian Art at the University of Leiden, the Netherlands. Edited by Elizabeth de Ranitz and Karel Inemmée.", 
     "domain": "medievalsaiproject.wordpress.com", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6654592394516027255", 
             "resource_date": "2015-04-26T08:38:52.233-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:26.324813"
+            "when": "2015-10-27T18:45:06.261443"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-nubian-letters.html", 
             "resource_date": "2015-04-26T08:38:52.233-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:26.324826"
+            "when": "2015-10-27T18:45:06.261459"
         }
     ], 
     "publishers": [], 

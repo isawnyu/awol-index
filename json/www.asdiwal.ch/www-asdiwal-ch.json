@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions (partially open). ISSN: 1662-4653. ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions est produite et g\u00e9r\u00e9e par l'association des \u00e9tudiants en histoire des religions de l'Universit\u00e9 de Gen\u00e8ve. Eclectique et ouverte, notre revue donne la parole aussi bien \u00e0 de jeunes chercheurs qu'\u00e0 des sp\u00e9cialistes reconnus. Elle demeure sans limite quant aux domaines abord\u00e9s, tout en plaidant r\u00e9solument pour une approche historique et anthropologique, un \u00abregard \u00e9loign\u00e9\u00bb, ainsi qu'un esprit de libert\u00e9 et d'humour. ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions is published and managed by the students in history of religions of the University of Geneva. Eclectic and open-minded, it combines the works of young researchers with those of renowned scholars. Our journal has no limits as to its fields of study, though deliberately pleading for a historical and anthropological approach, an \"outsider perspective\", as well as a spirit of humor and liberty.", 
+    "description": "ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions (partially open). ISSN: 1662-4653. ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions est produite et gérée par l'association des étudiants en histoire des religions de l'Université de Genève. Eclectique et ouverte, notre revue donne la parole aussi bien à de jeunes chercheurs qu'à des spécialistes reconnus. Elle demeure sans limite quant aux domaines abordés, tout en plaidant résolument pour une approche historique et anthropologique, un «regard éloigné», ainsi qu'un esprit de liberté et d'humour. ASDIWAL, revue genevoise d'anthropologie et d'histoire des religions is published and managed by the students in history of religions of the University of Geneva. Eclectic and open-minded, it combines the works of young researchers with those of renowned scholars. Our journal has no limits as to its fields of study, though deliberately pleading for a historical and anthropological approach, an \"outsider perspective\", as well as a spirit of humor and liberty.", 
     "domain": "www.asdiwal.ch", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5925109806493498868", 
             "resource_date": "2014-04-28T15:05:08.969-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:36.200669"
+            "when": "2015-10-27T18:44:10.501501"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/partially-open-access-journal-asdiwal.html", 
             "resource_date": "2014-04-28T15:05:08.969-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:36.200685"
+            "when": "2015-10-27T18:44:10.501517"
         }
     ], 
     "publishers": [], 
@@ -116,7 +116,7 @@
             "url": "http://www.asdiwal.ch/asdiwal/8.html"
         }, 
         {
-            "title_full": "Suppl\u00e9ments", 
+            "title_full": "Suppléments", 
             "url": "http://www.asdiwal.ch/asdiwal/supplements.html"
         }
     ], 

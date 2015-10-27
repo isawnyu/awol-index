@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 15 March 2011. Updates 20 April 2013]. Adalya: The annual of the Suna & \u0130nan KIRA\u00c7 Research Institute on Mediterranean Civilizations. ADALYA:.", 
+    "description": "[First posted in AWOL 15 March 2011. Updates 20 April 2013]. Adalya: The annual of the Suna & İnan KIRAÇ Research Institute on Mediterranean Civilizations. ADALYA:.", 
     "domain": "www.akmedadalya.com", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2388748794078035776", 
             "resource_date": "2013-04-20T17:36:53.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.495145"
+            "when": "2015-10-27T18:38:44.420912"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-adalya.html", 
             "resource_date": "2013-04-20T17:36:53.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.495169"
+            "when": "2015-10-27T18:38:44.420928"
         }
     ], 
     "publishers": [], 
@@ -139,7 +139,7 @@
     ], 
     "title": "Adalya", 
     "title_alternates": [], 
-    "title_extended": "Adalya: The annual of the Suna & \u0130nan KIRA\u00c7 Research Institute on Mediterranean Civilizations", 
+    "title_extended": "Adalya: The annual of the Suna & İnan KIRAÇ Research Institute on Mediterranean Civilizations", 
     "type": null, 
     "url": "http://www.akmedadalya.com/index_en.php", 
     "url_alternates": [], 

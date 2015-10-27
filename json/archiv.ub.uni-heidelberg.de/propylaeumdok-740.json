@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Bleckmann, B. (Hrsg. ): Herodot und die Epoche der Perserkriege. Realit\u00e4ten und Fiktionen. Kolloquium zum 80. Geburtstag von Dietmar Kienast. K\u00f6ln - Weimar - Wien 2007, pp. 21-34. Funke, Peter (2006).", 
+    "description": "In: Bleckmann, B. (Hrsg. ): Herodot und die Epoche der Perserkriege. Realitäten und Fiktionen. Kolloquium zum 80. Geburtstag von Dietmar Kienast. Köln - Weimar - Wien 2007, pp. 21-34. Funke, Peter (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.657470"
+            "when": "2015-10-27T18:46:45.821190"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.657485"
+            "when": "2015-10-27T18:46:45.821204"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Perser und die griechischen Heiligt\u00fcmer in der Perserkriegszeit", 
+    "title": "Die Perser und die griechischen Heiligtümer in der Perserkriegszeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

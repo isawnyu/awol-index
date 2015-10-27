@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2170546267912810197", 
             "resource_date": "2013-08-28T06:06:11.105-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.199407"
+            "when": "2015-10-27T18:38:26.927235"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/ancient-egypt-in-film.html", 
             "resource_date": "2013-08-28T06:06:11.105-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.199428"
+            "when": "2015-10-27T18:38:26.927254"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2170546267912810197", 
             "resource_date": "2013-08-28T06:06:11.105-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.208689"
+            "when": "2015-10-27T18:38:26.936144"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/ancient-egypt-in-film.html", 
             "resource_date": "2013-08-28T06:06:11.105-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.208709"
+            "when": "2015-10-27T18:38:26.936158"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:19.211282"
+            "when": "2015-10-27T18:38:26.938142"
         }
     ], 
     "publishers": [], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2120036128943761521", 
             "resource_date": "2014-12-29T07:16:23.001-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:15.221047"
+            "when": "2015-10-27T18:38:22.826712"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/new-open-access-journal-aegean-studies.html", 
             "resource_date": "2014-12-29T07:16:23.001-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:15.221060"
+            "when": "2015-10-27T18:38:22.826727"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-932207785773247272", 
             "resource_date": "2013-05-24T14:52:44.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:25.230845"
+            "when": "2015-10-27T18:49:24.191551"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/new-website-aegeus-society-of-aegean.html", 
             "resource_date": "2013-05-24T14:52:44.350-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:25.230857"
+            "when": "2015-10-27T18:49:24.191566"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:25.290891"
+            "when": "2015-10-27T18:49:24.268713"
         }
     ], 
     "publishers": [], 

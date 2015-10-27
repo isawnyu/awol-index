@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Flora y Fauna Ib\u00e9rica: De lo Real a lo Imaginario.", 
+    "description": "Flora y Fauna Ibérica: De lo Real a lo Imaginario.", 
     "domain": "www.florayfaunaiberica.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Flora y Fauna Ib\u00e9rica", 
+        "title_full": "Flora y Fauna Ibérica", 
         "url": "http://www.florayfaunaiberica.org/"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725116015740693585", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.271755"
+            "when": "2015-10-27T18:45:08.384726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/flora-y-fauna-iberica.html", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.271772"
+            "when": "2015-10-27T18:45:08.384742"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725116015740693585", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.273528"
+            "when": "2015-10-27T18:45:08.386523"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/flora-y-fauna-iberica.html", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.273541"
+            "when": "2015-10-27T18:45:08.386534"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:28.295246"
+            "when": "2015-10-27T18:45:08.414716"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Flora y Fauna Ib\u00e9rica: De lo Real a lo Imaginario", 
+            "title_full": "Flora y Fauna Ibérica: De lo Real a lo Imaginario", 
             "url": "http://www.florayfaunaiberica.org/"
         }, 
         {
@@ -157,7 +157,7 @@
             "url": "http://www.florayfaunaiberica.org/fauna/buscador"
         }, 
         {
-            "title_full": "restos org\u00e1nicos", 
+            "title_full": "restos orgánicos", 
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=restos"
         }, 
         {
@@ -165,7 +165,7 @@
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=exvotos"
         }, 
         {
-            "title_full": "cer\u00e1mica", 
+            "title_full": "cerámica", 
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=ceramica"
         }, 
         {
@@ -173,11 +173,11 @@
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=escultura"
         }, 
         {
-            "title_full": "numism\u00e1tica", 
+            "title_full": "numismática", 
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=monedas"
         }, 
         {
-            "title_full": "objetos met\u00e1licosy otros", 
+            "title_full": "objetos metálicosy otros", 
             "url": "http://www.florayfaunaiberica.org/fauna/buscador?tipo=metales"
         }, 
         {
@@ -185,11 +185,11 @@
             "url": "http://www.florayfaunaiberica.org/buscador_flora.php"
         }, 
         {
-            "title_full": "restos org\u00e1nicos", 
+            "title_full": "restos orgánicos", 
             "url": "http://www.florayfaunaiberica.org/buscador.php?tipo=restos"
         }, 
         {
-            "title_full": "cer\u00e1mica", 
+            "title_full": "cerámica", 
             "url": "http://www.florayfaunaiberica.org/buscador.php?tipo=ceramica"
         }, 
         {
@@ -197,21 +197,21 @@
             "url": "http://www.florayfaunaiberica.org/buscador.php?tipo=escultura"
         }, 
         {
-            "title_full": "numism\u00e1tica", 
+            "title_full": "numismática", 
             "url": "http://www.florayfaunaiberica.org/buscador.php?tipo=monedas"
         }, 
         {
-            "title_full": "objetos met\u00e1licosy otros", 
+            "title_full": "objetos metálicosy otros", 
             "url": "http://www.florayfaunaiberica.org/buscador.php?tipo=metales"
         }, 
         {
-            "title_full": "b\u00fasqueda por mapa", 
+            "title_full": "búsqueda por mapa", 
             "url": "http://www.florayfaunaiberica.org/buscador_mapa.html"
         }
     ], 
-    "title": "Flora y Fauna Ib\u00e9rica: De lo Real a lo Imaginario", 
+    "title": "Flora y Fauna Ibérica: De lo Real a lo Imaginario", 
     "title_alternates": [], 
-    "title_extended": "Flora y Fauna Ib\u00e9rica: De lo Real a lo Imaginario", 
+    "title_extended": "Flora y Fauna Ibérica: De lo Real a lo Imaginario", 
     "type": null, 
     "url": "http://www.florayfaunaiberica.org/", 
     "url_alternates": [], 

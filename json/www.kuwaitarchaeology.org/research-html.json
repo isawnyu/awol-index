@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "project fostering international cooperation and ties between young-generation researchers. The KSAM project was developed and has been elaborated and steered by Ms Lucia Benedikov\u00e1 and Mr Peter Barta.", 
+    "description": "project fostering international cooperation and ties between young-generation researchers. The KSAM project was developed and has been elaborated and steered by Ms Lucia Benediková and Mr Peter Barta.", 
     "domain": "www.kuwaitarchaeology.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5149246840690675435", 
             "resource_date": "2012-10-05T15:23:50.057-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:43.253456"
+            "when": "2015-10-27T18:43:13.850873"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/kuwaiti-slovak-archaeological-mission.html", 
             "resource_date": "2012-10-05T15:23:50.057-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:43.253469"
+            "when": "2015-10-27T18:43:13.850884"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bibliographies to Hippocrates and Galen (Fichtner). In agreement with Gerhard Fichtner (T\u00fcbingen) the Project Office makes available PDF-files of the bibliographical reference works for private use.", 
+    "description": "Bibliographies to Hippocrates and Galen (Fichtner). In agreement with Gerhard Fichtner (Tübingen) the Project Office makes available PDF-files of the bibliographical reference works for private use.", 
     "domain": "cmg.bbaw.de", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2321916241517187422", 
             "resource_date": "2015-02-12T11:42:41.274-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:32.235157"
+            "when": "2015-10-27T18:38:40.138217"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-corpus-medicorum-graecorum.html", 
             "resource_date": "2015-02-12T11:42:41.274-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:32.235174"
+            "when": "2015-10-27T18:38:40.138231"
         }
     ], 
     "publishers": [], 

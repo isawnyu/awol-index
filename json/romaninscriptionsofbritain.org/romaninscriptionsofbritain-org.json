@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5671564899418389110", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:11.432292"
+            "when": "2015-10-27T18:43:43.718965"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/digital-roman-inscriptions-of-britain.html", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:11.432307"
+            "when": "2015-10-27T18:43:43.718982"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5671564899418389110", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:11.434523"
+            "when": "2015-10-27T18:43:43.721364"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/digital-roman-inscriptions-of-britain.html", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:11.434536"
+            "when": "2015-10-27T18:43:43.721377"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:11.512967"
+            "when": "2015-10-27T18:43:43.807092"
         }
     ], 
     "publishers": [], 
@@ -148,23 +148,23 @@
             "url": "http://romaninscriptionsofbritain.org/"
         }, 
         {
-            "title_full": "Addenda have been interleaved or appended, as appropriate (e.g., 1045 , 1051 ). Addenda from the 1995 reprint are indicated by the notation \u2018[ RIB + add.]\u2019. Addenda from Britannia since 1995 are similarly notated with their respective volume numbers and page references", 
+            "title_full": "Addenda have been interleaved or appended, as appropriate (e.g., 1045 , 1051 ). Addenda from the 1995 reprint are indicated by the notation ‘[ RIB + add.]’. Addenda from Britannia since 1995 are similarly notated with their respective volume numbers and page references", 
             "url": "http://romaninscriptionsofbritain.org/inscriptions/1045"
         }, 
         {
-            "title_full": "Addenda have been interleaved or appended, as appropriate (e.g., 1045 , 1051 ). Addenda from the 1995 reprint are indicated by the notation \u2018[ RIB + add.]\u2019. Addenda from Britannia since 1995 are similarly notated with their respective volume numbers and page references", 
+            "title_full": "Addenda have been interleaved or appended, as appropriate (e.g., 1045 , 1051 ). Addenda from the 1995 reprint are indicated by the notation ‘[ RIB + add.]’. Addenda from Britannia since 1995 are similarly notated with their respective volume numbers and page references", 
             "url": "http://romaninscriptionsofbritain.org/inscriptions/1051"
         }, 
         {
-            "title_full": "Instances of \u2018( centuria/o )\u2019 and \u2018( milliaria )\u2019 have been converted to respective symbols ( \ud800\udd9b and \u2180 ) (e.g., 143 , 977 )", 
+            "title_full": "Instances of ‘( centuria/o )’ and ‘( milliaria )’ have been converted to respective symbols ( 𐆛 and ↀ ) (e.g., 143 , 977 )", 
             "url": "http://romaninscriptionsofbritain.org/inscriptions/143"
         }, 
         {
-            "title_full": "Instances of \u2018( centuria/o )\u2019 and \u2018( milliaria )\u2019 have been converted to respective symbols ( \ud800\udd9b and \u2180 ) (e.g., 143 , 977 )", 
+            "title_full": "Instances of ‘( centuria/o )’ and ‘( milliaria )’ have been converted to respective symbols ( 𐆛 and ↀ ) (e.g., 143 , 977 )", 
             "url": "http://romaninscriptionsofbritain.org/inscriptions/977"
         }, 
         {
-            "title_full": "Per Addendum (see note to RIB 152 ), all translations of numen as \u2018deity\u2019 have been changed to \u2018divinity\u2019, e.g., instances of \u2018deities of the emperor\u2019 are now \u2018divinities of the emperor\u2019", 
+            "title_full": "Per Addendum (see note to RIB 152 ), all translations of numen as ‘deity’ have been changed to ‘divinity’, e.g., instances of ‘deities of the emperor’ are now ‘divinities of the emperor’", 
             "url": "http://romaninscriptionsofbritain.org/inscriptions/152"
         }, 
         {

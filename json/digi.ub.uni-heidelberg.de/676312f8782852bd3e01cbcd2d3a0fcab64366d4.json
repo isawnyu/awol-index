@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "108-206 II. Materia\u0142y.", 
+    "description": "108-206 II. Materiały.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.197541"
+            "when": "2015-10-27T18:46:50.419133"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.197552"
+            "when": "2015-10-27T18:46:50.419145"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "7-107 I. Artykuly 7-26 Kalita, Stanis\u0142aw: Portraits of rulers on Greco-Bactrian and Indo-Greek coins: An attempt at classification 27-65 Olbrycht, Marek Jan: Parthian king's tiara: Numismatic evidence and some aspects of Arsacid political ideology 66-83 Cieciela\u0322g, Jerzy: Some remarks on the coinage of Herod Philip 84-101 Kaczanowski, Piotr: Antike M\u00fcnzen von Kryspin\u00f3w 102-107 Ivanauskas, Eugenijus: Produce of tykocin mint", 
+    "title": "7-107 I. Artykuly 7-26 Kalita, Stanisław: Portraits of rulers on Greco-Bactrian and Indo-Greek coins: An attempt at classification 27-65 Olbrycht, Marek Jan: Parthian king's tiara: Numismatic evidence and some aspects of Arsacid political ideology 66-83 Cieciela̢g, Jerzy: Some remarks on the coinage of Herod Philip 84-101 Kaczanowski, Piotr: Antike Münzen von Kryspinów 102-107 Ivanauskas, Eugenijus: Produce of tykocin mint", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

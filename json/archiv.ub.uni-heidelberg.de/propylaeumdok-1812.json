@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:32.997330"
+            "when": "2015-10-27T18:48:26.044796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:32.997346"
+            "when": "2015-10-27T18:48:26.044813"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "[Katalogbeitr\u00e4ge]: VI,4 - VI,12; VI,14 - VI,15", 
+    "title": "[Katalogbeiträge]: VI,4 - VI,12; VI,14 - VI,15", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

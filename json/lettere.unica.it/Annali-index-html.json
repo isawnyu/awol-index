@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Annali della Facolt\u00e0 di Lettere e Filosofia, Universit\u00e0 degli studi di Cagliari. 20092008200720062005Altri.", 
+    "description": "Annali della Facoltà di Lettere e Filosofia, Università degli studi di Cagliari. 20092008200720062005Altri.", 
     "domain": "lettere.unica.it", 
     "editors": [], 
     "end_date": null, 
@@ -60,13 +60,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-967313398797899675", 
             "resource_date": "2011-01-18T05:26:48.621-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:26.655555"
+            "when": "2015-10-27T18:49:25.896429"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/open-accesss-journal-annali-della.html", 
             "resource_date": "2011-01-18T05:26:48.621-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:26.655571"
+            "when": "2015-10-27T18:49:25.896445"
         }
     ], 
     "publishers": [], 
@@ -100,7 +100,7 @@
             "url": "http://lettere.unica.it/Annali/Altri.htm"
         }
     ], 
-    "title": "Annali della Facolt\u00e0 di Lettere e Filosofia, Universit\u00e0 degli studi di Cagliari", 
+    "title": "Annali della Facoltà di Lettere e Filosofia, Università degli studi di Cagliari", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

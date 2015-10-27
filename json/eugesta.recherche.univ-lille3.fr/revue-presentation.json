@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2929679055179054167", 
             "resource_date": "2014-12-17T14:21:20.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.353594"
+            "when": "2015-10-27T18:39:03.432505"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/new-open-access-journal-eugesta-journal.html", 
             "resource_date": "2014-12-17T14:21:20.900-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.353604"
+            "when": "2015-10-27T18:39:03.432516"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Pr\u00e9sentation La revue Direction et comit\u00e9s Recommandations aux auteurs", 
+    "title": "Présentation La revue Direction et comités Recommandations aux auteurs", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 
