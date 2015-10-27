@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "D\u00e9but\u00e9 en mai 2014, la mise en ligne des sc\u00e8nes et inscriptions de la Chapelle de calcite de Thoutmosis IV d\u00e9couverte remploy\u00e9e dans les IIe et IIIe pyl\u00f4nes du temple d\u2019Amon-R\u00ea \u00e0 Karnak et remont\u00e9e par les \u00e9quipes du Cfeetk au Mus\u00e9e de Plein Air est aujourd\u2019hui achev\u00e9e. L\u2019ensemble des inscriptions hi\u00e9roglyphiques de ce monument, la documentation photographique ancienne ainsi qu\u2019une nouvelle couverture photographique compl\u00e8te sont disponibles dans le projet Karnak.", 
+    "description": "Débuté en mai 2014, la mise en ligne des scènes et inscriptions de la Chapelle de calcite de Thoutmosis IV découverte remployée dans les IIe et IIIe pylônes du temple d’Amon-Rê à Karnak et remontée par les équipes du Cfeetk au Musée de Plein Air est aujourd’hui achevée. L’ensemble des inscriptions hiéroglyphiques de ce monument, la documentation photographique ancienne ainsi qu’une nouvelle couverture photographique complète sont disponibles dans le projet Karnak.", 
     "domain": "www.cfeetk.cnrs.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Projet Karnak : Ach\u00e8vement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
+        "title_full": "Projet Karnak : Achèvement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
         "url": "http://www.cfeetk.cnrs.fr/index.php?page=projet-karnak-chapelle-thoutmosis-iv"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953098528513572547", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.952906"
+            "when": "2015-10-27T18:45:19.132379"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/projet-karnak-achevement-de-la-mise-en.html", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.952918"
+            "when": "2015-10-27T18:45:19.132399"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792031706496568625", 
             "resource_date": "2013-10-24T06:06:11.963-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.855729"
+            "when": "2015-10-27T18:46:34.386145"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/intratext-digital-library-lingua-latina.html", 
             "resource_date": "2013-10-24T06:06:11.963-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.855746"
+            "when": "2015-10-27T18:46:34.386160"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7792031706496568625", 
             "resource_date": "2013-10-24T06:06:11.963-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.858049"
+            "when": "2015-10-27T18:46:34.388748"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/intratext-digital-library-lingua-latina.html", 
             "resource_date": "2013-10-24T06:06:11.963-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.858061"
+            "when": "2015-10-27T18:46:34.388760"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.893641"
+            "when": "2015-10-27T18:46:34.427738"
         }
     ], 
     "publishers": [], 

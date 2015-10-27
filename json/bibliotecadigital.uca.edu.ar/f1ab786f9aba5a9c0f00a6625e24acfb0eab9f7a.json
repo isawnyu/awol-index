@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 16 February 2012. Updated 14 October 2014]. Antiguo Oriente: Cuadernos del Centro de Estudios de Historia del Antiguo Oriente. ISSN: 1667-9202. Antiguo Oriente (abbreviated as AntOr) is the annual, peer-reviewed, scholarly journal published by the CEHAO. The journal publishes manuscripts related to the history of societies of the Ancient Near East and the Eastern Mediterranean from the Paleolithic through the Roman-Hellenistic period. Antiguo Oriente publishes articles and book reviews in Spanish, English and French. The journal is indexed in BiBIL, University of Lausanne, Switzerland; CLASE, Universidad Aut\u00f3noma de M\u00e9xico; DIALNET, Universidad de La Rioja, Spain; EBSCO, USA; Google Scholar; LATINDEX (cat\u00e1logo), Mexico; Old Testament Abstracts (OTA), USA; RAMBI, Jewish National and University Library, Jerusalem, Israel; RefDoc, Centre Nationale de la Recherche Scientifique, France; and the N\u00facleo B\u00e1sico de Publicaciones Peri\u00f3dicas Cient\u00edficas y Tecnol\u00f3gicas Argentinas (CONICET).", 
+    "description": "[First posted in AWOL 16 February 2012. Updated 14 October 2014]. Antiguo Oriente: Cuadernos del Centro de Estudios de Historia del Antiguo Oriente. ISSN: 1667-9202. Antiguo Oriente (abbreviated as AntOr) is the annual, peer-reviewed, scholarly journal published by the CEHAO. The journal publishes manuscripts related to the history of societies of the Ancient Near East and the Eastern Mediterranean from the Paleolithic through the Roman-Hellenistic period. Antiguo Oriente publishes articles and book reviews in Spanish, English and French. The journal is indexed in BiBIL, University of Lausanne, Switzerland; CLASE, Universidad Autónoma de México; DIALNET, Universidad de La Rioja, Spain; EBSCO, USA; Google Scholar; LATINDEX (catálogo), Mexico; Old Testament Abstracts (OTA), USA; RAMBI, Jewish National and University Library, Jerusalem, Israel; RefDoc, Centre Nationale de la Recherche Scientifique, France; and the Núcleo Básico de Publicaciones Periódicas Científicas y Tecnológicas Argentinas (CONICET).", 
     "domain": "bibliotecadigital.uca.edu.ar", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1770868145368809048", 
             "resource_date": "2014-10-14T16:32:16.062-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.961440"
+            "when": "2015-10-27T18:38:02.791133"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/emerging-open-access-journal-antiguo.html", 
             "resource_date": "2014-10-14T16:32:16.062-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.961456"
+            "when": "2015-10-27T18:38:02.791149"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1770868145368809048", 
             "resource_date": "2014-10-14T16:32:16.062-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.976412"
+            "when": "2015-10-27T18:38:02.807109"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/emerging-open-access-journal-antiguo.html", 
             "resource_date": "2014-10-14T16:32:16.062-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.976425"
+            "when": "2015-10-27T18:38:02.807125"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:57.980563"
+            "when": "2015-10-27T18:38:02.809030"
         }
     ], 
     "publishers": [], 

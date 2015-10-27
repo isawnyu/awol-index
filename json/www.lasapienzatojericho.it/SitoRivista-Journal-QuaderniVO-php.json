@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Quaderni di Vicino Oriente VI - 2013: ATTI DEL CONVEGNO \"LA PERCEZIONE DELL\u2019EBRAISMO IN ALTRE CULTURE E NELLE ARTI\". 8-9 ottobre 2012, Odeion - Facolt\u00e0 di Lettere, Sapienza Universit\u00e0 di Roma. a cura di Alessandro Catastini Articoli. E. Prinzivalli - \"Noi\" e \"Loro\", la lacerazione indicibile. Ebrei e Cristiani nel I e nel II secolo. A. Camplani - Declinazioni dell'antigiudaismo nel cristianesimo siriaco delle origini. A. Gebbia - Il violinista su Hollywood: gli Ebrei e il cinema americano. F. Gabizon - Percorsi ebraici nella letteratura inglese e americana. A. Catastini - La questione delle origini ebraiche. J. Nigro Covre - R. Cilione - Gli artisti e l 'ebraismo tra Italia e Francia intorno al 1930. F. Piperno - Ebrei in Musica. L. Nigro - L 'Archeologia Biblica e la percezione dell 'ebraismo. M. Caffiero - Gioco di specchi. Ebrei e Cristiani in et\u00e0 moderna: rappresentazioni e autorappresentazioni. xx.", 
+    "description": "Quaderni di Vicino Oriente VI - 2013: ATTI DEL CONVEGNO \"LA PERCEZIONE DELL’EBRAISMO IN ALTRE CULTURE E NELLE ARTI\". 8-9 ottobre 2012, Odeion - Facoltà di Lettere, Sapienza Università di Roma. a cura di Alessandro Catastini Articoli. E. Prinzivalli - \"Noi\" e \"Loro\", la lacerazione indicibile. Ebrei e Cristiani nel I e nel II secolo. A. Camplani - Declinazioni dell'antigiudaismo nel cristianesimo siriaco delle origini. A. Gebbia - Il violinista su Hollywood: gli Ebrei e il cinema americano. F. Gabizon - Percorsi ebraici nella letteratura inglese e americana. A. Catastini - La questione delle origini ebraiche. J. Nigro Covre - R. Cilione - Gli artisti e l 'ebraismo tra Italia e Francia intorno al 1930. F. Piperno - Ebrei in Musica. L. Nigro - L 'Archeologia Biblica e la percezione dell 'ebraismo. M. Caffiero - Gioco di specchi. Ebrei e Cristiani in età moderna: rappresentazioni e autorappresentazioni. xx.", 
     "domain": "www.lasapienzatojericho.it", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3917693210284680212", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.564975"
+            "when": "2015-10-27T18:41:13.021416"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/quaderni-di-vicino-oriente-vi-2013-la.html", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.564994"
+            "when": "2015-10-27T18:41:13.021434"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3917693210284680212", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.570110"
+            "when": "2015-10-27T18:41:13.026827"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/quaderni-di-vicino-oriente-vi-2013-la.html", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.570127"
+            "when": "2015-10-27T18:41:13.026845"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:51.574898"
+            "when": "2015-10-27T18:41:13.031720"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
             "url": "http://www.lasapienzatojericho.it/SitoRivista/Journal/QuaderniVO.php"
         }, 
         {
-            "title_full": "ATTI DEL CONVEGNO \"LA PERCEZIONE DELL\u2019EBRAISMO IN ALTRE CULTURE E NELLE ARTI\"", 
+            "title_full": "ATTI DEL CONVEGNO \"LA PERCEZIONE DELL’EBRAISMO IN ALTRE CULTURE E NELLE ARTI\"", 
             "url": "http://www.lasapienzatojericho.it/SitoRivista/Quaderni/QuadVO_VI/QuadVO_VI.zip"
         }
     ], 

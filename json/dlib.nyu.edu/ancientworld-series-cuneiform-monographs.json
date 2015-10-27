@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2574513768245403685", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.132897"
+            "when": "2015-10-27T18:38:49.286277"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-cuneiform.html", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.132914"
+            "when": "2015-10-27T18:38:49.286294"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2574513768245403685", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.136687"
+            "when": "2015-10-27T18:38:49.290014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-cuneiform.html", 
             "resource_date": "2015-05-14T13:50:19.604-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.136701"
+            "when": "2015-10-27T18:38:49.290028"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:41.489330"
+            "when": "2015-10-27T18:38:49.662855"
         }
     ], 
     "publishers": [], 
@@ -278,7 +278,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/379"
         }, 
         {
-            "title_full": "Muze\u02bcon artsot ha-Mi\u1e33ra (Jerusalem) -- Catalogs", 
+            "title_full": "Muzeʼon artsot ha-Miḳra (Jerusalem) -- Catalogs", 
             "url": "http://dlib.nyu.edu/ancientworld/subjects/3005"
         }, 
         {

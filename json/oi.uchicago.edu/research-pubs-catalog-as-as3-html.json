@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Laga\u0161. Arno Poebel.", 
+    "description": "AS 2. The Sumerian Prefix Forms E - and I - in the Time of the Earlier Princes of Lagaš. Arno Poebel.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.962864"
+            "when": "2015-10-27T18:38:39.010400"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.962881"
+            "when": "2015-10-27T18:38:39.010413"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:52.719747"
+            "when": "2015-10-27T18:43:24.102070"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:52.719760"
+            "when": "2015-10-27T18:43:24.102083"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:52.750337"
+            "when": "2015-10-27T18:43:24.139321"
         }
     ], 
     "publishers": [], 

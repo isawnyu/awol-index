@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Rollinger, Robert and Barta, H. (Hrsgg. ): Rechtsgeschichte und Interkulturalit\u00e4t. Zum Verh\u00e4ltnis des \u00f6stlichen Mittelmeerraums und \\\"Europas\\\" im Altertum. Wiesbaden 2007, pp. 117-134. Neumann, Hans (1988).", 
+    "description": "In: Rollinger, Robert and Barta, H. (Hrsgg. ): Rechtsgeschichte und Interkulturalität. Zum Verhältnis des östlichen Mittelmeerraums und \\\"Europas\\\" im Altertum. Wiesbaden 2007, pp. 117-134. Neumann, Hans (1988).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:36.968390"
+            "when": "2015-10-27T18:46:22.702586"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:36.968406"
+            "when": "2015-10-27T18:46:22.702602"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Einheimische Tradition und interkulturell bedingter Wandel in den babylonischen Rechtsverh\u00e4ltnissen der hellenistischen Zeit", 
+    "title": "Einheimische Tradition und interkulturell bedingter Wandel in den babylonischen Rechtsverhältnissen der hellenistischen Zeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

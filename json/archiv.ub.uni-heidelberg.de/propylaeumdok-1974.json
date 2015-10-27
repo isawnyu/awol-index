@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: \u00c4gypten Griechenland Rom. Abwehr und Ber\u00fchrung. St\u00e4delsches Kunstinstitut und St\u00e4dtische Galerie, 26. November 2005 - 26. Februar 2006. T\u00fcbingen / Berlin 2005, pp. 428-433 S. 736-740. Hoffmann, Friedhelm (2010).", 
+    "description": "In: Ägypten Griechenland Rom. Abwehr und Berührung. Städelsches Kunstinstitut und Städtische Galerie, 26. November 2005 - 26. Februar 2006. Tübingen / Berlin 2005, pp. 428-433 S. 736-740. Hoffmann, Friedhelm (2010).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:53.418589"
+            "when": "2015-10-27T18:40:04.788005"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:53.418606"
+            "when": "2015-10-27T18:40:04.788021"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Krokodildarstellungen in \u00c4gypten und Rom (Kat. 350-357)", 
+    "title": "Krokodildarstellungen in Ägypten und Rom (Kat. 350-357)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

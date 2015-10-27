@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin de la Soci\u00e9t\u00e9 d'\u00e9tudes historiques et g\u00e9ographiques de l'isthme de Suez (BSEHGIS)", 
+        "title_full": "Bulletin de la Société d'études historiques et géographiques de l'isthme de Suez (BSEHGIS)", 
         "url": "http://www.chassan.org/ismailia/memory/MCS/Revue_Canal/bulletinSehgis_1.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7093376990684458565", 
             "resource_date": "2015-06-23T10:52:20.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.085291"
+            "when": "2015-10-27T18:45:27.994687"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2015-06-23T10:52:20.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.085303"
+            "when": "2015-10-27T18:45:27.994699"
         }
     ], 
     "publishers": [], 

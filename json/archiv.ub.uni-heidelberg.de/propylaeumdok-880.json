@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Dasen, V. (Hrsg. ): Naissance et petite enfance dans l\u2019Antiquit\u00e9. Actes du colloque de Fribourg, 28 novembre - 1er d\u00e9cembre 2001, Orbis Biblicus et Orientalis 203. Fribourg 2004, pp. 71-92. Volk, Konrad (2006).", 
+    "description": "In: Dasen, V. (Hrsg. ): Naissance et petite enfance dans l’Antiquité. Actes du colloque de Fribourg, 28 novembre - 1er décembre 2001, Orbis Biblicus et Orientalis 203. Fribourg 2004, pp. 71-92. Volk, Konrad (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.483466"
+            "when": "2015-10-27T18:46:26.293237"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.483482"
+            "when": "2015-10-27T18:46:26.293254"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Vom Dunkel in die Helligkeit: Schwangerschaft, Geburt und fr\u00fche Kindkeit in Babylonien und Assyrien", 
+    "title": "Vom Dunkel in die Helligkeit: Schwangerschaft, Geburt und frühe Kindkeit in Babylonien und Assyrien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

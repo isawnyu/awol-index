@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+        "title_full": "Dialogues d'histoire ancienne. Suppléments", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.459044"
+            "when": "2015-10-27T18:47:54.749831"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.459058"
+            "when": "2015-10-27T18:47:54.749846"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Historia et intrigue. Les ressources \u00ab mim\u00e9tiques\u00bb de l\u2019Enqu\u00eate d\u2019H\u00e9rodote", 
+    "title": "Historia et intrigue. Les ressources « mimétiques» de l’Enquête d’Hérodote", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

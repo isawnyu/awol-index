@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5947550543491112403", 
             "resource_date": "2015-01-21T11:06:51.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.664021"
+            "when": "2015-10-27T18:44:12.088213"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/news-from-documenting-cappadocia.html", 
             "resource_date": "2015-01-21T11:06:51.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.664037"
+            "when": "2015-10-27T18:44:12.088230"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5947550543491112403", 
             "resource_date": "2015-01-21T11:06:51.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.665444"
+            "when": "2015-10-27T18:44:12.089763"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/news-from-documenting-cappadocia.html", 
             "resource_date": "2015-01-21T11:06:51.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.665456"
+            "when": "2015-10-27T18:44:12.089775"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:37.677301"
+            "when": "2015-10-27T18:44:12.102524"
         }
     ], 
     "publishers": [], 

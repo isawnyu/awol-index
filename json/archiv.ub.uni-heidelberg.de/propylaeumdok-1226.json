@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Dittmann, R. and Eder, Ch. and Jacobs, B. (Hrsgg. ): Altertumswissenschaften im Dialog. Festschrift f\u00fcr Wolfram Nagel, Alter Orient und Altes Testament 306. M\u00fcnster 2003, pp. 421-432. R\u00f6llig, Wolfgang (1990).", 
+    "description": "In: Dittmann, R. and Eder, Ch. and Jacobs, B. (Hrsgg. ): Altertumswissenschaften im Dialog. Festschrift für Wolfram Nagel, Alter Orient und Altes Testament 306. Münster 2003, pp. 421-432. Röllig, Wolfgang (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.843834"
+            "when": "2015-10-27T18:46:24.617223"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.843850"
+            "when": "2015-10-27T18:46:24.617239"
         }
     ], 
     "publishers": [], 

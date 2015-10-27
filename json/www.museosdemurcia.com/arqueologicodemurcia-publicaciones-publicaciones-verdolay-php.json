@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Verdolay: Museo Arqueol\u00f3gico de Murcia. ISSN: 1130-9776.", 
+    "description": "Verdolay: Museo Arqueológico de Murcia. ISSN: 1130-9776.", 
     "domain": "www.museosdemurcia.com", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7825605953703750778", 
             "resource_date": "2012-04-12T07:26:30.845-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.850984"
+            "when": "2015-10-27T18:46:36.814732"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-verdolay.html", 
             "resource_date": "2012-04-12T07:26:30.845-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.851005"
+            "when": "2015-10-27T18:46:36.814754"
         }
     ], 
     "publishers": [], 
@@ -86,57 +86,57 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Verdolay 2009, n\u00ba 12, Revista del Museo Arqueol\u00f3gico, Segunda \u00e9poca", 
+            "title_full": "Verdolay 2009, nº 12, Revista del Museo Arqueológico, Segunda época", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_12.pdf"
         }, 
         {
-            "title_full": "Revista del Museo Arqueol\u00f3gico de Murcia. Segunda \u00c9poca, N\u00famero 11", 
+            "title_full": "Revista del Museo Arqueológico de Murcia. Segunda Época, Número 11", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay11.pdf"
         }, 
         {
-            "title_full": "Verdolay 2005, n\u00ba 10, Revista del Museo Arqueol\u00f3gico, Segunda \u00e9poca", 
+            "title_full": "Verdolay 2005, nº 10, Revista del Museo Arqueológico, Segunda época", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay10.pdf"
         }, 
         {
-            "title_full": "Verdolay 2005, n\u00ba 9(Segunda \u00e9poca)", 
+            "title_full": "Verdolay 2005, nº 9(Segunda época)", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay9.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba8", 
+            "title_full": "Verdolay , nº8", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_8.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba7", 
+            "title_full": "Verdolay , nº7", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_7.pdf"
         }, 
         {
-            "title_full": "Verdolay, n\u00ba 6", 
+            "title_full": "Verdolay, nº 6", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_6.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba5", 
+            "title_full": "Verdolay , nº5", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_5.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba4", 
+            "title_full": "Verdolay , nº4", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_4.pdf"
         }, 
         {
-            "title_full": "Verdolay, n\u00ba3", 
+            "title_full": "Verdolay, nº3", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_3.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba2", 
+            "title_full": "Verdolay , nº2", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_2.pdf"
         }, 
         {
-            "title_full": "Verdolay , n\u00ba1", 
+            "title_full": "Verdolay , nº1", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/verdolay_1.pdf"
         }
     ], 
     "title": "Verdolay", 
     "title_alternates": [], 
-    "title_extended": "Verdolay : Museo Arqueol\u00f3gico de Murcia", 
+    "title_extended": "Verdolay : Museo Arqueológico de Murcia", 
     "type": null, 
     "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/publicaciones_verdolay.php", 
     "url_alternates": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u0410\u0420\u0425\u0415\u041e\u041b\u041e\u0413I\u042f: \u041d\u0430\u0443\u043a\u043e\u0432\u0438\u0439 \u0436\u0443\u0440\u043d\u0430\u043b \u0406\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0443 \u0430\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0456\u0457 \u041d\u0410\u041d \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430 \u0432\u0435\u0440\u0441\u0456\u044f", 
+        "title_full": "АРХЕОЛОГIЯ: Науковий журнал Інституту археології НАН України електронна версія", 
         "url": "http://www.iananu.kiev.ua/archaeology/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2479203808641965216", 
             "resource_date": "2014-03-07T10:52:27.575-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.059966"
+            "when": "2015-10-27T18:38:46.114739"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-i.html", 
             "resource_date": "2014-03-07T10:52:27.575-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.059981"
+            "when": "2015-10-27T18:38:46.114756"
         }
     ], 
     "publishers": [], 

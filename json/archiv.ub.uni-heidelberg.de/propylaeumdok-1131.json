@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr Assyriologie und vorderasiatische Arch\u00e4ologie, 75 (1985), pp. 150-152. Krebernik, Manfred (1995).", 
+    "description": "In: Zeitschrift für Assyriologie und vorderasiatische Archäologie, 75 (1985), pp. 150-152. Krebernik, Manfred (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.929678"
+            "when": "2015-10-27T18:46:20.651811"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.929694"
+            "when": "2015-10-27T18:46:20.651826"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Loretz, Oswald: Habiru - Hebr\u00e4er. Eine sozio-linguistische Studie \u00fcber die Herkunft des Gentiliziums \\'ibr\u00ee vom Appellativum habiru (= Beihefte zur Zeitschrift f\u00fcr die alttestamentliche Wissenschaft 160). Walter de Gruyter, Berlin/ New York, 1984", 
+    "title": "Loretz, Oswald: Habiru - Hebräer. Eine sozio-linguistische Studie über die Herkunft des Gentiliziums \\'ibrî vom Appellativum habiru (= Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 160). Walter de Gruyter, Berlin/ New York, 1984", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

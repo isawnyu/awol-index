@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arch\u00e9oG\u00e9ographie. Le site de l'arch\u00e9og\u00e9ographie est une r\u00e9alisation du Groupe de Recherches du CNRS intitul\u00e9 \"Trait\u00e9 de l'ESpace des Soci\u00e9t\u00e9s Rurales Anciennes\" (= GDR 2137, TESORA). Ce groupe, dont l'existence institutionnelle prend fin en 2007 apr\u00e8s 8 ann\u00e9es d'existence, a con\u00e7u et formalis\u00e9 une discipline nouvelle nomm\u00e9e arch\u00e9og\u00e9ographie et r\u00e9dig\u00e9 le Trait\u00e9 d'arch\u00e9og\u00e9ographie qui lui sert de base (en cours de parution). L'arch\u00e9og\u00e9ographie est enseign\u00e9e \u00e0 l'Universit\u00e9 de Paris-I Sorbonne dans le cadre d'un Master \"arch\u00e9ologie et environnement\", dont elle constitue une des quatre options. Les cours d'arch\u00e9og\u00e9ographie sont donn\u00e9s par G\u00e9rard Chouquer, Magali Wateaux, Sandrine Robert. La direction de th\u00e8ses sur des th\u00e8mes d'arch\u00e9og\u00e9ographie est assur\u00e9e par G\u00e9rard Chouquer dans le cadre d'un Doctorat d'arch\u00e9ologie de l\u2019\u00c9cole Doctorale d\u2019Arch\u00e9ologie de l\u2019Universit\u00e9 de Paris I (ED 112). Certaines th\u00e8ses sont encadr\u00e9es en co-direction avec Jo\u00eblle Burnouf. \u00c0 partir de l'ann\u00e9e universitaire 2007-2008, l'arch\u00e9og\u00e9ographie est enseign\u00e9e \u00e0 Coimbra, dans le cadre d'un Master \"Arch\u00e9ologie et territoires\", Sp\u00e9cialisation Arch\u00e9og\u00e9ographie, et, \u00e0 partir de 2008/2009 dans le cadre d'un Doctorat d'arch\u00e9og\u00e9ographie. L'encadrement des th\u00e8ses du doctorat d'arch\u00e9og\u00e9ographie sera assur\u00e9e par Maria da Concei\u00e7\u00e3o Lopes. Le responsable du site internet de l'arch\u00e9og\u00e9ographie est G\u00e9rard Chouquer, directeur de recherches au CNRS dans l'\u00e9quipe Arscan (\"Arch\u00e9ologie et Sciences de l'Antiquit\u00e9\" UMR 7041 du CNRS) et la sous-\u00e9quipe \"Arch\u00e9ologies environnementales\" que dirige Jo\u00eblle Burnouf. And see AWOL's.", 
+    "description": "ArchéoGéographie. Le site de l'archéogéographie est une réalisation du Groupe de Recherches du CNRS intitulé \"Traité de l'ESpace des Sociétés Rurales Anciennes\" (= GDR 2137, TESORA). Ce groupe, dont l'existence institutionnelle prend fin en 2007 après 8 années d'existence, a conçu et formalisé une discipline nouvelle nommée archéogéographie et rédigé le Traité d'archéogéographie qui lui sert de base (en cours de parution). L'archéogéographie est enseignée à l'Université de Paris-I Sorbonne dans le cadre d'un Master \"archéologie et environnement\", dont elle constitue une des quatre options. Les cours d'archéogéographie sont donnés par Gérard Chouquer, Magali Wateaux, Sandrine Robert. La direction de thèses sur des thèmes d'archéogéographie est assurée par Gérard Chouquer dans le cadre d'un Doctorat d'archéologie de l’École Doctorale d’Archéologie de l’Université de Paris I (ED 112). Certaines thèses sont encadrées en co-direction avec Joëlle Burnouf. À partir de l'année universitaire 2007-2008, l'archéogéographie est enseignée à Coimbra, dans le cadre d'un Master \"Archéologie et territoires\", Spécialisation Archéogéographie, et, à partir de 2008/2009 dans le cadre d'un Doctorat d'archéogéographie. L'encadrement des thèses du doctorat d'archéogéographie sera assurée par Maria da Conceição Lopes. Le responsable du site internet de l'archéogéographie est Gérard Chouquer, directeur de recherches au CNRS dans l'équipe Arscan (\"Archéologie et Sciences de l'Antiquité\" UMR 7041 du CNRS) et la sous-équipe \"Archéologies environnementales\" que dirige Joëlle Burnouf. And see AWOL's.", 
     "domain": "www.archeogeographie.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arch\u00e9oG\u00e9ographie", 
+        "title_full": "ArchéoGéographie", 
         "url": "http://www.archeogeographie.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6845300893839503009", 
             "resource_date": "2012-12-15T09:24:19.713-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.117012"
+            "when": "2015-10-27T18:45:17.122244"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/archeogeographie.html", 
             "resource_date": "2012-12-15T09:24:19.713-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.117029"
+            "when": "2015-10-27T18:45:17.122262"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6845300893839503009", 
             "resource_date": "2012-12-15T09:24:19.713-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.118442"
+            "when": "2015-10-27T18:45:17.123725"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/archeogeographie.html", 
             "resource_date": "2012-12-15T09:24:19.713-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.118454"
+            "when": "2015-10-27T18:45:17.123735"
         }, 
         {
             "fields": [
@@ -127,7 +127,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:36.121740"
+            "when": "2015-10-27T18:45:17.127496"
         }
     ], 
     "publishers": [], 
@@ -137,15 +137,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Arch\u00e9oG\u00e9ographie", 
+            "title_full": "ArchéoGéographie", 
             "url": "http://www.archeogeographie.org/"
         }, 
         {
-            "title_full": "Trait\u00e9 d'arch\u00e9og\u00e9ographie", 
+            "title_full": "Traité d'archéogéographie", 
             "url": "http://www.archeogeographie.org/index.php?rub=presentation/traite"
         }
     ], 
-    "title": "Arch\u00e9oG\u00e9ographie", 
+    "title": "ArchéoGéographie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

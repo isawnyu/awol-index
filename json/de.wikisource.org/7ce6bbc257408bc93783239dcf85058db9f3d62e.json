@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pal\u00e4stinajahrbuch des Deutschen Evangelischen Instituts f\u00fcr Altertumswissenschaft des Heiligen Landes zu Jerusalem. 1. Jg. 1905 Internet Archive = Google-USA*. 2. Jg. 1906 Google-USA*. 3. Jg. 1907 Internet Archive = Google-USA*. 4. Jg. 1908 Internet Archive = Google-USA*. 5. Jg. 1909 Internet Archive. 6. Jg. 1910 Internet Archive. 7. -9. Jg. 1911-1913 Internet Archive. 10. Jg. 1914 Internet Archive. 11. Jg. 1915 Internet Archive. 12. Jg. 1916 Internet Archive. 13. Jg. 1917 Internet Archive. 14. Jg. 1918 Internet Archive. 15. -16. Jg. 1919-1920 Internet Archive. 17. Jg. 1921 Internet Archive. 18. -19. Jg. 1922-1923 Internet ArchiveSee the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Palästinajahrbuch des Deutschen Evangelischen Instituts für Altertumswissenschaft des Heiligen Landes zu Jerusalem. 1. Jg. 1905 Internet Archive = Google-USA*. 2. Jg. 1906 Google-USA*. 3. Jg. 1907 Internet Archive = Google-USA*. 4. Jg. 1908 Internet Archive = Google-USA*. 5. Jg. 1909 Internet Archive. 6. Jg. 1910 Internet Archive. 7. -9. Jg. 1911-1913 Internet Archive. 10. Jg. 1914 Internet Archive. 11. Jg. 1915 Internet Archive. 12. Jg. 1916 Internet Archive. 13. Jg. 1917 Internet Archive. 14. Jg. 1918 Internet Archive. 15. -16. Jg. 1919-1920 Internet Archive. 17. Jg. 1921 Internet Archive. 18. -19. Jg. 1922-1923 Internet ArchiveSee the full List of Open Access Journals in Ancient Studies.", 
     "domain": "de.wikisource.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2334036405655426464", 
             "resource_date": "2013-12-30T09:22:59.057-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.297954"
+            "when": "2015-10-27T18:38:41.312187"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-acces-journal-palastinajahrbuch.html", 
             "resource_date": "2013-12-30T09:22:59.057-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.297972"
+            "when": "2015-10-27T18:38:41.312204"
         }
     ], 
     "publishers": [], 
@@ -83,7 +83,7 @@
             "url": "http://de.wikisource.org/wiki/Wikisource:GBSUS"
         }
     ], 
-    "title": "Pal\u00e4stinajahrbuch des Deutschen Evangelischen Instituts f\u00fcr Altertumswissenschaft des Heiligen Landes zu Jerusalem", 
+    "title": "Palästinajahrbuch des Deutschen Evangelischen Instituts für Altertumswissenschaft des Heiligen Landes zu Jerusalem", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

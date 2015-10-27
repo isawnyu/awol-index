@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie", 
+        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie", 
         "url": "http://archiv.ub.uni-heidelberg.de/portale/daidalos/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7166318577704825915", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.194281"
+            "when": "2015-10-27T18:45:30.367661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/daidalos-heidelberger-magisterarbeiten.html", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.194292"
+            "when": "2015-10-27T18:45:30.367671"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:43.204610"
+            "when": "2015-10-27T18:48:37.754663"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:43.204624"
+            "when": "2015-10-27T18:48:37.754679"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.776448"
+            "when": "2015-10-27T18:48:38.682319"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Gesellschaft der fr\u00fchen \u201eDunklen Jahrhunderte\" auf Kreta. Eine Untersuchung der arch\u00e4ologischen Hinterlassenschaften der Bev\u00f6lkerung Kretas w\u00e4hrend der Sp\u00e4tminoisch IIIC und Subminoischen Zeit im Bezug auf ihre soziale Aussagekraft und Bedeutung (Daidalos 2)", 
+    "title": "Die Gesellschaft der frühen „Dunklen Jahrhunderte\" auf Kreta. Eine Untersuchung der archäologischen Hinterlassenschaften der Bevölkerung Kretas während der Spätminoisch IIIC und Subminoischen Zeit im Bezug auf ihre soziale Aussagekraft und Bedeutung (Daidalos 2)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

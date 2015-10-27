@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "des livres \u00e0 la Biblioth\u00e8que de l\u2019\u00c9cole normale sup\u00e9rieure. SUPPL\u00c9MENTSLes auteurs pr\u00e9voient de pr\u00e9parer un suppl\u00e9ment annuel, qui sera ici mis en ligne chaque \u00e9t\u00e9. T\u00e9l\u00e9charger les suppl\u00e9ments disponibles:.", 
+    "description": "des livres à la Bibliothèque de l’École normale supérieure. SUPPLÉMENTSLes auteurs prévoient de préparer un supplément annuel, qui sera ici mis en ligne chaque été. Télécharger les suppléments disponibles:.", 
     "domain": "129.199.13.51", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Guide de l\u2019Epigraphiste", 
+        "title_full": "Guide de l’Epigraphiste", 
         "url": "http://129.199.13.51/ressources/publications-aux-p-e-n-s/guide-de-l-epigraphiste/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8868723366774250251", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.113950"
+            "when": "2015-10-27T18:48:53.170619"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/guide-de-lepigraphiste-online-supplement.html", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.113962"
+            "when": "2015-10-27T18:48:53.170630"
         }
     ], 
     "publishers": [], 

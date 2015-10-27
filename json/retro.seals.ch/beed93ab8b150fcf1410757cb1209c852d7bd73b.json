@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "as. Arch\u00e4ologie der Schweiz; Arch\u00e9ologie suisse; Archeologia svizzera. The magazine as. is published quarterly in three languages and provides information about the latest discoveries, research results, exhibitions, experimental archaeology and much more and is written in a style that is easily understood by laypeople. Each issue is dedicated to a different core theme. There is a special edition on a region or a topic every year. The journal is the official newsletter of the Swiss Archaeological Society (formerly: the Society for Pre- and Protohistory, SGUF), which has been published since 1937 under the titles \"Ur-Schweiz\" (Prehistoric Switzerland), \"Helvetia Archaeologica\" and \"Mitteilungsblatt SGUF\" (SGUF Newsletter). After the Helvetia Archaeologica split off in 1976 to become an independent journal, the \"Mitteilungsblatt SGUF\" first appeared in its present-day form under the name \"Arch\u00e4ologie der Schweiz\" (Archaeology of Switzerland). \"Arch\u00e4ologie Schweiz\" (Archaeology Switzerland) (until 2005: \"Schweizerische Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte\" - Swiss Society for Pre - and Protohistory), founded in 1907, is a society with members in every linguistic region in Switzerland. A good half are amateurs with an interest in archaeology, the rest are experts, students and other interested bodies. Today, Archaeology Switzerland concentrates on two areas: firstly, communicating results to all interested parties, and secondly, carrying out archaeological projects involving multiple Swiss cantons.", 
+    "description": "as. Archäologie der Schweiz; Archéologie suisse; Archeologia svizzera. The magazine as. is published quarterly in three languages and provides information about the latest discoveries, research results, exhibitions, experimental archaeology and much more and is written in a style that is easily understood by laypeople. Each issue is dedicated to a different core theme. There is a special edition on a region or a topic every year. The journal is the official newsletter of the Swiss Archaeological Society (formerly: the Society for Pre- and Protohistory, SGUF), which has been published since 1937 under the titles \"Ur-Schweiz\" (Prehistoric Switzerland), \"Helvetia Archaeologica\" and \"Mitteilungsblatt SGUF\" (SGUF Newsletter). After the Helvetia Archaeologica split off in 1976 to become an independent journal, the \"Mitteilungsblatt SGUF\" first appeared in its present-day form under the name \"Archäologie der Schweiz\" (Archaeology of Switzerland). \"Archäologie Schweiz\" (Archaeology Switzerland) (until 2005: \"Schweizerische Gesellschaft für Ur- und Frühgeschichte\" - Swiss Society for Pre - and Protohistory), founded in 1907, is a society with members in every linguistic region in Switzerland. A good half are amateurs with an interest in archaeology, the rest are experts, students and other interested bodies. Today, Archaeology Switzerland concentrates on two areas: firstly, communicating results to all interested parties, and secondly, carrying out archaeological projects involving multiple Swiss cantons.", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4193822689753305835", 
             "resource_date": "2010-03-30T14:24:32.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.746253"
+            "when": "2015-10-27T18:41:26.811647"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-as-archaologie-der.html", 
             "resource_date": "2010-03-30T14:24:32.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.746272"
+            "when": "2015-10-27T18:41:26.811663"
         }
     ], 
     "publishers": [], 
@@ -195,7 +195,7 @@
             "url": "http://retro.seals.ch/digbib/en/voltoc?rid=ars-002:2006:29::243&id=browse&id2=browse5&id3=3"
         }
     ], 
-    "title": "as. Arch\u00e4ologie der Schweiz ; Arch\u00e9ologie suisse ; Archeologia svizzera", 
+    "title": "as. Archäologie der Schweiz ; Archéologie suisse ; Archeologia svizzera", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

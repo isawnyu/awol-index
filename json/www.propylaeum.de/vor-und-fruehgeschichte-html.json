@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Es kommt dem Bed\u00fcrfnis des Internetnutzers nach schneller Literaturrecherche und nach einem m\u00f6glichst direkten Zugriff auf wissenschaftlich hochwertige Information entgegen. Wissenschaftler und Laien k\u00f6nnen aus einer Reihe von Angeboten im jeweiligen Fachbereich w\u00e4hlen. Es ist vorgesehen, alle diese Angebote so einzubinden, dass \u00fcber eine Metasuche gleichzeitig eine Vielzahl von Nachweisinstrumenten und Datenbanken recherchiert werden kann. The subject portal has been developed for eight areas of Classical Studies:.", 
+    "description": "Es kommt dem Bedürfnis des Internetnutzers nach schneller Literaturrecherche und nach einem möglichst direkten Zugriff auf wissenschaftlich hochwertige Information entgegen. Wissenschaftler und Laien können aus einer Reihe von Angeboten im jeweiligen Fachbereich wählen. Es ist vorgesehen, alle diese Angebote so einzubinden, dass über eine Metasuche gleichzeitig eine Vielzahl von Nachweisinstrumenten und Datenbanken recherchiert werden kann. The subject portal has been developed for eight areas of Classical Studies:.", 
     "domain": "www.propylaeum.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7624721469849203136", 
             "resource_date": "2011-03-14T09:46:43.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:15.928422"
+            "when": "2015-10-27T18:46:00.334697"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-digital-library-propylaeum.html", 
             "resource_date": "2011-03-14T09:46:43.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:15.928434"
+            "when": "2015-10-27T18:46:00.334709"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Vor- und Fr\u00fchgeschichte", 
+    "title": "Vor- und Frühgeschichte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Die Canabae von Carnuntum - eine Modellstudie der Erforschung r\u00f6mischer Lagervorst\u00e4dte.", 
+    "description": "Die Canabae von Carnuntum - eine Modellstudie der Erforschung römischer Lagervorstädte.", 
     "domain": "www.oapen.org", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1459741898464052849", 
             "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:33.185340"
+            "when": "2015-10-27T18:37:35.757000"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-library-oapen.html", 
             "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:33.185351"
+            "when": "2015-10-27T18:37:35.757012"
         }
     ], 
     "publishers": [], 

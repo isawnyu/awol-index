@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Les Annales Archeologiques Arabes Syriennes, 27/28 (1977), pp. 115-140. R\u00f6llig, Wolfgang and K\u00fchne, Hartmut (1983).", 
+    "description": "In: Les Annales Archeologiques Arabes Syriennes, 27/28 (1977), pp. 115-140. Röllig, Wolfgang and Kühne, Hartmut (1983).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.048591"
+            "when": "2015-10-27T18:46:25.887050"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.048607"
+            "when": "2015-10-27T18:46:25.887068"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The Lower Habur. A preliminary report on a survey conducted by the T\u00fcbinger Atlas des Vorderen Orients in 1975", 
+    "title": "The Lower Habur. A preliminary report on a survey conducted by the Tübinger Atlas des Vorderen Orients in 1975", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

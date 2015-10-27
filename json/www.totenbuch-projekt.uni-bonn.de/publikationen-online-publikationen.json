@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Totenbuch-Projekt Bonn: Online-Publikationen. Sie k\u00f6nnen hier unsere Datenbank zu Totenbuch-Besitzern der Sp\u00e4t- und Ptolem\u00e4erzeit herunterladen. Bitte lesen Sie zuerst die Datei \"Hinweise\". F\u00fcr die Verwendung der FileMaker-Datenbank m\u00fcssen Sie als erstes die Schriftart \"AegyptischDos\" auf ihrem Rechner installieren: Schriftsatz AegyptischDos (True Type-Font: 44 kb). Hinweise (pdf: 119 kb). Prosopographische Datenbank der sp\u00e4tzeitlichen- und ptolem\u00e4ischen Totenbuch-Besitzer (FileMaker: 1 MB; pdf: 8,35 MB). Index der Personennamen (pdf: 55 kb). And see also: Das alt\u00e4gyptische Totenbuch: Ein digitales Textzeugenarchiv.", 
+    "description": "Totenbuch-Projekt Bonn: Online-Publikationen. Sie können hier unsere Datenbank zu Totenbuch-Besitzern der Spät- und Ptolemäerzeit herunterladen. Bitte lesen Sie zuerst die Datei \"Hinweise\". Für die Verwendung der FileMaker-Datenbank müssen Sie als erstes die Schriftart \"AegyptischDos\" auf ihrem Rechner installieren: Schriftsatz AegyptischDos (True Type-Font: 44 kb). Hinweise (pdf: 119 kb). Prosopographische Datenbank der spätzeitlichen- und ptolemäischen Totenbuch-Besitzer (FileMaker: 1 MB; pdf: 8,35 MB). Index der Personennamen (pdf: 55 kb). And see also: Das altägyptische Totenbuch: Ein digitales Textzeugenarchiv.", 
     "domain": "www.totenbuch-projekt.uni-bonn.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4282919221516824956", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:23.441468"
+            "when": "2015-10-27T18:41:48.587984"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/totenbuch-projekt-bonn-online.html", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:23.441485"
+            "when": "2015-10-27T18:41:48.588000"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4282919221516824956", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:23.444310"
+            "when": "2015-10-27T18:41:48.591117"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/totenbuch-projekt-bonn-online.html", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:23.444323"
+            "when": "2015-10-27T18:41:48.591131"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:23.452714"
+            "when": "2015-10-27T18:41:48.602135"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "087: Ak\u0131nc\u0131 \u00d6zt\u00fcrk, E. - Tanr\u0131ver, C. , Some New Finds from the Sanctuary of Apollon Lairbenos.", 
+    "description": "087: Akıncı Öztürk, E. - Tanrıver, C. , Some New Finds from the Sanctuary of Apollon Lairbenos.", 
     "domain": "ifa.phil-fak.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6615839450005300841", 
             "resource_date": "2013-03-01T14:11:40.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:24.888960"
+            "when": "2015-10-27T18:45:04.677387"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/partially-open-access-journal.html", 
             "resource_date": "2013-03-01T14:11:40.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:24.888971"
+            "when": "2015-10-27T18:45:04.677401"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "081: Tanr\u0131ver, C., Three New Inscriptions from Tripolis", 
+    "title": "081: Tanrıver, C., Three New Inscriptions from Tripolis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bericht der R\u00f6misch-Germanischen Kommission. ISSN-Print 0341-9312. Der von der R\u00f6misch-Germanischen Kommission herausgegebene \u201eBericht der R\u00f6misch-Germanischen Kommission des Deutschen Arch\u00e4ologischen Instituts\" trug von 1905-1907 den Titel \u201eBericht \u00fcber die Fortschritte der R\u00f6misch-Germanischen Forschung\". Die Zeitschrift beinhaltet neben dem Jahresbericht der RGK gr\u00f6\u00dfere Forschungs\u00fcberblicke zu laufenden und abgeschlossenen Projekten von der Steinzeit bis ins fr\u00fche Mittelalter inklusive naturwissenschaftlicher Beitr\u00e4ge und Tagungsberichte, zeitweilig auch verschiedene Bibliographien. Die Aufs\u00e4tze werden in deutscher, englischer oder franz\u00f6sischer Sprache gedruckt und unterliegen einem Peer Review-Verfahren. Zurzeit werden hier die \u00e4lteren B\u00e4nde bereitgestellt. Nach Kl\u00e4rung offener Copyrightfragen folgen neuere und aktuelle B\u00e4nde. Archiv.", 
+    "description": "Bericht der Römisch-Germanischen Kommission. ISSN-Print 0341-9312. Der von der Römisch-Germanischen Kommission herausgegebene „Bericht der Römisch-Germanischen Kommission des Deutschen Archäologischen Instituts\" trug von 1905-1907 den Titel „Bericht über die Fortschritte der Römisch-Germanischen Forschung\". Die Zeitschrift beinhaltet neben dem Jahresbericht der RGK größere Forschungsüberblicke zu laufenden und abgeschlossenen Projekten von der Steinzeit bis ins frühe Mittelalter inklusive naturwissenschaftlicher Beiträge und Tagungsberichte, zeitweilig auch verschiedene Bibliographien. Die Aufsätze werden in deutscher, englischer oder französischer Sprache gedruckt und unterliegen einem Peer Review-Verfahren. Zurzeit werden hier die älteren Bände bereitgestellt. Nach Klärung offener Copyrightfragen folgen neuere und aktuelle Bände. Archiv.", 
     "domain": "journals.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1479795919939405712", 
             "resource_date": "2015-04-21T18:35:20.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:37.759038"
+            "when": "2015-10-27T18:37:40.831892"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-journal-bericht-der-romisch.html", 
             "resource_date": "2015-04-21T18:35:20.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:37.759055"
+            "when": "2015-10-27T18:37:40.831908"
         }
     ], 
     "publishers": [], 
@@ -84,7 +84,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bericht der R\u00f6misch-Germanischen Kommission", 
+    "title": "Bericht der Römisch-Germanischen Kommission", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

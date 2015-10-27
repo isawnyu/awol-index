@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: von Kaenel, H. -M. (Hrsg. ): Geldgeschichte versus Numismatik. Theodor Mommsen und die antike M\u00fcnze. Berlin 2004, pp. 5-20. Rebenich, Stefan (2002).", 
+    "description": "In: von Kaenel, H. -M. (Hrsg. ): Geldgeschichte versus Numismatik. Theodor Mommsen und die antike Münze. Berlin 2004, pp. 5-20. Rebenich, Stefan (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.466163"
+            "when": "2015-10-27T18:46:46.649649"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.466177"
+            "when": "2015-10-27T18:46:46.649664"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Erfindung der \"Gro\u00dfforschung\". Theodor Mommsen als Wissenschaftsorganisator", 
+    "title": "Die Erfindung der \"Großforschung\". Theodor Mommsen als Wissenschaftsorganisator", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica. EL ICAC es un centro de investigaci\u00f3n p\u00fablico en Arqueolog\u00eda Cl\u00e1sica creado por la Generalidad de Catalu\u00f1a y la Universidad Rovira i Virgili, con la participaci\u00f3n del Consejo Interuniversitario de Catalu\u00f1a. Tiene como finalidad la investigaci\u00f3n, la formaci\u00f3n avanzada y la difusi\u00f3n de la civilizaci\u00f3n y cultura cl\u00e1sicas. Hic et Nunc.", 
+    "description": "Institut Català d'Arqueologia Clàssica. EL ICAC es un centro de investigación público en Arqueología Clásica creado por la Generalidad de Cataluña y la Universidad Rovira i Virgili, con la participación del Consejo Interuniversitario de Cataluña. Tiene como finalidad la investigación, la formación avanzada y la difusión de la civilización y cultura clásicas. Hic et Nunc.", 
     "domain": "icac.cat", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+        "title_full": "Institut Català d'Arqueologia Clàssica", 
         "url": "http://icac.cat/en/publicacions-3/publicacions-propies"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6101806186654765679", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.891682"
+            "when": "2015-10-27T18:44:19.726820"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-books-from-institut-catala.html", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.891700"
+            "when": "2015-10-27T18:44:19.726833"
         }
     ], 
     "publishers": [], 

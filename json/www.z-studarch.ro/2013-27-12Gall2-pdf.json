@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Lumini\u0163a Andreica.", 
+    "description": "Luminiţa Andreica.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.602470"
+            "when": "2015-10-27T18:43:06.678915"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.602484"
+            "when": "2015-10-27T18:43:06.678927"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "From the fortress of Stephen I (997-1038) to the centre of \u201blord Gelou\u2019. D\u0103b\u00e2ca (germ.: Dobeschdorf; hung.: Doboka) in the nationalist myths in the 20th Century", 
+    "title": "From the fortress of Stephen I (997-1038) to the centre of ‛lord Gelou’. Dăbâca (germ.: Dobeschdorf; hung.: Doboka) in the nationalist myths in the 20th Century", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

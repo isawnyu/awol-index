@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "183-199 Kaczanowski, Piotr; Rodzi\u0144ska-Nowak, Judyta: Die r\u00f6mischen Fundm\u00fcnzen aus der Siedlung der Przeworsk-Kultur in Opatkowice (Gemeinde Proszowice, Woiwodschaft Krak\u00f3w).", 
+    "description": "183-199 Kaczanowski, Piotr; Rodzińska-Nowak, Judyta: Die römischen Fundmünzen aus der Siedlung der Przeworsk-Kultur in Opatkowice (Gemeinde Proszowice, Woiwodschaft Kraków).", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-791805912884718444", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.284697"
+            "when": "2015-10-27T18:46:50.504989"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-notae-numismaticae.html", 
             "resource_date": "2015-05-20T13:06:37.194-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.284711"
+            "when": "2015-10-27T18:46:50.505004"
         }
     ], 
     "publishers": [], 

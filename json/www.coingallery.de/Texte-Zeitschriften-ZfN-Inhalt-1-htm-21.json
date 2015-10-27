@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Zeitschrift f\u00fcr Numismatik", 
+        "title_full": "Zeitschrift für Numismatik", 
         "url": "http://www.coingallery.de/Texte/Zeitschriften/ZfN-Inhalt_1.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1499865476226280565", 
             "resource_date": "2014-10-20T10:18:06.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:38.396520"
+            "when": "2015-10-27T18:37:41.532109"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-zeitschrift-fur.html", 
             "resource_date": "2014-10-20T10:18:06.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:38.396532"
+            "when": "2015-10-27T18:37:41.532120"
         }
     ], 
     "publishers": [], 

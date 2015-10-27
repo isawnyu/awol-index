@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0213-5663", 
-        "title_full": "Anales de prehistoria y arqueolog\u00eda", 
+        "title_full": "Anales de prehistoria y arqueología", 
         "url": "http://dialnet.unirioja.es/servlet/revista?tipo_busqueda=CODIGO&clave_revista=78"
     }, 
     "issuance": null, 
@@ -76,13 +76,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8214559682146973850", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:16.864758"
+            "when": "2015-10-27T18:47:04.692705"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-in-ancient-studies.html", 
             "resource_date": "2009-09-20T15:33:38.380-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:16.864769"
+            "when": "2015-10-27T18:47:04.692717"
         }, 
         {
             "fields": [
@@ -123,13 +123,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8476008991115147483", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.773904"
+            "when": "2015-10-27T18:47:15.394436"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-memorias-de.html", 
             "resource_date": "2012-06-18T12:53:35.306-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.773921"
+            "when": "2015-10-27T18:47:15.394451"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.898013"
+            "when": "2015-10-27T18:47:15.514638"
         }
     ], 
     "publishers": [], 

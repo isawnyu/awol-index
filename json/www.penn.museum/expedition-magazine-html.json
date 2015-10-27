@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 29 September 2009. Updated 16 March 2014]. Expedition. ISSN 0014-4738. The University of Pennsylvania Museum of Archaeology and Anthropology also publishes Expedition (ISSN 0014-4738), a full-color peer-reviewed magazine that offers direct access to the latest findings of archaeologists and anthropologists around the world-many of them the Museum\u2019s own scholars. Issues also focus on special themes such as recent excavations in Italy or Greece, and may include articles by curators of upcoming Penn Museum exhibitions. In this section you can find the current issue of Expedition magazine, or browse through the entire run of back issues.", 
+    "description": "[First posted in AWOL 29 September 2009. Updated 16 March 2014]. Expedition. ISSN 0014-4738. The University of Pennsylvania Museum of Archaeology and Anthropology also publishes Expedition (ISSN 0014-4738), a full-color peer-reviewed magazine that offers direct access to the latest findings of archaeologists and anthropologists around the world-many of them the Museum’s own scholars. Issues also focus on special themes such as recent excavations in Italy or Greece, and may include articles by curators of upcoming Penn Museum exhibitions. In this section you can find the current issue of Expedition magazine, or browse through the entire run of back issues.", 
     "domain": "www.penn.museum", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6005439651466673420", 
             "resource_date": "2014-03-16T08:37:33.735-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:40.240475"
+            "when": "2015-10-27T18:44:14.880984"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-expedition.html", 
             "resource_date": "2014-03-16T08:37:33.735-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:40.240491"
+            "when": "2015-10-27T18:44:14.881000"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6005439651466673420", 
             "resource_date": "2014-03-16T08:37:33.735-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:40.244028"
+            "when": "2015-10-27T18:44:14.884573"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-expedition.html", 
             "resource_date": "2014-03-16T08:37:33.735-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:40.244044"
+            "when": "2015-10-27T18:44:14.884589"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:40.257184"
+            "when": "2015-10-27T18:44:14.895914"
         }
     ], 
     "publishers": [], 

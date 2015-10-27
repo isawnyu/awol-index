@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: B\u00f6ck, B. and Cancik-Kirschbaum, E. and Richter, Thomas (Hrsgg. ): Munuscula Mesopotamica, Festschrift f\u00fcr Johannes Renger, Alter Orient und Altes Testament 267. 1999, pp. 427-443. R\u00f6sch, Cordelia and Hock, Rainer and Sch\u00fcssler, Ulrich and Yule, Paul and Hannibal, Anne (1997).", 
+    "description": "In: Böck, B. and Cancik-Kirschbaum, E. and Richter, Thomas (Hrsgg. ): Munuscula Mesopotamica, Festschrift für Johannes Renger, Alter Orient und Altes Testament 267. 1999, pp. 427-443. Rösch, Cordelia and Hock, Rainer and Schüssler, Ulrich and Yule, Paul and Hannibal, Anne (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.076725"
+            "when": "2015-10-27T18:46:25.917987"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.076742"
+            "when": "2015-10-27T18:46:25.918004"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Mittelassyrische Texte zum Anbau von Gew\u00fcrzpflanzen", 
+    "title": "Mittelassyrische Texte zum Anbau von Gewürzpflanzen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

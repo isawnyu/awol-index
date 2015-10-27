@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "18: Present and Imperfect Indicative of \u03b5\u1f30\u03bc\u03af, be.", 
+    "description": "18: Present and Imperfect Indicative of εἰμί, be.", 
     "domain": "daedalus.umkc.edu", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223957040219465734", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.598907"
+            "when": "2015-10-27T18:40:16.498906"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/a-digital-tutorial-for-ancient-greek.html", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.598919"
+            "when": "2015-10-27T18:40:16.498917"
         }
     ], 
     "publishers": [], 

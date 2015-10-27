@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": El Suplemento a la Bibliograf\u00eda de \u00cdndices, l\u00e9xicos y concordancias incluye 392 entradas nuevas, correspondientes en su mayor parte a publicaciones de los a\u00f1os 1992 a 2005.", 
+    "description": ": El Suplemento a la Bibliografía de Índices, léxicos y concordancias incluye 392 entradas nuevas, correspondientes en su mayor parte a publicaciones de los años 1992 a 2005.", 
     "domain": "dge.cchs.csic.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Repertorio Bibliogr\u00e1fico de la Lexicograf\u00eda Griega, Suplemento (RBLG Supl.)", 
+        "title_full": "Repertorio Bibliográfico de la Lexicografía Griega, Suplemento (RBLG Supl.)", 
         "url": "http://dge.cchs.csic.es/blg/blg-s.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4170379521302546498", 
             "resource_date": "2013-01-18T11:11:22.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.150357"
+            "when": "2015-10-27T18:41:26.158289"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/omline-repertorio-bibliografico-de-la.html", 
             "resource_date": "2013-01-18T11:11:22.883-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.150369"
+            "when": "2015-10-27T18:41:26.158302"
         }
     ], 
     "publishers": [], 

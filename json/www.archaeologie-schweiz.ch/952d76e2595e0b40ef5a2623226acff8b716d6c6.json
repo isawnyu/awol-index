@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "R\u00e9sum\u00e9s zur Arch\u00e4ologie der Schweiz : Pal\u00e4olithikum - Lat\u00e8nezei", 
+        "title_full": "Résumés zur Archäologie der Schweiz : Paläolithikum - Latènezei", 
         "url": "http://www.archaeologie-schweiz.ch/fileadmin/user_upload/customers/archaeologie_schweiz/AS/Dokumente_dt/Onlinepublikationen_dt/RAS_EpRom/RAS_EpR.pdf"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-705588355967316239", 
             "resource_date": "2015-02-07T17:25:15.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.786055"
+            "when": "2015-10-27T18:45:22.219739"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-journal-resumes-zur.html", 
             "resource_date": "2015-02-07T17:25:15.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.786076"
+            "when": "2015-10-27T18:45:22.219760"
         }
     ], 
     "publishers": [], 

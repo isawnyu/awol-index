@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PCMA Newsletter. The Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA), in Polish Centrum Archeologii \u015ar\u00f3dziemnomorskiej im. Kazimierza Micha\u0142owskiego UW, is dedicated to the organization and coordination of archaeological research, both excavations and study projects, as well as conservation, reconstruction and restoration projects, in northeastern Africa, the Middle East and Cyprus (this currently concerns Egypt, Sudan, Cyprus, Syria, Lebanon, Iran and Kuwait). Projects include sites covering a broad chronological spectrum from the dawn of civilization (prehistoric times) through all the historic periods of the ancient Mediterranean civilizations to Late Antiquity and Early Islam. The research is carried out by Polish scholars representing different research institutes nationwide, frequently in association with foreign and international institutions. The Polish Centre also organizes and supports the participation of Polish specialists in international salvage projects (in Egypt, Sudan, Syria and Lebanon to date).", 
+    "description": "PCMA Newsletter. The Polish Centre of Mediterranean Archaeology of the University of Warsaw (PCMA), in Polish Centrum Archeologii Śródziemnomorskiej im. Kazimierza Michałowskiego UW, is dedicated to the organization and coordination of archaeological research, both excavations and study projects, as well as conservation, reconstruction and restoration projects, in northeastern Africa, the Middle East and Cyprus (this currently concerns Egypt, Sudan, Cyprus, Syria, Lebanon, Iran and Kuwait). Projects include sites covering a broad chronological spectrum from the dawn of civilization (prehistoric times) through all the historic periods of the ancient Mediterranean civilizations to Late Antiquity and Early Islam. The research is carried out by Polish scholars representing different research institutes nationwide, frequently in association with foreign and international institutions. The Polish Centre also organizes and supports the participation of Polish specialists in international salvage projects (in Egypt, Sudan, Syria and Lebanon to date).", 
     "domain": "www.pcma.uw.edu.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9196557659504168824", 
             "resource_date": "2013-08-01T20:25:40.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:23.081547"
+            "when": "2015-10-27T18:49:21.747059"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-acces-journal-newsletter-of-polish.html", 
             "resource_date": "2013-08-01T20:25:40.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:23.081560"
+            "when": "2015-10-27T18:49:21.747073"
         }
     ], 
     "publishers": [], 

@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8881114024219978475", 
             "resource_date": "2013-02-04T15:53:14.271-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.190168"
+            "when": "2015-10-27T18:48:53.254398"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/online-exhibition-catalog-das-antlitz.html", 
             "resource_date": "2013-02-04T15:53:14.271-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.190181"
+            "when": "2015-10-27T18:48:53.254414"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8881114024219978475", 
             "resource_date": "2013-02-04T15:53:14.271-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.191756"
+            "when": "2015-10-27T18:48:53.256041"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/online-exhibition-catalog-das-antlitz.html", 
             "resource_date": "2013-02-04T15:53:14.271-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.191767"
+            "when": "2015-10-27T18:48:53.256052"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:57.206707"
+            "when": "2015-10-27T18:48:53.271702"
         }
     ], 
     "publishers": [], 
@@ -170,7 +170,7 @@
             "url": "http://pro.geo.univie.ac.at/projects/khm/maps"
         }, 
         {
-            "title_full": "M\u00fcnzen", 
+            "title_full": "Münzen", 
             "url": "http://pro.geo.univie.ac.at/projects/khm/coins"
         }, 
         {

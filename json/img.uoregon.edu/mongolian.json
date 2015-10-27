@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8446009440781866294", 
             "resource_date": "2012-07-27T10:37:07.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.458216"
+            "when": "2015-10-27T18:47:15.080124"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/archaeology-and-landscape-in-altai.html", 
             "resource_date": "2012-07-27T10:37:07.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.458233"
+            "when": "2015-10-27T18:47:15.080140"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8446009440781866294", 
             "resource_date": "2012-07-27T10:37:07.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.460013"
+            "when": "2015-10-27T18:47:15.082033"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/archaeology-and-landscape-in-altai.html", 
             "resource_date": "2012-07-27T10:37:07.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.460025"
+            "when": "2015-10-27T18:47:15.082044"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.472627"
+            "when": "2015-10-27T18:47:15.096592"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3613258585450245611", 
             "resource_date": "2012-11-01T09:32:21.622-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.924895"
+            "when": "2015-10-27T18:40:49.619747"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/limited-open-access-to-palestine.html", 
             "resource_date": "2012-11-01T09:32:21.622-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.924911"
+            "when": "2015-10-27T18:40:49.619762"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3613258585450245611", 
             "resource_date": "2012-11-01T09:32:21.622-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:33.926489"
+            "when": "2015-10-27T18:40:49.622215"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/limited-open-access-to-palestine.html", 
             "resource_date": "2012-11-01T09:32:21.622-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:33.926500"
+            "when": "2015-10-27T18:40:49.622232"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:33.927905"
+            "when": "2015-10-27T18:40:49.624194"
         }
     ], 
     "publishers": [], 

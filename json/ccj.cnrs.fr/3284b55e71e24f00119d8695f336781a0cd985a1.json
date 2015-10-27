@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "). La num\u00e9risation des volumes a \u00e9t\u00e9 assur\u00e9e gr\u00e2ce au soutien du Centre de conservation du livre \u00e0 Arles.", 
+    "description": "). La numérisation des volumes a été assurée grâce au soutien du Centre de conservation du livre à Arles.", 
     "domain": "ccj.cnrs.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Etudes massali\u00e8tes", 
+        "title_full": "Etudes massaliètes", 
         "url": "http://ccj.cnrs.fr/spip.php?rubrique83"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668002532828441034", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.349783"
+            "when": "2015-10-27T18:38:53.669206"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-etudes-massalietes.html", 
             "resource_date": "2014-01-09T14:41:15.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.349795"
+            "when": "2015-10-27T18:38:53.669219"
         }
     ], 
     "publishers": [], 

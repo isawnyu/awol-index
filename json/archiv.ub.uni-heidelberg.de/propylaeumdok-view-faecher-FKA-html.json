@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Propylaeum-DOK: Digital Repository: Classical Archaeology. Jump to: A | B | C | D | E | F | G | H | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | Y | Z | [ | \u0160Number of items at this level: 683.", 
+    "description": "Propylaeum-DOK: Digital Repository: Classical Archaeology. Jump to: A | B | C | D | E | F | G | H | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | Y | Z | [ | ŠNumber of items at this level: 683.", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:03.681617"
+            "when": "2015-10-27T18:40:15.584583"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:03.681628"
+            "when": "2015-10-27T18:40:15.584594"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.551920"
+            "when": "2015-10-27T18:46:27.343846"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.551931"
+            "when": "2015-10-27T18:46:27.343858"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:41.901621"
+            "when": "2015-10-27T18:46:27.801985"
         }, 
         {
             "fields": [
@@ -174,13 +174,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.793245"
+            "when": "2015-10-27T18:46:46.998612"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.793258"
+            "when": "2015-10-27T18:46:46.998622"
         }, 
         {
             "fields": [
@@ -193,7 +193,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:00.415151"
+            "when": "2015-10-27T18:46:47.317558"
         }, 
         {
             "fields": [
@@ -234,13 +234,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:31.036831"
+            "when": "2015-10-27T18:48:23.965957"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:31.036848"
+            "when": "2015-10-27T18:48:23.965974"
         }, 
         {
             "fields": [
@@ -256,7 +256,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.266520"
+            "when": "2015-10-27T18:48:37.821295"
         }, 
         {
             "fields": [
@@ -297,13 +297,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.625964"
+            "when": "2015-10-27T18:48:50.488813"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.625975"
+            "when": "2015-10-27T18:48:50.488827"
         }, 
         {
             "fields": [
@@ -318,7 +318,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:54.825188"
+            "when": "2015-10-27T18:48:50.731379"
         }
     ], 
     "publishers": [], 
@@ -432,11 +432,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/view/faecher/FKA.html#group_=5B"
         }, 
         {
-            "title_full": "\u0160", 
+            "title_full": "Š", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/view/faecher/FKA.html#group_==0160"
         }, 
         {
-            "title_full": "\u00bbEin Ostwind wird Dich mitten auf dem Meer zerbrechen\u00ab. Ph\u00f6nizische Schiffswracks vom 8. bis 6. Jh. v. Chr. (Daidalos 4)", 
+            "title_full": "»Ein Ostwind wird Dich mitten auf dem Meer zerbrechen«. Phönizische Schiffswracks vom 8. bis 6. Jh. v. Chr. (Daidalos 4)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1003/"
         }, 
         {
@@ -464,15 +464,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/536/"
         }, 
         {
-            "title_full": "Aeneas oder Julus in Sperlonga und auf dem Gro\u00dfen Kameo von Frankreich?", 
+            "title_full": "Aeneas oder Julus in Sperlonga und auf dem Großen Kameo von Frankreich?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1339/"
         }, 
         {
-            "title_full": "Alexander Severus. Bronzeportr\u00e4t", 
+            "title_full": "Alexander Severus. Bronzeporträt", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1317/"
         }, 
         {
-            "title_full": "\"Am Birnbaum\": G\u00e4rten und Parks im antiken Rom, in den Vesuvst\u00e4dten und in Ostia", 
+            "title_full": "\"Am Birnbaum\": Gärten und Parks im antiken Rom, in den Vesuvstädten und in Ostia", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1745/"
         }, 
         {
@@ -488,7 +488,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1338/"
         }, 
         {
-            "title_full": "Die Bildnisse des Gaius Cilnius Maecenas in Arezzo und an der \u00c4ra Pacis", 
+            "title_full": "Die Bildnisse des Gaius Cilnius Maecenas in Arezzo und an der Ära Pacis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1352/"
         }, 
         {
@@ -496,7 +496,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1394/"
         }, 
         {
-            "title_full": "Die antiken Sarkophagreliefs (1,2): Die Sarkophage mit Darstellungen aus dem Menschenleben: Die r\u00f6mischen Jagdsarkophage", 
+            "title_full": "Die antiken Sarkophagreliefs (1,2): Die Sarkophage mit Darstellungen aus dem Menschenleben: Die römischen Jagdsarkophage", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1572/"
         }, 
         {
@@ -504,19 +504,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1337/"
         }, 
         {
-            "title_full": "Die r\u00f6mischen Kopien in Marmor nach griechischen Meisterwerken in Bronze als Ausdruck der r\u00f6mischen Kultur", 
+            "title_full": "Die römischen Kopien in Marmor nach griechischen Meisterwerken in Bronze als Ausdruck der römischen Kultur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1319/"
         }, 
         {
-            "title_full": "Drei neue Vasen in den Kunstsammlungen der Ruhr-Universit\u00e4t und die homerischen Epen", 
+            "title_full": "Drei neue Vasen in den Kunstsammlungen der Ruhr-Universität und die homerischen Epen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1447/"
         }, 
         {
-            "title_full": "Ein Amazonengem\u00e4lde", 
+            "title_full": "Ein Amazonengemälde", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1336/"
         }, 
         {
-            "title_full": "\u201eEiner neuen Wahrheit ist nichts sch\u00e4dlicher als ein alter Irrtum.\" Noch einmal zum Praetorium Speluncae", 
+            "title_full": "„Einer neuen Wahrheit ist nichts schädlicher als ein alter Irrtum.\" Noch einmal zum Praetorium Speluncae", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1331/"
         }, 
         {
@@ -524,7 +524,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1332/"
         }, 
         {
-            "title_full": "Gef\u00e4ssk\u00f6rper und Malerei bei der Giganten-Amphora aus Melos im Louvre", 
+            "title_full": "Gefässkörper und Malerei bei der Giganten-Amphora aus Melos im Louvre", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1322/"
         }, 
         {
@@ -532,7 +532,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1323/"
         }, 
         {
-            "title_full": "\u201eIgni et aqua accipi\". Zur Aldobrandinischen Hochzeit", 
+            "title_full": "„Igni et aqua accipi\". Zur Aldobrandinischen Hochzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1330/"
         }, 
         {
@@ -540,7 +540,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1335/"
         }, 
         {
-            "title_full": "Kurze Geschichte des Deutschen Arch\u00e4ologischen Instituts in Rom. Dargestellt im Wirken seiner leitenden Gelehrten", 
+            "title_full": "Kurze Geschichte des Deutschen Archäologischen Instituts in Rom. Dargestellt im Wirken seiner leitenden Gelehrten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1328/"
         }, 
         {
@@ -564,11 +564,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1315/"
         }, 
         {
-            "title_full": "Motivgeschichtliche Untersuchungen zu den r\u00f6mischen Schlachtsarkophagen", 
+            "title_full": "Motivgeschichtliche Untersuchungen zu den römischen Schlachtsarkophagen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1573/"
         }, 
         {
-            "title_full": "Odysseus: Arch\u00e4ologie des europ\u00e4ischen Menschenbildes", 
+            "title_full": "Odysseus: Archäologie des europäischen Menschenbildes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1634/"
         }, 
         {
@@ -580,35 +580,35 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1324/"
         }, 
         {
-            "title_full": "Proportion. Vortrag aus Anla\u00df der Aufstellung des L\u00f6wenjagdsarkophages aus der Sammlung Peter und Irene Ludwig im Antikenmuseum Basel", 
+            "title_full": "Proportion. Vortrag aus Anlaß der Aufstellung des Löwenjagdsarkophages aus der Sammlung Peter und Irene Ludwig im Antikenmuseum Basel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1325/"
         }, 
         {
-            "title_full": "Rekonstruktion des gro\u00dfen Oecus der Villa des P. Fannius Synistor in Boscoreale", 
+            "title_full": "Rekonstruktion des großen Oecus der Villa des P. Fannius Synistor in Boscoreale", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1314/"
         }, 
         {
-            "title_full": "Schmuck eines Wasserbeckens in Sperlonga. Zum Typus des sitzenden Kn\u00e4bleins aus dem Schiffsfund von Mahdia", 
+            "title_full": "Schmuck eines Wasserbeckens in Sperlonga. Zum Typus des sitzenden Knäbleins aus dem Schiffsfund von Mahdia", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1333/"
         }, 
         {
-            "title_full": "Sch\u00f6nheit des Realismus: Auftraggeber, Sch\u00f6pfer, Betrachter hellenistischer Plastik", 
+            "title_full": "Schönheit des Realismus: Auftraggeber, Schöpfer, Betrachter hellenistischer Plastik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1632/"
         }, 
         {
-            "title_full": "Seleukos Nikator als Pezh\u00e9tairos im Alexandermosaik", 
+            "title_full": "Seleukos Nikator als Pezhétairos im Alexandermosaik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1345/"
         }, 
         {
-            "title_full": "Statuette einer T\u00e4nzerin aus Fianello Sabino", 
+            "title_full": "Statuette einer Tänzerin aus Fianello Sabino", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1329/"
         }, 
         {
-            "title_full": "Studien zur r\u00f6mischen Grabkunst", 
+            "title_full": "Studien zur römischen Grabkunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1718/"
         }, 
         {
-            "title_full": "Wolfgang Heibig: Zweiter Sekret\u00e4r des Instituto di Corrispondenza Archeologica und dessen Nachfolgeinstitution des Arch\u00e4ologischen Instituts des deutschen Reiches 1865-1887", 
+            "title_full": "Wolfgang Heibig: Zweiter Sekretär des Instituto di Corrispondenza Archeologica und dessen Nachfolgeinstitution des Archäologischen Instituts des deutschen Reiches 1865-1887", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1731/"
         }, 
         {
@@ -620,15 +620,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1326/"
         }, 
         {
-            "title_full": "Zur Einheitlichkeit der Statuenausstattung im Nymph\u00e4um des Kaisers Claudius bei Baiae", 
+            "title_full": "Zur Einheitlichkeit der Statuenausstattung im Nymphäum des Kaisers Claudius bei Baiae", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1327/"
         }, 
         {
-            "title_full": "Zur Komposition des gro\u00dfen Ludovisischen Schlachtsarkophages", 
+            "title_full": "Zur Komposition des großen Ludovisischen Schlachtsarkophages", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1440/"
         }, 
         {
-            "title_full": "Struktur\u00e4quivalenzen zwischen den homerischen Epen und der fr\u00fchgriechischen Vasenkunst", 
+            "title_full": "Strukturäquivalenzen zwischen den homerischen Epen und der frühgriechischen Vasenkunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1475/"
         }, 
         {
@@ -636,7 +636,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/528/"
         }, 
         {
-            "title_full": "Funktionen republikanischer und fr\u00fchkaiserzeitlicher Forumsbasiliken in Italien", 
+            "title_full": "Funktionen republikanischer und frühkaiserzeitlicher Forumsbasiliken in Italien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/76/"
         }, 
         {
@@ -656,7 +656,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/511/"
         }, 
         {
-            "title_full": "Propylaeum, die Virtuelle Fachbibliothek der Altertumswissenschaften - Aspekte f\u00e4cher\u00fcbergreifender Recherche und Vernetzung", 
+            "title_full": "Propylaeum, die Virtuelle Fachbibliothek der Altertumswissenschaften - Aspekte fächerübergreifender Recherche und Vernetzung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/932/"
         }, 
         {
@@ -684,43 +684,43 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/483/"
         }, 
         {
-            "title_full": "B\u00f6otische Vasen", 
+            "title_full": "Böotische Vasen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1182/"
         }, 
         {
-            "title_full": "Allegorie der Kunst - Kunst der Allegorie. Winckelmanns \"Kunstbeschreibungen\" als arch\u00e4ologischer Kommentar", 
+            "title_full": "Allegorie der Kunst - Kunst der Allegorie. Winckelmanns \"Kunstbeschreibungen\" als archäologischer Kommentar", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/373/"
         }, 
         {
-            "title_full": "Aphrodisians on display: the public image of the local \u00e9lite. Rezension R.R.R. Smith, with Sheila Dillon, Christopher H. Hallett, Julia Lenaghan and Julie van Voorhis, Aphrodisias II. Roman Portrait Statuary from Aphrodisias (Mainz 2006)", 
+            "title_full": "Aphrodisians on display: the public image of the local élite. Rezension R.R.R. Smith, with Sheila Dillon, Christopher H. Hallett, Julia Lenaghan and Julie van Voorhis, Aphrodisias II. Roman Portrait Statuary from Aphrodisias (Mainz 2006)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/503/"
         }, 
         {
-            "title_full": "Bilder aus dem W\u00fcstensand. Mumienportr\u00e4ts aus dem \u00c4gyptischen Museum Kairo. Ausstellungskatalog des Kunsthistorischen Museums Wien (Mailand/Wien 1998) - Mumien aus dem Alten \u00c4gypten. Zur Mumienforschung im Kunsthistorischen Museum Wien (Mailand/Wien 1998)", 
+            "title_full": "Bilder aus dem Wüstensand. Mumienporträts aus dem Ägyptischen Museum Kairo. Ausstellungskatalog des Kunsthistorischen Museums Wien (Mailand/Wien 1998) - Mumien aus dem Alten Ägypten. Zur Mumienforschung im Kunsthistorischen Museum Wien (Mailand/Wien 1998)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/420/"
         }, 
         {
-            "title_full": "Bilder zum H\u00f6ren - Bilder zum Sehen: Lukians Ekphraseis und die Rekonstruktion antiker Kunstwerke", 
+            "title_full": "Bilder zum Hören - Bilder zum Sehen: Lukians Ekphraseis und die Rekonstruktion antiker Kunstwerke", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/571/"
         }, 
         {
-            "title_full": "Blinde Flecken: Die fr\u00fche griechische Allegorie als Beispiel kollektiver Verdr\u00e4ngung", 
+            "title_full": "Blinde Flecken: Die frühe griechische Allegorie als Beispiel kollektiver Verdrängung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/403/"
         }, 
         {
-            "title_full": "Christoph Reusser (Hrsg.), Griechenland in der Kaiserzeit: Neue Funde und Forschungen zu Skulptur, Architektur und Topographie. Heft des Arch\u00e4ologischen Seminars der Universit\u00e4t Bern 4. Beiheft (Bern 2001)", 
+            "title_full": "Christoph Reusser (Hrsg.), Griechenland in der Kaiserzeit: Neue Funde und Forschungen zu Skulptur, Architektur und Topographie. Heft des Archäologischen Seminars der Universität Bern 4. Beiheft (Bern 2001)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/436/"
         }, 
         {
-            "title_full": "Das Bild des Philosophen und die r\u00f6mischen Eliten", 
+            "title_full": "Das Bild des Philosophen und die römischen Eliten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1762/"
         }, 
         {
-            "title_full": "Das Gesicht der Aufsteiger - R\u00f6mische Freigelassene und die Ideologie der Elite", 
+            "title_full": "Das Gesicht der Aufsteiger - Römische Freigelassene und die Ideologie der Elite", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/411/"
         }, 
         {
-            "title_full": "Das Gesicht der Elite. Multikulturelle Identit\u00e4ten im r\u00f6mischen \u00c4gypten", 
+            "title_full": "Das Gesicht der Elite. Multikulturelle Identitäten im römischen Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/375/"
         }, 
         {
@@ -728,11 +728,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/407/"
         }, 
         {
-            "title_full": "Die unsichtbaren Steinbr\u00fcche. Zur Bausteinprovenienz des Apollon-Heiligtums von Didyma", 
+            "title_full": "Die unsichtbaren Steinbrüche. Zur Bausteinprovenienz des Apollon-Heiligtums von Didyma", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/374/"
         }, 
         {
-            "title_full": "Epigrams, art and epic: The \u2018Chest of Kypselos\u2019", 
+            "title_full": "Epigrams, art and epic: The ‘Chest of Kypselos’", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1763/"
         }, 
         {
@@ -752,7 +752,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/430/"
         }, 
         {
-            "title_full": "Gef\u00e4hrliche Bilder? Gewalt und Leidenschaft in der archaischen und klassischen Kunst", 
+            "title_full": "Gefährliche Bilder? Gewalt und Leidenschaft in der archaischen und klassischen Kunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/431/"
         }, 
         {
@@ -764,7 +764,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/432/"
         }, 
         {
-            "title_full": "Ilona Skupinska-L\u00f8vset, Portraiture in Roman Syria. A study in social and regional differentiation within the art of portraiture (Lodz 1999)", 
+            "title_full": "Ilona Skupinska-Løvset, Portraiture in Roman Syria. A study in social and regional differentiation within the art of portraiture (Lodz 1999)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/437/"
         }, 
         {
@@ -772,19 +772,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/464/"
         }, 
         {
-            "title_full": "Jenseits des mos maiorum: Eine Arch\u00e4ologie r\u00f6mischer Werte?", 
+            "title_full": "Jenseits des mos maiorum: Eine Archäologie römischer Werte?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/433/"
         }, 
         {
-            "title_full": "K. Schade, Frauen in der Sp\u00e4tantike - Status und Repr\u00e4sentation. Eine Untersuchung zur r\u00f6mischen und fr\u00fchbyzantinischen Bildniskunst (Mainz 2003)", 
+            "title_full": "K. Schade, Frauen in der Spätantike - Status und Repräsentation. Eine Untersuchung zur römischen und frühbyzantinischen Bildniskunst (Mainz 2003)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/501/"
         }, 
         {
-            "title_full": "[Katalogbeitr\u00e4ge]: VI,4 - VI,12; VI,14 - VI,15", 
+            "title_full": "[Katalogbeiträge]: VI,4 - VI,12; VI,14 - VI,15", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1812/"
         }, 
         {
-            "title_full": "Konzepte ethnischer Identit\u00e4ten. Die 'griechisch-r\u00f6mische' Sepulkralkunst \u00c4gyptens", 
+            "title_full": "Konzepte ethnischer Identitäten. Die 'griechisch-römische' Sepulkralkunst Ägyptens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/435/"
         }, 
         {
@@ -792,23 +792,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/421/"
         }, 
         {
-            "title_full": "Literarische Ekphrasis und k\u00fcnstlerischer Realismus", 
+            "title_full": "Literarische Ekphrasis und künstlerischer Realismus", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/463/"
         }, 
         {
-            "title_full": "Lo sguardo interiore. Memoria di s\u00e9 nell\u2019Egitto romano", 
+            "title_full": "Lo sguardo interiore. Memoria di sé nell’Egitto romano", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1764/"
         }, 
         {
-            "title_full": "Marmor f\u00fcr Apoll - Ein Beitrag zur Baugeschichte des j\u00fcngeren Didymaion und der historischen Topographie seiner Umgebung", 
+            "title_full": "Marmor für Apoll - Ein Beitrag zur Baugeschichte des jüngeren Didymaion und der historischen Topographie seiner Umgebung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/410/"
         }, 
         {
-            "title_full": "Mumienportr\u00e4ts, Kat.-Nr. 92-94", 
+            "title_full": "Mumienporträts, Kat.-Nr. 92-94", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/376/"
         }, 
         {
-            "title_full": "Performanz und Bildinszenierung am \u00dcbergang zur Sp\u00e4tantike", 
+            "title_full": "Performanz und Bildinszenierung am Übergang zur Spätantike", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1792/"
         }, 
         {
@@ -816,19 +816,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/404/"
         }, 
         {
-            "title_full": "R. Neudecker - P. Zanker (Hrsg.), Lebenswelten, Bilder und R\u00e4ume in der r\u00f6mischen Stadt der Kaiserzeit. Symposium am 24. und 25. Januar 2002 zum Abschlu\u00df des von der Gerda Henkel Stiftung gef\u00f6rderten Forschungsprogramms \"Stadtkultur in der r\u00f6mischen Kaiserzeit\", Palilia 16 (Wiesbaden 2005)", 
+            "title_full": "R. Neudecker - P. Zanker (Hrsg.), Lebenswelten, Bilder und Räume in der römischen Stadt der Kaiserzeit. Symposium am 24. und 25. Januar 2002 zum Abschluß des von der Gerda Henkel Stiftung geförderten Forschungsprogramms \"Stadtkultur in der römischen Kaiserzeit\", Palilia 16 (Wiesbaden 2005)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/496/"
         }, 
         {
-            "title_full": "Severisches Mumienportr\u00e4t eines M\u00e4dchens, Kat.-Nr. 221", 
+            "title_full": "Severisches Mumienporträt eines Mädchens, Kat.-Nr. 221", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/377/"
         }, 
         {
-            "title_full": "Traumland \u00c4gypten - Zur Rezeption \u00e4gyptischer Luxusmotive", 
+            "title_full": "Traumland Ägypten - Zur Rezeption ägyptischer Luxusmotive", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/438/"
         }, 
         {
-            "title_full": "V. Kockel, Portr\u00e4treliefs stadtr\u00f6mischer Grabbauten (1993)", 
+            "title_full": "V. Kockel, Porträtreliefs stadtrömischer Grabbauten (1993)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/422/"
         }, 
         {
@@ -848,7 +848,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/579/"
         }, 
         {
-            "title_full": "Erg\u00e4nzungen zu den letzten Untersuchungen auf der Akropolis: Der Altar des Eleusinion zu Athen", 
+            "title_full": "Ergänzungen zu den letzten Untersuchungen auf der Akropolis: Der Altar des Eleusinion zu Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/344/"
         }, 
         {
@@ -860,19 +860,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1135/"
         }, 
         {
-            "title_full": "Porosskulpturen auf der Akropolis. II. Der gr\u00f6\u00dfere Tritongiebel", 
+            "title_full": "Porosskulpturen auf der Akropolis. II. Der größere Tritongiebel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1134/"
         }, 
         {
-            "title_full": "Der Arch\u00e4ologe Giovanni Pietro Bellori", 
+            "title_full": "Der Archäologe Giovanni Pietro Bellori", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1608/"
         }, 
         {
-            "title_full": "Die Wirkung Winckelmanns in der Geschichte der klassischen Arch\u00e4ologie", 
+            "title_full": "Die Wirkung Winckelmanns in der Geschichte der klassischen Archäologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1561/"
         }, 
         {
-            "title_full": "Gedanken zum Verst\u00e4ndnis des Kairos bei Winckelmann und Heyne", 
+            "title_full": "Gedanken zum Verständnis des Kairos bei Winckelmann und Heyne", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1562/"
         }, 
         {
@@ -880,11 +880,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1609/"
         }, 
         {
-            "title_full": "Pelike mit Darstellung der Entf\u00fchrung des Tithonos durch Eos", 
+            "title_full": "Pelike mit Darstellung der Entführung des Tithonos durch Eos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1612/"
         }, 
         {
-            "title_full": "Von Pompeji bis Troja: arch\u00e4ologische Entdeckungen von Winckelmann bis Schliemann; Ausstellung im Winckelmann - Museum vom 8. Dezember 1990 bis 10. M\u00e4rz 1991", 
+            "title_full": "Von Pompeji bis Troja: archäologische Entdeckungen von Winckelmann bis Schliemann; Ausstellung im Winckelmann - Museum vom 8. Dezember 1990 bis 10. März 1991", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1696/"
         }, 
         {
@@ -892,7 +892,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1697/"
         }, 
         {
-            "title_full": "Marmork\u00f6pfchen aus Meligu", 
+            "title_full": "Marmorköpfchen aus Meligu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/772/"
         }, 
         {
@@ -908,11 +908,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/718/"
         }, 
         {
-            "title_full": "\u039c\u03af\u03b1 \u0391\u03b3\u03b7\u03c9\u03c3\u03c4\u03b7 \u03c0\u03b7\u03b3\u03b7 \u03b3\u03af\u03b1 \u03c4\u03b7 \u039b\u03b1\u03c4\u03c1\u03af\u03b1 \u03c3\u03c4\u03bf \u0399\u03b4\u03b1\u03af\u03bf \u03b1\u03bd\u03c4\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd \u03a5\u03c3\u03c4\u03b1\u03c4\u03b7 \u0391\u03c1\u03c7\u03b1\u03af\u03bf\u03c4\u03b7\u03c4\u03b1", 
+            "title_full": "Μία Αγηωστη πηγη γία τη Λατρία στο Ιδαίο αντρο στην Υστατη Αρχαίοτητα", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/190/"
         }, 
         {
-            "title_full": "\u03a0\u03c1\u03bf\u03c3\u03b4\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u1f76 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03c4\u1f74\u03bd \u1f11\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u1f74 \u039a\u03c1\u03ae\u03c4\u03b7", 
+            "title_full": "Προσδιορισμοὶ ταυτότητας στὴν ἑλληνιστικὴ Κρήτη", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1862/"
         }, 
         {
@@ -928,15 +928,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/322/"
         }, 
         {
-            "title_full": "Das Bankett des Damas und der Hymnos des Sosandros: \u00d6ffentlicher Diskurs \u00fcber Rituale in den griechischen St\u00e4dten der Kaiserzeit", 
+            "title_full": "Das Bankett des Damas und der Hymnos des Sosandros: Öffentlicher Diskurs über Rituale in den griechischen Städten der Kaiserzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/703/"
         }, 
         {
-            "title_full": "Der Kaiserkult im Osten des R\u00f6mischen Reiches im Kontext der zeitgen\u00f6ssischen Ritualpraxis", 
+            "title_full": "Der Kaiserkult im Osten des Römischen Reiches im Kontext der zeitgenössischen Ritualpraxis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/693/"
         }, 
         {
-            "title_full": "Der Tod des Lebens und die Tr\u00e4nen des Peneios: Eine thessalische Grabelegie", 
+            "title_full": "Der Tod des Lebens und die Tränen des Peneios: Eine thessalische Grabelegie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/668/"
         }, 
         {
@@ -944,7 +944,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/729/"
         }, 
         {
-            "title_full": "Ein alexandrinischer Dichter und Kreta: Mythische Vergangenheit und gegenw\u00e4rtige Kultpraxis bei Kallimachos", 
+            "title_full": "Ein alexandrinischer Dichter und Kreta: Mythische Vergangenheit und gegenwärtige Kultpraxis bei Kallimachos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/722/"
         }, 
         {
@@ -952,7 +952,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/704/"
         }, 
         {
-            "title_full": "Familiensache: Demonstration von Zusammengeh\u00f6rigkeit im altgriechischen Grabritual", 
+            "title_full": "Familiensache: Demonstration von Zusammengehörigkeit im altgriechischen Grabritual", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/705/"
         }, 
         {
@@ -964,7 +964,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/707/"
         }, 
         {
-            "title_full": "Griechische Rituale der Status\u00e4nderung und ihre Dynamik", 
+            "title_full": "Griechische Rituale der Statusänderung und ihre Dynamik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/708/"
         }, 
         {
@@ -972,7 +972,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/694/"
         }, 
         {
-            "title_full": "Heiligt\u00fcmer \u00fcberregionaler Bedeutung auf Kreta", 
+            "title_full": "Heiligtümer überregionaler Bedeutung auf Kreta", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/840/"
         }, 
         {
@@ -1028,11 +1028,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/669/"
         }, 
         {
-            "title_full": "Vom Erlebnis zum Mythos: Identit\u00e4tskonstruktionen im kaiserzeitlichen Aphrodisias", 
+            "title_full": "Vom Erlebnis zum Mythos: Identitätskonstruktionen im kaiserzeitlichen Aphrodisias", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/698/"
         }, 
         {
-            "title_full": "Zwischen Konfrontation und Interaktion: Christen, Juden und Heiden im sp\u00e4tantiken Aphrodisias", 
+            "title_full": "Zwischen Konfrontation und Interaktion: Christen, Juden und Heiden im spätantiken Aphrodisias", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/670/"
         }, 
         {
@@ -1052,11 +1052,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/665/"
         }, 
         {
-            "title_full": "Die Sprache der religi\u00f6sen Kommunikation im r\u00f6mischen Osten: Konvergenz und Differenzierung", 
+            "title_full": "Die Sprache der religiösen Kommunikation im römischen Osten: Konvergenz und Differenzierung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/723/"
         }, 
         {
-            "title_full": "Die Altertumswissenschaften an der Universit\u00e4t Heidelberg 1933-1945", 
+            "title_full": "Die Altertumswissenschaften an der Universität Heidelberg 1933-1945", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/702/"
         }, 
         {
@@ -1088,7 +1088,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/345/"
         }, 
         {
-            "title_full": "Numismatique syrienne. \u00c9m\u00e8se", 
+            "title_full": "Numismatique syrienne. Émèse", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/370/"
         }, 
         {
@@ -1112,11 +1112,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1112/"
         }, 
         {
-            "title_full": "Die Propyl\u00e4en der Akropolis von Athen I. Das urspr\u00fcngliche Project des Mnesikles", 
+            "title_full": "Die Propyläen der Akropolis von Athen I. Das ursprüngliche Project des Mnesikles", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/777/"
         }, 
         {
-            "title_full": "Die Propyl\u00e4en der Akropolis von Athen II. Ueber die Gestalt des S\u00fcdwestfl\u00fcgels", 
+            "title_full": "Die Propyläen der Akropolis von Athen II. Ueber die Gestalt des Südwestflügels", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/778/"
         }, 
         {
@@ -1156,7 +1156,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/570/"
         }, 
         {
-            "title_full": "Die makedonischen K\u00f6nigssarkophage", 
+            "title_full": "Die makedonischen Königssarkophage", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1163/"
         }, 
         {
@@ -1172,11 +1172,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/359/"
         }, 
         {
-            "title_full": "Pir\u00e4us: Der Hafen als Wirtschafts-, Kontakt- und Problemzone der klassischen Polis", 
+            "title_full": "Piräus: Der Hafen als Wirtschafts-, Kontakt- und Problemzone der klassischen Polis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/296/"
         }, 
         {
-            "title_full": "Zierde f\u00fcr das Diesseits und das Jenseits: Bronzezeitlicher Schmuck aus Kreta", 
+            "title_full": "Zierde für das Diesseits und das Jenseits: Bronzezeitlicher Schmuck aus Kreta", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/3/"
         }, 
         {
@@ -1184,11 +1184,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/529/"
         }, 
         {
-            "title_full": "Pushing the archaeological interpretation by analysing workflow protocols: the variable transparency image stacker and DATARCH\u00a9 archaeological data management system", 
+            "title_full": "Pushing the archaeological interpretation by analysing workflow protocols: the variable transparency image stacker and DATARCH© archaeological data management system", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/485/"
         }, 
         {
-            "title_full": "Alterth\u00fcmer auf der Insel Samos", 
+            "title_full": "Alterthümer auf der Insel Samos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/945/"
         }, 
         {
@@ -1220,7 +1220,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1246/"
         }, 
         {
-            "title_full": "Winckelmann als Commissario delle Antichit\u00e4", 
+            "title_full": "Winckelmann als Commissario delle Antichitä", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1824/"
         }, 
         {
@@ -1240,7 +1240,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/219/"
         }, 
         {
-            "title_full": "Die Nabel der Welt. \u00dcberlegungen zur Kanonisierung der \"panhellenischen\" Heiligt\u00fcmer", 
+            "title_full": "Die Nabel der Welt. Überlegungen zur Kanonisierung der \"panhellenischen\" Heiligtümer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/691/"
         }, 
         {
@@ -1256,15 +1256,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1354/"
         }, 
         {
-            "title_full": "Pausanias und die griechischen Heiligt\u00fcmer und Kulte", 
+            "title_full": "Pausanias und die griechischen Heiligtümer und Kulte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1356/"
         }, 
         {
-            "title_full": "Philippos III. Arrhidaios und Alexander IV. - \"von Amun auserw\u00e4hlt\"", 
+            "title_full": "Philippos III. Arrhidaios und Alexander IV. - \"von Amun auserwählt\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/674/"
         }, 
         {
-            "title_full": "Polis und Asty. Einige \u00dcberlegungen zur Stadt im antiken Griechenland", 
+            "title_full": "Polis und Asty. Einige Überlegungen zur Stadt im antiken Griechenland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1355/"
         }, 
         {
@@ -1276,11 +1276,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/692/"
         }, 
         {
-            "title_full": "Zur Ausbildung st\u00e4dtischer Siedlungszentren in Aitolien", 
+            "title_full": "Zur Ausbildung städtischer Siedlungszentren in Aitolien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/216/"
         }, 
         {
-            "title_full": "Zur Datierung befestigter Stadtanlagen in Aitolien. Historisch-philologische Anmerkungen zu einem Wechselverh\u00e4ltnis zwischen Siedlungsstruktur und politischer Organisation", 
+            "title_full": "Zur Datierung befestigter Stadtanlagen in Aitolien. Historisch-philologische Anmerkungen zu einem Wechselverhältnis zwischen Siedlungsstruktur und politischer Organisation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/217/"
         }, 
         {
@@ -1288,7 +1288,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/785/"
         }, 
         {
-            "title_full": "B\u00fcste Pans in Terracotta", 
+            "title_full": "Büste Pans in Terracotta", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/751/"
         }, 
         {
@@ -1324,7 +1324,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1984/"
         }, 
         {
-            "title_full": "Die Gruppe der Tyrannenm\u00f6rder und stilistisch verwandte Werke in Athen", 
+            "title_full": "Die Gruppe der Tyrannenmörder und stilistisch verwandte Werke in Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1109/"
         }, 
         {
@@ -1340,7 +1340,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/565/"
         }, 
         {
-            "title_full": "Die Felsfassadengr\u00e4ber von Kyrene", 
+            "title_full": "Die Felsfassadengräber von Kyrene", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/372/"
         }, 
         {
@@ -1352,7 +1352,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/517/"
         }, 
         {
-            "title_full": "\u00dcber einige Antikenf\u00e4lschungen und -Nachbildungen im Casseler Museum", 
+            "title_full": "Über einige Antikenfälschungen und -Nachbildungen im Casseler Museum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2001/"
         }, 
         {
@@ -1360,11 +1360,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/379/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Becher aus Formsch\u00fcsseln mit Bemalung (Film 2, Teil 1)", 
+            "title_full": "Experimente zur Keramikherstellung: Becher aus Formschüsseln mit Bemalung (Film 2, Teil 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/380/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Bemalung und Br\u00e4nde (Film 9, Teil 2)", 
+            "title_full": "Experimente zur Keramikherstellung: Bemalung und Brände (Film 9, Teil 2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/459/"
         }, 
         {
@@ -1384,11 +1384,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/454/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Fayence im \u00e4gyptischen und griechischen Ofen (Film 6, Teil 1)", 
+            "title_full": "Experimente zur Keramikherstellung: Fayence im ägyptischen und griechischen Ofen (Film 6, Teil 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/384/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Fayence im \u00e4gyptischen und griechischen Ofen (Film 6, Teil 2)", 
+            "title_full": "Experimente zur Keramikherstellung: Fayence im ägyptischen und griechischen Ofen (Film 6, Teil 2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/448/"
         }, 
         {
@@ -1396,23 +1396,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/451/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Formung, Bemalung und Brand gleicher Sch\u00e4lchen (Film 3, Teil 3)", 
+            "title_full": "Experimente zur Keramikherstellung: Formung, Bemalung und Brand gleicher Schälchen (Film 3, Teil 3)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/450/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Gef\u00e4\u00dfdrehen auf der Scheibe (Film 4, Teil 1)", 
+            "title_full": "Experimente zur Keramikherstellung: Gefäßdrehen auf der Scheibe (Film 4, Teil 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/382/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Gef\u00e4\u00dfdrehen auf der Scheibe (Film 4, Teil 3)", 
+            "title_full": "Experimente zur Keramikherstellung: Gefäßdrehen auf der Scheibe (Film 4, Teil 3)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/453/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Heidelberger Exkursion 1971 anl\u00e4sslich experimenteller Keramikbr\u00e4nde (Film 3, Teil 1)", 
+            "title_full": "Experimente zur Keramikherstellung: Heidelberger Exkursion 1971 anlässlich experimenteller Keramikbrände (Film 3, Teil 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/381/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Herstellung und anschlie\u00dfende Verwendung einer r\u00f6mischen Formsch\u00fcssel (Film 2, Teil 2)", 
+            "title_full": "Experimente zur Keramikherstellung: Herstellung und anschließende Verwendung einer römischen Formschüssel (Film 2, Teil 2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/443/"
         }, 
         {
@@ -1460,11 +1460,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/446/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: Verschiedene T\u00f6pferscheiben (Film 2, Teil 3)", 
+            "title_full": "Experimente zur Keramikherstellung: Verschiedene Töpferscheiben (Film 2, Teil 3)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/444/"
         }, 
         {
-            "title_full": "Experimente zur Keramikherstellung: W\u00fclsten, Brand und Brotbacken (Film 7, Teil 1)", 
+            "title_full": "Experimente zur Keramikherstellung: Wülsten, Brand und Brotbacken (Film 7, Teil 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/385/"
         }, 
         {
@@ -1500,11 +1500,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1759/"
         }, 
         {
-            "title_full": "Dankesrede anl\u00e4\u00dflich der Verleihung der Winckelmann-Medaille 2001 - \"Kulturpolitik in den neuen L\u00e4ndern\"", 
+            "title_full": "Dankesrede anläßlich der Verleihung der Winckelmann-Medaille 2001 - \"Kulturpolitik in den neuen Ländern\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1467/"
         }, 
         {
-            "title_full": "Ludwig Ross und seine Bedeutung f\u00fcr die Klassischen Altertumswissenschaften", 
+            "title_full": "Ludwig Ross und seine Bedeutung für die Klassischen Altertumswissenschaften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1253/"
         }, 
         {
@@ -1520,7 +1520,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/371/"
         }, 
         {
-            "title_full": "Kindsmord und Wahnsinn: Untersuchungen zur \u00dcberlieferung mordender Eltern in der Antike", 
+            "title_full": "Kindsmord und Wahnsinn: Untersuchungen zur Überlieferung mordender Eltern in der Antike", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/31/"
         }, 
         {
@@ -1532,15 +1532,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2171/"
         }, 
         {
-            "title_full": "Alexanderportr\u00e4ts und Bildnisse fr\u00fchhellenistischer Herrscher", 
+            "title_full": "Alexanderporträts und Bildnisse frühhellenistischer Herrscher", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2210/"
         }, 
         {
-            "title_full": "Brigitte Knittlmayer: Die attische Aristokratie und ihre Helden. Untersuchungen zu Darstellungen des trojanischen Sagenkreises im 6. und fr\u00fchen 5. Jahrhundert v. Chr", 
+            "title_full": "Brigitte Knittlmayer: Die attische Aristokratie und ihre Helden. Untersuchungen zu Darstellungen des trojanischen Sagenkreises im 6. und frühen 5. Jahrhundert v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2398/"
         }, 
         {
-            "title_full": "Caligula. Zur visuellen Repr\u00e4sentation eines r\u00f6mischen Kaisers", 
+            "title_full": "Caligula. Zur visuellen Repräsentation eines römischen Kaisers", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2359/"
         }, 
         {
@@ -1552,11 +1552,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2286/"
         }, 
         {
-            "title_full": "Die Bildnisstatue des Demosthenes als \u00f6ffentliche Ehrung eines B\u00fcrgers in Athen", 
+            "title_full": "Die Bildnisstatue des Demosthenes als öffentliche Ehrung eines Bürgers in Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2167/"
         }, 
         {
-            "title_full": "Die Posen des Siegers. Die Konstruktion von \u00dcberlegenheit in attischen Theseusbildern des 5. Jahrhunderts v. Chr", 
+            "title_full": "Die Posen des Siegers. Die Konstruktion von Überlegenheit in attischen Theseusbildern des 5. Jahrhunderts v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2195/"
         }, 
         {
@@ -1584,11 +1584,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2166/"
         }, 
         {
-            "title_full": "Kaiserbildnisse als Kaisergeschichte(n). Prolegomena zu einem medialen Konzept r\u00f6mischer Herrscherportr\u00e4ts", 
+            "title_full": "Kaiserbildnisse als Kaisergeschichte(n). Prolegomena zu einem medialen Konzept römischer Herrscherporträts", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2467/"
         }, 
         {
-            "title_full": "Klassische Arch\u00e4ologie und ihre Pr\u00e4gungen. Fragen - Methoden - Perspektiven", 
+            "title_full": "Klassische Archäologie und ihre Prägungen. Fragen - Methoden - Perspektiven", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2172/"
         }, 
         {
@@ -1608,11 +1608,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2420/"
         }, 
         {
-            "title_full": "Ornamenta \u03b3\u03c5\u03bc\u03bd\u03b1\u03c3\u03b9\u03ce\u03b4\u03b7? Delos und Pergamon als Beispielf\u00e4lle der Skulpturenausstattung hellenistischer Gymnasien", 
+            "title_full": "Ornamenta γυμνασιώδη? Delos und Pergamon als Beispielfälle der Skulpturenausstattung hellenistischer Gymnasien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2421/"
         }, 
         {
-            "title_full": "Stefan Ritter, Hercules in der r\u00f6mischen Kunst von den Anf\u00e4ngen bis Augustus", 
+            "title_full": "Stefan Ritter, Hercules in der römischen Kunst von den Anfängen bis Augustus", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2357/"
         }, 
         {
@@ -1620,7 +1620,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2150/"
         }, 
         {
-            "title_full": "\"Orchideenf\u00e4cher\": Die Stiefkinder der Hochschulreform?", 
+            "title_full": "\"Orchideenfächer\": Die Stiefkinder der Hochschulreform?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2399/"
         }, 
         {
@@ -1632,7 +1632,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1788/"
         }, 
         {
-            "title_full": "\u201eNiemand wundere sich, sieht er dies Bild!\" - Bild und Text auf der Grabstele des Antipatros von Askalon", 
+            "title_full": "„Niemand wundere sich, sieht er dies Bild!\" - Bild und Text auf der Grabstele des Antipatros von Askalon", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/984/"
         }, 
         {
@@ -1644,11 +1644,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/791/"
         }, 
         {
-            "title_full": "Antichit\u00e0 di Monte Citorio", 
+            "title_full": "Antichità di Monte Citorio", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1694/"
         }, 
         {
-            "title_full": "Das Comitium und seine Denkm\u00e4ler in der republikanischen Zeit", 
+            "title_full": "Das Comitium und seine Denkmäler in der republikanischen Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1695/"
         }, 
         {
@@ -1664,19 +1664,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/514/"
         }, 
         {
-            "title_full": "Archetyp ewangelii Pseudo-Mateusza. Jego powstanie na prze\u0142omie IV i V stulecia w \u015bwietle ikonografii starochrze\u015bcija\u0144skiej", 
+            "title_full": "Archetyp ewangelii Pseudo-Mateusza. Jego powstanie na przełomie IV i V stulecia w świetle ikonografii starochrześcijańskiej", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2431/"
         }, 
         {
-            "title_full": "Deux sarcophages d'enfants aux catacombes de Novatien \u00e0 Rome", 
+            "title_full": "Deux sarcophages d'enfants aux catacombes de Novatien à Rome", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2434/"
         }, 
         {
-            "title_full": "La basilique des Ap\u00f4tres \u00e0 Rome, fondation de Constantin ou de Maxence?", 
+            "title_full": "La basilique des Apôtres à Rome, fondation de Constantin ou de Maxence?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2432/"
         }, 
         {
-            "title_full": "Les sc\u00e8nes de banquet dans les peintures et sculptures chr\u00e9tiennes des IIIe et IVe si\u00e8cles", 
+            "title_full": "Les scènes de banquet dans les peintures et sculptures chrétiennes des IIIe et IVe siècles", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2433/"
         }, 
         {
@@ -1688,7 +1688,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2430/"
         }, 
         {
-            "title_full": "2000 Jahre Kunst am Oxus-Flu\u00df in Mittelasien", 
+            "title_full": "2000 Jahre Kunst am Oxus-Fluß in Mittelasien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2111/"
         }, 
         {
@@ -1696,7 +1696,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2074/"
         }, 
         {
-            "title_full": "Die F\u00fcrstengr\u00e4ber der Skythen im Altai", 
+            "title_full": "Die Fürstengräber der Skythen im Altai", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2107/"
         }, 
         {
@@ -1704,7 +1704,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1264/"
         }, 
         {
-            "title_full": "Ueber den S\u00fcdfl\u00fcgel der Propylaeen und den Tempel der Athena Nike zu Athen", 
+            "title_full": "Ueber den Südflügel der Propylaeen und den Tempel der Athena Nike zu Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/953/"
         }, 
         {
@@ -1728,7 +1728,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1255/"
         }, 
         {
-            "title_full": "Simon Richter, Patrick McGrath, Representing Homosexuality: Winckelmann and the Aesthetics of Friendship, in: Monatshefte f\u00fcr deutschen Unterricht, deutsche Sprache und Literatur, Bd. 86 (1994) S. 45-56", 
+            "title_full": "Simon Richter, Patrick McGrath, Representing Homosexuality: Winckelmann and the Aesthetics of Friendship, in: Monatshefte für deutschen Unterricht, deutsche Sprache und Literatur, Bd. 86 (1994) S. 45-56", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1678/"
         }, 
         {
@@ -1748,15 +1748,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1458/"
         }, 
         {
-            "title_full": "Altkretische Kultst\u00e4tten", 
+            "title_full": "Altkretische Kultstätten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1481/"
         }, 
         {
-            "title_full": "Arch\u00e4ologische Funde und Forschungen", 
+            "title_full": "Archäologische Funde und Forschungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1473/"
         }, 
         {
-            "title_full": "Ausgrabungen im \u00f6stlichen Kreta", 
+            "title_full": "Ausgrabungen im östlichen Kreta", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1482/"
         }, 
         {
@@ -1768,7 +1768,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1460/"
         }, 
         {
-            "title_full": "Die Schachtgr\u00e4ber von Mykenai", 
+            "title_full": "Die Schachtgräber von Mykenai", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1526/"
         }, 
         {
@@ -1780,11 +1780,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1564/"
         }, 
         {
-            "title_full": "Gilli\u00e9rons Nachbildungen mykenischer Altert\u00fcmer", 
+            "title_full": "Gilliérons Nachbildungen mykenischer Altertümer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1484/"
         }, 
         {
-            "title_full": "G\u00f6tterversammlung und Gigantomachie am Knidier-Schatzhaus in Delphi", 
+            "title_full": "Götterversammlung und Gigantomachie am Knidier-Schatzhaus in Delphi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1560/"
         }, 
         {
@@ -1812,11 +1812,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1525/"
         }, 
         {
-            "title_full": "Denkm\u00e4ler des Meter-Kultes", 
+            "title_full": "Denkmäler des Meter-Kultes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/347/"
         }, 
         {
-            "title_full": "\u00dcber eine Statue in der Glyptothek in M\u00fcnchen", 
+            "title_full": "Über eine Statue in der Glyptothek in München", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1183/"
         }, 
         {
@@ -1824,7 +1824,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1979/"
         }, 
         {
-            "title_full": "Towards an econometrically informed archaeology: the Cologne Tableau (K\u00f6Ta)", 
+            "title_full": "Towards an econometrically informed archaeology: the Cologne Tableau (KöTa)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/568/"
         }, 
         {
@@ -1832,11 +1832,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/773/"
         }, 
         {
-            "title_full": "Die Wasserkrypten in den hellenistischen und r\u00f6mischen Heiligt\u00fcmern der \u00e4gyptischen G\u00f6tter im Mittelmeerraum", 
+            "title_full": "Die Wasserkrypten in den hellenistischen und römischen Heiligtümern der ägyptischen Götter im Mittelmeerraum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/37/"
         }, 
         {
-            "title_full": "Altes und Neues vom Forum und vom Geb\u00e4ude der Eumachia in Pompeji", 
+            "title_full": "Altes und Neues vom Forum und vom Gebäude der Eumachia in Pompeji", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2460/"
         }, 
         {
@@ -1844,7 +1844,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2462/"
         }, 
         {
-            "title_full": "Die antiken Denkm\u00e4ler und ihre Abbildungen in der \u2018Encyclop\u00e9die\u2019 Diderots", 
+            "title_full": "Die antiken Denkmäler und ihre Abbildungen in der ‘Encyclopédie’ Diderots", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2459/"
         }, 
         {
@@ -1856,7 +1856,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2076/"
         }, 
         {
-            "title_full": "Praxiteles der \u00e4ltere", 
+            "title_full": "Praxiteles der ältere", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1220/"
         }, 
         {
@@ -1868,11 +1868,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/782/"
         }, 
         {
-            "title_full": "M\u00f6glichkeiten der Interaktion von Vasenbild und Inschriften mit w\u00f6rtlicher Rede auf Keramik", 
+            "title_full": "Möglichkeiten der Interaktion von Vasenbild und Inschriften mit wörtlicher Rede auf Keramik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/29/"
         }, 
         {
-            "title_full": "Agamemnon Istor. Namensbeischriften auf praenestinischen Cisten und sp\u00e4ten etruskischen Spiegeln", 
+            "title_full": "Agamemnon Istor. Namensbeischriften auf praenestinischen Cisten und späten etruskischen Spiegeln", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1435/"
         }, 
         {
@@ -1880,7 +1880,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1620/"
         }, 
         {
-            "title_full": "Astral\u2019nye bo\u00f1estva v Etrurii", 
+            "title_full": "Astral’nye boñestva v Etrurii", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1451/"
         }, 
         {
@@ -1888,7 +1888,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1388/"
         }, 
         {
-            "title_full": "Der Krummstab: Hirten, Priester, K\u00f6nige und Bisch\u00f6fe", 
+            "title_full": "Der Krummstab: Hirten, Priester, Könige und Bischöfe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1650/"
         }, 
         {
@@ -1904,11 +1904,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1767/"
         }, 
         {
-            "title_full": "Die gefl\u00fcgelte Helena und andere Fl\u00fcgelfiguren auf etruskischen Skarab\u00e4en", 
+            "title_full": "Die geflügelte Helena und andere Flügelfiguren auf etruskischen Skarabäen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1621/"
         }, 
         {
-            "title_full": "D\u00e4monenbilder in der antiken Kunst. Einige Beobachtungen", 
+            "title_full": "Dämonenbilder in der antiken Kunst. Einige Beobachtungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1875/"
         }, 
         {
@@ -1920,7 +1920,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1434/"
         }, 
         {
-            "title_full": "Etruskische Kultger\u00e4te zwischen Griechenland und Rom. Einige \u00dcberlegungen", 
+            "title_full": "Etruskische Kultgeräte zwischen Griechenland und Rom. Einige Überlegungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1652/"
         }, 
         {
@@ -1932,7 +1932,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1402/"
         }, 
         {
-            "title_full": "Himmlische Wassertr\u00e4gerinnen", 
+            "title_full": "Himmlische Wasserträgerinnen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1431/"
         }, 
         {
@@ -1944,15 +1944,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1639/"
         }, 
         {
-            "title_full": "Ikonographische Parallelen im Bereich der G\u00f6tter- und D\u00e4monenbilder", 
+            "title_full": "Ikonographische Parallelen im Bereich der Götter- und Dämonenbilder", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1642/"
         }, 
         {
-            "title_full": "Il ciclo delle metope del primo thesauros della Foce del Sele e l\u2019Etruria", 
+            "title_full": "Il ciclo delle metope del primo thesauros della Foce del Sele e l’Etruria", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1817/"
         }, 
         {
-            "title_full": "Influences grecques et orientales sur les repr\u00e9sentations de dieux \u00e9trusques", 
+            "title_full": "Influences grecques et orientales sur les représentations de dieux étrusques", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1818/"
         }, 
         {
@@ -1968,11 +1968,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1403/"
         }, 
         {
-            "title_full": "Nachkl\u00e4nge etruskischer Unterwelts- und D\u00e4monenbilder in der r\u00f6mischen Literatur und Bildkunst", 
+            "title_full": "Nachklänge etruskischer Unterwelts- und Dämonenbilder in der römischen Literatur und Bildkunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1648/"
         }, 
         {
-            "title_full": "Perseus und die Sphinx. Ein \u00d6dipus-R\u00e4tsel weniger", 
+            "title_full": "Perseus und die Sphinx. Ein Ödipus-Rätsel weniger", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1622/"
         }, 
         {
@@ -1980,7 +1980,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1623/"
         }, 
         {
-            "title_full": "Seefahrergeschichten - G\u00f6ttergeschichten oder Der Hunger nach Bildern. Zur Faszination des griechischen Mythos in der etruskischen Kultur", 
+            "title_full": "Seefahrergeschichten - Göttergeschichten oder Der Hunger nach Bildern. Zur Faszination des griechischen Mythos in der etruskischen Kultur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1685/"
         }, 
         {
@@ -2008,11 +2008,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1430/"
         }, 
         {
-            "title_full": "Zur Datierung der etruskischen L\u00f6wenkopfm\u00fcnzen", 
+            "title_full": "Zur Datierung der etruskischen Löwenkopfmünzen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1684/"
         }, 
         {
-            "title_full": "\u00dcberlegungen zur zeitlichen Diskrepanz zwichen [zwischen] Metallgef\u00e4ssen und ihren Nachbildungen in Ton", 
+            "title_full": "Überlegungen zur zeitlichen Diskrepanz zwichen [zwischen] Metallgefässen und ihren Nachbildungen in Ton", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1819/"
         }, 
         {
@@ -2024,27 +2024,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1649/"
         }, 
         {
-            "title_full": "Kadoi f\u00fcr Wein - Kadoi f\u00fcr Wasser", 
+            "title_full": "Kadoi für Wein - Kadoi für Wasser", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1682/"
         }, 
         {
-            "title_full": "Affinit\u00e4ten \u00fcber zeitliche Grenzen. Klassizistische Kunsttheorien der Antike und ihre Rezeption zu Beginn der deutschen Klassik durch J. J. Winckelmann", 
+            "title_full": "Affinitäten über zeitliche Grenzen. Klassizistische Kunsttheorien der Antike und ihre Rezeption zu Beginn der deutschen Klassik durch J. J. Winckelmann", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/985/"
         }, 
         {
-            "title_full": "Arch\u00e4ologie aus der Sicht Winckelmanns", 
+            "title_full": "Archäologie aus der Sicht Winckelmanns", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/659/"
         }, 
         {
-            "title_full": "Der \"Winckelmannsche Faden\" und Goethes Antikeverst\u00e4ndnis. Bemerkungen zu Goethes Winckelmannschrift", 
+            "title_full": "Der \"Winckelmannsche Faden\" und Goethes Antikeverständnis. Bemerkungen zu Goethes Winckelmannschrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/626/"
         }, 
         {
-            "title_full": "Der Winckelmann-\u00dcbersetzer Michael Huber an Chr. C. von Murr - ein unbekannter Brief in der Berliner Antikensammlung", 
+            "title_full": "Der Winckelmann-Übersetzer Michael Huber an Chr. C. von Murr - ein unbekannter Brief in der Berliner Antikensammlung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/662/"
         }, 
         {
-            "title_full": "Der \u201erote Faden\" Winckelmanns - Homer", 
+            "title_full": "Der „rote Faden\" Winckelmanns - Homer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/615/"
         }, 
         {
@@ -2052,11 +2052,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/647/"
         }, 
         {
-            "title_full": "Griechische G\u00f6tter im Werk Johann Joachim Winckelmanns", 
+            "title_full": "Griechische Götter im Werk Johann Joachim Winckelmanns", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1815/"
         }, 
         {
-            "title_full": "G\u00f6tterbild und Portr\u00e4t - Nachbemerkungen zu einem Thema \u00fcber Winckelmann", 
+            "title_full": "Götterbild und Porträt - Nachbemerkungen zu einem Thema über Winckelmann", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/623/"
         }, 
         {
@@ -2068,27 +2068,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/646/"
         }, 
         {
-            "title_full": "\"In Deiner Mine diese stille Gr\u00f6\u00dfe und Seelenruh' zu sehn\" - Winckelmann bei Wieland", 
+            "title_full": "\"In Deiner Mine diese stille Größe und Seelenruh' zu sehn\" - Winckelmann bei Wieland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/648/"
         }, 
         {
-            "title_full": "Jacob Burckhardt, die Arch\u00e4ologen und die hellenistische Kunst", 
+            "title_full": "Jacob Burckhardt, die Archäologen und die hellenistische Kunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/660/"
         }, 
         {
-            "title_full": "Kolloquium in N\u00f6thnitz 1974 zum Thema: Winckelmann als Bibliothekar und Exzerptor", 
+            "title_full": "Kolloquium in Nöthnitz 1974 zum Thema: Winckelmann als Bibliothekar und Exzerptor", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/624/"
         }, 
         {
-            "title_full": "Kopien statt Originale. Stendals Bem\u00fchungen um den Pariser Nachla\u00df Winckelmanns 1940 bis 1943", 
+            "title_full": "Kopien statt Originale. Stendals Bemühungen um den Pariser Nachlaß Winckelmanns 1940 bis 1943", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/631/"
         }, 
         {
-            "title_full": "Lehr- und Vorlagenb\u00fccher im 18. Jahrhundert", 
+            "title_full": "Lehr- und Vorlagenbücher im 18. Jahrhundert", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/661/"
         }, 
         {
-            "title_full": "Lorenz Beger und die Wiederentdeckung Homers im sp\u00e4ten 17. Jahrhundert", 
+            "title_full": "Lorenz Beger und die Wiederentdeckung Homers im späten 17. Jahrhundert", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/650/"
         }, 
         {
@@ -2116,15 +2116,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/986/"
         }, 
         {
-            "title_full": "Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachla\u00dfheftes", 
+            "title_full": "Winckelmanns Beschreibungen der Statuen im Belvedere-Hof im Lichte des Florentiner Nachlaßheftes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/618/"
         }, 
         {
-            "title_full": "Winckelmanns Sicht der griechischen Denkm\u00e4ler", 
+            "title_full": "Winckelmanns Sicht der griechischen Denkmäler", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/673/"
         }, 
         {
-            "title_full": "Zu Winckelmanns Schriften \u00fcber Herkulaneum und Pompeji", 
+            "title_full": "Zu Winckelmanns Schriften über Herkulaneum und Pompeji", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/619/"
         }, 
         {
@@ -2132,7 +2132,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1816/"
         }, 
         {
-            "title_full": "Zu zwei ver\u00f6ffentlichten Briefen Winckelmanns", 
+            "title_full": "Zu zwei veröffentlichten Briefen Winckelmanns", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/620/"
         }, 
         {
@@ -2140,7 +2140,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/621/"
         }, 
         {
-            "title_full": "Zur Er\u00f6ffnung der Ausstellung Wiedergeburt griechischer G\u00f6tter und Helden. Homer in der Kunst der Goethezeit am 6. November 1999", 
+            "title_full": "Zur Eröffnung der Ausstellung Wiedergeburt griechischer Götter und Helden. Homer in der Kunst der Goethezeit am 6. November 1999", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1814/"
         }, 
         {
@@ -2148,7 +2148,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/645/"
         }, 
         {
-            "title_full": "\u00dcber das Erg\u00e4nzen. Zwei Schriften von Johann Joachim Winckelmann und Christian Gottlob Heyne im Vergleich", 
+            "title_full": "Über das Ergänzen. Zwei Schriften von Johann Joachim Winckelmann und Christian Gottlob Heyne im Vergleich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/616/"
         }, 
         {
@@ -2176,7 +2176,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/774/"
         }, 
         {
-            "title_full": "Zwei K\u00f6pfe von der Akropolis in Athen", 
+            "title_full": "Zwei Köpfe von der Akropolis in Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1238/"
         }, 
         {
@@ -2200,11 +2200,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/948/"
         }, 
         {
-            "title_full": "Siedlungen und Gr\u00e4ber der Palastzeit", 
+            "title_full": "Siedlungen und Gräber der Palastzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/5/"
         }, 
         {
-            "title_full": "Autobiographie und Biographie r\u00f6mischer Kaiser im I. Jhdt. n. Chr", 
+            "title_full": "Autobiographie und Biographie römischer Kaiser im I. Jhdt. n. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/627/"
         }, 
         {
@@ -2212,11 +2212,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/585/"
         }, 
         {
-            "title_full": "Die Kalenderreform Caesars. Ein Beitrag zur Geschichte seiner Sp\u00e4tzeit", 
+            "title_full": "Die Kalenderreform Caesars. Ein Beitrag zur Geschichte seiner Spätzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/639/"
         }, 
         {
-            "title_full": "Nero. Der Herrscher als K\u00fcnstler", 
+            "title_full": "Nero. Der Herrscher als Künstler", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/644/"
         }, 
         {
@@ -2224,7 +2224,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/590/"
         }, 
         {
-            "title_full": "Gnomon Bibliographische Datenbank. Internationales Informationssystem f\u00fcr die Klassische Altertumswissenschaft", 
+            "title_full": "Gnomon Bibliographische Datenbank. Internationales Informationssystem für die Klassische Altertumswissenschaft", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/427/"
         }, 
         {
@@ -2264,7 +2264,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1981/"
         }, 
         {
-            "title_full": "Storia della collezione Capitolina di antichit\u00e0 fino all'inaugurazione del Museo (1734)", 
+            "title_full": "Storia della collezione Capitolina di antichità fino all'inaugurazione del Museo (1734)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1742/"
         }, 
         {
@@ -2272,7 +2272,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2328/"
         }, 
         {
-            "title_full": "Die Gr\u00e4berfunde in Spata", 
+            "title_full": "Die Gräberfunde in Spata", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/954/"
         }, 
         {
@@ -2300,7 +2300,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2009/"
         }, 
         {
-            "title_full": "Minoische Gipfelheiligt\u00fcmer", 
+            "title_full": "Minoische Gipfelheiligtümer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/167/"
         }, 
         {
@@ -2312,11 +2312,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/551/"
         }, 
         {
-            "title_full": "Le courant id\u00e9aliste et r\u00e9aliste de la personnification des provinces romaines", 
+            "title_full": "Le courant idéaliste et réaliste de la personnification des provinces romaines", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2436/"
         }, 
         {
-            "title_full": "Les portraits romano-\u00e9gyptiens du Mus\u00e9e Czartoryski \u00e0 Cracovie", 
+            "title_full": "Les portraits romano-égyptiens du Musée Czartoryski à Cracovie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2425/"
         }, 
         {
@@ -2324,7 +2324,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2437/"
         }, 
         {
-            "title_full": "Portret fajumski ze zbior\u00f3w Muzeum Narodowego w Warszawie", 
+            "title_full": "Portret fajumski ze zbiorów Muzeum Narodowego w Warszawie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2424/"
         }, 
         {
@@ -2332,19 +2332,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2435/"
         }, 
         {
-            "title_full": "\u0397 \u03b1\u03c6\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03bf\u03bd \u039c\u03b9\u03bd. \u03a4\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03bc\u03b9\u03b1\u03c2 \u03b1\u03b9\u03b3\u03c5\u03c0\u03c4\u03b9\u03b1\u03ba\u03ae\u03c2 \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae\u03c2", 
+            "title_full": "Η αφήγηση τον Μιν. Το χρονικό μιας αιγυπτιακής αποστολής", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/884/"
         }, 
         {
-            "title_full": "\u0397 \u039a\u03b5\u03c1\u03b1\u03bc\u03b5\u03af\u03ba\u03b7 \u03c4\u03bf\u03c5 \u0398\u03bf\u03bb\u03c9\u03c4\u03bf\u03c5 \u03a4\u03b1\u03c6\u03bf\u03c5\u03b5 \u03c3\u03c4\u03bf \u03a6\u03bf\u03c5\u03c1\u03bd\u03af\u03b1\u03c1\u03c7\u03b1\u03bd\u03c9\u03bd", 
+            "title_full": "Η Κεραμείκη του Θολωτου Ταφουε στο Φουρνίαρχανων", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/886/"
         }, 
         {
-            "title_full": "\u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03bf\u03af \u03b1\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03bc\u03b9\u03bd\u03c9\u03b9\u03ba\u03ae \u039a\u03c1\u03ae\u03c4\u03b7", 
+            "title_full": "Αθλητισμός και αθλητικοί αγώνες στη μινωική Κρήτη", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1794/"
         }, 
         {
-            "title_full": "\u039f \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03bf\u03c2 \u03a0\u03c5\u03c1\u03b7\u03bd\u03b1\u03c2 \u03c4\u03c9\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03c4\u03b1\u03b5\u03c9\u03bd \u0391\u03b9\u03b3\u03b1\u03b9\u03c9\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u0391\u03b9\u03b3\u03c5\u03c0\u03c4\u03b9\u03b1\u03ba\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 18\u03b7\u03c2 \u0394\u03c5\u03bd\u03b1\u03c3\u03c4\u03b5\u03b9\u03b1\u03c2", 
+            "title_full": "Ο Ιστορικος Πυρηνας των Παρασταεων Αιγαιων στους Αιγυπτιακους της 18ης Δυναστειας", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/885/"
         }, 
         {
@@ -2356,15 +2356,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/846/"
         }, 
         {
-            "title_full": "Chronik einer Begegnung. \u00c4gypten und die \u00c4g\u00e4is in der Bronzezeit (Kat. 1-5a)", 
+            "title_full": "Chronik einer Begegnung. Ägypten und die Ägäis in der Bronzezeit (Kat. 1-5a)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1640/"
         }, 
         {
-            "title_full": "Das minoische Stierspringen. Zur Performanz und Darstellung eines alt\u00e4g\u00e4ischen Rituals", 
+            "title_full": "Das minoische Stierspringen. Zur Performanz und Darstellung eines altägäischen Rituals", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/75/"
         }, 
         {
-            "title_full": "Der ferne Nachbar. Der Einfluss \u00c4gyptens auf das minoische Kreta und das mykenische Griechenland", 
+            "title_full": "Der ferne Nachbar. Der Einfluss Ägyptens auf das minoische Kreta und das mykenische Griechenland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/801/"
         }, 
         {
@@ -2376,11 +2376,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1641/"
         }, 
         {
-            "title_full": "\u03a1\u03b1\u03bc\u03c3\u03ae\u03c2 \u0392' \u03bf \u039c\u03ad\u03b3\u03b1\u03c2. 'E\u03c1\u03b3\u03b1 \u03ba\u03b1\u03b9 \u0397\u03bc\u03ad\u03c1\u03b5\u03c2 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c5\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03bf\u03c1\u03b1 \u03c4\u03bf\u03c5 13\u03bf\u03c5 \u03b1\u03b9. \u03c0.\u03a7", 
+            "title_full": "Ραμσής Β' ο Μέγας. 'Eργα και Ημέρες ενός αυτοκράτορα του 13ου αι. π.Χ", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1820/"
         }, 
         {
-            "title_full": "Geschenk oder Handel? Zu den Gaben der \u00c4g\u00e4ischen Prozessionen in den Thebanischen Privatgr\u00e4bern", 
+            "title_full": "Geschenk oder Handel? Zu den Gaben der Ägäischen Prozessionen in den Thebanischen Privatgräbern", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/850/"
         }, 
         {
@@ -2396,7 +2396,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1644/"
         }, 
         {
-            "title_full": "Minoische Jenseitsvorstellungen. Fr\u00fchkretische Grabfunde aus kulturanthropologischer Sicht", 
+            "title_full": "Minoische Jenseitsvorstellungen. Frühkretische Grabfunde aus kulturanthropologischer Sicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/833/"
         }, 
         {
@@ -2404,7 +2404,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/804/"
         }, 
         {
-            "title_full": "Mykenische Trauerbilder. Zu den Anf\u00e4ngen der griechischen funer\u00e4ren Ikonographie", 
+            "title_full": "Mykenische Trauerbilder. Zu den Anfängen der griechischen funerären Ikonographie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/852/"
         }, 
         {
@@ -2416,11 +2416,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/829/"
         }, 
         {
-            "title_full": "\u0391\u03bd\u03b1\u03c3\u03ba\u03c6\u03b7 \u0396\u03c9\u03bc\u03af\u03bd\u03b8\u03bf\u03c5", 
+            "title_full": "Ανασκφη Ζωμίνθου", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/883/"
         }, 
         {
-            "title_full": "\u0391\u03bd\u03b1\u03c3\u03ba\u03c6\u03b7 \u0396\u03c9\u03bc\u03af\u03bd\u03b8\u03bf\u03c5", 
+            "title_full": "Ανασκφη Ζωμίνθου", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/887/"
         }, 
         {
@@ -2472,7 +2472,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/593/"
         }, 
         {
-            "title_full": "Elektronischer Katalog zu: Lorenz Rahmstorf, Kleinfunde aus Tiryns. Terrakotta, Stein, Bein und Glas/Fayence vornehmlich aus der Sp\u00e4tbronzezeit", 
+            "title_full": "Elektronischer Katalog zu: Lorenz Rahmstorf, Kleinfunde aus Tiryns. Terrakotta, Stein, Bein und Glas/Fayence vornehmlich aus der Spätbronzezeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/91/"
         }, 
         {
@@ -2496,7 +2496,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/558/"
         }, 
         {
-            "title_full": "Tombeaux mac\u00e9doniens decouverts a Zeitenlik, pr\u00e8s de Salonique", 
+            "title_full": "Tombeaux macédoniens decouverts a Zeitenlik, près de Salonique", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1150/"
         }, 
         {
@@ -2512,11 +2512,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1604/"
         }, 
         {
-            "title_full": "\u201eWas k\u00f6mmt hier auf das selbst Sehen an?\" Zum Widerstreit des Antiquarischen und des \u00c4sthetischen bei Lessing", 
+            "title_full": "„Was kömmt hier auf das selbst Sehen an?\" Zum Widerstreit des Antiquarischen und des Ästhetischen bei Lessing", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1825/"
         }, 
         {
-            "title_full": "Winckelmannsches Gedankengut in Erich Arendts Bildb\u00e4nden zur Welt des Mittelmeeres", 
+            "title_full": "Winckelmannsches Gedankengut in Erich Arendts Bildbänden zur Welt des Mittelmeeres", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1266/"
         }, 
         {
@@ -2524,15 +2524,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1605/"
         }, 
         {
-            "title_full": "Zur sp\u00e4tr\u00f6mischen Ikonographie der Monate", 
+            "title_full": "Zur spätrömischen Ikonographie der Monate", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1129/"
         }, 
         {
-            "title_full": "Zur sp\u00e4tr\u00f6mischen Portr\u00e4tskulptur", 
+            "title_full": "Zur spätrömischen Porträtskulptur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1115/"
         }, 
         {
-            "title_full": "Das Schiedsgericht \u00fcber Athena und Poseidon", 
+            "title_full": "Das Schiedsgericht über Athena und Poseidon", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1215/"
         }, 
         {
@@ -2544,31 +2544,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/498/"
         }, 
         {
-            "title_full": "Akkadisch tu'um, di'um, ph\u00f6nizisch tw, aram\u00e4isch twn: Versuch einer Kl\u00e4rung", 
+            "title_full": "Akkadisch tu'um, di'um, phönizisch tw, aramäisch twn: Versuch einer Klärung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1179/"
         }, 
         {
-            "title_full": "Alte und neue ph\u00f6nizische Inschriften aus dem \u00e4g\u00e4ischen Raum", 
+            "title_full": "Alte und neue phönizische Inschriften aus dem ägäischen Raum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1078/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zur nordsemitischen Epigraphik (1-4)", 
+            "title_full": "Beiträge zur nordsemitischen Epigraphik (1-4)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1024/"
         }, 
         {
-            "title_full": "Ph\u00f6nizier und Griechen im Mittelmeerraum", 
+            "title_full": "Phönizier und Griechen im Mittelmeerraum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1191/"
         }, 
         {
-            "title_full": "Arch\u00e4ologie in der ersten H\u00e4lfte des 18. Jahrhunderts", 
+            "title_full": "Archäologie in der ersten Hälfte des 18. Jahrhunderts", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1261/"
         }, 
         {
-            "title_full": "\u201eIm Ganzen mu\u00df die Natur der Kunst weichen\". Winckelmann und Christian Ludwig von Hagedorn", 
+            "title_full": "„Im Ganzen muß die Natur der Kunst weichen\". Winckelmann und Christian Ludwig von Hagedorn", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1823/"
         }, 
         {
-            "title_full": "Die Anf\u00e4nge der Etruskologie. Winckelmanns Vorl\u00e4ufer", 
+            "title_full": "Die Anfänge der Etruskologie. Winckelmanns Vorläufer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1260/"
         }, 
         {
@@ -2592,7 +2592,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1259/"
         }, 
         {
-            "title_full": "Vom Esquilin nach Trastevere - Hor. sat. 1,9 im Kontext zeitgen\u00f6ssischen Verstehens", 
+            "title_full": "Vom Esquilin nach Trastevere - Hor. sat. 1,9 im Kontext zeitgenössischen Verstehens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/200/"
         }, 
         {
@@ -2600,15 +2600,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1748/"
         }, 
         {
-            "title_full": "Die Sch\u00f6ne und die Biester. Die Herrin der Tiere im bronzezeitlichen und fr\u00fcheisenzeitlichen Griechenland (Daidalos 3)", 
+            "title_full": "Die Schöne und die Biester. Die Herrin der Tiere im bronzezeitlichen und früheisenzeitlichen Griechenland (Daidalos 3)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/378/"
         }, 
         {
-            "title_full": "Ekphrasis top\u00f4n und ekphrasis trop\u00f4n. Aspekte der topographischen Ekphraseis in der griechischen Prosa der Kaiserzeit und Sp\u00e4tantike", 
+            "title_full": "Ekphrasis topôn und ekphrasis tropôn. Aspekte der topographischen Ekphraseis in der griechischen Prosa der Kaiserzeit und Spätantike", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/88/"
         }, 
         {
-            "title_full": "\u00dcberlegungen zur Siegelpraxis von Kato Zakros", 
+            "title_full": "Überlegungen zur Siegelpraxis von Kato Zakros", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/800/"
         }, 
         {
@@ -2624,7 +2624,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/566/"
         }, 
         {
-            "title_full": "Ein Portr\u00e4t des Ptolemaios VI Philometor", 
+            "title_full": "Ein Porträt des Ptolemaios VI Philometor", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1113/"
         }, 
         {
@@ -2636,11 +2636,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1243/"
         }, 
         {
-            "title_full": "Stilsyntaktische Untersuchungen zur bemalten nabat\u00e4ischen Feinkeramik", 
+            "title_full": "Stilsyntaktische Untersuchungen zur bemalten nabatäischen Feinkeramik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/348/"
         }, 
         {
-            "title_full": "Unterhaltungsarchitektur im Kontext kleinasiatischer St\u00e4dte. Das Stadion in r\u00f6mischer Zeit zwischen Sport und Spektakel", 
+            "title_full": "Unterhaltungsarchitektur im Kontext kleinasiatischer Städte. Das Stadion in römischer Zeit zwischen Sport und Spektakel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/963/"
         }, 
         {
@@ -2652,7 +2652,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/251/"
         }, 
         {
-            "title_full": "Antike Motive auf niederl\u00e4ndischen Fliesen in Ostfriesland", 
+            "title_full": "Antike Motive auf niederländischen Fliesen in Ostfriesland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/226/"
         }, 
         {
@@ -2664,7 +2664,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/252/"
         }, 
         {
-            "title_full": "Antiken der Sammlung W.W. XI: R\u00f6mische Bronzen", 
+            "title_full": "Antiken der Sammlung W.W. XI: Römische Bronzen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/253/"
         }, 
         {
@@ -2676,23 +2676,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/276/"
         }, 
         {
-            "title_full": "Beitr\u00e4ge zu sieben Vasen", 
+            "title_full": "Beiträge zu sieben Vasen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/227/"
         }, 
         {
-            "title_full": "Belgische oder britische Werkstatt-Tradition? Eine Gruppe emaillierter Bronzegef\u00e4\u00dfe im r\u00f6mischen Nordwesten", 
+            "title_full": "Belgische oder britische Werkstatt-Tradition? Eine Gruppe emaillierter Bronzegefäße im römischen Nordwesten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/239/"
         }, 
         {
-            "title_full": "Bemerkungen zum r\u00f6mischen Import im sogenannten Freien Germanien", 
+            "title_full": "Bemerkungen zum römischen Import im sogenannten Freien Germanien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/228/"
         }, 
         {
-            "title_full": "Beobachtungen zu Gr\u00e4bern und Grabsitten in der Nekropole von Assos", 
+            "title_full": "Beobachtungen zu Gräbern und Grabsitten in der Nekropole von Assos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/279/"
         }, 
         {
-            "title_full": "Bildkombination und Ableserichtung auf klassischen Bildfriesschalen. Ein Beitrag zum Problem des Verh\u00e4ltnisses von Gef\u00e4\u00df und Bemalung", 
+            "title_full": "Bildkombination und Ableserichtung auf klassischen Bildfriesschalen. Ein Beitrag zum Problem des Verhältnisses von Gefäß und Bemalung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/240/"
         }, 
         {
@@ -2708,7 +2708,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/281/"
         }, 
         {
-            "title_full": "Das Statuenprogramm in den Zeuxippos-Thermen. \u00dcberlegungen zur Beschreibung durch Christodoros von Koptos", 
+            "title_full": "Das Statuenprogramm in den Zeuxippos-Thermen. Überlegungen zur Beschreibung durch Christodoros von Koptos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/283/"
         }, 
         {
@@ -2716,15 +2716,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/230/"
         }, 
         {
-            "title_full": "Der Hildesheimer Silberschatz. R\u00f6misches Tafelgeschirr der augusteischen Zeit", 
+            "title_full": "Der Hildesheimer Silberschatz. Römisches Tafelgeschirr der augusteischen Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/231/"
         }, 
         {
-            "title_full": "Der L\u00f6wen-Tischfu\u00df im Codex des Johannes L\u00f6wenklau", 
+            "title_full": "Der Löwen-Tischfuß im Codex des Johannes Löwenklau", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/255/"
         }, 
         {
-            "title_full": "Der Merkur von der Asbacher H\u00fctte", 
+            "title_full": "Der Merkur von der Asbacher Hütte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/284/"
         }, 
         {
@@ -2732,15 +2732,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/297/"
         }, 
         {
-            "title_full": "Die G\u00f6ldenitz-Gruppe. Fig\u00fcrlich verzierte Metallarbeiten des 3. Jhs. n. Chr. mit Wei\u00dfmetallauflage", 
+            "title_full": "Die Göldenitz-Gruppe. Figürlich verzierte Metallarbeiten des 3. Jhs. n. Chr. mit Weißmetallauflage", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/258/"
         }, 
         {
-            "title_full": "Die antiken fig\u00fcrlichen Bronzen im Museum f\u00fcr Kunst und Kulturgeschichte der Stadt Dortmund", 
+            "title_full": "Die antiken figürlichen Bronzen im Museum für Kunst und Kulturgeschichte der Stadt Dortmund", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/256/"
         }, 
         {
-            "title_full": "Die fr\u00fchchristliche Rundpyxis in Werden", 
+            "title_full": "Die frühchristliche Rundpyxis in Werden", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/257/"
         }, 
         {
@@ -2748,11 +2748,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/259/"
         }, 
         {
-            "title_full": "Die zw\u00f6lf Caesaren Suetons. Zur Verwendung von Kaiserportr\u00e4t-Galerien in der Neuzeit", 
+            "title_full": "Die zwölf Caesaren Suetons. Zur Verwendung von Kaiserporträt-Galerien in der Neuzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/235/"
         }, 
         {
-            "title_full": "Dritter Vorbericht \u00fcber die Grabung in der Westtor-Nekropole von Assos im Sommer 1991", 
+            "title_full": "Dritter Vorbericht über die Grabung in der Westtor-Nekropole von Assos im Sommer 1991", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/232/"
         }, 
         {
@@ -2764,7 +2764,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/260/"
         }, 
         {
-            "title_full": "Ein Goldarmband mit dreizehn r\u00f6mischen Gemmen in M\u00fcnster", 
+            "title_full": "Ein Goldarmband mit dreizehn römischen Gemmen in Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/271/"
         }, 
         {
@@ -2772,7 +2772,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/272/"
         }, 
         {
-            "title_full": "Ein antiker Hauch in der wilhelminischen Maienbl\u00fcte", 
+            "title_full": "Ein antiker Hauch in der wilhelminischen Maienblüte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/285/"
         }, 
         {
@@ -2784,7 +2784,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/262/"
         }, 
         {
-            "title_full": "Eine 'Gef\u00e4\u00dfgruppenstele' aus dem Kerameikos", 
+            "title_full": "Eine 'Gefäßgruppenstele' aus dem Kerameikos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/263/"
         }, 
         {
@@ -2796,23 +2796,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/243/"
         }, 
         {
-            "title_full": "Eine kleine Sammlung provinzialr\u00f6mischer Keramik im Museum Haus Martfeld in Schwelm", 
+            "title_full": "Eine kleine Sammlung provinzialrömischer Keramik im Museum Haus Martfeld in Schwelm", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/312/"
         }, 
         {
-            "title_full": "Erwerb der Antiken-Sammlung Peek f\u00fcr das Arch\u00e4ologische Museum der Westf\u00e4lischen Wilhelms-Universit\u00e4t", 
+            "title_full": "Erwerb der Antiken-Sammlung Peek für das Archäologische Museum der Westfälischen Wilhelms-Universität", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/299/"
         }, 
         {
-            "title_full": "Eulen der Athena in einer M\u00fcnsterschen Privatsammlung", 
+            "title_full": "Eulen der Athena in einer Münsterschen Privatsammlung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/264/"
         }, 
         {
-            "title_full": "Fig\u00fcrliche r\u00f6mische Bronzen im Lippischen Landesmuseum Detmold", 
+            "title_full": "Figürliche römische Bronzen im Lippischen Landesmuseum Detmold", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/261/"
         }, 
         {
-            "title_full": "Fragment eines palmyrenischen Votivreliefs im Arch\u00e4ologischen Seminar der Universit\u00e4t Mannheim", 
+            "title_full": "Fragment eines palmyrenischen Votivreliefs im Archäologischen Seminar der Universität Mannheim", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/287/"
         }, 
         {
@@ -2820,15 +2820,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/286/"
         }, 
         {
-            "title_full": "Fr\u00fchkaiserzeitliche fig\u00fcrliche Bronzen im nordwestlichen Germanien. Ein \u00dcberblick", 
+            "title_full": "Frühkaiserzeitliche figürliche Bronzen im nordwestlichen Germanien. Ein Überblick", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/244/"
         }, 
         {
-            "title_full": "Fundst\u00fcck - F\u00e4lschung - Phantom der Forschung?", 
+            "title_full": "Fundstück - Fälschung - Phantom der Forschung?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1739/"
         }, 
         {
-            "title_full": "Fundst\u00fccke aus Carnuntum im Museum f\u00fcr Kunst und Kulturgeschichte der Stadt Dortmund", 
+            "title_full": "Fundstücke aus Carnuntum im Museum für Kunst und Kulturgeschichte der Stadt Dortmund", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/273/"
         }, 
         {
@@ -2836,7 +2836,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/245/"
         }, 
         {
-            "title_full": "Griechische Vasen und r\u00f6mische Lampen in M\u00fcnsterschem Privatbesitz", 
+            "title_full": "Griechische Vasen und römische Lampen in Münsterschem Privatbesitz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/269/"
         }, 
         {
@@ -2844,11 +2844,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/234/"
         }, 
         {
-            "title_full": "Keine F\u00e4lschung - kein Meisterwerk", 
+            "title_full": "Keine Fälschung - kein Meisterwerk", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/270/"
         }, 
         {
-            "title_full": "Kurzer Vorbericht \u00fcber die Grabungen in der Westtor-Nekropole von Assos im Sommer 1989 und 1990", 
+            "title_full": "Kurzer Vorbericht über die Grabungen in der Westtor-Nekropole von Assos im Sommer 1989 und 1990", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/288/"
         }, 
         {
@@ -2856,11 +2856,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/298/"
         }, 
         {
-            "title_full": "Neugefundene Bruchst\u00fccke von Marmorplastik in Assos", 
+            "title_full": "Neugefundene Bruchstücke von Marmorplastik in Assos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/339/"
         }, 
         {
-            "title_full": "Qualit\u00e4tsmangel oder Stilbruch. Zu Stileigent\u00fcmlichkeiten provinzieller Bronzen", 
+            "title_full": "Qualitätsmangel oder Stilbruch. Zu Stileigentümlichkeiten provinzieller Bronzen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/246/"
         }, 
         {
@@ -2868,7 +2868,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/277/"
         }, 
         {
-            "title_full": "R\u00f6mische Toreutik und augusteische Feldz\u00fcge in Germanien: Der Fall Hildesheim", 
+            "title_full": "Römische Toreutik und augusteische Feldzüge in Germanien: Der Fall Hildesheim", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/233/"
         }, 
         {
@@ -2876,15 +2876,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/268/"
         }, 
         {
-            "title_full": "Un portrait f\u00e9minin id\u00e9alis\u00e9 d'\u00e9poque romaine au Mus\u00e9e de Mariemont", 
+            "title_full": "Un portrait féminin idéalisé d'époque romaine au Musée de Mariemont", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/275/"
         }, 
         {
-            "title_full": "Vorbericht \u00fcber die Grabung in der Westtor-Nekropole von Assos im Sommer 1989", 
+            "title_full": "Vorbericht über die Grabung in der Westtor-Nekropole von Assos im Sommer 1989", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/356/"
         }, 
         {
-            "title_full": "Wei\u00dfgrundige Lekythen in M\u00fcnster", 
+            "title_full": "Weißgrundige Lekythen in Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/289/"
         }, 
         {
@@ -2896,11 +2896,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/300/"
         }, 
         {
-            "title_full": "Zu zwei Neufunden sp\u00e4tklassischer Reliefs aus S\u00fcdru\u00dfland", 
+            "title_full": "Zu zwei Neufunden spätklassischer Reliefs aus Südrußland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/267/"
         }, 
         {
-            "title_full": "Zum letzten Bildnistypus Drusus des J\u00fcngeren", 
+            "title_full": "Zum letzten Bildnistypus Drusus des Jüngeren", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/266/"
         }, 
         {
@@ -2908,7 +2908,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/342/"
         }, 
         {
-            "title_full": "Zur Bulla auf r\u00f6mischen Grabreliefs", 
+            "title_full": "Zur Bulla auf römischen Grabreliefs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/336/"
         }, 
         {
@@ -2916,27 +2916,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/301/"
         }, 
         {
-            "title_full": "Zur dextrarum iunctio auf fr\u00fchen r\u00f6mischen Grabreliefs", 
+            "title_full": "Zur dextrarum iunctio auf frühen römischen Grabreliefs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/265/"
         }, 
         {
-            "title_full": "Zweiter Vorbericht \u00fcber die Grabung in der Westtor-Nekropole von Assos im Sommer 1990", 
+            "title_full": "Zweiter Vorbericht über die Grabung in der Westtor-Nekropole von Assos im Sommer 1990", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/249/"
         }, 
         {
-            "title_full": "\u00dcberlegungen zum Fu\u00dfma\u00df mykenischer Bauten", 
+            "title_full": "Überlegungen zum Fußmaß mykenischer Bauten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/274/"
         }, 
         {
-            "title_full": "3D-Rekonstruktion eines bronzezeitlichen \u00c4g\u00e4isschiffes", 
+            "title_full": "3D-Rekonstruktion eines bronzezeitlichen Ägäisschiffes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/895/"
         }, 
         {
-            "title_full": "C. Christodoulos et les faussaires d\u2019Ath\u00e8nes", 
+            "title_full": "C. Christodoulos et les faussaires d’Athènes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1940/"
         }, 
         {
-            "title_full": "Explication du Crat\u00e8re des M\u00e9dicis", 
+            "title_full": "Explication du Cratère des Médicis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/354/"
         }, 
         {
@@ -2944,7 +2944,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1213/"
         }, 
         {
-            "title_full": "Zw\u00f6lfg\u00f6tteraltar aus Athen", 
+            "title_full": "Zwölfgötteraltar aus Athen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/783/"
         }, 
         {
@@ -2968,7 +2968,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/469/"
         }, 
         {
-            "title_full": "Die fig\u00fcrlichen Grabstelen im r\u00f6mischen Thessaloniki (Daidalos 5)", 
+            "title_full": "Die figürlichen Grabstelen im römischen Thessaloniki (Daidalos 5)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1357/"
         }, 
         {
@@ -3012,7 +3012,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/753/"
         }, 
         {
-            "title_full": "Der blaue Charun - Zur Farbigkeit etruskischer Todesd\u00e4monen", 
+            "title_full": "Der blaue Charun - Zur Farbigkeit etruskischer Todesdämonen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1607/"
         }, 
         {
@@ -3024,7 +3024,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1418/"
         }, 
         {
-            "title_full": "Sp\u00e4tarchaische Gelagebilder in Tarquinia", 
+            "title_full": "Spätarchaische Gelagebilder in Tarquinia", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1417/"
         }, 
         {
@@ -3040,7 +3040,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/346/"
         }, 
         {
-            "title_full": "Anmerkungen zu pal\u00e4stinensischen Textilien in hellenistischer, r\u00f6mischer und byzantinischer Zeit aus arch\u00e4ologischer Sicht", 
+            "title_full": "Anmerkungen zu palästinensischen Textilien in hellenistischer, römischer und byzantinischer Zeit aus archäologischer Sicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/686/"
         }, 
         {
@@ -3048,15 +3048,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/814/"
         }, 
         {
-            "title_full": "Die Stadtg\u00f6ttin von Caesarea Maritima", 
+            "title_full": "Die Stadtgöttin von Caesarea Maritima", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/688/"
         }, 
         {
-            "title_full": "Eine r\u00f6mische Grabb\u00fcste aus Pal\u00e4stina in M\u00fcnster", 
+            "title_full": "Eine römische Grabbüste aus Palästina in Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/643/"
         }, 
         {
-            "title_full": "Griechische Vasenbilder in Pal\u00e4stina", 
+            "title_full": "Griechische Vasenbilder in Palästina", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/820/"
         }, 
         {
@@ -3064,7 +3064,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/853/"
         }, 
         {
-            "title_full": "Hellenistische Denkm\u00e4ler aus Petra. \u00dcberlegungen zum Hellenisierungsprozess der Nabat\u00e4er", 
+            "title_full": "Hellenistische Denkmäler aus Petra. Überlegungen zum Hellenisierungsprozess der Nabatäer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/808/"
         }, 
         {
@@ -3076,19 +3076,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/628/"
         }, 
         {
-            "title_full": "Nabat\u00e4ische Votivnischen, Clan-Heiligt\u00fcmer, Tempel und Votive", 
+            "title_full": "Nabatäische Votivnischen, Clan-Heiligtümer, Tempel und Votive", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/825/"
         }, 
         {
-            "title_full": "Nachrichten \u00fcber Griechen in Pal\u00e4stina in der Eisenzeit", 
+            "title_full": "Nachrichten über Griechen in Palästina in der Eisenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/855/"
         }, 
         {
-            "title_full": "Petra in Jordanien, Zentrum der Nabat\u00e4er. Eine Stadt als \"religi\u00f6se Landschaft\"?", 
+            "title_full": "Petra in Jordanien, Zentrum der Nabatäer. Eine Stadt als \"religiöse Landschaft\"?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/914/"
         }, 
         {
-            "title_full": "Nabat\u00e4ische B\u00fcstenreliefs aus Petra - zwei Neufunde", 
+            "title_full": "Nabatäische Büstenreliefs aus Petra - zwei Neufunde", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/813/"
         }, 
         {
@@ -3116,11 +3116,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/546/"
         }, 
         {
-            "title_full": "Die Arch\u00e4ologie des Haushalts in der kretischen Neupalastzeit: Arch\u00e4ologische und ikonographische Zeugnisse zum allt\u00e4glichen Bereich (Daidalos 1)", 
+            "title_full": "Die Archäologie des Haushalts in der kretischen Neupalastzeit: Archäologische und ikonographische Zeugnisse zum alltäglichen Bereich (Daidalos 1)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/79/"
         }, 
         {
-            "title_full": "Der Kalbtr\u00e4ger und seine kunstgeschichtliche Stellung", 
+            "title_full": "Der Kalbträger und seine kunstgeschichtliche Stellung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1110/"
         }, 
         {
@@ -3128,7 +3128,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1184/"
         }, 
         {
-            "title_full": "Mykenische Vasen aus dem n\u00f6rdlichen Griechenland", 
+            "title_full": "Mykenische Vasen aus dem nördlichen Griechenland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1091/"
         }, 
         {
@@ -3136,7 +3136,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1983/"
         }, 
         {
-            "title_full": "Die fr\u00fchkretischen Siegel", 
+            "title_full": "Die frühkretischen Siegel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/474/"
         }, 
         {
@@ -3144,11 +3144,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/578/"
         }, 
         {
-            "title_full": "Untersuchungen \u00fcber die antiken Wasserleitungen Athens", 
+            "title_full": "Untersuchungen über die antiken Wasserleitungen Athens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/784/"
         }, 
         {
-            "title_full": "Arch\u00e4ologie des leeren Raumes. Zur Rolle des Experimentes bei der Erforschung antiker Werkst\u00e4tten", 
+            "title_full": "Archäologie des leeren Raumes. Zur Rolle des Experimentes bei der Erforschung antiker Werkstätten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1413/"
         }, 
         {
@@ -3156,7 +3156,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/530/"
         }, 
         {
-            "title_full": "Die Gesellschaft der fr\u00fchen \u201eDunklen Jahrhunderte\" auf Kreta. Eine Untersuchung der arch\u00e4ologischen Hinterlassenschaften der Bev\u00f6lkerung Kretas w\u00e4hrend der Sp\u00e4tminoisch IIIC und Subminoischen Zeit im Bezug auf ihre soziale Aussagekraft und Bedeutung (Daidalos 2)", 
+            "title_full": "Die Gesellschaft der frühen „Dunklen Jahrhunderte\" auf Kreta. Eine Untersuchung der archäologischen Hinterlassenschaften der Bevölkerung Kretas während der Spätminoisch IIIC und Subminoischen Zeit im Bezug auf ihre soziale Aussagekraft und Bedeutung (Daidalos 2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/80/"
         }, 
         {

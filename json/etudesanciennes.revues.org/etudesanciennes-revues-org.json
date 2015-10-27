@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 12 April 2010. Updated 2 July 2013]. Cahiers des \u00e9tudes anciennes. ISSN electronic edition: 1923-2713. ISSN print edition: 0317-5065.", 
+    "description": "[First posted in AWOL 12 April 2010. Updated 2 July 2013]. Cahiers des études anciennes. ISSN electronic edition: 1923-2713. ISSN print edition: 0317-5065.", 
     "domain": "etudesanciennes.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8736383351310575955", 
             "resource_date": "2013-07-07T18:08:12.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:50.206078"
+            "when": "2015-10-27T18:48:45.694874"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/04/open-access-journal-cahiers-des-etudes.html", 
             "resource_date": "2013-07-07T18:08:12.924-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:50.206095"
+            "when": "2015-10-27T18:48:45.694889"
         }
     ], 
     "publishers": [], 
@@ -92,11 +92,11 @@
             "url": "http://etudesanciennes.revues.org/33"
         }, 
         {
-            "title_full": "Index de mots-cl\u00e9s", 
+            "title_full": "Index de mots-clés", 
             "url": "http://etudesanciennes.revues.org/38"
         }, 
         {
-            "title_full": "XLIX | 2012 . Le Charakt\u00e8r du Prince", 
+            "title_full": "XLIX | 2012 . Le Charaktèr du Prince", 
             "url": "http://etudesanciennes.revues.org/399"
         }, 
         {
@@ -104,15 +104,15 @@
             "url": "http://etudesanciennes.revues.org/304"
         }, 
         {
-            "title_full": "XLVII | 2010 . Action politique et \u00e9criture de l'histoire II", 
+            "title_full": "XLVII | 2010 . Action politique et écriture de l'histoire II", 
             "url": "http://etudesanciennes.revues.org/123"
         }, 
         {
-            "title_full": "XLVI | 2009 . Action politique et \u00e9criture de l'histoire I", 
+            "title_full": "XLVI | 2009 . Action politique et écriture de l'histoire I", 
             "url": "http://etudesanciennes.revues.org/122"
         }, 
         {
-            "title_full": "XLV | 2008 . X\u00e9nophon", 
+            "title_full": "XLV | 2008 . Xénophon", 
             "url": "http://etudesanciennes.revues.org/189"
         }, 
         {
@@ -120,7 +120,7 @@
             "url": "http://etudesanciennes.revues.org/233"
         }
     ], 
-    "title": "Cahiers des \u00e9tudes anciennes", 
+    "title": "Cahiers des études anciennes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

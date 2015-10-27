@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "CEDRUS: Akdeniz Uygarl\u0131klar\u0131 Ara\u015ft\u0131rma Dergisi. ISSN: 2147-8058. e-ISSN: 2148-1431. Akdeniz Uygarl\u0131klar\u0131 Ara\u015ft\u0131rmas\u0131 Enstit\u00fcs\u00fc taraf\u0131ndan haz\u0131rlanan Cedrus, T\u00fcr-kiye tarihsel co\u011frafyas\u0131 perspektifinde Akdeniz Hav-zas\u0131\u2019n\u0131n k\u00fclt\u00fcr-tarih birikimini inceleyen Eski\u00e7a\u011f, Orta\u00e7a\u011f ve Yeni-Yak\u0131n\u00e7a\u011f tarihi uzmanlar\u0131 i\u00e7in tart\u0131\u015fma zemini bulacaklar\u0131 disiplin-leraras\u0131 bir s\u00fcreli yay\u0131n olmay\u0131 hedeflemektedir. CEDRUS, farkl\u0131 disiplinlerden gelen bilim insanlar\u0131 aras\u0131nda diyalo\u011fun geli\u015ftirilmesi, var olan bilginin g\u00fcncellenmesi ve yayg\u0131nla\u015ft\u0131r\u0131l-mas\u0131 s\u00fcre\u00e7lerine katk\u0131 sa\u011flayacak \u00f6zg\u00fcn ve bilim-sel \u00e7al\u0131\u015fmalar\u0131 akademi d\u00fcnyas\u0131n\u0131n ilgisine sun-may\u0131 ama\u00e7lar. CEDRUS uluslararas\u0131 hakemli bir dergi olup y\u0131lda bir kez yay\u0131mlan\u0131r. Cilt II 2014.", 
+    "description": "CEDRUS: Akdeniz Uygarlıkları Araştırma Dergisi. ISSN: 2147-8058. e-ISSN: 2148-1431. Akdeniz Uygarlıkları Araştırması Enstitüsü tarafından hazırlanan Cedrus, Tür-kiye tarihsel coğrafyası perspektifinde Akdeniz Hav-zası’nın kültür-tarih birikimini inceleyen Eskiçağ, Ortaçağ ve Yeni-Yakınçağ tarihi uzmanları için tartışma zemini bulacakları disiplin-lerarası bir süreli yayın olmayı hedeflemektedir. CEDRUS, farklı disiplinlerden gelen bilim insanları arasında diyaloğun geliştirilmesi, var olan bilginin güncellenmesi ve yaygınlaştırıl-ması süreçlerine katkı sağlayacak özgün ve bilim-sel çalışmaları akademi dünyasının ilgisine sun-mayı amaçlar. CEDRUS uluslararası hakemli bir dergi olup yılda bir kez yayımlanır. Cilt II 2014.", 
     "domain": "www.mediterra.org", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1380484951246095524", 
             "resource_date": "2014-08-05T08:36:53.832-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.497735"
+            "when": "2015-10-27T18:37:29.942451"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/new-open-access-journal-cedrus-akdeniz.html", 
             "resource_date": "2014-08-05T08:36:53.832-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.497752"
+            "when": "2015-10-27T18:37:29.942469"
         }
     ], 
     "publishers": [], 
@@ -86,7 +86,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "CEDRUS: Akdeniz Uygarl\u0131klar\u0131 Ara\u015ft\u0131rma Dergisi", 
+    "title": "CEDRUS: Akdeniz Uygarlıkları Araştırma Dergisi", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

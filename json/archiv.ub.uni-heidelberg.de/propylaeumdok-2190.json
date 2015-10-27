@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:02.798775"
+            "when": "2015-10-27T18:40:14.617675"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:02.798792"
+            "when": "2015-10-27T18:40:14.617688"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4228119224334277304", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:04.989242"
+            "when": "2015-10-27T18:41:27.962046"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/latest-20-additions-to-propylaeumdok.html", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:04.989254"
+            "when": "2015-10-27T18:41:27.962058"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:05.052943"
+            "when": "2015-10-27T18:41:28.042039"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Irmtraut Munro, Ein Ritualbuch f\u00fcr Goldamulette und Totenbuch des Month-em-hat, mit Beitr\u00e4gen von Robert Fuchs und Katrin Janis, Studien zum Alt\u00e4gyptischen Totenbuch 7, Harrassowitz Wiesbaden 2003. ISBN 14309726", 
+    "title": "Irmtraut Munro, Ein Ritualbuch für Goldamulette und Totenbuch des Month-em-hat, mit Beiträgen von Robert Fuchs und Katrin Janis, Studien zum Altägyptischen Totenbuch 7, Harrassowitz Wiesbaden 2003. ISBN 14309726", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

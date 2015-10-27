@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First listed in AWOL 19 December 2012. Updated 30 June 2014]. Les M\u00e9langes de l\u2019\u00c9cole fran\u00e7aise de Rome - Antiquit\u00e9 (MEFRA) publient des articles portant sur l\u2019histoire, la culture et l\u2019arch\u00e9ologie des mondes anciens en M\u00e9diterran\u00e9e, en particulier en Italie, en Afrique du Nord et dans les Balkans, mais portant \u00e9galement sur les interactions entre cet espace et le reste du monde antique. Ils publient aussi des dossiers th\u00e9matiques en lien avec les fouilles et les programmes scientifiques de l\u2019EFR, et plus g\u00e9n\u00e9ralement des \u00e9tudes relevant de diverses disciplines (histoire, arch\u00e9ologie, arch\u00e9om\u00e9trie, \u00e9pigraphie, philologie, droit etc. ), de la Pr\u00e9histoire \u00e0 la fin de l\u2019Antiquit\u00e9.", 
+    "description": "[First listed in AWOL 19 December 2012. Updated 30 June 2014]. Les Mélanges de l’École française de Rome - Antiquité (MEFRA) publient des articles portant sur l’histoire, la culture et l’archéologie des mondes anciens en Méditerranée, en particulier en Italie, en Afrique du Nord et dans les Balkans, mais portant également sur les interactions entre cet espace et le reste du monde antique. Ils publient aussi des dossiers thématiques en lien avec les fouilles et les programmes scientifiques de l’EFR, et plus généralement des études relevant de diverses disciplines (histoire, archéologie, archéométrie, épigraphie, philologie, droit etc. ), de la Préhistoire à la fin de l’Antiquité.", 
     "domain": "mefra.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3267924207388048367", 
             "resource_date": "2015-02-02T18:36:49.336-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.316733"
+            "when": "2015-10-27T18:40:20.500057"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/newly-open-access-journal-les-melanges.html", 
             "resource_date": "2015-02-02T18:36:49.336-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.316750"
+            "when": "2015-10-27T18:40:20.500074"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7490440634972219795", 
             "resource_date": "2014-06-30T10:12:27.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:08.637077"
+            "when": "2015-10-27T18:45:52.682038"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/open-access-jpurnal-melanges-de-lecole.html", 
             "resource_date": "2014-06-30T10:12:27.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:08.637094"
+            "when": "2015-10-27T18:45:52.682055"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:08.656320"
+            "when": "2015-10-27T18:45:52.703450"
         }
     ], 
     "publishers": [], 
@@ -181,19 +181,19 @@
             "url": "http://mefra.revues.org/286"
         }, 
         {
-            "title_full": "Num\u00e9ros en texte int\u00e9gral 2014 : 126-1 | 126-2 2013 : 125-1 | 125-2 2012 : 124-1 | 124-2 2011 : 123-1 | 123-2 2010 : 122-1 | 122-2 Tous les num\u00e9ros", 
+            "title_full": "Numéros en texte intégral 2014 : 126-1 | 126-2 2013 : 125-1 | 125-2 2012 : 124-1 | 124-2 2011 : 123-1 | 123-2 2010 : 122-1 | 122-2 Tous les numéros", 
             "url": "http://mefra.revues.org/70"
         }, 
         {
-            "title_full": "125-2 | 2013 . Codifications et r\u00e9formes dans l'Empire tardif et les royaumes barbares - Varia", 
+            "title_full": "125-2 | 2013 . Codifications et réformes dans l'Empire tardif et les royaumes barbares - Varia", 
             "url": "http://mefra.revues.org/1511"
         }, 
         {
-            "title_full": "125-1 | 2013 . Arch\u00e9ologie et religion : le sanctuaire dionysiaque de S. Abbondio \u00e0 Pomp\u00e9i - Varia", 
+            "title_full": "125-1 | 2013 . Archéologie et religion : le sanctuaire dionysiaque de S. Abbondio à Pompéi - Varia", 
             "url": "http://mefra.revues.org/1165"
         }, 
         {
-            "title_full": "124-2 | 2012 . R\u00e9gler l'usage : norme et standard dans l'Italie pr\u00e9romaine - Varia", 
+            "title_full": "124-2 | 2012 . Régler l'usage : norme et standard dans l'Italie préromaine - Varia", 
             "url": "http://mefra.revues.org/691"
         }, 
         {
@@ -201,7 +201,7 @@
             "url": "http://mefra.revues.org/76"
         }
     ], 
-    "title": "Les M\u00e9langes de l\u2019\u00c9cole fran\u00e7aise de Rome - Antiquit\u00e9 (MEFRA)", 
+    "title": "Les Mélanges de l’École française de Rome - Antiquité (MEFRA)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

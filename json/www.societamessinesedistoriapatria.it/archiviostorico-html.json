@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archivio Storico Messinese. Questa sezione \u00e8 in corso di costruzione, poich\u00e8 \u00e8 in corso la digitalizzazione dei fascicoli e la stesura delle pagine con i contributi singoli, a breve sar\u00e0 completata.", 
+    "description": "Archivio Storico Messinese. Questa sezione è in corso di costruzione, poichè è in corso la digitalizzazione dei fascicoli e la stesura delle pagine con i contributi singoli, a breve sarà completata.", 
     "domain": "www.societamessinesedistoriapatria.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6433633007666361429", 
             "resource_date": "2014-06-01T07:51:46.539-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:04.022947"
+            "when": "2015-10-27T18:44:41.781647"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/partially-open-access-journal-archivio.html", 
             "resource_date": "2014-06-01T07:51:46.539-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:04.022965"
+            "when": "2015-10-27T18:44:41.781663"
         }
     ], 
     "publishers": [], 

@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:57.109299"
+            "when": "2015-10-27T18:40:08.663088"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:57.109315"
+            "when": "2015-10-27T18:40:08.663105"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:39.740355"
+            "when": "2015-10-27T18:48:33.959164"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:39.740372"
+            "when": "2015-10-27T18:48:33.959180"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.656121"
+            "when": "2015-10-27T18:48:38.503135"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u039f \u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03bf\u03c2 \u03a0\u03c5\u03c1\u03b7\u03bd\u03b1\u03c2 \u03c4\u03c9\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03c4\u03b1\u03b5\u03c9\u03bd \u0391\u03b9\u03b3\u03b1\u03b9\u03c9\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u0391\u03b9\u03b3\u03c5\u03c0\u03c4\u03b9\u03b1\u03ba\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 18\u03b7\u03c2 \u0394\u03c5\u03bd\u03b1\u03c3\u03c4\u03b5\u03b9\u03b1\u03c2", 
+    "title": "Ο Ιστορικος Πυρηνας των Παρασταεων Αιγαιων στους Αιγυπτιακους της 18ης Δυναστειας", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

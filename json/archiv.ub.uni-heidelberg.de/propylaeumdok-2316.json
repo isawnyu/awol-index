@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Janowski, Bernd (Hrsg. ): Weisheit au\u00dferhalb der kanonischen Weisheitsschriften. G\u00fctersloh 1996, pp. 20-38 (Ver\u00f6ffentlichungen der wissenschaftlichen Gesellschaft f\u00fcr Theologie; 10). Assmann, Jan (1982).", 
+    "description": "In: Janowski, Bernd (Hrsg. ): Weisheit außerhalb der kanonischen Weisheitsschriften. Gütersloh 1996, pp. 20-38 (Veröffentlichungen der wissenschaftlichen Gesellschaft für Theologie; 10). Assmann, Jan (1982).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:48.636567"
+            "when": "2015-10-27T18:40:00.078837"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:48.636586"
+            "when": "2015-10-27T18:40:00.078854"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Wende der Weisheit im Alten \u00c4gypten", 
+    "title": "Die Wende der Weisheit im Alten Ägypten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

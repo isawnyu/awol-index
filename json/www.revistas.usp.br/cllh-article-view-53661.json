@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cadernos de L\u00edngua e Literatura Hebraica. ISSN: 2317-8051. A revista Cadernos de L\u00edngua e Literatura Hebraica, destinada \u00e0 comunidade cient\u00edfica, tem como objetivo incluir todos os elementos que constituem o vasto arco dos estudos acad\u00eamicos judaicos e hebraicos, desde a sua origem, que passa pela Antiguidade no Oriente M\u00e9dio, at\u00e9 as mais rec\u00f4nditas di\u00e1sporas judaicas do mundo contempor\u00e2neo. S\u00e3o contempladas as \u00e1reas de estudos liter\u00e1rios e ling\u00fc\u00edsticos, hist\u00f3ria, filosofia, sociologia, antropologia, estudos religiosos, estudos do antissemitismo e cr\u00edtica de arte. Os artigos s\u00e3o submetidos \u00e0 avalia\u00e7\u00e3o de pareceristas nomeados ad hoc, normalmente membros da Comiss\u00e3o Cientifica da revista. S\u00e3o aceitos para considera\u00e7\u00e3o artigos originais e tamb\u00e9m resenhas de livro que digam respeito ao escopo da revista.", 
+    "description": "Cadernos de Língua e Literatura Hebraica. ISSN: 2317-8051. A revista Cadernos de Língua e Literatura Hebraica, destinada à comunidade científica, tem como objetivo incluir todos os elementos que constituem o vasto arco dos estudos acadêmicos judaicos e hebraicos, desde a sua origem, que passa pela Antiguidade no Oriente Médio, até as mais recônditas diásporas judaicas do mundo contemporâneo. São contempladas as áreas de estudos literários e lingüísticos, história, filosofia, sociologia, antropologia, estudos religiosos, estudos do antissemitismo e crítica de arte. Os artigos são submetidos à avaliação de pareceristas nomeados ad hoc, normalmente membros da Comissão Cientifica da revista. São aceitos para consideração artigos originais e também resenhas de livro que digam respeito ao escopo da revista.", 
     "domain": "www.revistas.usp.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Cadernos de L\u00edngua e Literatura Hebraica", 
+        "title_full": "Cadernos de Língua e Literatura Hebraica", 
         "url": "http://www.revistas.usp.br/cllh/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2179227328802871024", 
             "resource_date": "2014-03-03T07:34:28.778-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.457581"
+            "when": "2015-10-27T18:38:27.215259"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-cadernos-de-lingua.html", 
             "resource_date": "2014-03-03T07:34:28.778-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.457597"
+            "when": "2015-10-27T18:38:27.215273"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "O \"eruv\" na Europa, nos Estados Unidos e no Brasil: novas estrat\u00e9gias de demarca\u00e7\u00e3o do espa\u00e7o judaico", 
+    "title": "O \"eruv\" na Europa, nos Estados Unidos e no Brasil: novas estratégias de demarcação do espaço judaico", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

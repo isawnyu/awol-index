@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "L'Afrique explor\u00e9e et civilis\u00e9e. Volumes Period of publication Title Volume 1 1879 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 2 1880 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 3 1881 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 4 1883 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 5 1884 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 6 1885 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 7 1886 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 8 1887 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 9 1888 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 10 1889 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 11 1890 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 12 1891 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 13 1892 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 14 1893 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel Volume 15 1894 L'Afrique explor\u00e9e et civilis\u00e9e: journal mensuel. See the full.", 
+    "description": "L'Afrique explorée et civilisée. Volumes Period of publication Title Volume 1 1879 L'Afrique explorée et civilisée: journal mensuel Volume 2 1880 L'Afrique explorée et civilisée: journal mensuel Volume 3 1881 L'Afrique explorée et civilisée: journal mensuel Volume 4 1883 L'Afrique explorée et civilisée: journal mensuel Volume 5 1884 L'Afrique explorée et civilisée: journal mensuel Volume 6 1885 L'Afrique explorée et civilisée: journal mensuel Volume 7 1886 L'Afrique explorée et civilisée: journal mensuel Volume 8 1887 L'Afrique explorée et civilisée: journal mensuel Volume 9 1888 L'Afrique explorée et civilisée: journal mensuel Volume 10 1889 L'Afrique explorée et civilisée: journal mensuel Volume 11 1890 L'Afrique explorée et civilisée: journal mensuel Volume 12 1891 L'Afrique explorée et civilisée: journal mensuel Volume 13 1892 L'Afrique explorée et civilisée: journal mensuel Volume 14 1893 L'Afrique explorée et civilisée: journal mensuel Volume 15 1894 L'Afrique explorée et civilisée: journal mensuel. See the full.", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-905665605500052221", 
             "resource_date": "2011-05-27T12:59:12.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:17.245287"
+            "when": "2015-10-27T18:49:15.173301"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-lafrique-exploree.html", 
             "resource_date": "2011-05-27T12:59:12.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:17.245303"
+            "when": "2015-10-27T18:49:15.173334"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
             "url": "http://retro.seals.ch/digbib/voltoc;jsessionid=669ED227E246B90F9DFF78799DCCFE83?rid=aec-001:1894:15::2&id=&id2=&id3="
         }
     ], 
-    "title": "L'Afrique explor\u00e9e et civilis\u00e9e", 
+    "title": "L'Afrique explorée et civilisée", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

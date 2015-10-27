@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cahiers de notes \u00e9pigraphiques de Gaston Maspero; copies d'inscriptions hi\u00e9roglyphiques, de papyrus \u00e9gyptiens et coptes; dessins, croquis, etc. de monuments d'Akm\u00eem, Louqsor, etc. (1881-1884). Date d'\u00e9dition: 1801-1900. Type: manuscrit. Langue: Fran\u00e7ais. Format: Papier. - Six calepins de 71, 74, 73, 76, 23 et 26 f. - 172 \u00d7 100 mm. , dans un \u00e9tui. Droits: domaine public. Identifiant: ark:/12148/btv1b52500698x. Source: Biblioth\u00e8que nationale de France, D\u00e9partement des manuscrits, NAF 11711. Provenance: bnf. fr. Date de mise en ligne: 27/02/2013 From.", 
+    "description": "Cahiers de notes épigraphiques de Gaston Maspero; copies d'inscriptions hiéroglyphiques, de papyrus égyptiens et coptes; dessins, croquis, etc. de monuments d'Akmîm, Louqsor, etc. (1881-1884). Date d'édition: 1801-1900. Type: manuscrit. Langue: Français. Format: Papier. - Six calepins de 71, 74, 73, 76, 23 et 26 f. - 172 × 100 mm. , dans un étui. Droits: domaine public. Identifiant: ark:/12148/btv1b52500698x. Source: Bibliothèque nationale de France, Département des manuscrits, NAF 11711. Provenance: bnf. fr. Date de mise en ligne: 27/02/2013 From.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cahiers de notes \u00e9pigraphiques de Gaston Maspero ; copies d'inscriptions hi\u00e9roglyphiques, de papyrus \u00e9gyptiens et coptes ; dessins, croquis, etc. de monuments d'Akm\u00eem, Louqsor, etc. (1881-1884)", 
+        "title_full": "Cahiers de notes épigraphiques de Gaston Maspero ; copies d'inscriptions hiéroglyphiques, de papyrus égyptiens et coptes ; dessins, croquis, etc. de monuments d'Akmîm, Louqsor, etc. (1881-1884)", 
         "url": "http://gallica.bnf.fr/ark:/12148/btv1b52500698x"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5504146341881745317", 
             "resource_date": "2013-03-20T11:46:53.446-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.364723"
+            "when": "2015-10-27T18:43:36.408991"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/gaston-masperos-epigraphic-notebooks.html", 
             "resource_date": "2013-03-20T11:46:53.446-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.364748"
+            "when": "2015-10-27T18:43:36.409007"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5504146341881745317", 
             "resource_date": "2013-03-20T11:46:53.446-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.368733"
+            "when": "2015-10-27T18:43:36.413033"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/gaston-masperos-epigraphic-notebooks.html", 
             "resource_date": "2013-03-20T11:46:53.446-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.368757"
+            "when": "2015-10-27T18:43:36.413049"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:04.371829"
+            "when": "2015-10-27T18:43:36.416611"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Cahiers de notes \u00e9pigraphiques de Gaston Maspero ; copies d'inscriptions hi\u00e9roglyphiques, de papyrus \u00e9gyptiens et coptes ; dessins, croquis, etc. de monuments d'Akm\u00eem, Louqsor, etc. (1881-1884)", 
+            "title_full": "Cahiers de notes épigraphiques de Gaston Maspero ; copies d'inscriptions hiéroglyphiques, de papyrus égyptiens et coptes ; dessins, croquis, etc. de monuments d'Akmîm, Louqsor, etc. (1881-1884)", 
             "url": "http://gallica.bnf.fr/ark:/12148/btv1b52500698x"
         }, 
         {
@@ -155,7 +155,7 @@
             "url": "http://gallica.bnf.fr/"
         }
     ], 
-    "title": "Cahiers de notes \u00e9pigraphiques de Gaston Maspero ; copies d'inscriptions hi\u00e9roglyphiques, de papyrus \u00e9gyptiens et coptes ; dessins, croquis, etc. de monuments d'Akm\u00eem, Louqsor, etc. (1881-1884)", 
+    "title": "Cahiers de notes épigraphiques de Gaston Maspero ; copies d'inscriptions hiéroglyphiques, de papyrus égyptiens et coptes ; dessins, croquis, etc. de monuments d'Akmîm, Louqsor, etc. (1881-1884)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

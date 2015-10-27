@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Bulletin du Centre de recherche fran\u00e7ais de J\u00e9rusalem", 
+        "title_full": "Le Bulletin du Centre de recherche français de Jérusalem", 
         "url": "http://bcrfj.revues.org/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7277235734836395009", 
             "resource_date": "2014-06-01T08:27:11.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:53.769341"
+            "when": "2015-10-27T18:45:36.296357"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/04/le-bulletin-du-centre-de-recherche.html", 
             "resource_date": "2014-06-01T08:27:11.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:53.769363"
+            "when": "2015-10-27T18:45:36.296376"
         }
     ], 
     "publishers": [], 

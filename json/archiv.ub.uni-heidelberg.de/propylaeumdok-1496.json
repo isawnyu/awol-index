@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Lingua Restituta Orientalis, Festschrift Julius Assfalg (\u00c4gypten und Altes Testament 20). Wiesbaden 1990, pp. 1-8. Altenm\u00fcller, Hartwig (1967).", 
+    "description": "In: Lingua Restituta Orientalis, Festschrift Julius Assfalg (Ägypten und Altes Testament 20). Wiesbaden 1990, pp. 1-8. Altenmüller, Hartwig (1967).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.863455"
+            "when": "2015-10-27T18:39:58.209201"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.863472"
+            "when": "2015-10-27T18:39:58.209217"
         }
     ], 
     "publishers": [], 

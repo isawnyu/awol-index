@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8812817531953067515", 
             "resource_date": "2011-03-16T16:12:01.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:53.140316"
+            "when": "2015-10-27T18:48:48.600045"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-australian-journal.html", 
             "resource_date": "2011-03-16T16:12:01.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:53.140329"
+            "when": "2015-10-27T18:48:48.600058"
         }
     ], 
     "publishers": [], 
@@ -81,7 +81,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Pierre Benoit, \"De la Forteresse Antonia la reconstitution arch\u00e9ologique,\" Australian Journal of Biblical Archaeology 1.6 (1973): 16-22", 
+    "title": "Pierre Benoit, \"De la Forteresse Antonia la reconstitution archéologique,\" Australian Journal of Biblical Archaeology 1.6 (1973): 16-22", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

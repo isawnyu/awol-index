@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5880321215635392704", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.470949"
+            "when": "2015-10-27T18:44:06.421197"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/europeana-eagle-project-digital-bridge.html", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.470960"
+            "when": "2015-10-27T18:44:06.421209"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "About \u00bb", 
+    "title": "About »", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

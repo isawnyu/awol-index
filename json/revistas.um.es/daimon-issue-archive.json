@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1490703644286002404", 
             "resource_date": "2015-03-22T09:17:48.904-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:38.036590"
+            "when": "2015-10-27T18:37:41.121166"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-journal-daimon.html", 
             "resource_date": "2015-03-22T09:17:48.904-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:38.036605"
+            "when": "2015-10-27T18:37:41.121180"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Por n\u00famero", 
+    "title": "Por número", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

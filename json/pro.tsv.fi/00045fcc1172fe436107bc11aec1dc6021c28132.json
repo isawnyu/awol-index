@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Jenseits des Euphrat. Griechische Inschriften. Ein epigraphisches Lesebuch. Zusammengestellt, \u00fcbersetzt und erkl\u00e4rt von R. Merkelbach - J. Stauber, 2005. (Mika Kajava).", 
+    "description": "Jenseits des Euphrat. Griechische Inschriften. Ein epigraphisches Lesebuch. Zusammengestellt, übersetzt und erklärt von R. Merkelbach - J. Stauber, 2005. (Mika Kajava).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.818948"
+            "when": "2015-10-27T18:40:19.925252"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.818959"
+            "when": "2015-10-27T18:40:19.925264"
         }
     ], 
     "publishers": [], 

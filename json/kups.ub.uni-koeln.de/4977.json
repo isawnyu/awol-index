@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PhD thesis, Universit\u00e4t zu K\u00f6ln. Kokkotidis, Klaus Georg (1999).", 
+    "description": "PhD thesis, Universität zu Köln. Kokkotidis, Klaus Georg (1999).", 
     "domain": "kups.ub.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dissertations (mostly) from Universit\u00e4t zu K\u00f6ln under the subject \"History of ancient world\"", 
+        "title_full": "Dissertations (mostly) from Universität zu Köln under the subject \"History of ancient world\"", 
         "url": "http://kups.ub.uni-koeln.de/view/subjects/930.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8360076532929982982", 
             "resource_date": "2015-02-27T13:43:29.361-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:22.238615"
+            "when": "2015-10-27T18:47:10.444358"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/dissertations-mostly-from-universitat.html", 
             "resource_date": "2015-02-27T13:43:29.361-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:22.238627"
+            "when": "2015-10-27T18:47:10.444371"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Untersuchungen zur hellenistischen, r\u00f6mischen und byzantinischen Keramik des Tall Zira'a im Wadi al-'Arab (Nordjordanien) - Handelsobjekte und Alltagsgegenst\u00e4nde einer l\u00e4ndlichen Siedlung im Einflussgebiet der Dekapolisst\u00e4dte", 
+    "title": "Untersuchungen zur hellenistischen, römischen und byzantinischen Keramik des Tall Zira'a im Wadi al-'Arab (Nordjordanien) - Handelsobjekte und Alltagsgegenstände einer ländlichen Siedlung im Einflussgebiet der Dekapolisstädte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

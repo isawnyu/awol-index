@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": Les blessures par fl\u00e8ches ( Perrot R. ), p. 137. [ texte complet, pdf].", 
+    "description": ": Les blessures par flèches ( Perrot R. ), p. 137. [ texte complet, pdf].", 
     "domain": "www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:02.491095"
+            "when": "2015-10-27T18:43:34.345509"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:02.491106"
+            "when": "2015-10-27T18:43:34.345522"
         }
     ], 
     "publishers": [], 

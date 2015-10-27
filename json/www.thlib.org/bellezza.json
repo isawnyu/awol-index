@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3283396340193235563", 
             "resource_date": "2011-07-14T14:28:23.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:09.272774"
+            "when": "2015-10-27T18:40:21.572085"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/antiquities-of-zhang-zhung-tibet-online.html", 
             "resource_date": "2011-07-14T14:28:23.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:09.272791"
+            "when": "2015-10-27T18:40:21.572101"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3283396340193235563", 
             "resource_date": "2011-07-14T14:28:23.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:09.276424"
+            "when": "2015-10-27T18:40:21.580014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/antiquities-of-zhang-zhung-tibet-online.html", 
             "resource_date": "2011-07-14T14:28:23.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:09.276436"
+            "when": "2015-10-27T18:40:21.580033"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:09.292722"
+            "when": "2015-10-27T18:40:21.606430"
         }
     ], 
     "publishers": [], 

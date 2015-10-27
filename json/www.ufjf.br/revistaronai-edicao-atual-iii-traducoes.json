@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "R\u00f3nai. Revista de estudos cl\u00e1ssicos e tradut\u00f3rios. ISSN: 2318-3446. A R\u00f3nai - Revista de Estudos Cl\u00e1ssicos e Tradut\u00f3rios \u00e9 uma publica\u00e7\u00e3o eletr\u00f4nica semestral, pertencente \u00e0 Faculdade de Letras (FALE) da Universidade Federal de Juiz de Fora (UFJF). O seu objetivo \u00e9 divulgar trabalhos de alunos de gradua\u00e7\u00e3o e de p\u00f3s-gradua\u00e7\u00e3o de institui\u00e7\u00f5es de ensino nacionais e internacionais que abordem quest\u00f5es pertinentes aos estudos cl\u00e1ssicos e tradut\u00f3rios.", 
+    "description": "Rónai. Revista de estudos clássicos e tradutórios. ISSN: 2318-3446. A Rónai - Revista de Estudos Clássicos e Tradutórios é uma publicação eletrônica semestral, pertencente à Faculdade de Letras (FALE) da Universidade Federal de Juiz de Fora (UFJF). O seu objetivo é divulgar trabalhos de alunos de graduação e de pós-graduação de instituições de ensino nacionais e internacionais que abordem questões pertinentes aos estudos clássicos e tradutórios.", 
     "domain": "www.ufjf.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "R\u00f3nai. Revista de estudos cl\u00e1ssicos e tradut\u00f3rios", 
+        "title_full": "Rónai. Revista de estudos clássicos e tradutórios", 
         "url": "http://www.ufjf.br/revistaronai/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7268992755026503711", 
             "resource_date": "2014-01-31T07:21:09.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:53.245392"
+            "when": "2015-10-27T18:45:35.915969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-ronai-revista.html", 
             "resource_date": "2014-01-31T07:21:09.719-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:53.245403"
+            "when": "2015-10-27T18:45:35.915982"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "III. Tradu\u00e7\u00f5es", 
+    "title": "III. Traduções", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

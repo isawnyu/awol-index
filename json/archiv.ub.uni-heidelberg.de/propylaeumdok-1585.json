@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Moers, Gerald and Behlmer, Heike and Dernu\u00df, Katja and Widmaier, Kai (Hrsgg. ): jn. t Dr. w, Festschrift f\u00fcr Friedrich Junge. G\u00f6ttingen 2006, pp. 547-580. Schenkel, Wolfgang (1975).", 
+    "description": "In: Moers, Gerald and Behlmer, Heike and Dernuß, Katja and Widmaier, Kai (Hrsgg. ): jn. t Dr. w, Festschrift für Friedrich Junge. Göttingen 2006, pp. 547-580. Schenkel, Wolfgang (1975).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:01.200390"
+            "when": "2015-10-27T18:40:12.921194"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:01.200408"
+            "when": "2015-10-27T18:40:12.921211"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ist \u201eMythos\" ein griechisches Lehnwort aus dem \u00c4gyptischen?", 
+    "title": "Ist „Mythos\" ein griechisches Lehnwort aus dem Ägyptischen?", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

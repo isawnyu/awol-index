@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Rideamus igitur: \u03c4\u03bf \u03c7\u03b9\u03bf\u03cd\u03bc\u03bf\u03c1 \u03c3\u03c4\u03b7 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u03af\u03b1[= \"Rideamus igitur: humour in Latin literature]. ISBN: 978-960-466-138-1. The proceedings of an International Conference held in Athens in May 2011 (published in 2014).", 
+    "description": "Rideamus igitur: το χιούμορ στη λατινική γραμματεία[= \"Rideamus igitur: humour in Latin literature]. ISBN: 978-960-466-138-1. The proceedings of an International Conference held in Athens in May 2011 (published in 2014).", 
     "domain": "dl.dropboxusercontent.com", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Rideamus igitur: \u03c4\u03bf \u03c7\u03b9\u03bf\u03cd\u03bc\u03bf\u03c1 \u03c3\u03c4\u03b7 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u03af\u03b1[= \"Rideamus igitur: humour in Latin literature]", 
+        "title_full": "Rideamus igitur: το χιούμορ στη λατινική γραμματεία[= \"Rideamus igitur: humour in Latin literature]", 
         "url": "https://dl.dropboxusercontent.com/u/16975379/Rideamus%20igitur.%20%CE%A4%CE%BF%20%CF%87%CE%B9%CE%BF%CF%8D%CE%BC%CE%BF%CF%81%20%CF%83%CF%84%CE%B7%20%CE%BB%CE%B1%CF%84%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B5%CE%AF%CE%B1.pdf"
     }, 
     "issuance": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-810009964302985832", 
             "resource_date": "2015-06-15T10:14:06.116-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.503308"
+            "when": "2015-10-27T18:46:59.970995"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/rideamus-igitur-rideamus-igitur-humour.html", 
             "resource_date": "2015-06-15T10:14:06.116-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.503325"
+            "when": "2015-10-27T18:46:59.971012"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-810009964302985832", 
             "resource_date": "2015-06-15T10:14:06.116-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.505811"
+            "when": "2015-10-27T18:46:59.973841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/rideamus-igitur-rideamus-igitur-humour.html", 
             "resource_date": "2015-06-15T10:14:06.116-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.505823"
+            "when": "2015-10-27T18:46:59.973854"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:12.507279"
+            "when": "2015-10-27T18:46:59.976272"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Rideamus igitur: \u03c4\u03bf \u03c7\u03b9\u03bf\u03cd\u03bc\u03bf\u03c1 \u03c3\u03c4\u03b7 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u03af\u03b1[= \"Rideamus igitur: humour in Latin literature]", 
+            "title_full": "Rideamus igitur: το χιούμορ στη λατινική γραμματεία[= \"Rideamus igitur: humour in Latin literature]", 
             "url": "https://dl.dropboxusercontent.com/u/16975379/Rideamus%20igitur.%20%CE%A4%CE%BF%20%CF%87%CE%B9%CE%BF%CF%8D%CE%BC%CE%BF%CF%81%20%CF%83%CF%84%CE%B7%20%CE%BB%CE%B1%CF%84%CE%B9%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B5%CE%AF%CE%B1.pdf"
         }
     ], 
-    "title": "Rideamus igitur: \u03c4\u03bf \u03c7\u03b9\u03bf\u03cd\u03bc\u03bf\u03c1 \u03c3\u03c4\u03b7 \u03bb\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b5\u03af\u03b1[= \"Rideamus igitur: humour in Latin literature]", 
+    "title": "Rideamus igitur: το χιούμορ στη λατινική γραμματεία[= \"Rideamus igitur: humour in Latin literature]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

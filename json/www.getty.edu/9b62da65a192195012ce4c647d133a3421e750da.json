@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Conrad M. Stibbe, Janet Burnett Grossman, William A. P. Childs, Dyfri Williams, Diana Buitron-Oliver, Martin Robertson, Gene Waddell, Lucilla Burn, Anneliese Kossatz-Die\u00dfmann.", 
+    "description": "Conrad M. Stibbe, Janet Burnett Grossman, William A. P. Childs, Dyfri Williams, Diana Buitron-Oliver, Martin Robertson, Gene Waddell, Lucilla Burn, Anneliese Kossatz-Dießmann.", 
     "domain": "www.getty.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1697581904695761075", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:54.813710"
+            "when": "2015-10-27T18:37:59.166892"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/just-announced-getty-publications.html", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:54.813721"
+            "when": "2015-10-27T18:37:59.166914"
         }
     ], 
     "publishers": [], 

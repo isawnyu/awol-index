@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Journal de la Soci\u00e9t\u00e9 des Oc\u00e9anistes.", 
+    "description": "Journal de la Société des Océanistes.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.686116"
+            "when": "2015-10-27T18:38:36.961098"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.686132"
+            "when": "2015-10-27T18:38:36.961110"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Journal de la soci\u00e9t\u00e9 des am\u00e9ricanistes", 
+    "title": "Journal de la société des américanistes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

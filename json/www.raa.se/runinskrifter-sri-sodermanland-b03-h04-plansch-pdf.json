@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pl. 199-217. (OBS! Alla dessa runsignum finns inte p\u00e5 bild och \u00e4r inte ordnade i signumf\u00f6ljd). Sm\u00e5lands runinskrifter (SRI Band 4, 1935-1961).", 
+    "description": "Pl. 199-217. (OBS! Alla dessa runsignum finns inte på bild och är inte ordnade i signumföljd). Smålands runinskrifter (SRI Band 4, 1935-1961).", 
     "domain": "www.raa.se", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5827760289633940107", 
             "resource_date": "2013-09-25T21:58:05.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:19.855274"
+            "when": "2015-10-27T18:43:52.891492"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/swedish-runes-online.html", 
             "resource_date": "2013-09-25T21:58:05.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:19.855289"
+            "when": "2015-10-27T18:43:52.891505"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "S\u00f6 7-381", 
+    "title": "Sö 7-381", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4300012180094083073", 
             "resource_date": "2012-05-17T11:38:47.270-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.492744"
+            "when": "2015-10-27T18:41:49.789124"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-accesss-journal-gennadeion-news.html", 
             "resource_date": "2012-05-17T11:38:47.270-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.492756"
+            "when": "2015-10-27T18:41:49.789137"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6023095814448518067", 
             "resource_date": "2013-01-07T15:14:57.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.726318"
+            "when": "2015-10-27T18:44:16.457981"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-akoue.html", 
             "resource_date": "2013-01-07T15:14:57.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.726330"
+            "when": "2015-10-27T18:44:16.457992"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:41.758001"
+            "when": "2015-10-27T18:44:16.488631"
         }
     ], 
     "publishers": [], 

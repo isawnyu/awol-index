@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DigItalia, rivista del digitale nei beni culturali. ISSN: 1972-621X. DigItalia, rivista del digitale nei beni culturali, edita dal 2005 dall'ICCU, si colloca nel campo dell\u2019editoria periodica specializzata in Italia, individuando quale obiettivo primario lo studio ed il dibattito critico sulle tematiche relative all\u2019applicazione delle tecnologie digitali alle varie tipologie del patrimonio culturale. Dal 2012 su piattaforma OJS con il supporto dell'Universit\u00e0 di Macerata. La piattaforma OJS consente funzionalit\u00e0 di ricerca nei metadati e nei full text, che non era possibile nella precedente versione online. DigItalia \u00e8 disponibile anche nella versione a stampa. Consultabile online anche sul portale PA, Sistema Modus-Biblioteca virtuale-Pubblicazioni ufficiali dello Stato.", 
+    "description": "DigItalia, rivista del digitale nei beni culturali. ISSN: 1972-621X. DigItalia, rivista del digitale nei beni culturali, edita dal 2005 dall'ICCU, si colloca nel campo dell’editoria periodica specializzata in Italia, individuando quale obiettivo primario lo studio ed il dibattito critico sulle tematiche relative all’applicazione delle tecnologie digitali alle varie tipologie del patrimonio culturale. Dal 2012 su piattaforma OJS con il supporto dell'Università di Macerata. La piattaforma OJS consente funzionalità di ricerca nei metadati e nei full text, che non era possibile nella precedente versione online. DigItalia è disponibile anche nella versione a stampa. Consultabile online anche sul portale PA, Sistema Modus-Biblioteca virtuale-Pubblicazioni ufficiali dello Stato.", 
     "domain": "digitalia.sbn.it", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-142009343002172060", 
             "resource_date": "2015-01-01T08:52:36.676-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.056796"
+            "when": "2015-10-27T18:37:33.638303"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-digitalia-rivista.html", 
             "resource_date": "2015-01-01T08:52:36.676-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.056812"
+            "when": "2015-10-27T18:37:33.638315"
         }
     ], 
     "publishers": [], 

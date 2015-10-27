@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u2022 Digitisation.", 
+    "description": "• Digitisation.", 
     "domain": "nam.culture.gr", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5238016458939323528", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.595974"
+            "when": "2015-10-27T18:43:18.536389"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/portal-of-national-archive-of-monuments.html", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.595985"
+            "when": "2015-10-27T18:43:18.536400"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u2022 Historical Archive", 
+    "title": "• Historical Archive", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

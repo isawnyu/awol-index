@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5238016458939323528", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.610002"
+            "when": "2015-10-27T18:43:18.552071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/portal-of-national-archive-of-monuments.html", 
             "resource_date": "2011-01-27T11:06:38.190-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.610012"
+            "when": "2015-10-27T18:43:18.552082"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5705508485508372457", 
             "resource_date": "2011-01-27T11:18:57.619-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:13.802493"
+            "when": "2015-10-27T18:43:46.421825"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/coming-soon-open-access-journal.html", 
             "resource_date": "2011-01-27T11:18:57.619-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:13.802510"
+            "when": "2015-10-27T18:43:46.421841"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:13.806355"
+            "when": "2015-10-27T18:43:46.426010"
         }, 
         {
             "fields": [
@@ -177,13 +177,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5705508485508372457", 
             "resource_date": "2011-01-27T11:18:57.619-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:13.805457"
+            "when": "2015-10-27T18:43:46.424903"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/coming-soon-open-access-journal.html", 
             "resource_date": "2011-01-27T11:18:57.619-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:13.805470"
+            "when": "2015-10-27T18:43:46.424917"
         }, 
         {
             "fields": [
@@ -197,7 +197,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:13.807981"
+            "when": "2015-10-27T18:43:46.428052"
         }
     ], 
     "publishers": [], 

@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.538637"
+            "when": "2015-10-27T18:44:08.779782"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.538652"
+            "when": "2015-10-27T18:44:08.779799"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.543654"
+            "when": "2015-10-27T18:44:08.785014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.543669"
+            "when": "2015-10-27T18:44:08.785029"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:34.616768"
+            "when": "2015-10-27T18:44:08.870750"
         }, 
         {
             "fields": [
@@ -175,13 +175,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9162586106942350087", 
             "resource_date": "2013-03-12T16:44:53.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:21.726719"
+            "when": "2015-10-27T18:49:20.280891"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/new-content-at-open-context.html", 
             "resource_date": "2013-03-12T16:44:53.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:21.726731"
+            "when": "2015-10-27T18:49:20.280904"
         }, 
         {
             "fields": [
@@ -196,7 +196,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:21.738624"
+            "when": "2015-10-27T18:49:20.294957"
         }
     ], 
     "publishers": [], 
@@ -218,7 +218,7 @@
             "url": "http://opencontext.org/projects/F905BD53-C843-4349-0A46-48FF32B5F1BE"
         }, 
         {
-            "title_full": "Faunal Data from Neolithic Mente\u015fe", 
+            "title_full": "Faunal Data from Neolithic Menteşe", 
             "url": "http://opencontext.org/projects/42EAD4DB-BAED-4A58-9B9B-7EC85266D2A9"
         }, 
         {
@@ -274,15 +274,15 @@
             "url": "http://opencontext.org/projects/21A79037-01EA-4CBB-7048-6AA054FB4A0D"
         }, 
         {
-            "title_full": "\u00c7atalh\u00f6y\u00fck Zooarchaeology", 
+            "title_full": "Çatalhöyük Zooarchaeology", 
             "url": "http://opencontext.org/projects/1B426F7C-99EC-4322-4069-E8DBD927CCF1"
         }, 
         {
-            "title_full": "\u00c7atalh\u00f6y\u00fck Area TP Zooarchaeology", 
+            "title_full": "Çatalhöyük Area TP Zooarchaeology", 
             "url": "http://opencontext.org/projects/02594C48-7497-40D7-11AE-AB942DC513B8"
         }, 
         {
-            "title_full": "Il\u0131p\u0131nar Zooarchaeology", 
+            "title_full": "Ilıpınar Zooarchaeology", 
             "url": "http://opencontext.org/projects/D297CD29-50CA-4B2C-4A07-498ADF3AF487"
         }, 
         {
@@ -290,23 +290,23 @@
             "url": "http://opencontext.org/projects/99BDB878-6411-44F8-2D7B-A99384A6CA21"
         }, 
         {
-            "title_full": "\u00c7ukuri\u00e7i H\u00f6y\u00fck Zooarchaeology", 
+            "title_full": "Çukuriçi Höyük Zooarchaeology", 
             "url": "http://opencontext.org/projects/BC90D462-6639-4087-8527-6BB9E528E07D"
         }, 
         {
-            "title_full": "Bar\u00e7\u0131n H\u00f6y\u00fck Zooarchaeology", 
+            "title_full": "Barçın Höyük Zooarchaeology", 
             "url": "http://opencontext.org/projects/74749949-4FD4-4C3E-C830-5AA75703E08E"
         }, 
         {
-            "title_full": "K\u00f6\u015fk H\u00f6y\u00fck Faunal Data", 
+            "title_full": "Köşk Höyük Faunal Data", 
             "url": "http://opencontext.org/projects/05F5B702-2967-49B1-FEAA-9B2AA0184513"
         }, 
         {
-            "title_full": "Erbaba H\u00f6y\u00fck and Suberde Zooarchaeology", 
+            "title_full": "Erbaba Höyük and Suberde Zooarchaeology", 
             "url": "http://opencontext.org/projects/CDD40C27-62ED-4966-AF3D-E781DD0D4846"
         }, 
         {
-            "title_full": "Mikt\u2019sqaq Angayuk Finds", 
+            "title_full": "Mikt’sqaq Angayuk Finds", 
             "url": "http://opencontext.org/projects/CF6E1364-D6EF-4042-B726-82CFB73F7C9D"
         }, 
         {
@@ -314,7 +314,7 @@
             "url": "http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA"
         }, 
         {
-            "title_full": "Zooarchaeology of \u00d6k\u00fczini Cave", 
+            "title_full": "Zooarchaeology of Öküzini Cave", 
             "url": "http://opencontext.org/projects/8894EEC0-DC96-4304-1EFC-4572FD91717A"
         }, 
         {
@@ -414,7 +414,7 @@
             "url": "http://opencontext.org/projects/PGold1PRJ0000000005"
         }, 
         {
-            "title_full": "P\u0131narba\u015f\u0131 1994: Animal Bones", 
+            "title_full": "Pınarbaşı 1994: Animal Bones", 
             "url": "http://opencontext.org/projects/TESTPRJ0000000004"
         }, 
         {

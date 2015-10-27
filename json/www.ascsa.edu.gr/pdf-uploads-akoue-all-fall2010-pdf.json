@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00e1koue", 
+        "title_full": "ákoue", 
         "url": "http://www.ascsa.edu.gr/index.php/publications/akoue-Online-Access"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6023095814448518067", 
             "resource_date": "2013-01-07T15:14:57.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.730761"
+            "when": "2015-10-27T18:44:16.462594"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/open-access-journal-akoue.html", 
             "resource_date": "2013-01-07T15:14:57.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.730775"
+            "when": "2015-10-27T18:44:16.462605"
         }
     ], 
     "publishers": [], 

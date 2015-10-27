@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+        "title_full": "Dialogues d'histoire ancienne. Suppléments", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.597074"
+            "when": "2015-10-27T18:47:54.917989"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.597096"
+            "when": "2015-10-27T18:47:54.918002"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Du guerrier-fauve au \u00ab meilleur des Hell\u00e8nes \u00bb : l\u2019histoire d\u2019Aristom\u00e9n\u00e8s (re-) vue par Pausanias", 
+    "title": "Du guerrier-fauve au « meilleur des Hellènes » : l’histoire d’Aristoménès (re-) vue par Pausanias", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cercet\u0103ri Arheologice Muzeul Na\u0163ional de Istorie a Rom\u00e2niei.", 
+    "description": "Cercetări Arheologice Muzeul Naţional de Istorie a României.", 
     "domain": "www.mnir.ro", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4528669714265489447", 
             "resource_date": "2011-08-23T08:59:57.614-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:29.057084"
+            "when": "2015-10-27T18:41:54.817979"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cercetari.html", 
             "resource_date": "2011-08-23T08:59:57.614-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:29.057101"
+            "when": "2015-10-27T18:41:54.817996"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.712080"
+            "when": "2015-10-27T18:44:12.140059"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.712092"
+            "when": "2015-10-27T18:44:12.140072"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:37.733417"
+            "when": "2015-10-27T18:44:12.163067"
         }
     ], 
     "publishers": [], 
@@ -193,7 +193,7 @@
             "url": "http://www.mnir.ro/ro/Publicatii/EditiePeriodic.aspx?IDEditie=14"
         }
     ], 
-    "title": "Cercet\u0103ri Arheologice", 
+    "title": "Cercetări Arheologice", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

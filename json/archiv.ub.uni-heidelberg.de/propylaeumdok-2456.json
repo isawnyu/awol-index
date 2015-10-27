@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Roeder, Hubert (Hrsg. ): Das Erz\u00e4hlen in fr\u00fchen Hochkulturen. I. Der Fall \u00c4gypten. M\u00fcnchen 2009, pp. 351-384 (\u00c4gyptologie und Kulturwissenschaft; 1). Hoffmann, Friedhelm (2002).", 
+    "description": "In: Roeder, Hubert (Hrsg. ): Das Erzählen in frühen Hochkulturen. I. Der Fall Ägypten. München 2009, pp. 351-384 (Ägyptologie und Kulturwissenschaft; 1). Hoffmann, Friedhelm (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:52.955088"
+            "when": "2015-10-27T18:40:04.329651"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:52.955117"
+            "when": "2015-10-27T18:40:04.329667"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Entstehung der demotischen Erz\u00e4hlliteratur. Beobachtungen zum \u00fcberlieferungsgeschichtlichen Kontext", 
+    "title": "Die Entstehung der demotischen Erzählliteratur. Beobachtungen zum überlieferungsgeschichtlichen Kontext", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

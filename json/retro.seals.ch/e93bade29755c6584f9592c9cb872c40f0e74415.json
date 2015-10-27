@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bollettino dell\u2019Associazione archeologica ticinese", 
+        "title_full": "Bollettino dell’Associazione archeologica ticinese", 
         "url": "http://etro.seals.ch/digbib/vollist?UID=bat-001"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2677772827186629982", 
             "resource_date": "2013-07-16T06:27:43.653-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.737437"
+            "when": "2015-10-27T18:38:54.059323"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-bollettino.html", 
             "resource_date": "2013-07-16T06:27:43.653-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.737450"
+            "when": "2015-10-27T18:38:54.059333"
         }
     ], 
     "publishers": [], 

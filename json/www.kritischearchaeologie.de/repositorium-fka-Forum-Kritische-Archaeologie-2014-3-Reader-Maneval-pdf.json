@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Streitraum: Entangled. Susan Pollock, Reinhard Bernbeck, Carolin Jau\u00df, Johannes Greger, Constance von R\u00fcden, Stefan SchreiberEntangled Discussions: Talking with Ian Hodder About His Book Entangled. Ian Hodder. Dis-entangling Entanglement: A Response to my Critics.", 
+    "description": "Streitraum: Entangled. Susan Pollock, Reinhard Bernbeck, Carolin Jauß, Johannes Greger, Constance von Rüden, Stefan SchreiberEntangled Discussions: Talking with Ian Hodder About His Book Entangled. Ian Hodder. Dis-entangling Entanglement: A Response to my Critics.", 
     "domain": "www.kritischearchaeologie.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Forum Kritische Arch\u00e4ologie", 
+        "title_full": "Forum Kritische Archäologie", 
         "url": "http://www.kritischearchaeologie.de/fka"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3288740007547755725", 
             "resource_date": "2015-04-19T20:06:58.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:10.643734"
+            "when": "2015-10-27T18:40:23.250302"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-open-access-journal-forum-kritische.html", 
             "resource_date": "2015-04-19T20:06:58.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:10.643746"
+            "when": "2015-10-27T18:40:23.250318"
         }
     ], 
     "publishers": [], 

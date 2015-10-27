@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mitteilungen des Deutschen Arch\u00e4ologischen Instituts / R\u00f6mische Abteilung.", 
+    "description": "Mitteilungen des Deutschen Archäologischen Instituts / Römische Abteilung.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Mitteilungen des Deutschen Arch\u00e4ologischen Instituts / R\u00f6mische Abteilung", 
+        "title_full": "Mitteilungen des Deutschen Archäologischen Instituts / Römische Abteilung", 
         "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN783873484"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1585315443244303428", 
             "resource_date": "2015-01-07T23:44:27.947-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:49.813404"
+            "when": "2015-10-27T18:37:53.620537"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-mitteilungen-des.html", 
             "resource_date": "2015-01-07T23:44:27.947-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:49.813415"
+            "when": "2015-10-27T18:37:53.620556"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "1896 Mitteilungen des Deutschen Arch\u00e4ologischen Instituts Band 11", 
+    "title": "1896 Mitteilungen des Deutschen Archäologischen Instituts Band 11", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

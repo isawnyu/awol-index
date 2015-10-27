@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Archiv f\u00fcr Orientforschung, 29/30 (0183), pp. 149-153. Burkard, G\u00fcnter (1997).", 
+    "description": "In: Archiv für Orientforschung, 29/30 (0183), pp. 149-153. Burkard, Günter (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:51.423538"
+            "when": "2015-10-27T18:40:02.839443"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:51.423554"
+            "when": "2015-10-27T18:40:02.839459"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ursula R\u00f6ssler-K\u00f6hler, Kapitel 17 des \u00e4gyptischen Totenbuches. Untersuchungen zur Textgeschichte und Funktion eines Textes der all\u00e4gyptischen Tolenliteratur. XIII. 38S pp. Wiesbaden, Harrassowitz, 1979 (GOF IV, 10)", 
+    "title": "Ursula Rössler-Köhler, Kapitel 17 des ägyptischen Totenbuches. Untersuchungen zur Textgeschichte und Funktion eines Textes der allägyptischen Tolenliteratur. XIII. 38S pp. Wiesbaden, Harrassowitz, 1979 (GOF IV, 10)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

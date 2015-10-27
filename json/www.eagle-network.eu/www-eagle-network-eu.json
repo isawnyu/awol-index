@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5880321215635392704", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.459652"
+            "when": "2015-10-27T18:44:06.409665"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/europeana-eagle-project-digital-bridge.html", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.459667"
+            "when": "2015-10-27T18:44:06.409682"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5880321215635392704", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.466172"
+            "when": "2015-10-27T18:44:06.416304"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/europeana-eagle-project-digital-bridge.html", 
             "resource_date": "2013-09-11T07:37:47.864-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.466186"
+            "when": "2015-10-27T18:44:06.416318"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:32.478684"
+            "when": "2015-10-27T18:44:06.429839"
         }
     ], 
     "publishers": [], 
@@ -160,7 +160,7 @@
             "url": "http://www.eagle-network.eu/news/"
         }, 
         {
-            "title_full": "About \u00bb", 
+            "title_full": "About »", 
             "url": "http://www.eagle-network.eu/about/who-we-are/"
         }, 
         {

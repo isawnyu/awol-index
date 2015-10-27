@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6991584778026843147", 
             "resource_date": "2014-02-18T20:45:01.233-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.550397"
+            "when": "2015-10-27T18:45:20.834318"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/stefano-de-martino-publicartions-online.html", 
             "resource_date": "2014-02-18T20:45:01.233-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.550413"
+            "when": "2015-10-27T18:45:20.834333"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6991584778026843147", 
             "resource_date": "2014-02-18T20:45:01.233-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.552813"
+            "when": "2015-10-27T18:45:20.837091"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/stefano-de-martino-publicartions-online.html", 
             "resource_date": "2014-02-18T20:45:01.233-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.552825"
+            "when": "2015-10-27T18:45:20.837106"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.593388"
+            "when": "2015-10-27T18:45:20.893159"
         }
     ], 
     "publishers": [], 
@@ -173,7 +173,7 @@
             "url": "http://www.openstarts.units.it/dspace/handle/10077/9640"
         }, 
         {
-            "title_full": "La societ\u00e0 dell'Anatolia Orientale durante la Tarda Et\u00e0 del Bronzo (1650 - 1200 a.C.). La cultura materiale del sito di Arslantepe - Malatya nell'ambito dell'alta Valle dell'Eufrate e le relazioni culturali con i territori centro anatolici", 
+            "title_full": "La società dell'Anatolia Orientale durante la Tarda Età del Bronzo (1650 - 1200 a.C.). La cultura materiale del sito di Arslantepe - Malatya nell'ambito dell'alta Valle dell'Eufrate e le relazioni culturali con i territori centro anatolici", 
             "url": "http://www.openstarts.units.it/dspace/handle/10077/4499"
         }, 
         {

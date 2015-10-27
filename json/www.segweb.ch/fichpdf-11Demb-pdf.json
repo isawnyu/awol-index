@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin de la Soci\u00e9t\u00e9 d'\u00c9gyptologie, Gen\u00e8ve", 
+        "title_full": "Bulletin de la Société d'Égyptologie, Genève", 
         "url": "http://www.segweb.ch/budes.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7683787952125464179", 
             "resource_date": "2013-12-18T15:21:15.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:43.480361"
+            "when": "2015-10-27T18:46:29.491487"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/partially-open-access-journal-bulletin.html", 
             "resource_date": "2013-12-18T15:21:15.736-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:43.480372"
+            "when": "2015-10-27T18:46:29.491507"
         }
     ], 
     "publishers": [], 

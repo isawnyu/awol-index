@@ -11,7 +11,7 @@
     "identifiers": {}, 
     "is_part_of": {
         "issn": "1376-179X", 
-        "title_full": "Kernos suppl\u00e9ments", 
+        "title_full": "Kernos suppléments", 
         "url": "http://books.openedition.org/pulg/171"
     }, 
     "issuance": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4739578523792635073", 
             "resource_date": "2014-08-22T11:37:56.106-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.554573"
+            "when": "2015-10-27T18:42:09.367115"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-monograph-series-kernos.html", 
             "resource_date": "2014-08-22T11:37:56.106-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.554584"
+            "when": "2015-10-27T18:42:09.367127"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Le Bestiaire d\u2019H\u00e9racl\u00e8s III e Rencontre h\u00e9racl\u00e9enne Corinne Bonnet , Colette Jourdain-Annequin and Vinciane Pirenne-Delforge (dir.) 1998 ..", 
+    "title": "Le Bestiaire d’Héraclès III e Rencontre héracléenne Corinne Bonnet , Colette Jourdain-Annequin and Vinciane Pirenne-Delforge (dir.) 1998 ..", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

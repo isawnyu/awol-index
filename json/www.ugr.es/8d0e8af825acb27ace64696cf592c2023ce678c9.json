@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00bb Volumen 18, n\u00famero 2.", 
+    "description": "» Volumen 18, número 2.", 
     "domain": "www.ugr.es", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5962769233385861536", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.118532"
+            "when": "2015-10-27T18:44:13.606757"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/one-off-journal-issues-benefactoras-y.html", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.118544"
+            "when": "2015-10-27T18:44:13.606777"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "N\u00fameros", 
+    "title": "Números", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

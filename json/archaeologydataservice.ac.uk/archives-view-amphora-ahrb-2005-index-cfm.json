@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5872995488239558597", 
             "resource_date": "2012-11-27T09:58:43.412-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.406437"
+            "when": "2015-10-27T18:44:06.347567"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/roman-amphorae-digital-resource.html", 
             "resource_date": "2012-11-27T09:58:43.412-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.406454"
+            "when": "2015-10-27T18:44:06.347583"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5872995488239558597", 
             "resource_date": "2012-11-27T09:58:43.412-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.410296"
+            "when": "2015-10-27T18:44:06.351683"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/roman-amphorae-digital-resource.html", 
             "resource_date": "2012-11-27T09:58:43.412-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.410309"
+            "when": "2015-10-27T18:44:06.351696"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:32.421704"
+            "when": "2015-10-27T18:44:06.363984"
         }
     ], 
     "publishers": [], 

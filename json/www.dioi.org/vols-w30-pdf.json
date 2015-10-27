@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2112913952775028294", 
             "resource_date": "2014-06-13T11:55:43.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:15.141210"
+            "when": "2015-10-27T18:38:22.750050"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-journal-dio-international.html", 
             "resource_date": "2014-06-13T11:55:43.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:15.141222"
+            "when": "2015-10-27T18:38:22.750064"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4579968027525566573", 
             "resource_date": "2014-08-30T08:27:28.641-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:31.421617"
+            "when": "2015-10-27T18:41:57.618416"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-dio-international.html", 
             "resource_date": "2014-08-30T08:27:28.641-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:31.421628"
+            "when": "2015-10-27T18:41:57.618437"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:31.464721"
+            "when": "2015-10-27T18:41:57.689162"
         }, 
         {
             "fields": [
@@ -166,13 +166,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6126354719826936192", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.642598"
+            "when": "2015-10-27T18:44:20.546916"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-dio-international.html", 
             "resource_date": "2013-12-04T06:48:42.252-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.642611"
+            "when": "2015-10-27T18:44:20.546932"
         }, 
         {
             "fields": [
@@ -183,7 +183,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:45.700183"
+            "when": "2015-10-27T18:44:20.617592"
         }
     ], 
     "publishers": [], 

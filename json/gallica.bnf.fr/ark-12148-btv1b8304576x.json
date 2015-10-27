@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Source: Egyptien 150. Provenance: Biblioth\u00e8que nationale de France. Description: Vignette du chapitre 17 du Livre des Morts. Repr\u00e9sentation du d\u00e9funt en adoration devant la barque solaire, encadr\u00e9 de quatre babouins assis. Description: Cadre en bois, arri\u00e8re en carton, face en verre min\u00e9ral. Date de mise en ligne: 15/03/2010.", 
+    "description": "Source: Egyptien 150. Provenance: Bibliothèque nationale de France. Description: Vignette du chapitre 17 du Livre des Morts. Représentation du défunt en adoration devant la barque solaire, encadré de quatre babouins assis. Description: Cadre en bois, arrière en carton, face en verre minéral. Date de mise en ligne: 15/03/2010.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4872810227567841279", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.658848"
+            "when": "2015-10-27T18:42:41.938810"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-egyptian-manuscripts-online-at.html", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.658859"
+            "when": "2015-10-27T18:42:41.938830"
         }
     ], 
     "publishers": [], 

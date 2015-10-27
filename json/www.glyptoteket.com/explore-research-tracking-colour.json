@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2169898421255358865", 
             "resource_date": "2013-06-02T17:36:39.818-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.169862"
+            "when": "2015-10-27T18:38:26.893062"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/tracking-colour-polychromy-of-greek-and.html", 
             "resource_date": "2013-06-02T17:36:39.818-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.169879"
+            "when": "2015-10-27T18:38:26.893092"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2169898421255358865", 
             "resource_date": "2013-06-02T17:36:39.818-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:19.172874"
+            "when": "2015-10-27T18:38:26.896208"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/tracking-colour-polychromy-of-greek-and.html", 
             "resource_date": "2013-06-02T17:36:39.818-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:19.172888"
+            "when": "2015-10-27T18:38:26.896227"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:19.181808"
+            "when": "2015-10-27T18:38:26.906003"
         }
     ], 
     "publishers": [], 

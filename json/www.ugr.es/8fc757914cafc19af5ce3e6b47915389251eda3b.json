@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "C\u00e1ndida Mart\u00ednez L\u00f3pez: Amantissima civium suorum: Matronazgo c\u00edvico en el Occidente romano.", 
+    "description": "Cándida Martínez López: Amantissima civium suorum: Matronazgo cívico en el Occidente romano.", 
     "domain": "www.ugr.es", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5962769233385861536", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.120767"
+            "when": "2015-10-27T18:44:13.611499"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/one-off-journal-issues-benefactoras-y.html", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.120778"
+            "when": "2015-10-27T18:44:13.611519"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Mar\u00eda Dolores Mir\u00f3n P\u00e9rez: Las \"buenas obras\" de las reinas helen\u00edsticas: benefactoras y poder pol\u00edtico", 
+    "title": "María Dolores Mirón Pérez: Las \"buenas obras\" de las reinas helenísticas: benefactoras y poder político", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

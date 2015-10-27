@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol.", 
+    "description": "Boletín Arqueológico del Sudeste Español.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
+        "title_full": "Boletín Arqueológico del Sudeste Español", 
         "url": "http://dialnet.unirioja.es/servlet/alerev?codigo=14101"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-410057600420437183", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:59.582104"
+            "when": "2015-10-27T18:41:22.363916"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-online-journal-boletin.html", 
             "resource_date": "2010-12-07T11:58:14.954-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:59.582115"
+            "when": "2015-10-27T18:41:22.363932"
         }
     ], 
     "publishers": [], 

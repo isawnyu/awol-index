@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4109363790167225146", 
             "resource_date": "2013-01-03T15:25:31.386-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:59.916491"
+            "when": "2015-10-27T18:41:22.730241"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/prosopography-of-ebla.html", 
             "resource_date": "2013-01-03T15:25:31.386-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:59.916503"
+            "when": "2015-10-27T18:41:22.730255"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Archi A. (1996) \"Les comptes rendus annuels de m\u00e9taux (CAM)\", Amurru 1, pp. 73-79 PDF (1.05 MB)", 
+    "title": "Archi A. (1996) \"Les comptes rendus annuels de métaux (CAM)\", Amurru 1, pp. 73-79 PDF (1.05 MB)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

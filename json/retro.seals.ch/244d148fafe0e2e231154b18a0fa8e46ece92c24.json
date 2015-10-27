@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft = Etudes asiatiques: revue de la Soci\u00e9t\u00e9 Suisse - Asie About the journal: The quarterly journal Asiatische Studien / \u00c9tudes Asiatiques is published with the aim of informing the scientific community as well as the general public about academic research on Asian regions and cultures. About the company: The Swiss Asia Society is committed to the promotion of scientific studies at Swiss universities focusing on the various regions of Asia. It is an established forum for the discussion of issues concerning the languages, the thought, the religions and myths, the historical, social and geographic developments, as well as the literatures and arts of historical and contemporary Asian cultures.", 
+    "description": "Asiatische Studien: Zeitschrift der Schweizerischen Asiengesellschaft = Etudes asiatiques: revue de la Société Suisse - Asie About the journal: The quarterly journal Asiatische Studien / Études Asiatiques is published with the aim of informing the scientific community as well as the general public about academic research on Asian regions and cultures. About the company: The Swiss Asia Society is committed to the promotion of scientific studies at Swiss universities focusing on the various regions of Asia. It is an established forum for the discussion of issues concerning the languages, the thought, the religions and myths, the historical, social and geographic developments, as well as the literatures and arts of historical and contemporary Asian cultures.", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8374431298552310931", 
             "resource_date": "2011-10-31T12:18:12.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.330414"
+            "when": "2015-10-27T18:47:11.682762"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-asiatische-studien.html", 
             "resource_date": "2011-10-31T12:18:12.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.330431"
+            "when": "2015-10-27T18:47:11.682779"
         }
     ], 
     "publishers": [], 
@@ -340,7 +340,7 @@
     ], 
     "title": "Asiatische Studien", 
     "title_alternates": [], 
-    "title_extended": "Asiatische Studien : Zeitschrift der Schweizerischen Asiengesellschaft = Etudes asiatiques : revue de la Soci\u00e9t\u00e9 Suisse - Asie", 
+    "title_extended": "Asiatische Studien : Zeitschrift der Schweizerischen Asiengesellschaft = Etudes asiatiques : revue de la Société Suisse - Asie", 
     "type": null, 
     "url": "http://retro.seals.ch/digbib/vollist?UID=ast-002&id=browse&id2=browse1", 
     "url_alternates": [], 

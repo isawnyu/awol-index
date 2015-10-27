@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 4 (1973), pp. 23-28. Schenkel, Wolfgang (1966).", 
+    "description": "In: Göttinger Miszellen, 4 (1973), pp. 23-28. Schenkel, Wolfgang (1966).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:00.256850"
+            "when": "2015-10-27T18:40:11.962702"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:00.256885"
+            "when": "2015-10-27T18:40:11.962717"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das Ende des narrativen sDm.t=f. Schlu\u00dffolgerungen aus einer Beobachtung J.W.B. Barns\u2019, \"Some Readings and Interpretations in Sandry Egyptian Texts\", JEA 58 (1972), 160 f", 
+    "title": "Das Ende des narrativen sDm.t=f. Schlußfolgerungen aus einer Beobachtung J.W.B. Barns’, \"Some Readings and Interpretations in Sandry Egyptian Texts\", JEA 58 (1972), 160 f", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Reportata: Passato e presente della teologia. ISSN 2036-637X. Reportata erano chiamati nel Medioevo i testi che gli studenti trascrivevano dalla viva voce dei maestri. Non rifiniti, talvolta impetuosi nel tono, i Reportata testimoniano la passione di una ricerca che ha segnato la storia intellettuale dell'Occidente. Nello stesso spirito \u00e8 stato inaugurato questo spazio di incontro sul terreno della teologia cristiana. I materiali con cui esso esordisce sono anzitutto testimoni dell'amicizia reciproca degli autori, e in parte hanno avuto una collocazione provvisoria in altre sedi. Raccolti in questa nuova forma, vogliono essere un invito alla discussione e alla collaborazione per tutte le persone interessate: sia sul versante di uno studio storico-critico della tradizione cristiana, sia su quello di una presa di posizione nelle attuali questioni teologiche. Un'ulteriore occasione che ha spinto a dare forma a Reportata \u00e8 stata l'inattesa attivazione, nell'Anno accademico 2003-2004, di un corso di Storia del pensiero teologico presso la laurea in Filosofia dell'Universit\u00e0 di Roma Tor Vergata. Agli studenti e alle studentesse, cui questo spazio \u00e8 cordialmente aperto, va il primo grazie per il loro incoraggiamento.", 
+    "description": "Reportata: Passato e presente della teologia. ISSN 2036-637X. Reportata erano chiamati nel Medioevo i testi che gli studenti trascrivevano dalla viva voce dei maestri. Non rifiniti, talvolta impetuosi nel tono, i Reportata testimoniano la passione di una ricerca che ha segnato la storia intellettuale dell'Occidente. Nello stesso spirito è stato inaugurato questo spazio di incontro sul terreno della teologia cristiana. I materiali con cui esso esordisce sono anzitutto testimoni dell'amicizia reciproca degli autori, e in parte hanno avuto una collocazione provvisoria in altre sedi. Raccolti in questa nuova forma, vogliono essere un invito alla discussione e alla collaborazione per tutte le persone interessate: sia sul versante di uno studio storico-critico della tradizione cristiana, sia su quello di una presa di posizione nelle attuali questioni teologiche. Un'ulteriore occasione che ha spinto a dare forma a Reportata è stata l'inattesa attivazione, nell'Anno accademico 2003-2004, di un corso di Storia del pensiero teologico presso la laurea in Filosofia dell'Università di Roma Tor Vergata. Agli studenti e alle studentesse, cui questo spazio è cordialmente aperto, va il primo grazie per il loro incoraggiamento.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:00.250591"
+            "when": "2015-10-27T18:44:37.663670"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:00.250606"
+            "when": "2015-10-27T18:44:37.663686"
         }
     ], 
     "publishers": [], 
@@ -88,11 +88,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Maria Francesca Carnea, Sul concetto di libert\u00e0 e autorevolezza volitiva. Raffronto tra Caterina da Siena e Tommaso d'Aquino", 
+            "title_full": "Maria Francesca Carnea, Sul concetto di libertà e autorevolezza volitiva. Raffronto tra Caterina da Siena e Tommaso d'Aquino", 
             "url": "http://mondodomani.org/reportata/carnea01.htm"
         }, 
         {
-            "title_full": "Maria Grazia Crepaldi, Il Dio straniero. Sulle \u00abradici cristiane\u00bb dell'Occidente", 
+            "title_full": "Maria Grazia Crepaldi, Il Dio straniero. Sulle «radici cristiane» dell'Occidente", 
             "url": "http://mondodomani.org/reportata/crepaldi01.htm"
         }, 
         {
@@ -104,7 +104,7 @@
             "url": "http://mondodomani.org/reportata/rist02.htm"
         }, 
         {
-            "title_full": "Giampietro Ziviani, \u00abDiversi rispetto a chi?\u00bb Ricognizione teologica sull'identit\u00e0 maschile", 
+            "title_full": "Giampietro Ziviani, «Diversi rispetto a chi?» Ricognizione teologica sull'identità maschile", 
             "url": "http://mondodomani.org/reportata/ziviani01.htm"
         }, 
         {
@@ -112,7 +112,7 @@
             "url": "http://mondodomani.org/reportata/balestra01.htm"
         }, 
         {
-            "title_full": "Marco Gallo, Recensione a Martin Mosebach, H\u00e4resie der Formlosigkeit. Die r\u00f6mische Liturgie und ihr Feind", 
+            "title_full": "Marco Gallo, Recensione a Martin Mosebach, Häresie der Formlosigkeit. Die römische Liturgie und ihr Feind", 
             "url": "http://mondodomani.org/reportata/gallo01.htm"
         }, 
         {
@@ -120,11 +120,11 @@
             "url": "http://mondodomani.org/reportata/zorzi14.htm"
         }, 
         {
-            "title_full": "Chiara Della Putta, Provvidenza divina, origine del male e responsabilit\u00e0 morale dell'uomo in Filone di Alessandria", 
+            "title_full": "Chiara Della Putta, Provvidenza divina, origine del male e responsabilità morale dell'uomo in Filone di Alessandria", 
             "url": "http://mondodomani.org/reportata/dellaputta01.htm"
         }, 
         {
-            "title_full": "Laura Balestra, Romanitas, Christianitas, Alteritas: le \u00abvie\u00bb dell'identit\u00e0 europea", 
+            "title_full": "Laura Balestra, Romanitas, Christianitas, Alteritas: le «vie» dell'identità europea", 
             "url": "http://mondodomani.org/reportata/balestra02.htm"
         }, 
         {
@@ -136,23 +136,23 @@
             "url": "http://mondodomani.org/reportata/dovgopolova01.htm"
         }, 
         {
-            "title_full": "Giovanni Patriarca, Kirche und Astronomie in der Modernit\u00e4t. Geschichte der Vatikanischen Sternwarte", 
+            "title_full": "Giovanni Patriarca, Kirche und Astronomie in der Modernität. Geschichte der Vatikanischen Sternwarte", 
             "url": "http://mondodomani.org/reportata/patriarca01.htm"
         }, 
         {
-            "title_full": "Philippe Nouzille, Le Christ principe et fin de la cr\u00e9ation selon Fray Luis de Le\u00f3n", 
+            "title_full": "Philippe Nouzille, Le Christ principe et fin de la création selon Fray Luis de León", 
             "url": "http://mondodomani.org/reportata/nouzille01.htm"
         }, 
         {
-            "title_full": "Barbara Serpi, Recensione a Maria Francesca Carnea, Libert\u00e0 e politica in S. Caterina da Siena", 
+            "title_full": "Barbara Serpi, Recensione a Maria Francesca Carnea, Libertà e politica in S. Caterina da Siena", 
             "url": "http://mondodomani.org/reportata/serpi01.htm"
         }, 
         {
-            "title_full": "Andrea Aguti, Karl Barth e la riscoperta teologica della Trinit\u00e0", 
+            "title_full": "Andrea Aguti, Karl Barth e la riscoperta teologica della Trinità", 
             "url": "http://mondodomani.org/teologia/aguti2011.htm"
         }, 
         {
-            "title_full": "Michele Amad\u00f2, L'immagine della Trinit\u00e0 nell'arte", 
+            "title_full": "Michele Amadò, L'immagine della Trinità nell'arte", 
             "url": "http://mondodomani.org/teologia/amado2011.htm"
         }, 
         {
@@ -160,11 +160,11 @@
             "url": "http://mondodomani.org/teologia/bertini2011.htm"
         }, 
         {
-            "title_full": "Chiara Bertoglio, Accordo perfetto. La Trinit\u00e0 nella musica, la musica nella Trinit\u00e0", 
+            "title_full": "Chiara Bertoglio, Accordo perfetto. La Trinità nella musica, la musica nella Trinità", 
             "url": "http://mondodomani.org/teologia/bertoglio2011.htm"
         }, 
         {
-            "title_full": "Maciej Bielawski, Raimon Panikkar e la Trinit\u00e0 radicale", 
+            "title_full": "Maciej Bielawski, Raimon Panikkar e la Trinità radicale", 
             "url": "http://mondodomani.org/teologia/bielawski2011.htm"
         }, 
         {
@@ -172,11 +172,11 @@
             "url": "http://mondodomani.org/teologia/bondi2011.htm"
         }, 
         {
-            "title_full": "Ester Brambilla Pisoni, Trascendenza e unit\u00e0 del Dio trinitario in Abelardo e Pietro Lombardo", 
+            "title_full": "Ester Brambilla Pisoni, Trascendenza e unità del Dio trinitario in Abelardo e Pietro Lombardo", 
             "url": "http://mondodomani.org/teologia/brambillapisoni2011.htm"
         }, 
         {
-            "title_full": "Carla Canullo, Mistero e Trinit\u00e0 ne L'essenza del Cristianesimo di Ludwig Feuerbach", 
+            "title_full": "Carla Canullo, Mistero e Trinità ne L'essenza del Cristianesimo di Ludwig Feuerbach", 
             "url": "http://mondodomani.org/teologia/canullo2011.htm"
         }, 
         {
@@ -188,7 +188,7 @@
             "url": "http://mondodomani.org/teologia/cogliandro2011.htm"
         }, 
         {
-            "title_full": "Giovanna Costanzo, Trinit\u00e0 e riflessione filosofica nel pensiero russo contemporaneo", 
+            "title_full": "Giovanna Costanzo, Trinità e riflessione filosofica nel pensiero russo contemporaneo", 
             "url": "http://mondodomani.org/teologia/costanzo2011.htm"
         }, 
         {
@@ -200,19 +200,19 @@
             "url": "http://mondodomani.org/teologia/dellaserra2011.htm"
         }, 
         {
-            "title_full": "Cristiana Dobner, Dalla Shekinah alla Trinit\u00e0", 
+            "title_full": "Cristiana Dobner, Dalla Shekinah alla Trinità", 
             "url": "http://mondodomani.org/teologia/dobner2011.htm"
         }, 
         {
-            "title_full": "Nicoletta Domma, Cristocentrismo e Trinit\u00e0 in Karl Barth", 
+            "title_full": "Nicoletta Domma, Cristocentrismo e Trinità in Karl Barth", 
             "url": "http://mondodomani.org/teologia/domma2011.htm"
         }, 
         {
-            "title_full": "Antonino Drago, La migliore definizione della Trinit\u00e0 secondo la teologia \u00abnegativa\u00bb di Nicola Cusano", 
+            "title_full": "Antonino Drago, La migliore definizione della Trinità secondo la teologia «negativa» di Nicola Cusano", 
             "url": "http://mondodomani.org/teologia/drago2011.htm"
         }, 
         {
-            "title_full": "Daniele Fazio, Il Dio trinitario: proposta e sfida all'uomo di oggi. La riflessione di R\u00e9mi Brague", 
+            "title_full": "Daniele Fazio, Il Dio trinitario: proposta e sfida all'uomo di oggi. La riflessione di Rémi Brague", 
             "url": "http://mondodomani.org/teologia/fazio2011.htm"
         }, 
         {
@@ -220,35 +220,35 @@
             "url": "http://mondodomani.org/teologia/fiamma2011.htm"
         }, 
         {
-            "title_full": "Rosanna Finamore, La riflessione trinitaria in Agostino d'Ippona. L'uomo, immagine di Dio Trinit\u00e0", 
+            "title_full": "Rosanna Finamore, La riflessione trinitaria in Agostino d'Ippona. L'uomo, immagine di Dio Trinità", 
             "url": "http://mondodomani.org/teologia/finamore2011.htm"
         }, 
         {
-            "title_full": "Emanuela Giacca, Un compito infinito. La Trinit\u00e4tslehre di Friedrich D.E. Schleiermacher tra dogma e vissuto religioso", 
+            "title_full": "Emanuela Giacca, Un compito infinito. La Trinitätslehre di Friedrich D.E. Schleiermacher tra dogma e vissuto religioso", 
             "url": "http://mondodomani.org/teologia/giacca2011.htm"
         }, 
         {
-            "title_full": "Alice Gonzi, Vie della teologia contemporanea: il dibattito tra Slavoj \u017di\u017eek e John Milbank", 
+            "title_full": "Alice Gonzi, Vie della teologia contemporanea: il dibattito tra Slavoj Žižek e John Milbank", 
             "url": "http://mondodomani.org/teologia/gonzi2011.htm"
         }, 
         {
-            "title_full": "Sandro Gorgone, Dio e natura. La teologia trinitaria della creazione di J\u00fcrgen Moltmann", 
+            "title_full": "Sandro Gorgone, Dio e natura. La teologia trinitaria della creazione di Jürgen Moltmann", 
             "url": "http://mondodomani.org/teologia/gorgone2011.htm"
         }, 
         {
-            "title_full": "Gaetano Iaia, Trinit\u00e0 e creazione nel pensiero di Wolfhart Pannenberg", 
+            "title_full": "Gaetano Iaia, Trinità e creazione nel pensiero di Wolfhart Pannenberg", 
             "url": "http://mondodomani.org/teologia/iaia2011.htm"
         }, 
         {
-            "title_full": "Dimitrios Keramidas, Il tema della Trinit\u00e0 nella discussione teologica greca contemporanea", 
+            "title_full": "Dimitrios Keramidas, Il tema della Trinità nella discussione teologica greca contemporanea", 
             "url": "http://mondodomani.org/teologia/keramidas2011.htm"
         }, 
         {
-            "title_full": "Felix K\u00f6rner, La confessione della Trinit\u00e0. Un confronto con la comprensione di Dio nel Corano", 
+            "title_full": "Felix Körner, La confessione della Trinità. Un confronto con la comprensione di Dio nel Corano", 
             "url": "http://mondodomani.org/teologia/koerner2011.htm"
         }, 
         {
-            "title_full": "Rocco Li Volsi, Prefigurazione e realt\u00e0 della Trinit\u00e0 divina e dell'incarnazione del Verbo nel pensiero platonico", 
+            "title_full": "Rocco Li Volsi, Prefigurazione e realtà della Trinità divina e dell'incarnazione del Verbo nel pensiero platonico", 
             "url": "http://mondodomani.org/teologia/livolsi2011.htm"
         }, 
         {
@@ -260,7 +260,7 @@
             "url": "http://mondodomani.org/teologia/lieggi2011.htm"
         }, 
         {
-            "title_full": "Giuseppe Malafronte, La tri-unit\u00e0 e il senso dell'uomo: fede e ragione nella teodicea di Pavel Aleksandrovi\u010d Florenskij", 
+            "title_full": "Giuseppe Malafronte, La tri-unità e il senso dell'uomo: fede e ragione nella teodicea di Pavel Aleksandrovič Florenskij", 
             "url": "http://mondodomani.org/teologia/malafronte2011.htm"
         }, 
         {
@@ -272,7 +272,7 @@
             "url": "http://mondodomani.org/teologia/marengo2011.htm"
         }, 
         {
-            "title_full": "Milena Mariani, L'affermazione della Trinit\u00e0 come chiarificazione del monoteismo in Karl Rahner", 
+            "title_full": "Milena Mariani, L'affermazione della Trinità come chiarificazione del monoteismo in Karl Rahner", 
             "url": "http://mondodomani.org/teologia/mariani2011.htm"
         }, 
         {
@@ -288,11 +288,11 @@
             "url": "http://mondodomani.org/teologia/mazzoni2011.htm"
         }, 
         {
-            "title_full": "Gaspare Mura, La Trinit\u00e0 in San Tommaso ed Hegel. Differenze ontologiche e personalistiche", 
+            "title_full": "Gaspare Mura, La Trinità in San Tommaso ed Hegel. Differenze ontologiche e personalistiche", 
             "url": "http://mondodomani.org/teologia/mura2011.htm"
         }, 
         {
-            "title_full": "Emanuela Palmieri, Trinit\u00e0 e kenosi", 
+            "title_full": "Emanuela Palmieri, Trinità e kenosi", 
             "url": "http://mondodomani.org/teologia/palmieri2011.htm"
         }, 
         {
@@ -316,11 +316,11 @@
             "url": "http://mondodomani.org/teologia/reali2011.htm"
         }, 
         {
-            "title_full": "Paola Ricci Sindoni, Monoteismo ebraico e Dio trinitario. Note filosofiche \u00abal confine\u00bb", 
+            "title_full": "Paola Ricci Sindoni, Monoteismo ebraico e Dio trinitario. Note filosofiche «al confine»", 
             "url": "http://mondodomani.org/teologia/riccisindoni2011.htm"
         }, 
         {
-            "title_full": "Giorgia Salatiello, Filosofia dell'alterit\u00e0 e Trinit\u00e0: riflessioni a partire da Joseph de Finance", 
+            "title_full": "Giorgia Salatiello, Filosofia dell'alterità e Trinità: riflessioni a partire da Joseph de Finance", 
             "url": "http://mondodomani.org/teologia/salatiello2011.htm"
         }, 
         {
@@ -332,7 +332,7 @@
             "url": "http://mondodomani.org/teologia/salmeri2011.htm"
         }, 
         {
-            "title_full": "Leopoldo Sandon\u00e0, \u00abDall'inizio della Nativit\u00e0...\u00bb. Riflessione trinitaria e contemporaneit\u00e0 a partire dalla categoria di generazione", 
+            "title_full": "Leopoldo Sandonà, «Dall'inizio della Natività...». Riflessione trinitaria e contemporaneità a partire dalla categoria di generazione", 
             "url": "http://mondodomani.org/teologia/sandona2011.htm"
         }, 
         {
@@ -344,7 +344,7 @@
             "url": "http://mondodomani.org/teologia/schembra2011.htm"
         }, 
         {
-            "title_full": "Alfredo Sim\u00f3n, Il bacio nella bocca. La Trinit\u00e0 nei Sermoni sul Cantico dei cantici di S. Bernardo", 
+            "title_full": "Alfredo Simón, Il bacio nella bocca. La Trinità nei Sermoni sul Cantico dei cantici di S. Bernardo", 
             "url": "http://mondodomani.org/teologia/simon2011.htm"
         }, 
         {
@@ -356,7 +356,7 @@
             "url": "http://mondodomani.org/teologia/tallarico2011.htm"
         }, 
         {
-            "title_full": "Oreste Tolone, La Trinit\u00e0 come Magna Charta della dignit\u00e0 umana", 
+            "title_full": "Oreste Tolone, La Trinità come Magna Charta della dignità umana", 
             "url": "http://mondodomani.org/teologia/tolone2011.htm"
         }, 
         {
@@ -368,11 +368,11 @@
             "url": "http://mondodomani.org/teologia/trianni2011.htm"
         }, 
         {
-            "title_full": "Georgia Zeami, La verit\u00e0 incompiuta della Trinit\u00e0", 
+            "title_full": "Georgia Zeami, La verità incompiuta della Trinità", 
             "url": "http://mondodomani.org/teologia/zeami2011.htm"
         }, 
         {
-            "title_full": "Benedetta Selene Zorzi, Che genere di Trinit\u00e0? La dottrina trinitaria alla prova dell'epistemologia femminista", 
+            "title_full": "Benedetta Selene Zorzi, Che genere di Trinità? La dottrina trinitaria alla prova dell'epistemologia femminista", 
             "url": "http://mondodomani.org/teologia/zorzi2011.htm"
         }, 
         {
@@ -384,7 +384,7 @@
             "url": "http://mondodomani.org/teologia/zupi2011.htm"
         }, 
         {
-            "title_full": "Paola Marone, Il tema della fraternit\u00e0 nell'ambito della letteratura antidonatista", 
+            "title_full": "Paola Marone, Il tema della fraternità nell'ambito della letteratura antidonatista", 
             "url": "http://mondodomani.org/reportata/marone02.htm"
         }, 
         {
@@ -392,7 +392,7 @@
             "url": "http://mondodomani.org/reportata/zorzi12.htm"
         }, 
         {
-            "title_full": "Nicola Reali, N\u00e9 mero segno n\u00e9 solo simbolo, ma sacramento. Per una rilettura della categoria di sacramento nella teologia di Ugo di San Vittore", 
+            "title_full": "Nicola Reali, Né mero segno né solo simbolo, ma sacramento. Per una rilettura della categoria di sacramento nella teologia di Ugo di San Vittore", 
             "url": "http://mondodomani.org/reportata/reali01.htm"
         }, 
         {
@@ -400,11 +400,11 @@
             "url": "http://mondodomani.org/reportata/trianni02.htm"
         }, 
         {
-            "title_full": "Nicoletta Domma, Il R\u00f6merbrief e le sue interpretazioni: due punti di vista sull'etica", 
+            "title_full": "Nicoletta Domma, Il Römerbrief e le sue interpretazioni: due punti di vista sull'etica", 
             "url": "http://mondodomani.org/reportata/domma01.htm"
         }, 
         {
-            "title_full": "Iuvenalie Ion Ionascu, Il movimento esicasta de \u00abIl Roveto Ardente\u00bb e il poeta Vasile Voiculescu", 
+            "title_full": "Iuvenalie Ion Ionascu, Il movimento esicasta de «Il Roveto Ardente» e il poeta Vasile Voiculescu", 
             "url": "http://mondodomani.org/reportata/ionascu02.htm"
         }, 
         {
@@ -412,7 +412,7 @@
             "url": "http://mondodomani.org/reportata/salman01.htm"
         }, 
         {
-            "title_full": "Alice Remotto, Figure dell'alterit\u00e0. L'\u00abaltro\u00bb tra filosofia e rivelazione nel pensiero tardo-antico: gli Stoici romani e Tertulliano", 
+            "title_full": "Alice Remotto, Figure dell'alterità. L'«altro» tra filosofia e rivelazione nel pensiero tardo-antico: gli Stoici romani e Tertulliano", 
             "url": "http://mondodomani.org/reportata/remotto01.htm"
         }, 
         {
@@ -420,7 +420,7 @@
             "url": "http://mondodomani.org/reportata/costanzo01.htm"
         }, 
         {
-            "title_full": "R\u00e9ginald Gr\u00e9goire, Una rinnovata decodificazione dei testi agiografici", 
+            "title_full": "Réginald Grégoire, Una rinnovata decodificazione dei testi agiografici", 
             "url": "http://mondodomani.org/reportata/gregoire01.htm"
         }, 
         {
@@ -428,7 +428,7 @@
             "url": "http://mondodomani.org/reportata/bonomo01.htm"
         }, 
         {
-            "title_full": "Lorenzo Mancini, Bossuet legge Qoelet. L'Oraison fun\u00e8bre de Henriette-Anne d'Angleterre Duchesse d'Orl\u00e9ans nel contesto del dibattito fra eloquenza e semplicit\u00e0", 
+            "title_full": "Lorenzo Mancini, Bossuet legge Qoelet. L'Oraison funèbre de Henriette-Anne d'Angleterre Duchesse d'Orléans nel contesto del dibattito fra eloquenza e semplicità", 
             "url": "http://mondodomani.org/reportata/mancini01.htm"
         }, 
         {
@@ -436,27 +436,27 @@
             "url": "http://mondodomani.org/reportata/trianni03.htm"
         }, 
         {
-            "title_full": "Alfredo Sim\u00f3n, Recensione a Gertrude di Helfta, Esercizi spirituali", 
+            "title_full": "Alfredo Simón, Recensione a Gertrude di Helfta, Esercizi spirituali", 
             "url": "http://mondodomani.org/reportata/simon03.htm"
         }, 
         {
-            "title_full": "Francesco Pesce, Recensione a Giovanni Paolo II, L'amore umano nel piano divino. La redenzione del corpo e la sacramentalit\u00e0 del matrimonio nelle catechesi del mercoled\u00ec (1979-1984)", 
+            "title_full": "Francesco Pesce, Recensione a Giovanni Paolo II, L'amore umano nel piano divino. La redenzione del corpo e la sacramentalità del matrimonio nelle catechesi del mercoledì (1979-1984)", 
             "url": "http://mondodomani.org/reportata/pesce01.htm"
         }, 
         {
-            "title_full": "M. Benedetta Zorzi, E le stelle stanno a guardare: l'Ipazia del film Agor\u00e0, di A. Amen\u00e1bar", 
+            "title_full": "M. Benedetta Zorzi, E le stelle stanno a guardare: l'Ipazia del film Agorà, di A. Amenábar", 
             "url": "http://mondodomani.org/reportata/zorzi13.htm"
         }, 
         {
-            "title_full": "Daniele Bertini, La metafisica di Lanza del Vasto ne La Mont\u00e9e des \u00c2mes Vivantes", 
+            "title_full": "Daniele Bertini, La metafisica di Lanza del Vasto ne La Montée des Âmes Vivantes", 
             "url": "http://mondodomani.org/reportata/bertini01.htm"
         }, 
         {
-            "title_full": "Iuvenalie Ion Ionascu, Le tuniche di pelle della mortalit\u00e0 nell'et\u00e0 tecnologica", 
+            "title_full": "Iuvenalie Ion Ionascu, Le tuniche di pelle della mortalità nell'età tecnologica", 
             "url": "http://mondodomani.org/reportata/ionascu01.htm"
         }, 
         {
-            "title_full": "Vojt\u011bch Novotn\u00fd, L'ecclesiologia personalistica ceca della seconda met\u00e0 del XX secolo", 
+            "title_full": "Vojtěch Novotný, L'ecclesiologia personalistica ceca della seconda metà del XX secolo", 
             "url": "http://mondodomani.org/reportata/novotny01.htm"
         }, 
         {
@@ -464,71 +464,71 @@
             "url": "http://mondodomani.org/reportata/sibilio01.htm"
         }, 
         {
-            "title_full": "Alfredo Sim\u00f3n, Caritatis pace et amore veritatis. L'esperienza di Dio nell' Epistolario di Anselmo d'Aosta", 
+            "title_full": "Alfredo Simón, Caritatis pace et amore veritatis. L'esperienza di Dio nell' Epistolario di Anselmo d'Aosta", 
             "url": "http://mondodomani.org/reportata/simon02.htm"
         }, 
         {
-            "title_full": "M. Benedetta Selene Zorzi, Sfiguramento e trasfigurazione. Un apporto teologico per comprendere la \u00abBody Art\u00bb?", 
+            "title_full": "M. Benedetta Selene Zorzi, Sfiguramento e trasfigurazione. Un apporto teologico per comprendere la «Body Art»?", 
             "url": "http://mondodomani.org/reportata/zorzi10.htm"
         }, 
         {
-            "title_full": "Daniele Bertini, Universit\u00e0 di Parma, La natura della fede in Gv 4", 
+            "title_full": "Daniele Bertini, Università di Parma, La natura della fede in Gv 4", 
             "url": "http://mondodomani.org/teologia/bertini.htm"
         }, 
         {
-            "title_full": "Carla Canullo, Universit\u00e0 di Macerata, La forma della testimonianza. La spiritualit\u00e0 della santit\u00e0 secondo Hans Urs von Balthasar", 
+            "title_full": "Carla Canullo, Università di Macerata, La forma della testimonianza. La spiritualità della santità secondo Hans Urs von Balthasar", 
             "url": "http://mondodomani.org/teologia/canullo.htm"
         }, 
         {
-            "title_full": "Claudio Cerroni, Universit\u00e0 di Roma Tor Vergata, La teologia di Abelardo come metalinguaggio", 
+            "title_full": "Claudio Cerroni, Università di Roma Tor Vergata, La teologia di Abelardo come metalinguaggio", 
             "url": "http://mondodomani.org/teologia/cerroni.htm"
         }, 
         {
-            "title_full": "Mauro Cinquetti, Universit\u00e0 di Parma, \u00abIo ti conoscevo per sentito dire, ma ora i miei occhi ti vedono\u00bb (Gb 42, 5). Dio e il male: con (e oltre) Ric\u0153ur dalla teodicea alla \u00abragione integrale\u00bb", 
+            "title_full": "Mauro Cinquetti, Università di Parma, «Io ti conoscevo per sentito dire, ma ora i miei occhi ti vedono» (Gb 42, 5). Dio e il male: con (e oltre) Ricœur dalla teodicea alla «ragione integrale»", 
             "url": "http://mondodomani.org/teologia/cinquetti.htm"
         }, 
         {
-            "title_full": "Giovanni Cogliandro, Universit\u00e0 di Roma Tre, \u00ab\u00a1Oh noche amable m\u00e1s que el alborada!\u00bb. Un tentativo filosofico di approccio alla mistica unitiva di Giovanni della Croce", 
+            "title_full": "Giovanni Cogliandro, Università di Roma Tre, «¡Oh noche amable más que el alborada!». Un tentativo filosofico di approccio alla mistica unitiva di Giovanni della Croce", 
             "url": "http://mondodomani.org/teologia/cogliandro.htm"
         }, 
         {
-            "title_full": "Cristiana Dobner, Scacco matto a El castillo interior? La porta della ragione filosofica: Edith Stein interroga Teresa di Ges\u00f9", 
+            "title_full": "Cristiana Dobner, Scacco matto a El castillo interior? La porta della ragione filosofica: Edith Stein interroga Teresa di Gesù", 
             "url": "http://mondodomani.org/teologia/dobner.htm"
         }, 
         {
-            "title_full": "Raniero Fontana, Istituto \u00abAlbert Decourtray di studi ebraici\u00bb di Gerusalemme, L'universalismo noachide", 
+            "title_full": "Raniero Fontana, Istituto «Albert Decourtray di studi ebraici» di Gerusalemme, L'universalismo noachide", 
             "url": "http://mondodomani.org/teologia/fontana.htm"
         }, 
         {
-            "title_full": "Umberto Galeazzi, Universit\u00e0 di Chieti, Sulla conoscenza di Dio in Tommaso d'Aquino", 
+            "title_full": "Umberto Galeazzi, Università di Chieti, Sulla conoscenza di Dio in Tommaso d'Aquino", 
             "url": "http://mondodomani.org/teologia/galeazzi.htm"
         }, 
         {
-            "title_full": "Sandro Gorgone, Universit\u00e0 di Messina, Le fenomenologia della religione di Bernhard Welte", 
+            "title_full": "Sandro Gorgone, Università di Messina, Le fenomenologia della religione di Bernhard Welte", 
             "url": "http://mondodomani.org/teologia/gorgone.htm"
         }, 
         {
-            "title_full": "Paola Mancinelli, Sacramentalit\u00e0, simbolo, storicit\u00e0 nel pensiero di Schillebeeckx", 
+            "title_full": "Paola Mancinelli, Sacramentalità, simbolo, storicità nel pensiero di Schillebeeckx", 
             "url": "http://mondodomani.org/teologia/mancinelli.htm"
         }, 
         {
-            "title_full": "Ilaria Ramelli, Universit\u00e0 Cattolica del Sacro Cuore di Milano, Origene filosofo cristiano: il \u03a0\u03b5\u03c1\u03b9 \u0391\u03c1\u03c7\u03c9\u03bd e i suoi oppositori", 
+            "title_full": "Ilaria Ramelli, Università Cattolica del Sacro Cuore di Milano, Origene filosofo cristiano: il Περι Αρχων e i suoi oppositori", 
             "url": "http://mondodomani.org/teologia/ramelli.htm"
         }, 
         {
-            "title_full": "Giovanni Salmeri, Universit\u00e0 di Roma Tor Vergata, Nessuna luce. Fede, teologia e contemplazione in Giovanni Duns Scoto", 
+            "title_full": "Giovanni Salmeri, Università di Roma Tor Vergata, Nessuna luce. Fede, teologia e contemplazione in Giovanni Duns Scoto", 
             "url": "http://mondodomani.org/teologia/salmeri.htm"
         }, 
         {
-            "title_full": "Corneliu Simu\u0163, Emanuel University of Oradea, The Role of Secularization in Remaking Christian Theology. An Analysis of Edward Schillebeeckx", 
+            "title_full": "Corneliu Simuţ, Emanuel University of Oradea, The Role of Secularization in Remaking Christian Theology. An Analysis of Edward Schillebeeckx", 
             "url": "http://mondodomani.org/teologia/simut.htm"
         }, 
         {
-            "title_full": "Silvio Spiri, Universit\u00e0 di Roma Tor Vergata, Metafisica, teologia e storia nel pensiero di Antonio Rosmini", 
+            "title_full": "Silvio Spiri, Università di Roma Tor Vergata, Metafisica, teologia e storia nel pensiero di Antonio Rosmini", 
             "url": "http://mondodomani.org/teologia/spiri.htm"
         }, 
         {
-            "title_full": "Paolo Trianni, Universit\u00e0 di Roma Tor Vergata, Esperienza di Dio e dialogo interreligioso", 
+            "title_full": "Paolo Trianni, Università di Roma Tor Vergata, Esperienza di Dio e dialogo interreligioso", 
             "url": "http://mondodomani.org/teologia/trianni.htm"
         }, 
         {
@@ -536,15 +536,15 @@
             "url": "http://mondodomani.org/teologia/vannini.htm"
         }, 
         {
-            "title_full": "Silvano Zucal, Universit\u00e0 di Trento, Perch\u00e9 un filosofo dovrebbe interessarsi di teologia?", 
+            "title_full": "Silvano Zucal, Università di Trento, Perché un filosofo dovrebbe interessarsi di teologia?", 
             "url": "http://mondodomani.org/teologia/zucal.htm"
         }, 
         {
-            "title_full": "John Michael Rist, \u00abChe cos'\u00e8 la verit\u00e0?\u00bb. Verit\u00e0 parziale e universale", 
+            "title_full": "John Michael Rist, «Che cos'è la verità?». Verità parziale e universale", 
             "url": "http://mondodomani.org/reportata/rist01.htm"
         }, 
         {
-            "title_full": "Emanuela Prinzivalli, Per fare il punto sul dibattito intorno al Ges\u00f9 storico", 
+            "title_full": "Emanuela Prinzivalli, Per fare il punto sul dibattito intorno al Gesù storico", 
             "url": "http://mondodomani.org/reportata/prinzivalli01.htm"
         }, 
         {
@@ -556,7 +556,7 @@
             "url": "http://mondodomani.org/reportata/giannoni03.htm"
         }, 
         {
-            "title_full": "Paolo Trianni, La teologia di Bede Griffiths: una proposta di sintesi tra Oriente e Occidente nei suoi aspetti di continuit\u00e0 e innovazione con i fondatori di Shantivanam", 
+            "title_full": "Paolo Trianni, La teologia di Bede Griffiths: una proposta di sintesi tra Oriente e Occidente nei suoi aspetti di continuità e innovazione con i fondatori di Shantivanam", 
             "url": "http://mondodomani.org/reportata/trianni01.htm"
         }, 
         {
@@ -576,11 +576,11 @@
             "url": "http://mondodomani.org/reportata/cegna01.htm"
         }, 
         {
-            "title_full": "Giovanni Salmeri, Qual \u00e8 il logos del cristianesimo? Due episodi nella recezione del prologo di Giovanni", 
+            "title_full": "Giovanni Salmeri, Qual è il logos del cristianesimo? Due episodi nella recezione del prologo di Giovanni", 
             "url": "http://mondodomani.org/reportata/salmeri04.htm"
         }, 
         {
-            "title_full": "Jordi-Agust\u00ed Piqu\u00e9 Collado, La dimensione sacramentale della musica in Agostino", 
+            "title_full": "Jordi-Agustí Piqué Collado, La dimensione sacramentale della musica in Agostino", 
             "url": "http://mondodomani.org/reportata/pique01.htm"
         }, 
         {
@@ -588,7 +588,7 @@
             "url": "http://mondodomani.org/reportata/bertoglio01.htm"
         }, 
         {
-            "title_full": "Anna Rosaria Gioeni, Recensione a Giovanni Chimirri, Trattato filosofico sulla libert\u00e0. Etica della persona e teoria dell'agire", 
+            "title_full": "Anna Rosaria Gioeni, Recensione a Giovanni Chimirri, Trattato filosofico sulla libertà. Etica della persona e teoria dell'agire", 
             "url": "http://mondodomani.org/reportata/gioeni02.htm"
         }, 
         {
@@ -600,7 +600,7 @@
             "url": "http://mondodomani.org/reportata/fortuna01.htm"
         }, 
         {
-            "title_full": "Agnese Fortuna, Spiritualit\u00e0 contemporanea e religione del s\u00e9. Su Mary di Abel Ferrara, o delle ambiguit\u00e0", 
+            "title_full": "Agnese Fortuna, Spiritualità contemporanea e religione del sé. Su Mary di Abel Ferrara, o delle ambiguità", 
             "url": "http://mondodomani.org/reportata/fortuna02.htm"
         }, 
         {
@@ -616,7 +616,7 @@
             "url": "http://mondodomani.org/reportata/burrascano01.htm"
         }, 
         {
-            "title_full": "Stella Morra, L'identit\u00e0 sessuata: volto, genere e differenza", 
+            "title_full": "Stella Morra, L'identità sessuata: volto, genere e differenza", 
             "url": "http://mondodomani.org/reportata/morra01.htm"
         }, 
         {
@@ -624,7 +624,7 @@
             "url": "http://mondodomani.org/reportata/nasini02.htm"
         }, 
         {
-            "title_full": "Basil Studer, La spiritualit\u00e0 trinitaria di Agostino d'Ippona", 
+            "title_full": "Basil Studer, La spiritualità trinitaria di Agostino d'Ippona", 
             "url": "http://mondodomani.org/reportata/studer01.htm"
         }, 
         {
@@ -644,11 +644,11 @@
             "url": "http://mondodomani.org/reportata/dobner01.htm"
         }, 
         {
-            "title_full": "Simona Segoloni, Corporeit\u00e0 e identit\u00e0 personale della donna. Alcuni spunti per una rilettura della Mulieris dignitatem", 
+            "title_full": "Simona Segoloni, Corporeità e identità personale della donna. Alcuni spunti per una rilettura della Mulieris dignitatem", 
             "url": "http://mondodomani.org/reportata/segoloni01.htm"
         }, 
         {
-            "title_full": "Lubomir Zak, La \u00abstoria della teologia\u00bb nella prospettiva della \u00abmodellistica\u00bb", 
+            "title_full": "Lubomir Zak, La «storia della teologia» nella prospettiva della «modellistica»", 
             "url": "http://mondodomani.org/reportata/zak03.htm"
         }, 
         {
@@ -684,7 +684,7 @@
             "url": "http://mondodomani.org/reportata/baroffio01.htm"
         }, 
         {
-            "title_full": "Massimo Bolognino, Attualit\u00e0 di Pavel Florenskij", 
+            "title_full": "Massimo Bolognino, Attualità di Pavel Florenskij", 
             "url": "http://mondodomani.org/reportata/bolognino01.htm"
         }, 
         {
@@ -712,7 +712,7 @@
             "url": "http://mondodomani.org/reportata/nasini01.htm"
         }, 
         {
-            "title_full": "Andrea Grillo, Dalla Riforma necessaria alla Riforma non sufficiente. Il Movimento Liturgico come \u00abeffetto\u00bb del Concilio Vaticano II?", 
+            "title_full": "Andrea Grillo, Dalla Riforma necessaria alla Riforma non sufficiente. Il Movimento Liturgico come «effetto» del Concilio Vaticano II?", 
             "url": "http://mondodomani.org/reportata/grillo02.htm"
         }, 
         {
@@ -724,11 +724,11 @@
             "url": "http://mondodomani.org/reportata/cinquetti01.htm"
         }, 
         {
-            "title_full": "Andrea Grillo, Genealogia eucaristica della Chiesa, una riscoperta conciliare alla prova. Breve itinerario critico da \u00abMediator Dei\u00bb a \u00abRedemptionis Sacramentum\u00bb", 
+            "title_full": "Andrea Grillo, Genealogia eucaristica della Chiesa, una riscoperta conciliare alla prova. Breve itinerario critico da «Mediator Dei» a «Redemptionis Sacramentum»", 
             "url": "http://mondodomani.org/reportata/grillo01.htm"
         }, 
         {
-            "title_full": "Giovanni Salmeri, Simboli e natura. La sacramentalit\u00e0 del matrimonio nel Medioevo", 
+            "title_full": "Giovanni Salmeri, Simboli e natura. La sacramentalità del matrimonio nel Medioevo", 
             "url": "http://mondodomani.org/reportata/salmeri02.htm"
         }, 
         {
@@ -740,11 +740,11 @@
             "url": "http://mondodomani.org/reportata/mancinelli02.htm"
         }, 
         {
-            "title_full": "Paolo Giannoni, La maternalit\u00e0 nella chiesa attuale", 
+            "title_full": "Paolo Giannoni, La maternalità nella chiesa attuale", 
             "url": "http://mondodomani.org/reportata/giannoni01.htm"
         }, 
         {
-            "title_full": "Marinella Perroni, \u00abCent'anni di solitudine\u00bb. La lettura femminista della Scrittura", 
+            "title_full": "Marinella Perroni, «Cent'anni di solitudine». La lettura femminista della Scrittura", 
             "url": "http://mondodomani.org/reportata/perroni01.htm"
         }, 
         {
@@ -764,7 +764,7 @@
             "url": "http://mondodomani.org/reportata/silvestri01.htm"
         }, 
         {
-            "title_full": "Alfredo Sim\u00f3n, Il metodo teologico di Gregorio Magno", 
+            "title_full": "Alfredo Simón, Il metodo teologico di Gregorio Magno", 
             "url": "http://mondodomani.org/reportata/simon01.htm"
         }, 
         {
@@ -796,11 +796,11 @@
             "url": "http://mondodomani.org/reportata/zorzi01c.htm"
         }, 
         {
-            "title_full": "M. Benedetta Zorzi, Castit\u00e0 e generazione nel bello. L'eros nel Simposio di Metodio d'Olimpo", 
+            "title_full": "M. Benedetta Zorzi, Castità e generazione nel bello. L'eros nel Simposio di Metodio d'Olimpo", 
             "url": "http://mondodomani.org/reportata/zorzi02.htm"
         }, 
         {
-            "title_full": "M. Benedetta Zorzi, La personalit\u00e0 delle vergini e l'epilogo del Simposio di Metodio d'Olimpo: una critica all'encratismo", 
+            "title_full": "M. Benedetta Zorzi, La personalità delle vergini e l'epilogo del Simposio di Metodio d'Olimpo: una critica all'encratismo", 
             "url": "http://mondodomani.org/reportata/zorzi03.htm"
         }, 
         {
@@ -812,11 +812,11 @@
             "url": "http://mondodomani.org/reportata/editoriale01c.htm"
         }, 
         {
-            "title_full": "Raffaele Iannuzzi, L'esperienza cristiana nel post-moderno: un kair\u00f3s per la Chiesa?", 
+            "title_full": "Raffaele Iannuzzi, L'esperienza cristiana nel post-moderno: un kairós per la Chiesa?", 
             "url": "http://mondodomani.org/reportata/iannuzzi01.htm"
         }, 
         {
-            "title_full": "Raffaele Iannuzzi, Sguardo cattolico e realt\u00e0 sociale", 
+            "title_full": "Raffaele Iannuzzi, Sguardo cattolico e realtà sociale", 
             "url": "http://mondodomani.org/reportata/iannuzzi02.htm"
         }
     ], 

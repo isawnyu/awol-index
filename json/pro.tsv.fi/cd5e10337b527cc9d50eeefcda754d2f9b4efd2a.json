@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gregory of Nazianzus. Images and Reflections. Ed. by J. B\u00f8rtnes - T. H\u00e4gg, 2006. (Ville Vuolanto).", 
+    "description": "Gregory of Nazianzus. Images and Reflections. Ed. by J. Børtnes - T. Hägg, 2006. (Ville Vuolanto).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.596213"
+            "when": "2015-10-27T18:40:19.699491"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.596229"
+            "when": "2015-10-27T18:40:19.699504"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "A. Gangloff: Dion Chrysostome et les mythes. Hell\u00e9nisme, communication et philosophie politique. Pr\u00e9face de L. Brisson, 2006. (Mika Kajava)", 
+    "title": "A. Gangloff: Dion Chrysostome et les mythes. Hellénisme, communication et philosophie politique. Préface de L. Brisson, 2006. (Mika Kajava)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

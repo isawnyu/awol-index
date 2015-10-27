@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les Annuaires de l\u2019\u00c9cole pratique des hautes \u00e9tudes sont des publications annuelles qui t\u00e9moignent de la vie intellectuelle des Sections des Sciences historiques et philologiques (depuis 1873) et des Sciences religieuses (depuis 1886). Ils contiennent principalement les comptes rendus des conf\u00e9rences annuelles des enseignants-chercheurs, auxquels s\u2019ajoutent, irr\u00e9guli\u00e8rement, des articles liminaires, n\u00e9crologies et positions de th\u00e8ses.", 
+    "description": "Les Annuaires de l’École pratique des hautes études sont des publications annuelles qui témoignent de la vie intellectuelle des Sections des Sciences historiques et philologiques (depuis 1873) et des Sciences religieuses (depuis 1886). Ils contiennent principalement les comptes rendus des conférences annuelles des enseignants-chercheurs, auxquels s’ajoutent, irrégulièrement, des articles liminaires, nécrologies et positions de thèses.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.743698"
+            "when": "2015-10-27T18:38:36.996522"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.743717"
+            "when": "2015-10-27T18:38:36.996536"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Annuaires de l'\u00c9cole pratique des hautes \u00e9tudes", 
+    "title": "Annuaires de l'École pratique des hautes études", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

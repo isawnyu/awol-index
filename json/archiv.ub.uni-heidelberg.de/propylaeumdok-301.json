@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Bericht \u00fcber die 39. Versammlung Deutscher Historiker in Hannover. 23. bis 26. September 1992. Stuttgart 1994, pp. 57-58. Stupperich, Reinhard (1983).", 
+    "description": "In: Bericht über die 39. Versammlung Deutscher Historiker in Hannover. 23. bis 26. September 1992. Stuttgart 1994, pp. 57-58. Stupperich, Reinhard (1983).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:42.160485"
+            "when": "2015-10-27T18:48:36.598951"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:42.160502"
+            "when": "2015-10-27T18:48:36.598969"
         }
     ], 
     "publishers": [], 

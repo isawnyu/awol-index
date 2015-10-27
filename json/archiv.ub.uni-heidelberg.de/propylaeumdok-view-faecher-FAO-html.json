@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:03.678726"
+            "when": "2015-10-27T18:40:15.581328"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:03.678738"
+            "when": "2015-10-27T18:40:15.581339"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:33.449522"
+            "when": "2015-10-27T18:46:19.113904"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:33.449539"
+            "when": "2015-10-27T18:46:19.113921"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:41.569969"
+            "when": "2015-10-27T18:46:27.362363"
         }, 
         {
             "fields": [
@@ -176,13 +176,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.789630"
+            "when": "2015-10-27T18:46:46.995443"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.789649"
+            "when": "2015-10-27T18:46:46.995455"
         }, 
         {
             "fields": [
@@ -197,7 +197,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:00.402502"
+            "when": "2015-10-27T18:46:47.302866"
         }, 
         {
             "fields": [
@@ -238,13 +238,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:43.244551"
+            "when": "2015-10-27T18:48:37.797016"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:43.244562"
+            "when": "2015-10-27T18:48:37.797028"
         }, 
         {
             "fields": [
@@ -259,7 +259,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.813457"
+            "when": "2015-10-27T18:48:38.724314"
         }, 
         {
             "fields": [
@@ -300,13 +300,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.623043"
+            "when": "2015-10-27T18:48:50.485219"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.623054"
+            "when": "2015-10-27T18:48:50.485233"
         }, 
         {
             "fields": [
@@ -321,7 +321,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:54.784181"
+            "when": "2015-10-27T18:48:50.678810"
         }
     ], 
     "publishers": [], 
@@ -403,7 +403,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/view/faecher/FAO.html#group_Y"
         }, 
         {
-            "title_full": "Sakralk\u00f6nigtum und Gemeinschaftskunst. Der Alte Orient und das Politische", 
+            "title_full": "Sakralkönigtum und Gemeinschaftskunst. Der Alte Orient und das Politische", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1808/"
         }, 
         {
@@ -423,15 +423,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1018/"
         }, 
         {
-            "title_full": "Clelia Mora - Mauro Giorgieri, Le lettere tra i re ittiti e i re assiri ritrovate a Hattu\u0161a. History of the Ancient Near East, Monographs, 7. Padova, S.A.R.G.O.N. Editrice e Libreria, 2004 [2005]", 
+            "title_full": "Clelia Mora - Mauro Giorgieri, Le lettere tra i re ittiti e i re assiri ritrovate a Hattuša. History of the Ancient Near East, Monographs, 7. Padova, S.A.R.G.O.N. Editrice e Libreria, 2004 [2005]", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/977/"
         }, 
         {
-            "title_full": "Die Handelsbeziehungen zwischen Assyrien und Anatolien in der zweiten H\u00e4lfte des 2. Jt.s v. Chr., unter besonderer Ber\u00fccksichtigung des Metallhandels", 
+            "title_full": "Die Handelsbeziehungen zwischen Assyrien und Anatolien in der zweiten Hälfte des 2. Jt.s v. Chr., unter besonderer Berücksichtigung des Metallhandels", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/951/"
         }, 
         {
-            "title_full": "Die Rechtsordnung in Syrien nach der hethitischen Eroberung: Wandel und Kontinuit\u00e4t", 
+            "title_full": "Die Rechtsordnung in Syrien nach der hethitischen Eroberung: Wandel und Kontinuität", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/949/"
         }, 
         {
@@ -463,11 +463,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2006/"
         }, 
         {
-            "title_full": "La organizaci\u00f3n pol\u00edtica asiria", 
+            "title_full": "La organización política asiria", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/990/"
         }, 
         {
-            "title_full": "Porter, Barbara Nevling: Trees, Kings, and Politics. Studies in Assyrian Iconography, Fribourg/G\u00f6ttingen, 2003", 
+            "title_full": "Porter, Barbara Nevling: Trees, Kings, and Politics. Studies in Assyrian Iconography, Fribourg/Göttingen, 2003", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/993/"
         }, 
         {
@@ -487,7 +487,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/950/"
         }, 
         {
-            "title_full": "V. Donbaz - S. Parpola, Neo-Assyrian Legal Texts in Istanbul, (Studien zu den Assur-Texten 2) Saarbr\u00fccken: SDV, 2001. XXI, 267 S., 9 Taf. 30,2 x 21,2 cm , ISBN 3-930843-64-1", 
+            "title_full": "V. Donbaz - S. Parpola, Neo-Assyrian Legal Texts in Istanbul, (Studien zu den Assur-Texten 2) Saarbrücken: SDV, 2001. XXI, 267 S., 9 Taf. 30,2 x 21,2 cm , ISBN 3-930843-64-1", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1017/"
         }, 
         {
@@ -495,23 +495,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2013/"
         }, 
         {
-            "title_full": "Zur H\u00e4usertypologie in Emar. Arch\u00e4ologie und Philologie im Dialog", 
+            "title_full": "Zur Häusertypologie in Emar. Archäologie und Philologie im Dialog", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1000/"
         }, 
         {
-            "title_full": "Bibliograf\u00eda de los estudios de Emar", 
+            "title_full": "Bibliografía de los estudios de Emar", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/979/"
         }, 
         {
-            "title_full": "Bibliograf\u00eda de los estudios de Emar (2)", 
+            "title_full": "Bibliografía de los estudios de Emar (2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/980/"
         }, 
         {
-            "title_full": "Bibliograf\u00eda de los estudios de Emar (3)", 
+            "title_full": "Bibliografía de los estudios de Emar (3)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/983/"
         }, 
         {
-            "title_full": "Bibliograf\u00eda de los estudios de Emar (4)", 
+            "title_full": "Bibliografía de los estudios de Emar (4)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2015/"
         }, 
         {
@@ -519,7 +519,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2014/"
         }, 
         {
-            "title_full": "Der Gebrauch von a\u0161ar in den akkadischen Texten aus Emar", 
+            "title_full": "Der Gebrauch von ašar in den akkadischen Texten aus Emar", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/987/"
         }, 
         {
@@ -527,7 +527,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2017/"
         }, 
         {
-            "title_full": "The Highland Environment of \u1e24imyarite \u1e92af\u0101r (Yemen): Neo-Geographic Determinism?", 
+            "title_full": "The Highland Environment of Ḥimyarite Ẓafār (Yemen): Neo-Geographic Determinism?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/478/"
         }, 
         {
@@ -535,15 +535,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/477/"
         }, 
         {
-            "title_full": "B. Kienast unter Mitwirkung von W. Sommerfeld: Glossar zu den altakkadischen K\u00f6nigsinschriften. Freiburger Altorientalische Studien, Band 8. Stuttgart 1994", 
+            "title_full": "B. Kienast unter Mitwirkung von W. Sommerfeld: Glossar zu den altakkadischen Königsinschriften. Freiburger Altorientalische Studien, Band 8. Stuttgart 1994", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1040/"
         }, 
         {
-            "title_full": "Der Turtan \u0160am\u0161i-\u012blu und die gro\u00dfe Zeit der assyrischen Gro\u00dfen", 
+            "title_full": "Der Turtan Šamši-īlu und die große Zeit der assyrischen Großen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/997/"
         }, 
         {
-            "title_full": "Die Darstellung von R\u00e4umen und Orten in neuassyrischen K\u00f6nigsinschriften", 
+            "title_full": "Die Darstellung von Räumen und Orten in neuassyrischen Königsinschriften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1977/"
         }, 
         {
@@ -555,7 +555,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1046/"
         }, 
         {
-            "title_full": "Festschrift f\u00fcr Hans Hisch zum 65. Geburtstag gewidmet von seinen Freunden, Kollegen und Sch\u00fclern. Wien: Selbstverl. des Instituts f\u00fcr Orientalistik 1996", 
+            "title_full": "Festschrift für Hans Hisch zum 65. Geburtstag gewidmet von seinen Freunden, Kollegen und Schülern. Wien: Selbstverl. des Instituts für Orientalistik 1996", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1042/"
         }, 
         {
@@ -567,15 +567,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1049/"
         }, 
         {
-            "title_full": "Mario Liverani (Hrsg.), Neo-Assyrian Geography. Quaderni di Geografia Storica, 5. Universit\u00e0 di Roma \"La Sapienza\", Dipartimento di Scienze storiche, archeologiche e antropologiche dell'Antichit\u00e0, Rom 1995", 
+            "title_full": "Mario Liverani (Hrsg.), Neo-Assyrian Geography. Quaderni di Geografia Storica, 5. Università di Roma \"La Sapienza\", Dipartimento di Scienze storiche, archeologiche e antropologiche dell'Antichità, Rom 1995", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1041/"
         }, 
         {
-            "title_full": "M\u0101t Habhi", 
+            "title_full": "Māt Habhi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1044/"
         }, 
         {
-            "title_full": "Neuassyrische Festesfreuden - leicht ged\u00e4mpft", 
+            "title_full": "Neuassyrische Festesfreuden - leicht gedämpft", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1051/"
         }, 
         {
@@ -583,23 +583,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1050/"
         }, 
         {
-            "title_full": "Periodisierung: \u00dcberlegungen zur sumerischen Eigenbegrifflichkeit", 
+            "title_full": "Periodisierung: Überlegungen zur sumerischen Eigenbegrifflichkeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1028/"
         }, 
         {
-            "title_full": "Shigeo Yamada, The Construction of the Assyrian Empire. A Historical Study of the Inscriptions of Shalmaneser III (859-824 BC) Relating to His Campaigns to the West. Culture and History of the Ancient Near East Vol.3, Leiden; Boston; K\u00f6ln 2000", 
+            "title_full": "Shigeo Yamada, The Construction of the Assyrian Empire. A Historical Study of the Inscriptions of Shalmaneser III (859-824 BC) Relating to His Campaigns to the West. Culture and History of the Ancient Near East Vol.3, Leiden; Boston; Köln 2000", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1045/"
         }, 
         {
-            "title_full": "T\u00fcbinger Atlas des Vorderen Orients: Register zu den Karten / Generalindex. 3 Bde. Wiesbaden 1994", 
+            "title_full": "Tübinger Atlas des Vorderen Orients: Register zu den Karten / Generalindex. 3 Bde. Wiesbaden 1994", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1043/"
         }, 
         {
-            "title_full": "Walter Mayer, Politik und Kriegskunst der Assyrer. Ugarit-Verlag, M\u00fcnster, 1995", 
+            "title_full": "Walter Mayer, Politik und Kriegskunst der Assyrer. Ugarit-Verlag, Münster, 1995", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1039/"
         }, 
         {
-            "title_full": "War das assyrische Reich ein Milit\u00e4rstaat?", 
+            "title_full": "War das assyrische Reich ein Militärstaat?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/998/"
         }, 
         {
@@ -611,11 +611,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1026/"
         }, 
         {
-            "title_full": "\u00dcber den Wert von Befestigungsanlagen", 
+            "title_full": "Über den Wert von Befestigungsanlagen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1038/"
         }, 
         {
-            "title_full": "Die syrisch-mesopotamische Staatenwelt in vorislamischer Zeit. Zu den arabischen Macht- und Staatenbildungen an der Peripherie der antiken Gro\u00dfm\u00e4chte im Hellenismus und in der r\u00f6mischen Kaiserzeit", 
+            "title_full": "Die syrisch-mesopotamische Staatenwelt in vorislamischer Zeit. Zu den arabischen Macht- und Staatenbildungen an der Peripherie der antiken Großmächte im Hellenismus und in der römischen Kaiserzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/237/"
         }, 
         {
@@ -631,15 +631,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1649/"
         }, 
         {
-            "title_full": "Altbabylonische Hymnen an die Mutterg\u00f6ttin (HS 1884)", 
+            "title_full": "Altbabylonische Hymnen an die Muttergöttin (HS 1884)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1204/"
         }, 
         {
-            "title_full": "Altoriental(ist)ische und biblische Sch\u00f6pfungsmythen", 
+            "title_full": "Altoriental(ist)ische und biblische Schöpfungsmythen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1396/"
         }, 
         {
-            "title_full": "Anhang: Kollationen zu HS 2009 + 2985 (Su-Sin; Zeilenz\u00e4hlung nach RIME 3/2)", 
+            "title_full": "Anhang: Kollationen zu HS 2009 + 2985 (Su-Sin; Zeilenzählung nach RIME 3/2)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1346/"
         }, 
         {
@@ -651,7 +651,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1454/"
         }, 
         {
-            "title_full": "Die G\u00f6tterlisten aus Fara", 
+            "title_full": "Die Götterlisten aus Fara", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1125/"
         }, 
         {
@@ -667,7 +667,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1368/"
         }, 
         {
-            "title_full": "Drachenmutter und Himmelsrebe? Zur Fr\u00fchgeschichte Dumuzis und seiner Familie", 
+            "title_full": "Drachenmutter und Himmelsrebe? Zur Frühgeschichte Dumuzis und seiner Familie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1376/"
         }, 
         {
@@ -675,7 +675,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1230/"
         }, 
         {
-            "title_full": "Ein Lautwert \u0161arx des Zeichens NE in Ebla?", 
+            "title_full": "Ein Lautwert šarx des Zeichens NE in Ebla?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1128/"
         }, 
         {
@@ -699,7 +699,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1349/"
         }, 
         {
-            "title_full": "Gelb, I.J. und B. Kienast: Die altakkadischen K\u00f6nigsinschriften des Dritten Jahrtausends v. Chr. (=Freiburger Altorientalistische Studien 7), Franz Steiner Verlag Stuttgart, 1990", 
+            "title_full": "Gelb, I.J. und B. Kienast: Die altakkadischen Königsinschriften des Dritten Jahrtausends v. Chr. (=Freiburger Altorientalistische Studien 7), Franz Steiner Verlag Stuttgart, 1990", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1228/"
         }, 
         {
@@ -719,11 +719,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1232/"
         }, 
         {
-            "title_full": "Lemaire, Andr\u00e9 - Durand, Jean-Marie: Les inscriptions aram\u00e9ennes de Sfir\u00e9 et l'Assyrie de Shamshi-ilu. Pr\u00e9face de Maurice Sznycer, Directeur d'Etudes \u00e0 la Section (Ecole pratique des Hautes-Etudes. IVe Section, Scienes historiques et philologiques. II, Hautes Etudes orientales, 20). Librairie Droz, Genf-Paris, 1984", 
+            "title_full": "Lemaire, André - Durand, Jean-Marie: Les inscriptions araméennes de Sfiré et l'Assyrie de Shamshi-ilu. Préface de Maurice Sznycer, Directeur d'Etudes à la Section (Ecole pratique des Hautes-Etudes. IVe Section, Scienes historiques et philologiques. II, Hautes Etudes orientales, 20). Librairie Droz, Genf-Paris, 1984", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1132/"
         }, 
         {
-            "title_full": "Loretz, Oswald: Habiru - Hebr\u00e4er. Eine sozio-linguistische Studie \u00fcber die Herkunft des Gentiliziums \\'ibr\u00ee vom Appellativum habiru (= Beihefte zur Zeitschrift f\u00fcr die alttestamentliche Wissenschaft 160). Walter de Gruyter, Berlin/ New York, 1984", 
+            "title_full": "Loretz, Oswald: Habiru - Hebräer. Eine sozio-linguistische Studie über die Herkunft des Gentiliziums \\'ibrî vom Appellativum habiru (= Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft 160). Walter de Gruyter, Berlin/ New York, 1984", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1131/"
         }, 
         {
@@ -755,7 +755,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1207/"
         }, 
         {
-            "title_full": "Sigrist, Rene Marcel: Les \u0161attukku dans l\\'E\u0161ume\u0161a durant la periode d\\'Isin et Larsa. Malibu/Calif.: Undena Publications 1984", 
+            "title_full": "Sigrist, Rene Marcel: Les šattukku dans l\\'Ešumeša durant la periode d\\'Isin et Larsa. Malibu/Calif.: Undena Publications 1984", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1231/"
         }, 
         {
@@ -767,11 +767,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1472/"
         }, 
         {
-            "title_full": "Verbalformen mit suffigierten n-Morphemen im Ugaritischen. \u00dcberlegungen zur Morphologie des Energikus im Ugaritischen und in anderen semitischen Sprachen", 
+            "title_full": "Verbalformen mit suffigierten n-Morphemen im Ugaritischen. Überlegungen zur Morphologie des Energikus im Ugaritischen und in anderen semitischen Sprachen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1229/"
         }, 
         {
-            "title_full": "Verbalnomina mit pr\u00e4- und infigirtem t in Ebla", 
+            "title_full": "Verbalnomina mit prä- und infigirtem t in Ebla", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1410/"
         }, 
         {
@@ -779,7 +779,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1351/"
         }, 
         {
-            "title_full": "Von Z\u00e4hlsymbolen zur Keilschrift", 
+            "title_full": "Von Zählsymbolen zur Keilschrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1383/"
         }, 
         {
@@ -787,11 +787,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1133/"
         }, 
         {
-            "title_full": "\u201eWo einer in Wut ist, kann kein anderer ihm raten.\" Zum g\u00f6ttlichen Zorn im Alten Orient", 
+            "title_full": "„Wo einer in Wut ist, kann kein anderer ihm raten.\" Zum göttlichen Zorn im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1369/"
         }, 
         {
-            "title_full": "W\u00f6rter und Sprichw\u00f6rter: der zweisprachige Schultext HS 1461", 
+            "title_full": "Wörter und Sprichwörter: der zweisprachige Schultext HS 1461", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1382/"
         }, 
         {
@@ -811,11 +811,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1208/"
         }, 
         {
-            "title_full": "Zur Lesung einiger fr\u00fchdynastischer Inschriften aus Mari", 
+            "title_full": "Zur Lesung einiger frühdynastischer Inschriften aus Mari", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1127/"
         }, 
         {
-            "title_full": "Zur Struktur und Geschichte des \u00e4lteren sumerischen Onomastikons", 
+            "title_full": "Zur Struktur und Geschichte des älteren sumerischen Onomastikons", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1452/"
         }, 
         {
@@ -823,7 +823,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1377/"
         }, 
         {
-            "title_full": "hbrk bcl in den ph\u00f6nizischen Karatepe-Inschriften und '\u00e0-ba-ra-g\u00fa in Ebla", 
+            "title_full": "hbrk bcl in den phönizischen Karatepe-Inschriften und 'à-ba-ra-gú in Ebla", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1209/"
         }, 
         {
@@ -831,11 +831,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1342/"
         }, 
         {
-            "title_full": "van Dijk, J.: LUGAL UD ME-LAM-Bi NIR-GAL. Le r\u00e9cit epique et didactique des Travaux de Ninurta, du Deluge et de la Nouvelle Cr\u00e9ation, Leiden, Brill 1983", 
+            "title_full": "van Dijk, J.: LUGAL UD ME-LAM-Bi NIR-GAL. Le récit epique et didactique des Travaux de Ninurta, du Deluge et de la Nouvelle Création, Leiden, Brill 1983", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1233/"
         }, 
         {
-            "title_full": "Zwei Ostraka vom Tell Kamid-el-Loz und ein neuer Aspekt f\u00fcr die Entstehung des kanaan\u00e4ischen Alphabets", 
+            "title_full": "Zwei Ostraka vom Tell Kamid-el-Loz und ein neuer Aspekt für die Entstehung des kanaanäischen Alphabets", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1518/"
         }, 
         {
@@ -847,15 +847,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/992/"
         }, 
         {
-            "title_full": "Altertum in Mesopotamien. Beitr\u00e4ge zu den Sektionsthemen und Diskussionen", 
+            "title_full": "Altertum in Mesopotamien. Beiträge zu den Sektionsthemen und Diskussionen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/974/"
         }, 
         {
-            "title_full": "Altorientalische Sch\u00f6pfungsmythen", 
+            "title_full": "Altorientalische Schöpfungsmythen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1029/"
         }, 
         {
-            "title_full": "Altorientalische Tatenberichte mit (auto)biographischen Z\u00fcgen", 
+            "title_full": "Altorientalische Tatenberichte mit (auto)biographischen Zügen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/903/"
         }, 
         {
@@ -863,7 +863,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/996/"
         }, 
         {
-            "title_full": "Anmerkungen zu der 1. Tafel der Serie \u2018sag.ba sag.ba\u2019", 
+            "title_full": "Anmerkungen zu der 1. Tafel der Serie ‘sag.ba sag.ba’", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1060/"
         }, 
         {
@@ -879,7 +879,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/858/"
         }, 
         {
-            "title_full": "\"Auf meinen Rechtsfall werde doch aufmerksam!\" Wie sich die Babylonier und Assyrer vor Unheil sch\u00fctzten, das sich durch ein Vorzeichen angek\u00fcndigt hatte", 
+            "title_full": "\"Auf meinen Rechtsfall werde doch aufmerksam!\" Wie sich die Babylonier und Assyrer vor Unheil schützten, das sich durch ein Vorzeichen angekündigt hatte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/834/"
         }, 
         {
@@ -891,7 +891,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/870/"
         }, 
         {
-            "title_full": "Bier und Wein f\u00fcr die G\u00f6tter", 
+            "title_full": "Bier und Wein für die Götter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1118/"
         }, 
         {
@@ -899,7 +899,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/991/"
         }, 
         {
-            "title_full": "Das \"dreifache K\u00f6nigtum\" - \u00dcberlegungen zu einer Sonderform des neuassyrischen K\u00f6nigssiegels", 
+            "title_full": "Das \"dreifache Königtum\" - Überlegungen zu einer Sonderform des neuassyrischen Königssiegels", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/905/"
         }, 
         {
@@ -915,7 +915,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/901/"
         }, 
         {
-            "title_full": "Den Gott ern\u00e4hren. \u00dcberlegungen zum regelm\u00e4\u00dfigen Opfer in altorientalischen Tempeln", 
+            "title_full": "Den Gott ernähren. Überlegungen zum regelmäßigen Opfer in altorientalischen Tempeln", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1139/"
         }, 
         {
@@ -927,23 +927,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/831/"
         }, 
         {
-            "title_full": "Der Sieg \u00fcber die M\u00e4chte des B\u00f6sen. G\u00f6tterkampf, Triumphrituale und Torarchitektur in Assyrien", 
+            "title_full": "Der Sieg über die Mächte des Bösen. Götterkampf, Triumphrituale und Torarchitektur in Assyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/964/"
         }, 
         {
-            "title_full": "Der Sieg \u00fcber die M\u00e4chte des B\u00f6sen. G\u00f6tterkampf,Triumphrituale und Torarchitektur in Assyrien", 
+            "title_full": "Der Sieg über die Mächte des Bösen. Götterkampf,Triumphrituale und Torarchitektur in Assyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/973/"
         }, 
         {
-            "title_full": "Der assyrische K\u00f6nig - H\u00fcter der Weltordnung", 
+            "title_full": "Der assyrische König - Hüter der Weltordnung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/906/"
         }, 
         {
-            "title_full": "Der assyrische K\u00f6nig - H\u00fcter der Weltordnung", 
+            "title_full": "Der assyrische König - Hüter der Weltordnung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/907/"
         }, 
         {
-            "title_full": "Die Fr\u00fchjahrsfeierlichkeiten in Assur", 
+            "title_full": "Die Frühjahrsfeierlichkeiten in Assur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/976/"
         }, 
         {
@@ -955,7 +955,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1120/"
         }, 
         {
-            "title_full": "Die Korrespondenz des Ias\u012bm-S\u016bm\u00fb. Ein Nachtrag zu ARMT XIII 25-57", 
+            "title_full": "Die Korrespondenz des Iasīm-Sūmû. Ein Nachtrag zu ARMT XIII 25-57", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1058/"
         }, 
         {
@@ -963,11 +963,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1030/"
         }, 
         {
-            "title_full": "Die Reste einer mittelassyrischen Beschw\u00f6rerbibliothek aus dem K\u00f6nigspalast zu Assur", 
+            "title_full": "Die Reste einer mittelassyrischen Beschwörerbibliothek aus dem Königspalast zu Assur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/972/"
         }, 
         {
-            "title_full": "Die Schriftfunde aus Assur von den Ausgrabungen der Deutschen Orient-Gesellschaft im Fr\u00fchjahr 2000", 
+            "title_full": "Die Schriftfunde aus Assur von den Ausgrabungen der Deutschen Orient-Gesellschaft im Frühjahr 2000", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1004/"
         }, 
         {
@@ -975,11 +975,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1067/"
         }, 
         {
-            "title_full": "Die altorientalischen Mythen um Gilgamesch, den K\u00f6nig von Uruk", 
+            "title_full": "Die altorientalischen Mythen um Gilgamesch, den König von Uruk", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1036/"
         }, 
         {
-            "title_full": "Die \u2018L\u00f6sung vom Bann'", 
+            "title_full": "Die ‘Lösung vom Bann'", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1035/"
         }, 
         {
@@ -995,7 +995,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1016/"
         }, 
         {
-            "title_full": "Ein beschriftetes Schwert aus der sp\u00e4ten mittelbabylonischen Zeit", 
+            "title_full": "Ein beschriftetes Schwert aus der späten mittelbabylonischen Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1066/"
         }, 
         {
@@ -1003,11 +1003,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1064/"
         }, 
         {
-            "title_full": "Eine Rationenliste aus dem K\u00f6nigreich Arraphe", 
+            "title_full": "Eine Rationenliste aus dem Königreich Arraphe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/874/"
         }, 
         {
-            "title_full": "Eine babylonische Kultordnung f\u00fcr den \u2018Klages\u00e4nger\u2019 (kal\u00fb)", 
+            "title_full": "Eine babylonische Kultordnung für den ‘Klagesänger’ (kalû)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1121/"
         }, 
         {
@@ -1019,11 +1019,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/864/"
         }, 
         {
-            "title_full": "GE\u0160TUG = n\u0113mequ", 
+            "title_full": "GEŠTUG = nēmequ", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1065/"
         }, 
         {
-            "title_full": "Gilgamesch, K\u00f6nig von Uruk. \u00bbDer, der alles sah\u00ab", 
+            "title_full": "Gilgamesch, König von Uruk. »Der, der alles sah«", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1006/"
         }, 
         {
@@ -1035,11 +1035,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/908/"
         }, 
         {
-            "title_full": "\u00bbIl ritorno alle origini\u00ab: Il rinnovamento rituale della regalit\u00e0 nella festa babilonese-assira del nuovo anno", 
+            "title_full": "»Il ritorno alle origini«: Il rinnovamento rituale della regalità nella festa babilonese-assira del nuovo anno", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/909/"
         }, 
         {
-            "title_full": "Im Fadenkreuz von Raum und Zeit. Zum Verh\u00e4ltnis von Weltbild und Herrschaftskonzeption im Alten Orient", 
+            "title_full": "Im Fadenkreuz von Raum und Zeit. Zum Verhältnis von Weltbild und Herrschaftskonzeption im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/967/"
         }, 
         {
@@ -1047,27 +1047,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1119/"
         }, 
         {
-            "title_full": "K\u00fcchensumerisch oder hohe Kunst der Exegese? \u00dcberlegungen zur Bewertung akkadischer Interlinear\u00fcbersetzungen von Emesal-Texten", 
+            "title_full": "Küchensumerisch oder hohe Kunst der Exegese? Überlegungen zur Bewertung akkadischer Interlinearübersetzungen von Emesal-Texten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1061/"
         }, 
         {
-            "title_full": "L'\u00e9pop\u00e9e de Gilgamesh", 
+            "title_full": "L'épopée de Gilgamesh", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1034/"
         }, 
         {
-            "title_full": "La fin de la tradition cun\u00e9iforme et les \"Graeco-Babyloniaca\"", 
+            "title_full": "La fin de la tradition cunéiforme et les \"Graeco-Babyloniaca\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/872/"
         }, 
         {
-            "title_full": "L\u2019imperscrutabile parola divina. Lamentazioni sumeriche per la parola divina", 
+            "title_full": "L’imperscrutabile parola divina. Lamentazioni sumeriche per la parola divina", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1122/"
         }, 
         {
-            "title_full": "Marduk, Nab\u00fb und der assyrische Enlil. Die Geschichte eines sumerischen \u0160u\\'ilas", 
+            "title_full": "Marduk, Nabû und der assyrische Enlil. Die Geschichte eines sumerischen Šu\\'ilas", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/863/"
         }, 
         {
-            "title_full": "Milit\u00e4rpferde im Alten Orient", 
+            "title_full": "Militärpferde im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1011/"
         }, 
         {
@@ -1095,11 +1095,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1010/"
         }, 
         {
-            "title_full": "Reste einer fr\u00fchneuassyrischen Fassung des Gilgamesch-Epos aus Assur", 
+            "title_full": "Reste einer frühneuassyrischen Fassung des Gilgamesch-Epos aus Assur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/968/"
         }, 
         {
-            "title_full": "Ringen um g\u00f6ttliches und menschliches Mass. Die Sintflut und ihre Bedeutung im Alten Orient", 
+            "title_full": "Ringen um göttliches und menschliches Mass. Die Sintflut und ihre Bedeutung im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1037/"
         }, 
         {
@@ -1111,15 +1111,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/902/"
         }, 
         {
-            "title_full": "Teilhaben an der Heilsgeschichte. \u00dcberlegungen zu Fiktionalit\u00e4t und Identit\u00e4tsbildung im Gilgamesch-Epos", 
+            "title_full": "Teilhaben an der Heilsgeschichte. Überlegungen zu Fiktionalität und Identitätsbildung im Gilgamesch-Epos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1033/"
         }, 
         {
-            "title_full": "Tor der G\u00f6tter", 
+            "title_full": "Tor der Götter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1116/"
         }, 
         {
-            "title_full": "Totengeist und V\u00f6gel. Eine Vogelliste aus dem neubabylonischen Grab 433 in Uruk", 
+            "title_full": "Totengeist und Vögel. Eine Vogelliste aus dem neubabylonischen Grab 433 in Uruk", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/859/"
         }, 
         {
@@ -1139,7 +1139,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/861/"
         }, 
         {
-            "title_full": "Wer baute die babylonische Arche? Ein neues Fragment der mesopotamischen Sintfluterz\u00e4hlung aus Assur", 
+            "title_full": "Wer baute die babylonische Arche? Ein neues Fragment der mesopotamischen Sintfluterzählung aus Assur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1005/"
         }, 
         {
@@ -1147,15 +1147,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1009/"
         }, 
         {
-            "title_full": "Wiedererstehende Welten. Aufgaben und M\u00f6glichkeiten moderner Altorientalistik", 
+            "title_full": "Wiedererstehende Welten. Aufgaben und Möglichkeiten moderner Altorientalistik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/966/"
         }, 
         {
-            "title_full": "Wiedererstehende Welten. Aufgaben und M\u00f6glichkeiten moderner Altorientalistik", 
+            "title_full": "Wiedererstehende Welten. Aufgaben und Möglichkeiten moderner Altorientalistik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1031/"
         }, 
         {
-            "title_full": "Zerschlagene Denkm\u00e4ler. Die Zerst\u00f6rung von Kultursch\u00e4tzen im eroberten Zweistromland im Altertum und in der Gegenwart", 
+            "title_full": "Zerschlagene Denkmäler. Die Zerstörung von Kulturschätzen im eroberten Zweistromland im Altertum und in der Gegenwart", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1123/"
         }, 
         {
@@ -1163,27 +1163,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/862/"
         }, 
         {
-            "title_full": "Zwischen Sparma\u00dfnahme und Revolte... Die Aktivit\u00e4ten des Ias\u012bm-S\u016bm\u00fb, des \u0161andabakkum von Mari", 
+            "title_full": "Zwischen Sparmaßnahme und Revolte... Die Aktivitäten des Iasīm-Sūmû, des šandabakkum von Mari", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1062/"
         }, 
         {
-            "title_full": "kurgarr\u00fb und assinnu und ihr Stand in der babylonischen Gesellschaft", 
+            "title_full": "kurgarrû und assinnu und ihr Stand in der babylonischen Gesellschaft", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/871/"
         }, 
         {
-            "title_full": "nindaG\u00c9STUG = hasistu, \u2018\u00d6hrchen\u2019, \u2018Brot in Ohrenform\u2019", 
+            "title_full": "nindaGÉSTUG = hasistu, ‘Öhrchen’, ‘Brot in Ohrenform’", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1063/"
         }, 
         {
-            "title_full": "tikip santakki mala ba\u0161mu ... Anstelle eines Vorwortes", 
+            "title_full": "tikip santakki mala bašmu ... Anstelle eines Vorwortes", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/857/"
         }, 
         {
-            "title_full": "Sasanidische Stempelsiegel aus dem Arch\u00e4ologischen Museum der Westf\u00e4lischen Wilhelms-Universit\u00e4t, M\u00fcnster", 
+            "title_full": "Sasanidische Stempelsiegel aus dem Archäologischen Museum der Westfälischen Wilhelms-Universität, Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/911/"
         }, 
         {
-            "title_full": "Altorientalistik in der DDR (1986-1990) und ihre inhaltlich-strukturelle Umgestaltung in den neuen Bundesl\u00e4ndern (1990/91-1995)", 
+            "title_full": "Altorientalistik in der DDR (1986-1990) und ihre inhaltlich-strukturelle Umgestaltung in den neuen Bundesländern (1990/91-1995)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/675/"
         }, 
         {
@@ -1207,7 +1207,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/600/"
         }, 
         {
-            "title_full": "Der Beitrag Mesopotamiens zur Rechtsgeschichte - B\u00fcrgschaft und Pfand als Mittel der Vertragssicherung", 
+            "title_full": "Der Beitrag Mesopotamiens zur Rechtsgeschichte - Bürgschaft und Pfand als Mittel der Vertragssicherung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/726/"
         }, 
         {
@@ -1219,27 +1219,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/604/"
         }, 
         {
-            "title_full": "Die Keilschrifttexte in der Sammlung des Arch\u00e4ologischen Museums Zagreb", 
+            "title_full": "Die Keilschrifttexte in der Sammlung des Archäologischen Museums Zagreb", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/683/"
         }, 
         {
-            "title_full": "Die sogenannte Oikos-\u00d6konomie und das Problem der Privatwirtschaft im ausgehenden 3. Jahrtausend v. Chr. in Mesopotamien. Bemerkungen zu J. Renger: Wirtschaftsgeschichte des alten Mesopotamien. Versuch einer Standortbestimmung", 
+            "title_full": "Die sogenannte Oikos-Ökonomie und das Problem der Privatwirtschaft im ausgehenden 3. Jahrtausend v. Chr. in Mesopotamien. Bemerkungen zu J. Renger: Wirtschaftsgeschichte des alten Mesopotamien. Versuch einer Standortbestimmung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/734/"
         }, 
         {
-            "title_full": "Drei altmesopotamische Tonn\u00e4gel im Besitz des Arch\u00e4ologischen Museums der Martin-Luther-Universit\u00e4t Halle-Wittenberg", 
+            "title_full": "Drei altmesopotamische Tonnägel im Besitz des Archäologischen Museums der Martin-Luther-Universität Halle-Wittenberg", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/598/"
         }, 
         {
-            "title_full": "Ein Brief an K\u00f6nig Sulgi in einer sp\u00e4ten Abschrift", 
+            "title_full": "Ein Brief an König Sulgi in einer späten Abschrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/636/"
         }, 
         {
-            "title_full": "Ein Ur III-Brief aus der Sammlung des Arch\u00e4ologischen Museums der Martin-Luther-Universit\u00e4t Halle-Wittenberg", 
+            "title_full": "Ein Ur III-Brief aus der Sammlung des Archäologischen Museums der Martin-Luther-Universität Halle-Wittenberg", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/605/"
         }, 
         {
-            "title_full": "Ein Ur III-Text aus M\u00fcnsteraner Privatbesitz", 
+            "title_full": "Ein Ur III-Text aus Münsteraner Privatbesitz", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/728/"
         }, 
         {
@@ -1247,15 +1247,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/682/"
         }, 
         {
-            "title_full": "Eine Inschrift des K\u00f6nigs Lugalkisalsi (VA 4855)", 
+            "title_full": "Eine Inschrift des Königs Lugalkisalsi (VA 4855)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/607/"
         }, 
         {
-            "title_full": "Einheimische Tradition und interkulturell bedingter Wandel in den babylonischen Rechtsverh\u00e4ltnissen der hellenistischen Zeit", 
+            "title_full": "Einheimische Tradition und interkulturell bedingter Wandel in den babylonischen Rechtsverhältnissen der hellenistischen Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/730/"
         }, 
         {
-            "title_full": "Einige Erw\u00e4gungen zu Recht und Gesellschaft in Mesopotamien in fr\u00fchstaatlicher Zeit", 
+            "title_full": "Einige Erwägungen zu Recht und Gesellschaft in Mesopotamien in frühstaatlicher Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/677/"
         }, 
         {
@@ -1263,19 +1263,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/637/"
         }, 
         {
-            "title_full": "\"Gerechtigkeit liebe ich...\". Zum Strafrecht in den \u00e4ltesten Gesetzen Mesopotamiens", 
+            "title_full": "\"Gerechtigkeit liebe ich...\". Zum Strafrecht in den ältesten Gesetzen Mesopotamiens", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/606/"
         }, 
         {
-            "title_full": "\"Gib mir mein Geld zur\u00fcck!\" Zur rechts- und wirtschaftsgeschichtlichen Bedeutung keilschriftlicher Privatarchive des 3. Jahrtausends v. Chr", 
+            "title_full": "\"Gib mir mein Geld zurück!\" Zur rechts- und wirtschaftsgeschichtlichen Bedeutung keilschriftlicher Privatarchive des 3. Jahrtausends v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/731/"
         }, 
         {
-            "title_full": "Gl\u00e4ubiger oder Schuldner? Anmerkungen zu einem neuassyrischen Privatbrief", 
+            "title_full": "Gläubiger oder Schuldner? Anmerkungen zu einem neuassyrischen Privatbrief", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/792/"
         }, 
         {
-            "title_full": "Goldverzierte Schuhe f\u00fcr die K\u00f6nigin", 
+            "title_full": "Goldverzierte Schuhe für die Königin", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/793/"
         }, 
         {
@@ -1283,11 +1283,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/678/"
         }, 
         {
-            "title_full": "G\u00f6ttliche Gerechtigkeit und menschliche Verantwortung im alten Mesopotamien im Spannungsfeld von Norm(durch)setzung und narrativer Formulierung", 
+            "title_full": "Göttliche Gerechtigkeit und menschliche Verantwortung im alten Mesopotamien im Spannungsfeld von Norm(durch)setzung und narrativer Formulierung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/848/"
         }, 
         {
-            "title_full": "Handel und H\u00e4ndler in der Zeit der III. Dynastie von Ur", 
+            "title_full": "Handel und Händler in der Zeit der III. Dynastie von Ur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/601/"
         }, 
         {
@@ -1303,7 +1303,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/849/"
         }, 
         {
-            "title_full": "Nochmals zum Kaufmann in neusumerischer Zeit: Die Gesch\u00e4fte des Ur-DUN und anderer Kaufleute aus Nippur", 
+            "title_full": "Nochmals zum Kaufmann in neusumerischer Zeit: Die Geschäfte des Ur-DUN und anderer Kaufleute aus Nippur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/684/"
         }, 
         {
@@ -1311,15 +1311,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/602/"
         }, 
         {
-            "title_full": "Proze\u00dff\u00fchrung im Edubba'a. Zu einigen Aspekten der Aneignung juristischer Kenntnisse im Rahmen des Curriculums babylonischer Schreiberausbildung", 
+            "title_full": "Prozeßführung im Edubba'a. Zu einigen Aspekten der Aneignung juristischer Kenntnisse im Rahmen des Curriculums babylonischer Schreiberausbildung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/796/"
         }, 
         {
-            "title_full": "Schuld und S\u00fchne. Zu den religi\u00f6s-weltanschaulichen Grundlagen und Implikationen altmesopotamischer Gesetzgebung und Rechtsprechung", 
+            "title_full": "Schuld und Sühne. Zu den religiös-weltanschaulichen Grundlagen und Implikationen altmesopotamischer Gesetzgebung und Rechtsprechung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/732/"
         }, 
         {
-            "title_full": "Staatliche Verwaltung und privates Handwerk in der Ur III-Zeit: Die Auftragst\u00e4tigkeit der Schmiede von Girsu", 
+            "title_full": "Staatliche Verwaltung und privates Handwerk in der Ur III-Zeit: Die Auftragstätigkeit der Schmiede von Girsu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/679/"
         }, 
         {
@@ -1331,11 +1331,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/736/"
         }, 
         {
-            "title_full": "Zu den Buchungseintr\u00e4gen in den neusumerischen Handwerkerpr\u00e4senzlisten aus Ur", 
+            "title_full": "Zu den Buchungseinträgen in den neusumerischen Handwerkerpräsenzlisten aus Ur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/797/"
         }, 
         {
-            "title_full": "Zu den Gesch\u00e4ften des Kaufmanns Ur-Dumuzida aus Umma", 
+            "title_full": "Zu den Geschäften des Kaufmanns Ur-Dumuzida aus Umma", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/635/"
         }, 
         {
@@ -1343,7 +1343,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/798/"
         }, 
         {
-            "title_full": "Zu einer Kopie der Inschrift Narams\u00een 2 aus Babylon", 
+            "title_full": "Zu einer Kopie der Inschrift Naramsîn 2 aus Babylon", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/608/"
         }, 
         {
@@ -1355,7 +1355,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/699/"
         }, 
         {
-            "title_full": "Zum Publizit\u00e4tsakt beim Immobiliarkauf in der altakkadischen Rechts\u00fcberlieferung", 
+            "title_full": "Zum Publizitätsakt beim Immobiliarkauf in der altakkadischen Rechtsüberlieferung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/799/"
         }, 
         {
@@ -1363,7 +1363,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/685/"
         }, 
         {
-            "title_full": "Zur Problematik des subjektiven Faktors im Proze\u00df politischer Umw\u00e4lzungen in Mesopotamien gegen Ende des 3. Jahrtausends v.u.Z", 
+            "title_full": "Zur Problematik des subjektiven Faktors im Prozeß politischer Umwälzungen in Mesopotamien gegen Ende des 3. Jahrtausends v.u.Z", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/638/"
         }, 
         {
@@ -1371,23 +1371,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/603/"
         }, 
         {
-            "title_full": "Zur privaten Gesch\u00e4ftst\u00e4tigkeit in Nippur in der Ur III-Zeit", 
+            "title_full": "Zur privaten Geschäftstätigkeit in Nippur in der Ur III-Zeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/700/"
         }, 
         {
-            "title_full": "Die Ur III-Texte aus der Sammlung des Altorientalischen Seminars der Karlsuniversit\u00e4t Prag", 
+            "title_full": "Die Ur III-Texte aus der Sammlung des Altorientalischen Seminars der Karlsuniversität Prag", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/634/"
         }, 
         {
-            "title_full": "Eine altsumerische Urkunde aus Girsu \u00fcber Silberzahlungen", 
+            "title_full": "Eine altsumerische Urkunde aus Girsu über Silberzahlungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/810/"
         }, 
         {
-            "title_full": "Architektur und Stratigraphie der seleukidischen und parthisch-r\u00f6mischen Siedlung auf der Zitadelle", 
+            "title_full": "Architektur und Stratigraphie der seleukidischen und parthisch-römischen Siedlung auf der Zitadelle", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1286/"
         }, 
         {
-            "title_full": "C. Castel, M. Al-Maqdissi, F. Villeneuve (eds), Les maisons dans la Syrie antique du IIIe mill\u00e9naire aux d\u00e9buts de l'Islam. Pratiques et repr\u00e9sentations de l'espace domestique. Actes du Colloque International, Damas 27-30 juin 1992 (BAH 150) , Ifapo-Beyrouth (1997)", 
+            "title_full": "C. Castel, M. Al-Maqdissi, F. Villeneuve (eds), Les maisons dans la Syrie antique du IIIe millénaire aux débuts de l'Islam. Pratiques et représentations de l'espace domestique. Actes du Colloque International, Damas 27-30 juin 1992 (BAH 150) , Ifapo-Beyrouth (1997)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1167/"
         }, 
         {
@@ -1395,7 +1395,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1166/"
         }, 
         {
-            "title_full": "Das islamische Heiligtum des \u0160\u0113h Hamad und der rezente Friedhof auf der Kuppe des Tall \u0160\u0113h Hamad", 
+            "title_full": "Das islamische Heiligtum des Šēh Hamad und der rezente Friedhof auf der Kuppe des Tall Šēh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1289/"
         }, 
         {
@@ -1403,31 +1403,31 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1138/"
         }, 
         {
-            "title_full": "Die Au\u00dfenwirkung des sp\u00e4thethitischen Kulturraumes auf Assyrien, Urartu, Pal\u00e4stina und \u00c4gypten", 
+            "title_full": "Die Außenwirkung des späthethitischen Kulturraumes auf Assyrien, Urartu, Palästina und Ägypten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1290/"
         }, 
         {
-            "title_full": "Die Religionspolitik der aram\u00e4ischen F\u00fcrstent\u00fcmer im 1. Jahrtausend v. Chr", 
+            "title_full": "Die Religionspolitik der aramäischen Fürstentümer im 1. Jahrtausend v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1287/"
         }, 
         {
-            "title_full": "Die \u201eSamarra'-Zeit\" als Wendepunkt der islamischen Geschichte", 
+            "title_full": "Die „Samarra'-Zeit\" als Wendepunkt der islamischen Geschichte", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1140/"
         }, 
         {
-            "title_full": "Divergierende Bestattungskonzepte und ihre sozialen, kulturellen und ethnischen Hintergr\u00fcnde", 
+            "title_full": "Divergierende Bestattungskonzepte und ihre sozialen, kulturellen und ethnischen Hintergründe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1372/"
         }, 
         {
-            "title_full": "Eine Typologie der Wohnh\u00e4user von Nuzi", 
+            "title_full": "Eine Typologie der Wohnhäuser von Nuzi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1137/"
         }, 
         {
-            "title_full": "Erdlage und Bauschicht. Bemerkungen zu stratigraphischen Prinzipien in der Vorderasiatischen Arch\u00e4ologie", 
+            "title_full": "Erdlage und Bauschicht. Bemerkungen zu stratigraphischen Prinzipien in der Vorderasiatischen Archäologie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/937/"
         }, 
         {
-            "title_full": "Florian Janoscha Kreppner: Die Keramik des \u201eRoten Hauses \" von Tall Seh Hamad / D\u00fcr-Katlimmu. Eine Betrachtung der Keramik Nordmesopotamiens aus der zweiten H\u00e4lfte des 7. und aus dem 6. Jahrhundert v. Chr. Mit Beitr\u00e4gen von Malgorzata Daszkiewicz, Ewa Bobryk und Gerwulf Schneider. Berichte der Ausgra\u00a9bung Tall Seh Hamad / D\u00fcr-Katlimmu (BATSH) Band 7. Harrasowitz Verlag Wiesbaden 2006", 
+            "title_full": "Florian Janoscha Kreppner: Die Keramik des „Roten Hauses \" von Tall Seh Hamad / Dür-Katlimmu. Eine Betrachtung der Keramik Nordmesopotamiens aus der zweiten Hälfte des 7. und aus dem 6. Jahrhundert v. Chr. Mit Beiträgen von Malgorzata Daszkiewicz, Ewa Bobryk und Gerwulf Schneider. Berichte der Ausgra©bung Tall Seh Hamad / Dür-Katlimmu (BATSH) Band 7. Harrasowitz Verlag Wiesbaden 2006", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1293/"
         }, 
         {
@@ -1439,11 +1439,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1288/"
         }, 
         {
-            "title_full": "Hilani und Lustgarten. Ein \u00bbPalast des Hethiter-Landes\u00ab und ein \u00bbGarten nach dem Abbild des Amanus\u00ab in Assyrien", 
+            "title_full": "Hilani und Lustgarten. Ein »Palast des Hethiter-Landes« und ein »Garten nach dem Abbild des Amanus« in Assyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/936/"
         }, 
         {
-            "title_full": "Individuum oder Kollektiv? Zur kulturgeschichtlichen Stellung der K\u00f6nigsgruft von Qatna", 
+            "title_full": "Individuum oder Kollektiv? Zur kulturgeschichtlichen Stellung der Königsgruft von Qatna", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/938/"
         }, 
         {
@@ -1451,7 +1451,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1181/"
         }, 
         {
-            "title_full": "Mamoun, Fansa, Stefan Burmeister (Herausgeber): Rad und Wagen. Der Ursprung einer Innovation im Vorderen Orient und Europa. Wissenschaftliche Beischrift zur Sonderausstellung vom 28. M\u00e4rz bis 11. Juli 2004 im Landesmuseum f\u00fcr Natur und Mensch in Oldenburg (= Beiheft der Arch\u00e4ologischen Mitteilungen aus Nordwestdeutschland Nr. 40). Mainz: Philipp von Zabern 2004", 
+            "title_full": "Mamoun, Fansa, Stefan Burmeister (Herausgeber): Rad und Wagen. Der Ursprung einer Innovation im Vorderen Orient und Europa. Wissenschaftliche Beischrift zur Sonderausstellung vom 28. März bis 11. Juli 2004 im Landesmuseum für Natur und Mensch in Oldenburg (= Beiheft der Archäologischen Mitteilungen aus Nordwestdeutschland Nr. 40). Mainz: Philipp von Zabern 2004", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1294/"
         }, 
         {
@@ -1459,7 +1459,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1295/"
         }, 
         {
-            "title_full": "Rezension: Ellen Rehm, Waffengr\u00e4ber im Alten Orient Zum Problem der Wertung von Waffen in Gr\u00e4bern des 3. und fr\u00fchen 2. Jahrtausends v. Chr. in Mesopotamien und Syrien (BAR Int. Ser. 1191)", 
+            "title_full": "Rezension: Ellen Rehm, Waffengräber im Alten Orient Zum Problem der Wertung von Waffen in Gräbern des 3. und frühen 2. Jahrtausends v. Chr. in Mesopotamien und Syrien (BAR Int. Ser. 1191)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1292/"
         }, 
         {
@@ -1471,7 +1471,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1373/"
         }, 
         {
-            "title_full": "Der \u201eK\u00f6nig der Gerechtigkeit\" - Zur Ikonologie und Teleologie des \u2018Codex\u2019 Hammurapi", 
+            "title_full": "Der „König der Gerechtigkeit\" - Zur Ikonologie und Teleologie des ‘Codex’ Hammurapi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/935/"
         }, 
         {
@@ -1479,7 +1479,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/939/"
         }, 
         {
-            "title_full": "K\u016bbu und das Kind im Topf", 
+            "title_full": "Kūbu und das Kind im Topf", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/947/"
         }, 
         {
@@ -1499,15 +1499,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/912/"
         }, 
         {
-            "title_full": "\"Ein Richter wie \u0160ama\u0161\" - Zur Rechtsprechung der Kassitenk\u00f6nige", 
+            "title_full": "\"Ein Richter wie Šamaš\" - Zur Rechtsprechung der Kassitenkönige", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/913/"
         }, 
         {
-            "title_full": "Kudurru - G\u00f6ttlicher Schutz f\u00fcr k\u00f6nigliche Geschenke. Untersuchungen zu einer mesopotamischen Denkm\u00e4lergattung des 2. Jt. v. Chr", 
+            "title_full": "Kudurru - Göttlicher Schutz für königliche Geschenke. Untersuchungen zu einer mesopotamischen Denkmälergattung des 2. Jt. v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1456/"
         }, 
         {
-            "title_full": "Verschenkte St\u00e4dte - K\u00f6nigliche Landschenkungen an G\u00f6tter und Menschen", 
+            "title_full": "Verschenkte Städte - Königliche Landschenkungen an Götter und Menschen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1457/"
         }, 
         {
@@ -1523,11 +1523,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/890/"
         }, 
         {
-            "title_full": "Das Tempeloval von Urke\u0161. Betrachtungen zur Typologie und Entwicklungsgeschichte der mesopotamischen Ziqqurrat im 3. Jt. v. Chr", 
+            "title_full": "Das Tempeloval von Urkeš. Betrachtungen zur Typologie und Entwicklungsgeschichte der mesopotamischen Ziqqurrat im 3. Jt. v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/893/"
         }, 
         {
-            "title_full": "Die Keramik vom Tell Hw\u0113\u0161", 
+            "title_full": "Die Keramik vom Tell Hwēš", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2007/"
         }, 
         {
@@ -1535,11 +1535,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1284/"
         }, 
         {
-            "title_full": "Eine arch\u00e4ologische Gel\u00e4ndebegehung im Gebiet des Wadi 'Agig/Ostsyrien", 
+            "title_full": "Eine archäologische Geländebegehung im Gebiet des Wadi 'Agig/Ostsyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1281/"
         }, 
         {
-            "title_full": "Kunstwerke aus der K\u00f6nigsgruft von Qatna", 
+            "title_full": "Kunstwerke aus der Königsgruft von Qatna", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1455/"
         }, 
         {
@@ -1559,7 +1559,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1282/"
         }, 
         {
-            "title_full": "Sch\u00e4tze des Alten Syrien", 
+            "title_full": "Schätze des Alten Syrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1894/"
         }, 
         {
@@ -1571,51 +1571,51 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/892/"
         }, 
         {
-            "title_full": "Die Datierung der Siegelabdr\u00fccke von Tel En Besor", 
+            "title_full": "Die Datierung der Siegelabdrücke von Tel En Besor", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/572/"
         }, 
         {
-            "title_full": "Abschied von der Heiligen Hure. Zum Bildmotiv der \u201eFrau am Fenster\" in der ph\u00f6nizisch-nordsyrischen Elfenbeinschnitzkunst", 
+            "title_full": "Abschied von der Heiligen Hure. Zum Bildmotiv der „Frau am Fenster\" in der phönizisch-nordsyrischen Elfenbeinschnitzkunst", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1103/"
         }, 
         {
-            "title_full": "Ach\u00e4menidischer Schmuck als Bedeutungstr\u00e4ger", 
+            "title_full": "Achämenidischer Schmuck als Bedeutungsträger", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1864/"
         }, 
         {
-            "title_full": "Antiker Schmuck: Kunsthandwerk als Ausdruck religi\u00f6ser Vorstellungen", 
+            "title_full": "Antiker Schmuck: Kunsthandwerk als Ausdruck religiöser Vorstellungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2002/"
         }, 
         {
-            "title_full": "Assyrische M\u00f6bel f\u00fcr den assyrischen Herrscher!", 
+            "title_full": "Assyrische Möbel für den assyrischen Herrscher!", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1104/"
         }, 
         {
-            "title_full": "\u201eAuf zu den Ufern des Nils\". Vorderasiatica in \u00c4gypten im 1. Jahrtausend v. Chr", 
+            "title_full": "„Auf zu den Ufern des Nils\". Vorderasiatica in Ägypten im 1. Jahrtausend v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1105/"
         }, 
         {
-            "title_full": "Das Gef\u00e4\u00df als Topos in Sch\u00f6pfungsmythen", 
+            "title_full": "Das Gefäß als Topos in Schöpfungsmythen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1291/"
         }, 
         {
-            "title_full": "Die Entdeckung des K\u00f6nigreichs Qatna", 
+            "title_full": "Die Entdeckung des Königreichs Qatna", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1446/"
         }, 
         {
-            "title_full": "Ein >assyrisches< Objekt in >\u00e4gyptischem< Licht", 
+            "title_full": "Ein >assyrisches< Objekt in >ägyptischem< Licht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1969/"
         }, 
         {
-            "title_full": "Hohe T\u00fcrme und goldene Schilde - Tempel und Tempelsch\u00e4tzein Urartu", 
+            "title_full": "Hohe Türme und goldene Schilde - Tempel und Tempelschätzein Urartu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1073/"
         }, 
         {
-            "title_full": "Inkrustation bei ach\u00e4menidischen Armreifen", 
+            "title_full": "Inkrustation bei achämenidischen Armreifen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1147/"
         }, 
         {
-            "title_full": "Kleine Gaben f\u00fcr gro\u00dfe G\u00f6tter", 
+            "title_full": "Kleine Gaben für große Götter", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1106/"
         }, 
         {
@@ -1627,7 +1627,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1148/"
         }, 
         {
-            "title_full": "Urartu und Ph\u00f6nizien. Die Museen der Welt und die Bibel", 
+            "title_full": "Urartu und Phönizien. Die Museen der Welt und die Bibel", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1374/"
         }, 
         {
@@ -1635,7 +1635,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1304/"
         }, 
         {
-            "title_full": "Zwei ach\u00e4menidische Goldohrringe", 
+            "title_full": "Zwei achämenidische Goldohrringe", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1072/"
         }, 
         {
@@ -1647,11 +1647,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1505/"
         }, 
         {
-            "title_full": "Akkadisch tu'um, di'um, ph\u00f6nizisch tw, aram\u00e4isch twn: Versuch einer Kl\u00e4rung", 
+            "title_full": "Akkadisch tu'um, di'um, phönizisch tw, aramäisch twn: Versuch einer Klärung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1179/"
         }, 
         {
-            "title_full": "Aktion oder Reaktion? Politisches Handeln assyrischer K\u00f6nige", 
+            "title_full": "Aktion oder Reaktion? Politisches Handeln assyrischer Könige", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1196/"
         }, 
         {
@@ -1671,11 +1671,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1201/"
         }, 
         {
-            "title_full": "Aramaica Haburensia I. Eine ostaram\u00e4ische Inschrift parthischer Zeit aus Tall \u0160\u0113h Hamad", 
+            "title_full": "Aramaica Haburensia I. Eine ostaramäische Inschrift parthischer Zeit aus Tall Šēh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1309/"
         }, 
         {
-            "title_full": "Aramaica Haburensia II. Zwei datierte aram\u00e4ische Urkunden aus Tall \u0160\u0113h Hamad", 
+            "title_full": "Aramaica Haburensia II. Zwei datierte aramäische Urkunden aus Tall Šēh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1306/"
         }, 
         {
@@ -1683,19 +1683,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1079/"
         }, 
         {
-            "title_full": "Aramaica Haburensia IV. Gef\u00e4\u00dfaufschriften r\u00f6misch-parthischer Zeit aus Tall Seh Hamad", 
+            "title_full": "Aramaica Haburensia IV. Gefäßaufschriften römisch-parthischer Zeit aus Tall Seh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1248/"
         }, 
         {
-            "title_full": "Aramaica Haburensia V: Limu-Datierungen in aram\u00e4ischen Urkunden des 7. Jh. v. Chr", 
+            "title_full": "Aramaica Haburensia V: Limu-Datierungen in aramäischen Urkunden des 7. Jh. v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1507/"
         }, 
         {
-            "title_full": "Aramaica Haburensia VI. Drei Ostraka aus Tall \u0160\u0113h Hamad", 
+            "title_full": "Aramaica Haburensia VI. Drei Ostraka aus Tall Šēh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1202/"
         }, 
         {
-            "title_full": "Aram\u00e4er und Assyrer. Die Schriftzeugnisse bis zum Ende des Assyrerreiches", 
+            "title_full": "Aramäer und Assyrer. Die Schriftzeugnisse bis zum Ende des Assyrerreiches", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1175/"
         }, 
         {
@@ -1711,7 +1711,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1519/"
         }, 
         {
-            "title_full": "Assur - Gei\u00dfel der V\u00f6lker. Zur Typologie aggressiver Gesellschaften", 
+            "title_full": "Assur - Geißel der Völker. Zur Typologie aggressiver Gesellschaften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1151/"
         }, 
         {
@@ -1719,7 +1719,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1487/"
         }, 
         {
-            "title_full": "Begegnungen mit G\u00f6ttern und D\u00e4monen der Levante", 
+            "title_full": "Begegnungen mit Göttern und Dämonen der Levante", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1195/"
         }, 
         {
@@ -1731,7 +1731,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1227/"
         }, 
         {
-            "title_full": "Contribuci\u00f3n de las inscripciones fenicio-p\u00fanicas al estudio de la protohistoria de Espana", 
+            "title_full": "Contribución de las inscripciones fenicio-púnicas al estudio de la protohistoria de Espana", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1162/"
         }, 
         {
@@ -1739,7 +1739,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1187/"
         }, 
         {
-            "title_full": "Das Punische im R\u00f6mischen Reich", 
+            "title_full": "Das Punische im Römischen Reich", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1077/"
         }, 
         {
@@ -1747,7 +1747,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1226/"
         }, 
         {
-            "title_full": "Das ph\u00f6nizische Alphabet und die fr\u00fchen europ\u00e4ischen Schriften", 
+            "title_full": "Das phönizische Alphabet und die frühen europäischen Schriften", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1084/"
         }, 
         {
@@ -1755,7 +1755,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1021/"
         }, 
         {
-            "title_full": "Der Mondgott und die Kuh. Ein Lehrst\u00fcck zur Problematik der Text\u00fcberlieferung im Alten Orient", 
+            "title_full": "Der Mondgott und die Kuh. Ein Lehrstück zur Problematik der Textüberlieferung im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1152/"
         }, 
         {
@@ -1763,7 +1763,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1052/"
         }, 
         {
-            "title_full": "Der T\u00fcbinger Atlas des Vorderen Orients und seine altorientalischen Karten", 
+            "title_full": "Der Tübinger Atlas des Vorderen Orients und seine altorientalischen Karten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1057/"
         }, 
         {
@@ -1771,7 +1771,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1156/"
         }, 
         {
-            "title_full": "Der den Schwachen vom Starken nicht entrechten l\u00e4\u00dft, der der Waise Recht schafft ..", 
+            "title_full": "Der den Schwachen vom Starken nicht entrechten läßt, der der Waise Recht schafft ..", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1085/"
         }, 
         {
@@ -1783,19 +1783,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1023/"
         }, 
         {
-            "title_full": "Die Amulette von Arslan Ta\u015f", 
+            "title_full": "Die Amulette von Arslan Taş", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1100/"
         }, 
         {
-            "title_full": "Die Anf\u00e4nge der Braukunst im Zweistromland", 
+            "title_full": "Die Anfänge der Braukunst im Zweistromland", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1197/"
         }, 
         {
-            "title_full": "Die Br\u00fccke bei \u1ea2rb\u0101n / Tall \u1ea2\u011f\u0101\u011f\u0101 am Unteren Habur", 
+            "title_full": "Die Brücke bei Ảrbān / Tall Ảğāğā am Unteren Habur", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1297/"
         }, 
         {
-            "title_full": "Die Glaubw\u00fcrdigkeit der Chronik P", 
+            "title_full": "Die Glaubwürdigkeit der Chronik P", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1022/"
         }, 
         {
@@ -1807,11 +1807,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1488/"
         }, 
         {
-            "title_full": "Die Keilschrift und die Anf\u00e4nge der Alphabetschrift", 
+            "title_full": "Die Keilschrift und die Anfänge der Alphabetschrift", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1019/"
         }, 
         {
-            "title_full": "Die Ph\u00f6nizier des Mutterlandes zur Zeit der Kolonisierung", 
+            "title_full": "Die Phönizier des Mutterlandes zur Zeit der Kolonisierung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1141/"
         }, 
         {
@@ -1819,19 +1819,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1506/"
         }, 
         {
-            "title_full": "Die Stiftungsinschrift f\u00fcr Sadrapa und Milk-Astart aus Leptis Magna IPT 31", 
+            "title_full": "Die Stiftungsinschrift für Sadrapa und Milk-Astart aus Leptis Magna IPT 31", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1199/"
         }, 
         {
-            "title_full": "Die Weisheit der K\u00f6nige in Assyrien und Babylonien", 
+            "title_full": "Die Weisheit der Könige in Assyrien und Babylonien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1185/"
         }, 
         {
-            "title_full": "Die aram\u00e4ische Inschrift f\u00fcr Haza\u2019el und ihr Duplikat", 
+            "title_full": "Die aramäische Inschrift für Haza’el und ihr Duplikat", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1224/"
         }, 
         {
-            "title_full": "Die aram\u00e4ischen Beischriften auf den Texten 1 und 3", 
+            "title_full": "Die aramäischen Beischriften auf den Texten 1 und 3", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1308/"
         }, 
         {
@@ -1839,15 +1839,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1225/"
         }, 
         {
-            "title_full": "Die ph\u00f6nizische Inschrift auf einem Gef\u00e4\u00df aus Naukratis", 
+            "title_full": "Die phönizische Inschrift auf einem Gefäß aus Naukratis", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1194/"
         }, 
         {
-            "title_full": "Die ph\u00f6nizische Sprache. Bemerkungen zum gegenw\u00e4rtigen Forschungstand", 
+            "title_full": "Die phönizische Sprache. Bemerkungen zum gegenwärtigen Forschungstand", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1087/"
         }, 
         {
-            "title_full": "\u201eDrachen des Gebirges\": Fremde als Bedrohung in Mesopotamien", 
+            "title_full": "„Drachen des Gebirges\": Fremde als Bedrohung in Mesopotamien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1298/"
         }, 
         {
@@ -1855,7 +1855,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1223/"
         }, 
         {
-            "title_full": "D\u016br-Katlimmu", 
+            "title_full": "Dūr-Katlimmu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1154/"
         }, 
         {
@@ -1863,39 +1863,39 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1161/"
         }, 
         {
-            "title_full": "Ein urart\u00e4isches G\u00fcrtelblech mit Darstellung einer L\u00f6wenjagd", 
+            "title_full": "Ein urartäisches Gürtelblech mit Darstellung einer Löwenjagd", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/930/"
         }, 
         {
-            "title_full": "Eine neue ph\u00f6nizische Inschrift aus Byblos", 
+            "title_full": "Eine neue phönizische Inschrift aus Byblos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1101/"
         }, 
         {
-            "title_full": "Eine punische Weihinschrift f\u00fcr Esmun", 
+            "title_full": "Eine punische Weihinschrift für Esmun", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1186/"
         }, 
         {
-            "title_full": "Eine zweisprachig ph\u00f6nizisch-griechische Inschrift aus Delos", 
+            "title_full": "Eine zweisprachig phönizisch-griechische Inschrift aus Delos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1299/"
         }, 
         {
-            "title_full": "El als Gottesbezeichnung im Ph\u00f6nizischen", 
+            "title_full": "El als Gottesbezeichnung im Phönizischen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1178/"
         }, 
         {
-            "title_full": "Elizabeth N. von Voigtl\u00e4nder: The Bisutun Iscription of Darius the Great.Babylonian Version. Corpus Inscriptionum Iranicarum Part I: Inscriptions of Ancient Iran Vol. II: The Babylonian Version of the Achaemenian Inscriptions. Texts I. Lund Humphries, London 1978", 
+            "title_full": "Elizabeth N. von Voigtländer: The Bisutun Iscription of Darius the Great.Babylonian Version. Corpus Inscriptionum Iranicarum Part I: Inscriptions of Ancient Iran Vol. II: The Babylonian Version of the Achaemenian Inscriptions. Texts I. Lund Humphries, London 1978", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1307/"
         }, 
         {
-            "title_full": "Eponymen in den mittelassyrischen Dokumenten aus Tall \u0160\u0113h Hamad / D\u016br-Katlimmu", 
+            "title_full": "Eponymen in den mittelassyrischen Dokumenten aus Tall Šēh Hamad / Dūr-Katlimmu", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1235/"
         }, 
         {
-            "title_full": "Erw\u00e4gungen zu neuen Stelen K\u00f6nig Nabonids", 
+            "title_full": "Erwägungen zu neuen Stelen König Nabonids", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1153/"
         }, 
         {
-            "title_full": "Griechische Eigennamen in Texten der babylonischen Sp\u00e4tzeit", 
+            "title_full": "Griechische Eigennamen in Texten der babylonischen Spätzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1020/"
         }, 
         {
@@ -1907,7 +1907,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1310/"
         }, 
         {
-            "title_full": "Ir\u012b\u0161um-Inschrift Z. 16ff", 
+            "title_full": "Irīšum-Inschrift Z. 16ff", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1076/"
         }, 
         {
@@ -1919,7 +1919,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1088/"
         }, 
         {
-            "title_full": "Keilschrift versus Alphabetschrift. \u00dcberlegungen zu den epigraphs auf Keilschrifttafeln", 
+            "title_full": "Keilschrift versus Alphabetschrift. Überlegungen zu den epigraphs auf Keilschrifttafeln", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1489/"
         }, 
         {
@@ -1935,7 +1935,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1155/"
         }, 
         {
-            "title_full": "Nordsemitisch - S\u00fcdsemitisch? Zur Geschichte des Alphabets im 2. Jt. v. Chr", 
+            "title_full": "Nordsemitisch - Südsemitisch? Zur Geschichte des Alphabets im 2. Jt. v. Chr", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1300/"
         }, 
         {
@@ -1951,7 +1951,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1302/"
         }, 
         {
-            "title_full": "Pal\u00e4ographische Beobachtungen zum ersten Auftreten der Ph\u00f6nizier in Sardinien", 
+            "title_full": "Paläographische Beobachtungen zum ersten Auftreten der Phönizier in Sardinien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1056/"
         }, 
         {
@@ -1963,15 +1963,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1102/"
         }, 
         {
-            "title_full": "Ph\u00f6nizier und Griechen im Mittelmeerraum", 
+            "title_full": "Phönizier und Griechen im Mittelmeerraum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1191/"
         }, 
         {
-            "title_full": "Ph\u00f6nizische Gef\u00e4\u00dfinschriften aus Morro de Mezquitilla", 
+            "title_full": "Phönizische Gefäßinschriften aus Morro de Mezquitilla", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1143/"
         }, 
         {
-            "title_full": "Ph\u00f6nizisches aus Nordsyrien und der Gott Kurra", 
+            "title_full": "Phönizisches aus Nordsyrien und der Gott Kurra", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1200/"
         }, 
         {
@@ -1987,11 +1987,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1083/"
         }, 
         {
-            "title_full": "Rudolf Sch\u00fctzeichel (Hrsg.): Erlanger Ortsnamen-Kolloquium. Ortsnamen als Ausdruck von Kultur und Herrschaft. Beitr\u00e4ge zur Namenforschung. Neue Folge, Beiheft 18. C. Winter, Heidelberg 1980", 
+            "title_full": "Rudolf Schützeichel (Hrsg.): Erlanger Ortsnamen-Kolloquium. Ortsnamen als Ausdruck von Kultur und Herrschaft. Beiträge zur Namenforschung. Neue Folge, Beiheft 18. C. Winter, Heidelberg 1980", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1160/"
         }, 
         {
-            "title_full": "Semitische Inschriften auf Grabdenkm\u00e4lern Syriens und der Levante", 
+            "title_full": "Semitische Inschriften auf Grabdenkmälern Syriens und der Levante", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1221/"
         }, 
         {
@@ -2003,19 +2003,19 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1193/"
         }, 
         {
-            "title_full": "Susanne Heinhold-Kramer: Arzawa. Untersuchungen zu seiner Geschichte nachden hethitischen Quellen. Texte der Hethiter, Heft 8. Heidelberg, C. Winter Universit\u00e4tsverlag,1977", 
+            "title_full": "Susanne Heinhold-Kramer: Arzawa. Untersuchungen zu seiner Geschichte nachden hethitischen Quellen. Texte der Hethiter, Heft 8. Heidelberg, C. Winter Universitätsverlag,1977", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1159/"
         }, 
         {
-            "title_full": "\u00bbUnd ich baute starke Festungen an allen Enden auf den Grenzen ...\u00ab. Zur Bedeutung der Inschriften und Reliefs vom Karatepe-Aslanta\u015f", 
+            "title_full": "»Und ich baute starke Festungen an allen Enden auf den Grenzen ...«. Zur Bedeutung der Inschriften und Reliefs vom Karatepe-Aslantaş", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1835/"
         }, 
         {
-            "title_full": "Verm\u00e4chtnis der Vorzeit", 
+            "title_full": "Vermächtnis der Vorzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1190/"
         }, 
         {
-            "title_full": "Volksliteratur in mesopotamischer \u00dcberlieferung", 
+            "title_full": "Volksliteratur in mesopotamischer Überlieferung", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1089/"
         }, 
         {
@@ -2023,7 +2023,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1075/"
         }, 
         {
-            "title_full": "Zum \"Sakralen K\u00f6nigtum\" im Alten Orient", 
+            "title_full": "Zum \"Sakralen Königtum\" im Alten Orient", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1054/"
         }, 
         {
@@ -2031,7 +2031,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1222/"
         }, 
         {
-            "title_full": "Zur Typologie und Entstehung der babylonischen und assyrischen K\u00f6nigslisten", 
+            "title_full": "Zur Typologie und Entstehung der babylonischen und assyrischen Königslisten", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1177/"
         }, 
         {
@@ -2039,23 +2039,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1311/"
         }, 
         {
-            "title_full": "Zur ph\u00f6nizischen Inschrift der Astarte-Statuette in Sevilla (Hispania 14)", 
+            "title_full": "Zur phönizischen Inschrift der Astarte-Statuette in Sevilla (Hispania 14)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1053/"
         }, 
         {
-            "title_full": "Zur ph\u00f6nizischen Inschrift von Cebelireis Dagi", 
+            "title_full": "Zur phönizischen Inschrift von Cebelireis Dagi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1192/"
         }, 
         {
-            "title_full": "Zwei aram\u00e4ische Inschriften vom Tall \u0160\u0113h Hasan/Syrien", 
+            "title_full": "Zwei aramäische Inschriften vom Tall Šēh Hasan/Syrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1157/"
         }, 
         {
-            "title_full": "\u00dcber die Anf\u00e4nge unseres Alphabets", 
+            "title_full": "Über die Anfänge unseres Alphabets", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1145/"
         }, 
         {
-            "title_full": "\u00dcberlegungen zum Etana-Mythos", 
+            "title_full": "Überlegungen zum Etana-Mythos", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1188/"
         }, 
         {
@@ -2063,15 +2063,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1296/"
         }, 
         {
-            "title_full": "Das Siegel des K\u00f6nigs Salmanassar I. von Assyrien", 
+            "title_full": "Das Siegel des Königs Salmanassar I. von Assyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1171/"
         }, 
         {
-            "title_full": "Ein assyro-babylonisches Rollsiegel aus Tall \u0160\u0113h Hamad", 
+            "title_full": "Ein assyro-babylonisches Rollsiegel aus Tall Šēh Hamad", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1170/"
         }, 
         {
-            "title_full": "The Lower Habur. A preliminary report on a survey conducted by the T\u00fcbinger Atlas des Vorderen Orients in 1975", 
+            "title_full": "The Lower Habur. A preliminary report on a survey conducted by the Tübinger Atlas des Vorderen Orients in 1975", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1305/"
         }, 
         {
@@ -2079,7 +2079,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1172/"
         }, 
         {
-            "title_full": "Mittelassyrische Texte zum Anbau von Gew\u00fcrzpflanzen", 
+            "title_full": "Mittelassyrische Texte zum Anbau von Gewürzpflanzen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1303/"
         }, 
         {
@@ -2095,15 +2095,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1358/"
         }, 
         {
-            "title_full": "Einige Anmerkungen \u00fcber die Herkunft eines Gef\u00e4\u00dfes aus dem Bestand des British Museum", 
+            "title_full": "Einige Anmerkungen über die Herkunft eines Gefäßes aus dem Bestand des British Museum", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1360/"
         }, 
         {
-            "title_full": "Zerschlagen und beraubt, die Geschichte der Torl\u00f6wen aus Emar", 
+            "title_full": "Zerschlagen und beraubt, die Geschichte der Torlöwen aus Emar", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1359/"
         }, 
         {
-            "title_full": "Stilsyntaktische Untersuchungen zur bemalten nabat\u00e4ischen Feinkeramik", 
+            "title_full": "Stilsyntaktische Untersuchungen zur bemalten nabatäischen Feinkeramik", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/348/"
         }, 
         {
@@ -2115,15 +2115,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/869/"
         }, 
         {
-            "title_full": "Beschriftete Objekte aus Tall Mozan / Urke\u0161", 
+            "title_full": "Beschriftete Objekte aus Tall Mozan / Urkeš", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/881/"
         }, 
         {
-            "title_full": "Die Profession des \"Ur-\u00e9\"", 
+            "title_full": "Die Profession des \"Ur-é\"", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/927/"
         }, 
         {
-            "title_full": "Edubba'a und Edubba'a-Literatur: R\u00e4tsel und L\u00f6sungen", 
+            "title_full": "Edubba'a und Edubba'a-Literatur: Rätsel und Lösungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/882/"
         }, 
         {
@@ -2135,7 +2135,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/898/"
         }, 
         {
-            "title_full": "Erg\u00e4nzungen zu FAOS 19", 
+            "title_full": "Ergänzungen zu FAOS 19", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/899/"
         }, 
         {
@@ -2147,7 +2147,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/873/"
         }, 
         {
-            "title_full": "Inanna\u2019s \u201aTischlein Deck\u2019 Dich\u2018. Vorl\u00e4ufiger Bericht zur Rekonstruktion der 17. Tafel von \u00faru \u00e0m-ma-ir-ra-bi", 
+            "title_full": "Inanna’s ‚Tischlein Deck’ Dich‘. Vorläufiger Bericht zur Rekonstruktion der 17. Tafel von úru àm-ma-ir-ra-bi", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/879/"
         }, 
         {
@@ -2171,7 +2171,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/878/"
         }, 
         {
-            "title_full": "Puzur-Mama und die Reise des K\u00f6nigs", 
+            "title_full": "Puzur-Mama und die Reise des Königs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/844/"
         }, 
         {
@@ -2179,7 +2179,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/876/"
         }, 
         {
-            "title_full": "Vom Dunkel in die Helligkeit: Schwangerschaft, Geburt und fr\u00fche Kindkeit in Babylonien und Assyrien", 
+            "title_full": "Vom Dunkel in die Helligkeit: Schwangerschaft, Geburt und frühe Kindkeit in Babylonien und Assyrien", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/880/"
         }, 
         {
@@ -2191,11 +2191,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/875/"
         }, 
         {
-            "title_full": "Zur Lesung von URUx\u0160\u00c8-ten\u00fb (G\u00c1NA-ten\u00fb /K\u00c1R)", 
+            "title_full": "Zur Lesung von URUxŠÈ-tenû (GÁNA-tenû /KÁR)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/928/"
         }, 
         {
-            "title_full": "Zur Lesung von teme (NAGA-inversum) und t\u00e9me (NAGA)", 
+            "title_full": "Zur Lesung von teme (NAGA-inversum) und téme (NAGA)", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/842/"
         }, 
         {
@@ -2211,27 +2211,27 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/129/"
         }, 
         {
-            "title_full": "Grabungstageb\u00fccher von al-Raki/Sultanate Oman, 1996/7", 
+            "title_full": "Grabungstagebücher von al-Raki/Sultanate Oman, 1996/7", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2173/"
         }, 
         {
-            "title_full": "Anmerkungen zu pal\u00e4stinensischen Textilien in hellenistischer, r\u00f6mischer und byzantinischer Zeit aus arch\u00e4ologischer Sicht", 
+            "title_full": "Anmerkungen zu palästinensischen Textilien in hellenistischer, römischer und byzantinischer Zeit aus archäologischer Sicht", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/686/"
         }, 
         {
-            "title_full": "Bemerkungen zur Gesellschaft und Religion der Nabat\u00e4er", 
+            "title_full": "Bemerkungen zur Gesellschaft und Religion der Nabatäer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/819/"
         }, 
         {
-            "title_full": "Bestattungen im k\u00f6nigszeitlichen Juda", 
+            "title_full": "Bestattungen im königszeitlichen Juda", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/641/"
         }, 
         {
-            "title_full": "Das Ende des Nabat\u00e4ischen K\u00f6nigreichs", 
+            "title_full": "Das Ende des Nabatäischen Königreichs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/807/"
         }, 
         {
-            "title_full": "\"Das ist Dushara!\". Zu den Problemen der Interpretation der Quellen und Denkm\u00e4ler nabat\u00e4ischer Religion", 
+            "title_full": "\"Das ist Dushara!\". Zu den Problemen der Interpretation der Quellen und Denkmäler nabatäischer Religion", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1837/"
         }, 
         {
@@ -2247,11 +2247,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/814/"
         }, 
         {
-            "title_full": "Die Dekapolis und die Nabat\u00e4er", 
+            "title_full": "Die Dekapolis und die Nabatäer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/806/"
         }, 
         {
-            "title_full": "Die Stadtg\u00f6ttin von Caesarea Maritima", 
+            "title_full": "Die Stadtgöttin von Caesarea Maritima", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/688/"
         }, 
         {
@@ -2259,15 +2259,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/856/"
         }, 
         {
-            "title_full": "Eine neuerstellte Liste der nabat\u00e4ischen Dynastie", 
+            "title_full": "Eine neuerstellte Liste der nabatäischen Dynastie", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/642/"
         }, 
         {
-            "title_full": "Eine r\u00f6mische Grabb\u00fcste aus Pal\u00e4stina in M\u00fcnster", 
+            "title_full": "Eine römische Grabbüste aus Palästina in Münster", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/643/"
         }, 
         {
-            "title_full": "Griechische Vasenbilder in Pal\u00e4stina", 
+            "title_full": "Griechische Vasenbilder in Palästina", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/820/"
         }, 
         {
@@ -2275,11 +2275,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/853/"
         }, 
         {
-            "title_full": "Heiligtum ohne Stadt - Stadt ohne Heiligtum? Anmerkungen zum arch\u00e4ologischen Befund des Tell Der 'Alla", 
+            "title_full": "Heiligtum ohne Stadt - Stadt ohne Heiligtum? Anmerkungen zum archäologischen Befund des Tell Der 'Alla", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/915/"
         }, 
         {
-            "title_full": "Hellenistische Denkm\u00e4ler aus Petra. \u00dcberlegungen zum Hellenisierungsprozess der Nabat\u00e4er", 
+            "title_full": "Hellenistische Denkmäler aus Petra. Überlegungen zum Hellenisierungsprozess der Nabatäer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/808/"
         }, 
         {
@@ -2291,23 +2291,23 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/812/"
         }, 
         {
-            "title_full": "Mesad Hasavyahu - ein St\u00fctzpunkt des Jojakim?", 
+            "title_full": "Mesad Hasavyahu - ein Stützpunkt des Jojakim?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/816/"
         }, 
         {
-            "title_full": "The Message of the Khirbat at-Tann\u016br Reliefs", 
+            "title_full": "The Message of the Khirbat at-Tannūr Reliefs", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/854/"
         }, 
         {
-            "title_full": "Nabat\u00e4ische Votivnischen, Clan-Heiligt\u00fcmer, Tempel und Votive", 
+            "title_full": "Nabatäische Votivnischen, Clan-Heiligtümer, Tempel und Votive", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/825/"
         }, 
         {
-            "title_full": "Nachrichten \u00fcber Griechen in Pal\u00e4stina in der Eisenzeit", 
+            "title_full": "Nachrichten über Griechen in Palästina in der Eisenzeit", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/855/"
         }, 
         {
-            "title_full": "Petra in Jordanien, Zentrum der Nabat\u00e4er. Eine Stadt als \"religi\u00f6se Landschaft\"?", 
+            "title_full": "Petra in Jordanien, Zentrum der Nabatäer. Eine Stadt als \"religiöse Landschaft\"?", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/914/"
         }, 
         {
@@ -2315,7 +2315,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/809/"
         }, 
         {
-            "title_full": "Wer war der Paredros der Aschera? Notizen zu Terrakottastatuetten in eisenzeitlichen Gr\u00e4bern", 
+            "title_full": "Wer war der Paredros der Aschera? Notizen zu Terrakottastatuetten in eisenzeitlichen Gräbern", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/815/"
         }, 
         {
@@ -2323,11 +2323,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1836/"
         }, 
         {
-            "title_full": "Nabat\u00e4ische B\u00fcstenreliefs aus Petra - zwei Neufunde", 
+            "title_full": "Nabatäische Büstenreliefs aus Petra - zwei Neufunde", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/813/"
         }, 
         {
-            "title_full": "Die G\u00f6tter in der Welt der Nabat\u00e4er", 
+            "title_full": "Die Götter in der Welt der Nabatäer", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/824/"
         }, 
         {
@@ -2335,7 +2335,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/822/"
         }, 
         {
-            "title_full": "Ein neuentdeckter Augenbetyl in der hremiye-Schlucht nebst einer \u00dcbersicht \u00fcber die bekannten nabat\u00e4ischen Augenbetyle", 
+            "title_full": "Ein neuentdeckter Augenbetyl in der hremiye-Schlucht nebst einer Übersicht über die bekannten nabatäischen Augenbetyle", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/821/"
         }, 
         {
@@ -2343,11 +2343,11 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/926/"
         }, 
         {
-            "title_full": "Ein b\u00e4uerliches Baal-Heiligtum im samarischen Gebirge aus der Zeit der Anf\u00e4nge Israels", 
+            "title_full": "Ein bäuerliches Baal-Heiligtum im samarischen Gebirge aus der Zeit der Anfänge Israels", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/687/"
         }, 
         {
-            "title_full": "Beyond the Pale of Near Eastern Archaeology: Anthropomorphic Figures from al-Aqir near Bahla\u2019, Sultanate of Oman", 
+            "title_full": "Beyond the Pale of Near Eastern Archaeology: Anthropomorphic Figures from al-Aqir near Bahla’, Sultanate of Oman", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/109/"
         }, 
         {
@@ -2379,7 +2379,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/931/"
         }, 
         {
-            "title_full": "Pottery Workshop: Arabia and the Red Sea after the Turning to the Common Era: Advancing the State of the Art, 15-16-10.2011, Internationales Wissenschaftsforum der Universit\u00e4t Heidelberg", 
+            "title_full": "Pottery Workshop: Arabia and the Red Sea after the Turning to the Common Era: Advancing the State of the Art, 15-16-10.2011, Internationales Wissenschaftsforum der Universität Heidelberg", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1189/"
         }, 
         {
@@ -2387,7 +2387,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2334/"
         }, 
         {
-            "title_full": "Recently Discovered Bronze Bowls from \u02bbAmlah, al-\u1e92\u0101hirah Province and the Late Pre-Islamic", 
+            "title_full": "Recently Discovered Bronze Bowls from ʻAmlah, al-Ẓāhirah Province and the Late Pre-Islamic", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/183/"
         }, 
         {
@@ -2435,7 +2435,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/112/"
         }, 
         {
-            "title_full": "Die 14. Deutsche Arch\u00e4ologische Oman-Expedition 1995", 
+            "title_full": "Die 14. Deutsche Archäologische Oman-Expedition 1995", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/577/"
         }, 
         {
@@ -2443,7 +2443,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/291/"
         }, 
         {
-            "title_full": "Samad ash-Shan vorl\u00e4ufiger Bericht 1988", 
+            "title_full": "Samad ash-Shan vorläufiger Bericht 1988", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2457/"
         }, 
         {
@@ -2451,7 +2451,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/470/"
         }, 
         {
-            "title_full": "\u1e25afriy\u0101t f\u012b samad al-\u0161\u0101\u2019n (wil\u0101yat al-mu\u1e0dayb\u012b), taqr\u012br \u02bful\u0101 1988 m, b\u016bl y\u016bl wa \u01e7\u012brd f\u0101ys\u01e7rbr,tar\u01e7amah, maktab al-daris\u0101t al-\u0101\u1e6fariyyah, d\u0101\u2019yrat al-\u0101\u1e6f\u0101r, ra\u1e25mah bint q\u0101sim bin \u01e7\u0101bir al-f\u0101rs\u012b", 
+            "title_full": "ḥafriyāt fī samad al-šā’n (wilāyat al-muḍaybī), taqrīr ʿulā 1988 m, būl yūl wa ǧīrd fāysǧrbr,tarǧamah, maktab al-darisāt al-āṯariyyah, dā’yrat al-āṯār, raḥmah bint qāsim bin ǧābir al-fārsī", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2438/"
         }, 
         {

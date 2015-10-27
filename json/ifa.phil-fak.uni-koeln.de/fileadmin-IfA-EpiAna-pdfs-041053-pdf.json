@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "082: \u015eahin, M. \u00c7. , Two Lists of Priests from Koraia, a Phyle of Stratonikeia.", 
+    "description": "082: Şahin, M. Ç. , Two Lists of Priests from Koraia, a Phyle of Stratonikeia.", 
     "domain": "ifa.phil-fak.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6615839450005300841", 
             "resource_date": "2013-03-01T14:11:40.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:24.914854"
+            "when": "2015-10-27T18:45:04.705112"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/partially-open-access-journal.html", 
             "resource_date": "2013-03-01T14:11:40.849-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:24.914865"
+            "when": "2015-10-27T18:45:04.705123"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "053: \u015eahin, M. \u00c7., Recent Excavations at Stratonikeia and ..", 
+    "title": "053: Şahin, M. Ç., Recent Excavations at Stratonikeia and ..", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

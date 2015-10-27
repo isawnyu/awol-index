@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Edition Topoi ist das Publikationsorgan des Exzellenzclusters 264 Topoi The Formation and Transformation of Space and Knowledge in Ancient Civilizations. In den Monographien und Sammelb\u00e4nden der Buchreihe \u00bbBerlin Studies of the Ancient World\u00ab werden Forschungen und Diskussionen des Clusters vorgelegt. Das Journal eTopoi liefert Einzelbeitr\u00e4ge zu unterschiedlichen Themen der Clusterarbeit. Weitere Formate auch zur Publikation von Forschungsdatenbanken und digitalen Ressourcen werden derzeit entwickelt. Der F\u00e4chervielfalt des Clusters entsprechend reichen die disziplin\u00e4ren Verortungen der Autoren und Themen von der Philosophie bis zu den Arch\u00e4ologien, von der Wissenschaftsgeschichte bis hin zur physischen Geographie.", 
+    "description": "Edition Topoi ist das Publikationsorgan des Exzellenzclusters 264 Topoi The Formation and Transformation of Space and Knowledge in Ancient Civilizations. In den Monographien und Sammelbänden der Buchreihe »Berlin Studies of the Ancient World« werden Forschungen und Diskussionen des Clusters vorgelegt. Das Journal eTopoi liefert Einzelbeiträge zu unterschiedlichen Themen der Clusterarbeit. Weitere Formate auch zur Publikation von Forschungsdatenbanken und digitalen Ressourcen werden derzeit entwickelt. Der Fächervielfalt des Clusters entsprechend reichen die disziplinären Verortungen der Autoren und Themen von der Philosophie bis zu den Archäologien, von der Wissenschaftsgeschichte bis hin zur physischen Geographie.", 
     "domain": "edition-topoi.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4550966537270997713", 
             "resource_date": "2014-01-23T18:23:36.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:29.421095"
+            "when": "2015-10-27T18:41:55.222513"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/a-new-open-access-publisher-edition.html", 
             "resource_date": "2014-01-23T18:23:36.706-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:29.421107"
+            "when": "2015-10-27T18:41:55.222530"
         }
     ], 
     "publishers": [], 

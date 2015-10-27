@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista Chilena de Antropolog\u00eda. ISSN 0719-1472. Revista Chilena de Antropolog\u00eda es una publicaci\u00f3n del Departamento de Antropolog\u00eda de la Universidad de Chile. Es una revista internacional arbitrada por pares acad\u00e9micos que se publica dos veces al a\u00f1o (Julio y Diciembre) y que recibe manuscritos in\u00e9ditos en espa\u00f1ol o ingl\u00e9s. Su objetivo es difundir y discutir la investigaci\u00f3n en las diferentes ramas de la Antropolog\u00eda, con el fin de comprender los m\u00faltiples aspectos de las realidades sociales y culturales de Latinoam\u00e9rica y el Caribe. Para ello, la revista recibe contribuciones durante todo el a\u00f1o y se estructura dos secciones diferentes: Art\u00edculos y Rese\u00f1as.", 
+    "description": "Revista Chilena de Antropología. ISSN 0719-1472. Revista Chilena de Antropología es una publicación del Departamento de Antropología de la Universidad de Chile. Es una revista internacional arbitrada por pares académicos que se publica dos veces al año (Julio y Diciembre) y que recibe manuscritos inéditos en español o inglés. Su objetivo es difundir y discutir la investigación en las diferentes ramas de la Antropología, con el fin de comprender los múltiples aspectos de las realidades sociales y culturales de Latinoamérica y el Caribe. Para ello, la revista recibe contribuciones durante todo el año y se estructura dos secciones diferentes: Artículos y Reseñas.", 
     "domain": "www.revistas.uchile.cl", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Revista Chilena de Antropolog\u00eda", 
+        "title_full": "Revista Chilena de Antropología", 
         "url": "http://www.revistas.uchile.cl/index.php/RCA/index"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6276826994831043960", 
             "resource_date": "2013-02-21T10:34:25.113-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:57.494142"
+            "when": "2015-10-27T18:44:34.444164"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revista-chilena-de.html", 
             "resource_date": "2013-02-21T10:34:25.113-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:57.494159"
+            "when": "2015-10-27T18:44:34.444190"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6276826994831043960", 
             "resource_date": "2013-02-21T10:34:25.113-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:57.549134"
+            "when": "2015-10-27T18:44:34.534106"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-revista-chilena-de.html", 
             "resource_date": "2013-02-21T10:34:25.113-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:57.549150"
+            "when": "2015-10-27T18:44:34.534121"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:57.550653"
+            "when": "2015-10-27T18:44:34.536573"
         }
     ], 
     "publishers": [], 
@@ -150,11 +150,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Revista Chilena de Antropolog\u00eda", 
+            "title_full": "Revista Chilena de Antropología", 
             "url": "http://www.revistas.uchile.cl/index.php/RCA/index"
         }
     ], 
-    "title": "Revista Chilena de Antropolog\u00eda", 
+    "title": "Revista Chilena de Antropología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

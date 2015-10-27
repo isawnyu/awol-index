@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8072578780794122956", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:11.535624"
+            "when": "2015-10-27T18:46:58.998770"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-mooc-bibles-prehistory-purpose-and.html", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:11.535641"
+            "when": "2015-10-27T18:46:58.998786"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8072578780794122956", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:11.537548"
+            "when": "2015-10-27T18:46:59.000514"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-mooc-bibles-prehistory-purpose-and.html", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:11.537565"
+            "when": "2015-10-27T18:46:59.000525"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:11.542664"
+            "when": "2015-10-27T18:46:59.005492"
         }
     ], 
     "publishers": [], 

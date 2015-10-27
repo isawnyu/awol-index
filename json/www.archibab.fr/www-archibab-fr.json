@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 12 February 2010. Updated most recently 27 June 2013]. ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J. C. ). La M\u00e9sopotamie entre 2000 \u00e0 1600 av. J. -C. a vu une v\u00e9ritable explosion dans l'usage de l'\u00e9crit, qui s'est traduite par la multiplication des archives et la transformation de leur nature. La civilisation babylonienne de cette p\u00e9riode nous a ainsi fourni une des documentations les plus riches et les plus vari\u00e9es de toute l'Antiquit\u00e9. Il s'agit d'une source d'un int\u00e9r\u00eat consid\u00e9rable pour l'ensemble des sciences humaines (histoire, histoire du droit, anthropologie, sciences de l'information et de la communication, etc. ), mais sous-exploit\u00e9e faute d'instruments de travail ad\u00e9quats. Les archives pal\u00e9o-babyloniennes repr\u00e9sentent plus de 31 000 textes dispers\u00e9s dans pr\u00e8s de 1200 publications. Ajoutons que le nombre de textes s'est accru consid\u00e9rablement durant les trois derni\u00e8res d\u00e9cennies: en 1979, lorsque le tome 3 du R\u00e9pertoire g\u00e9ographique des Textes Cun\u00e9iformes a \u00e9t\u00e9 achev\u00e9, on disposait de 17 332 textes, soit 56 % du corpus actuel ! Cette disproportion est encore plus flagrante pour les textes de Mari: 3465 textes avaient \u00e9t\u00e9 int\u00e9gralement publi\u00e9s en 1979, quand parut le r\u00e9pertoire ARMT XVI/1, contre 8666 aujourd'hui, soit seulement 40%. Pr\u00e9cis\u00e9ment en raison de cette abondance de textes, personne ne s'\u00e9tait attel\u00e9 \u00e0 leur simple recensement depuis tr\u00e8s longtemps. Il n'existe aucun catalogue des documents et la bibliographie est dispers\u00e9e et difficile d'acc\u00e8s. Les tr\u00e8s utiles instruments que sont la Keilschrift Bibliographie d'Orientalia et le Register de Archiv f\u00fcr Orientforschung ne la balisent que partiellement (et avec seulement une consultation par an, sur volumes imprim\u00e9s). Beaucoup de textes sont seulement connus par des copies et n'ont jamais \u00e9t\u00e9 \u00e9dit\u00e9s. Par ailleurs, une bonne part de ces tablettes ont \u00e9t\u00e9 retrouv\u00e9es depuis un si\u00e8cle et demi lors de fouilles illicites et se trouvent en outre dispers\u00e9es de par le monde entre de nombreuses collections, publiques ou priv\u00e9es: non seulement leur contexte arch\u00e9ologique est inconnu mais l'unit\u00e9 des archives auxqelles elles appartenaient doit en outre \u00eatre reconstitu\u00e9e. La cr\u00e9ation d'un corpus num\u00e9rique des documents d'archives pal\u00e9o-babyloniens devenait urgent et le recours \u00e0 l'informatique pour traiter et exploiter ces donn\u00e9es s'est impos\u00e9 d'embl\u00e9e.", 
+    "description": "[First posted in AWOL 12 February 2010. Updated most recently 27 June 2013]. ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J. C. ). La Mésopotamie entre 2000 à 1600 av. J. -C. a vu une véritable explosion dans l'usage de l'écrit, qui s'est traduite par la multiplication des archives et la transformation de leur nature. La civilisation babylonienne de cette période nous a ainsi fourni une des documentations les plus riches et les plus variées de toute l'Antiquité. Il s'agit d'une source d'un intérêt considérable pour l'ensemble des sciences humaines (histoire, histoire du droit, anthropologie, sciences de l'information et de la communication, etc. ), mais sous-exploitée faute d'instruments de travail adéquats. Les archives paléo-babyloniennes représentent plus de 31 000 textes dispersés dans près de 1200 publications. Ajoutons que le nombre de textes s'est accru considérablement durant les trois dernières décennies: en 1979, lorsque le tome 3 du Répertoire géographique des Textes Cunéiformes a été achevé, on disposait de 17 332 textes, soit 56 % du corpus actuel ! Cette disproportion est encore plus flagrante pour les textes de Mari: 3465 textes avaient été intégralement publiés en 1979, quand parut le répertoire ARMT XVI/1, contre 8666 aujourd'hui, soit seulement 40%. Précisément en raison de cette abondance de textes, personne ne s'était attelé à leur simple recensement depuis très longtemps. Il n'existe aucun catalogue des documents et la bibliographie est dispersée et difficile d'accès. Les très utiles instruments que sont la Keilschrift Bibliographie d'Orientalia et le Register de Archiv für Orientforschung ne la balisent que partiellement (et avec seulement une consultation par an, sur volumes imprimés). Beaucoup de textes sont seulement connus par des copies et n'ont jamais été édités. Par ailleurs, une bonne part de ces tablettes ont été retrouvées depuis un siècle et demi lors de fouilles illicites et se trouvent en outre dispersées de par le monde entre de nombreuses collections, publiques ou privées: non seulement leur contexte archéologique est inconnu mais l'unité des archives auxqelles elles appartenaient doit en outre être reconstituée. La création d'un corpus numérique des documents d'archives paléo-babyloniens devenait urgent et le recours à l'informatique pour traiter et exploiter ces données s'est imposé d'emblée.", 
     "domain": "www.archibab.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+        "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
         "url": "http://www.archibab.fr/"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-605257864684977503", 
             "resource_date": "2012-07-05T10:17:10.783-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.881528"
+            "when": "2015-10-27T18:44:17.711568"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/archibab-update.html", 
             "resource_date": "2012-07-05T10:17:10.783-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.881546"
+            "when": "2015-10-27T18:44:17.711592"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-605257864684977503", 
             "resource_date": "2012-07-05T10:17:10.783-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.884083"
+            "when": "2015-10-27T18:44:17.713493"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/archibab-update.html", 
             "resource_date": "2012-07-05T10:17:10.783-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.884109"
+            "when": "2015-10-27T18:44:17.713514"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:42.895563"
+            "when": "2015-10-27T18:44:17.723561"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7348807425160176673", 
             "resource_date": "2013-06-27T11:32:08.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:59.765620"
+            "when": "2015-10-27T18:45:42.842733"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-cuneiform-texts-archibab.html", 
             "resource_date": "2013-06-27T11:32:08.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:59.765637"
+            "when": "2015-10-27T18:45:42.842750"
         }, 
         {
             "fields": [
@@ -201,7 +201,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:59.781429"
+            "when": "2015-10-27T18:45:42.859566"
         }, 
         {
             "fields": [
@@ -242,13 +242,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7348807425160176673", 
             "resource_date": "2013-06-27T11:32:08.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:59.773524"
+            "when": "2015-10-27T18:45:42.850686"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-cuneiform-texts-archibab.html", 
             "resource_date": "2013-06-27T11:32:08.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:59.773546"
+            "when": "2015-10-27T18:45:42.850700"
         }, 
         {
             "fields": [
@@ -263,7 +263,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:59.783643"
+            "when": "2015-10-27T18:45:42.862180"
         }, 
         {
             "fields": [
@@ -304,13 +304,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7833716700635723904", 
             "resource_date": "2013-10-07T13:51:34.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:50.333846"
+            "when": "2015-10-27T18:46:37.140796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/archibab-update.html", 
             "resource_date": "2013-10-07T13:51:34.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:50.333866"
+            "when": "2015-10-27T18:46:37.140811"
         }, 
         {
             "fields": [
@@ -326,7 +326,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:50.361784"
+            "when": "2015-10-27T18:46:37.155297"
         }, 
         {
             "fields": [
@@ -367,13 +367,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7833716700635723904", 
             "resource_date": "2013-10-07T13:51:34.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:50.337597"
+            "when": "2015-10-27T18:46:37.142784"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/archibab-update.html", 
             "resource_date": "2013-10-07T13:51:34.698-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:50.337616"
+            "when": "2015-10-27T18:46:37.142795"
         }, 
         {
             "fields": [
@@ -387,7 +387,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:50.367354"
+            "when": "2015-10-27T18:46:37.158764"
         }, 
         {
             "fields": [
@@ -428,13 +428,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8609290615445959005", 
             "resource_date": "2014-03-25T06:40:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:06.282397"
+            "when": "2015-10-27T18:47:57.833960"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/archibab-news.html", 
             "resource_date": "2014-03-25T06:40:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:06.282415"
+            "when": "2015-10-27T18:47:57.833975"
         }, 
         {
             "fields": [
@@ -450,7 +450,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:06.286644"
+            "when": "2015-10-27T18:47:57.838403"
         }, 
         {
             "fields": [
@@ -491,13 +491,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8609290615445959005", 
             "resource_date": "2014-03-25T06:40:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:06.284338"
+            "when": "2015-10-27T18:47:57.835860"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/archibab-news.html", 
             "resource_date": "2014-03-25T06:40:57.322-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:06.284352"
+            "when": "2015-10-27T18:47:57.835873"
         }, 
         {
             "fields": [
@@ -511,7 +511,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:06.290235"
+            "when": "2015-10-27T18:47:57.842570"
         }, 
         {
             "fields": [
@@ -552,13 +552,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8775604394645076802", 
             "resource_date": "2013-10-07T13:56:07.361-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.290868"
+            "when": "2015-10-27T18:48:47.005350"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/archibab-update.html", 
             "resource_date": "2013-10-07T13:56:07.361-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.290883"
+            "when": "2015-10-27T18:48:47.005366"
         }, 
         {
             "fields": [
@@ -574,7 +574,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:51.303587"
+            "when": "2015-10-27T18:48:47.017577"
         }, 
         {
             "fields": [
@@ -615,13 +615,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8775604394645076802", 
             "resource_date": "2013-10-07T13:56:07.361-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.292863"
+            "when": "2015-10-27T18:48:47.007355"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/archibab-update.html", 
             "resource_date": "2013-10-07T13:56:07.361-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.292876"
+            "when": "2015-10-27T18:48:47.007368"
         }, 
         {
             "fields": [
@@ -635,7 +635,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:51.309909"
+            "when": "2015-10-27T18:48:47.022428"
         }
     ], 
     "publishers": [], 
@@ -645,15 +645,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
             "url": "http://www.archibab.fr/"
         }, 
         {
-            "title_full": "Actualit\u00e9s Juin 2012", 
+            "title_full": "Actualités Juin 2012", 
             "url": "http://www.archibab.fr/actu.pdf"
         }, 
         {
-            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
             "url": "http://www.archibab.fr/"
         }, 
         {
@@ -673,7 +673,7 @@
             "url": "http://www.archibab.fr/4DCGI/recherche9.htm"
         }, 
         {
-            "title_full": "Noms d'ann\u00e9es", 
+            "title_full": "Noms d'années", 
             "url": "http://www.archibab.fr/4DCGI/recherche11.htm"
         }, 
         {
@@ -681,7 +681,7 @@
             "url": "http://www.archibab.fr/4DCGI/recherche2.htm"
         }, 
         {
-            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
             "url": "http://www.archibab.fr/"
         }, 
         {
@@ -689,15 +689,15 @@
             "url": "http://www.archibab.fr/en/accueil.htm"
         }, 
         {
-            "title_full": "Actualit\u00e9s D\u00e9cembre 2012", 
+            "title_full": "Actualités Décembre 2012", 
             "url": "http://www.archibab.fr/actu.pdf"
         }, 
         {
-            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
             "url": "http://www.archibab.fr/"
         }, 
         {
-            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+            "title_full": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
             "url": "http://www.archibab.fr/"
         }, 
         {
@@ -705,13 +705,13 @@
             "url": "http://www.archibab.fr/en/accueil.htm"
         }, 
         {
-            "title_full": "Actualit\u00e9s", 
+            "title_full": "Actualités", 
             "url": "http://www.archibab.fr/actu.pdf"
         }
     ], 
-    "title": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+    "title": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
     "title_alternates": [], 
-    "title_extended": "ARCHIBAB Archives babyloniennes (XXe-XVIIe si\u00e8cles av. J.C.)", 
+    "title_extended": "ARCHIBAB Archives babyloniennes (XXe-XVIIe siècles av. J.C.)", 
     "type": null, 
     "url": "http://www.archibab.fr/", 
     "url_alternates": [], 

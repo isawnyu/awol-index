@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Kotzoglou, G. , K. Nikolou, E. Karantzola, K. Frantzi, I. Galantomos, M. Georgalidou, V. Kourti-Kazoulis, Ch. Papadopoulou & E. Vlachou (eds) 2014. 11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / \u03a0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ac. Rhodes: Department of Mediterranean Studies, University of the Aegean. ).", 
+    "description": "Kotzoglou, G. , K. Nikolou, E. Karantzola, K. Frantzi, I. Galantomos, M. Georgalidou, V. Kourti-Kazoulis, Ch. Papadopoulou & E. Vlachou (eds) 2014. 11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / Πρακτικά. Rhodes: Department of Mediterranean Studies, University of the Aegean. ).", 
     "domain": "www.rhodes.aegean.gr", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1089583287871620413", 
             "resource_date": "2015-06-02T20:57:55.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.346224"
+            "when": "2015-10-27T18:37:08.166150"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-book-11th-international.html", 
             "resource_date": "2015-06-02T20:57:55.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.346244"
+            "when": "2015-10-27T18:37:08.166166"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1089583287871620413", 
             "resource_date": "2015-06-02T20:57:55.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.349985"
+            "when": "2015-10-27T18:37:08.168388"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-book-11th-international.html", 
             "resource_date": "2015-06-02T20:57:55.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.350004"
+            "when": "2015-10-27T18:37:08.168399"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:07.352716"
+            "when": "2015-10-27T18:37:08.170652"
         }
     ], 
     "publishers": [], 
@@ -145,13 +145,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / \u03a0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ac", 
+            "title_full": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / Πρακτικά", 
             "url": "http://www.rhodes.aegean.gr/Assets/announcements/diafora/ICGL_11_selected_papers.pdf"
         }
     ], 
-    "title": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / \u03a0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ac", 
+    "title": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / Πρακτικά", 
     "title_alternates": [], 
-    "title_extended": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / \u03a0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ac", 
+    "title_extended": "11th International Conference on Greek Linguistics (Rhodes, 26-29 September 2013): Selected Papers / Πρακτικά", 
     "type": null, 
     "url": "http://www.rhodes.aegean.gr/Assets/announcements/diafora/ICGL_11_selected_papers.pdf", 
     "url_alternates": [], 

@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1676183544605580835", 
             "resource_date": "2014-02-04T16:43:42.886-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.148479"
+            "when": "2015-10-27T18:37:57.150602"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/updates-at-leon-levy-dead-sea-scrolls.html", 
             "resource_date": "2014-02-04T16:43:42.886-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.148496"
+            "when": "2015-10-27T18:37:57.150624"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1676183544605580835", 
             "resource_date": "2014-02-04T16:43:42.886-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.150154"
+            "when": "2015-10-27T18:37:57.153210"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/updates-at-leon-levy-dead-sea-scrolls.html", 
             "resource_date": "2014-02-04T16:43:42.886-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.150165"
+            "when": "2015-10-27T18:37:57.153234"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:53.154321"
+            "when": "2015-10-27T18:37:57.158178"
         }
     ], 
     "publishers": [], 

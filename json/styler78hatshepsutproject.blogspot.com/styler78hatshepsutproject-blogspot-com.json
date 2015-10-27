@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4707689178548131984", 
             "resource_date": "2011-11-20T01:30:01.510-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.016985"
+            "when": "2015-10-27T18:42:08.805740"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/hatshepsut-project-online.html", 
             "resource_date": "2011-11-20T01:30:01.510-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.017004"
+            "when": "2015-10-27T18:42:08.805757"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4707689178548131984", 
             "resource_date": "2011-11-20T01:30:01.510-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.019186"
+            "when": "2015-10-27T18:42:08.807891"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/hatshepsut-project-online.html", 
             "resource_date": "2011-11-20T01:30:01.510-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.019203"
+            "when": "2015-10-27T18:42:08.807905"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.027440"
+            "when": "2015-10-27T18:42:08.815850"
         }
     ], 
     "publishers": [], 

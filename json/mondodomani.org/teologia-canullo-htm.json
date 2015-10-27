@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Claudio Cerroni, Universit\u00e0 di Roma Tor Vergata, La teologia di Abelardo come metalinguaggio.", 
+    "description": "Claudio Cerroni, Università di Roma Tor Vergata, La teologia di Abelardo come metalinguaggio.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.316860"
+            "when": "2015-10-27T18:44:38.783571"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.316871"
+            "when": "2015-10-27T18:44:38.783583"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Carla Canullo, Universit\u00e0 di Macerata, La forma della testimonianza. La spiritualit\u00e0 della santit\u00e0 secondo Hans Urs von Balthasar", 
+    "title": "Carla Canullo, Università di Macerata, La forma della testimonianza. La spiritualità della santità secondo Hans Urs von Balthasar", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

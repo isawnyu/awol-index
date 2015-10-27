@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Jahrbuch f\u00fcr Numismatik und Geldgeschichte", 
+        "title_full": "Jahrbuch für Numismatik und Geldgeschichte", 
         "url": "http://www.bngev.de/veroffentlichungen/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5028162898818875878", 
             "resource_date": "2013-09-25T11:44:21.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.705546"
+            "when": "2015-10-27T18:43:07.814736"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-jahrbuch-fur_25.html", 
             "resource_date": "2013-09-25T11:44:21.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.705557"
+            "when": "2015-10-27T18:43:07.814747"
         }
     ], 
     "publishers": [], 

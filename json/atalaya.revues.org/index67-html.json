@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "n\u00b0 11 - H\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 et transferts.", 
+    "description": "n° 11 - Hétérogénéité et transferts.", 
     "domain": "atalaya.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -11,7 +11,7 @@
     "identifiers": {}, 
     "is_part_of": {
         "issn": "2102-5614", 
-        "title_full": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes", 
+        "title_full": "Revue d’études médiévales romanes", 
         "url": "http://atalaya.revues.org/"
     }, 
     "issuance": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8752339944672987588", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.012477"
+            "when": "2015-10-27T18:48:46.689658"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/revue-detudes-medievales-romanes-issn.html", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.012490"
+            "when": "2015-10-27T18:48:46.689670"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "n\u00b0 10 - Le m\u00e9tier de l\u2019historien en Castille au XV e si\u00e8cle", 
+    "title": "n° 10 - Le métier de l’historien en Castille au XV e siècle", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

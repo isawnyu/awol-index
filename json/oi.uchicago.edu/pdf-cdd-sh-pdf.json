@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1333069255515076209", 
             "resource_date": "2012-07-17T10:03:07.584-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:26.502704"
+            "when": "2015-10-27T18:37:28.886737"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/chicago-demotic-dictionary-t.html", 
             "resource_date": "2012-07-17T10:03:07.584-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:26.502717"
+            "when": "2015-10-27T18:37:28.886749"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7867818265264476208", 
             "resource_date": "2012-07-16T14:23:23.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.422481"
+            "when": "2015-10-27T18:46:40.447231"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/open-access-publication-demotic.html", 
             "resource_date": "2012-07-16T14:23:23.355-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.422491"
+            "when": "2015-10-27T18:46:40.447244"
         }, 
         {
             "fields": [
@@ -122,7 +122,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.477760"
+            "when": "2015-10-27T18:46:40.529369"
         }
     ], 
     "publishers": [], 

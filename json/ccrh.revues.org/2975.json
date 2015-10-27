@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les Cahiers du Centre de Recherches Historiques. ISSN: 1760-7906. En cr\u00e9ant les Cahiers du Centre de Recherches Historiques, en 1988, le CRH s\u2019est dot\u00e9 d\u2019une revue r\u00e9guli\u00e8re dont l\u2019ambition \u00e9tait de fournir \u00e0 un grand laboratoire de recherche un instrument d\u2019information et de publication des principaux \u00e9l\u00e9ments ou lignes de force de son activit\u00e9 scientifique. Il s\u2019agissait aussi de donner une plus grande identit\u00e9 au Centre, dont la grande diversit\u00e9 risquait d\u2019aboutir \u00e0 une perception floue de ses directions de travail et de sa production; Centre fort de plus de cent membres, dont la notori\u00e9t\u00e9 leur permettait de valoriser ailleurs leurs r\u00e9sultats.", 
+    "description": "Les Cahiers du Centre de Recherches Historiques. ISSN: 1760-7906. En créant les Cahiers du Centre de Recherches Historiques, en 1988, le CRH s’est doté d’une revue régulière dont l’ambition était de fournir à un grand laboratoire de recherche un instrument d’information et de publication des principaux éléments ou lignes de force de son activité scientifique. Il s’agissait aussi de donner une plus grande identité au Centre, dont la grande diversité risquait d’aboutir à une perception floue de ses directions de travail et de sa production; Centre fort de plus de cent membres, dont la notoriété leur permettait de valoriser ailleurs leurs résultats.", 
     "domain": "ccrh.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-640575694160719619", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:03.366157"
+            "when": "2015-10-27T18:44:41.016333"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-les-cahiers-du.html", 
             "resource_date": "2014-05-05T16:21:26.612-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:03.366168"
+            "when": "2015-10-27T18:44:41.016345"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "5bis | 1990 Journ\u00e9e d'\u00e9tudes Werner Sombart", 
+    "title": "5bis | 1990 Journée d'études Werner Sombart", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

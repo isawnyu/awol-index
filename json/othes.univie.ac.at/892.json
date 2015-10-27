@@ -1,9 +1,9 @@
 {
     "authors": [
-        "M\u00fcller, Ingrid Katharina"
+        "Müller, Ingrid Katharina"
     ], 
     "contributors": [], 
-    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t. BetreuerIn: Groh, Stefan", 
+    "description": "Diplomarbeit, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät. BetreuerIn: Groh, Stefan", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -63,19 +63,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.888210"
+            "when": "2015-10-27T18:36:58.565611"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.888220"
+            "when": "2015-10-27T18:36:58.565622"
         }
     ], 
     "publishers": [], 
     "related_resources": [
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }
     ], 
@@ -83,7 +83,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Grabung 1996 auf Parzelle 80 im r\u00f6mischen Vicus von Mautern-Favianis", 
+    "title": "Die Grabung 1996 auf Parzelle 80 im römischen Vicus von Mautern-Favianis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

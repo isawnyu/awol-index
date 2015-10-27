@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.649143"
+            "when": "2015-10-27T18:47:51.696966"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.649154"
+            "when": "2015-10-27T18:47:51.696977"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Vincent Battesti L\u2019agrobiodiversit\u00e9 du dattier ( Phoenix dactylifera L.) dans l\u2019oasis de Siwa (\u00c9gypte) [Texte int\u00e9gral] Entre ce qui se dit, s\u2019\u00e9crit et s\u2019oublie The agrobiodiversity of the Date Palm ( Phoenix dactylifera L.) in Siwa Oasis (Egypt): between what is said, written, and forgotten", 
+    "title": "Vincent Battesti L’agrobiodiversité du dattier ( Phoenix dactylifera L.) dans l’oasis de Siwa (Égypte) [Texte intégral] Entre ce qui se dit, s’écrit et s’oublie The agrobiodiversity of the Date Palm ( Phoenix dactylifera L.) in Siwa Oasis (Egypt): between what is said, written, and forgotten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

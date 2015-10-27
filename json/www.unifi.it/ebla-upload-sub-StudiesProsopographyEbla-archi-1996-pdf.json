@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archi A. (1996) \"Eblaita pashishu: colui che \u00e8 addetto all'unzione\", VO 10, pp. 37-71 PDF (236. 68 KB).", 
+    "description": "Archi A. (1996) \"Eblaita pashishu: colui che è addetto all'unzione\", VO 10, pp. 37-71 PDF (236. 68 KB).", 
     "domain": "www.unifi.it", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4109363790167225146", 
             "resource_date": "2013-01-03T15:25:31.386-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:59.912472"
+            "when": "2015-10-27T18:41:22.725682"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/prosopography-of-ebla.html", 
             "resource_date": "2013-01-03T15:25:31.386-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:59.912483"
+            "when": "2015-10-27T18:41:22.725693"
         }
     ], 
     "publishers": [], 

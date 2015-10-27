@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "BSAA Arqueolog\u00eda: Bolet\u00edn del Seminario de Estudios de Arqueolog\u00eda", 
+        "title_full": "BSAA Arqueología: Boletín del Seminario de Estudios de Arqueología", 
         "url": "http://dialnet.unirioja.es/servlet/revista?codigo=15437"
     }, 
     "issuance": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7680663990464356791", 
             "resource_date": "2014-06-01T07:56:15.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:42.147563"
+            "when": "2015-10-27T18:46:28.067952"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-bsaa-arqueologia.html", 
             "resource_date": "2014-06-01T07:56:15.005-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:42.147577"
+            "when": "2015-10-27T18:46:28.067965"
         }
     ], 
     "publishers": [], 
@@ -86,7 +86,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bolet\u00edn del Seminario de Estudios de Arte y Arqueolog\u00eda", 
+    "title": "Boletín del Seminario de Estudios de Arte y Arqueología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

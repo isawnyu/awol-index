@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr Assyriologie und vorderasiatische Arch\u00e4ologie, 92 (2002), pp. 131-134. Krebernik, Manfred (1988).", 
+    "description": "In: Zeitschrift für Assyriologie und vorderasiatische Archäologie, 92 (2002), pp. 131-134. Krebernik, Manfred (1988).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.605228"
+            "when": "2015-10-27T18:46:20.320260"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.605245"
+            "when": "2015-10-27T18:46:20.320284"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Anhang: Kollationen zu HS 2009 + 2985 (Su-Sin; Zeilenz\u00e4hlung nach RIME 3/2)", 
+    "title": "Anhang: Kollationen zu HS 2009 + 2985 (Su-Sin; Zeilenzählung nach RIME 3/2)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

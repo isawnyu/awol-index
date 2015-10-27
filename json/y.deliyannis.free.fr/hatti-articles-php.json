@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3084691168080864141", 
             "resource_date": "2013-06-13T10:20:04.166-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:05.511286"
+            "when": "2015-10-27T18:39:14.390293"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-haluka.html", 
             "resource_date": "2013-06-13T10:20:04.166-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:05.511301"
+            "when": "2015-10-27T18:39:14.390309"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5647830296090778520", 
             "resource_date": "2013-06-13T15:22:27.238-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:09.697579"
+            "when": "2015-10-27T18:43:41.813696"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/hatti-ha-at-ti-association-des-amis-de.html", 
             "resource_date": "2013-06-13T15:22:27.238-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:09.697591"
+            "when": "2015-10-27T18:43:41.813706"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:09.713426"
+            "when": "2015-10-27T18:43:41.831332"
         }
     ], 
     "publishers": [], 
@@ -145,11 +145,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "La red\u00e9couverte de la civilisation hittite", 
+            "title_full": "La redécouverte de la civilisation hittite", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_0_3"
         }, 
         {
-            "title_full": "Pr\u00e9servation et restauration des monuments historiques et oeuvres d'art", 
+            "title_full": "Préservation et restauration des monuments historiques et oeuvres d'art", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_0_4"
         }, 
         {
@@ -169,19 +169,19 @@
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_1_5"
         }, 
         {
-            "title_full": "Les pratiques fun\u00e9raires sur le plateau anatolien", 
+            "title_full": "Les pratiques funéraires sur le plateau anatolien", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_2_2"
         }, 
         {
-            "title_full": "L'architecture militaire \u00e0 Hattu\u0161a", 
+            "title_full": "L'architecture militaire à Hattuša", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_2_3"
         }, 
         {
-            "title_full": "De Mazuwati \u00e0 Til Barsip", 
+            "title_full": "De Mazuwati à Til Barsip", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_2_4"
         }, 
         {
-            "title_full": "Kani\u0161, un comptoir commercial assyrien en Anatolie", 
+            "title_full": "Kaniš, un comptoir commercial assyrien en Anatolie", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_3_2"
         }, 
         {
@@ -201,27 +201,27 @@
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_4_4"
         }, 
         {
-            "title_full": "Quelques remarques concernant le mythe de Kumarbi et la th\u00e9ogonie d'H\u00e9siode", 
+            "title_full": "Quelques remarques concernant le mythe de Kumarbi et la théogonie d'Hésiode", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_5_1"
         }, 
         {
-            "title_full": "La Syrie du nord, entre hittites et assyriens (1\u00e8re partie)", 
+            "title_full": "La Syrie du nord, entre hittites et assyriens (1ère partie)", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_5_2"
         }, 
         {
-            "title_full": "L'Anatolie avant les hittites : le pal\u00e9olithique et le m\u00e9solithique", 
+            "title_full": "L'Anatolie avant les hittites : le paléolithique et le mésolithique", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_6_1"
         }, 
         {
-            "title_full": "La Syrie du nord, entre hittites et assyriens (2\u00e8me partie)", 
+            "title_full": "La Syrie du nord, entre hittites et assyriens (2ème partie)", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_6_2"
         }, 
         {
-            "title_full": "La pr\u00e9sence myc\u00e9nienne en Asie Mineure", 
+            "title_full": "La présence mycénienne en Asie Mineure", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_7_1"
         }, 
         {
-            "title_full": "L'Anatolie avant les hittites : le n\u00e9olithique ac\u00e9ramique", 
+            "title_full": "L'Anatolie avant les hittites : le néolithique acéramique", 
             "url": "http://y.deliyannis.free.fr/hatti/articles.php?id=hlk_7_2"
         }
     ], 

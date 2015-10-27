@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1255118897098244446", 
             "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:16.398811"
+            "when": "2015-10-27T18:37:18.057412"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_891.html", 
             "resource_date": "2013-05-21T11:58:53.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:16.398825"
+            "when": "2015-10-27T18:37:18.057424"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:05.796129"
+            "when": "2015-10-27T18:46:53.048720"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:05.796146"
+            "when": "2015-10-27T18:46:53.048738"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:05.945750"
+            "when": "2015-10-27T18:46:53.208102"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:05.799993"
+            "when": "2015-10-27T18:46:53.052332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:05.800012"
+            "when": "2015-10-27T18:46:53.052344"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:05.951461"
+            "when": "2015-10-27T18:46:53.214526"
         }
     ], 
     "publishers": [], 
@@ -576,7 +576,7 @@
             "url": "http://cdli.ucla.edu/pubs/cdln/archives/000004.html"
         }, 
         {
-            "title_full": "CDLN 2006:001Rikke Wulff Krabbenh\u00f8ft: Accession Numbers of the Royal Ontario Museum", 
+            "title_full": "CDLN 2006:001Rikke Wulff Krabbenhøft: Accession Numbers of the Royal Ontario Museum", 
             "url": "http://cdli.ucla.edu/pubs/cdln/archives/000005.html"
         }, 
         {

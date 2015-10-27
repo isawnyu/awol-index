@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[Originally posted 16 February 2011. Updated 22 September 2014]. Acacdemia Fiorentina di Papirologia e Studi sul Mondo Antico Biblioteca On Line. In questa pagina sono pubblicati testi di particolare interesse scientifico. Lo scaricamento dei documenti \u00e8 gratuito.", 
+    "description": "[Originally posted 16 February 2011. Updated 22 September 2014]. Acacdemia Fiorentina di Papirologia e Studi sul Mondo Antico Biblioteca On Line. In questa pagina sono pubblicati testi di particolare interesse scientifico. Lo scaricamento dei documenti è gratuito.", 
     "domain": "www.accademiafiorentina.it", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7244885653752352770", 
             "resource_date": "2014-09-22T10:33:14.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:52.265880"
+            "when": "2015-10-27T18:45:34.853344"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/accademia-fiorentina-di-papirologia.html", 
             "resource_date": "2014-09-22T10:33:14.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:52.265897"
+            "when": "2015-10-27T18:45:34.853359"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7244885653752352770", 
             "resource_date": "2014-09-22T10:33:14.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:52.269178"
+            "when": "2015-10-27T18:45:34.856833"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/accademia-fiorentina-di-papirologia.html", 
             "resource_date": "2014-09-22T10:33:14.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:52.269192"
+            "when": "2015-10-27T18:45:34.856846"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:52.271848"
+            "when": "2015-10-27T18:45:34.860295"
         }
     ], 
     "publishers": [], 

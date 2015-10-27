@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Num\u00e9ro 3: Affixes et relateurs spatio-temporels en latin: l\u2019expresssion de l\u2019espace et du temps en latin, vol. 1.", 
+    "description": "Numéro 3: Affixes et relateurs spatio-temporels en latin: l’expresssion de l’espace et du temps en latin, vol. 1.", 
     "domain": "www.paris-sorbonne.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3743767777832257103", 
             "resource_date": "2015-01-30T14:14:59.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:42.293362"
+            "when": "2015-10-27T18:41:00.666873"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/revue-de-linguistique-latine-du-centre.html", 
             "resource_date": "2015-01-30T14:14:59.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:42.293393"
+            "when": "2015-10-27T18:41:00.666884"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Num\u00e9ro 2 : L\u2019alphabet latin, origines et \u00e9volution", 
+    "title": "Numéro 2 : L’alphabet latin, origines et évolution", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

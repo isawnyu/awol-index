@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen der Sudanarch\u00e4ologischen Gesellschaft zu Berlin, 8 (1998), pp. 50-54. Lohwasser, Angelika (1999).", 
+    "description": "In: Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin, 8 (1998), pp. 50-54. Lohwasser, Angelika (1999).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:55.839067"
+            "when": "2015-10-27T18:40:07.285547"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:55.839083"
+            "when": "2015-10-27T18:40:07.285563"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Beobachtungen zu Pfostenl\u00f6chern auf dem S\u00e4ulenbankett des Zentraltempels der Gro\u00dfen Anlage", 
+    "title": "Beobachtungen zu Pfostenlöchern auf dem Säulenbankett des Zentraltempels der Großen Anlage", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

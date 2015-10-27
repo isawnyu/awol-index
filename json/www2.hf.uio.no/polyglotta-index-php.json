@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bibliotheca Polyglotta. Arabic Texts. The library will contain Arabic texts that have been the basis of translations, and thus diffusion, of Arabic concepts throughout the areas of Islamic culture. The Qur\u2019an is naturally most important. Biblia. This library will contain the Old Testament in parallel versions in Hebrew, with the Greek Septuaginta, the Latin Vulgata, and the King James Bible versions. Further it will encompass the New Testament in its Greek version, the Latin Vulgata and the King James. Bibliotheca Polyglotta Graeca et Latina. The library will contain multilingual texts where the original is written in Greek or Latin. Translations into Latin, Syriac, Arabic, German, English and other languages will be included. Sanskrit-Persica. This library will contain literature translated from Sanskrit into Persian, and from Persian into other languages. The Ashoka Library. With this library it is intended to make the inscriptions of Ashoka easily available on the internet, and further build a collection of other sources related to Ashoka.", 
+    "description": "Bibliotheca Polyglotta. Arabic Texts. The library will contain Arabic texts that have been the basis of translations, and thus diffusion, of Arabic concepts throughout the areas of Islamic culture. The Qur’an is naturally most important. Biblia. This library will contain the Old Testament in parallel versions in Hebrew, with the Greek Septuaginta, the Latin Vulgata, and the King James Bible versions. Further it will encompass the New Testament in its Greek version, the Latin Vulgata and the King James. Bibliotheca Polyglotta Graeca et Latina. The library will contain multilingual texts where the original is written in Greek or Latin. Translations into Latin, Syriac, Arabic, German, English and other languages will be included. Sanskrit-Persica. This library will contain literature translated from Sanskrit into Persian, and from Persian into other languages. The Ashoka Library. With this library it is intended to make the inscriptions of Ashoka easily available on the internet, and further build a collection of other sources related to Ashoka.", 
     "domain": "www2.hf.uio.no", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4608169841004197165", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.258643"
+            "when": "2015-10-27T18:42:06.847533"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/bibliotheca-polyglotta.html", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.258658"
+            "when": "2015-10-27T18:42:06.847553"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4608169841004197165", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.261422"
+            "when": "2015-10-27T18:42:06.850504"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/bibliotheca-polyglotta.html", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.261439"
+            "when": "2015-10-27T18:42:06.850518"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:40.275134"
+            "when": "2015-10-27T18:42:06.863144"
         }
     ], 
     "publishers": [], 

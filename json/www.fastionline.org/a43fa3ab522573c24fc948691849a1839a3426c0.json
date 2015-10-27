@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "313 - Paolo Bernardini, Pier Giorgio Spanu, Raimondo Zucca. 2014. Tharros: indagini nell\u2019area dell\u2019anfiteatro romano. PDF.", 
+    "description": "313 - Paolo Bernardini, Pier Giorgio Spanu, Raimondo Zucca. 2014. Tharros: indagini nell’area dell’anfiteatro romano. PDF.", 
     "domain": "www.fastionline.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6485308727897627331", 
             "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:09.350229"
+            "when": "2015-10-27T18:44:47.506937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-fold.html", 
             "resource_date": "2014-07-09T18:08:33.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:09.350240"
+            "when": "2015-10-27T18:44:47.506949"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "314 - Paolo Vison\u00e0, George M. Crothers, Justin N. Carlson , Donald L. Handshoe , Silvana Lora, Piera Allegra Rasia - Universit\u00e0 degli Studi di Venezia - Ca\u2019 Foscari, Luana Toniolo. 2014. A Forgotten Roman Settlement in the Veneto. University of Kentucky Geoarchaeological Investigations at Tezze di Arzignano (Vicenza, Italy) in 2012 . PDF permalink Record Sheet", 
+    "title": "314 - Paolo Visonà, George M. Crothers, Justin N. Carlson , Donald L. Handshoe , Silvana Lora, Piera Allegra Rasia - Università degli Studi di Venezia - Ca’ Foscari, Luana Toniolo. 2014. A Forgotten Roman Settlement in the Veneto. University of Kentucky Geoarchaeological Investigations at Tezze di Arzignano (Vicenza, Italy) in 2012 . PDF permalink Record Sheet", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

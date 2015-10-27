@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 July 2011. Updated 25 July 2013]. \u00c4gyptologie NewsPaper. Redaktion, Texte und Abbildungen (sofern nicht anders erw\u00e4hnt): Mein Dank gilt den EEFNEWS und deren zahlreichen Informanten sowie dem Moderator des EEF. Ohne diese schier unersch\u00f6pfliche Quelle f\u00fcr hochklassige Artikel aus der \u00c4gyptologie w\u00e4re so manche Nachricht an mir vorbeigegangen.", 
+    "description": "[First posted in AWOL 21 July 2011. Updated 25 July 2013]. Ägyptologie NewsPaper. Redaktion, Texte und Abbildungen (sofern nicht anders erwähnt): Mein Dank gilt den EEFNEWS und deren zahlreichen Informanten sowie dem Moderator des EEF. Ohne diese schier unerschöpfliche Quelle für hochklassige Artikel aus der Ägyptologie wäre so manche Nachricht an mir vorbeigegangen.", 
     "domain": "www.sesch-projekt.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4893200004520553417", 
             "resource_date": "2013-07-25T11:49:00.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:14.963982"
+            "when": "2015-10-27T18:42:44.479192"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-accesss-journal-agyptologie.html", 
             "resource_date": "2013-07-25T11:49:00.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:14.963999"
+            "when": "2015-10-27T18:42:44.479209"
         }
     ], 
     "publishers": [], 
@@ -87,7 +87,7 @@
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2013-4-1&bis=2013-4-30"
         }, 
         {
-            "title_full": "M\u00e4rz 2013 (10)", 
+            "title_full": "März 2013 (10)", 
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2013-3-1&bis=2013-3-31"
         }, 
         {
@@ -135,7 +135,7 @@
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2012-4-1&bis=2012-4-30"
         }, 
         {
-            "title_full": "M\u00e4rz 2012 (15)", 
+            "title_full": "März 2012 (15)", 
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2012-3-1&bis=2012-3-31"
         }, 
         {
@@ -183,7 +183,7 @@
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2011-4-1&bis=2011-4-30"
         }, 
         {
-            "title_full": "M\u00e4rz 2011 (13)", 
+            "title_full": "März 2011 (13)", 
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2011-3-1&bis=2011-3-31"
         }, 
         {
@@ -195,7 +195,7 @@
             "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php?von=2011-1-1&bis=2011-1-31"
         }
     ], 
-    "title": "\u00c4gyptologie NewsPaper", 
+    "title": "Ägyptologie NewsPaper", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: F\u00f6gen, Th. and Lee, M. M. (Hrsgg. ): Bodies and Boundaries in Graeco-Roman Antiquity. Berlin / New York 2009, pp. 87-109. M\u00f6llendorff, Peter von (1994).", 
+    "description": "In: Fögen, Th. and Lee, M. M. (Hrsgg. ): Bodies and Boundaries in Graeco-Roman Antiquity. Berlin / New York 2009, pp. 87-109. Möllendorff, Peter von (1994).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.281702"
+            "when": "2015-10-27T18:48:50.061483"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.281715"
+            "when": "2015-10-27T18:48:50.061498"
         }
     ], 
     "publishers": [], 

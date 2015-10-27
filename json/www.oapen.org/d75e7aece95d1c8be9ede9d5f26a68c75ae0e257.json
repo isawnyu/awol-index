@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Palmyras Reichtum durch weltweiten Handel. Ach\u00e4ologische Untersuchungen im Bereich der hellenistischen Stadt By Schmidt-Colinet, Andreas & al-As\u2019ad, Waleed.", 
+    "description": "Palmyras Reichtum durch weltweiten Handel. Achäologische Untersuchungen im Bereich der hellenistischen Stadt By Schmidt-Colinet, Andreas & al-As’ad, Waleed.", 
     "domain": "www.oapen.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1459741898464052849", 
             "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:33.197044"
+            "when": "2015-10-27T18:37:35.768713"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-library-oapen.html", 
             "resource_date": "2014-12-24T09:33:23.221-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:33.197060"
+            "when": "2015-10-27T18:37:35.768724"
         }
     ], 
     "publishers": [], 

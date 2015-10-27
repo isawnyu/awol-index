@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Graecolatina et Orientalia. ZBORN\u00cdK FILOZOFICKEJ FAKULTY UNIVERZITY KOMENSK\u00c9HO V BRATISLAVE. Vol. XXXIII-XXXIV, 2012 (ISBN: 978-80-223-3285-9). Tables of Contents of earlier volumes. See the full.", 
+    "description": "Graecolatina et Orientalia. ZBORNÍK FILOZOFICKEJ FAKULTY UNIVERZITY KOMENSKÉHO V BRATISLAVE. Vol. XXXIII-XXXIV, 2012 (ISBN: 978-80-223-3285-9). Tables of Contents of earlier volumes. See the full.", 
     "domain": "www.fphil.uniba.sk", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2620950340778672326", 
             "resource_date": "2013-03-23T07:21:14.419-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.021097"
+            "when": "2015-10-27T18:38:51.120067"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/newly-open-access-journal-graecolatina.html", 
             "resource_date": "2013-03-23T07:21:14.419-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.021112"
+            "when": "2015-10-27T18:38:51.120080"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gionata Rizzi, \"Masons, Masonry, and the Mysteries in the Fa\u00e7ade of the Parma Cathedral\"Abstract.", 
+    "description": "Gionata Rizzi, \"Masons, Masonry, and the Mysteries in the Façade of the Parma Cathedral\"Abstract.", 
     "domain": "www.sas.upenn.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1668542114632913470", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.949799"
+            "when": "2015-10-27T18:37:56.923536"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-symposiumpublication-masons.html", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.949810"
+            "when": "2015-10-27T18:37:56.923548"
         }
     ], 
     "publishers": [], 

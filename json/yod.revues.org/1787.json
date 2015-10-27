@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales [=Yod: revue des \u00e9tudes h\u00e9bra\u00efques et juives 18 (2013)].", 
+    "description": "Le Proche-Orient ancien à la lumière des sciences sociales [=Yod: revue des études hébraïques et juives 18 (2013)].", 
     "domain": "yod.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+        "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
         "url": "http://yod.revues.org/1747"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.303506"
+            "when": "2015-10-27T18:37:33.894468"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.303522"
+            "when": "2015-10-27T18:37:33.894479"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Daniel Boyarin Carnaval \u00e0 Soura : Bakhtine et le Talmud de Babylone [Texte int\u00e9gral] Carnival at Sura: Bakhtin and the Babylonian Talmud \u05e7\u05e8\u05e0\u05d1\u05dc \u05d1\u05e1\u05d5\u05e8\u05d0: \u05d1\u05d7\u05d8\u05d9\u05df \u05d5\u05d4\u05ea\u05dc\u05de\u05d5\u05d3 \u05d4\u05d1\u05d1\u05dc\u05d9", 
+    "title": "Daniel Boyarin Carnaval à Soura : Bakhtine et le Talmud de Babylone [Texte intégral] Carnival at Sura: Bakhtin and the Babylonian Talmud קרנבל בסורא: בחטין והתלמוד הבבלי", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

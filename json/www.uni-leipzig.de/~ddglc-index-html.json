@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5980843970265487750", 
             "resource_date": "2014-06-10T10:52:28.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.759272"
+            "when": "2015-10-27T18:44:14.349625"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/database-and-dictionary-of-greek.html", 
             "resource_date": "2014-06-10T10:52:28.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.759288"
+            "when": "2015-10-27T18:44:14.349642"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5980843970265487750", 
             "resource_date": "2014-06-10T10:52:28.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.764234"
+            "when": "2015-10-27T18:44:14.354254"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/database-and-dictionary-of-greek.html", 
             "resource_date": "2014-06-10T10:52:28.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.764251"
+            "when": "2015-10-27T18:44:14.354270"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:39.789214"
+            "when": "2015-10-27T18:44:14.377507"
         }
     ], 
     "publishers": [], 

@@ -4,7 +4,7 @@
         "a free online digitized virtual library of the Dead Sea Scrolls"
     ], 
     "contributors": [], 
-    "description": "The Leon Levy Dead Sea Scrolls Digital Library. The Israel Antiquities Authority (IAA) is very proud to present the Leon Levy Dead Sea Scrolls Digital Library, a free online digitized virtual library of the Dead Sea Scrolls. Hundreds of manuscripts made up of thousands of fragments - discovered from 1947 and until the early 1960\u2019s in the Judean Desert along the western shore of the Dead Sea - are now available to the public online. The high resolution images are extremely detailed and can be accessed through various search options on the site. With the generous lead support of the Leon Levy Foundation and additional generous support of the Arcadia Fund, the Israel Antiquities Authority and Google joined forces to develop the most advanced imaging and web technologies to bring to the web hundreds of Dead Sea Scrolls images as well as specially developed supporting resources in a user-friendly platform intended for the public, students and scholars alike. The launch of the Leon Levy Dead Sea Scrolls Digital Library comes some 11 years after the completion of the publication of the Dead Sea Scrolls, initiated and sponsored by the IAA, and 65 years after the first scrolls were unearthed in the Caves of Qumran. This digital library is another example of the IAA's vision and mission, to make these ancient texts freely available and accessible to people around the world. The Leon Levy Dead Sea Scrolls Digital Library represents a new milestone in the annals of the story of one of the greatest manuscript finds of all times.", 
+    "description": "The Leon Levy Dead Sea Scrolls Digital Library. The Israel Antiquities Authority (IAA) is very proud to present the Leon Levy Dead Sea Scrolls Digital Library, a free online digitized virtual library of the Dead Sea Scrolls. Hundreds of manuscripts made up of thousands of fragments - discovered from 1947 and until the early 1960’s in the Judean Desert along the western shore of the Dead Sea - are now available to the public online. The high resolution images are extremely detailed and can be accessed through various search options on the site. With the generous lead support of the Leon Levy Foundation and additional generous support of the Arcadia Fund, the Israel Antiquities Authority and Google joined forces to develop the most advanced imaging and web technologies to bring to the web hundreds of Dead Sea Scrolls images as well as specially developed supporting resources in a user-friendly platform intended for the public, students and scholars alike. The launch of the Leon Levy Dead Sea Scrolls Digital Library comes some 11 years after the completion of the publication of the Dead Sea Scrolls, initiated and sponsored by the IAA, and 65 years after the first scrolls were unearthed in the Caves of Qumran. This digital library is another example of the IAA's vision and mission, to make these ancient texts freely available and accessible to people around the world. The Leon Levy Dead Sea Scrolls Digital Library represents a new milestone in the annals of the story of one of the greatest manuscript finds of all times.", 
     "domain": "www.deadseascrolls.org.il", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6416918775751211238", 
             "resource_date": "2014-02-04T16:38:43.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:03.544496"
+            "when": "2015-10-27T18:44:41.191972"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/the-leon-levy-dead-sea-scrolls-digital.html", 
             "resource_date": "2014-02-04T16:38:43.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:03.544520"
+            "when": "2015-10-27T18:44:41.191989"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6416918775751211238", 
             "resource_date": "2014-02-04T16:38:43.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:03.549896"
+            "when": "2015-10-27T18:44:41.197632"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/the-leon-levy-dead-sea-scrolls-digital.html", 
             "resource_date": "2014-02-04T16:38:43.862-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:03.549908"
+            "when": "2015-10-27T18:44:41.197646"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:03.575376"
+            "when": "2015-10-27T18:44:41.223187"
         }
     ], 
     "publishers": [], 

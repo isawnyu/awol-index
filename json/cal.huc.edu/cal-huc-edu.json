@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1919890343969498771", 
             "resource_date": "2013-02-16T16:26:57.193-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.606080"
+            "when": "2015-10-27T18:38:11.706288"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/news-from-comprehensive-aramaic-lexicon.html", 
             "resource_date": "2013-02-16T16:26:57.193-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.606095"
+            "when": "2015-10-27T18:38:11.706303"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1919890343969498771", 
             "resource_date": "2013-02-16T16:26:57.193-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.607995"
+            "when": "2015-10-27T18:38:11.708726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/news-from-comprehensive-aramaic-lexicon.html", 
             "resource_date": "2013-02-16T16:26:57.193-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.608006"
+            "when": "2015-10-27T18:38:11.708742"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:05.609899"
+            "when": "2015-10-27T18:38:11.710669"
         }, 
         {
             "fields": [
@@ -176,13 +176,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8337022270172200518", 
             "resource_date": "2013-02-16T16:25:52.195-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:21.524303"
+            "when": "2015-10-27T18:47:09.720232"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-aramaic-texts-bibliography.html", 
             "resource_date": "2013-02-16T16:25:52.195-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:21.524319"
+            "when": "2015-10-27T18:47:09.720248"
         }, 
         {
             "fields": [
@@ -197,7 +197,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:21.554498"
+            "when": "2015-10-27T18:47:09.748720"
         }, 
         {
             "fields": [
@@ -238,13 +238,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8337022270172200518", 
             "resource_date": "2013-02-16T16:25:52.195-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:21.527595"
+            "when": "2015-10-27T18:47:09.723790"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-aramaic-texts-bibliography.html", 
             "resource_date": "2013-02-16T16:25:52.195-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:21.527607"
+            "when": "2015-10-27T18:47:09.723802"
         }, 
         {
             "fields": [
@@ -258,7 +258,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:21.556724"
+            "when": "2015-10-27T18:47:09.751329"
         }
     ], 
     "publishers": [], 

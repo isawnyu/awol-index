@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Renger, A. and I\u00dfler, R. (Hrsgg. ): Europa - Stier und Sternenkranz. Von der Union mit Zeus zum Staatenverbund. Bonn 2009, pp. 145-164. M\u00f6llendorff, Peter von (2009).", 
+    "description": "In: Renger, A. and Ißler, R. (Hrsgg. ): Europa - Stier und Sternenkranz. Von der Union mit Zeus zum Staatenverbund. Bonn 2009, pp. 145-164. Möllendorff, Peter von (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.234893"
+            "when": "2015-10-27T18:48:50.009319"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.234907"
+            "when": "2015-10-27T18:48:50.009334"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bild-St\u00f6rung. Das Gem\u00e4lde von Europas Entf\u00fchrung in Achilleus Tatios' Roman Leukippe und Kleitophon", 
+    "title": "Bild-Störung. Das Gemälde von Europas Entführung in Achilleus Tatios' Roman Leukippe und Kleitophon", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

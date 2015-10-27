@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 5 June 2009. Updated 5 May 2014]. Estudios cl\u00e1sicos. ISSN 0014-1453. Estudios Cl\u00e1sicos (ECl\u00e1s), con ISSN 0014-1453, es una revista de periodicidad semestral, fundada en 1950 y \u00f3rgano de difusi\u00f3n de la Sociedad Espa\u00f1ola de Estudios Cl\u00e1sicos. Consta de tres secciones: Art\u00edculos, Rese\u00f1as y Actividades de la Sociedad Espa\u00f1ola de Estudios Cl\u00e1sicos. La revista recibe contribuciones relacionadas con el mundo grecolatino y su pervivencia, que se pueden inscribir dentro de los apartados tem\u00e1ticos de Cultura Cl\u00e1sica, Actualizaci\u00f3n cient\u00edfica y bibliogr\u00e1fica y Did\u00e1ctica de las lenguas cl\u00e1sicas. Adem\u00e1s de estas secciones, la revista ha creado la secci\u00f3n Investigador invitado, destinada a la publicaci\u00f3n de un art\u00edculo traducido al castellano de un investigador extranjero que ofrezca nuevas aproximaciones o aspectos relevantes sobre temas de inter\u00e9s de la SEEC.", 
+    "description": "[First posted in AWOL 5 June 2009. Updated 5 May 2014]. Estudios clásicos. ISSN 0014-1453. Estudios Clásicos (EClás), con ISSN 0014-1453, es una revista de periodicidad semestral, fundada en 1950 y órgano de difusión de la Sociedad Española de Estudios Clásicos. Consta de tres secciones: Artículos, Reseñas y Actividades de la Sociedad Española de Estudios Clásicos. La revista recibe contribuciones relacionadas con el mundo grecolatino y su pervivencia, que se pueden inscribir dentro de los apartados temáticos de Cultura Clásica, Actualización científica y bibliográfica y Didáctica de las lenguas clásicas. Además de estas secciones, la revista ha creado la sección Investigador invitado, destinada a la publicación de un artículo traducido al castellano de un investigador extranjero que ofrezca nuevas aproximaciones o aspectos relevantes sobre temas de interés de la SEEC.", 
     "domain": "www.estudiosclasicos.org", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4345795415082768106", 
             "resource_date": "2014-05-05T11:51:22.028-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.573315"
+            "when": "2015-10-27T18:41:50.980010"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-estudios-clasicos.html", 
             "resource_date": "2014-05-05T11:51:22.028-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.573332"
+            "when": "2015-10-27T18:41:50.980025"
         }
     ], 
     "publishers": [], 
@@ -89,7 +89,7 @@
             "url": "http://www.estudiosclasicos.org/publicaciones-general/publicaciones-periodicas/estudios-clasicos/#"
         }
     ], 
-    "title": "Estudios cl\u00e1sicos", 
+    "title": "Estudios clásicos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

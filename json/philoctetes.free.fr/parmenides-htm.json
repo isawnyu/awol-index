@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "PHILOCTETES - \u03a6\u0399\u039b\u039f\u039a\u03a4\u0397\u03a4\u0397\u03a3", 
+        "title_full": "PHILOCTETES - ΦΙΛΟΚΤΗΤΗΣ", 
         "url": "http://philoctetes.free.fr/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3522937478250055218", 
             "resource_date": "2014-03-24T06:33:32.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.550175"
+            "when": "2015-10-27T18:40:44.563364"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/philoctetes.html", 
             "resource_date": "2014-03-24T06:33:32.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.550188"
+            "when": "2015-10-27T18:40:44.563376"
         }
     ], 
     "publishers": [], 

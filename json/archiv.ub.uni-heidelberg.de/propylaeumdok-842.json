@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Nouvelles Assyriologiques Br\u00e8ves et Utilitaires, (1990), pp. 37-38. Volk, Konrad (1999).", 
+    "description": "In: Nouvelles Assyriologiques Brèves et Utilitaires, (1990), pp. 37-38. Volk, Konrad (1999).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.542934"
+            "when": "2015-10-27T18:46:26.352196"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.542950"
+            "when": "2015-10-27T18:46:26.352212"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zur Lesung von teme (NAGA-inversum) und t\u00e9me (NAGA)", 
+    "title": "Zur Lesung von teme (NAGA-inversum) und téme (NAGA)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

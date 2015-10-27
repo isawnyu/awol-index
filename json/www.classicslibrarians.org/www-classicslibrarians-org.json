@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 19 November 2013, updated 5 February 2015]. Forum for Classics, Libraries, and Scholarly Communication. An Affiliated Group of the American Philological Association. The Forum for Classics, Libraries, and Scholarly Communication (FCLSC) - also known as the Classics Librarians\u2019 Forum - brings together librarians and scholars interested in classics studies, in order to promote timely exchange of information and ideas. Members also collaborate on projects of mutual concern. The impetus for the forum grew out of meetings at Princeton University and the Center for Hellenic Studies in 2004. As an officially affiliated group of the American Philological Association since 2005, the Forum aims to support initiatives of the APA relating to libraries and scholarly communication. The officers of the Forum are Colin McCaffrey (Yale University), chair, and Lanah Koelle (Center for Hellenic Studies), secretary. Their term lasts two years from January 2015 to January 2017. Past chairs have been Gerald Heverly (New York University), Rebecka Lindau (American Academy at Rome), Catherine Mardikes (University of Chicago), Lucie Stylianopoulos (University of Virginia), and David Sullivan (University of Notre Dame). List of Members | Bylaws.", 
+    "description": "[First posted in AWOL 19 November 2013, updated 5 February 2015]. Forum for Classics, Libraries, and Scholarly Communication. An Affiliated Group of the American Philological Association. The Forum for Classics, Libraries, and Scholarly Communication (FCLSC) - also known as the Classics Librarians’ Forum - brings together librarians and scholars interested in classics studies, in order to promote timely exchange of information and ideas. Members also collaborate on projects of mutual concern. The impetus for the forum grew out of meetings at Princeton University and the Center for Hellenic Studies in 2004. As an officially affiliated group of the American Philological Association since 2005, the Forum aims to support initiatives of the APA relating to libraries and scholarly communication. The officers of the Forum are Colin McCaffrey (Yale University), chair, and Lanah Koelle (Center for Hellenic Studies), secretary. Their term lasts two years from January 2015 to January 2017. Past chairs have been Gerald Heverly (New York University), Rebecka Lindau (American Academy at Rome), Catherine Mardikes (University of Chicago), Lucie Stylianopoulos (University of Virginia), and David Sullivan (University of Notre Dame). List of Members | Bylaws.", 
     "domain": "www.classicslibrarians.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1783698153693323543", 
             "resource_date": "2015-02-05T13:01:40.410-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.416571"
+            "when": "2015-10-27T18:38:03.320996"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html", 
             "resource_date": "2015-02-05T13:01:40.410-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.416587"
+            "when": "2015-10-27T18:38:03.321013"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1783698153693323543", 
             "resource_date": "2015-02-05T13:01:40.410-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.420900"
+            "when": "2015-10-27T18:38:03.325706"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/forum-for-classics-libraries-and.html", 
             "resource_date": "2015-02-05T13:01:40.410-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.420913"
+            "when": "2015-10-27T18:38:03.325720"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:58.438610"
+            "when": "2015-10-27T18:38:03.344752"
         }
     ], 
     "publishers": [], 

@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1697581904695761075", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:54.731043"
+            "when": "2015-10-27T18:37:59.000052"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/just-announced-getty-publications.html", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:54.731060"
+            "when": "2015-10-27T18:37:59.000071"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1697581904695761075", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:54.736729"
+            "when": "2015-10-27T18:37:59.011520"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/just-announced-getty-publications.html", 
             "resource_date": "2014-01-21T14:33:21.633-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:54.736743"
+            "when": "2015-10-27T18:37:59.011539"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:54.874241"
+            "when": "2015-10-27T18:37:59.278759"
         }
     ], 
     "publishers": [], 
@@ -174,7 +174,7 @@
             "url": "http://www.getty.edu/publications/virtuallibrary/089236078X.html?subject=antq"
         }, 
         {
-            "title_full": "Athenian Vase Construction: A Potter\u2019s Analysis", 
+            "title_full": "Athenian Vase Construction: A Potter’s Analysis", 
             "url": "http://www.getty.edu/publications/virtuallibrary/0892364653.html?subject=antq"
         }, 
         {
@@ -370,7 +370,7 @@
             "url": "http://www.getty.edu/publications/virtuallibrary/0892360003.html?subject=antq&pg=3&res=20"
         }, 
         {
-            "title_full": "Pass\u00e9, pr\u00e9sent et futur des palais et sites royaux d\u2019Abomey", 
+            "title_full": "Passé, présent et futur des palais et sites royaux d’Abomey", 
             "url": "http://www.getty.edu/publications/virtuallibrary/9781606064184.html?subject=antq&pg=3&res=20"
         }, 
         {

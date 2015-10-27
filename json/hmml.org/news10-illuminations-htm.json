@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5498935670404021879", 
             "resource_date": "2015-04-05T09:24:23.463-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.297860"
+            "when": "2015-10-27T18:43:36.335505"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-illuminations.html", 
             "resource_date": "2015-04-05T09:24:23.463-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.297888"
+            "when": "2015-10-27T18:43:36.335521"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5498935670404021879", 
             "resource_date": "2015-04-05T09:24:23.463-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.336385"
+            "when": "2015-10-27T18:43:36.372965"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-illuminations.html", 
             "resource_date": "2015-04-05T09:24:23.463-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.336402"
+            "when": "2015-10-27T18:43:36.372979"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:04.337871"
+            "when": "2015-10-27T18:43:36.377273"
         }
     ], 
     "publishers": [], 

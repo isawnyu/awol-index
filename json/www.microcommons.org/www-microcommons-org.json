@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8800392761884240209", 
             "resource_date": "2012-06-07T17:50:58.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:52.264219"
+            "when": "2015-10-27T18:48:47.643258"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/microcommons-community-of-scholars-and.html", 
             "resource_date": "2012-06-07T17:50:58.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:52.264235"
+            "when": "2015-10-27T18:48:47.643281"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8800392761884240209", 
             "resource_date": "2012-06-07T17:50:58.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:52.266946"
+            "when": "2015-10-27T18:48:47.647383"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/microcommons-community-of-scholars-and.html", 
             "resource_date": "2012-06-07T17:50:58.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:52.266958"
+            "when": "2015-10-27T18:48:47.647399"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:52.275698"
+            "when": "2015-10-27T18:48:47.657637"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Kl\u00e9os", 
+        "title_full": "Kléos", 
         "url": "http://www.pragma.kit.net/kleos.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9194323707020775896", 
             "resource_date": "2013-02-28T19:06:52.512-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:23.024059"
+            "when": "2015-10-27T18:49:21.683597"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-kleos.html", 
             "resource_date": "2013-02-28T19:06:52.512-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:23.024073"
+            "when": "2015-10-27T18:49:21.683610"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "V.4 \u2022 N.4 (2000)", 
+    "title": "V.4 • N.4 (2000)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4583443850829285098", 
             "resource_date": "2015-05-17T08:15:01.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:39.732867"
+            "when": "2015-10-27T18:42:06.311326"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-studia.html", 
             "resource_date": "2015-05-17T08:15:01.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:39.732885"
+            "when": "2015-10-27T18:42:06.311343"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4583443850829285098", 
             "resource_date": "2015-05-17T08:15:01.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:39.735471"
+            "when": "2015-10-27T18:42:06.313819"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-studia.html", 
             "resource_date": "2015-05-17T08:15:01.861-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:39.735487"
+            "when": "2015-10-27T18:42:06.313832"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:39.829771"
+            "when": "2015-10-27T18:42:06.396771"
         }
     ], 
     "publishers": [], 
@@ -195,7 +195,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/2976"
         }, 
         {
-            "title_full": "Memar Mar\u1e33ah", 
+            "title_full": "Memar Marḳah", 
             "url": "http://dlib.nyu.edu/ancientworld/subjects/485"
         }, 
         {
@@ -203,7 +203,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/486"
         }, 
         {
-            "title_full": "J\u00fcrgen-Christian Lebram 1920", 
+            "title_full": "Jürgen-Christian Lebram 1920", 
             "url": "http://dlib.nyu.edu/ancientworld/subjects/2973"
         }, 
         {

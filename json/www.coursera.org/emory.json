@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1430699091964401385", 
             "resource_date": "2014-02-24T09:34:20.724-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.752582"
+            "when": "2015-10-27T18:37:34.378737"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/mooc-art-and-archaeology-of-ancient.html", 
             "resource_date": "2014-02-24T09:34:20.724-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.752602"
+            "when": "2015-10-27T18:37:34.378749"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8072578780794122956", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:11.541138"
+            "when": "2015-10-27T18:46:59.003555"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-mooc-bibles-prehistory-purpose-and.html", 
             "resource_date": "2014-02-24T09:31:26.908-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:11.541153"
+            "when": "2015-10-27T18:46:59.003566"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:11.544423"
+            "when": "2015-10-27T18:46:59.007913"
         }
     ], 
     "publishers": [], 

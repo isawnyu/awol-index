@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Studien zur Alt\u00e4gyptischen Kultur, 2 (1975), pp. 1-14. Altenm\u00fcller, Hartwig (1975).", 
+    "description": "In: Studien zur Altägyptischen Kultur, 2 (1975), pp. 1-14. Altenmüller, Hartwig (1975).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:47.666128"
+            "when": "2015-10-27T18:39:59.079831"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:47.666144"
+            "when": "2015-10-27T18:39:59.079849"
         }
     ], 
     "publishers": [], 

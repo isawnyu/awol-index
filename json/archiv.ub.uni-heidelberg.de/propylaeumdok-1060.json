@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Nouvelles assyriologiques br\u00e8ves et utilitaires, (1990), pp. 51-52. Maul, Stefan (1998).", 
+    "description": "In: Nouvelles assyriologiques brèves et utilitaires, (1990), pp. 51-52. Maul, Stefan (1998).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.453727"
+            "when": "2015-10-27T18:46:21.199437"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.453742"
+            "when": "2015-10-27T18:46:21.199452"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Anmerkungen zu der 1. Tafel der Serie \u2018sag.ba sag.ba\u2019", 
+    "title": "Anmerkungen zu der 1. Tafel der Serie ‘sag.ba sag.ba’", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

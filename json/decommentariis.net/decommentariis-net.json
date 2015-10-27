@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "de commentariis \u03b1 (on commentaries). Welcome to De Commentariis, crowd-sourcing commentaries - alpha edition. This (prototype) site is all about commentaries on ancient texts. Here you can construct your own commentaries on ancient texts, and view commentaries others have made.", 
+    "description": "de commentariis α (on commentaries). Welcome to De Commentariis, crowd-sourcing commentaries - alpha edition. This (prototype) site is all about commentaries on ancient texts. Here you can construct your own commentaries on ancient texts, and view commentaries others have made.", 
     "domain": "decommentariis.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "de commentariis \u03b1 (on commentaries)", 
+        "title_full": "de commentariis α (on commentaries)", 
         "url": "http://decommentariis.net/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8275064636437266277", 
             "resource_date": "2014-03-03T18:08:17.890-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.480336"
+            "when": "2015-10-27T18:47:07.530704"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/de-commentariis-on-commentaries.html", 
             "resource_date": "2014-03-03T18:08:17.890-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.480353"
+            "when": "2015-10-27T18:47:07.530720"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8275064636437266277", 
             "resource_date": "2014-03-03T18:08:17.890-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.482362"
+            "when": "2015-10-27T18:47:07.532950"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/de-commentariis-on-commentaries.html", 
             "resource_date": "2014-03-03T18:08:17.890-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.482374"
+            "when": "2015-10-27T18:47:07.532962"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:19.483796"
+            "when": "2015-10-27T18:47:07.535016"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "de commentariis \u03b1 (on commentaries)", 
+            "title_full": "de commentariis α (on commentaries)", 
             "url": "http://decommentariis.net/"
         }
     ], 
-    "title": "de commentariis \u03b1 (on commentaries)", 
+    "title": "de commentariis α (on commentaries)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

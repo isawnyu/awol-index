@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Musisque Deoque: Un archivio digitale di poesia latina. Il progetto di ricerca \"Musisque Deoque. Un archivio digitale di poesia latina, dalle origini al Rinascimento italiano\", \u00e8 partito alla fine del 2005 con lo scopo di creare un unico database della poesia latina, integrato e aggiornato da apparati critici ed esegetici elettronici. Obiettivo dell\u2019edizione critica tradizionale (o \"lachmanniana\", nella terminologia dei filologi classici) \u00e8 quello di risalire all\u2019archetipo con la recensio, poi eventualmente superarlo con l\u2019emendatio, sino a ricostruire quanto stava pi\u00f9 vicino al perduto originale. La forma di pubblicazione \u00e8 ormai da secoli il libro a stampa, contenitore di un testo rigido, immutabile, stabilito definitivamente dall\u2019editore. Questo faticoso e prezioso lavoro ha offerto, e tuttora offre, risultati di grande efficacia negli studi filologici: ma trova il suo limite nel fatto stesso di cristallizzare una tradizione che \u00e8 intrinsecamente dinamica. The \"Musisque Deoque. A digital archive of Latin poetry, from its origins to the Italian Renaissance\" Research Project, was established at the end of 2005. It aims to create a singular Latin poetry\u2019s database, supplemented and updated with critical apparatus and exegetical equipments. Objective of the traditional critical edition (or \"Lachmannian\" according to the classical philological terminology) is to revisit the archetype with the recensio, and then eventually improve it with emendatio, until the reconstruction closest to the lost original is reached. For centuries, printed book has been the publication form, containing rigid, immutable texts that are definitively determined by editors. This tiring and precious work has since offered, and still does, great incisive results in philological studies. However its limitation lies in the fact that a tradition that is intrinsically dynamic has been immobilized. ricerca- semplice- avanzata indice- alfabetico- cronologico metrica- metri- opere epigraphica collaboratori.", 
+    "description": "Musisque Deoque: Un archivio digitale di poesia latina. Il progetto di ricerca \"Musisque Deoque. Un archivio digitale di poesia latina, dalle origini al Rinascimento italiano\", è partito alla fine del 2005 con lo scopo di creare un unico database della poesia latina, integrato e aggiornato da apparati critici ed esegetici elettronici. Obiettivo dell’edizione critica tradizionale (o \"lachmanniana\", nella terminologia dei filologi classici) è quello di risalire all’archetipo con la recensio, poi eventualmente superarlo con l’emendatio, sino a ricostruire quanto stava più vicino al perduto originale. La forma di pubblicazione è ormai da secoli il libro a stampa, contenitore di un testo rigido, immutabile, stabilito definitivamente dall’editore. Questo faticoso e prezioso lavoro ha offerto, e tuttora offre, risultati di grande efficacia negli studi filologici: ma trova il suo limite nel fatto stesso di cristallizzare una tradizione che è intrinsecamente dinamica. The \"Musisque Deoque. A digital archive of Latin poetry, from its origins to the Italian Renaissance\" Research Project, was established at the end of 2005. It aims to create a singular Latin poetry’s database, supplemented and updated with critical apparatus and exegetical equipments. Objective of the traditional critical edition (or \"Lachmannian\" according to the classical philological terminology) is to revisit the archetype with the recensio, and then eventually improve it with emendatio, until the reconstruction closest to the lost original is reached. For centuries, printed book has been the publication form, containing rigid, immutable texts that are definitively determined by editors. This tiring and precious work has since offered, and still does, great incisive results in philological studies. However its limitation lies in the fact that a tradition that is intrinsically dynamic has been immobilized. ricerca- semplice- avanzata indice- alfabetico- cronologico metrica- metri- opere epigraphica collaboratori.", 
     "domain": "www.mqdq.it", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5472413002530378406", 
             "resource_date": "2012-04-02T09:39:26.540-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.248031"
+            "when": "2015-10-27T18:43:35.170905"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/musisque-deoque-un-archivio-digitale-di.html", 
             "resource_date": "2012-04-02T09:39:26.540-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.248047"
+            "when": "2015-10-27T18:43:35.170920"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5472413002530378406", 
             "resource_date": "2012-04-02T09:39:26.540-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.249836"
+            "when": "2015-10-27T18:43:35.173188"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/musisque-deoque-un-archivio-digitale-di.html", 
             "resource_date": "2012-04-02T09:39:26.540-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.249849"
+            "when": "2015-10-27T18:43:35.173201"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.265339"
+            "when": "2015-10-27T18:43:35.198114"
         }
     ], 
     "publishers": [], 

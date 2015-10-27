@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft", 
+        "title_full": "Zeitschrift der Deutschen Morgenländischen Gesellschaft", 
         "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/titleinfo/2327"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5246021440721746858", 
             "resource_date": "2013-08-16T16:18:52.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:48.757560"
+            "when": "2015-10-27T18:43:19.780937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/04/pen-access-to-journals-of-deutsche.html", 
             "resource_date": "2013-08-16T16:18:52.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:48.757572"
+            "when": "2015-10-27T18:43:19.780954"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7410404734433565154", 
             "resource_date": "2013-08-16T18:21:49.133-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:03.231290"
+            "when": "2015-10-27T18:45:46.773314"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-zdmg-supplement.html", 
             "resource_date": "2013-08-16T18:21:49.133-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:03.231318"
+            "when": "2015-10-27T18:45:46.773324"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:03.256412"
+            "when": "2015-10-27T18:45:46.797214"
         }
     ], 
     "publishers": [], 

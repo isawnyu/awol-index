@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2257455925346159049", 
             "resource_date": "2014-03-02T20:08:42.910-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:27.924508"
+            "when": "2015-10-27T18:38:36.300374"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/ancient-ports-ports-antiques.html", 
             "resource_date": "2014-03-02T20:08:42.910-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:27.924528"
+            "when": "2015-10-27T18:38:36.300390"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2257455925346159049", 
             "resource_date": "2014-03-02T20:08:42.910-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:27.927541"
+            "when": "2015-10-27T18:38:36.301861"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/ancient-ports-ports-antiques.html", 
             "resource_date": "2014-03-02T20:08:42.910-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:27.927555"
+            "when": "2015-10-27T18:38:36.301871"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:28.038756"
+            "when": "2015-10-27T18:38:36.397991"
         }
     ], 
     "publishers": [], 
@@ -364,7 +364,7 @@
             "url": "http://www.ancientportsantiques.com/contact/contributors-to-this-catalogue/"
         }, 
         {
-            "title_full": "Author Maritime Hydraulics Caric\u2019Arthur", 
+            "title_full": "Author Maritime Hydraulics Caric’Arthur", 
             "url": "http://www.ancientportsantiques.com/contact/author/"
         }, 
         {
@@ -372,7 +372,7 @@
             "url": "http://www.ancientportsantiques.com/contact/author/maritime-hydraulics/"
         }, 
         {
-            "title_full": "Caric\u2019Arthur", 
+            "title_full": "Caric’Arthur", 
             "url": "http://www.ancientportsantiques.com/contact/author/caricarthur/"
         }
     ], 

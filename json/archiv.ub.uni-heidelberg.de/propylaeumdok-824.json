@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wenning, Robert and Weber, Th. (Hrsgg. ): Petra. Antike Felsstadt zwischen arabischer Tradition und griechischer Norm. Sonderheft der Antiken Welt. Zaberns Bildb\u00e4nde zur Arch\u00e4ologie. Mainz 1997, pp. 105-110. Wenning, Robert and Merklein, Helmut (1998).", 
+    "description": "In: Wenning, Robert and Weber, Th. (Hrsgg. ): Petra. Antike Felsstadt zwischen arabischer Tradition und griechischer Norm. Sonderheft der Antiken Welt. Zaberns Bildbände zur Archäologie. Mainz 1997, pp. 105-110. Wenning, Robert and Merklein, Helmut (1998).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.054779"
+            "when": "2015-10-27T18:46:26.861626"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.054796"
+            "when": "2015-10-27T18:46:26.861641"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.773991"
+            "when": "2015-10-27T18:46:46.981610"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.774009"
+            "when": "2015-10-27T18:46:46.981624"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:00.380632"
+            "when": "2015-10-27T18:46:47.277797"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die G\u00f6tter in der Welt der Nabat\u00e4er", 
+    "title": "Die Götter in der Welt der Nabatäer", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

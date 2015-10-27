@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "humanit\u00e9s num\u00e9riques / digital humanities.", 
+    "description": "humanités numériques / digital humanities.", 
     "domain": "eer.hypotheses.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c9pigraphie en r\u00e9seau", 
+        "title_full": "Épigraphie en réseau", 
         "url": "http://eer.hypotheses.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3682279948344177977", 
             "resource_date": "2013-08-03T07:45:06.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.878188"
+            "when": "2015-10-27T18:40:56.783632"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-open-accesss-journal-epigraphie-en.html", 
             "resource_date": "2013-08-03T07:45:06.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.878199"
+            "when": "2015-10-27T18:40:56.783642"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5451221756800934891", 
             "resource_date": "2011-10-31T12:19:13.044-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:00.358347"
+            "when": "2015-10-27T18:43:32.242821"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-iris-online.html", 
             "resource_date": "2011-10-31T12:19:13.044-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:00.358364"
+            "when": "2015-10-27T18:43:32.242840"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5451221756800934891", 
             "resource_date": "2011-10-31T12:19:13.044-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:00.397159"
+            "when": "2015-10-27T18:43:32.283165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-iris-online.html", 
             "resource_date": "2011-10-31T12:19:13.044-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:00.397177"
+            "when": "2015-10-27T18:43:32.283186"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:00.456884"
+            "when": "2015-10-27T18:43:32.342693"
         }
     ], 
     "publishers": [], 

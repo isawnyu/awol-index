@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "SIAC Newsletter (Soci\u00e9t\u00e9 Internationale des Amis de Cic\u00e9ron). The Soci\u00e9t\u00e9 Internationale des Amis de Cic\u00e9ron (SIAC, International Society of Cicero\u2019s Friends), founded in 2008 by a team of scholars, professors, and amateurs, is a learned society for the study of ancient Roman thought. The main purpose is to embrace philosophy, literature, history, civilization and legacy, with a special but no exclusive focus on Cicero. While the majority of its members are scholars and Classics teachers, members also include scholars in other disciplines, individual searchers and interested lay people. Official Website.", 
+    "description": "SIAC Newsletter (Société Internationale des Amis de Cicéron). The Société Internationale des Amis de Cicéron (SIAC, International Society of Cicero’s Friends), founded in 2008 by a team of scholars, professors, and amateurs, is a learned society for the study of ancient Roman thought. The main purpose is to embrace philosophy, literature, history, civilization and legacy, with a special but no exclusive focus on Cicero. While the majority of its members are scholars and Classics teachers, members also include scholars in other disciplines, individual searchers and interested lay people. Official Website.", 
     "domain": "tulliananews.wordpress.com", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4971414187627234403", 
             "resource_date": "2013-04-16T05:56:16.292-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.370816"
+            "when": "2015-10-27T18:43:06.414926"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/open-access-journal-siac-newsletter.html", 
             "resource_date": "2013-04-16T05:56:16.292-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.370833"
+            "when": "2015-10-27T18:43:06.414958"
         }
     ], 
     "publishers": [], 
@@ -98,15 +98,15 @@
             "url": "http://tulliananews.wordpress.com/2013/03/01/siac-newsletter-29-52013/"
         }, 
         {
-            "title_full": "Cicero\u2019s Day 2013 (FRA)", 
+            "title_full": "Cicero’s Day 2013 (FRA)", 
             "url": "http://tulliananews.wordpress.com/2013/02/21/ciceros-day-2013-fra/"
         }, 
         {
-            "title_full": "Cicero\u2019s Day 2013 (ITA)", 
+            "title_full": "Cicero’s Day 2013 (ITA)", 
             "url": "http://tulliananews.wordpress.com/2013/02/21/ciceros-day-2013-ita/"
         }, 
         {
-            "title_full": "Cicero\u2019s Day 2013 (ENG)", 
+            "title_full": "Cicero’s Day 2013 (ENG)", 
             "url": "http://tulliananews.wordpress.com/2013/02/21/ciceros-day-2013-eng/"
         }, 
         {
@@ -142,7 +142,7 @@
             "url": "http://tulliananews.wordpress.com/2013/01/01/siac-newsletter-3-12012/"
         }
     ], 
-    "title": "SIAC Newsletter (Soci\u00e9t\u00e9 Internationale des Amis de Cic\u00e9ron)", 
+    "title": "SIAC Newsletter (Société Internationale des Amis de Cicéron)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

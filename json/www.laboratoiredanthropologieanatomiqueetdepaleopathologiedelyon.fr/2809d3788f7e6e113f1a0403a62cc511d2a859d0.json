@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "discriminante du sexe \u00e0 partir de fragments diaphysaires de l'hum\u00e9rus ( Karidas N. K. et Perrot R. ), p. 19 [ texte complet, pdf ].", 
+    "description": "discriminante du sexe à partir de fragments diaphysaires de l'humérus ( Karidas N. K. et Perrot R. ), p. 19 [ texte complet, pdf ].", 
     "domain": "www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:02.577893"
+            "when": "2015-10-27T18:43:34.432747"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:02.577908"
+            "when": "2015-10-27T18:43:34.432759"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "du X\u00e8me si\u00e8cle ( La Roquebrussanne, Var ) (Berato J., Dutour O. et Palfi G.Y. ), p.9 [ texte complet, pdf ]", 
+    "title": "du Xème siècle ( La Roquebrussanne, Var ) (Berato J., Dutour O. et Palfi G.Y. ), p.9 [ texte complet, pdf ]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

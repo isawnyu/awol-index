@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted 17 April 2012, updated (new host) 5 November 2013]. RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigaci\u00f3n 'Nomos'. ISSN 1699-7840. RES PUBLICA LITTERARUM es la revista digital que, en el marco del Instituto de Estudios Cl\u00e1sicos para la Sociedad y la Pol\u00edtica \"Lucio Anneo S\u00e9neca\", publica art\u00edculos, textos y documentos de trabajo sobre Estudios Cl\u00e1sicos y Human\u00edsticos, Derecho Romano, Historia Antigua y temas afines en las \u00e1reas de investigaci\u00f3n del instituto. Asimismo, es un foro para la publicaci\u00f3n de los resultados del trabajo del Grupo de investigaci\u00f3n sobre el pensamiento pol\u00edtico y el derecho antiguos y su recepci\u00f3n 'NOMOS', de sus colaboradores y, en general, de otros estudiosos que env\u00edan sus contribuciones al campo de estudio de ambas instituciones. Los art\u00edculos se publican en forma de documentos de trabajo o working papers, para su discusi\u00f3n y el avance en las investigaciones del grupo de trabajo.", 
+    "description": "[First posted 17 April 2012, updated (new host) 5 November 2013]. RES PUBLICA LITTERARUM: Documentos de Trabajo del grupo de investigación 'Nomos'. ISSN 1699-7840. RES PUBLICA LITTERARUM es la revista digital que, en el marco del Instituto de Estudios Clásicos para la Sociedad y la Política \"Lucio Anneo Séneca\", publica artículos, textos y documentos de trabajo sobre Estudios Clásicos y Humanísticos, Derecho Romano, Historia Antigua y temas afines en las áreas de investigación del instituto. Asimismo, es un foro para la publicación de los resultados del trabajo del Grupo de investigación sobre el pensamiento político y el derecho antiguos y su recepción 'NOMOS', de sus colaboradores y, en general, de otros estudiosos que envían sus contribuciones al campo de estudio de ambas instituciones. Los artículos se publican en forma de documentos de trabajo o working papers, para su discusión y el avance en las investigaciones del grupo de trabajo.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2779907104128032722", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:49.146408"
+            "when": "2015-10-27T18:38:57.626832"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/ope-access-journal-res-publica.html", 
             "resource_date": "2013-11-05T10:20:28.501-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:49.146426"
+            "when": "2015-10-27T18:38:57.626845"
         }
     ], 
     "publishers": [], 

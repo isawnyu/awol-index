@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Ess, M. van and Faist, Betina and Dittmann, R. (Hrsgg. ): \\\" Es ist schon lange her. Das freut uns um so mehr\\\". Vorderasiatische Beitr\u00e4ge f\u00fcr Uwe Finkbeiner, Baghdader Mittelungen 37. 2006, pp. 443-454. Sakal, Ferhan (2007).", 
+    "description": "In: Ess, M. van and Faist, Betina and Dittmann, R. (Hrsgg. ): \\\" Es ist schon lange her. Das freut uns um so mehr\\\". Vorderasiatische Beiträge für Uwe Finkbeiner, Baghdader Mittelungen 37. 2006, pp. 443-454. Sakal, Ferhan (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.141039"
+            "when": "2015-10-27T18:46:25.977704"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.141055"
+            "when": "2015-10-27T18:46:25.977719"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Einige Anmerkungen \u00fcber die Herkunft eines Gef\u00e4\u00dfes aus dem Bestand des British Museum", 
+    "title": "Einige Anmerkungen über die Herkunft eines Gefäßes aus dem Bestand des British Museum", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

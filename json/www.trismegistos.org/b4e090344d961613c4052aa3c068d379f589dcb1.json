@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6836946393838550806", 
             "resource_date": "2015-02-18T07:00:06.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.756713"
+            "when": "2015-10-27T18:45:16.707515"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/new-from-trismegistos.html", 
             "resource_date": "2015-02-18T07:00:06.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.756731"
+            "when": "2015-10-27T18:45:16.707531"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6836946393838550806", 
             "resource_date": "2015-02-18T07:00:06.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.758794"
+            "when": "2015-10-27T18:45:16.709579"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/new-from-trismegistos.html", 
             "resource_date": "2015-02-18T07:00:06.666-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.758806"
+            "when": "2015-10-27T18:45:16.709591"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:35.766749"
+            "when": "2015-10-27T18:45:16.720662"
         }
     ], 
     "publishers": [], 

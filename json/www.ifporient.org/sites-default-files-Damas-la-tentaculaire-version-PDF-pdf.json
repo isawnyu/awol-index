@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "D\u00e9veloppement et politique d\u2019irrigation: analyse d\u2019un am\u00e9nagement hydraulique dans la plaine de la B\u00e9kaa. Pierre Blanc (IAM-CIHEAM).", 
+    "description": "Développement et politique d’irrigation: analyse d’un aménagement hydraulique dans la plaine de la Békaa. Pierre Blanc (IAM-CIHEAM).", 
     "domain": "www.ifporient.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8140875634965002367", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.685952"
+            "when": "2015-10-27T18:47:01.250853"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-villes-et.html", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.685963"
+            "when": "2015-10-27T18:47:01.250873"
         }
     ], 
     "publishers": [], 

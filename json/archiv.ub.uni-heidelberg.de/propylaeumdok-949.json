@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Blum, H. and Faist, Betina and Pf\u00e4lzner, Peter and Wittke, A. -M. (Hrsgg. ): Br\u00fcckenland Anatolien? Ursachen, Extensit\u00e4t und Modi des Kulturaustausches zwischen Anatolien und seinen Nachbarn. T\u00fcbingen 2002, pp. 129-146. Faist, Betina (2001).", 
+    "description": "In: Blum, H. and Faist, Betina and Pfälzner, Peter and Wittke, A. -M. (Hrsgg. ): Brückenland Anatolien? Ursachen, Extensität und Modi des Kulturaustausches zwischen Anatolien und seinen Nachbarn. Tübingen 2002, pp. 129-146. Faist, Betina (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:33.837320"
+            "when": "2015-10-27T18:46:19.510620"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:33.837337"
+            "when": "2015-10-27T18:46:19.510636"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Rechtsordnung in Syrien nach der hethitischen Eroberung: Wandel und Kontinuit\u00e4t", 
+    "title": "Die Rechtsordnung in Syrien nach der hethitischen Eroberung: Wandel und Kontinuität", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

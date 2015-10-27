@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "L\u2019Annuaire du Coll\u00e8ge de France. L\u2019annuaire Cours et travaux du Coll\u00e8ge de France se fait chaque ann\u00e9e le reflet de l'activit\u00e9 scientifique du Coll\u00e8ge. Il contient notamment les r\u00e9sum\u00e9s d\u00e9taill\u00e9s de tous les cours et s\u00e9minaires des professeurs, r\u00e9dig\u00e9s par leurs soins. Les professeurs honoraires y pr\u00e9sentent leurs activit\u00e9s. On y trouve \u00e9galement les comptes rendus des travaux des laboratoires, instituts et \u00e9quipes de recherche li\u00e9s aux diff\u00e9rentes chaires, ainsi que des \u00e9quipes accueillies au Coll\u00e8ge; les r\u00e9sum\u00e9s des conf\u00e9rences donn\u00e9es par des chercheurs et professeurs \u00e9trangers invit\u00e9s; une br\u00e8ve histoire du Coll\u00e8ge de France comprenant la succession des chaires depuis le d\u00e9but du XIXe si\u00e8cle.", 
+    "description": "L’Annuaire du Collège de France. L’annuaire Cours et travaux du Collège de France se fait chaque année le reflet de l'activité scientifique du Collège. Il contient notamment les résumés détaillés de tous les cours et séminaires des professeurs, rédigés par leurs soins. Les professeurs honoraires y présentent leurs activités. On y trouve également les comptes rendus des travaux des laboratoires, instituts et équipes de recherche liés aux différentes chaires, ainsi que des équipes accueillies au Collège; les résumés des conférences données par des chercheurs et professeurs étrangers invités; une brève histoire du Collège de France comprenant la succession des chaires depuis le début du XIXe siècle.", 
     "domain": "annuaire-cdf.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019Annuaire du Coll\u00e8ge de France", 
+        "title_full": "L’Annuaire du Collège de France", 
         "url": "http://annuaire-cdf.revues.org/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8700977213346900876", 
             "resource_date": "2010-08-04T09:24:54.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:48.263230"
+            "when": "2015-10-27T18:48:43.534115"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/new-open-access-journal-lannuaire-du.html", 
             "resource_date": "2010-08-04T09:24:54.237-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:48.263245"
+            "when": "2015-10-27T18:48:43.534130"
         }
     ], 
     "publishers": [], 

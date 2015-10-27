@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Syntaktika: Bulletin d'information sur la recherche en syntaxe et en s\u00e9mantique du grec ancien. ISSN: 1148-2656.", 
+    "description": "Syntaktika: Bulletin d'information sur la recherche en syntaxe et en sémantique du grec ancien. ISSN: 1148-2656.", 
     "domain": "syntaktika.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-205972811682971533", 
             "resource_date": "2014-02-13T06:38:50.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.852006"
+            "when": "2015-10-27T18:38:18.876313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/newly-open-access-journal-syntaktika.html", 
             "resource_date": "2014-02-13T06:38:50.154-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.852026"
+            "when": "2015-10-27T18:38:18.876329"
         }
     ], 
     "publishers": [], 
@@ -86,7 +86,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "45 | 2013 . R\u00e9flexions sur l'expression de l'agent en grec et en latin", 
+            "title_full": "45 | 2013 . Réflexions sur l'expression de l'agent en grec et en latin", 
             "url": "http://syntaktika.revues.org/163"
         }, 
         {
@@ -94,7 +94,7 @@
             "url": "http://syntaktika.revues.org/150"
         }, 
         {
-            "title_full": "43 | 2012 . La d\u00e9lib\u00e9ration et le subjonctif d\u00e9lib\u00e9ratif dans la prose grecque classique", 
+            "title_full": "43 | 2012 . La délibération et le subjonctif délibératif dans la prose grecque classique", 
             "url": "http://syntaktika.revues.org/89"
         }, 
         {
@@ -102,15 +102,15 @@
             "url": "http://syntaktika.revues.org/80"
         }, 
         {
-            "title_full": "41 | 2011 . Consid\u00e9rations lexicales et grammaticales sur quelques fragments de Parm\u00e9dide", 
+            "title_full": "41 | 2011 . Considérations lexicales et grammaticales sur quelques fragments de Parmédide", 
             "url": "http://syntaktika.revues.org/76"
         }, 
         {
-            "title_full": "40 | 2011 . Les subordonn\u00e9es hom\u00e9riques en \u03b1\u1f34 \u03ba\u03b5 etc. + subjonctif", 
+            "title_full": "40 | 2011 . Les subordonnées homériques en αἴ κε etc. + subjonctif", 
             "url": "http://syntaktika.revues.org/75"
         }
     ], 
-    "title": "Syntaktika: Bulletin d'information sur la recherche en syntaxe et en s\u00e9mantique du grec ancien", 
+    "title": "Syntaktika: Bulletin d'information sur la recherche en syntaxe et en sémantique du grec ancien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

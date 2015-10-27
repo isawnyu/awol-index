@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wege \u00f6ffnen, Festschrift f\u00fcr Rolf Gundlach. Wiesbaden 1996, pp. 23-29 (\u00c4gypten und Altes Testament; 35). Burkard, G\u00fcnter (1990).", 
+    "description": "In: Wege öffnen, Festschrift für Rolf Gundlach. Wiesbaden 1996, pp. 23-29 (Ägypten und Altes Testament; 35). Burkard, Günter (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:50.912522"
+            "when": "2015-10-27T18:40:02.334357"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:50.912538"
+            "when": "2015-10-27T18:40:02.334372"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Der in der W\u00fcste tanzt", 
+    "title": "Der in der Wüste tanzt", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

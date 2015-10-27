@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.638558"
+            "when": "2015-10-27T18:40:34.298895"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.638575"
+            "when": "2015-10-27T18:40:34.298912"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.640312"
+            "when": "2015-10-27T18:40:34.301411"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.640324"
+            "when": "2015-10-27T18:40:34.301424"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.726069"
+            "when": "2015-10-27T18:40:34.394656"
         }
     ], 
     "publishers": [], 
@@ -166,7 +166,7 @@
             "url": "http://www.trismegistos.org/geo/index.php"
         }, 
         {
-            "title_full": "Finally, because abbreviations are often different in the various disciplines, we have also started creating a Bibliography which resolves many of the short references we use in Trismegistos. The other way round it also wants to facilitate the search for all texts in a specific publication. Its coverage is patchy except for the publications dealing with Demotic and Abnormal Hieratic, where the Demotistische Literatur\u00fcbersicht provides a much higher standard of bibliographic information", 
+            "title_full": "Finally, because abbreviations are often different in the various disciplines, we have also started creating a Bibliography which resolves many of the short references we use in Trismegistos. The other way round it also wants to facilitate the search for all texts in a specific publication. Its coverage is patchy except for the publications dealing with Demotic and Abnormal Hieratic, where the Demotistische Literaturübersicht provides a much higher standard of bibliographic information", 
             "url": "http://www.trismegistos.org/index_bib.php"
         }, 
         {

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIC 10. Medinet Habu Reports - Third Preliminary Report. Part 1. The Epigraphic Survey, 1928-31. By Harold H. Nelson Part 2. The Architectural Survey, 1929/30. By Uvo H\u00f6lscher Originally published in 1931.", 
+    "description": "OIC 10. Medinet Habu Reports - Third Preliminary Report. Part 1. The Epigraphic Survey, 1928-31. By Harold H. Nelson Part 2. The Architectural Survey, 1929/30. By Uvo Hölscher Originally published in 1931.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "OIP 30. Researches in Anatolia 9. The Alishar H\u00fcy\u00fck Seasons of 1930-32, Part 3", 
+        "title_full": "OIP 30. Researches in Anatolia 9. The Alishar Hüyük Seasons of 1930-32, Part 3", 
         "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip30.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7003857881950205621", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.694672"
+            "when": "2015-10-27T18:45:21.010219"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/open-access-monograph-series-oriental.html", 
             "resource_date": "2015-02-02T06:43:36.043-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.694686"
+            "when": "2015-10-27T18:45:21.010231"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8216425582081214820", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:17.194961"
+            "when": "2015-10-27T18:47:05.052920"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_30.html", 
             "resource_date": "2012-12-07T16:36:06.856-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:17.194972"
+            "when": "2015-10-27T18:47:05.052931"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:17.220603"
+            "when": "2015-10-27T18:47:05.080450"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.755238"
+            "when": "2015-10-27T18:47:14.285039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.755252"
+            "when": "2015-10-27T18:47:14.285052"
         }, 
         {
             "fields": [
@@ -190,7 +190,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.819962"
+            "when": "2015-10-27T18:47:14.342232"
         }
     ], 
     "publishers": [], 

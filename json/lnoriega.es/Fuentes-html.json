@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La tradici\u00f3n literaria griega en los ss. III-IV d. C. Gram\u00e1ticos, r\u00e9tores y sofistas como fuentes de la literatura greco-latina. El proyecto La tradici\u00f3n literaria griega en los ss. III-IV d. C. Gram\u00e1ticos, r\u00e9tores y sofistas como fuentes de la literatura greco-latina tiene como objetivo el despojo, an\u00e1lisis y comentario de las citas que aparecen en las obras de los gram\u00e1ticos (autores de gram\u00e1ticas, lexic\u00f3grafos o estudiosos de temas literarios y ling\u00fc\u00edsticos en general), los r\u00e9tores y los denominados \"sofistas\" griegos de la \u00e9poca. A trav\u00e9s de esta p\u00e1gina Web los estudiosos de la Antig\u00fcedad greco-latina interesados en la transmisi\u00f3n de textos fragmentarios de todo tipo o, en general, en la historia de la gram\u00e1tica, la ret\u00f3rica, la erudici\u00f3n o la filolog\u00eda greco-latina, pueden acceder a todos los datos y a lo principal del trabajo que va siendo realizado por los miembros del proyecto.", 
+    "description": "La tradición literaria griega en los ss. III-IV d. C. Gramáticos, rétores y sofistas como fuentes de la literatura greco-latina. El proyecto La tradición literaria griega en los ss. III-IV d. C. Gramáticos, rétores y sofistas como fuentes de la literatura greco-latina tiene como objetivo el despojo, análisis y comentario de las citas que aparecen en las obras de los gramáticos (autores de gramáticas, lexicógrafos o estudiosos de temas literarios y lingüísticos en general), los rétores y los denominados \"sofistas\" griegos de la época. A través de esta página Web los estudiosos de la Antigüedad greco-latina interesados en la transmisión de textos fragmentarios de todo tipo o, en general, en la historia de la gramática, la retórica, la erudición o la filología greco-latina, pueden acceder a todos los datos y a lo principal del trabajo que va siendo realizado por los miembros del proyecto.", 
     "domain": "lnoriega.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "La tradici\u00f3n literaria griega en los ss. III-IV d.C. Gram\u00e1ticos, r\u00e9tores y sofistas como fuentes de la literatura greco-latina", 
+        "title_full": "La tradición literaria griega en los ss. III-IV d.C. Gramáticos, rétores y sofistas como fuentes de la literatura greco-latina", 
         "url": "http://lnoriega.es/Fuentes.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6835009292666444", 
             "resource_date": "2013-12-16T06:31:10.608-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.730045"
+            "when": "2015-10-27T18:45:16.685452"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/la-tradicion-literaria-griega-en-los-ss.html", 
             "resource_date": "2013-12-16T06:31:10.608-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.730062"
+            "when": "2015-10-27T18:45:16.685469"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6835009292666444", 
             "resource_date": "2013-12-16T06:31:10.608-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.734978"
+            "when": "2015-10-27T18:45:16.690074"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/la-tradicion-literaria-griega-en-los-ss.html", 
             "resource_date": "2013-12-16T06:31:10.608-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.734994"
+            "when": "2015-10-27T18:45:16.690089"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:35.741466"
+            "when": "2015-10-27T18:45:16.696057"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "La tradici\u00f3n literaria griega en los ss. III-IV d.C. Gram\u00e1ticos, r\u00e9tores y sofistas como fuentes de la literatura greco-latina", 
+            "title_full": "La tradición literaria griega en los ss. III-IV d.C. Gramáticos, rétores y sofistas como fuentes de la literatura greco-latina", 
             "url": "http://lnoriega.es/Fuentes.html"
         }, 
         {
@@ -158,7 +158,7 @@
             "url": "http://lnoriega.es/AutorescitadosA_C.html"
         }
     ], 
-    "title": "La tradici\u00f3n literaria griega en los ss. III-IV d.C. Gram\u00e1ticos, r\u00e9tores y sofistas como fuentes de la literatura greco-latina", 
+    "title": "La tradición literaria griega en los ss. III-IV d.C. Gramáticos, rétores y sofistas como fuentes de la literatura greco-latina", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

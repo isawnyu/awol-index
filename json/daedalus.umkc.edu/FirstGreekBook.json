@@ -5,7 +5,7 @@
         "University of Missouri-Kansas City)"
     ], 
     "contributors": [], 
-    "description": "A Digital Tutorial For Ancient Greek Based on White's First Greek Book. Created by Jeff Rydberg-Cox (Classical and Ancient Studies Program, University of Missouri-Kansas City). John William White's First Greek Book was originally published in 1896. The book contains a guided curriculum built around the language and vocabulary of Xenophon\u2019s Anabasis. This digital tutorial is an evolving edition that is designed to run on both traditional browsers, tablet devices, and phones. Each lesson includes drill and practice exercises in addition to the text itself. The site also includes tab-delim ited files for all of the vocabulary and grammar that can be imported into flashcard programs. This is a work in progress that is taking shape through the winter of 2012 and spring of 2013. Expect things to change and know that you will find errors as you use this tutorial. For more information about the design of the tutorial, you can read a preprint of an article that will be published the journal Classical World or a presentation from the 2013 meeting of the Digital Classics Association.", 
+    "description": "A Digital Tutorial For Ancient Greek Based on White's First Greek Book. Created by Jeff Rydberg-Cox (Classical and Ancient Studies Program, University of Missouri-Kansas City). John William White's First Greek Book was originally published in 1896. The book contains a guided curriculum built around the language and vocabulary of Xenophon’s Anabasis. This digital tutorial is an evolving edition that is designed to run on both traditional browsers, tablet devices, and phones. Each lesson includes drill and practice exercises in addition to the text itself. The site also includes tab-delim ited files for all of the vocabulary and grammar that can be imported into flashcard programs. This is a work in progress that is taking shape through the winter of 2012 and spring of 2013. Expect things to change and know that you will find errors as you use this tutorial. For more information about the design of the tutorial, you can read a preprint of an article that will be published the journal Classical World or a presentation from the 2013 meeting of the Digital Classics Association.", 
     "domain": "daedalus.umkc.edu", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223957040219465734", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.558163"
+            "when": "2015-10-27T18:40:16.461954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/a-digital-tutorial-for-ancient-greek.html", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.558181"
+            "when": "2015-10-27T18:40:16.461970"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223957040219465734", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.564478"
+            "when": "2015-10-27T18:40:16.467150"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/a-digital-tutorial-for-ancient-greek.html", 
             "resource_date": "2013-05-24T15:01:34.067-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.564499"
+            "when": "2015-10-27T18:40:16.467164"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:04.656230"
+            "when": "2015-10-27T18:40:16.562257"
         }
     ], 
     "publishers": [], 
@@ -178,7 +178,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB3.html"
         }, 
         {
-            "title_full": "4: A-Declension.-Feminines in \u03b7", 
+            "title_full": "4: A-Declension.-Feminines in η", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB4.html"
         }, 
         {
@@ -186,7 +186,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB5.html"
         }, 
         {
-            "title_full": "6: A-Declension-Feminines in \u03b1", 
+            "title_full": "6: A-Declension-Feminines in α", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB6.html"
         }, 
         {
@@ -234,7 +234,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB17.html"
         }, 
         {
-            "title_full": "18: Present and Imperfect Indicative of \u03b5\u1f30\u03bc\u03af, be", 
+            "title_full": "18: Present and Imperfect Indicative of εἰμί, be", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB18.html"
         }, 
         {
@@ -274,11 +274,11 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB27.html"
         }, 
         {
-            "title_full": "28: Contract Verbs in \u03b1\u03c9 in the Indicative", 
+            "title_full": "28: Contract Verbs in αω in the Indicative", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB28.html"
         }, 
         {
-            "title_full": "29: Contract Verbs in \u03b5\u03c9 and \u03bf\u03c9 in the Indicative", 
+            "title_full": "29: Contract Verbs in εω and οω in the Indicative", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB29.html"
         }, 
         {
@@ -318,7 +318,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB38.html"
         }, 
         {
-            "title_full": "39: The Present Optative of \u03b5\u1f30\u03bc\u03af. Optative in Final Clauses. Object Clauses", 
+            "title_full": "39: The Present Optative of εἰμί. Optative in Final Clauses. Object Clauses", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB39.html"
         }, 
         {
@@ -330,7 +330,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB41.html"
         }, 
         {
-            "title_full": "42: Stems in \u03c3 of the Consonant Declension", 
+            "title_full": "42: Stems in σ of the Consonant Declension", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB42.html"
         }, 
         {
@@ -346,7 +346,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB45.html"
         }, 
         {
-            "title_full": "46: Adjective Stems in \u03bd and \u03b5\u03c3 of the Consonant Declension", 
+            "title_full": "46: Adjective Stems in ν and εσ of the Consonant Declension", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB46.html"
         }, 
         {
@@ -366,7 +366,7 @@
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB50.html"
         }, 
         {
-            "title_full": "51: Stems in \u03b9 and \u03c5 of the Consonant Declension", 
+            "title_full": "51: Stems in ι and υ of the Consonant Declension", 
             "url": "http://daedalus.umkc.edu/FirstGreekBook/JWW_FGB51.html"
         }, 
         {

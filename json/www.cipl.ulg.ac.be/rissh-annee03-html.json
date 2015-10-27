@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cette annexe au site du C. I. P. L. a pour but de proposer aux personnes le souhaitant un acc\u00e8s simplifi\u00e9 \u00e0 divers articles et comptes rendus concernant des applications de l'informatique ou de la statistique en sciences humaines et publi\u00e9s dans la Revue Informatique et Statistique dans les Sciences Humaines \u00e0 partir de 1983.", 
+    "description": "Cette annexe au site du C. I. P. L. a pour but de proposer aux personnes le souhaitant un accès simplifié à divers articles et comptes rendus concernant des applications de l'informatique ou de la statistique en sciences humaines et publiés dans la Revue Informatique et Statistique dans les Sciences Humaines à partir de 1983.", 
     "domain": "www.cipl.ulg.ac.be", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-758937102710467311", 
             "resource_date": "2013-02-06T10:56:21.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:13.225811"
+            "when": "2015-10-27T18:45:57.579126"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-revue-informatique.html", 
             "resource_date": "2013-02-06T10:56:21.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:13.225822"
+            "when": "2015-10-27T18:45:57.579139"
         }
     ], 
     "publishers": [], 

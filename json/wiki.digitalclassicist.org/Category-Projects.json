@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4578727885057327556", 
             "resource_date": "2013-02-15T16:23:03.929-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:30.932014"
+            "when": "2015-10-27T18:41:56.863985"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/digital-classicist-wiki-current-list-of.html", 
             "resource_date": "2013-02-15T16:23:03.929-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:30.932031"
+            "when": "2015-10-27T18:41:56.864005"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4578727885057327556", 
             "resource_date": "2013-02-15T16:23:03.929-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:30.934810"
+            "when": "2015-10-27T18:41:56.870051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/digital-classicist-wiki-current-list-of.html", 
             "resource_date": "2013-02-15T16:23:03.929-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:30.934822"
+            "when": "2015-10-27T18:41:56.870075"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:31.186573"
+            "when": "2015-10-27T18:41:57.125353"
         }
     ], 
     "publishers": [], 
@@ -269,7 +269,7 @@
             "url": "http://wiki.digitalclassicist.org/Datenbank_der_demotisch_und_griechisch_bezeugten_Personen_aus_Soknopaiu_Nesos"
         }, 
         {
-            "title_full": "Datenbank zur j\u00fcdischen Grabsteinepigraphik", 
+            "title_full": "Datenbank zur jüdischen Grabsteinepigraphik", 
             "url": "http://wiki.digitalclassicist.org/Datenbank_zur_j%C3%BCdischen_Grabsteinepigraphik"
         }, 
         {
@@ -281,7 +281,7 @@
             "url": "http://wiki.digitalclassicist.org/Demos"
         }, 
         {
-            "title_full": "Diccionario Griego-Espa\u00f1ol (DGE)", 
+            "title_full": "Diccionario Griego-Español (DGE)", 
             "url": "http://wiki.digitalclassicist.org/Diccionario_Griego-Espa%C3%B1ol_%28DGE%29"
         }, 
         {
@@ -413,7 +413,7 @@
             "url": "http://wiki.digitalclassicist.org/Harvard_Papyri_Online"
         }, 
         {
-            "title_full": "Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden \u00c4gyptens", 
+            "title_full": "Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens", 
             "url": "http://wiki.digitalclassicist.org/Heidelberger_Gesamtverzeichnis_der_griechischen_Papyrusurkunden_%C3%84gyptens"
         }, 
         {
@@ -549,7 +549,7 @@
             "url": "http://wiki.digitalclassicist.org/Musisquedeoque"
         }, 
         {
-            "title_full": "Mus\u00e9e Ach\u00e9m\u00e9nide", 
+            "title_full": "Musée Achéménide", 
             "url": "http://wiki.digitalclassicist.org/Mus%C3%A9e_Ach%C3%A9m%C3%A9nide"
         }, 
         {
@@ -613,7 +613,7 @@
             "url": "http://wiki.digitalclassicist.org/Perseus_under_PhiloLogic"
         }, 
         {
-            "title_full": "Philologie \u00e0 venir", 
+            "title_full": "Philologie à venir", 
             "url": "http://wiki.digitalclassicist.org/Philologie_%C3%A0_venir"
         }, 
         {

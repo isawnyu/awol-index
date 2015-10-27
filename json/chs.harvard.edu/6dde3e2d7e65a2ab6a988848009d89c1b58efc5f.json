@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "reflects a three-day symposium on the Derveni Papyrus hosted by the Center for Hellenic Studies in July, 2008, on the occasion of the recent publication of the edition by Theokritos Kouremenos, George M. Par\u00e1ssoglou, and Kyriakos Tsantsanoglou (Florence, Olschki, 2006; the text of the papyrus from that edition is available on this website.", 
+    "description": "reflects a three-day symposium on the Derveni Papyrus hosted by the Center for Hellenic Studies in July, 2008, on the occasion of the recent publication of the edition by Theokritos Kouremenos, George M. Parássoglou, and Kyriakos Tsantsanoglou (Florence, Olschki, 2006; the text of the papyrus from that edition is available on this website.", 
     "domain": "chs.harvard.edu", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2017436921866171983", 
             "resource_date": "2014-01-18T15:37:46.255-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:10.412829"
+            "when": "2015-10-27T18:38:17.243298"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-classics.html", 
             "resource_date": "2014-01-18T15:37:46.255-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:10.412842"
+            "when": "2015-10-27T18:38:17.243311"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cleSee now.", 
+    "description": "Aitia. Regards sur la culture hellénistique au XXIème siècleSee now.", 
     "domain": "www.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
+        "title_full": "Aitia. Regards sur la culture hellénistique au XXIème siècle", 
         "url": "http://www.openedition.org/7719"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7725673324352941208", 
             "resource_date": "2014-07-26T08:25:40.279-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.618832"
+            "when": "2015-10-27T18:46:33.021529"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-aitia.html", 
             "resource_date": "2014-07-26T08:25:40.279-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.618848"
+            "when": "2015-10-27T18:46:33.021548"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7725673324352941208", 
             "resource_date": "2014-07-26T08:25:40.279-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.620838"
+            "when": "2015-10-27T18:46:33.024313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-coming-soon-aitia.html", 
             "resource_date": "2014-07-26T08:25:40.279-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.620850"
+            "when": "2015-10-27T18:46:33.024325"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:46.622252"
+            "when": "2015-10-27T18:46:33.026316"
         }
     ], 
     "publishers": [], 
@@ -142,11 +142,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
+            "title_full": "Aitia. Regards sur la culture hellénistique au XXIème siècle", 
             "url": "http://www.openedition.org/7719"
         }
     ], 
-    "title": "Aitia. Regards sur la culture hell\u00e9nistique au XXI\u00e8me si\u00e8cle", 
+    "title": "Aitia. Regards sur la culture hellénistique au XXIème siècle", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

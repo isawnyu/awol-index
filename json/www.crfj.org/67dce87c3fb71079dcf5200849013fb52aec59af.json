@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924): Le m\u00e9moire perdu et retrouv\u00e9 de Mme SILBERBERG-ZELWER (1892-1942). Publication de deux campagnes de fouilles arch\u00e9ologiques conduites par M. Raymond Weill \u00e0 Tell Gezer (1913 - 1924).", 
+    "description": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924): Le mémoire perdu et retrouvé de Mme SILBERBERG-ZELWER (1892-1942). Publication de deux campagnes de fouilles archéologiques conduites par M. Raymond Weill à Tell Gezer (1913 - 1924).", 
     "domain": "www.crfj.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924)", 
+        "title_full": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924)", 
         "url": "http://www.crfj.org/?p=430&doing_wp_cron=1355014929.9588339328765869140625"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770349415411480701", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.552149"
+            "when": "2015-10-27T18:45:12.151830"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.552165"
+            "when": "2015-10-27T18:45:12.151850"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770349415411480701", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.554766"
+            "when": "2015-10-27T18:45:12.156676"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.554777"
+            "when": "2015-10-27T18:45:12.156696"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:31.572672"
+            "when": "2015-10-27T18:45:12.179567"
         }
     ], 
     "publishers": [], 
@@ -145,19 +145,19 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924): Le m\u00e9moire perdu et retrouv\u00e9 de Mme SILBERBERG-ZELWER (1892-1942)", 
+            "title_full": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924): Le mémoire perdu et retrouvé de Mme SILBERBERG-ZELWER (1892-1942)", 
             "url": "http://www.crfj.org/?p=430&doing_wp_cron=1355014929.9588339328765869140625"
         }, 
         {
-            "title_full": "M\u00e9moire r\u00e9vis\u00e9 de Paula Silberberg-Zelwer", 
+            "title_full": "Mémoire révisé de Paula Silberberg-Zelwer", 
             "url": "http://www.crfj.org/wp-content/uploads/2012/12/memoire_revise.pdf"
         }, 
         {
-            "title_full": "Tableau chronologique des tombes de Gezer (pr\u00e9sentation du tableau, condens\u00e9e en une page)", 
+            "title_full": "Tableau chronologique des tombes de Gezer (présentation du tableau, condensée en une page)", 
             "url": "http://www.crfj.org/wp-content/uploads/2012/11/tbleaur%C3%A9duit.pdf"
         }, 
         {
-            "title_full": "Catalogue des mobiliers des tombes r\u00e9vis\u00e9 (voir ci-dessus)", 
+            "title_full": "Catalogue des mobiliers des tombes révisé (voir ci-dessus)", 
             "url": "http://www.crfj.org/wp-content/uploads/2012/11/r%C3%A9vison_Catalogue.pdf"
         }, 
         {
@@ -173,7 +173,7 @@
             "url": "http://www.crfj.org/wp-content/uploads/2012/11/2_Manuscrit_Paula_Silberberg.pdf"
         }, 
         {
-            "title_full": "Tableau chronologique des tombes de Gezer (calque original puis saisie num\u00e9rique conforme)", 
+            "title_full": "Tableau chronologique des tombes de Gezer (calque original puis saisie numérique conforme)", 
             "url": "http://www.crfj.org/wp-content/uploads/2012/11/Classement_conforme_calque.pdf"
         }, 
         {
@@ -185,9 +185,9 @@
             "url": "http://www.crfj.org/wp-content/uploads/2012/11/planches_scan.pdf"
         }
     ], 
-    "title": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924): Le m\u00e9moire perdu et retrouv\u00e9 de Mme SILBERBERG-ZELWER (1892-1942)", 
+    "title": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924): Le mémoire perdu et retrouvé de Mme SILBERBERG-ZELWER (1892-1942)", 
     "title_alternates": [], 
-    "title_extended": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924): Le m\u00e9moire perdu et retrouv\u00e9 de Mme SILBERBERG-ZELWER (1892-1942)", 
+    "title_extended": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924): Le mémoire perdu et retrouvé de Mme SILBERBERG-ZELWER (1892-1942)", 
     "type": null, 
     "url": "http://www.crfj.org/?p=430&doing_wp_cron=1355014929.9588339328765869140625", 
     "url_alternates": [], 

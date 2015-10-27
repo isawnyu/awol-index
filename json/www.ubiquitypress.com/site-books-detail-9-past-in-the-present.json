@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5591742806056063255", 
             "resource_date": "2014-10-21T14:55:09.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:06.310053"
+            "when": "2015-10-27T18:43:38.234978"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-book-past-in-present-living.html", 
             "resource_date": "2014-10-21T14:55:09.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:06.310071"
+            "when": "2015-10-27T18:43:38.234993"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5591742806056063255", 
             "resource_date": "2014-10-21T14:55:09.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:06.312292"
+            "when": "2015-10-27T18:43:38.237156"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-book-past-in-present-living.html", 
             "resource_date": "2014-10-21T14:55:09.642-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:06.312307"
+            "when": "2015-10-27T18:43:38.237168"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:06.315457"
+            "when": "2015-10-27T18:43:38.240447"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Reppal: Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s Libyques. ISSN 0330-843X. Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s LibyquesMagallat ad-dirasat al-finiqiyat al-buniyat wa al-tar al-lubiyatMarkaz al-Dir\u0101s\u0101t al-F\u012bn\u012bq\u012byah al-B\u016bniyah wa-al-\u0100th\u0101r al-Lub\u012byah. ;; [1] (1985). [3] (1987). [4] (1988). [6] (1991). [7-8] (1992-1993). [9] (1995). [10] (1997). [11] (1999). [12] (2002). [13] (2004). [14] (2008). See also:.", 
+    "description": "[First Posted in AWOL 18 October 2012, updated 15 May 2014]. Reppal: Revue du Centre d'Etudes de la Civilisation Phénicienne-Punique et des Antiquités Libyques. ISSN 0330-843X. Revue du Centre d'Etudes de la Civilisation Phénicienne-Punique et des Antiquités LibyquesMagallat ad-dirasat al-finiqiyat al-buniyat wa al-tar al-lubiyatMarkaz al-Dirāsāt al-Fīnīqīyah al-Būniyah wa-al-Āthār al-Lubīyah. ;; [1] (1985). [3] (1987). [4] (1988). [6] (1991). [7-8] (1992-1993). [9] (1995). [10] (1997). [11] (1999). [12] (2002). [13] (2004). [14] (2008). See also:.", 
     "domain": "www.inp.rnrt.tn", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Enqu\u00eate sur les installations hydrauliques romaines en Tunisie", 
+        "title_full": "Enquête sur les installations hydrauliques romaines en Tunisie", 
         "url": "http://www.inp.rnrt.tn/index.php?option=com_content&view=article&id=103&Itemid=3&lang=fr"
     }, 
     "issuance": null, 
@@ -79,13 +79,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3354098836967089939", 
             "resource_date": "2015-06-15T11:42:12.146-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.554635"
+            "when": "2015-10-27T18:40:34.211641"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/enquete-sur-les-installations.html", 
             "resource_date": "2015-06-15T11:42:12.146-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.554651"
+            "when": "2015-10-27T18:40:34.211657"
         }, 
         {
             "fields": [
@@ -126,13 +126,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3354098836967089939", 
             "resource_date": "2015-06-15T11:42:12.146-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.556760"
+            "when": "2015-10-27T18:40:34.213570"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/enquete-sur-les-installations.html", 
             "resource_date": "2015-06-15T11:42:12.146-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.556775"
+            "when": "2015-10-27T18:40:34.213583"
         }, 
         {
             "fields": [
@@ -146,7 +146,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.566321"
+            "when": "2015-10-27T18:40:34.221263"
         }, 
         {
             "fields": [
@@ -187,13 +187,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8367557547806981769", 
             "resource_date": "2014-05-15T16:19:33.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:22.949196"
+            "when": "2015-10-27T18:47:11.227719"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/open-access-journal-reppal.html", 
             "resource_date": "2014-05-15T16:19:33.853-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:22.949211"
+            "when": "2015-10-27T18:47:11.227734"
         }, 
         {
             "fields": [
@@ -208,7 +208,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:22.973349"
+            "when": "2015-10-27T18:47:11.251989"
         }, 
         {
             "fields": [
@@ -249,13 +249,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:26.019252"
+            "when": "2015-10-27T18:49:25.095750"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:26.019281"
+            "when": "2015-10-27T18:49:25.095766"
         }, 
         {
             "fields": [
@@ -270,7 +270,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:26.197710"
+            "when": "2015-10-27T18:49:25.298346"
         }, 
         {
             "fields": [
@@ -311,13 +311,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:26.021913"
+            "when": "2015-10-27T18:49:25.098084"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:26.021928"
+            "when": "2015-10-27T18:49:25.098095"
         }, 
         {
             "fields": [
@@ -332,7 +332,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:26.204524"
+            "when": "2015-10-27T18:49:25.308588"
         }
     ], 
     "publishers": [], 
@@ -342,7 +342,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Enqu\u00eate sur les installations hydrauliques romaines en Tunisie", 
+            "title_full": "Enquête sur les installations hydrauliques romaines en Tunisie", 
             "url": "http://www.inp.rnrt.tn/index.php?option=com_content&view=article&id=103&Itemid=3&lang=fr"
         }, 
         {
@@ -406,7 +406,7 @@
             "url": "http://www.inp.rnrt.tn/periodiques/reppal/reppal14.pdf"
         }, 
         {
-            "title_full": "Institut National du Patrimoine Tunisie, Biblioth\u00e8que Num\u00e9rique", 
+            "title_full": "Institut National du Patrimoine Tunisie, Bibliothèque Numérique", 
             "url": "http://www.inp.rnrt.tn/index.php?option=com_content&view=article&id=103&Itemid=3&lang=fr"
         }, 
         {
@@ -614,7 +614,7 @@
             "url": "http://www.inp.rnrt.tn/Carte_archeo/pdf/Fr/158MarethFr.pdf"
         }, 
         {
-            "title_full": "Le Bulletin arch\u00e9ologique de Sousse", 
+            "title_full": "Le Bulletin archéologique de Sousse", 
             "url": "http://www.inp.rnrt.tn/periodiques/bultin_archeo_sousse.pdf"
         }, 
         {
@@ -650,7 +650,7 @@
             "url": "http://www.inp.rnrt.tn/periodiques/atals/El_%20Djem.pdf"
         }, 
         {
-            "title_full": "Gab\u00e8s", 
+            "title_full": "Gabès", 
             "url": "http://www.inp.rnrt.tn/periodiques/atals/Gabes.pdf"
         }, 
         {
@@ -754,7 +754,7 @@
             "url": "http://www.inp.rnrt.tn/periodiques/REPPAL_14.pdf"
         }
     ], 
-    "title": "Reppal: Revue du Centre d'Etudes de la Civilisation Ph\u00e9nicienne-Punique et des Antiquit\u00e9s Libyques", 
+    "title": "Reppal: Revue du Centre d'Etudes de la Civilisation Phénicienne-Punique et des Antiquités Libyques", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

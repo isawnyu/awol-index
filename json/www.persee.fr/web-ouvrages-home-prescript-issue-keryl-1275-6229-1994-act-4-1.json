@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cahiers de la Villa K\u00e9rylos", 
+        "title_full": "Cahiers de la Villa Kérylos", 
         "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/aibl"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9179479482326020680", 
             "resource_date": "2015-04-29T15:35:56.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:22.412505"
+            "when": "2015-10-27T18:49:20.980200"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series-cahiers-de.html", 
             "resource_date": "2015-04-29T15:35:56.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:22.412519"
+            "when": "2015-10-27T18:49:20.980213"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Le Romantisme et la Gr\u00e8ce (colloque de 1993) . 1994", 
+    "title": "Le Romantisme et la Grèce (colloque de 1993) . 1994", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

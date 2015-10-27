@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient. La lettre d\u2019information \u00e9lectronique de l\u2019Ifpo, L\u2019Orient proche, vous informe de l\u2019agenda scientifique de l\u2019Institut fran\u00e7ais du Proche-Orient. Elle para\u00eet au maximum deux fois par an. Elle signale les principales actualit\u00e9s de l'Ifpo, les publications r\u00e9centes et les nouveaut\u00e9s de notre site web et autres publications \u00e9lectroniques. L\u2019abonnement est libre et gratuit: pour cela, utiliser le formulaire de la colonne de gauche du site web en saisissant l\u2019adresse \u00e9lectronique sur laquelle vous souhaitez recevoir L\u2019Orient proche.", 
+    "description": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient. La lettre d’information électronique de l’Ifpo, L’Orient proche, vous informe de l’agenda scientifique de l’Institut français du Proche-Orient. Elle paraît au maximum deux fois par an. Elle signale les principales actualités de l'Ifpo, les publications récentes et les nouveautés de notre site web et autres publications électroniques. L’abonnement est libre et gratuit: pour cela, utiliser le formulaire de la colonne de gauche du site web en saisissant l’adresse électronique sur laquelle vous souhaitez recevoir L’Orient proche.", 
     "domain": "www.ifporient.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient", 
+        "title_full": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient", 
         "url": "http://www.ifporient.org/node/819"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2537920619229504785", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.083544"
+            "when": "2015-10-27T18:38:48.202564"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-lorient-proche.html", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.083561"
+            "when": "2015-10-27T18:38:48.202578"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "La Lettre d'Information de l'Institut fran\u00e7ais du Proche-Orient 7 juillet, 2009 - 14:05", 
+    "title": "La Lettre d'Information de l'Institut français du Proche-Orient 7 juillet, 2009 - 14:05", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

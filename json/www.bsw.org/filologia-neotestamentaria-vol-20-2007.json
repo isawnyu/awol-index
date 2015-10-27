@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Filolog\u00eda Neotestamentaria", 
+        "title_full": "Filología Neotestamentaria", 
         "url": "http://www.bsw.org/filologia-neotestamentaria/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6696739526085113939", 
             "resource_date": "2014-08-07T09:38:39.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.391006"
+            "when": "2015-10-27T18:45:07.406638"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-newsletter-of.html", 
             "resource_date": "2014-08-07T09:38:39.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.391017"
+            "when": "2015-10-27T18:45:07.406650"
         }
     ], 
     "publishers": [], 

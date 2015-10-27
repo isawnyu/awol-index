@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": Francesca Ciurli, \u00ab La defixio de l'Hospitalet-du-Larzac: dati oggettivi e proposte di interpretazione \u00bb.", 
+    "description": ": Francesca Ciurli, « La defixio de l'Hospitalet-du-Larzac: dati oggettivi e proposte di interpretazione ».", 
     "domain": "www.etudesmagiques.info", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7356242589667277340", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:59.860476"
+            "when": "2015-10-27T18:45:42.939612"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:59.860487"
+            "when": "2015-10-27T18:45:42.939623"
         }
     ], 
     "publishers": [], 

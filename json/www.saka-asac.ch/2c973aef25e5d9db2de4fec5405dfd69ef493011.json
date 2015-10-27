@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin / Association suisse d'arch\u00e9ologie classique = Bulletin / Schweizer Arbeitsgemeinschaft f\u00fcr klassische Arch\u00e4ologie = Bollettino / Associazione svizzera di archeologia classica. Bulletin der SAKA. Die SAKA gibt j\u00e4hrlich ein Bulletin heraus, das \u00fcber die Table Ronde und die Gesch\u00e4fte des Vorstandes informiert sowie allf\u00e4llige weitere Beitr\u00e4ge zu aktuellen Themen enth\u00e4lt. Bollettini dell\u2019ASAC. L\u2019ASAC pubblica un Bollettino annuale per i suoi membri. Ci si trovano riassunti gli interventi presentati all\u2019occasione della Tavola rotonda, le informazioni sule attivit\u00e0, i rapporti del Comitato come pure diversi artcioli legati a temi di attualit\u00e0. Bulletins de l'ASAC. L\u2019ASAC \u00e9dite un Bulletin annuel \u00e0 l\u2019attention de ses membres. On y trouve le contenu des contributions pr\u00e9sent\u00e9es lors de la Table ronde, des informations sur les activit\u00e9s et les rapports du Comit\u00e9, ainsi que divers articles li\u00e9s \u00e0 des th\u00e8mes d\u2019actualit\u00e9. Bulletin 1993. 1 (16868 KB). Bulletin 1994. 1 (35626 KB). Bulletin 1994. 2 (2569 KB). Bulletin 1995. 1 (53331 KB). Bulletin 1995. 2 (3408 KB). Bulletin 1996. 1 (4942 KB). Bulletin 1997. 1 (3302 KB). Bulletin 1997. 2 (2980 KB). Bulletin 1998. 1 (2972 KB). Bulletin 1998. 2 (1464 KB). Bulletin 1999. 1 (1780 KB). Bulletin 2000 (1357 KB). Bulletin 2001 (1776 KB). Bulletin 2002 (405 KB). Bulletin 2003 (808 KB). Bulletin 2004 (522 KB). Bulletin 2005 (3803 KB). Bulletin 2006 (171 KB). Bulletin 2007 (3473 KB). Bulletin 2008 (3751 KB). Bulletin 2009 (3921 KB). Bulletin 2010 (2136 KB). Bulletin 2011 (2082 KB). Bulletin 2012 (5863 KB) NEW !!!. See the full.", 
+    "description": "Bulletin / Association suisse d'archéologie classique = Bulletin / Schweizer Arbeitsgemeinschaft für klassische Archäologie = Bollettino / Associazione svizzera di archeologia classica. Bulletin der SAKA. Die SAKA gibt jährlich ein Bulletin heraus, das über die Table Ronde und die Geschäfte des Vorstandes informiert sowie allfällige weitere Beiträge zu aktuellen Themen enthält. Bollettini dell’ASAC. L’ASAC pubblica un Bollettino annuale per i suoi membri. Ci si trovano riassunti gli interventi presentati all’occasione della Tavola rotonda, le informazioni sule attività, i rapporti del Comitato come pure diversi artcioli legati a temi di attualità. Bulletins de l'ASAC. L’ASAC édite un Bulletin annuel à l’attention de ses membres. On y trouve le contenu des contributions présentées lors de la Table ronde, des informations sur les activités et les rapports du Comité, ainsi que divers articles liés à des thèmes d’actualité. Bulletin 1993. 1 (16868 KB). Bulletin 1994. 1 (35626 KB). Bulletin 1994. 2 (2569 KB). Bulletin 1995. 1 (53331 KB). Bulletin 1995. 2 (3408 KB). Bulletin 1996. 1 (4942 KB). Bulletin 1997. 1 (3302 KB). Bulletin 1997. 2 (2980 KB). Bulletin 1998. 1 (2972 KB). Bulletin 1998. 2 (1464 KB). Bulletin 1999. 1 (1780 KB). Bulletin 2000 (1357 KB). Bulletin 2001 (1776 KB). Bulletin 2002 (405 KB). Bulletin 2003 (808 KB). Bulletin 2004 (522 KB). Bulletin 2005 (3803 KB). Bulletin 2006 (171 KB). Bulletin 2007 (3473 KB). Bulletin 2008 (3751 KB). Bulletin 2009 (3921 KB). Bulletin 2010 (2136 KB). Bulletin 2011 (2082 KB). Bulletin 2012 (5863 KB) NEW !!!. See the full.", 
     "domain": "www.saka-asac.ch", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1394522570664822833", 
             "resource_date": "2013-11-12T11:40:19.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.787107"
+            "when": "2015-10-27T18:37:30.256133"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-journal-bulletin.html", 
             "resource_date": "2013-11-12T11:40:19.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.787123"
+            "when": "2015-10-27T18:37:30.256149"
         }
     ], 
     "publishers": [], 
@@ -177,7 +177,7 @@
             "url": "http://www.saka-asac.ch/pdf/Bulletin2012"
         }
     ], 
-    "title": "Bulletin / Association suisse d'arch\u00e9ologie classique = Bulletin / Schweizer Arbeitsgemeinschaft f\u00fcr klassische Arch\u00e4ologie = Bollettino / Associazione svizzera di archeologia classica", 
+    "title": "Bulletin / Association suisse d'archéologie classique = Bulletin / Schweizer Arbeitsgemeinschaft für klassische Archäologie = Bollettino / Associazione svizzera di archeologia classica", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

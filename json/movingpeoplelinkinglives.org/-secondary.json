@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Moving People, Linking Lives: An Interdisciplinary Symposium. \"Moving People, Linking Lives,\" University of Virginia, March 20 and 21, 2015. We plan two days of plenary sessions to bring together a diverse group of distinguished scholars from various fields, under the broad themes of current scholarship in digital humanities and the representation of persons and life narratives. This interdisciplinary symposium, organized by Alison Booth, Amy Ogden, and Jenny Strauss Clay, is funded by the Page Barbour Lecture Fund and co-sponsored by the Institute for Advanced Technology in the Humanities, Scholars\u2019 Lab, and the departments of English, French, and Classics, among others at the University of Virginia. Clearly, new media and digital methods offer the means to expand, coordinate, and share research in every discipline of the humanities. We hope to raise informed questions, especially, about contemporary social networks and prosopographies in various eras; narratology focused on nonfiction; collective biographies in the print era; biographical databases; Medieval hagiography; and mapping roads and routes and configuring human spaces. Shaped by the experience and expertise of all participants, our discussion will also focus on attracting users and contributors, academic and otherwise, and integrating our innovations with traditional scholarship.", 
+    "description": "Moving People, Linking Lives: An Interdisciplinary Symposium. \"Moving People, Linking Lives,\" University of Virginia, March 20 and 21, 2015. We plan two days of plenary sessions to bring together a diverse group of distinguished scholars from various fields, under the broad themes of current scholarship in digital humanities and the representation of persons and life narratives. This interdisciplinary symposium, organized by Alison Booth, Amy Ogden, and Jenny Strauss Clay, is funded by the Page Barbour Lecture Fund and co-sponsored by the Institute for Advanced Technology in the Humanities, Scholars’ Lab, and the departments of English, French, and Classics, among others at the University of Virginia. Clearly, new media and digital methods offer the means to expand, coordinate, and share research in every discipline of the humanities. We hope to raise informed questions, especially, about contemporary social networks and prosopographies in various eras; narratology focused on nonfiction; collective biographies in the print era; biographical databases; Medieval hagiography; and mapping roads and routes and configuring human spaces. Shaped by the experience and expertise of all participants, our discussion will also focus on attracting users and contributors, academic and otherwise, and integrating our innovations with traditional scholarship.", 
     "domain": "movingpeoplelinkinglives.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7815464314676932944", 
             "resource_date": "2015-04-01T14:27:42.654-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.640152"
+            "when": "2015-10-27T18:46:36.608041"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/podcasts-available-moving-people.html", 
             "resource_date": "2015-04-01T14:27:42.654-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.640164"
+            "when": "2015-10-27T18:46:36.608054"
         }
     ], 
     "publishers": [], 

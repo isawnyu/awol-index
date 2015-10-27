@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue Arch\u00e9ologique de l\u2019Ouest", 
+        "title_full": "Revue Archéologique de l’Ouest", 
         "url": "http://rao.revues.org/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3291041398586799744", 
             "resource_date": "2011-02-02T21:11:38.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:10.779478"
+            "when": "2015-10-27T18:40:23.409430"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/newely-open-access-journal-revue.html", 
             "resource_date": "2011-02-02T21:11:38.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:10.779489"
+            "when": "2015-10-27T18:40:23.409442"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte / Romanistische Abteilung. Bd. 1 = 14 (1880). Bd. 2 = 15. Bd. 3 = 16. Bd. 4 = 17. Bd. 5 = 18. Bd. 6 = 19. Bd. 7 = 20. Bd. 8 = 21. Bd. 9 = 22. Bd. 10 = 23. Bd. 11 = 24. Bd. 12 = 25. Bd. 13 = 26. Bd. 14 = 27. Bd. 15 = 28. Bd. 16 = 29. Bd. 17 = 30. Bd. 18 = 31. Bd. 19 = 32. Bd. 20 = 33. Bd. 21 = 34. Bd. 22 = 35. Bd. 23 = 36. Bd. 24 = 37. Bd. 25 = 38. Bd. 26 = 39. Bd. 27 = 40. Bd. 28 = 41. Bd. 29 = 42. Bd. 30 = 43. Bd. 31 = 44. Bd. 32 = 45. Bd. 33 = 46. Bd. 34 = 47. Bd. 35 = 48. Bd. 36 = 49. Bd. 37 = 50. Bd. 38 = 51. Bd. 39 = 52. Bd. 40 = 53 (1919). Generalreg. 1/50 (1932) See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Romanistische Abteilung. Bd. 1 = 14 (1880). Bd. 2 = 15. Bd. 3 = 16. Bd. 4 = 17. Bd. 5 = 18. Bd. 6 = 19. Bd. 7 = 20. Bd. 8 = 21. Bd. 9 = 22. Bd. 10 = 23. Bd. 11 = 24. Bd. 12 = 25. Bd. 13 = 26. Bd. 14 = 27. Bd. 15 = 28. Bd. 16 = 29. Bd. 17 = 30. Bd. 18 = 31. Bd. 19 = 32. Bd. 20 = 33. Bd. 21 = 34. Bd. 22 = 35. Bd. 23 = 36. Bd. 24 = 37. Bd. 25 = 38. Bd. 26 = 39. Bd. 27 = 40. Bd. 28 = 41. Bd. 29 = 42. Bd. 30 = 43. Bd. 31 = 44. Bd. 32 = 45. Bd. 33 = 46. Bd. 34 = 47. Bd. 35 = 48. Bd. 36 = 49. Bd. 37 = 50. Bd. 38 = 51. Bd. 39 = 52. Bd. 40 = 53 (1919). Generalreg. 1/50 (1932) See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "dlib-zs.mpier.mpg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2872662563588805220", 
             "resource_date": "2013-06-24T11:53:31.761-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:51.563403"
+            "when": "2015-10-27T18:39:00.025580"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-zeitschrift-der.html", 
             "resource_date": "2013-06-24T11:53:31.761-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:51.563420"
+            "when": "2015-10-27T18:39:00.025605"
         }
     ], 
     "publishers": [], 
@@ -241,7 +241,7 @@
             "url": "http://dlib-zs.mpier.mpg.de/mj/kleioc/0010/exec/showtoc/%222085098%5fReg1%2d50%2b1932%22"
         }
     ], 
-    "title": "Zeitschrift der Savigny-Stiftung f\u00fcr Rechtsgeschichte / Romanistische Abteilung", 
+    "title": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Romanistische Abteilung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

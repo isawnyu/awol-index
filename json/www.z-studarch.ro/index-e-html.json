@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ziridava Studia Archaeologica. ISSN: 1224-7316. Ziridava Studia Archaeologica (ISSN 1224-7316), edited by the Arad Museum Complex, is a periodical of archaeology that is meant to continue the old Ziridava. One must state that Ziridava Studia Archaeologica is published annually and is printed in the month of December of each year. The periodical aims to publish studies on the archaeology of the Carpathian Basin, but also on the surrounding regions. Therefore, Ziridava Studia Archaeologica is envisioned, first of all, as a periodical with regional impact. One of the main goals of this academic initiative is to publish archaeological materials, but also older research remained unpublished and new research. The team also encourages and supports the publication of synthesis studies and modern approaches. The first volume of Ziridava was published in 1967, and 25 volumes were edited since then, until 2010. This periodical published studies from various disciplines such as archaeology, history, art history, museology, or ethnography. In time, several independent specialized periodicals were created from the larger Ziridava: Armonii Naturale (since 1996), Z\u0103randul (since 1999), Studii \u0219i comunic\u0103ri (since 1992). A final stage of this process of increased editorial specialization is the publication of a separate periodical of archaeology, Ziridava Studia Archaeologica. Since in specialized archaeological literature Ziridava was correlated to the institution of the Arad Museum, but also due to the numerous archaeological researches performed mainly in the Lower Mure\u0219 were published in the periodical from Arad, the editorial board has decided to preserve the name of the periodical. At the same time, in order to avoid braking the tradition and forgetting the efforts of the periodical\u2019s old editorial board, we have decided to continue the numbering the volumes with no. 26 (Ziridava Studia Archaeologica 26, 2012).", 
+    "description": "Ziridava Studia Archaeologica. ISSN: 1224-7316. Ziridava Studia Archaeologica (ISSN 1224-7316), edited by the Arad Museum Complex, is a periodical of archaeology that is meant to continue the old Ziridava. One must state that Ziridava Studia Archaeologica is published annually and is printed in the month of December of each year. The periodical aims to publish studies on the archaeology of the Carpathian Basin, but also on the surrounding regions. Therefore, Ziridava Studia Archaeologica is envisioned, first of all, as a periodical with regional impact. One of the main goals of this academic initiative is to publish archaeological materials, but also older research remained unpublished and new research. The team also encourages and supports the publication of synthesis studies and modern approaches. The first volume of Ziridava was published in 1967, and 25 volumes were edited since then, until 2010. This periodical published studies from various disciplines such as archaeology, history, art history, museology, or ethnography. In time, several independent specialized periodicals were created from the larger Ziridava: Armonii Naturale (since 1996), Zărandul (since 1999), Studii și comunicări (since 1992). A final stage of this process of increased editorial specialization is the publication of a separate periodical of archaeology, Ziridava Studia Archaeologica. Since in specialized archaeological literature Ziridava was correlated to the institution of the Arad Museum, but also due to the numerous archaeological researches performed mainly in the Lower Mureș were published in the periodical from Arad, the editorial board has decided to preserve the name of the periodical. At the same time, in order to avoid braking the tradition and forgetting the efforts of the periodical’s old editorial board, we have decided to continue the numbering the volumes with no. 26 (Ziridava Studia Archaeologica 26, 2012).", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.484137"
+            "when": "2015-10-27T18:43:06.576269"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.484154"
+            "when": "2015-10-27T18:43:06.576285"
         }
     ], 
     "publishers": [], 
@@ -93,11 +93,11 @@
             "url": "http://www.z-studarch.ro/2013_27/Ziridava_27.pdf"
         }, 
         {
-            "title_full": "Contributions to the Knowledge of Parietal Art in North-Western Transylvania. the Discoveries from Ileanda (S\u0103laj County)", 
+            "title_full": "Contributions to the Knowledge of Parietal Art in North-Western Transylvania. the Discoveries from Ileanda (Sălaj County)", 
             "url": "http://www.z-studarch.ro/2013_27/1Pop_Ghemis.pdf"
         }, 
         {
-            "title_full": "S\u00e2ntana \"Cetatea Veche\". Metal and power", 
+            "title_full": "Sântana \"Cetatea Veche\". Metal and power", 
             "url": "http://www.z-studarch.ro/2013_27/2Gogaltan%20et%20al.pdf"
         }, 
         {
@@ -105,7 +105,7 @@
             "url": "http://www.z-studarch.ro/2013_27/3Polgar.pdf"
         }, 
         {
-            "title_full": "A Bronze-Age Hoard Discovered in Ampoi\u0163a (Alba County)", 
+            "title_full": "A Bronze-Age Hoard Discovered in Ampoiţa (Alba County)", 
             "url": "http://www.z-studarch.ro/2013_27/4Popa.pdf"
         }, 
         {
@@ -121,11 +121,11 @@
             "url": "http://www.z-studarch.ro/2013_27/7Ferencz.pdf"
         }, 
         {
-            "title_full": "Landmarks in the Development of Carthographic Representations of the Dacian Settlement in Ardeu (Municipality of Bal\u015fa, Hunedoara County)", 
+            "title_full": "Landmarks in the Development of Carthographic Representations of the Dacian Settlement in Ardeu (Municipality of Balşa, Hunedoara County)", 
             "url": "http://www.z-studarch.ro/2013_27/8Roman.pdf"
         }, 
         {
-            "title_full": "Considerations on \"Troianul\" in \u0162ara Zarandului", 
+            "title_full": "Considerations on \"Troianul\" in Ţara Zarandului", 
             "url": "http://www.z-studarch.ro/2013_27/9Berzovan.pdf"
         }, 
         {
@@ -137,15 +137,15 @@
             "url": "http://www.z-studarch.ro/2013_27/11Gall.pdf"
         }, 
         {
-            "title_full": "From the fortress of Stephen I (997-1038) to the centre of \u201blord Gelou\u2019. D\u0103b\u00e2ca (germ.: Dobeschdorf; hung.: Doboka) in the nationalist myths in the 20th Century", 
+            "title_full": "From the fortress of Stephen I (997-1038) to the centre of ‛lord Gelou’. Dăbâca (germ.: Dobeschdorf; hung.: Doboka) in the nationalist myths in the 20th Century", 
             "url": "http://www.z-studarch.ro/2013_27/12Gall2.pdf"
         }, 
         {
-            "title_full": "Implications of a Tibia and Fibula Fracture in the Secondary Adaptation of the Skeleton of an Individual Discovered in N\u0103dlac \"Lut\u0103rie\" (Arad County)", 
+            "title_full": "Implications of a Tibia and Fibula Fracture in the Secondary Adaptation of the Skeleton of an Individual Discovered in Nădlac \"Lutărie\" (Arad County)", 
             "url": "http://www.z-studarch.ro/2013_27/13Andreica.pdf"
         }, 
         {
-            "title_full": "The Medieval Church in the Village of Seca\u0219 (Arad County) and its Vestiges", 
+            "title_full": "The Medieval Church in the Village of Secaș (Arad County) and its Vestiges", 
             "url": "http://www.z-studarch.ro/2013_27/14Marginean_et_al.pdf"
         }, 
         {
@@ -153,7 +153,7 @@
             "url": "http://www.z-studarch.ro/2013_27/15Ciulavu.pdf"
         }, 
         {
-            "title_full": "A Monetary Hoard Discovered in the Settlement of Cristur (Bihor County). Aspects on the Monetary Circulation of Thalers in Cri\u015fana during the Second Half of the Sixteenth Century", 
+            "title_full": "A Monetary Hoard Discovered in the Settlement of Cristur (Bihor County). Aspects on the Monetary Circulation of Thalers in Crişana during the Second Half of the Sixteenth Century", 
             "url": "http://www.z-studarch.ro/2013_27/16Toma.pdf"
         }, 
         {
@@ -161,7 +161,7 @@
             "url": "http://www.z-studarch.ro/2012_26/Ziridava_26.pdf"
         }, 
         {
-            "title_full": "One and Half Century of Archaeology on the Lower Mure\u0219", 
+            "title_full": "One and Half Century of Archaeology on the Lower Mureș", 
             "url": "http://www.z-studarch.ro/2012_26/1%20hugel%20et%20al.pdf"
         }, 
         {
@@ -169,11 +169,11 @@
             "url": "http://www.z-studarch.ro/2012_26/2%20daroczi.pdf"
         }, 
         {
-            "title_full": "War and Warriors duringthe Late Bronze Age within the Lower Mure\u015f Valley", 
+            "title_full": "War and Warriors duringthe Late Bronze Age within the Lower Mureş Valley", 
             "url": "http://www.z-studarch.ro/2012_26/3%20gogaltan,%20sava.pdf"
         }, 
         {
-            "title_full": "Late Bronze Age Metal Artifacts Discoveredin \u015eagu, Site \"A1_1\", Arad - Timi\u015foara Highway (km 0+19.900 - 0+20.620)", 
+            "title_full": "Late Bronze Age Metal Artifacts Discoveredin Şagu, Site \"A1_1\", Arad - Timişoara Highway (km 0+19.900 - 0+20.620)", 
             "url": "http://www.z-studarch.ro/2012_26/4%20sava%20et%20al.pdf"
         }, 
         {
@@ -185,15 +185,15 @@
             "url": "http://www.z-studarch.ro/2012_26/6%20ota.pdf"
         }, 
         {
-            "title_full": "Dental Indicators of Stress and Diet Habits of Individuals Discovered in the Ossuary of the Medieval Church in Tau\u0163 (Arad County)", 
+            "title_full": "Dental Indicators of Stress and Diet Habits of Individuals Discovered in the Ossuary of the Medieval Church in Tauţ (Arad County)", 
             "url": "http://www.z-studarch.ro/2012_26/7%20andreica.pdf"
         }, 
         {
-            "title_full": "Medieval and Early Modern Military Items Discovered in the Village of Tau\u0163 (Arad County, Western Romania)", 
+            "title_full": "Medieval and Early Modern Military Items Discovered in the Village of Tauţ (Arad County, Western Romania)", 
             "url": "http://www.z-studarch.ro/2012_26/8%20nitoi%20et%20al.pdf"
         }, 
         {
-            "title_full": "Tobacco Clay Pipes Discovered in the Historical Center of Timi\u0219oara", 
+            "title_full": "Tobacco Clay Pipes Discovered in the Historical Center of Timișoara", 
             "url": "http://www.z-studarch.ro/2012_26/9%20kopeczny,%20dinca.pdf"
         }, 
         {

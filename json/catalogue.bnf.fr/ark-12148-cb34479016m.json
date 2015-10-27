@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de la Soci\u00e9t\u00e9 de g\u00e9ographie et d'arch\u00e9ologie de la province d'Oran. See the full.", 
+    "description": "Bulletin de la Société de géographie et d'archéologie de la province d'Oran. See the full.", 
     "domain": "catalogue.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin de la Soci\u00e9t\u00e9 de g\u00e9ographie et d'arch\u00e9ologie de la province d'Oran", 
+        "title_full": "Bulletin de la Société de géographie et d'archéologie de la province d'Oran", 
         "url": "http://catalogue.bnf.fr/ark:/12148/cb34479016m"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2748502389103381612", 
             "resource_date": "2011-02-06T12:32:55.728-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.606333"
+            "when": "2015-10-27T18:38:56.007964"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-bulletin-de-la_06.html", 
             "resource_date": "2011-02-06T12:32:55.728-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.606357"
+            "when": "2015-10-27T18:38:56.007981"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2748502389103381612", 
             "resource_date": "2011-02-06T12:32:55.728-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.609374"
+            "when": "2015-10-27T18:38:56.010571"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-bulletin-de-la_06.html", 
             "resource_date": "2011-02-06T12:32:55.728-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.609390"
+            "when": "2015-10-27T18:38:56.010584"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:47.611295"
+            "when": "2015-10-27T18:38:56.012437"
         }
     ], 
     "publishers": [], 
@@ -141,11 +141,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin de la Soci\u00e9t\u00e9 de g\u00e9ographie et d'arch\u00e9ologie de la province d'Oran", 
+            "title_full": "Bulletin de la Société de géographie et d'archéologie de la province d'Oran", 
             "url": "http://catalogue.bnf.fr/ark:/12148/cb34479016m"
         }
     ], 
-    "title": "Bulletin de la Soci\u00e9t\u00e9 de g\u00e9ographie et d'arch\u00e9ologie de la province d'Oran", 
+    "title": "Bulletin de la Société de géographie et d'archéologie de la province d'Oran", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

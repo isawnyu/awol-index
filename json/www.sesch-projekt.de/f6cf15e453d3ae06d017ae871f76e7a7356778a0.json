@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c4gyptologie NewsPaper", 
+        "title_full": "Ägyptologie NewsPaper", 
         "url": "http://www.sesch-projekt.de/webseite/500_isesch/AePN.php"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4893200004520553417", 
             "resource_date": "2013-07-25T11:49:00.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:14.999781"
+            "when": "2015-10-27T18:42:44.514184"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-accesss-journal-agyptologie.html", 
             "resource_date": "2013-07-25T11:49:00.712-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:14.999794"
+            "when": "2015-10-27T18:42:44.514195"
         }
     ], 
     "publishers": [], 

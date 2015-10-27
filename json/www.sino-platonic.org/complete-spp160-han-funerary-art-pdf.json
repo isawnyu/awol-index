@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "rerelease of SPP 167: Old Chinese \u2018\u5e1d*tees\u2019 and Proto-Indo-European \u2018*deus\u2019: Similarity in Religious Ideas and a Common Source in Linguistics, by ZHOU Jixu.", 
+    "description": "rerelease of SPP 167: Old Chinese ‘帝*tees’ and Proto-Indo-European ‘*deus’: Similarity in Religious Ideas and a Common Source in Linguistics, by ZHOU Jixu.", 
     "domain": "www.sino-platonic.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4952386813589797299", 
             "resource_date": "2015-05-19T13:39:32.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.125538"
+            "when": "2015-10-27T18:43:06.162574"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/open-access-intercultural-relations-of.html", 
             "resource_date": "2015-05-19T13:39:32.577-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.125549"
+            "when": "2015-10-27T18:43:06.162586"
         }
     ], 
     "publishers": [], 

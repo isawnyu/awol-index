@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ficheiro Epigr\u00e1fico [Suplemento de Conimbriga]. ISSN: 0870-2004.", 
+    "description": "Ficheiro Epigráfico [Suplemento de Conimbriga]. ISSN: 0870-2004.", 
     "domain": "www.uc.pt", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8243592845060744689", 
             "resource_date": "2014-02-02T08:35:50.528-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:18.464096"
+            "when": "2015-10-27T18:47:06.402492"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ficheiro-epigrafico.html", 
             "resource_date": "2014-02-02T08:35:50.528-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:18.464112"
+            "when": "2015-10-27T18:47:06.402507"
         }
     ], 
     "publishers": [], 
@@ -290,7 +290,7 @@
             "url": "http://www.uc.pt/fluc/iarq/pdfs/Pdfs_FE/FE_65_2000"
         }
     ], 
-    "title": "Ficheiro Epigr\u00e1fico", 
+    "title": "Ficheiro Epigráfico", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

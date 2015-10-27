@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019arch\u00e9ologie fran\u00e7aise en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
+        "title_full": "L’archéologie française en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
         "url": "http://asiecentrale.revues.org/1586"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1407540500306198905", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.389441"
+            "when": "2015-10-27T18:37:30.902051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/one-off-journal-issues-larcheologie.html", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.389452"
+            "when": "2015-10-27T18:37:30.902064"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Jean-Fran\u00e7ois Jarrige Les relations arch\u00e9ologiques entre les r\u00e9gions au sud et au nord de l'Hindu Kush du V e mill\u00e9naire jusqu\u2019au milieu du III e mill\u00e9naire avant notre \u00e8re \u00e0 la lumi\u00e8re des donn\u00e9es fournies par les sites de la r\u00e9gion de Kachi-Bolan au Balochistan pakistanais [Texte int\u00e9gral disponible en septembre 2014]", 
+    "title": "Jean-François Jarrige Les relations archéologiques entre les régions au sud et au nord de l'Hindu Kush du V e millénaire jusqu’au milieu du III e millénaire avant notre ère à la lumière des données fournies par les sites de la région de Kachi-Bolan au Balochistan pakistanais [Texte intégral disponible en septembre 2014]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

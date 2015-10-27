@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Motte, A. and Wathelet, P. (Hrsgg. ): Mentor 2. 1986-1990. Guide bibliographique de la religion grecque, (Kernos, Suppl\u00e9ment 6. Li\u00e8ge 1998, pp. 38-44. Chaniotis, Angelos (1997).", 
+    "description": "In: Motte, A. and Wathelet, P. (Hrsgg. ): Mentor 2. 1986-1990. Guide bibliographique de la religion grecque, (Kernos, Supplément 6. Liège 1998, pp. 38-44. Chaniotis, Angelos (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.310443"
+            "when": "2015-10-27T18:46:45.472835"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.310460"
+            "when": "2015-10-27T18:46:45.472849"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sources \u00e9pigraphiques / Epigraphical Sources, 1986-1997", 
+    "title": "Sources épigraphiques / Epigraphical Sources, 1986-1997", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

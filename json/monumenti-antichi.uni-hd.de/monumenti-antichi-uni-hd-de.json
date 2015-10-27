@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Monumenti Antichi. Die \u201eReale Accademia dei Lincei\" in Rom zeigte bereits fr\u00fch gro\u00dfes Interesse an der Publikation arch\u00e4ologischer Forschungsergebnisse und gab diesen beachtlichen Raum f\u00fcr monatliche Ver\u00f6ffentlichungen in den \u201eNotizie degli Scavi\" (erschienen ab 1876). Resultierend aus dem wachsenden Interesse an Klassischer Arch\u00e4ologie bestand bald das Bed\u00fcrfnis nach mehr Raum f\u00fcr Beschreibungen und Illustrationen der antiken Monumente in Italien und Griechenland und ihrer Entdeckung. So wurden in den ab 1889 neu herausgegebenen \u201eMonumenti Antichi\" nicht nur neuere Ausgrabungen ber\u00fccksichtigt, die nach wie vor in den parallel weiter erscheinenden \u201eNotizie degli Scavi\" bekannt gemacht wurden, sondern auch bereits fr\u00fcher ausgegrabene Grabungsst\u00e4tten oder Funde konnten nun publiziert werden. Dabei handelte es sich um Denkm\u00e4ler von pr\u00e4historischem, klassischem, epigraphischem, numismatischem aber auch philologischem Interesse. Als zeitliche Obergrenze wurde der Beginn des fr\u00fchen Mittelalters angesetzt.", 
+    "description": "Monumenti Antichi. Die „Reale Accademia dei Lincei\" in Rom zeigte bereits früh großes Interesse an der Publikation archäologischer Forschungsergebnisse und gab diesen beachtlichen Raum für monatliche Veröffentlichungen in den „Notizie degli Scavi\" (erschienen ab 1876). Resultierend aus dem wachsenden Interesse an Klassischer Archäologie bestand bald das Bedürfnis nach mehr Raum für Beschreibungen und Illustrationen der antiken Monumente in Italien und Griechenland und ihrer Entdeckung. So wurden in den ab 1889 neu herausgegebenen „Monumenti Antichi\" nicht nur neuere Ausgrabungen berücksichtigt, die nach wie vor in den parallel weiter erscheinenden „Notizie degli Scavi\" bekannt gemacht wurden, sondern auch bereits früher ausgegrabene Grabungsstätten oder Funde konnten nun publiziert werden. Dabei handelte es sich um Denkmäler von prähistorischem, klassischem, epigraphischem, numismatischem aber auch philologischem Interesse. Als zeitliche Obergrenze wurde der Beginn des frühen Mittelalters angesetzt.", 
     "domain": "monumenti-antichi.uni-hd.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7500624129160990685", 
             "resource_date": "2012-11-15T13:10:36.330-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:09.545404"
+            "when": "2015-10-27T18:45:53.688681"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-monumenti-antichi.html", 
             "resource_date": "2012-11-15T13:10:36.330-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:09.545419"
+            "when": "2015-10-27T18:45:53.688696"
         }
     ], 
     "publishers": [], 

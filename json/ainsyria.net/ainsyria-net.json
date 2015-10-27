@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archaeology in Syria Network. Social Media at the Service of the Cultural Heritage and Archaeology. \u0648\u0633\u0640\u0627\u0626\u0640\u0637 \u0627\u0644\u0640\u062a\u0640\u0648\u0627\u0635\u0640\u0644 \u0627\u0644\u0627\u062c\u0640\u062a\u0640\u0645\u0640\u0627\u0639\u0640\u064a \u0641\u0640\u064a \u062e\u0640\u062f\u0645\u0640\u0629 \u0627\u0644\u0640\u062a\u0640\u0631\u0627\u062b \u0627\u0644\u0640\u062b\u0640\u0642\u0640\u0627\u0641\u0640\u064a \u0648\u0639\u0640\u0644\u0640\u0645 \u0627\u0644\u0622\u062b\u0640\u0627\u0631. Les m\u00e9dias sociaux au service du patrimoine culturel et de l\u2019arch\u00e9ologie.", 
+    "description": "Archaeology in Syria Network. Social Media at the Service of the Cultural Heritage and Archaeology. وسـائـط الـتـواصـل الاجـتـمـاعـي فـي خـدمـة الـتـراث الـثـقـافـي وعـلـم الآثـار. Les médias sociaux au service du patrimoine culturel et de l’archéologie.", 
     "domain": "ainsyria.net", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2272988812483263612", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:29.064062"
+            "when": "2015-10-27T18:38:37.304639"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/archaeology-in-syria-network.html", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:29.064079"
+            "when": "2015-10-27T18:38:37.304655"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2272988812483263612", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:29.066801"
+            "when": "2015-10-27T18:38:37.307242"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/archaeology-in-syria-network.html", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:29.066816"
+            "when": "2015-10-27T18:38:37.307254"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:29.088508"
+            "when": "2015-10-27T18:38:37.360553"
         }
     ], 
     "publishers": [], 
@@ -145,55 +145,55 @@
             "url": "http://ainsyria.net/"
         }, 
         {
-            "title_full": "\u25cf Info - Contact us", 
+            "title_full": "● Info - Contact us", 
             "url": "http://ainsyria.net/info/"
         }, 
         {
-            "title_full": "\u25cf Current Events", 
+            "title_full": "● Current Events", 
             "url": "http://ainsyria.net/ce/"
         }, 
         {
-            "title_full": "\u25cf Archaeology in Syria", 
+            "title_full": "● Archaeology in Syria", 
             "url": "http://ainsyria.net/ais/"
         }, 
         {
-            "title_full": "\u25cf Monuments", 
+            "title_full": "● Monuments", 
             "url": "http://ainsyria.net/mon/"
         }, 
         {
-            "title_full": "\u25cf Museum Collections", 
+            "title_full": "● Museum Collections", 
             "url": "http://ainsyria.net/mc/"
         }, 
         {
-            "title_full": "\u25cf Tell Afis", 
+            "title_full": "● Tell Afis", 
             "url": "http://ainsyria.net/ta/"
         }, 
         {
-            "title_full": "\u25cf Tell Barri", 
+            "title_full": "● Tell Barri", 
             "url": "http://ainsyria.net/tb/"
         }, 
         {
-            "title_full": "\u25cf Tell Halaf", 
+            "title_full": "● Tell Halaf", 
             "url": "http://ainsyria.net/th/"
         }, 
         {
-            "title_full": "\u25cf Tell Mardikh", 
+            "title_full": "● Tell Mardikh", 
             "url": "http://ainsyria.net/tm/"
         }, 
         {
-            "title_full": "\u25cf Tell Mozan", 
+            "title_full": "● Tell Mozan", 
             "url": "http://ainsyria.net/tmz/"
         }, 
         {
-            "title_full": "\u25cf Tell Sabi Abyad", 
+            "title_full": "● Tell Sabi Abyad", 
             "url": "http://ainsyria.net/tsa/"
         }, 
         {
-            "title_full": "\u25cf Publications", 
+            "title_full": "● Publications", 
             "url": "http://ainsyria.net/pub/"
         }, 
         {
-            "title_full": "\u25cf Cultural Heritage in Stamps", 
+            "title_full": "● Cultural Heritage in Stamps", 
             "url": "http://ainsyria.net/s/"
         }
     ], 

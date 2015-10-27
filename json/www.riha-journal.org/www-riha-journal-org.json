@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5881321166378374488", 
             "resource_date": "2015-01-05T09:41:52.123-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.523249"
+            "when": "2015-10-27T18:44:06.472007"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal.html", 
             "resource_date": "2015-01-05T09:41:52.123-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.523265"
+            "when": "2015-10-27T18:44:06.472022"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5881321166378374488", 
             "resource_date": "2015-01-05T09:41:52.123-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:32.539260"
+            "when": "2015-10-27T18:44:06.488241"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal.html", 
             "resource_date": "2015-01-05T09:41:52.123-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:32.539276"
+            "when": "2015-10-27T18:44:06.488256"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:32.558798"
+            "when": "2015-10-27T18:44:06.514276"
         }
     ], 
     "publishers": [], 
@@ -167,7 +167,7 @@
             "url": "http://www.riha-journal.org/articles/2010/stewart-geographies-of-provincialism"
         }, 
         {
-            "title_full": "0015 Hubertus G\u00fcnther, Die Salomonische S\u00e4ulenordnung", 
+            "title_full": "0015 Hubertus Günther, Die Salomonische Säulenordnung", 
             "url": "http://www.riha-journal.org/articles/2011/2011-jan-mar/guenther-salomonische-saeulenordnung"
         }, 
         {
@@ -175,11 +175,11 @@
             "url": "http://www.riha-journal.org/articles/2012/2012-oct-dec/schmuhl-inkarnat"
         }, 
         {
-            "title_full": "0007 Fritz Koreny, Ein unbekanntes Meisterwerk altdeutscher Glaskunst: Hans Wertingers gl\u00e4serne Hostienschale von 1498", 
+            "title_full": "0007 Fritz Koreny, Ein unbekanntes Meisterwerk altdeutscher Glaskunst: Hans Wertingers gläserne Hostienschale von 1498", 
             "url": "http://www.riha-journal.org/articles/2010/koreny-unbekanntes-meisterwerk-altdeutscher-glaskunst"
         }, 
         {
-            "title_full": "0020 G\u00fcnther Buchinger und Doris Sch\u00f6n, \"... jene, die ihre h\u00e4nde hilfreich zum bau erheben ...\": Zur zeitlichen Konkordanz von Weihe und Bauvollendung am Beispiel der Wiener Augustinerkirche und Georgskapelle", 
+            "title_full": "0020 Günther Buchinger und Doris Schön, \"... jene, die ihre hände hilfreich zum bau erheben ...\": Zur zeitlichen Konkordanz von Weihe und Bauvollendung am Beispiel der Wiener Augustinerkirche und Georgskapelle", 
             "url": "http://www.riha-journal.org/articles/2011/2011-apr-jun/buchinger-schoen-wiener-augustinerkirche"
         }, 
         {

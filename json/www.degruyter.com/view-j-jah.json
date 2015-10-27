@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6510595647673354527", 
             "resource_date": "2013-05-03T15:57:49.139-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:12.107300"
+            "when": "2015-10-27T18:44:50.568553"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/new-jouran-temporarily-open-access.html", 
             "resource_date": "2013-05-03T15:57:49.139-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:12.107317"
+            "when": "2015-10-27T18:44:50.568589"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6510595647673354527", 
             "resource_date": "2013-05-03T15:57:49.139-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:12.111660"
+            "when": "2015-10-27T18:44:50.575165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/new-jouran-temporarily-open-access.html", 
             "resource_date": "2013-05-03T15:57:49.139-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:12.111677"
+            "when": "2015-10-27T18:44:50.575184"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:12.113261"
+            "when": "2015-10-27T18:44:50.578128"
         }
     ], 
     "publishers": [], 

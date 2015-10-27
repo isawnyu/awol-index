@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.885573"
+            "when": "2015-10-27T18:38:38.959779"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.885589"
+            "when": "2015-10-27T18:38:38.959791"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8365232251359351016", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:22.883844"
+            "when": "2015-10-27T18:47:11.151412"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-23T07:14:32.413-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:22.883857"
+            "when": "2015-10-27T18:47:11.151423"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:22.921852"
+            "when": "2015-10-27T18:47:11.191177"
         }
     ], 
     "publishers": [], 
@@ -138,7 +138,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G. G\u00fcterbock. H. A. Hoffner, Jr., ed. 1997", 
+    "title": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G. Güterbock. H. A. Hoffner, Jr., ed. 1997", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

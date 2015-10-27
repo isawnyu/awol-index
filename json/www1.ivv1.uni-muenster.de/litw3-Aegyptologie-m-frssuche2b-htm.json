@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Monspaet-Datenbank des Instituts f\u00fcr \u00c4gyptologie und Koptologie der Westf\u00e4lischen Wilhelms-Universit\u00e4t M\u00fcnster. Untersuchung der (Tempel-) Baut\u00e4tigkeit von legitimen K\u00f6nigen versus der von Usurpatoren anhand von Bauinschriften und erhaltenen Baudenkm\u00e4lern (Ehemaliger Sonderforschungsbereich 493: Funktionen von Religion in antiken Gesellschaften des Vorderen Orients, Projekt C2/5). Die Datenbank enth\u00e4lt Material zur Baut\u00e4tigkeit der K\u00f6nige der Sp\u00e4tzeit, und, aber nur \u201een passant\" mitgenommen, auch weiteres Material, einige Privatdenkm\u00e4ler und funer\u00e4re Objekte von K\u00f6nigen. Abweichend vom Gebrauch in der Literaturdatenbank wurden hier Leerstellen in Suchbegriffen nicht durch \u201e_\" gef\u00fcllt. Das Material kann auf drei verschiedene Weisen abgerufen werden.", 
+    "description": "Monspaet-Datenbank des Instituts für Ägyptologie und Koptologie der Westfälischen Wilhelms-Universität Münster. Untersuchung der (Tempel-) Bautätigkeit von legitimen Königen versus der von Usurpatoren anhand von Bauinschriften und erhaltenen Baudenkmälern (Ehemaliger Sonderforschungsbereich 493: Funktionen von Religion in antiken Gesellschaften des Vorderen Orients, Projekt C2/5). Die Datenbank enthält Material zur Bautätigkeit der Könige der Spätzeit, und, aber nur „en passant\" mitgenommen, auch weiteres Material, einige Privatdenkmäler und funeräre Objekte von Königen. Abweichend vom Gebrauch in der Literaturdatenbank wurden hier Leerstellen in Suchbegriffen nicht durch „_\" gefüllt. Das Material kann auf drei verschiedene Weisen abgerufen werden.", 
     "domain": "www1.ivv1.uni-muenster.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Monspaet-Datenbank des Instituts f\u00fcr \u00c4gyptologie und Koptologie der Westf\u00e4lischen Wilhelms-Universit\u00e4t M\u00fcnster", 
+        "title_full": "Monspaet-Datenbank des Instituts für Ägyptologie und Koptologie der Westfälischen Wilhelms-Universität Münster", 
         "url": "http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/index03.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-675729438826163211", 
             "resource_date": "2015-02-04T11:39:47.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.124839"
+            "when": "2015-10-27T18:45:11.700202"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/monspaet-datenbank-des-instituts-fur.html", 
             "resource_date": "2015-02-04T11:39:47.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.124853"
+            "when": "2015-10-27T18:45:11.700223"
         }
     ], 
     "publishers": [], 

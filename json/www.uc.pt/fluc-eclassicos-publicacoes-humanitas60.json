@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3408186361561520245", 
             "resource_date": "2013-06-28T10:00:26.687-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:22.544831"
+            "when": "2015-10-27T18:40:36.515952"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-accesds-journal-humanitas.html", 
             "resource_date": "2013-06-28T10:00:26.687-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:22.544852"
+            "when": "2015-10-27T18:40:36.515970"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5443909457073060928", 
             "resource_date": "2013-06-28T09:42:25.458-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:58.135140"
+            "when": "2015-10-27T18:43:29.888992"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/two-open-access-journals-from.html", 
             "resource_date": "2013-06-28T09:42:25.458-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:58.135156"
+            "when": "2015-10-27T18:43:29.889003"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:58.324052"
+            "when": "2015-10-27T18:43:30.118025"
         }
     ], 
     "publishers": [], 

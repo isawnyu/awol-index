@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Gabrilaki, I. and Tzifopoulos, Y. (Hrsgg. ): Actes of the International Symposium \u2018Mylopotamos, from Antiquity to our Days\u2019 [\u03a0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba. \u0394\u03b9\u03b5\u03b8\u03bd\u03bf. \u03c2 \u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03bf\u03c5 \u00ab. \u039c\u03c5\u03bb\u03bf\u03c0\u03cc\u03c4\u03b1\u03bc\u03bf\u03c2. \u03c0. \u03c4. \u03bd. \u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1. \u03c2 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1\u00bb]. Rethymnon 2006, pp. 205-216. Chaniotis, Angelos (2001).", 
+    "description": "In: Gabrilaki, I. and Tzifopoulos, Y. (Hrsgg. ): Actes of the International Symposium ‘Mylopotamos, from Antiquity to our Days’ [Πρακτικ. Διεθνο. ς Συνεδρίου «. Μυλοπόταμος. π. τ. ν. ρχαιότητα. ς σήμερα»]. Rethymnon 2006, pp. 205-216. Chaniotis, Angelos (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.460938"
+            "when": "2015-10-27T18:46:45.627915"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.460952"
+            "when": "2015-10-27T18:46:45.627929"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:34.125318"
+            "when": "2015-10-27T18:48:27.385249"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:34.125334"
+            "when": "2015-10-27T18:48:27.385273"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.465450"
+            "when": "2015-10-27T18:48:38.063076"
         }
     ], 
     "publishers": [], 

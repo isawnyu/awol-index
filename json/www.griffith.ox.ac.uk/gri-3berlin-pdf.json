@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.946763"
+            "when": "2015-10-27T18:41:27.011642"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.946780"
+            "when": "2015-10-27T18:41:27.011654"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.380890"
+            "when": "2015-10-27T18:46:59.822586"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.380907"
+            "when": "2015-10-27T18:46:59.822597"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:12.401228"
+            "when": "2015-10-27T18:46:59.843325"
         }
     ], 
     "publishers": [], 
@@ -140,7 +140,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011)", 
+    "title": "The Topographical Bibliography working list of objects in Ägyptisches Museum in Berlin has been updated. (July 14, 2011)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Num\u00e9ro 9: Varia.", 
+    "description": "Numéro 9: Varia.", 
     "domain": "www.paris-sorbonne.fr", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3743767777832257103", 
             "resource_date": "2015-01-30T14:14:59.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:42.305181"
+            "when": "2015-10-27T18:41:00.680832"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/revue-de-linguistique-latine-du-centre.html", 
             "resource_date": "2015-01-30T14:14:59.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:42.305193"
+            "when": "2015-10-27T18:41:00.680856"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Num\u00e9ro 8 : Coexistence et concurrences entre les langues dans le monde romain. La scalarit\u00e9 en latin", 
+    "title": "Numéro 8 : Coexistence et concurrences entre les langues dans le monde romain. La scalarité en latin", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

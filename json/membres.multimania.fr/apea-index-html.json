@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale. ISSN 1278-687X. Association pour la Promotion des \u00c9tudes Arch\u00e9ologiques. APEA Objet de l'Association: Association (Loi du 1er juillet 1901), d\u00e9clar\u00e9e le 15 janvier 1996, publi\u00e9e au Journal Officiel de la R\u00e9publique Fran\u00e7aise, le 7 f\u00e9vrier 1996. L'APEA a pour but de faire conna\u00eetre de jeunes chercheurs en arch\u00e9ologie et en ethnologie. Publications: L'APEA dirige la publication de la \"Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale\" (ISSN 1278-687X). L'objectif de la cette revue est de donner un moyen d'expression aux \u00e9tudiants et aux jeunes chercheurs qu'ils soient en histoire de l'art ou arch\u00e9ologie africaine, oc\u00e9anienne, asiatique, islamique, am\u00e9ricaine ou fran\u00e7aise. Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale 1 Arch\u00e9ologie AfricainePRADINES St\u00e9phane, Les tumulus fun\u00e9raires s\u00e9n\u00e9gambiens. RAG n\u00b01, 1996, \u00e9d. APEA, Paris, 83p.", 
+    "description": "Revue d'Archéologie Générale. ISSN 1278-687X. Association pour la Promotion des Études Archéologiques. APEA Objet de l'Association: Association (Loi du 1er juillet 1901), déclarée le 15 janvier 1996, publiée au Journal Officiel de la République Française, le 7 février 1996. L'APEA a pour but de faire connaître de jeunes chercheurs en archéologie et en ethnologie. Publications: L'APEA dirige la publication de la \"Revue d'Archéologie Générale\" (ISSN 1278-687X). L'objectif de la cette revue est de donner un moyen d'expression aux étudiants et aux jeunes chercheurs qu'ils soient en histoire de l'art ou archéologie africaine, océanienne, asiatique, islamique, américaine ou française. Revue d'Archéologie Générale 1 Archéologie AfricainePRADINES Stéphane, Les tumulus funéraires sénégambiens. RAG n°1, 1996, éd. APEA, Paris, 83p.", 
     "domain": "membres.multimania.fr", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3978537494154636237", 
             "resource_date": "2012-05-24T21:37:43.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:53.457808"
+            "when": "2015-10-27T18:41:15.285350"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-revue-darcheologie.html", 
             "resource_date": "2012-05-24T21:37:43.770-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:53.457824"
+            "when": "2015-10-27T18:41:15.285367"
         }
     ], 
     "publishers": [], 
@@ -85,15 +85,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale 1", 
+            "title_full": "Revue d'Archéologie Générale 1", 
             "url": "http://membres.multimania.fr/apea/page2.html"
         }, 
         {
-            "title_full": "Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale 2", 
+            "title_full": "Revue d'Archéologie Générale 2", 
             "url": "http://membres.multimania.fr/apea/page3.html"
         }
     ], 
-    "title": "Revue d'Arch\u00e9ologie G\u00e9n\u00e9rale", 
+    "title": "Revue d'Archéologie Générale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

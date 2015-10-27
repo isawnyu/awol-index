@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kunze, Max (Hrsg. ): Akzidenzen 12. Flugbl\u00e4tter der Winckelmann-Gesellschaft. Stendal 2000, pp. 3-24. Herder, Johann Gottfried von (1888).", 
+    "description": "In: Kunze, Max (Hrsg. ): Akzidenzen 12. Flugblätter der Winckelmann-Gesellschaft. Stendal 2000, pp. 3-24. Herder, Johann Gottfried von (1888).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:36.107055"
+            "when": "2015-10-27T18:48:29.726268"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:36.107071"
+            "when": "2015-10-27T18:48:29.726286"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ludwig Ross und seine Bedeutung f\u00fcr die Klassischen Altertumswissenschaften", 
+    "title": "Ludwig Ross und seine Bedeutung für die Klassischen Altertumswissenschaften", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-595453025408811043", 
             "resource_date": "2015-03-31T16:37:34.142-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.993433"
+            "when": "2015-10-27T18:44:12.508873"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/recent-open-access-doctoral-theses-from.html", 
             "resource_date": "2015-03-31T16:37:34.142-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.993449"
+            "when": "2015-10-27T18:44:12.508893"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-595453025408811043", 
             "resource_date": "2015-03-31T16:37:34.142-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.996836"
+            "when": "2015-10-27T18:44:12.515363"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/recent-open-access-doctoral-theses-from.html", 
             "resource_date": "2015-03-31T16:37:34.142-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.996849"
+            "when": "2015-10-27T18:44:12.515381"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:38.021323"
+            "when": "2015-10-27T18:44:12.562879"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at \u00c7atalh\u00f6y\u00fck. Doctoral thesis, UCL (University College London)", 
+            "title_full": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at Çatalhöyük. Doctoral thesis, UCL (University College London)", 
             "url": "http://discovery.ucl.ac.uk/1348305/"
         }, 
         {
-            "title_full": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at \u00c7atalh\u00f6y\u00fck. Doctoral thesis, UCL (University College London)", 
+            "title_full": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at Çatalhöyük. Doctoral thesis, UCL (University College London)", 
             "url": "http://discovery.ucl.ac.uk/1368215/"
         }, 
         {
@@ -184,7 +184,7 @@
             "url": "http://discovery.ucl.ac.uk/1389425/"
         }
     ], 
-    "title": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at \u00c7atalh\u00f6y\u00fck. Doctoral thesis, UCL (University College London)", 
+    "title": "Anguilano, L. ; (2012) Roman lead silver smelting at Rio Tinto: the case study of Corta Lago. Doctoral thesis, UCL (University College London). . Bains, RK ; (2012) The social significance of Neolithic stone bead technologies at Çatalhöyük. Doctoral thesis, UCL (University College London)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

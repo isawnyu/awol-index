@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen des Deutschen Arch\u00e4ologischen Instituts, Abteilung Kairo, 21 (1966), pp. 123-132. Schenkel, Wolfgang (1966).", 
+    "description": "In: Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo, 21 (1966), pp. 123-132. Schenkel, Wolfgang (1966).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:00.600003"
+            "when": "2015-10-27T18:40:12.299980"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:00.600020"
+            "when": "2015-10-27T18:40:12.299997"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Konversion, ein Epiph\u00e4nomen der kemischen (\u00e4gyptisch-koptischen) Sprachgeschichte", 
+    "title": "Die Konversion, ein Epiphänomen der kemischen (ägyptisch-koptischen) Sprachgeschichte", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

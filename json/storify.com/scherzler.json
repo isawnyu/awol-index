@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Diane Scherzler on Syrian Cultural Heritage on Storify. Being an archaeologist by education, Diane Scherzler works as a journalist and project manager at S\u00fcdwestrundfunk (SWR), a major German Public Broadcasting Company. She teaches science communication and writing skills at several universities and research institutions. Diane serves as vice chairperson of Deutsche Gesellschaft f\u00fcr Ur- und Fr\u00fchgeschichte (German Society for Pre- and Protohistory) and is responsible for the society's monthly newsletter. Diane is founder and head of the Euroscience workgroup \"Science Communication\".", 
+    "description": "Diane Scherzler on Syrian Cultural Heritage on Storify. Being an archaeologist by education, Diane Scherzler works as a journalist and project manager at Südwestrundfunk (SWR), a major German Public Broadcasting Company. She teaches science communication and writing skills at several universities and research institutions. Diane serves as vice chairperson of Deutsche Gesellschaft für Ur- und Frühgeschichte (German Society for Pre- and Protohistory) and is responsible for the society's monthly newsletter. Diane is founder and head of the Euroscience workgroup \"Science Communication\".", 
     "domain": "storify.com", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821119692022182235", 
             "resource_date": "2012-11-12T18:42:23.937-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:17.755777"
+            "when": "2015-10-27T18:43:50.637265"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/diane-scherzler-on-syrian-cultural.html", 
             "resource_date": "2012-11-12T18:42:23.937-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:17.755795"
+            "when": "2015-10-27T18:43:50.637281"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821119692022182235", 
             "resource_date": "2012-11-12T18:42:23.937-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:17.762181"
+            "when": "2015-10-27T18:43:50.640643"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/diane-scherzler-on-syrian-cultural.html", 
             "resource_date": "2012-11-12T18:42:23.937-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:17.762202"
+            "when": "2015-10-27T18:43:50.640657"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:17.778916"
+            "when": "2015-10-27T18:43:50.650009"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Juan-Luis Montero Fenoll\u00f3s (con la colaboraci\u00f3n de Francisco Caramelo, Ignacio M\u00e1rquez Rowe y Jorge Sanjurjo S\u00e1nchez). ASIRIOS EN EL MEDIO \u00c9UFRATES. La cer\u00e1mica medioasiria de Tell Qabr Abu al-\u2018Atiq en su contexto hist\u00f3rico-arqueol\u00f3gico. Cuadernos Mesopot\u00e1micos n\u00ba 5.", 
+    "description": "Juan-Luis Montero Fenollós (con la colaboración de Francisco Caramelo, Ignacio Márquez Rowe y Jorge Sanjurjo Sánchez). ASIRIOS EN EL MEDIO ÉUFRATES. La cerámica medioasiria de Tell Qabr Abu al-‘Atiq en su contexto histórico-arqueológico. Cuadernos Mesopotámicos nº 5.", 
     "domain": "www.arqueologiaoriente.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "ASIRIOS EN EL MEDIO \u00c9UFRATES. La cer\u00e1mica medioasiria de Tell Qabr Abu al-\u2018Atiq en su contexto hist\u00f3rico-arqueol\u00f3gico", 
+        "title_full": "ASIRIOS EN EL MEDIO ÉUFRATES. La cerámica medioasiria de Tell Qabr Abu al-‘Atiq en su contexto histórico-arqueológico", 
         "url": "http://www.arqueologiaoriente.com/publicaciones/ceramica_medioasiria.pdf"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9112480200860661628", 
             "resource_date": "2015-02-20T07:59:37.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.649074"
+            "when": "2015-10-27T18:49:17.838874"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/asirios-en-el-medio-eufrates-la.html", 
             "resource_date": "2015-02-20T07:59:37.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.649087"
+            "when": "2015-10-27T18:49:17.838887"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9112480200860661628", 
             "resource_date": "2015-02-20T07:59:37.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:19.651177"
+            "when": "2015-10-27T18:49:17.841076"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/asirios-en-el-medio-eufrates-la.html", 
             "resource_date": "2015-02-20T07:59:37.130-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:19.651189"
+            "when": "2015-10-27T18:49:17.841088"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:19.652615"
+            "when": "2015-10-27T18:49:17.842971"
         }
     ], 
     "publishers": [], 
@@ -146,11 +146,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "ASIRIOS EN EL MEDIO \u00c9UFRATES. La cer\u00e1mica medioasiria de Tell Qabr Abu al-\u2018Atiq en su contexto hist\u00f3rico-arqueol\u00f3gico", 
+            "title_full": "ASIRIOS EN EL MEDIO ÉUFRATES. La cerámica medioasiria de Tell Qabr Abu al-‘Atiq en su contexto histórico-arqueológico", 
             "url": "http://www.arqueologiaoriente.com/publicaciones/ceramica_medioasiria.pdf"
         }
     ], 
-    "title": "ASIRIOS EN EL MEDIO \u00c9UFRATES. La cer\u00e1mica medioasiria de Tell Qabr Abu al-\u2018Atiq en su contexto hist\u00f3rico-arqueol\u00f3gico", 
+    "title": "ASIRIOS EN EL MEDIO ÉUFRATES. La cerámica medioasiria de Tell Qabr Abu al-‘Atiq en su contexto histórico-arqueológico", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3029520076253638769", 
             "resource_date": "2015-01-30T06:48:15.215-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.290198"
+            "when": "2015-10-27T18:39:09.868726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-paleoanthropology.html", 
             "resource_date": "2015-01-30T06:48:15.215-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.290215"
+            "when": "2015-10-27T18:39:09.868742"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3029520076253638769", 
             "resource_date": "2015-01-30T06:48:15.215-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.293999"
+            "when": "2015-10-27T18:39:09.873386"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-paleoanthropology.html", 
             "resource_date": "2015-01-30T06:48:15.215-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.294014"
+            "when": "2015-10-27T18:39:09.873422"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:01.457160"
+            "when": "2015-10-27T18:39:10.033037"
         }
     ], 
     "publishers": [], 
@@ -185,11 +185,11 @@
             "url": "http://www.paleoanthro.org/media/dissertations/V._Hutton_Estabrook.pdf"
         }, 
         {
-            "title_full": "Mounier, Aur\u00e9lien. 2009. Validit\u00e9 du taxon Homo heidelbergensis Schoetensack, 1908. Universit\u00e9 de la M\u00e9diterran\u00e9e. 514 pp. Abstract Thesis", 
+            "title_full": "Mounier, Aurélien. 2009. Validité du taxon Homo heidelbergensis Schoetensack, 1908. Université de la Méditerranée. 514 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/M_Aurelien_Mounier-abstract.pdf"
         }, 
         {
-            "title_full": "Mounier, Aur\u00e9lien. 2009. Validit\u00e9 du taxon Homo heidelbergensis Schoetensack, 1908. Universit\u00e9 de la M\u00e9diterran\u00e9e. 514 pp. Abstract Thesis", 
+            "title_full": "Mounier, Aurélien. 2009. Validité du taxon Homo heidelbergensis Schoetensack, 1908. Université de la Méditerranée. 514 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/M_Aurelien_Mounier.pdf"
         }, 
         {
@@ -221,11 +221,11 @@
             "url": "http://www.paleoanthro.org/media/dissertations/Michael_Masters.pdf"
         }, 
         {
-            "title_full": "Scandiuzzi, Rene. 2008. Les Tambourets: un gisement ch\u00e2telperronien de plein air, au seuil des Petites Pyr\u00e9n\u00e9es, Etude de l\u2019industrie lithique. Fouilles H. M. Bricker, 1973, 1975, 1980..Coulad\u00e8re, Haute-Garonne). M\u00e9moire de Master II, Universit\u00e9 de Toulouse II le Mirail . Universit\u00e9 de Toulouse II le Mirail. 131 pp. Abstract Thesis", 
+            "title_full": "Scandiuzzi, Rene. 2008. Les Tambourets: un gisement châtelperronien de plein air, au seuil des Petites Pyrénées, Etude de l’industrie lithique. Fouilles H. M. Bricker, 1973, 1975, 1980..Couladère, Haute-Garonne). Mémoire de Master II, Université de Toulouse II le Mirail . Université de Toulouse II le Mirail. 131 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Scandiuzzi2008-abstract.pdf"
         }, 
         {
-            "title_full": "Scandiuzzi, Rene. 2008. Les Tambourets: un gisement ch\u00e2telperronien de plein air, au seuil des Petites Pyr\u00e9n\u00e9es, Etude de l\u2019industrie lithique. Fouilles H. M. Bricker, 1973, 1975, 1980..Coulad\u00e8re, Haute-Garonne). M\u00e9moire de Master II, Universit\u00e9 de Toulouse II le Mirail . Universit\u00e9 de Toulouse II le Mirail. 131 pp. Abstract Thesis", 
+            "title_full": "Scandiuzzi, Rene. 2008. Les Tambourets: un gisement châtelperronien de plein air, au seuil des Petites Pyrénées, Etude de l’industrie lithique. Fouilles H. M. Bricker, 1973, 1975, 1980..Couladère, Haute-Garonne). Mémoire de Master II, Université de Toulouse II le Mirail . Université de Toulouse II le Mirail. 131 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Scandiuzzi2008.pdf"
         }, 
         {
@@ -249,27 +249,27 @@
             "url": "http://www.paleoanthro.org/media/dissertations/Robert_Stallman-Abstract.pdf"
         }, 
         {
-            "title_full": "Reed, Denn\u00e9 N.. 2003. Micromammal Paleoecology: Past and present relationships between African small mammals and their habitats. Stony Brook University. 242 pp. Abstract Thesis", 
+            "title_full": "Reed, Denné N.. 2003. Micromammal Paleoecology: Past and present relationships between African small mammals and their habitats. Stony Brook University. 242 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Reed_2003_dissertation_abstract.pdf"
         }, 
         {
-            "title_full": "Reed, Denn\u00e9 N.. 2003. Micromammal Paleoecology: Past and present relationships between African small mammals and their habitats. Stony Brook University. 242 pp. Abstract Thesis", 
+            "title_full": "Reed, Denné N.. 2003. Micromammal Paleoecology: Past and present relationships between African small mammals and their habitats. Stony Brook University. 242 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Reed_2003_MP.pdf"
         }, 
         {
-            "title_full": "Cleuvenot, Emmanuel. 1999. Courbures Sagittales de la Colonne Vertebrale Determinees par la Morphologie des Vertebres. Developpement d'une Nouvelle Methodologie et Application chezHomo sapiens.. Universit\u00e9 de Bordeaux. 317 pp. Abstract Thesis", 
+            "title_full": "Cleuvenot, Emmanuel. 1999. Courbures Sagittales de la Colonne Vertebrale Determinees par la Morphologie des Vertebres. Developpement d'une Nouvelle Methodologie et Application chezHomo sapiens.. Université de Bordeaux. 317 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Cleuvenot_1999_abstract.pdf"
         }, 
         {
-            "title_full": "Cleuvenot, Emmanuel. 1999. Courbures Sagittales de la Colonne Vertebrale Determinees par la Morphologie des Vertebres. Developpement d'une Nouvelle Methodologie et Application chezHomo sapiens.. Universit\u00e9 de Bordeaux. 317 pp. Abstract Thesis", 
+            "title_full": "Cleuvenot, Emmanuel. 1999. Courbures Sagittales de la Colonne Vertebrale Determinees par la Morphologie des Vertebres. Developpement d'une Nouvelle Methodologie et Application chezHomo sapiens.. Université de Bordeaux. 317 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/Cleuvenot_1999_abstract_1.pdf"
         }, 
         {
-            "title_full": "Bouzouggar, Abdeljalil. 1997. Mati\u00e8res premi\u00e8res, processus de fabrication et de gestion des supports d'outils dans la s\u00e9quence at\u00e9rienne de la grotte des Contrabandiers \u00e0 T\u00e9mera. Universit\u00e9 de Bordeaux. 312 pp. Abstract Thesis", 
+            "title_full": "Bouzouggar, Abdeljalil. 1997. Matières premières, processus de fabrication et de gestion des supports d'outils dans la séquence atérienne de la grotte des Contrabandiers à Témera. Université de Bordeaux. 312 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/bouzouggar_1997_abstract.pdf"
         }, 
         {
-            "title_full": "Bouzouggar, Abdeljalil. 1997. Mati\u00e8res premi\u00e8res, processus de fabrication et de gestion des supports d'outils dans la s\u00e9quence at\u00e9rienne de la grotte des Contrabandiers \u00e0 T\u00e9mera. Universit\u00e9 de Bordeaux. 312 pp. Abstract Thesis", 
+            "title_full": "Bouzouggar, Abdeljalil. 1997. Matières premières, processus de fabrication et de gestion des supports d'outils dans la séquence atérienne de la grotte des Contrabandiers à Témera. Université de Bordeaux. 312 pp. Abstract Thesis", 
             "url": "http://www.paleoanthro.org/media/dissertations/bouzouggar_1997.pdf"
         }, 
         {

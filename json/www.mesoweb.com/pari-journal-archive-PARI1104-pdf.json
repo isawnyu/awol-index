@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Spring 2011. In Memoriam: Merle Greene Robertson By Marc Zender and Joel Skidmore. Recent Investigations in the Salto de Agua Region: Sites, Territories, and Frontiers to the West of Palenque By Joshua A. Balcells Gonz\u00e1lez, Jorge E. Gama Castro, and Esteban Mir\u00f3n Marv\u00e1n. The San Bartolo Regional Archaeological Project: Results of the First Field Season 2002 By William A. Saturno. Morley's Diary: April 27, 1932.", 
+    "description": "Spring 2011. In Memoriam: Merle Greene Robertson By Marc Zender and Joel Skidmore. Recent Investigations in the Salto de Agua Region: Sites, Territories, and Frontiers to the West of Palenque By Joshua A. Balcells González, Jorge E. Gama Castro, and Esteban Mirón Marván. The San Bartolo Regional Archaeological Project: Results of the First Field Season 2002 By William A. Saturno. Morley's Diary: April 27, 1932.", 
     "domain": "www.mesoweb.com", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.087809"
+            "when": "2015-10-27T18:42:11.027116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.087822"
+            "when": "2015-10-27T18:42:11.027127"
         }
     ], 
     "publishers": [], 

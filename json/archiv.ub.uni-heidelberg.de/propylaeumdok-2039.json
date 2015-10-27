@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 3 (1972), pp. 37-38. Schenkel, Wolfgang and Junge, Friedrich (1973).", 
+    "description": "In: Göttinger Miszellen, 3 (1972), pp. 37-38. Schenkel, Wolfgang and Junge, Friedrich (1973).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:02.526446"
+            "when": "2015-10-27T18:40:14.296180"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:02.526462"
+            "when": "2015-10-27T18:40:14.296197"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "G\u00f6ttinger Konkordanz zu den alt\u00e4gyptischen Sargtexten", 
+    "title": "Göttinger Konkordanz zu den altägyptischen Sargtexten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

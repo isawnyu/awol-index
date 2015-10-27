@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1288606133402046828", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:17.458830"
+            "when": "2015-10-27T18:37:19.285595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:17.458847"
+            "when": "2015-10-27T18:37:19.285610"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1288606133402046828", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:17.460642"
+            "when": "2015-10-27T18:37:19.287591"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/one-off-journal-issues-traitement.html", 
             "resource_date": "2014-05-15T10:58:48.178-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:17.460654"
+            "when": "2015-10-27T18:37:19.287603"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:17.489583"
+            "when": "2015-10-27T18:37:19.317819"
         }
     ], 
     "publishers": [], 
@@ -147,11 +147,11 @@
             "url": "http://www.atala.org/-Traitement-automatique-des-langues-"
         }, 
         {
-            "title_full": "Joseph Denooz, Serge Rosmorduc . Pr\u00e9face", 
+            "title_full": "Joseph Denooz, Serge Rosmorduc . Préface", 
             "url": "http://www.atala.org/Preface,496"
         }, 
         {
-            "title_full": "Dag T. T. Haug, Marius L. J\u00f8hndal, Hanne M. Eckhoff, Eirik Welo, Mari J. B. Hertzenberg, Angelika M\u00fcth . Computational and Linguistic Issues in Designing a Syntactically Annotated Parallel Corpus of Indo-European Languages", 
+            "title_full": "Dag T. T. Haug, Marius L. Jøhndal, Hanne M. Eckhoff, Eirik Welo, Mari J. B. Hertzenberg, Angelika Müth . Computational and Linguistic Issues in Designing a Syntactically Annotated Parallel Corpus of Indo-European Languages", 
             "url": "http://www.atala.org/Computational-and-Linguistic"
         }, 
         {
@@ -159,7 +159,7 @@
             "url": "http://www.atala.org/Building-and-Using-a-Richly"
         }, 
         {
-            "title_full": "Arnaldo Candido Junior, Sandra Maria Alu\u00edsio . Building a Corpus-based Historical Portuguese Dictionary : Challenges and Opportunities", 
+            "title_full": "Arnaldo Candido Junior, Sandra Maria Aluísio . Building a Corpus-based Historical Portuguese Dictionary : Challenges and Opportunities", 
             "url": "http://www.atala.org/Building-a-Corpus-based-Historical"
         }, 
         {
@@ -167,7 +167,7 @@
             "url": "http://www.atala.org/The-Index-Thomisticus-Treebank"
         }, 
         {
-            "title_full": "C\u00e9line Poudat, Dominique Longr\u00e9e . Variations langagi\u00e8res et annotation morphosyntaxique du latin classique", 
+            "title_full": "Céline Poudat, Dominique Longrée . Variations langagières et annotation morphosyntaxique du latin classique", 
             "url": "http://www.atala.org/Variations-langagieres-et"
         }, 
         {
@@ -175,11 +175,11 @@
             "url": "http://www.atala.org/LGeRM"
         }, 
         {
-            "title_full": "Fran\u00e7ois Barth\u00e9lemy . Une description morphologique structur\u00e9e en arbre du verbe akkadien qui utilise des structures de traits et des transducteurs multirubans", 
+            "title_full": "François Barthélemy . Une description morphologique structurée en arbre du verbe akkadien qui utilise des structures de traits et des transducteurs multirubans", 
             "url": "http://www.atala.org/Une-description-morphologique"
         }, 
         {
-            "title_full": "Grzegorz Kondrak . Identi\ufb01cation of Cognates and Recurrent Sound Correspondences in Word Lists", 
+            "title_full": "Grzegorz Kondrak . Identiﬁcation of Cognates and Recurrent Sound Correspondences in Word Lists", 
             "url": "http://www.atala.org/article505,505"
         }, 
         {
@@ -191,7 +191,7 @@
             "url": "http://www.atala.org/Notes-de-lecture,507"
         }, 
         {
-            "title_full": "R\u00e9sum\u00e9s de th\u00e8ses", 
+            "title_full": "Résumés de thèses", 
             "url": "http://www.atala.org/Resumes-de-theses,508"
         }
     ], 

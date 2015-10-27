@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Litt\u00e9rature", 
+        "title_full": "Littérature", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:55.264253"
+            "when": "2015-10-27T18:44:31.719969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:55.264264"
+            "when": "2015-10-27T18:44:31.719981"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Parler, penser, voir : le Roman de la Rose et l'\u00e9trange", 
+    "title": "Parler, penser, voir : le Roman de la Rose et l'étrange", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

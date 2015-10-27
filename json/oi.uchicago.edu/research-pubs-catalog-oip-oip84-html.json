@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4308619886868912773", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.724869"
+            "when": "2015-10-27T18:41:50.080908"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-digitized-from-oriental-institute_13.html", 
             "resource_date": "2009-11-13T18:17:24.306-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.724882"
+            "when": "2015-10-27T18:41:50.080922"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.257660"
+            "when": "2015-10-27T18:41:52.815976"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.257671"
+            "when": "2015-10-27T18:41:52.815990"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:27.289931"
+            "when": "2015-10-27T18:41:52.851898"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.410504"
+            "when": "2015-10-27T18:45:19.624967"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.410516"
+            "when": "2015-10-27T18:45:19.624979"
         }, 
         {
             "fields": [
@@ -189,7 +189,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.458211"
+            "when": "2015-10-27T18:45:19.673540"
         }, 
         {
             "fields": [
@@ -230,13 +230,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-789024539632057730", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.654855"
+            "when": "2015-10-27T18:46:40.666058"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/the-oriental-institutes-publications-on.html", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.654872"
+            "when": "2015-10-27T18:46:40.666070"
         }, 
         {
             "fields": [
@@ -251,7 +251,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.720008"
+            "when": "2015-10-27T18:46:40.732737"
         }
     ], 
     "publishers": [], 

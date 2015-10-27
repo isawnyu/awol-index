@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:19.106321"
+            "when": "2015-10-27T18:43:52.064377"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:19.106336"
+            "when": "2015-10-27T18:43:52.064391"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00d4 dieux de Crotone ! Lieux et t\u00e9moignages du sacr\u00e9 \u00e0 l'int\u00e9rieur d'une ville antique de Calabre. Catalogue d'exposition", 
+    "title": "Ô dieux de Crotone ! Lieux et témoignages du sacré à l'intérieur d'une ville antique de Calabre. Catalogue d'exposition", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue de Qumr\u00e2n. ISSN: 0035-1725. On the occasion of the launch of the Website of the Revue de Qumr\u00e2n, Gabalda publishing and the editorial board are pleased to offer in open access twelve articles published in the journal between 1958 and today. Most of them have been seminal in one way or another, and all, we think, continue to repay close study. The selection was made to illustrate the diversity of subject matter, scholarly approach, geographic provenance.", 
+    "description": "Revue de Qumrân. ISSN: 0035-1725. On the occasion of the launch of the Website of the Revue de Qumrân, Gabalda publishing and the editorial board are pleased to offer in open access twelve articles published in the journal between 1958 and today. Most of them have been seminal in one way or another, and all, we think, continue to repay close study. The selection was made to illustrate the diversity of subject matter, scholarly approach, geographic provenance.", 
     "domain": "s202645882.onlinehome.fr", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0035-1725", 
-        "title_full": "Revue de Qumr\u00e2n", 
+        "title_full": "Revue de Qumrân", 
         "url": "http://s202645882.onlinehome.fr/index.php/en/volumes-issues/featured-articles"
     }, 
     "issuance": null, 
@@ -74,13 +74,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7061663797837553214", 
             "resource_date": "2015-04-16T16:40:00.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.344972"
+            "when": "2015-10-27T18:45:22.806023"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-to-featured-articles-in.html", 
             "resource_date": "2015-04-16T16:40:00.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.344989"
+            "when": "2015-10-27T18:45:22.806038"
         }, 
         {
             "fields": [
@@ -121,13 +121,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7061663797837553214", 
             "resource_date": "2015-04-16T16:40:00.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.348178"
+            "when": "2015-10-27T18:45:22.812229"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/open-access-to-featured-articles-in.html", 
             "resource_date": "2015-04-16T16:40:00.311-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.348191"
+            "when": "2015-10-27T18:45:22.812250"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:41.349687"
+            "when": "2015-10-27T18:45:22.815206"
         }
     ], 
     "publishers": [], 
@@ -151,11 +151,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Revue de Qumr\u00e2n", 
+            "title_full": "Revue de Qumrân", 
             "url": "http://s202645882.onlinehome.fr/index.php/en/volumes-issues/featured-articles"
         }
     ], 
-    "title": "Revue de Qumr\u00e2n", 
+    "title": "Revue de Qumrân", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

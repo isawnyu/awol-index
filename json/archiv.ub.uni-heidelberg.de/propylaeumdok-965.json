@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Karenberg, A. and Leitz, C. (Hrsgg. ): Heilkunde und Hochkultur II. \u2018Magie und Medizin\u2019 und \u2018Der alte Mensch\u2019 in den antiken Zivilisationen des Mittelmeerraumes. M\u00fcnster 2002, pp. 3-19. Maul, Stefan (2001).", 
+    "description": "In: Karenberg, A. and Leitz, C. (Hrsgg. ): Heilkunde und Hochkultur II. ‘Magie und Medizin’ und ‘Der alte Mensch’ in den antiken Zivilisationen des Mittelmeerraumes. Münster 2002, pp. 3-19. Maul, Stefan (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.785661"
+            "when": "2015-10-27T18:46:21.529532"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.785677"
+            "when": "2015-10-27T18:46:21.529557"
         }
     ], 
     "publishers": [], 

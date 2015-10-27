@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gaia: revue interdisciplinaire sur la Gr\u00e8ce Archa\u00efque. ISSN: 1262-3717. GAIA est une revue interdisciplinaire sur la Gr\u00e8ce ancienne fond\u00e9e en 1997. Con\u00e7ue comme un carrefour de discussions portant sur la Gr\u00e8ce ancienne et sa r\u00e9ception, elle publie des articles d\u2019auteurs issus de disciplines diff\u00e9rentes (litt\u00e9rature, linguistique, philologie, histoire, anthropologie, arch\u00e9ologie) mais compl\u00e9mentaires. Elle accueille \u00e9galement des num\u00e9ros th\u00e9matiques et des comptes rendus d'ouvrages, principalement en fran\u00e7ais, anglais et italien. Elle publie enfin des traductions en fran\u00e7ais d\u2019articles que le comit\u00e9 de r\u00e9daction juge important de faire conna\u00eetre.", 
+    "description": "Gaia: revue interdisciplinaire sur la Grèce Archaïque. ISSN: 1262-3717. GAIA est une revue interdisciplinaire sur la Grèce ancienne fondée en 1997. Conçue comme un carrefour de discussions portant sur la Grèce ancienne et sa réception, elle publie des articles d’auteurs issus de disciplines différentes (littérature, linguistique, philologie, histoire, anthropologie, archéologie) mais complémentaires. Elle accueille également des numéros thématiques et des comptes rendus d'ouvrages, principalement en français, anglais et italien. Elle publie enfin des traductions en français d’articles que le comité de rédaction juge important de faire connaître.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Gaia: revue interdisciplinaire sur la Gr\u00e8ce Archa\u00efque", 
+        "title_full": "Gaia: revue interdisciplinaire sur la Grèce Archaïque", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/gaia"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4838617049522110536", 
             "resource_date": "2014-11-17T17:17:29.026-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:08.590658"
+            "when": "2015-10-27T18:42:37.414750"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/emerginmg-open-access-journal-gaia.html", 
             "resource_date": "2014-11-17T17:17:29.026-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:08.590671"
+            "when": "2015-10-27T18:42:37.414767"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient. La lettre d\u2019information \u00e9lectronique de l\u2019Ifpo, L\u2019Orient proche, vous informe de l\u2019agenda scientifique de l\u2019Institut fran\u00e7ais du Proche-Orient. Elle para\u00eet au maximum deux fois par an. Elle signale les principales actualit\u00e9s de l'Ifpo, les publications r\u00e9centes et les nouveaut\u00e9s de notre site web et autres publications \u00e9lectroniques. L\u2019abonnement est libre et gratuit: pour cela, utiliser le formulaire de la colonne de gauche du site web en saisissant l\u2019adresse \u00e9lectronique sur laquelle vous souhaitez recevoir L\u2019Orient proche.", 
+    "description": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient. La lettre d’information électronique de l’Ifpo, L’Orient proche, vous informe de l’agenda scientifique de l’Institut français du Proche-Orient. Elle paraît au maximum deux fois par an. Elle signale les principales actualités de l'Ifpo, les publications récentes et les nouveautés de notre site web et autres publications électroniques. L’abonnement est libre et gratuit: pour cela, utiliser le formulaire de la colonne de gauche du site web en saisissant l’adresse électronique sur laquelle vous souhaitez recevoir L’Orient proche.", 
     "domain": "www.ifporient.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient", 
+        "title_full": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient", 
         "url": "http://www.ifporient.org/node/819"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2537920619229504785", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.055190"
+            "when": "2015-10-27T18:38:48.176679"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-lorient-proche.html", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.055207"
+            "when": "2015-10-27T18:38:48.176695"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2537920619229504785", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.059376"
+            "when": "2015-10-27T18:38:48.180605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-lorient-proche.html", 
             "resource_date": "2015-01-21T16:05:07.452-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.059390"
+            "when": "2015-10-27T18:38:48.180619"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:40.085726"
+            "when": "2015-10-27T18:38:48.204869"
         }
     ], 
     "publishers": [], 
@@ -144,55 +144,55 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient", 
+            "title_full": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient", 
             "url": "http://www.ifporient.org/node/819"
         }, 
         {
-            "title_full": "L\u2019Orient proche, janvier 2014. La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 31 janvier, 2014 - 10:42", 
+            "title_full": "L’Orient proche, janvier 2014. La lettre d’information de l’Institut français du Proche-Orient 31 janvier, 2014 - 10:42", 
             "url": "http://www.ifporient.org/node/1429"
         }, 
         {
-            "title_full": "L\u2019Orient proche, mars 2013. La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 2 d\u00e9cembre, 2013 - 14:48", 
+            "title_full": "L’Orient proche, mars 2013. La lettre d’information de l’Institut français du Proche-Orient 2 décembre, 2013 - 14:48", 
             "url": "http://www.ifporient.org/node/1276"
         }, 
         {
-            "title_full": "L\u2019Orient Proche : v\u0153ux 2013 28 janvier, 2013 - 10:10", 
+            "title_full": "L’Orient Proche : vœux 2013 28 janvier, 2013 - 10:10", 
             "url": "http://www.ifporient.org/node/1230"
         }, 
         {
-            "title_full": "L\u2019Orient proche, d\u00e9cembre 2012. La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 17 d\u00e9cembre, 2012 - 17:40", 
+            "title_full": "L’Orient proche, décembre 2012. La lettre d’information de l’Institut français du Proche-Orient 17 décembre, 2012 - 17:40", 
             "url": "http://www.ifporient.org/node/1196"
         }, 
         {
-            "title_full": "L\u2019Orient proche, juin 2012. La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 22 juin, 2012 - 10:03", 
+            "title_full": "L’Orient proche, juin 2012. La lettre d’information de l’Institut français du Proche-Orient 22 juin, 2012 - 10:03", 
             "url": "http://www.ifporient.org/node/1129"
         }, 
         {
-            "title_full": "L\u2019Orient Proche : v\u0153ux 2012 10 janvier, 2012 - 11:15", 
+            "title_full": "L’Orient Proche : vœux 2012 10 janvier, 2012 - 11:15", 
             "url": "http://www.ifporient.org/node/1039"
         }, 
         {
-            "title_full": "L\u2019Orient Proche, d\u00e9cembre 2011 : La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 4 juin, 2012 - 10:17", 
+            "title_full": "L’Orient Proche, décembre 2011 : La lettre d’information de l’Institut français du Proche-Orient 4 juin, 2012 - 10:17", 
             "url": "http://www.ifporient.org/node/1023"
         }, 
         {
-            "title_full": "L\u2019Orient Proche, juin 2011 : La lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 28 ao\u00fbt, 2011 - 18:30", 
+            "title_full": "L’Orient Proche, juin 2011 : La lettre d’information de l’Institut français du Proche-Orient 28 août, 2011 - 18:30", 
             "url": "http://www.ifporient.org/node/943"
         }, 
         {
-            "title_full": "L\u2019Orient proche 20 janvier, 2011 - 18:57", 
+            "title_full": "L’Orient proche 20 janvier, 2011 - 18:57", 
             "url": "http://www.ifporient.org/node/842"
         }, 
         {
-            "title_full": "L\u2019Orient proche : lettre d\u2019information de l\u2019Institut fran\u00e7ais du Proche-Orient 15 mai, 2011 - 17:19", 
+            "title_full": "L’Orient proche : lettre d’information de l’Institut français du Proche-Orient 15 mai, 2011 - 17:19", 
             "url": "http://www.ifporient.org/node/779"
         }, 
         {
-            "title_full": "La Lettre d'Information de l'Institut fran\u00e7ais du Proche-Orient 7 juillet, 2009 - 14:05", 
+            "title_full": "La Lettre d'Information de l'Institut français du Proche-Orient 7 juillet, 2009 - 14:05", 
             "url": "http://www.ifporient.org/node/382"
         }
     ], 
-    "title": "L\u2019Orient proche: lettre d\u2019information \u00e9lectronique de l\u2019Institut fran\u00e7ais du Proche-Orient", 
+    "title": "L’Orient proche: lettre d’information électronique de l’Institut français du Proche-Orient", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

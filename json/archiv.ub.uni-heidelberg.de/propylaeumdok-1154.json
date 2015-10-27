@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Orientalia, 47 (1978), pp. 419-430. R\u00f6llig, Wolfgang (1983).", 
+    "description": "In: Orientalia, 47 (1978), pp. 419-430. Röllig, Wolfgang (1983).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.257298"
+            "when": "2015-10-27T18:46:25.056215"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.257316"
+            "when": "2015-10-27T18:46:25.056232"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "D\u016br-Katlimmu", 
+    "title": "Dūr-Katlimmu", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

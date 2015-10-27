@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.642606"
+            "when": "2015-10-27T18:47:51.690471"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.642617"
+            "when": "2015-10-27T18:47:51.690483"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Fanny Michel-Dansac et Annie Caubet L\u2019iconographie et le symbolisme du palmier dattier dans l\u2019Antiquit\u00e9 (Proche-Orient, \u00c9gypte, M\u00e9diterran\u00e9e orientale) [Texte int\u00e9gral] Iconography and symbolism of the date palm in Antiquity (Near East, Egypt, Eastern Mediterranean)", 
+    "title": "Fanny Michel-Dansac et Annie Caubet L’iconographie et le symbolisme du palmier dattier dans l’Antiquité (Proche-Orient, Égypte, Méditerranée orientale) [Texte intégral] Iconography and symbolism of the date palm in Antiquity (Near East, Egypt, Eastern Mediterranean)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

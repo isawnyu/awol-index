@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Rursus: Poi\u00e9tique, r\u00e9ception et r\u00e9", 
+        "title_full": "Rursus: Poiétique, réception et ré", 
         "url": "http://rursus.revues.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4359145536672176349", 
             "resource_date": "2015-04-13T11:02:14.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.881060"
+            "when": "2015-10-27T18:41:51.307275"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-rursus.html", 
             "resource_date": "2015-04-13T11:02:14.966-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.881071"
+            "when": "2015-10-27T18:41:51.307287"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Beno\u00eet Louyest L\u2019\u00e9pitom\u00e9 du Banquet des sophistes d\u2019Ath\u00e9n\u00e9e : [Texte int\u00e9gral] Vers une \u00e9tude comparative entre l\u2019\u00e9pitom\u00e9 et le Marcianus The Epitome of Athenaeus\u2019 Deipnosophists :Towards a comparative study between the Epitome and Marcianus", 
+    "title": "Benoît Louyest L’épitomé du Banquet des sophistes d’Athénée : [Texte intégral] Vers une étude comparative entre l’épitomé et le Marcianus The Epitome of Athenaeus’ Deipnosophists :Towards a comparative study between the Epitome and Marcianus", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

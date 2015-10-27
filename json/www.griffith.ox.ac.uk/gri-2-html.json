@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "New from the Griffith Institute. Petrie's Photographs of Egypt. Landscape, monuments, people. A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) The list of current archive projects has been updated. (July 14, 2011) List of private collections, dealers and auction houses with objects included in the Topographical Bibliography. (July 14, 2011) The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011) Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (July 2, 2011) An album of Howard Carter's watercolours of birds and animals (July 1, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011) Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011). And see.", 
+    "description": "New from the Griffith Institute. Petrie's Photographs of Egypt. Landscape, monuments, people. A database of photographs taken by Flinders Petrie in Egypt in 1886-7. (July 18, 2011) The list of current archive projects has been updated. (July 14, 2011) List of private collections, dealers and auction houses with objects included in the Topographical Bibliography. (July 14, 2011) The Topographical Bibliography working list of objects in Ägyptisches Museum in Berlin has been updated. (July 14, 2011) Further additions have been made to Portraits and manuscript images of handwriting of Egyptologists. (July 2, 2011) An album of Howard Carter's watercolours of birds and animals (July 1, 2011) The Topographical Bibliography working list of objects in the Egyptian Museum in Cairo has been updated. (June 22, 2011) Alfred Lucas's Register of samples 1922-1939 which includes many items from the tomb of Tutankhamun. (June 15, 2011). And see.", 
     "domain": "www.griffith.ox.ac.uk", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.927037"
+            "when": "2015-10-27T18:41:27.000693"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.927055"
+            "when": "2015-10-27T18:41:27.000709"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4195572223629835088", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:03.929903"
+            "when": "2015-10-27T18:41:27.002294"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:18:05.822-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:03.929924"
+            "when": "2015-10-27T18:41:27.002305"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:03.954287"
+            "when": "2015-10-27T18:41:27.017825"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.112699"
+            "when": "2015-10-27T18:43:07.196107"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.112715"
+            "when": "2015-10-27T18:43:07.196123"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:37.131290"
+            "when": "2015-10-27T18:43:07.215951"
         }, 
         {
             "fields": [
@@ -233,13 +233,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4992273992170092691", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.114703"
+            "when": "2015-10-27T18:43:07.198295"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/news-from-griffith-institute.html", 
             "resource_date": "2011-04-20T16:01:53.138-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.114715"
+            "when": "2015-10-27T18:43:07.198307"
         }, 
         {
             "fields": [
@@ -253,7 +253,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:37.133489"
+            "when": "2015-10-27T18:43:07.218636"
         }, 
         {
             "fields": [
@@ -294,13 +294,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.366163"
+            "when": "2015-10-27T18:46:59.811869"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.366189"
+            "when": "2015-10-27T18:46:59.811885"
         }, 
         {
             "fields": [
@@ -315,7 +315,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:12.392787"
+            "when": "2015-10-27T18:46:59.833145"
         }, 
         {
             "fields": [
@@ -356,13 +356,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8094499180810007320", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:12.367811"
+            "when": "2015-10-27T18:46:59.813473"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/new-from-griffith-institute.html", 
             "resource_date": "2011-07-20T10:19:51.273-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:12.367824"
+            "when": "2015-10-27T18:46:59.813484"
         }, 
         {
             "fields": [
@@ -376,7 +376,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:12.396131"
+            "when": "2015-10-27T18:46:59.836806"
         }, 
         {
             "fields": [
@@ -417,13 +417,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8971774259325725367", 
             "resource_date": "2011-08-10T09:02:12.412-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.023769"
+            "when": "2015-10-27T18:49:02.832582"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/new-from-griffith-institute.html", 
             "resource_date": "2011-08-10T09:02:12.412-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.023789"
+            "when": "2015-10-27T18:49:02.832599"
         }, 
         {
             "fields": [
@@ -438,7 +438,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:06.034108"
+            "when": "2015-10-27T18:49:02.842179"
         }, 
         {
             "fields": [
@@ -479,13 +479,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8971774259325725367", 
             "resource_date": "2011-08-10T09:02:12.412-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.025706"
+            "when": "2015-10-27T18:49:02.834151"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/new-from-griffith-institute.html", 
             "resource_date": "2011-08-10T09:02:12.412-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.025718"
+            "when": "2015-10-27T18:49:02.834162"
         }, 
         {
             "fields": [
@@ -499,7 +499,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:06.040572"
+            "when": "2015-10-27T18:49:02.846753"
         }
     ], 
     "publishers": [], 
@@ -525,7 +525,7 @@
             "url": "http://www.griffith.ox.ac.uk/gri/4porhand.html"
         }, 
         {
-            "title_full": "The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin . (June 3, 2011)", 
+            "title_full": "The Topographical Bibliography working list of objects in Ägyptisches Museum in Berlin . (June 3, 2011)", 
             "url": "http://www.griffith.ox.ac.uk/gri/3berlin.pdf"
         }, 
         {
@@ -589,7 +589,7 @@
             "url": "http://www.griffith.ox.ac.uk/gri/list_of_collections.pdf"
         }, 
         {
-            "title_full": "The Topographical Bibliography working list of objects in \u00c4gyptisches Museum in Berlin has been updated. (July 14, 2011)", 
+            "title_full": "The Topographical Bibliography working list of objects in Ägyptisches Museum in Berlin has been updated. (July 14, 2011)", 
             "url": "http://www.griffith.ox.ac.uk/gri/3berlin.pdf"
         }, 
         {

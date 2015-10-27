@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7056176193938176481", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:41.134410"
+            "when": "2015-10-27T18:45:22.581379"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/international-conference-on.html", 
             "resource_date": "2009-01-14T14:53:55.198-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:41.134425"
+            "when": "2015-10-27T18:45:22.581391"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ming porcelain from the Santa Clara-a-velha Monastery in Coimbra, Portugal. First results using a portable \u00b5-EDXRF spectrometer - Mathilda Larsson, Jo\u00e3o Pedro Veiga", 
+    "title": "Ming porcelain from the Santa Clara-a-velha Monastery in Coimbra, Portugal. First results using a portable µ-EDXRF spectrometer - Mathilda Larsson, João Pedro Veiga", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

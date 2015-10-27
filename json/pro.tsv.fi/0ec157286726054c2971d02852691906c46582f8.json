@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "C. M. C. Green: Roman Religion and the Cult of Diana at Aricia, 2007. (Marja-Leena H\u00e4nninen).", 
+    "description": "C. M. C. Green: Roman Religion and the Cult of Diana at Aricia, 2007. (Marja-Leena Hänninen).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.555515"
+            "when": "2015-10-27T18:40:19.659435"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.555528"
+            "when": "2015-10-27T18:40:19.659449"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "F. Prescendi: D\u00e9crire et comprendre le sacrifice. Les r\u00e9flexions des Romains sur leur propre religion \u00e0 partir de la litt\u00e9rature antiquaire, 2007. (Mika Kajava)", 
+    "title": "F. Prescendi: Décrire et comprendre le sacrifice. Les réflexions des Romains sur leur propre religion à partir de la littérature antiquaire, 2007. (Mika Kajava)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

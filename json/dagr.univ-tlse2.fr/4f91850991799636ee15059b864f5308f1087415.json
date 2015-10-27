@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Dictionnaire des Antiquit\u00e9s Grecques et Romaines de Daremberg et Saglio", 
+        "title_full": "Le Dictionnaire des Antiquités Grecques et Romaines de Daremberg et Saglio", 
         "url": "http://dagr.univ-tlse2.fr/sdx/dagr/index.xsp"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5367459574267390295", 
             "resource_date": "2014-06-25T09:41:53.024-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.949976"
+            "when": "2015-10-27T18:43:25.419954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/le-dictionnaire-des-antiquites-grecques.html", 
             "resource_date": "2014-06-25T09:41:53.024-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.949989"
+            "when": "2015-10-27T18:43:25.419964"
         }
     ], 
     "publishers": [], 

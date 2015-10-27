@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Previous Title: Rheinisches Museum f\u00fcr Philologie, Geschichte und griechische Philosophie [1827-1832] (0939-2718).", 
+    "description": "Previous Title: Rheinisches Museum für Philologie, Geschichte und griechische Philosophie [1827-1832] (0939-2718).", 
     "domain": "www.jstor.org", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2247526536842272315", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:27.528621"
+            "when": "2015-10-27T18:38:35.917687"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/new-ancient-world-content-in-jst.html", 
             "resource_date": "2012-06-15T12:47:49.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:27.528632"
+            "when": "2015-10-27T18:38:35.917698"
         }
     ], 
     "publishers": [], 

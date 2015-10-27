@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u041a\u0430\u0440\u043f\u0430\u0442\u0438\u043a\u0430", 
+        "title_full": "Карпатика", 
         "url": "http://archive.nbuv.gov.ua/portal/Soc_Gum/karpatyka/index.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7098992797489588383", 
             "resource_date": "2013-02-26T13:50:52.928-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.161444"
+            "when": "2015-10-27T18:45:28.071254"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal_26.html", 
             "resource_date": "2013-02-26T13:50:52.928-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.161468"
+            "when": "2015-10-27T18:45:28.071267"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u0412\u0438\u043f. 40", 
+    "title": "Вип. 40", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

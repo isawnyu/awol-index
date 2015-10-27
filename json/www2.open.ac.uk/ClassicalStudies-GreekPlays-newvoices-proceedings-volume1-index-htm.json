@@ -74,13 +74,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5735022209305951569", 
             "resource_date": "2014-04-23T10:49:29.010-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:14.676562"
+            "when": "2015-10-27T18:43:47.423537"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/new-open-access-series-new-voices-in.html", 
             "resource_date": "2014-04-23T10:49:29.010-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:14.676578"
+            "when": "2015-10-27T18:43:47.423570"
         }, 
         {
             "fields": [
@@ -121,13 +121,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5735022209305951569", 
             "resource_date": "2014-04-23T10:49:29.010-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:14.678188"
+            "when": "2015-10-27T18:43:47.425682"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/new-open-access-series-new-voices-in.html", 
             "resource_date": "2014-04-23T10:49:29.010-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:14.678200"
+            "when": "2015-10-27T18:43:47.425699"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:14.699699"
+            "when": "2015-10-27T18:43:47.449847"
         }, 
         {
             "fields": [
@@ -182,13 +182,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-893054367496361640", 
             "resource_date": "2015-03-29T15:12:17.274-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:05.315461"
+            "when": "2015-10-27T18:49:02.067540"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-new-voices-in.html", 
             "resource_date": "2015-03-29T15:12:17.274-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:05.315474"
+            "when": "2015-10-27T18:49:02.067554"
         }, 
         {
             "fields": [
@@ -202,7 +202,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:05.331210"
+            "when": "2015-10-27T18:49:02.088811"
         }
     ], 
     "publishers": [], 
@@ -224,7 +224,7 @@
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/Llewellyn-Jones-2013.pdf"
         }, 
         {
-            "title_full": "From Gamer to Animator: The Evolving Role of Zeus in Harryhausen\u2019s Jason and the Argonauts and Clash of the Titans", 
+            "title_full": "From Gamer to Animator: The Evolving Role of Zeus in Harryhausen’s Jason and the Argonauts and Clash of the Titans", 
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/Trzaskoma-2013.pdf"
         }, 
         {
@@ -232,7 +232,7 @@
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/Keen-2013-formatted.pdf"
         }, 
         {
-            "title_full": "The Look of Harryhausen\u2019s Cyclops: Human v. Monster in the Eye of the Beholder", 
+            "title_full": "The Look of Harryhausen’s Cyclops: Human v. Monster in the Eye of the Beholder", 
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/OKell-2013.pdf"
         }, 
         {
@@ -240,7 +240,7 @@
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/Gloyn-2013.pdf"
         }, 
         {
-            "title_full": "Perseus on the Psychiatrist\u2019s Couch in Leterrier\u2019s Clash of the Titans (2010): Harryhausen Reloaded for 21st Century", 
+            "title_full": "Perseus on the Psychiatrist’s Couch in Leterrier’s Clash of the Titans (2010): Harryhausen Reloaded for 21st Century", 
             "url": "http://www2.open.ac.uk/ClassicalStudies/GreekPlays/newvoices/proceedings/volume1/Green-2013.pdf"
         }, 
         {

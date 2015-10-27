@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nuntius Antiquus. ISSN: 1983-3636. As modalidades textuais contempladas pelo peri\u00f3dico s\u00e3o artigos, resenhas, tradu\u00e7\u00f5es e boletins de pesquisa, nas \u00e1reas dos estudos cl\u00e1ssicos, medievais e celtologia. A revista NUNTIUS ANTIQUUS \u00e9 uma publica\u00e7\u00e3o do NEAM - N\u00facleo de Estudos Antigos e Medievais da UFMG, que re\u00fane pesquisadores de v\u00e1rias \u00e1reas das Artes e Ci\u00eancias Humanas e procura estabelecer um di\u00e1logo permanente entre os diferentes campos do saber.", 
+    "description": "Nuntius Antiquus. ISSN: 1983-3636. As modalidades textuais contempladas pelo periódico são artigos, resenhas, traduções e boletins de pesquisa, nas áreas dos estudos clássicos, medievais e celtologia. A revista NUNTIUS ANTIQUUS é uma publicação do NEAM - Núcleo de Estudos Antigos e Medievais da UFMG, que reúne pesquisadores de várias áreas das Artes e Ciências Humanas e procura estabelecer um diálogo permanente entre os diferentes campos do saber.", 
     "domain": "www.periodicos.letras.ufmg.br", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4981101919813619968", 
             "resource_date": "2014-01-31T07:21:26.983-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.750986"
+            "when": "2015-10-27T18:43:06.845301"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-nuntius-antiquus.html", 
             "resource_date": "2014-01-31T07:21:26.983-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.750999"
+            "when": "2015-10-27T18:43:06.845312"
         }
     ], 
     "publishers": [], 

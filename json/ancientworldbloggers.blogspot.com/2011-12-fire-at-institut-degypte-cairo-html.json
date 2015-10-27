@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411053846651876735", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.521527"
+            "when": "2015-10-27T18:37:31.047426"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.521542"
+            "when": "2015-10-27T18:37:31.047442"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411053846651876735", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.524509"
+            "when": "2015-10-27T18:37:31.049802"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/information-fire-at-institut-degypte.html", 
             "resource_date": "2011-12-25T12:00:54.460-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.524524"
+            "when": "2015-10-27T18:37:31.049815"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:28.527139"
+            "when": "2015-10-27T18:37:31.051724"
         }
     ], 
     "publishers": [], 

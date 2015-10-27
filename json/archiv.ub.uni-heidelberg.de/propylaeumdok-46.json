@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Herzog, Rudolf and Fontaine, J. and Pollmann, K. (Hrsgg. ): Patristique et Antiquit\u00e9 tardive en France et en Allemagne de 1870 \u00e0 1930. Influence et \u00e9changes, Actes du Colloque franco-allemand de Chantilly (25-27 octobre 1991). Paris 1993, pp. 131-154. Rebenich, Stefan (2005).", 
+    "description": "In: Herzog, Rudolf and Fontaine, J. and Pollmann, K. (Hrsgg. ): Patristique et Antiquité tardive en France et en Allemagne de 1870 à 1930. Influence et échanges, Actes du Colloque franco-allemand de Chantilly (25-27 octobre 1991). Paris 1993, pp. 131-154. Rebenich, Stefan (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.566484"
+            "when": "2015-10-27T18:46:46.763757"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.566498"
+            "when": "2015-10-27T18:46:46.763771"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Theodor Mommsen und das Verh\u00e4ltnis von Alter Geschichte und Patristik", 
+    "title": "Theodor Mommsen und das Verhältnis von Alter Geschichte und Patristik", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

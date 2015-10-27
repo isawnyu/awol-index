@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr \u00e4gyptische Sprache und Altertumskunde, 116 (1989), pp. 143-153. Jansen-Winkeln, Karl (2006).", 
+    "description": "In: Zeitschrift für ägyptische Sprache und Altertumskunde, 116 (1989), pp. 143-153. Jansen-Winkeln, Karl (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:54.890145"
+            "when": "2015-10-27T18:40:06.247461"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:54.890159"
+            "when": "2015-10-27T18:40:06.247478"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zu einigen \u201eTrinkspr\u00fcchen\" auf \u00e4gyptischen Gef\u00e4\u00dfen", 
+    "title": "Zu einigen „Trinksprüchen\" auf ägyptischen Gefäßen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", edito da Edizioni Quasar e curato da Giuseppina Ghini e Zaccaria Mari, con prefazione del Soprintendente, Elena Calandra. Il volume digitale, che precede la stampa cartacea, raccoglie le maggiori novit\u00e0 scaturite, negli anni 2011 e 2012, dalla molteplice attivit\u00e0 di tutela e ricerca svolta sul territorio, ed \u00e8 suddiviso in sei parti corrispondenti agli ambiti territoriali entro cui sono raggruppati topograficamente i contributi degli archeologi e architetti della Soprintendenza e degli studiosi che collaborano con loro: Area Tiburtina e Sublacense, Sabina, Area Tuscolana e Colli Albani, Area Prenestina, Area Costiera e Isole, Lazio Meridionale.", 
+    "description": ", edito da Edizioni Quasar e curato da Giuseppina Ghini e Zaccaria Mari, con prefazione del Soprintendente, Elena Calandra. Il volume digitale, che precede la stampa cartacea, raccoglie le maggiori novità scaturite, negli anni 2011 e 2012, dalla molteplice attività di tutela e ricerca svolta sul territorio, ed è suddiviso in sei parti corrispondenti agli ambiti territoriali entro cui sono raggruppati topograficamente i contributi degli archeologi e architetti della Soprintendenza e degli studiosi che collaborano con loro: Area Tiburtina e Sublacense, Sabina, Area Tuscolana e Colli Albani, Area Prenestina, Area Costiera e Isole, Lazio Meridionale.", 
     "domain": "www.archeolazio.beniculturali.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1807484664991452458", 
             "resource_date": "2013-11-20T22:38:04.122-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:59.766457"
+            "when": "2015-10-27T18:38:04.817534"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-pubblicazione-degli-atti.html", 
             "resource_date": "2013-11-20T22:38:04.122-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:59.766469"
+            "when": "2015-10-27T18:38:04.817554"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "atti del Convegno \u2018Lazio e Sabina 9\u2019", 
+    "title": "atti del Convegno ‘Lazio e Sabina 9’", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Eckart, W. U. and Sellin, V. and Wolgast, H. (Hrsgg. ): Die Universit\u00e4t Heidelberg im Nationalsozialismus. Heidelberg 2006, pp. 391-434. Conze, Alexander (1890).", 
+    "description": "In: Eckart, W. U. and Sellin, V. and Wolgast, H. (Hrsgg. ): Die Universität Heidelberg im Nationalsozialismus. Heidelberg 2006, pp. 391-434. Conze, Alexander (1890).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.502182"
+            "when": "2015-10-27T18:46:45.669769"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.502200"
+            "when": "2015-10-27T18:46:45.669785"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:34.188511"
+            "when": "2015-10-27T18:48:27.473177"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:34.188526"
+            "when": "2015-10-27T18:48:27.473192"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.470752"
+            "when": "2015-10-27T18:48:38.069711"
         }, 
         {
             "fields": [
@@ -170,13 +170,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.150957"
+            "when": "2015-10-27T18:48:49.917859"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.150972"
+            "when": "2015-10-27T18:48:49.917872"
         }, 
         {
             "fields": [
@@ -189,7 +189,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:54.663816"
+            "when": "2015-10-27T18:48:50.525448"
         }
     ], 
     "publishers": [], 
@@ -198,7 +198,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Altertumswissenschaften an der Universit\u00e4t Heidelberg 1933-1945", 
+    "title": "Die Altertumswissenschaften an der Universität Heidelberg 1933-1945", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Dittmann, R. (Hrsg. ): Variatio Delectat. Iran und der Westen, Gedenkschrift f\u00fcr P. Calmeyer (Alter Orient und Altes Testament Bd. 272), M\u00fcnster (2000), pp. 627-649. Rehm, Ellen (1992).", 
+    "description": "In: Dittmann, R. (Hrsg. ): Variatio Delectat. Iran und der Westen, Gedenkschrift für P. Calmeyer (Alter Orient und Altes Testament Bd. 272), Münster (2000), pp. 627-649. Rehm, Ellen (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.423388"
+            "when": "2015-10-27T18:46:24.199537"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.423405"
+            "when": "2015-10-27T18:46:24.199554"
         }
     ], 
     "publishers": [], 

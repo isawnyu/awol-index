@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PROMARE: Promoting Marine Research and Exploration. Established in 2001 to promote marine research and exploration throughout the world, ProMare is a non-profit corporation and public charity, 501(c)(3). Our team of experienced archaeologists and marine professionals execute a variety of research projects independently and in concert with academic, corporate, public, and governmental organizations and agencies that are designed to advance man\u2019s knowledge of history and science.", 
+    "description": "PROMARE: Promoting Marine Research and Exploration. Established in 2001 to promote marine research and exploration throughout the world, ProMare is a non-profit corporation and public charity, 501(c)(3). Our team of experienced archaeologists and marine professionals execute a variety of research projects independently and in concert with academic, corporate, public, and governmental organizations and agencies that are designed to advance man’s knowledge of history and science.", 
     "domain": "www.promare.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1689836197334675383", 
             "resource_date": "2013-02-28T10:41:42.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.892863"
+            "when": "2015-10-27T18:37:57.961508"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/promare-promoting-marine-research-and.html", 
             "resource_date": "2013-02-28T10:41:42.105-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.892875"
+            "when": "2015-10-27T18:37:57.961520"
         }
     ], 
     "publishers": [], 

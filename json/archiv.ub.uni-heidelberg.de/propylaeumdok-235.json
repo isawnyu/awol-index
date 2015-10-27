@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Lebendige Antike. Rezeptionen der Antike in Politik, Kunst, Wissenschaft der Neuzeit. Kolloquium f\u00fcr W. Schiering (Mannheimer Historische Forschungen 6). Mannhiem 1995, pp. 39-58. Stupperich, Reinhard (1993).", 
+    "description": "In: Lebendige Antike. Rezeptionen der Antike in Politik, Kunst, Wissenschaft der Neuzeit. Kolloquium für W. Schiering (Mannheimer Historische Forschungen 6). Mannhiem 1995, pp. 39-58. Stupperich, Reinhard (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:41.451964"
+            "when": "2015-10-27T18:48:35.822114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:41.451981"
+            "when": "2015-10-27T18:48:35.822131"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die zw\u00f6lf Caesaren Suetons. Zur Verwendung von Kaiserportr\u00e4t-Galerien in der Neuzeit", 
+    "title": "Die zwölf Caesaren Suetons. Zur Verwendung von Kaiserporträt-Galerien in der Neuzeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

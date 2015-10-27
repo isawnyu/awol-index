@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Papyri Bononienses. Digitalizzazione completa della collezione di collezione di 58 papiri in lingua greca e latina di et\u00e0 tolemaica, romana e bizantina, acquistata nel 1930 da un antiquario del Cairo e conservati presso la Biblioteca Universitaria dell\u2019Universit\u00e0 di Bologna.", 
+    "description": "Papyri Bononienses. Digitalizzazione completa della collezione di collezione di 58 papiri in lingua greca e latina di età tolemaica, romana e bizantina, acquistata nel 1930 da un antiquario del Cairo e conservati presso la Biblioteca Universitaria dell’Università di Bologna.", 
     "domain": "amshistorica.unibo.it", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7103824941979617720", 
             "resource_date": "2014-10-13T10:06:31.068-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.226172"
+            "when": "2015-10-27T18:45:28.144005"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/papyri-bononienses.html", 
             "resource_date": "2014-10-13T10:06:31.068-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.226188"
+            "when": "2015-10-27T18:45:28.144021"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7103824941979617720", 
             "resource_date": "2014-10-13T10:06:31.068-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.227469"
+            "when": "2015-10-27T18:45:28.145309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/papyri-bononienses.html", 
             "resource_date": "2014-10-13T10:06:31.068-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.227481"
+            "when": "2015-10-27T18:45:28.145320"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:46.228949"
+            "when": "2015-10-27T18:45:28.148361"
         }
     ], 
     "publishers": [], 

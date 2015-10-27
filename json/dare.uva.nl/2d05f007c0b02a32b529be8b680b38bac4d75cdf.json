@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1136741339268926761", 
             "resource_date": "2014-10-12T17:51:37.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:09.877963"
+            "when": "2015-10-27T18:37:10.909600"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/ppers-from-39th-and-40th-annual.html", 
             "resource_date": "2014-10-12T17:51:37.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:09.877977"
+            "when": "2015-10-27T18:37:10.909615"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1136741339268926761", 
             "resource_date": "2014-10-12T17:51:37.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:09.880532"
+            "when": "2015-10-27T18:37:10.912428"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/ppers-from-39th-and-40th-annual.html", 
             "resource_date": "2014-10-12T17:51:37.602-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:09.880545"
+            "when": "2015-10-27T18:37:10.912443"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:09.885001"
+            "when": "2015-10-27T18:37:10.917278"
         }
     ], 
     "publishers": [], 

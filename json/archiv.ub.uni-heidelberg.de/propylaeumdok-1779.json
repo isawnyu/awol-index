@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Schmidinger, Heinrich and Sedmak, Clemens (Hrsgg. ): Der Mensch - ein M\u00e4ngelwesen? Endlichkeit - Kompensation - Entwicklung. Darmstadt 2009, pp. 99-114. Assmann, Jan (2009).", 
+    "description": "In: Schmidinger, Heinrich and Sedmak, Clemens (Hrsgg. ): Der Mensch - ein Mängelwesen? Endlichkeit - Kompensation - Entwicklung. Darmstadt 2009, pp. 99-114. Assmann, Jan (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:48.198296"
+            "when": "2015-10-27T18:39:59.640524"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:48.198313"
+            "when": "2015-10-27T18:39:59.640540"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Der Mensch - das Tier, das zu viel wei\u00df. Altorientalische Mythen zum Thema der menschlichen Endlichkeit", 
+    "title": "Der Mensch - das Tier, das zu viel weiß. Altorientalische Mythen zum Thema der menschlichen Endlichkeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

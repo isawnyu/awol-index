@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Chronique des activit\u00e9s arch\u00e9ologiques de l\u2019\u00c9cole fran\u00e7aise de Rome", 
+        "title_full": "Chronique des activités archéologiques de l’École française de Rome", 
         "url": "http://cefr.revues.org/"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2062521527209593569", 
             "resource_date": "2015-02-15T14:39:38.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:12.002015"
+            "when": "2015-10-27T18:38:19.044306"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/new-open-access-journal-chronique-des.html", 
             "resource_date": "2015-02-15T14:39:38.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:12.002028"
+            "when": "2015-10-27T18:38:19.044318"
         }
     ], 
     "publishers": [], 
@@ -81,7 +81,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "La\u00ebtitia Cavassa , Bastien Lemaire , Guilhem Chapelin et Aline Lacombe Pomp\u00e9i. L\u2019atelier de potier de la via dei Sepolcri , 28-30 [Texte int\u00e9gral] Campagne de fouilles 2014 Paru dans Chronique des activit\u00e9s arch\u00e9ologiques de l\u2019\u00c9cole fran\u00e7aise de Rome , Les cit\u00e9s v\u00e9suviennes", 
+    "title": "Laëtitia Cavassa , Bastien Lemaire , Guilhem Chapelin et Aline Lacombe Pompéi. L’atelier de potier de la via dei Sepolcri , 28-30 [Texte intégral] Campagne de fouilles 2014 Paru dans Chronique des activités archéologiques de l’École française de Rome , Les cités vésuviennes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

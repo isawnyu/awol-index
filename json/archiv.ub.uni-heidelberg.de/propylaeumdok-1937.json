@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zur Sozialgeschichte des Kindheit, Freiburg/M\u00fcnchen 1986, pp. 225-265 (Ver\u00f6ffentlichungen des Instituts f\u00fcr Historische Anthropologie; 4). Feucht, Erika (1987).", 
+    "description": "In: Zur Sozialgeschichte des Kindheit, Freiburg/München 1986, pp. 225-265 (Veröffentlichungen des Instituts für Historische Anthropologie; 4). Feucht, Erika (1987).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:52.270344"
+            "when": "2015-10-27T18:40:03.680084"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:52.270360"
+            "when": "2015-10-27T18:40:03.680101"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Geburt, Kindheit, Jugend und Ausbildung im Alten \u00c4gypten", 
+    "title": "Geburt, Kindheit, Jugend und Ausbildung im Alten Ägypten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

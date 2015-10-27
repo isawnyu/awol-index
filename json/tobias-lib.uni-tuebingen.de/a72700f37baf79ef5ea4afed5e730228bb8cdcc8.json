@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Hepperle, Ursula (2010): Hellenismos bei Flavius Claudius Iulianus und der Konsolidierungsprozess des Christentums im Osten des R\u00f6mischen Reiches Dissertation.", 
+    "description": "Hepperle, Ursula (2010): Hellenismos bei Flavius Claudius Iulianus und der Konsolidierungsprozess des Christentums im Osten des Römischen Reiches Dissertation.", 
     "domain": "tobias-lib.uni-tuebingen.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universit\u00e4t T\u00fcbingen", 
+        "title_full": "TOBIAS-lib - Hochschulschriftenserver der Universität Tübingen", 
         "url": "http://tobias-lib.uni-tuebingen.de/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5526740173698139530", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.755122"
+            "when": "2015-10-27T18:43:36.821991"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/tubingen-dissertations-on-antiquity.html", 
             "resource_date": "2013-03-14T16:34:16.122-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.755146"
+            "when": "2015-10-27T18:43:36.822003"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00c7ilingiroglu, \u00c7iler (2009): Central-West Anatolia at the end of 7th and beginning of 6th millennium BCE in the light of pottery from Ulucak (Izmir) Dissertation", 
+    "title": "Çilingiroglu, Çiler (2009): Central-West Anatolia at the end of 7th and beginning of 6th millennium BCE in the light of pottery from Ulucak (Izmir) Dissertation", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

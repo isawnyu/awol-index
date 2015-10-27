@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Konkordanzen zu den Inscriptiones Graecae. In den Jahren 2009 und 2010 wurden vom Seminar f\u00fcr Alte Geschichte/Institut f\u00fcr Epigraphik der Westf\u00e4lischen Wilhelms-Universit\u00e4t in Zusammenarbeit mit der Arbeitsstelle Inscriptiones Graecae an der Berlin-Brandenburgischen Akademie der Wissenschaften zwei online abfragbare Konkordanzen erstellt. Die Konkordanzen werden fortlaufend aktualisiert.", 
+    "description": "Konkordanzen zu den Inscriptiones Graecae. In den Jahren 2009 und 2010 wurden vom Seminar für Alte Geschichte/Institut für Epigraphik der Westfälischen Wilhelms-Universität in Zusammenarbeit mit der Arbeitsstelle Inscriptiones Graecae an der Berlin-Brandenburgischen Akademie der Wissenschaften zwei online abfragbare Konkordanzen erstellt. Die Konkordanzen werden fortlaufend aktualisiert.", 
     "domain": "www.ig.uni-muenster.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7816305231725706904", 
             "resource_date": "2013-06-14T10:10:00.593-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.669623"
+            "when": "2015-10-27T18:46:36.643860"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/inscriptiones-graecae-konkordanz-ig-seg.html", 
             "resource_date": "2013-06-14T10:10:00.593-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.669640"
+            "when": "2015-10-27T18:46:36.643875"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7816305231725706904", 
             "resource_date": "2013-06-14T10:10:00.593-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.672399"
+            "when": "2015-10-27T18:46:36.646865"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/inscriptiones-graecae-konkordanz-ig-seg.html", 
             "resource_date": "2013-06-14T10:10:00.593-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.672411"
+            "when": "2015-10-27T18:46:36.646877"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:49.679162"
+            "when": "2015-10-27T18:46:36.654595"
         }
     ], 
     "publishers": [], 

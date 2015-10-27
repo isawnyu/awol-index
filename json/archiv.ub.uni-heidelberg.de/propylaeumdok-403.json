@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Altekamp, S. and Hofter, M. and Krumme, M. (Hrsgg. ): Posthumanistische Klassische Arch\u00e4ologie, Kolloquium Berlin, 19. 2. -21. 2. 1999. M\u00fcnchen 2001, pp. 391-400. Borg, Barbara (2005).", 
+    "description": "In: Altekamp, S. and Hofter, M. and Krumme, M. (Hrsgg. ): Posthumanistische Klassische Archäologie, Kolloquium Berlin, 19. 2. -21. 2. 1999. München 2001, pp. 391-400. Borg, Barbara (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:32.652464"
+            "when": "2015-10-27T18:48:25.655774"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:32.652480"
+            "when": "2015-10-27T18:48:25.655790"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Blinde Flecken: Die fr\u00fche griechische Allegorie als Beispiel kollektiver Verdr\u00e4ngung", 
+    "title": "Blinde Flecken: Die frühe griechische Allegorie als Beispiel kollektiver Verdrängung", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "J. Kramer: Vulg\u00e4rlateinische Alltagsdokumente auf Papyri, Ostraka, T\u00e4felchen und Inschriften, 2007. (Hilla Halla-aho).", 
+    "description": "J. Kramer: Vulgärlateinische Alltagsdokumente auf Papyri, Ostraka, Täfelchen und Inschriften, 2007. (Hilla Halla-aho).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.825576"
+            "when": "2015-10-27T18:40:19.932244"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.825590"
+            "when": "2015-10-27T18:40:19.932256"
         }
     ], 
     "publishers": [], 

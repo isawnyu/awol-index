@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Romula: Arqueolog\u00eda antigua y medieval", 
+        "title_full": "Romula: Arqueología antigua y medieval", 
         "url": "http://www.upo.es/revistas/index.php/romula"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5187755749097320816", 
             "resource_date": "2013-09-01T08:17:34.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:46.462286"
+            "when": "2015-10-27T18:43:17.295973"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-romula-arqueologia.html", 
             "resource_date": "2013-09-01T08:17:34.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:46.462299"
+            "when": "2015-10-27T18:43:17.295998"
         }
     ], 
     "publishers": [], 

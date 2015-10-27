@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7984679806959158427", 
             "resource_date": "2011-07-22T09:51:18.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:06.395043"
+            "when": "2015-10-27T18:46:53.727338"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/classics-library.html", 
             "resource_date": "2011-07-22T09:51:18.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:06.395059"
+            "when": "2015-10-27T18:46:53.727366"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7984679806959158427", 
             "resource_date": "2011-07-22T09:51:18.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:06.397176"
+            "when": "2015-10-27T18:46:53.730940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/classics-library.html", 
             "resource_date": "2011-07-22T09:51:18.856-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:06.397188"
+            "when": "2015-10-27T18:46:53.730958"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:06.411306"
+            "when": "2015-10-27T18:46:53.746870"
         }
     ], 
     "publishers": [], 
@@ -168,7 +168,7 @@
             "url": "http://www.theclassicslibrary.com/promote/"
         }, 
         {
-            "title_full": "Recent Posts | What\u2019s been in the news?", 
+            "title_full": "Recent Posts | What’s been in the news?", 
             "url": "http://www.theclassicslibrary.com/posts"
         }, 
         {

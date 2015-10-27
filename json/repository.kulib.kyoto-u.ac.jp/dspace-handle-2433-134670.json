@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Acta Academiae Antiquitatis Kiotoensis (The Kyoto Journal of Ancient History) \u897f\u6d0b\u53e4\u4ee3\u53f2\u7814\u7a76", 
+        "title_full": "Acta Academiae Antiquitatis Kiotoensis (The Kyoto Journal of Ancient History) 西洋古代史研究", 
         "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/134664"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8266666854369628598", 
             "resource_date": "2012-11-29T15:48:28.014-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.204569"
+            "when": "2015-10-27T18:47:07.233862"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-acta-academiae.html", 
             "resource_date": "2012-11-29T15:48:28.014-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.204581"
+            "when": "2015-10-27T18:47:07.233872"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u7b2c7\u53f7 2007-12-15", 
+    "title": "第7号 2007-12-15", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

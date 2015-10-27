@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 February 2012. Updated 5 February 2015]. Bulletin de Correspondance Hell\u00e9nique (at Pers\u00e9e) [Accessible also at.", 
+    "description": "[First posted in AWOL 21 February 2012. Updated 5 February 2015]. Bulletin de Correspondance Hellénique (at Persée) [Accessible also at.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.660047"
+            "when": "2015-10-27T18:38:36.943626"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.660070"
+            "when": "2015-10-27T18:38:36.943637"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3328278877047329476", 
             "resource_date": "2015-02-05T11:35:26.760-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:17.145063"
+            "when": "2015-10-27T18:40:30.458182"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-bulletin-de.html", 
             "resource_date": "2015-02-05T11:35:26.760-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:17.145077"
+            "when": "2015-10-27T18:40:30.458203"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:18.526133"
+            "when": "2015-10-27T18:40:31.970664"
         }
     ], 
     "publishers": [], 
@@ -862,9 +862,9 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bch_0007-4217_2003_num_127_1"
         }
     ], 
-    "title": "Bulletin de Correspondance Hell\u00e9nique", 
+    "title": "Bulletin de Correspondance Hellénique", 
     "title_alternates": [], 
-    "title_extended": "Bulletin de Correspondance Hell\u00e9nique (at Pers\u00e9e)", 
+    "title_extended": "Bulletin de Correspondance Hellénique (at Persée)", 
     "type": null, 
     "url": "http://www.persee.fr/web/revues/home/prescript/revue/bch", 
     "url_alternates": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archivo de Prehistoria Levantina: Servicio de Investigaci\u00f3n Prehist\u00f3ricadel Museo de Prehistoria de Valencia. ISSN 0210-3230. Revista del Museu de Prehist\u00f2ria de Val\u00e8ncia. Fundada en 1928 por D. Isidro Ballester Tormo como Anuario del Servicio de Investigaci\u00f3n Prehist\u00f3rica de la Diputaci\u00f3n Provincial de Valencia. APL se intercambia con cualquier publicaci\u00f3n dedicada a la Prehistoria, Arqueolog\u00eda en general y ciencias o disciplinas relacionadas (Etnolog\u00eda, Paleoantropolog\u00eda, Paleoling\u00fc\u00edstica, Numism\u00e1tica, etc. ), a fin de incrementar los fondos de la Biblioteca del Museu de Prehist\u00f2ria de Val\u00e8ncia.", 
+    "description": "Archivo de Prehistoria Levantina: Servicio de Investigación Prehistóricadel Museo de Prehistoria de Valencia. ISSN 0210-3230. Revista del Museu de Prehistòria de València. Fundada en 1928 por D. Isidro Ballester Tormo como Anuario del Servicio de Investigación Prehistórica de la Diputación Provincial de Valencia. APL se intercambia con cualquier publicación dedicada a la Prehistoria, Arqueología en general y ciencias o disciplinas relacionadas (Etnología, Paleoantropología, Paleolingüística, Numismática, etc. ), a fin de incrementar los fondos de la Biblioteca del Museu de Prehistòria de València.", 
     "domain": "www.museuprehistoriavalencia.es", 
     "editors": [], 
     "end_date": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1435150064421178331", 
             "resource_date": "2013-01-28T15:53:30.571-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.140783"
+            "when": "2015-10-27T18:37:34.744748"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-archivo-de.html", 
             "resource_date": "2013-01-28T15:53:30.571-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.140801"
+            "when": "2015-10-27T18:37:34.744764"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1435150064421178331", 
             "resource_date": "2013-01-28T15:53:30.571-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.310545"
+            "when": "2015-10-27T18:37:34.912363"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-archivo-de.html", 
             "resource_date": "2013-01-28T15:53:30.571-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.310567"
+            "when": "2015-10-27T18:37:34.912379"
         }, 
         {
             "fields": [
@@ -144,7 +144,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:32.313571"
+            "when": "2015-10-27T18:37:34.917012"
         }
     ], 
     "publishers": [], 
@@ -154,13 +154,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Archivo de Prehistoria Levantina: Servicio de Investigaci\u00f3n Prehist\u00f3ricadel Museo de Prehistoria de Valencia", 
+            "title_full": "Archivo de Prehistoria Levantina: Servicio de Investigación Prehistóricadel Museo de Prehistoria de Valencia", 
             "url": "http://www.museuprehistoriavalencia.es/apl.html"
         }
     ], 
-    "title": "Archivo de Prehistoria Levantina: Servicio de Investigaci\u00f3n Prehist\u00f3ricadel Museo de Prehistoria de Valencia", 
+    "title": "Archivo de Prehistoria Levantina: Servicio de Investigación Prehistóricadel Museo de Prehistoria de Valencia", 
     "title_alternates": [], 
-    "title_extended": "Archivo de Prehistoria Levantina: Servicio de Investigaci\u00f3n Prehist\u00f3ricadel Museo de Prehistoria de Valencia", 
+    "title_extended": "Archivo de Prehistoria Levantina: Servicio de Investigación Prehistóricadel Museo de Prehistoria de Valencia", 
     "type": null, 
     "url": "http://www.museuprehistoriavalencia.es/apl.html", 
     "url_alternates": [], 

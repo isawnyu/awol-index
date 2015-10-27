@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Meyer, Jan-Waalke (Hrsg. ): Beitr\u00e4ge zur Vorderasiatischen Arch\u00e4ologie. Winfried Orthmann gewidmet. Frankfurt/Main 2001, pp. 430-435. Rehm, Ellen (2004).", 
+    "description": "In: Meyer, Jan-Waalke (Hrsg. ): Beiträge zur Vorderasiatischen Archäologie. Winfried Orthmann gewidmet. Frankfurt/Main 2001, pp. 430-435. Rehm, Ellen (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.327772"
+            "when": "2015-10-27T18:46:24.096129"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.327788"
+            "when": "2015-10-27T18:46:24.096145"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ein >assyrisches< Objekt in >\u00e4gyptischem< Licht", 
+    "title": "Ein >assyrisches< Objekt in >ägyptischem< Licht", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

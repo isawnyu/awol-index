@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Antiqua: Aintzinari Buruzko Jardunaldiak - Jornadas sobre la antiq\u00fcedad", 
+        "title_full": "Antiqua: Aintzinari Buruzko Jardunaldiak - Jornadas sobre la antiqüedad", 
         "url": "http://antiqua.gipuzkoakultura.net/index-es.php"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6151124139556125304", 
             "resource_date": "2012-06-17T07:40:33.825-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:46.985768"
+            "when": "2015-10-27T18:44:22.410889"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-antiqua-aintzinari.html", 
             "resource_date": "2012-06-17T07:40:33.825-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:46.985779"
+            "when": "2015-10-27T18:44:22.410904"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "VIII - Hirviendo palabras: la ret\u00f3rica en la antigua Grecia", 
+    "title": "VIII - Hirviendo palabras: la retórica en la antigua Grecia", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

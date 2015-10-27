@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: R\u00e9gen, Isabelle and Servajean, Fr\u00e9deric (Hrsgg. ): Verba manent, Recueil d\u2019\u00e9tudes d\u00e9di\u00e9es \u00e0 Dimitri Meeks, Cahier \u201eEgypte Nilotique et M\u00e9diterran\u00e9enne\". Montpellier 2009, pp. 1-28. Altenm\u00fcller, Hartwig (1981).", 
+    "description": "In: Régen, Isabelle and Servajean, Fréderic (Hrsgg. ): Verba manent, Recueil d’études dédiées à Dimitri Meeks, Cahier „Egypte Nilotique et Méditerranéenne\". Montpellier 2009, pp. 1-28. Altenmüller, Hartwig (1981).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:45.945956"
+            "when": "2015-10-27T18:39:57.258721"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:45.945972"
+            "when": "2015-10-27T18:39:57.258738"
         }
     ], 
     "publishers": [], 

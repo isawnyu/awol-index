@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Nov\u00e1k, Mirko and Prayon, F. and Witte, A. -M. (Hrsgg. ): Die Au\u00dfenwirkung des sp\u00e4thethitischen Kulturraums. Tagungsberichte der 2. Forschungstagung des Graduiertenkollegs \u2018Anatolien und seine Nachbarn\u2019 der Universit\u00e4t T\u00fcbingen. M\u00fcnster 2004, pp. 335-372 ( Alter Orient und Altes Testament; 323). Nov\u00e1k, Mirko (2008).", 
+    "description": "In: Novák, Mirko and Prayon, F. and Witte, A. -M. (Hrsgg. ): Die Außenwirkung des späthethitischen Kulturraums. Tagungsberichte der 2. Forschungstagung des Graduiertenkollegs ‘Anatolien und seine Nachbarn’ der Universität Tübingen. Münster 2004, pp. 335-372 ( Alter Orient und Altes Testament; 323). Novák, Mirko (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.700728"
+            "when": "2015-10-27T18:46:23.460403"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.700746"
+            "when": "2015-10-27T18:46:23.460420"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Hilani und Lustgarten. Ein \u00bbPalast des Hethiter-Landes\u00ab und ein \u00bbGarten nach dem Abbild des Amanus\u00ab in Assyrien", 
+    "title": "Hilani und Lustgarten. Ein »Palast des Hethiter-Landes« und ein »Garten nach dem Abbild des Amanus« in Assyrien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

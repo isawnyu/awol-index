@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Lateinische W\u00f6rterb\u00fccher- Eine illustrierte Bibliographie von Richard Wolf. Als ich vor einigen Jahrzehnten auf dem Weg zum Latinum war, hat mich der \"Stowasser\" als lateinisches Schulw\u00f6rterbuch sieben Jahre lang begleitet - es war der \"kleine\" Stowasser, den gro\u00dfen habe ich mir damals, ohne ihn zu kennen, sehnlich (aber vergeblich) gew\u00fcnscht. Ich habe nicht einmal geahnt, da\u00df dar\u00fcber hinaus noch so viele andere gro\u00dfartige, gr\u00fcndliche lateinische W\u00f6rterb\u00fccher in Deutschland erschienen sind! Da\u00df es sie gibt, da\u00df sie immer greifbar sind, um uns zu Diensten zu sein, wird f\u00fcr selbstverst\u00e4ndlich genommen, es sind blo\u00dfe Gebrauchsb\u00fccher. Aber jedes von ihnen hat seine Geschichte, und sie sind in aller Regel das Ergebnis jahrelanger intensiver Arbeit. In diesem Sinne m\u00f6chte ich hier auch eine Dankesschuld abtragen, indem ich hinter den Namen wenigstens im groben Umri\u00df die Menschen zeige, ohne deren unerm\u00fcdlichen Flei\u00df wir oft an einem Text verzweifeln w\u00fcrden. Inzwischen f\u00fcllen diese W\u00f6rterb\u00fccher ein paar Reihen in meinem Regal (vgl. Mein kleines Asyl), und ich habe mir \u00fcberlegt, ob nicht eine kleine Bibliographie dieser Art auch f\u00fcr andere Freunde der lateinischen Sprache n\u00fctzlich sein k\u00f6nnte. Gesagt, getan!.", 
+    "description": "Lateinische Wörterbücher- Eine illustrierte Bibliographie von Richard Wolf. Als ich vor einigen Jahrzehnten auf dem Weg zum Latinum war, hat mich der \"Stowasser\" als lateinisches Schulwörterbuch sieben Jahre lang begleitet - es war der \"kleine\" Stowasser, den großen habe ich mir damals, ohne ihn zu kennen, sehnlich (aber vergeblich) gewünscht. Ich habe nicht einmal geahnt, daß darüber hinaus noch so viele andere großartige, gründliche lateinische Wörterbücher in Deutschland erschienen sind! Daß es sie gibt, daß sie immer greifbar sind, um uns zu Diensten zu sein, wird für selbstverständlich genommen, es sind bloße Gebrauchsbücher. Aber jedes von ihnen hat seine Geschichte, und sie sind in aller Regel das Ergebnis jahrelanger intensiver Arbeit. In diesem Sinne möchte ich hier auch eine Dankesschuld abtragen, indem ich hinter den Namen wenigstens im groben Umriß die Menschen zeige, ohne deren unermüdlichen Fleiß wir oft an einem Text verzweifeln würden. Inzwischen füllen diese Wörterbücher ein paar Reihen in meinem Regal (vgl. Mein kleines Asyl), und ich habe mir überlegt, ob nicht eine kleine Bibliographie dieser Art auch für andere Freunde der lateinischen Sprache nützlich sein könnte. Gesagt, getan!.", 
     "domain": "www.richardwolf.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Lateinische W\u00f6rterb\u00fccher- Eine illustrierte Bibliographie von Richard Wolf", 
+        "title_full": "Lateinische Wörterbücher- Eine illustrierte Bibliographie von Richard Wolf", 
         "url": "http://www.richardwolf.de/latein/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1825920467922549689", 
             "resource_date": "2014-11-29T08:24:34.963-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:01.549496"
+            "when": "2015-10-27T18:38:06.846677"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/lateinische-worterbucher-eine.html", 
             "resource_date": "2014-11-29T08:24:34.963-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:01.549508"
+            "when": "2015-10-27T18:38:06.846692"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u00dcbriges", 
+    "title": "Übriges", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

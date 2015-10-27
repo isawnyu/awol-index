@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes. ISSN \u00e9lectronique: 2102-5614. La revue Atalaya est n\u00e9e en 1991 au sein de l\u2019\u00e9quipe de recherche fond\u00e9e par le Professeur Michel Garcia de l\u2019Universit\u00e9 Paris 3-Sorbonne Nouvelle. Ce dernier l\u2019a dirig\u00e9e pendant dix ans au cours desquels dix num\u00e9ros ont \u00e9t\u00e9 publi\u00e9s de fa\u00e7on traditionnelle, dans une version \u00ab papier \u00bb (voir les num\u00e9ros 1 \u00e0 10). Depuis 2001, date \u00e0 laquelle Michel Garcia a fait valoir ses droits \u00e0 la retraite, le Professeur Carlos Heusch, de l\u2019\u00c9cole normale sup\u00e9rieure Lettres et sciences humaines de Lyon, en assure la direction. L\u2019\u00e9volution des nouvelles technologies et la part croissante de l\u2019internet dans les activit\u00e9s de recherche et dans la diffusion mondialis\u00e9e des savoirs ont conduit la nouvelle direction de la revue, apr\u00e8s m\u00fbre r\u00e9flexion, a lui donner d\u00e9sormais une forme exclusivement \u00e9lectronique, en accord, d\u2019ailleurs, avec une tendance de plus en plus affirm\u00e9e dans les grandes universit\u00e9s du monde. [more]Issues available in open access:.", 
+    "description": "Revue d’études médiévales romanes. ISSN électronique: 2102-5614. La revue Atalaya est née en 1991 au sein de l’équipe de recherche fondée par le Professeur Michel Garcia de l’Université Paris 3-Sorbonne Nouvelle. Ce dernier l’a dirigée pendant dix ans au cours desquels dix numéros ont été publiés de façon traditionnelle, dans une version « papier » (voir les numéros 1 à 10). Depuis 2001, date à laquelle Michel Garcia a fait valoir ses droits à la retraite, le Professeur Carlos Heusch, de l’École normale supérieure Lettres et sciences humaines de Lyon, en assure la direction. L’évolution des nouvelles technologies et la part croissante de l’internet dans les activités de recherche et dans la diffusion mondialisée des savoirs ont conduit la nouvelle direction de la revue, après mûre réflexion, a lui donner désormais une forme exclusivement électronique, en accord, d’ailleurs, avec une tendance de plus en plus affirmée dans les grandes universités du monde. [more]Issues available in open access:.", 
     "domain": "atalaya.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "2102-5614", 
-        "title_full": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes", 
+        "title_full": "Revue d’études médiévales romanes", 
         "url": "http://atalaya.revues.org/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8752339944672987588", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:50.998248"
+            "when": "2015-10-27T18:48:46.676030"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/revue-detudes-medievales-romanes-issn.html", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:50.998265"
+            "when": "2015-10-27T18:48:46.676045"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8752339944672987588", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:51.003566"
+            "when": "2015-10-27T18:48:46.681006"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/revue-detudes-medievales-romanes-issn.html", 
             "resource_date": "2009-09-03T07:20:41.774-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:51.003587"
+            "when": "2015-10-27T18:48:46.681020"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:51.019907"
+            "when": "2015-10-27T18:48:46.696714"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes", 
+            "title_full": "Revue d’études médiévales romanes", 
             "url": "http://atalaya.revues.org/"
         }, 
         {
@@ -155,19 +155,19 @@
             "url": "http://atalaya.revues.org/index59.html"
         }, 
         {
-            "title_full": "n\u00b0 9 - Administrer et convaincre au Moyen \u00c2ge", 
+            "title_full": "n° 9 - Administrer et convaincre au Moyen Âge", 
             "url": "http://atalaya.revues.org/index66.html"
         }, 
         {
-            "title_full": "n\u00b0 10 - Le m\u00e9tier de l\u2019historien en Castille au XV e si\u00e8cle", 
+            "title_full": "n° 10 - Le métier de l’historien en Castille au XV e siècle", 
             "url": "http://atalaya.revues.org/index67.html"
         }, 
         {
-            "title_full": "n\u00b0 11 - H\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 et transferts", 
+            "title_full": "n° 11 - Hétérogénéité et transferts", 
             "url": "http://atalaya.revues.org/index68.html"
         }
     ], 
-    "title": "Revue d\u2019\u00e9tudes m\u00e9di\u00e9vales romanes", 
+    "title": "Revue d’études médiévales romanes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

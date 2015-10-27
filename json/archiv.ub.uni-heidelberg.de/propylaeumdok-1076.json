@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Revue d\u2019Assyrologie et d\u2019Arch\u00e9ology orientale, 64 (1970), 95. R\u00f6llig, Wolfgang (2007).", 
+    "description": "In: Revue d’Assyrologie et d’Archéology orientale, 64 (1970), 95. Röllig, Wolfgang (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.443649"
+            "when": "2015-10-27T18:46:25.259193"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.443665"
+            "when": "2015-10-27T18:46:25.259208"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ir\u012b\u0161um-Inschrift Z. 16ff", 
+    "title": "Irīšum-Inschrift Z. 16ff", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Source: Egyptien 128. Provenance: Biblioth\u00e8que nationale de France. Description: Vignette initiale: la d\u00e9funte coiff\u00e9e d'un c\u00f4ne d'onguent fait une libation \u00e0 R\u00ea-Horakhty. Texte:lignes 1-6: chapitre 23, \"Formule pour ouvrir la bouche de la d\u00e9funte dans la n\u00e9cropole\". l. 6-9: chapitre inconnu, \"autre formule pour sortir au jour\". l. 9: titre du chapitre 162, \"autre formule pour faire advenir un feu sous la t\u00eate\". l. 10-11: chapitre inconnu. Description: Le document a \u00e9t\u00e9 transf\u00e9r\u00e9 du Cabinet des Monnaies et M\u00e9dailles au D\u00e9partement des Manuscrits en 1856. Il a \u00e9t\u00e9 d\u00e9pos\u00e9 dans son encadrement actuel en 1893. Date de mise en ligne: 19/04/2010.", 
+    "description": "Source: Egyptien 128. Provenance: Bibliothèque nationale de France. Description: Vignette initiale: la défunte coiffée d'un cône d'onguent fait une libation à Rê-Horakhty. Texte:lignes 1-6: chapitre 23, \"Formule pour ouvrir la bouche de la défunte dans la nécropole\". l. 6-9: chapitre inconnu, \"autre formule pour sortir au jour\". l. 9: titre du chapitre 162, \"autre formule pour faire advenir un feu sous la tête\". l. 10-11: chapitre inconnu. Description: Le document a été transféré du Cabinet des Monnaies et Médailles au Département des Manuscrits en 1856. Il a été déposé dans son encadrement actuel en 1893. Date de mise en ligne: 19/04/2010.", 
     "domain": "gallica.bnf.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4872810227567841279", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:12.749640"
+            "when": "2015-10-27T18:42:42.037801"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-egyptian-manuscripts-online-at.html", 
             "resource_date": "2010-12-16T09:24:38.922-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:12.749652"
+            "when": "2015-10-27T18:42:42.037814"
         }
     ], 
     "publishers": [], 

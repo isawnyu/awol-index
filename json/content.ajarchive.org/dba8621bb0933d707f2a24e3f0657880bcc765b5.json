@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6217993098559168080", 
             "resource_date": "2014-07-11T08:50:17.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:51.681873"
+            "when": "2015-10-27T18:44:27.818464"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-journal-neotestamentica.html", 
             "resource_date": "2014-07-11T08:50:17.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:51.681888"
+            "when": "2015-10-27T18:44:27.818481"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6217993098559168080", 
             "resource_date": "2014-07-11T08:50:17.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:51.686000"
+            "when": "2015-10-27T18:44:27.823072"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-journal-neotestamentica.html", 
             "resource_date": "2014-07-11T08:50:17.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:51.686014"
+            "when": "2015-10-27T18:44:27.823085"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:51.687443"
+            "when": "2015-10-27T18:44:27.825038"
         }
     ], 
     "publishers": [], 

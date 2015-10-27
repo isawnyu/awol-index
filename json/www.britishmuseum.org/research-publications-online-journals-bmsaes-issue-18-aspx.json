@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7825786708440609959", 
             "resource_date": "2015-05-02T14:14:58.546-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:49.987845"
+            "when": "2015-10-27T18:46:36.906446"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-british-museum.html", 
             "resource_date": "2015-05-02T14:14:58.546-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:49.987866"
+            "when": "2015-10-27T18:46:36.906457"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8421068017776554292", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.455048"
+            "when": "2015-10-27T18:47:13.897894"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/special-issue-of-bmsaes-mariners-and.html", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.455064"
+            "when": "2015-10-27T18:47:13.897910"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.480072"
+            "when": "2015-10-27T18:47:13.925042"
         }, 
         {
             "fields": [
@@ -179,13 +179,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8421068017776554292", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.456979"
+            "when": "2015-10-27T18:47:13.900133"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/special-issue-of-bmsaes-mariners-and.html", 
             "resource_date": "2012-09-11T06:30:15.901-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.457000"
+            "when": "2015-10-27T18:47:13.900147"
         }, 
         {
             "fields": [
@@ -200,7 +200,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:25.483651"
+            "when": "2015-10-27T18:47:13.927365"
         }
     ], 
     "publishers": [], 
@@ -222,7 +222,7 @@
             "url": "http://www.britishmuseum.org/research/publications/online_journals/bmsaes.aspx"
         }, 
         {
-            "title_full": "Egypt\u2019s trade with Punt: New discoveries on the Red Sea Coast", 
+            "title_full": "Egypt’s trade with Punt: New discoveries on the Red Sea Coast", 
             "url": "http://www.britishmuseum.org/research/publications/online_journals/bmsaes/issue_18/fattovich.aspx"
         }, 
         {
@@ -250,7 +250,7 @@
             "url": "http://www.britishmuseum.org/research/publications/online_journals/bmsaes/issue_18/tomber.aspx"
         }, 
         {
-            "title_full": "Building pharaoh\u2019s ships: Cedar, incense and sailing the Great Green", 
+            "title_full": "Building pharaoh’s ships: Cedar, incense and sailing the Great Green", 
             "url": "http://www.britishmuseum.org/research/publications/online_journals/bmsaes/issue_18/ward.aspx"
         }, 
         {

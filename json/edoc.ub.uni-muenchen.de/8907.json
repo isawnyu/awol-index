@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Potthoff, Tanja (2007): Die Godesburg: Arch\u00e4ologie und Baugeschichte einer kurk\u00f6lnischen Burg. Dissertation, LMU M\u00fcnchen: Faculty for the Study of Culture.", 
+    "description": "Potthoff, Tanja (2007): Die Godesburg: Archäologie und Baugeschichte einer kurkölnischen Burg. Dissertation, LMU München: Faculty for the Study of Culture.", 
     "domain": "edoc.ub.uni-muenchen.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3650501163372754529", 
             "resource_date": "2009-11-25T13:23:52.493-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:38.394960"
+            "when": "2015-10-27T18:40:55.039359"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/open-access-dissertations-in-ancient.html", 
             "resource_date": "2009-11-25T13:23:52.493-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:38.394977"
+            "when": "2015-10-27T18:40:55.039373"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Piller, Christian (2007): Untersuchungen zur relativen Chronologie der Nekropole von Marlik. Dissertation, LMU M\u00fcnchen: Faculty for the Study of Culture", 
+    "title": "Piller, Christian (2007): Untersuchungen zur relativen Chronologie der Nekropole von Marlik. Dissertation, LMU München: Faculty for the Study of Culture", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

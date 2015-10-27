@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin d'histoire ach\u00e9m\u00e9nide II (1997-2000).", 
+    "description": "Bulletin d'histoire achéménide II (1997-2000).", 
     "domain": "www.achemenet.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin d'histoire ach\u00e9m\u00e9nide I", 
+        "title_full": "Bulletin d'histoire achéménide I", 
         "url": "http://www.achemenet.com/pdf/bhachI/bhach1.pdf"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770202871016792463", 
             "resource_date": "2014-04-10T10:24:48.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.522158"
+            "when": "2015-10-27T18:45:12.121992"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/bulletin-dhistoire-achemenide-online.html", 
             "resource_date": "2014-04-10T10:24:48.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.522178"
+            "when": "2015-10-27T18:45:12.122010"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770202871016792463", 
             "resource_date": "2014-04-10T10:24:48.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.524977"
+            "when": "2015-10-27T18:45:12.124013"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/bulletin-dhistoire-achemenide-online.html", 
             "resource_date": "2014-04-10T10:24:48.103-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.524994"
+            "when": "2015-10-27T18:45:12.124027"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:31.530280"
+            "when": "2015-10-27T18:45:12.127529"
         }
     ], 
     "publishers": [], 
@@ -142,15 +142,15 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin d'histoire ach\u00e9m\u00e9nide I", 
+            "title_full": "Bulletin d'histoire achéménide I", 
             "url": "http://www.achemenet.com/pdf/bhachI/bhach1.pdf"
         }, 
         {
-            "title_full": "Bulletin d'histoire ach\u00e9m\u00e9nide II (1997-2000)", 
+            "title_full": "Bulletin d'histoire achéménide II (1997-2000)", 
             "url": "http://www.achemenet.com/document/Briant_BhachII.pdf"
         }
     ], 
-    "title": "Bulletin d'histoire ach\u00e9m\u00e9nide I", 
+    "title": "Bulletin d'histoire achéménide I", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

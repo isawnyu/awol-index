@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le Centre de recherche fran\u00e7ais de J\u00e9rusalem. Nicolas Grimal.", 
+    "description": "Le Centre de recherche français de Jérusalem. Nicolas Grimal.", 
     "domain": "histoire-cnrs.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "La revue pour l\u2019histoire du CNRS", 
+        "title_full": "La revue pour l’histoire du CNRS", 
         "url": "http://histoire-cnrs.revues.org/index.html"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5646556076818211205", 
             "resource_date": "2014-05-15T10:59:17.701-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:09.667703"
+            "when": "2015-10-27T18:43:41.776669"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/03/one-off-journal-issues-french.html", 
             "resource_date": "2014-05-15T10:59:17.701-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:09.667715"
+            "when": "2015-10-27T18:43:41.776692"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Le CNRS dans l\u2019\u00ab Orient compliqu\u00e9 \u00bb", 
+    "title": "Le CNRS dans l’« Orient compliqué »", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

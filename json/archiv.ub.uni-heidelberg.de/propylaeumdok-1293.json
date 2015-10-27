@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Die Welt des Orients, 37 (2007), pp. 214-220. Nov\u00e1k, Mirko (1997).", 
+    "description": "In: Die Welt des Orients, 37 (2007), pp. 214-220. Novák, Mirko (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.646783"
+            "when": "2015-10-27T18:46:23.403514"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.646799"
+            "when": "2015-10-27T18:46:23.403530"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Florian Janoscha Kreppner: Die Keramik des \u201eRoten Hauses \" von Tall Seh Hamad / D\u00fcr-Katlimmu. Eine Betrachtung der Keramik Nordmesopotamiens aus der zweiten H\u00e4lfte des 7. und aus dem 6. Jahrhundert v. Chr. Mit Beitr\u00e4gen von Malgorzata Daszkiewicz, Ewa Bobryk und Gerwulf Schneider. Berichte der Ausgra\u00a9bung Tall Seh Hamad / D\u00fcr-Katlimmu (BATSH) Band 7. Harrasowitz Verlag Wiesbaden 2006", 
+    "title": "Florian Janoscha Kreppner: Die Keramik des „Roten Hauses \" von Tall Seh Hamad / Dür-Katlimmu. Eine Betrachtung der Keramik Nordmesopotamiens aus der zweiten Hälfte des 7. und aus dem 6. Jahrhundert v. Chr. Mit Beiträgen von Malgorzata Daszkiewicz, Ewa Bobryk und Gerwulf Schneider. Berichte der Ausgra©bung Tall Seh Hamad / Dür-Katlimmu (BATSH) Band 7. Harrasowitz Verlag Wiesbaden 2006", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

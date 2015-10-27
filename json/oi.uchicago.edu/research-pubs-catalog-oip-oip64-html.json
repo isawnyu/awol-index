@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "OIP 54. The Mortuary Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume 3. By Uvo H\u00f6lscher. Originally published in 1941.", 
+    "description": "OIP 54. The Mortuary Temple of Ramses III, Part 1. The Excavation of Medinet Habu, Volume 3. By Uvo Hölscher. Originally published in 1941.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-673709284168022240", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.763586"
+            "when": "2015-10-27T18:45:08.937559"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/eleven-additional-books-from-oriental.html", 
             "resource_date": "2009-06-26T13:21:14.172-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.763599"
+            "when": "2015-10-27T18:45:08.937571"
         }
     ], 
     "publishers": [], 

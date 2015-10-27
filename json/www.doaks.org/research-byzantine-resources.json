@@ -4,7 +4,7 @@
         "guides to online resources"
     ], 
     "contributors": [], 
-    "description": "Dumbarton Oaks Resources for Byzantine Studies: A collection of electronic resources created by Dumbarton Oaks and guides to online resources. Online Lead Seals CatalogueThe site of the ongoing project to catalogue the 17,000 Byzantine seals in the Dumbarton Oaks Collection. Resources for Syriac StudiesAn annotated collection of free and open source books, journals, and more related to the study of Syriac. Bibliography on Gender in ByzantiumThis resource started out as a bibliography on women in Byzantium, begun by Thalia Gouma-Peterson and maintained by Alice-Mary Talbot. Work on women\u2019s history has recently been supplemented by studies on eunuchs, and a concern for masculinity, which together enable work on the Byzantine gender system. Hagiography Database.", 
+    "description": "Dumbarton Oaks Resources for Byzantine Studies: A collection of electronic resources created by Dumbarton Oaks and guides to online resources. Online Lead Seals CatalogueThe site of the ongoing project to catalogue the 17,000 Byzantine seals in the Dumbarton Oaks Collection. Resources for Syriac StudiesAn annotated collection of free and open source books, journals, and more related to the study of Syriac. Bibliography on Gender in ByzantiumThis resource started out as a bibliography on women in Byzantium, begun by Thalia Gouma-Peterson and maintained by Alice-Mary Talbot. Work on women’s history has recently been supplemented by studies on eunuchs, and a concern for masculinity, which together enable work on the Byzantine gender system. Hagiography Database.", 
     "domain": "www.doaks.org", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:18.298916"
+            "when": "2015-10-27T18:44:57.257065"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:18.298931"
+            "when": "2015-10-27T18:44:57.257082"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:18.301412"
+            "when": "2015-10-27T18:44:57.259765"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:18.301424"
+            "when": "2015-10-27T18:44:57.259777"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:18.325844"
+            "when": "2015-10-27T18:44:57.285553"
         }
     ], 
     "publishers": [], 

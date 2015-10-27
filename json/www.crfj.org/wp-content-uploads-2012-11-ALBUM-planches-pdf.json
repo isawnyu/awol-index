@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "2. Les documents originaux num\u00e9ris\u00e9s. a) M\u00e9moire de Paula Silberberg-Zelwer (en deux fichiers).", 
+    "description": "2. Les documents originaux numérisés. a) Mémoire de Paula Silberberg-Zelwer (en deux fichiers).", 
     "domain": "www.crfj.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "LES FOUILLES de M. RAYMOND WEILL \u00e0 TELL-GEZER (1914 et 1924)", 
+        "title_full": "LES FOUILLES de M. RAYMOND WEILL à TELL-GEZER (1914 et 1924)", 
         "url": "http://www.crfj.org/?p=430&doing_wp_cron=1355014929.9588339328765869140625"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6770349415411480701", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.561829"
+            "when": "2015-10-27T18:45:12.167350"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/les-fouilles-de-m-raymond-weill-tell.html", 
             "resource_date": "2012-12-09T14:22:54.744-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.561839"
+            "when": "2015-10-27T18:45:12.167363"
         }
     ], 
     "publishers": [], 

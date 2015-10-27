@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 30 October 2010, updates 26 August 2014]. Eikasmos: Quaderni Bolognesi di Filologia Classica. Fondata da Enzo Degani nel 1990, la rivista \u00abEikasm\u00f3s. Quaderni Bolognesi di Filologia Classica\u00bb si \u00e8 sempre caratterizzata per una vocazione squisitamente critico-testuale ed esegetica (la prima sezione di ogni numero \u00e8 per l'appunto di \u00abEsegesi e critica testuale\u00bb), per una rigorosa attenzione alla storia della filologia classica (cui \u00e8 consacrata la seconda sezione di ogni volume) e per un costante impegno di aggiornamento e valutazione degli studi del settore (alle recensioni e alle segnalazioni bibliografiche sono riservate le ultime due sezioni della rivista). Founded by Enzo Degani in 1990, the review \u00abEikasm\u00f3s. Quaderni Bolognesi di Filologia Classica\u00bb is devoted to textual criticism and exegesis (the first section of each issue is dedicated to \u00abEsegesi e critica testuale\u00bb), to the history of classical scholarship (the second section of each volume), and to a systematic and up-to-date survey of scholarly works in the fields of classical studies (the two last sections of each issue include reviews and a bibliographical supplement).", 
+    "description": "[First posted in AWOL 30 October 2010, updates 26 August 2014]. Eikasmos: Quaderni Bolognesi di Filologia Classica. Fondata da Enzo Degani nel 1990, la rivista «Eikasmós. Quaderni Bolognesi di Filologia Classica» si è sempre caratterizzata per una vocazione squisitamente critico-testuale ed esegetica (la prima sezione di ogni numero è per l'appunto di «Esegesi e critica testuale»), per una rigorosa attenzione alla storia della filologia classica (cui è consacrata la seconda sezione di ogni volume) e per un costante impegno di aggiornamento e valutazione degli studi del settore (alle recensioni e alle segnalazioni bibliografiche sono riservate le ultime due sezioni della rivista). Founded by Enzo Degani in 1990, the review «Eikasmós. Quaderni Bolognesi di Filologia Classica» is devoted to textual criticism and exegesis (the first section of each issue is dedicated to «Esegesi e critica testuale»), to the history of classical scholarship (the second section of each volume), and to a systematic and up-to-date survey of scholarly works in the fields of classical studies (the two last sections of each issue include reviews and a bibliographical supplement).", 
     "domain": "www2.classics.unibo.it", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6254860727908891666", 
             "resource_date": "2014-08-26T10:35:46.477-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:54.921050"
+            "when": "2015-10-27T18:44:31.297223"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-eikasmos.html", 
             "resource_date": "2014-08-26T10:35:46.477-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:54.921068"
+            "when": "2015-10-27T18:44:31.297239"
         }
     ], 
     "publishers": [], 

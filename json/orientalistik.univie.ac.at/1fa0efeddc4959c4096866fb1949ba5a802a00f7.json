@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archiv f\u00fcr Orientforschung: Gesamtabk\u00fcrzungsverzeichnis", 
+        "title_full": "Archiv für Orientforschung: Gesamtabkürzungsverzeichnis", 
         "url": "http://orientalistik.univie.ac.at/de/forschung/publikationen/archiv-fuer-orientforschung/#other"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1774949851153018264", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.037793"
+            "when": "2015-10-27T18:38:02.874822"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/assyriological-abbreviations-list.html", 
             "resource_date": "2013-04-20T16:53:09.608-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.037806"
+            "when": "2015-10-27T18:38:02.874834"
         }
     ], 
     "publishers": [], 

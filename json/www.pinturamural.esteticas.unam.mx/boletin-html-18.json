@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "La Pintura mural prehisp\u00e1nica en M\u00e9xico - Bolet\u00edn informativo", 
+        "title_full": "La Pintura mural prehispánica en México - Boletín informativo", 
         "url": "http://www.pinturamural.esteticas.unam.mx/boletin.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2143388101431038512", 
             "resource_date": "2011-10-12T11:12:21.007-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:17.503156"
+            "when": "2015-10-27T18:38:25.059246"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/open-access-journal-la-pintura-mural.html", 
             "resource_date": "2011-10-12T11:12:21.007-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:17.503171"
+            "when": "2015-10-27T18:38:25.059262"
         }
     ], 
     "publishers": [], 

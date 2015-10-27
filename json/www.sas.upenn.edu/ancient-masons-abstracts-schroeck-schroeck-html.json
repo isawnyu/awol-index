@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mar\u00eda de los \u00c1ngeles Utrero Agudo, \"Building Churches in the 8th-10th Centuries in the Iberian Peninsula. Technology and Context\"Abstract.", 
+    "description": "María de los Ángeles Utrero Agudo, \"Building Churches in the 8th-10th Centuries in the Iberian Peninsula. Technology and Context\"Abstract.", 
     "domain": "www.sas.upenn.edu", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1668542114632913470", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.903868"
+            "when": "2015-10-27T18:37:56.868681"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-symposiumpublication-masons.html", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.903879"
+            "when": "2015-10-27T18:37:56.868692"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Katja Schr\u00f6ck, \"A Comparative Look at Stone Setting Techniques\" Abstract | Paper", 
+    "title": "Katja Schröck, \"A Comparative Look at Stone Setting Techniques\" Abstract | Paper", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

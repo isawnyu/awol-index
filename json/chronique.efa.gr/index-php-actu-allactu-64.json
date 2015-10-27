@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1588585389804255305", 
             "resource_date": "2011-09-08T06:24:44.618-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:50.265305"
+            "when": "2015-10-27T18:37:54.085304"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/recent-content-in-archaeology-in-greece.html", 
             "resource_date": "2011-09-08T06:24:44.618-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:50.265322"
+            "when": "2015-10-27T18:37:54.085320"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1588585389804255305", 
             "resource_date": "2011-09-08T06:24:44.618-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:50.266850"
+            "when": "2015-10-27T18:37:54.086982"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/recent-content-in-archaeology-in-greece.html", 
             "resource_date": "2011-09-08T06:24:44.618-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:50.266861"
+            "when": "2015-10-27T18:37:54.086994"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:50.381344"
+            "when": "2015-10-27T18:37:54.195259"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/64/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 2009", 
+            "title_full": "Péloponnèse - 2009", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/63/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Sud - 2009", 
+            "title_full": "Égée du Sud - 2009", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/62/"
         }, 
         {
@@ -156,11 +156,11 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/77/"
         }, 
         {
-            "title_full": "Cr\u00e8te - 2008", 
+            "title_full": "Crète - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/76/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Nord - 2008", 
+            "title_full": "Égée du Nord - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/70/"
         }, 
         {
@@ -168,15 +168,15 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/69/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 2008", 
+            "title_full": "Péloponnèse - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/68/"
         }, 
         {
-            "title_full": "\u00c9pire - 2008", 
+            "title_full": "Épire - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/67/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Ouest - 2008", 
+            "title_full": "Macédoine de l'Ouest - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/71/"
         }, 
         {
@@ -184,11 +184,11 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/75/"
         }, 
         {
-            "title_full": "Gr\u00e8ce centrale - 2008", 
+            "title_full": "Grèce centrale - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/74/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Est - 2008", 
+            "title_full": "Macédoine de l'Est - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/73/"
         }, 
         {
@@ -196,11 +196,11 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/78/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Sud - 2008", 
+            "title_full": "Égée du Sud - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/61/"
         }, 
         {
-            "title_full": "Mac\u00e9doine Centrale - 2008", 
+            "title_full": "Macédoine Centrale - 2008", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/11/"
         }, 
         {
@@ -208,7 +208,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/24/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Ouest - 2007", 
+            "title_full": "Macédoine de l'Ouest - 2007", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/22/"
         }, 
         {
@@ -216,11 +216,11 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/20/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 2007", 
+            "title_full": "Péloponnèse - 2007", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/17/"
         }, 
         {
-            "title_full": "Cr\u00e8te - 2007", 
+            "title_full": "Crète - 2007", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/15/"
         }, 
         {
@@ -228,7 +228,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/14/"
         }, 
         {
-            "title_full": "\u00c9pire - 2007", 
+            "title_full": "Épire - 2007", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/13/"
         }, 
         {
@@ -236,23 +236,23 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/10/"
         }, 
         {
-            "title_full": "Gr\u00e8ce centrale - 2006", 
+            "title_full": "Grèce centrale - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/56/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 2006", 
+            "title_full": "Péloponnèse - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/53/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Sud - 2006", 
+            "title_full": "Égée du Sud - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/50/"
         }, 
         {
-            "title_full": "Cr\u00e8te - 2006", 
+            "title_full": "Crète - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/48/"
         }, 
         {
-            "title_full": "Mac\u00e9doine Centrale - 2006", 
+            "title_full": "Macédoine Centrale - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/46/"
         }, 
         {
@@ -264,19 +264,19 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/42/"
         }, 
         {
-            "title_full": "\u00c9pire - 2006", 
+            "title_full": "Épire - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/40/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Ouest - 2006", 
+            "title_full": "Macédoine de l'Ouest - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/36/"
         }, 
         {
-            "title_full": "Gr\u00e8ce de l'Ouest - 2006", 
+            "title_full": "Grèce de l'Ouest - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/34/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Nord - 2006", 
+            "title_full": "Égée du Nord - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/32/"
         }, 
         {
@@ -284,7 +284,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/30/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Est - 2006", 
+            "title_full": "Macédoine de l'Est - 2006", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/28/"
         }, 
         {
@@ -292,19 +292,19 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/23/"
         }, 
         {
-            "title_full": "Gr\u00e8ce centrale - 2005", 
+            "title_full": "Grèce centrale - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/57/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 2005", 
+            "title_full": "Péloponnèse - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/54/"
         }, 
         {
-            "title_full": "Cr\u00e8te - 2005", 
+            "title_full": "Crète - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/49/"
         }, 
         {
-            "title_full": "Mac\u00e9doine Centrale - 2005", 
+            "title_full": "Macédoine Centrale - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/47/"
         }, 
         {
@@ -312,19 +312,19 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/43/"
         }, 
         {
-            "title_full": "\u00c9pire - 2005", 
+            "title_full": "Épire - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/41/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Ouest - 2005", 
+            "title_full": "Macédoine de l'Ouest - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/39/"
         }, 
         {
-            "title_full": "Gr\u00e8ce de l'Ouest - 2005", 
+            "title_full": "Grèce de l'Ouest - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/35/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Est - 2005", 
+            "title_full": "Macédoine de l'Est - 2005", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/29/"
         }, 
         {
@@ -336,7 +336,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/88/"
         }, 
         {
-            "title_full": "Mac\u00e9doine Centrale - 2004", 
+            "title_full": "Macédoine Centrale - 2004", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/59/"
         }, 
         {
@@ -344,7 +344,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/87/"
         }, 
         {
-            "title_full": "Gr\u00e8ce centrale - 2003", 
+            "title_full": "Grèce centrale - 2003", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/86/"
         }, 
         {
@@ -352,43 +352,43 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/85/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Ouest - 2000", 
+            "title_full": "Macédoine de l'Ouest - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/84/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Est - 2000", 
+            "title_full": "Macédoine de l'Est - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/83/"
         }, 
         {
-            "title_full": "Mac\u00e9doine Centrale - 2000", 
+            "title_full": "Macédoine Centrale - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/82/"
         }, 
         {
-            "title_full": "Gr\u00e8ce centrale - 2000", 
+            "title_full": "Grèce centrale - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/81/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Sud - 2000", 
+            "title_full": "Égée du Sud - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/80/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Nord - 2000", 
+            "title_full": "Égée du Nord - 2000", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/79/"
         }, 
         {
-            "title_full": "Cr\u00e8te - 1999", 
+            "title_full": "Crète - 1999", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/60/"
         }, 
         {
-            "title_full": "Mac\u00e9doine de l'Est - 1999", 
+            "title_full": "Macédoine de l'Est - 1999", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/58/"
         }, 
         {
-            "title_full": "P\u00e9loponn\u00e8se - 1999", 
+            "title_full": "Péloponnèse - 1999", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/55/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Sud - 1999", 
+            "title_full": "Égée du Sud - 1999", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/52/"
         }, 
         {
@@ -396,7 +396,7 @@
             "url": "http://chronique.efa.gr/index.php/actu/allactu/45/"
         }, 
         {
-            "title_full": "\u00c9g\u00e9e du Nord - 1999", 
+            "title_full": "Égée du Nord - 1999", 
             "url": "http://chronique.efa.gr/index.php/actu/allactu/33/"
         }
     ], 

@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4993639699001507263", 
             "resource_date": "2012-01-06T08:39:36.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.147102"
+            "when": "2015-10-27T18:43:07.236028"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/university-of-pennsylvania-museum-of.html", 
             "resource_date": "2012-01-06T08:39:36.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.147117"
+            "when": "2015-10-27T18:43:07.236044"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4993639699001507263", 
             "resource_date": "2012-01-06T08:39:36.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.148551"
+            "when": "2015-10-27T18:43:07.237606"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/university-of-pennsylvania-museum-of.html", 
             "resource_date": "2012-01-06T08:39:36.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.148562"
+            "when": "2015-10-27T18:43:07.237619"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:37.155317"
+            "when": "2015-10-27T18:43:07.245303"
         }
     ], 
     "publishers": [], 

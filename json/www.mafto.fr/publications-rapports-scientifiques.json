@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest - MAFTO: Rapports scientifiques. Chaque ann\u00e9e la MAFTO publie un rapport scientifique faisant \u00e9tat des principaux r\u00e9sultats de son activit\u00e9 sur le terrain. Pour t\u00e9l\u00e9charger les rapports scientifiques d\u00e9crivant nos travaux les plus r\u00e9cents, veuillez cliquer sur les ic\u00f4nes ci-dessous:.", 
+    "description": "Mission Archéologique Française de Thèbes-Ouest - MAFTO: Rapports scientifiques. Chaque année la MAFTO publie un rapport scientifique faisant état des principaux résultats de son activité sur le terrain. Pour télécharger les rapports scientifiques décrivant nos travaux les plus récents, veuillez cliquer sur les icônes ci-dessous:.", 
     "domain": "www.mafto.fr", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2645850087875203525", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.768824"
+            "when": "2015-10-27T18:38:51.910908"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.768839"
+            "when": "2015-10-27T18:38:51.910920"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-511338438912204142", 
             "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.201011"
+            "when": "2015-10-27T18:43:12.697192"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-annual-report-mission.html", 
             "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.201027"
+            "when": "2015-10-27T18:43:12.697208"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.204703"
+            "when": "2015-10-27T18:43:12.701377"
         }, 
         {
             "fields": [
@@ -180,13 +180,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-511338438912204142", 
             "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:42.203790"
+            "when": "2015-10-27T18:43:12.700261"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-annual-report-mission.html", 
             "resource_date": "2014-01-26T07:43:47.648-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:42.203803"
+            "when": "2015-10-27T18:43:12.700276"
         }, 
         {
             "fields": [
@@ -201,7 +201,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:42.207722"
+            "when": "2015-10-27T18:43:12.703404"
         }
     ], 
     "publishers": [], 
@@ -211,11 +211,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest - MAFTO: Rapports scientifiques", 
+            "title_full": "Mission Archéologique Française de Thèbes-Ouest - MAFTO: Rapports scientifiques", 
             "url": "http://www.mafto.fr/publications/rapports-scientifiques/"
         }
     ], 
-    "title": "Mission Arch\u00e9ologique Fran\u00e7aise de Th\u00e8bes-Ouest - MAFTO: Rapports scientifiques", 
+    "title": "Mission Archéologique Française de Thèbes-Ouest - MAFTO: Rapports scientifiques", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

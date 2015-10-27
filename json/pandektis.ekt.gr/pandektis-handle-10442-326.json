@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4760279671841224814", 
             "resource_date": "2014-03-24T18:56:25.285-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.845499"
+            "when": "2015-10-27T18:42:09.704172"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/archive-of-ancient-greek-and-latin.html", 
             "resource_date": "2014-03-24T18:56:25.285-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.845515"
+            "when": "2015-10-27T18:42:09.704189"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4760279671841224814", 
             "resource_date": "2014-03-24T18:56:25.285-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.849446"
+            "when": "2015-10-27T18:42:09.708151"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/archive-of-ancient-greek-and-latin.html", 
             "resource_date": "2014-03-24T18:56:25.285-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.849459"
+            "when": "2015-10-27T18:42:09.708165"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.854247"
+            "when": "2015-10-27T18:42:09.714016"
         }
     ], 
     "publishers": [], 

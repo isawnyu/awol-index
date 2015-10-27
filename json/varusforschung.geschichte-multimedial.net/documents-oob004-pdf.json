@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Osnabr\u00fccker Online-Beitr\u00e4ge zu den Altertumswissenschaften", 
+        "title_full": "Osnabrücker Online-Beiträge zu den Altertumswissenschaften", 
         "url": "http://varusforschung.geschichte-multimedial.net/pages/oob.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4114015275750395214", 
             "resource_date": "2015-07-02T10:35:55.555-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:00.026976"
+            "when": "2015-10-27T18:41:22.866309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/posted-in-awol-5-november-2009-updated.html", 
             "resource_date": "2015-07-02T10:35:55.555-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:00.026988"
+            "when": "2015-10-27T18:41:22.866325"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "4. Die r\u00f6mische Eroberung Britanniens (S. Korb; 4/2001)", 
+    "title": "4. Die römische Eroberung Britanniens (S. Korb; 4/2001)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

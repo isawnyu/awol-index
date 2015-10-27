@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 29 December 2013, updated 3 February 2015]. L'Antiquit\u00e9 Classique. eISSN - 2295-9076.", 
+    "description": "[First posted in AWOL 29 December 2013, updated 3 February 2015]. L'Antiquité Classique. eISSN - 2295-9076.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.644755"
+            "when": "2015-10-27T18:38:36.933094"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.644770"
+            "when": "2015-10-27T18:38:36.933106"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7945682581620223967", 
             "resource_date": "2015-02-03T14:32:29.628-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:04.103058"
+            "when": "2015-10-27T18:46:51.340745"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-journal-lantiquite-classique.html", 
             "resource_date": "2015-02-03T14:32:29.628-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:04.103075"
+            "when": "2015-10-27T18:46:51.340762"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:04.714911"
+            "when": "2015-10-27T18:46:51.978065"
         }
     ], 
     "publishers": [], 
@@ -609,7 +609,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/antiq_0770-2817_2007_num_76_1"
         }
     ], 
-    "title": "L'Antiquit\u00e9 Classique", 
+    "title": "L'Antiquité Classique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

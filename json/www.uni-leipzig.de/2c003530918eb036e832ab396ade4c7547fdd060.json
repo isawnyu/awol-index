@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DigitalHeka: Digitalisierte Erfassung alt\u00e4gyptischer magischer Texte des Mittleren und Neuen Reiches und deren philologische Analyse als Vorarbeit zu einerCorpusgrammatik und Corpusstilistik. Das Projekt \u201eDigitalHeka\" liefert Vorarbeiten f\u00fcr eine Corpusgrammatik und -stilistik der \u00e4gyptischen magischen Texte. Dazu wurden diese mit dem Computer erfa\u00dft werden und nach grammatikalischen, syntaktischen und stilistischen Kriterien ausgewertet. Aus praktischen Gr\u00fcnden musste das umfangreiche Textmaterial eingeschr\u00e4nkt werden. Als Kriterium f\u00fcr die Eingrenzung wurde eine Magiesystematik zugrunde gelegt, die die Texte nach ihrer temporalen Stellung zu einem Ereignis und nicht nach ihrer (moralischen) Intention in Gruppen einteilt. Ausgew\u00e4hlt wurden Texte, die ein erwartetes Ereignis verhindern sollen, sowie die, die die Auswirkungen eines bereits eingetroffenen Vorfalls abmildern sollen. Zusammen umfassen beide Gruppen einen Gro\u00dfteil der in der \u00e4gyptologischen Literatur traditionell als magisch bezeichneten Texte. In der \u00e4gyptischen Philologie wurden die magischen Texte bisher bei der Erforschung der Grammatik der \u00e4gyptischen Sprache kaum ber\u00fccksichtigt, anders als z. B. die umfangreichen Totentexte, die Literatur oder die medizinischen Texte, bei deren Untersuchung die magischen Texte sogar bewu\u00dft ausgenommen wurden. Da die Sprache der magischen Texte aber ihre Besonderheiten aufweist, ist eine Analyse ihrer Grammatik notwendig. Die Untersuchung des Textmaterials erfolgt auf mehreren Ebenen. Zun\u00e4chst wurden dazu die Texte in Transliteration im Computer erfasst, lemmatisiert und ph\u00e4nomenologisch-grammatikalisch beschrieben. Daneben wurde eine Datenbank erstellt, die eine \u00dcbersicht \u00fcber Texttr\u00e4ger, Textedition, Bearbeitungen, Literatur usw. gibt.", 
+    "description": "DigitalHeka: Digitalisierte Erfassung altägyptischer magischer Texte des Mittleren und Neuen Reiches und deren philologische Analyse als Vorarbeit zu einerCorpusgrammatik und Corpusstilistik. Das Projekt „DigitalHeka\" liefert Vorarbeiten für eine Corpusgrammatik und -stilistik der ägyptischen magischen Texte. Dazu wurden diese mit dem Computer erfaßt werden und nach grammatikalischen, syntaktischen und stilistischen Kriterien ausgewertet. Aus praktischen Gründen musste das umfangreiche Textmaterial eingeschränkt werden. Als Kriterium für die Eingrenzung wurde eine Magiesystematik zugrunde gelegt, die die Texte nach ihrer temporalen Stellung zu einem Ereignis und nicht nach ihrer (moralischen) Intention in Gruppen einteilt. Ausgewählt wurden Texte, die ein erwartetes Ereignis verhindern sollen, sowie die, die die Auswirkungen eines bereits eingetroffenen Vorfalls abmildern sollen. Zusammen umfassen beide Gruppen einen Großteil der in der ägyptologischen Literatur traditionell als magisch bezeichneten Texte. In der ägyptischen Philologie wurden die magischen Texte bisher bei der Erforschung der Grammatik der ägyptischen Sprache kaum berücksichtigt, anders als z. B. die umfangreichen Totentexte, die Literatur oder die medizinischen Texte, bei deren Untersuchung die magischen Texte sogar bewußt ausgenommen wurden. Da die Sprache der magischen Texte aber ihre Besonderheiten aufweist, ist eine Analyse ihrer Grammatik notwendig. Die Untersuchung des Textmaterials erfolgt auf mehreren Ebenen. Zunächst wurden dazu die Texte in Transliteration im Computer erfasst, lemmatisiert und phänomenologisch-grammatikalisch beschrieben. Daneben wurde eine Datenbank erstellt, die eine Übersicht über Textträger, Textedition, Bearbeitungen, Literatur usw. gibt.", 
     "domain": "www.uni-leipzig.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DigitalHeka: Digitalisierte Erfassung alt\u00e4gyptischer magischer Texte des Mittleren und Neuen Reiches", 
+        "title_full": "DigitalHeka: Digitalisierte Erfassung altägyptischer magischer Texte des Mittleren und Neuen Reiches", 
         "url": "http://www.uni-leipzig.de/~digiheka/index.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2047669583851703258", 
             "resource_date": "2015-02-05T13:43:50.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.102289"
+            "when": "2015-10-27T18:38:18.001740"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/digitalheka-digitalisierte-erfassung.html", 
             "resource_date": "2015-02-05T13:43:50.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.102302"
+            "when": "2015-10-27T18:38:18.001755"
         }
     ], 
     "publishers": [], 

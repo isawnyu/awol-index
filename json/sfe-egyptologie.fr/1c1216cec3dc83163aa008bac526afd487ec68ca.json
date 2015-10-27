@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de la Soci\u00e9t\u00e9 Fran\u00e7aise d'Egyptologie (BSFE). ISSN: 0037-9379. Les fondateurs de cette soci\u00e9t\u00e9 savante, cr\u00e9\u00e9e \u00e0 Paris en 1923 par les \u00e9gyptologues du moment, ont eu d\u00e8s sa cr\u00e9ation le souci de \"grouper les \u00e9gyptologues et les personnes s'int\u00e9ressant \u00e0 l'\u00e9tude de l'\u00c9gypte depuis ses origines jusqu'aux premiers si\u00e8cles de l'H\u00e9gire afin de leur permettre d'\u00e9changer leurs vues sur toutes les questions concernant l'\u00c9gypte, d'entretenir des rapports tant avec les savants sp\u00e9cialistes des autres pays qu'avec le public fran\u00e7ais non initi\u00e9 \u00e0 l'\u00e9gyptologie et de publier des travaux relatifs \u00e0 ces \u00e9tudes. \" (statuts 1923, art. Ier). \u00c0 notre \u00e9poque o\u00f9 l'on parle beaucoup et souvent inconsid\u00e9r\u00e9ment d'\u00e9gyptologie, les scientifiques ont \u00e0 coeur, en lui faisant partager leurs d\u00e9couvertes,de bien informer le public toujours plus large qui s'int\u00e9resse \u00e0 l'\u00e9tude de l'\u00c9gypte ancienne. \u00c0 cet effet, la SFE propose \u00e0 ses membres trois r\u00e9unions par an au cours desquelles des communications des sp\u00e9cialistes fran\u00e7ais ou \u00e9trangers pr\u00e9sentent nouvelles et d\u00e9couvertes de l'\u00e9gyptologie internationale. Le compte rendu de ces r\u00e9unions et le texte complet des communications paraissent dans le Bulletin de la Soci\u00e9t\u00e9 fran\u00e7aise d'\u00e9gyptologie - trois num\u00e9ros par an. La soci\u00e9t\u00e9 fran\u00e7aise d'\u00e9gyptologie publie annuellement la Revue d'\u00e9gyptologie, publication scientifique de renomm\u00e9e mondiale, accueillant des articles d'\u00e9gyptologues aussi bien fran\u00e7ais qu'\u00e9trangers. Enfin, selon l'actualit\u00e9, la SFE propose \u00e0 ses adh\u00e9rents des visites d'expositions et de mus\u00e9es consacr\u00e9s \u00e0 la civilisation \u00e9gyptienne, ainsi que des voyages. Numbers 1 (1949) - 150 (2001) are available for download. See the full.", 
+    "description": "Bulletin de la Société Française d'Egyptologie (BSFE). ISSN: 0037-9379. Les fondateurs de cette société savante, créée à Paris en 1923 par les égyptologues du moment, ont eu dès sa création le souci de \"grouper les égyptologues et les personnes s'intéressant à l'étude de l'Égypte depuis ses origines jusqu'aux premiers siècles de l'Hégire afin de leur permettre d'échanger leurs vues sur toutes les questions concernant l'Égypte, d'entretenir des rapports tant avec les savants spécialistes des autres pays qu'avec le public français non initié à l'égyptologie et de publier des travaux relatifs à ces études. \" (statuts 1923, art. Ier). À notre époque où l'on parle beaucoup et souvent inconsidérément d'égyptologie, les scientifiques ont à coeur, en lui faisant partager leurs découvertes,de bien informer le public toujours plus large qui s'intéresse à l'étude de l'Égypte ancienne. À cet effet, la SFE propose à ses membres trois réunions par an au cours desquelles des communications des spécialistes français ou étrangers présentent nouvelles et découvertes de l'égyptologie internationale. Le compte rendu de ces réunions et le texte complet des communications paraissent dans le Bulletin de la Société française d'égyptologie - trois numéros par an. La société française d'égyptologie publie annuellement la Revue d'égyptologie, publication scientifique de renommée mondiale, accueillant des articles d'égyptologues aussi bien français qu'étrangers. Enfin, selon l'actualité, la SFE propose à ses adhérents des visites d'expositions et de musées consacrés à la civilisation égyptienne, ainsi que des voyages. Numbers 1 (1949) - 150 (2001) are available for download. See the full.", 
     "domain": "sfe-egyptologie.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Bulletin de la Soci\u00e9t\u00e9 Fran\u00e7aise d'Egyptologie (BSFE)", 
+        "title_full": "Bulletin de la Société Française d'Egyptologie (BSFE)", 
         "url": "http://sfe-egyptologie.fr/index.php?option=com_wrapper&view=wrapper&Itemid=71"
     }, 
     "issuance": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3199987811875540280", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.758407"
+            "when": "2015-10-27T18:39:21.486863"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.758423"
+            "when": "2015-10-27T18:39:21.486880"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3199987811875540280", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.765817"
+            "when": "2015-10-27T18:39:21.494176"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2012-11-15T13:12:33.816-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.765834"
+            "when": "2015-10-27T18:39:21.494192"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:11.767420"
+            "when": "2015-10-27T18:39:21.496213"
         }
     ], 
     "publishers": [], 
@@ -150,11 +150,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin de la Soci\u00e9t\u00e9 Fran\u00e7aise d'Egyptologie (BSFE)", 
+            "title_full": "Bulletin de la Société Française d'Egyptologie (BSFE)", 
             "url": "http://sfe-egyptologie.fr/index.php?option=com_wrapper&view=wrapper&Itemid=71"
         }
     ], 
-    "title": "Bulletin de la Soci\u00e9t\u00e9 Fran\u00e7aise d'Egyptologie (BSFE)", 
+    "title": "Bulletin de la Société Française d'Egyptologie (BSFE)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Collection de l'Institut des Sciences et Techniques de l'Antiquit\u00e9", 
+        "title_full": "Collection de l'Institut des Sciences et Techniques de l'Antiquité", 
         "url": "http://persee.fr/web/ouvrages/home/prescript/fond/ista"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2889963013615546907", 
             "resource_date": "2015-04-01T07:23:51.866-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.406761"
+            "when": "2015-10-27T18:39:01.761725"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/newly-online-collection-de-linstitut.html", 
             "resource_date": "2015-04-01T07:23:51.866-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.406789"
+            "when": "2015-10-27T18:39:01.761739"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "L'insularit\u00e9 dans la pens\u00e9e grecque . 1991", 
+    "title": "L'insularité dans la pensée grecque . 1991", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

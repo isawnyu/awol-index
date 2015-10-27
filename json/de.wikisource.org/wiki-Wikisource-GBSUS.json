@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Pal\u00e4stinajahrbuch des Deutschen Evangelischen Instituts f\u00fcr Altertumswissenschaft des Heiligen Landes zu Jerusalem", 
+        "title_full": "Palästinajahrbuch des Deutschen Evangelischen Instituts für Altertumswissenschaft des Heiligen Landes zu Jerusalem", 
         "url": "http://de.wikisource.org/wiki/Zeitschriften_%28Altertumswissenschaft%29#2024263-3"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2334036405655426464", 
             "resource_date": "2013-12-30T09:22:59.057-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.311262"
+            "when": "2015-10-27T18:38:41.331792"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-acces-journal-palastinajahrbuch.html", 
             "resource_date": "2013-12-30T09:22:59.057-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.311278"
+            "when": "2015-10-27T18:38:41.331808"
         }
     ], 
     "publishers": [], 

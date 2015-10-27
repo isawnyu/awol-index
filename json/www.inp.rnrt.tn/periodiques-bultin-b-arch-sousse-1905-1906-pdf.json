@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Institut National du Patrimoine Tunisie, Biblioth\u00e8que Num\u00e9rique", 
+        "title_full": "Institut National du Patrimoine Tunisie, Bibliothèque Numérique", 
         "url": "http://www.inp.rnrt.tn/index.php?option=com_content&view=article&id=103&Itemid=3&lang=fr"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-937761268721486799", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:26.130173"
+            "when": "2015-10-27T18:49:25.224234"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/digital-library-institut-national-du.html", 
             "resource_date": "2014-05-15T16:16:24.290-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:26.130185"
+            "when": "2015-10-27T18:49:25.224245"
         }
     ], 
     "publishers": [], 

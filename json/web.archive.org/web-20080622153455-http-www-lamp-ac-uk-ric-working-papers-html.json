@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Working Papers may be cited without seeking prior permission from the author. The proper form for citing Working Papers in this series is:Author (year). Title. Version #. # Month. Lampeter Working Papers in Classics. Posting a paper on this site does not preclude simultaneous or subsequent publication elsewhere, including other Working Papers series. The copyright of a Working Paper is held by the author or by his or her assignee: see Copyright Statement. Downloadable copies of Working Papers will be removed from this site if and when authors indicate to the website coordinators that they have been published elsewhere, or if it comes to the website coordinators\u2019 attention that the paper has appeared in print. A link will then be created with the full reference to the published version of the paper. Once a paper has been published elsewhere, it is preferable to cite it in its final, published version, rather than in its Working Paper version. List of Papers.", 
+    "description": "Working Papers may be cited without seeking prior permission from the author. The proper form for citing Working Papers in this series is:Author (year). Title. Version #. # Month. Lampeter Working Papers in Classics. Posting a paper on this site does not preclude simultaneous or subsequent publication elsewhere, including other Working Papers series. The copyright of a Working Paper is held by the author or by his or her assignee: see Copyright Statement. Downloadable copies of Working Papers will be removed from this site if and when authors indicate to the website coordinators that they have been published elsewhere, or if it comes to the website coordinators’ attention that the paper has appeared in print. A link will then be created with the full reference to the published version of the paper. Once a paper has been published elsewhere, it is preferable to cite it in its final, published version, rather than in its Working Paper version. List of Papers.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1319373766819166009", 
             "resource_date": "2014-01-03T08:43:22.618-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:19.275524"
+            "when": "2015-10-27T18:37:21.187349"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-lampeter-working.html", 
             "resource_date": "2014-01-03T08:43:22.618-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:19.275542"
+            "when": "2015-10-27T18:37:21.187363"
         }
     ], 
     "publishers": [], 

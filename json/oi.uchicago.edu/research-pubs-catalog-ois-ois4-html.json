@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-136894099415794198", 
             "resource_date": "2013-07-19T13:55:30.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.132860"
+            "when": "2015-10-27T18:37:29.577411"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/new-online-from-oriental-institute.html", 
             "resource_date": "2013-07-19T13:55:30.150-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.132872"
+            "when": "2015-10-27T18:37:29.577424"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3437734128903129789", 
             "resource_date": "2015-04-30T08:03:00.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:24.891465"
+            "when": "2015-10-27T18:40:39.212128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-monographic-series-oriental.html", 
             "resource_date": "2015-04-30T08:03:00.020-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:24.891476"
+            "when": "2015-10-27T18:40:39.212146"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:24.909638"
+            "when": "2015-10-27T18:40:39.236820"
         }, 
         {
             "fields": [
@@ -171,13 +171,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-532316809684563766", 
             "resource_date": "2012-04-04T06:09:43.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.206496"
+            "when": "2015-10-27T18:43:24.620500"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/religion-and-power-divine-kingship-in.html", 
             "resource_date": "2012-04-04T06:09:43.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.206512"
+            "when": "2015-10-27T18:43:24.620517"
         }, 
         {
             "fields": [
@@ -192,7 +192,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:53.209734"
+            "when": "2015-10-27T18:43:24.624334"
         }, 
         {
             "fields": [
@@ -233,13 +233,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-532316809684563766", 
             "resource_date": "2012-04-04T06:09:43.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.208738"
+            "when": "2015-10-27T18:43:24.623044"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/religion-and-power-divine-kingship-in.html", 
             "resource_date": "2012-04-04T06:09:43.679-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.208750"
+            "when": "2015-10-27T18:43:24.623059"
         }, 
         {
             "fields": [
@@ -255,7 +255,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:53.211569"
+            "when": "2015-10-27T18:43:24.626673"
         }
     ], 
     "publishers": [], 

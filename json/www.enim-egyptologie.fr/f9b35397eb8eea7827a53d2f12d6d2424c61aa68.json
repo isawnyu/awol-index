@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 5 July 201, updated 22 December 2014]. CENiM - Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb. ISSN 2102-6637. [Tables of contents only for volumes 2, 3, 5, 8 and 9. ].", 
+    "description": "[First posted in AWOL 5 July 201, updated 22 December 2014]. CENiM - Les Cahiers «Égypte Nilotique et Méditérranéenne». ISSN 2102-6637. [Tables of contents only for volumes 2, 3, 5, 8 and 9. ].", 
     "domain": "www.enim-egyptologie.fr", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "2102-6637", 
-        "title_full": "Les Cahiers \u00ab\u00c9gypte Nilotique et M\u00e9dit\u00e9rran\u00e9enne\u00bb", 
+        "title_full": "Les Cahiers «Égypte Nilotique et Méditérranéenne»", 
         "url": "http://www.enim-egyptologie.fr/index.php?page=cahiers"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2668451656123331598", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:45.496731"
+            "when": "2015-10-27T18:38:53.820076"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-monographs-les-cahiers.html", 
             "resource_date": "2014-12-22T11:21:40.803-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:45.496747"
+            "when": "2015-10-27T18:38:53.820088"
         }
     ], 
     "publishers": [], 

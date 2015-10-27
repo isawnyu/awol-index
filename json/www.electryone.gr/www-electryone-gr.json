@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Electryone - `H\u03bb\u03b5\u03ba\u03c4\u03c1\u03c5\u03ce\u03bd\u03b7. ISSN: 2241-4061. Electryone is an English-language, peer reviewed online journal devoted to ancient historical and philological issues covering the period between the 2nd and 1st millennia BC and the Roman period A. D. Electryone welcomes articles between 4,000 and 8. 000 words, shorter notes, responses, etc. up to 2,500 words, and book reviews. It also welcomes presentations of new publications, announcements for conferences and information about research programs. Electryone focuses on the Mediterranean region and on matters referring to interactions of the Mediterranean with neighboring areas, but presents an international forum of research, innovative interpretations, critical reviews, analyses of ancient text sources, comparative studies, mythological issues, archive research reports, interaction of ancient history with topography and archaeology, and applied new technologies on historical and classical studies. Electryone covers the full range of classical studies (i. e. 2nd millennium to late Rome) but is particularly interested in classical antiquity and its relationship to other cultures.", 
+    "description": "Electryone - `Hλεκτρυώνη. ISSN: 2241-4061. Electryone is an English-language, peer reviewed online journal devoted to ancient historical and philological issues covering the period between the 2nd and 1st millennia BC and the Roman period A. D. Electryone welcomes articles between 4,000 and 8. 000 words, shorter notes, responses, etc. up to 2,500 words, and book reviews. It also welcomes presentations of new publications, announcements for conferences and information about research programs. Electryone focuses on the Mediterranean region and on matters referring to interactions of the Mediterranean with neighboring areas, but presents an international forum of research, innovative interpretations, critical reviews, analyses of ancient text sources, comparative studies, mythological issues, archive research reports, interaction of ancient history with topography and archaeology, and applied new technologies on historical and classical studies. Electryone covers the full range of classical studies (i. e. 2nd millennium to late Rome) but is particularly interested in classical antiquity and its relationship to other cultures.", 
     "domain": "www.electryone.gr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Electryone - `H\u03bb\u03b5\u03ba\u03c4\u03c1\u03c5\u03ce\u03bd\u03b7", 
+        "title_full": "Electryone - `Hλεκτρυώνη", 
         "url": "http://www.electryone.gr/"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5474774771559129228", 
             "resource_date": "2014-01-28T06:40:31.486-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.373528"
+            "when": "2015-10-27T18:43:35.316278"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/new-open-access-journal-electryone-h.html", 
             "resource_date": "2014-01-28T06:40:31.486-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.373546"
+            "when": "2015-10-27T18:43:35.316295"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5474774771559129228", 
             "resource_date": "2014-01-28T06:40:31.486-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:03.378537"
+            "when": "2015-10-27T18:43:35.321395"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/new-open-access-journal-electryone-h.html", 
             "resource_date": "2014-01-28T06:40:31.486-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:03.378553"
+            "when": "2015-10-27T18:43:35.321409"
         }, 
         {
             "fields": [
@@ -143,7 +143,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:03.380306"
+            "when": "2015-10-27T18:43:35.323697"
         }
     ], 
     "publishers": [], 
@@ -153,11 +153,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Electryone - `H\u03bb\u03b5\u03ba\u03c4\u03c1\u03c5\u03ce\u03bd\u03b7", 
+            "title_full": "Electryone - `Hλεκτρυώνη", 
             "url": "http://www.electryone.gr/"
         }
     ], 
-    "title": "Electryone - `H\u03bb\u03b5\u03ba\u03c4\u03c1\u03c5\u03ce\u03bd\u03b7", 
+    "title": "Electryone - `Hλεκτρυώνη", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

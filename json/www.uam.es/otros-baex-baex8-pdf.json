@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "A\u00f1o 2008-2010.", 
+    "description": "Año 2008-2010.", 
     "domain": "www.uam.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bolet\u00edn de Arqueolog\u00eda Experimental (BAEX)", 
+        "title_full": "Boletín de Arqueología Experimental (BAEX)", 
         "url": "http://www.uam.es/otros/baex/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2707452638746613688", 
             "resource_date": "2013-08-23T14:53:20.188-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:46.932523"
+            "when": "2015-10-27T18:38:55.299528"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-boletin-de.html", 
             "resource_date": "2013-08-23T14:53:20.188-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:46.932534"
+            "when": "2015-10-27T18:38:55.299540"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "BAEX n\u00ba 8", 
+    "title": "BAEX nº 8", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

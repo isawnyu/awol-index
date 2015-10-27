@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arch\u00e4ologie Weltweit ist das Magazin des Deutschen Arch\u00e4ologischen Instituts f\u00fcr eine breite interessierte \u00d6ffentlichkeit. Es berichtet zwei Mal im Jahr \u00fcber die Arbeit des DAI und erz\u00e4hlt darin Geschichten \u00fcber die F\u00e4higkeit der Arch\u00e4ologie, alte R\u00e4tsel zu l\u00f6sen, aber auch dar\u00fcber, wie Erkenntnisse \u00fcber die Antike f\u00fcr Gegenwart und Zukunft nutzbar gemacht werden k\u00f6nnen - mit oft \u00fcberraschenden Ergebnissen.", 
+    "description": "Archäologie Weltweit ist das Magazin des Deutschen Archäologischen Instituts für eine breite interessierte Öffentlichkeit. Es berichtet zwei Mal im Jahr über die Arbeit des DAI und erzählt darin Geschichten über die Fähigkeit der Archäologie, alte Rätsel zu lösen, aber auch darüber, wie Erkenntnisse über die Antike für Gegenwart und Zukunft nutzbar gemacht werden können - mit oft überraschenden Ergebnissen.", 
     "domain": "www.dainst.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arch\u00e4ologie Weltweit", 
+        "title_full": "Archäologie Weltweit", 
         "url": "http://www.dainst.org/archaeologie-weltweit"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-902109854365264283", 
             "resource_date": "2015-03-29T15:10:21.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.740918"
+            "when": "2015-10-27T18:49:11.395240"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-access-journal-dai-weltweit.html", 
             "resource_date": "2015-03-29T15:10:21.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.740930"
+            "when": "2015-10-27T18:49:11.395252"
         }
     ], 
     "publishers": [], 

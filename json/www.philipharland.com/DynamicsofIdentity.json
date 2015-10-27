@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-367748593622862450", 
             "resource_date": "2013-05-18T08:41:13.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.801210"
+            "when": "2015-10-27T18:40:56.660587"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/dynamics-of-identity-in-world-of-early.html", 
             "resource_date": "2013-05-18T08:41:13.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.801227"
+            "when": "2015-10-27T18:40:56.660601"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-367748593622862450", 
             "resource_date": "2013-05-18T08:41:13.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:39.803978"
+            "when": "2015-10-27T18:40:56.664039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/dynamics-of-identity-in-world-of-early.html", 
             "resource_date": "2013-05-18T08:41:13.441-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:39.803991"
+            "when": "2015-10-27T18:40:56.664059"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:39.822329"
+            "when": "2015-10-27T18:40:56.694728"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Universit\u00e4t zu K\u00f6ln, Wadi Sura-Projekt. In continuation of the long-lasting research of the University of Cologne into the cultural and environmental history of the eastern Sahara, the Wadi Sura Project was started in the beginning of 2009 as a joint archaeological mission of the University of Cologne, the Cologne University of Applied Sciences, and the German Archaeological Institute in Cairo, financed by the German Research Council (DFG). The main objective is the study of the so-called \"Cave of Beasts\" (Wadi Sura II), a large rock art shelter, painted with thousands of figures, which is located at the southwestern base of the Gilf Kebir plateau close to the border of Libya. The first primary objective of the Wadi Sura Project is the systematic documentation of the shelter and its rock paintings including their preservation status. The second focus of the project is the landscape archaeology of the Wadi Sura micro-region, which aims at integrating the rock shelter and its imagery into the archaeological context displayed in the distribution, dating, and function of prehistoric sites in the Wadi Sura area.", 
+    "description": "Universität zu Köln, Wadi Sura-Projekt. In continuation of the long-lasting research of the University of Cologne into the cultural and environmental history of the eastern Sahara, the Wadi Sura Project was started in the beginning of 2009 as a joint archaeological mission of the University of Cologne, the Cologne University of Applied Sciences, and the German Archaeological Institute in Cairo, financed by the German Research Council (DFG). The main objective is the study of the so-called \"Cave of Beasts\" (Wadi Sura II), a large rock art shelter, painted with thousands of figures, which is located at the southwestern base of the Gilf Kebir plateau close to the border of Libya. The first primary objective of the Wadi Sura Project is the systematic documentation of the shelter and its rock paintings including their preservation status. The second focus of the project is the landscape archaeology of the Wadi Sura micro-region, which aims at integrating the rock shelter and its imagery into the archaeological context displayed in the distribution, dating, and function of prehistoric sites in the Wadi Sura area.", 
     "domain": "wadisura.phil-fak.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Universit\u00e4t zu K\u00f6ln, Wadi Sura-Projekt", 
+        "title_full": "Universität zu Köln, Wadi Sura-Projekt", 
         "url": "http://wadisura.phil-fak.uni-koeln.de/7240.html"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4290326790960680975", 
             "resource_date": "2013-02-14T11:40:49.036-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.229999"
+            "when": "2015-10-27T18:41:49.476932"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/wadi-sura-projekt-online.html", 
             "resource_date": "2013-02-14T11:40:49.036-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.230016"
+            "when": "2015-10-27T18:41:49.476948"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4290326790960680975", 
             "resource_date": "2013-02-14T11:40:49.036-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.231733"
+            "when": "2015-10-27T18:41:49.478741"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/wadi-sura-projekt-online.html", 
             "resource_date": "2013-02-14T11:40:49.036-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.231757"
+            "when": "2015-10-27T18:41:49.478753"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:24.233181"
+            "when": "2015-10-27T18:41:49.480651"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Universit\u00e4t zu K\u00f6ln, Wadi Sura-Projekt", 
+            "title_full": "Universität zu Köln, Wadi Sura-Projekt", 
             "url": "http://wadisura.phil-fak.uni-koeln.de/7240.html"
         }
     ], 
-    "title": "Universit\u00e4t zu K\u00f6ln, Wadi Sura-Projekt", 
+    "title": "Universität zu Köln, Wadi Sura-Projekt", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

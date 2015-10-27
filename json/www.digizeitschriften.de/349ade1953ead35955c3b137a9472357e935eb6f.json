@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zeitschrift f\u00fcr christliche Arch\u00e4ologie und Kunst.", 
+    "description": "Zeitschrift für christliche Archäologie und Kunst.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5794016760126717173", 
             "resource_date": "2012-04-27T06:24:20.569-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:17.049966"
+            "when": "2015-10-27T18:43:50.005110"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-zeitschrift-fur.html", 
             "resource_date": "2012-04-27T06:24:20.569-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:17.049981"
+            "when": "2015-10-27T18:43:50.005126"
         }
     ], 
     "publishers": [], 
@@ -88,7 +88,7 @@
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=urn%3Anbn%3Ade%3Absz%3A16-diglit-36771"
         }
     ], 
-    "title": "Zeitschrift f\u00fcr christliche Arch\u00e4ologie und Kunst", 
+    "title": "Zeitschrift für christliche Archäologie und Kunst", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Histoire de la m\u00e9decine en Egypte ancienne. ISSN: 2270-2105. Histoire de la m\u00e9decine, de la chirurgie et de la pharmacie en Egypte ancienne - Histoire de la m\u00e9decine v\u00e9t\u00e9rinaire en Egypte ancienne - Relations entre la m\u00e9decine et la religion en Egypte ancienne - Histoire de la pens\u00e9e m\u00e9dicale.", 
+    "description": "Histoire de la médecine en Egypte ancienne. ISSN: 2270-2105. Histoire de la médecine, de la chirurgie et de la pharmacie en Egypte ancienne - Histoire de la médecine vétérinaire en Egypte ancienne - Relations entre la médecine et la religion en Egypte ancienne - Histoire de la pensée médicale.", 
     "domain": "medecineegypte.canalblog.com", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Histoire de la m\u00e9decine en Egypte ancienne", 
+        "title_full": "Histoire de la médecine en Egypte ancienne", 
         "url": "http://medecineegypte.canalblog.com/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6074910615786392128", 
             "resource_date": "2014-06-24T06:54:37.518-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.344224"
+            "when": "2015-10-27T18:44:19.162391"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-journal-histoire-de-la.html", 
             "resource_date": "2014-06-24T06:54:37.518-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.344241"
+            "when": "2015-10-27T18:44:19.162412"
         }
     ], 
     "publishers": [], 

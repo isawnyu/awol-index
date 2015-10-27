@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "y se ajustar\u00e1n a las.", 
+    "description": "y se ajustarán a las.", 
     "domain": "www.relat.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5057738678533591408", 
             "resource_date": "2013-07-08T09:32:42.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:38.762925"
+            "when": "2015-10-27T18:43:08.968905"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-revista-de-estudios.html", 
             "resource_date": "2013-07-08T09:32:42.925-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:38.762942"
+            "when": "2015-10-27T18:43:08.968920"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Directrices de presentaci\u00f3n y evaluaci\u00f3n de originales", 
+    "title": "Directrices de presentación y evaluación de originales", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

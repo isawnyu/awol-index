@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1443245785976374131", 
             "resource_date": "2015-05-19T10:52:40.893-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.654919"
+            "when": "2015-10-27T18:37:35.272284"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-data-handbook-guides-case-studies.html", 
             "resource_date": "2015-05-19T10:52:40.893-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.654935"
+            "when": "2015-10-27T18:37:35.272304"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1443245785976374131", 
             "resource_date": "2015-05-19T10:52:40.893-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.657010"
+            "when": "2015-10-27T18:37:35.274841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-data-handbook-guides-case-studies.html", 
             "resource_date": "2015-05-19T10:52:40.893-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.657022"
+            "when": "2015-10-27T18:37:35.274854"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:32.662810"
+            "when": "2015-10-27T18:37:35.281016"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "10. Die Liebesaffaire mit Dido und der Unterweltsgang mit der Sybille (Th. G\u00e4rtner; 10/2004).", 
+    "description": "10. Die Liebesaffaire mit Dido und der Unterweltsgang mit der Sybille (Th. Gärtner; 10/2004).", 
     "domain": "varusforschung.geschichte-multimedial.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Osnabr\u00fccker Online-Beitr\u00e4ge zu den Altertumswissenschaften", 
+        "title_full": "Osnabrücker Online-Beiträge zu den Altertumswissenschaften", 
         "url": "http://varusforschung.geschichte-multimedial.net/pages/oob.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4114015275750395214", 
             "resource_date": "2015-07-02T10:35:55.555-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:00.037477"
+            "when": "2015-10-27T18:41:22.881402"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/posted-in-awol-5-november-2009-updated.html", 
             "resource_date": "2015-07-02T10:35:55.555-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:00.037488"
+            "when": "2015-10-27T18:41:22.881416"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Aegean Prehistoric News. The \u2018Aegean Prehistoric News\u2019 is an electronic mail that presents recent news about Aegean prehistoric archaeology. The e-mail is sent free of charge to friends (or members) of Aegeus. From 2012 onwards it is sent every three months, four times a year (in September, December, March and June). If you would like to receive the \u2018Aegean Prehistoric News\u2019, please type your e-mail address in the left hand column.", 
+    "description": "Aegean Prehistoric News. The ‘Aegean Prehistoric News’ is an electronic mail that presents recent news about Aegean prehistoric archaeology. The e-mail is sent free of charge to friends (or members) of Aegeus. From 2012 onwards it is sent every three months, four times a year (in September, December, March and June). If you would like to receive the ‘Aegean Prehistoric News’, please type your e-mail address in the left hand column.", 
     "domain": "www.aegeussociety.org", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3734203431267141273", 
             "resource_date": "2013-12-09T11:54:48.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:41.780869"
+            "when": "2015-10-27T18:40:59.766299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-aegean-prehistoric.html", 
             "resource_date": "2013-12-09T11:54:48.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:41.780886"
+            "when": "2015-10-27T18:40:59.766313"
         }
     ], 
     "publishers": [], 

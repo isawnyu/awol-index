@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106126989837600742", 
             "resource_date": "2013-06-29T09:05:35.689-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:08.159694"
+            "when": "2015-10-27T18:37:09.016424"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/monuments-of-hittites.html", 
             "resource_date": "2013-06-29T09:05:35.689-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:08.159711"
+            "when": "2015-10-27T18:37:09.016440"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1106126989837600742", 
             "resource_date": "2013-06-29T09:05:35.689-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:08.163956"
+            "when": "2015-10-27T18:37:09.021028"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/04/monuments-of-hittites.html", 
             "resource_date": "2013-06-29T09:05:35.689-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:08.163970"
+            "when": "2015-10-27T18:37:09.021043"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:08.661228"
+            "when": "2015-10-27T18:37:09.564207"
         }
     ], 
     "publishers": [], 
@@ -153,11 +153,11 @@
             "url": "http://www.hittitemonuments.com/afyon/"
         }, 
         {
-            "title_full": "Akp\u0131nar", 
+            "title_full": "Akpınar", 
             "url": "http://www.hittitemonuments.com/akpinar/"
         }, 
         {
-            "title_full": "Alacah\u00f6y\u00fck", 
+            "title_full": "Alacahöyük", 
             "url": "http://www.hittitemonuments.com/alacahoyuk/"
         }, 
         {
@@ -165,23 +165,23 @@
             "url": "http://www.hittitemonuments.com/aleppo/"
         }, 
         {
-            "title_full": "Alt\u0131nyayla", 
+            "title_full": "Altınyayla", 
             "url": "http://www.hittitemonuments.com/altinyayla/"
         }, 
         {
-            "title_full": "Beyk\u00f6y", 
+            "title_full": "Beyköy", 
             "url": "http://www.hittitemonuments.com/beykoy/"
         }, 
         {
-            "title_full": "Bo\u011fazk\u00f6y", 
+            "title_full": "Boğazköy", 
             "url": "http://www.hittitemonuments.com/bogazkoy/"
         }, 
         {
-            "title_full": "\u00c7a\u011fd\u0131n", 
+            "title_full": "Çağdın", 
             "url": "http://www.hittitemonuments.com/cagdin/"
         }, 
         {
-            "title_full": "Eflatunp\u0131nar", 
+            "title_full": "Eflatunpınar", 
             "url": "http://www.hittitemonuments.com/eflatunpinar/"
         }, 
         {
@@ -193,7 +193,7 @@
             "url": "http://www.hittitemonuments.com/ermenek/"
         }, 
         {
-            "title_full": "Fas\u0131llar", 
+            "title_full": "Fasıllar", 
             "url": "http://www.hittitemonuments.com/fasillar/"
         }, 
         {
@@ -217,7 +217,7 @@
             "url": "http://www.hittitemonuments.com/hemite/"
         }, 
         {
-            "title_full": "\u0130mamkulu", 
+            "title_full": "İmamkulu", 
             "url": "http://www.hittitemonuments.com/imamkulu/"
         }, 
         {
@@ -225,7 +225,7 @@
             "url": "http://www.hittitemonuments.com/karabel/"
         }, 
         {
-            "title_full": "Karak\u0131z", 
+            "title_full": "Karakız", 
             "url": "http://www.hittitemonuments.com/karakiz/"
         }, 
         {
@@ -237,11 +237,11 @@
             "url": "http://www.hittitemonuments.com/karga/"
         }, 
         {
-            "title_full": "Kayal\u0131p\u0131nar", 
+            "title_full": "Kayalıpınar", 
             "url": "http://www.hittitemonuments.com/kayalipinar/"
         }, 
         {
-            "title_full": "K\u00f6yl\u00fctolu", 
+            "title_full": "Köylütolu", 
             "url": "http://www.hittitemonuments.com/koylutolu/"
         }, 
         {
@@ -249,11 +249,11 @@
             "url": "http://www.hittitemonuments.com/malkaya/"
         }, 
         {
-            "title_full": "Ortak\u00f6y", 
+            "title_full": "Ortaköy", 
             "url": "http://www.hittitemonuments.com/ortakoy/"
         }, 
         {
-            "title_full": "Savc\u0131l\u0131", 
+            "title_full": "Savcılı", 
             "url": "http://www.hittitemonuments.com/savcili/"
         }, 
         {
@@ -265,19 +265,19 @@
             "url": "http://www.hittitemonuments.com/suratkaya/"
         }, 
         {
-            "title_full": "Ta\u015f\u00e7\u0131", 
+            "title_full": "Taşçı", 
             "url": "http://www.hittitemonuments.com/tasci/"
         }, 
         {
-            "title_full": "Tell A\u00e7ana", 
+            "title_full": "Tell Açana", 
             "url": "http://www.hittitemonuments.com/tellacana/"
         }, 
         {
-            "title_full": "Torbal\u0131", 
+            "title_full": "Torbalı", 
             "url": "http://www.hittitemonuments.com/torbali/"
         }, 
         {
-            "title_full": "Ya\u011fr\u0131", 
+            "title_full": "Yağrı", 
             "url": "http://www.hittitemonuments.com/yagri/"
         }, 
         {
@@ -293,7 +293,7 @@
             "url": "http://www.hittitemonuments.com/andaval/"
         }, 
         {
-            "title_full": "Bah\u00e7ek\u00f6y", 
+            "title_full": "Bahçeköy", 
             "url": "http://www.hittitemonuments.com/bahcekoy/"
         }, 
         {
@@ -309,19 +309,19 @@
             "url": "http://www.hittitemonuments.com/burunkaya/"
         }, 
         {
-            "title_full": "\u00c7alapverdi", 
+            "title_full": "Çalapverdi", 
             "url": "http://www.hittitemonuments.com/calapverdi/"
         }, 
         {
-            "title_full": "\u00c7iftlik", 
+            "title_full": "Çiftlik", 
             "url": "http://www.hittitemonuments.com/ciftlik/"
         }, 
         {
-            "title_full": "E\u011frek", 
+            "title_full": "Eğrek", 
             "url": "http://www.hittitemonuments.com/egrek/"
         }, 
         {
-            "title_full": "E\u011frik\u00f6y", 
+            "title_full": "Eğriköy", 
             "url": "http://www.hittitemonuments.com/egrikoy/"
         }, 
         {
@@ -329,7 +329,7 @@
             "url": "http://www.hittitemonuments.com/erkilet/"
         }, 
         {
-            "title_full": "Hisarc\u0131k", 
+            "title_full": "Hisarcık", 
             "url": "http://www.hittitemonuments.com/hisarcik/"
         }, 
         {
@@ -337,19 +337,19 @@
             "url": "http://www.hittitemonuments.com/gemerek/"
         }, 
         {
-            "title_full": "G\u00f6ll\u00fcda\u011f", 
+            "title_full": "Göllüdağ", 
             "url": "http://www.hittitemonuments.com/golludag/"
         }, 
         {
-            "title_full": "G\u00f6kbez", 
+            "title_full": "Gökbez", 
             "url": "http://www.hittitemonuments.com/gokbez/"
         }, 
         {
-            "title_full": "G\u00f6stesin", 
+            "title_full": "Göstesin", 
             "url": "http://www.hittitemonuments.com/gostesin/"
         }, 
         {
-            "title_full": "\u0130vriz", 
+            "title_full": "İvriz", 
             "url": "http://www.hittitemonuments.com/ivriz/"
         }, 
         {
@@ -357,7 +357,7 @@
             "url": "http://www.hittitemonuments.com/karaburna/"
         }, 
         {
-            "title_full": "Karada\u011f", 
+            "title_full": "Karadağ", 
             "url": "http://www.hittitemonuments.com/karadag/"
         }, 
         {
@@ -369,11 +369,11 @@
             "url": "http://www.hittitemonuments.com/keben/"
         }, 
         {
-            "title_full": "Ke\u015flik Yayla", 
+            "title_full": "Keşlik Yayla", 
             "url": "http://www.hittitemonuments.com/keslik/"
         }, 
         {
-            "title_full": "K\u0131z\u0131lda\u011f", 
+            "title_full": "Kızıldağ", 
             "url": "http://www.hittitemonuments.com/kizildag/"
         }, 
         {
@@ -385,7 +385,7 @@
             "url": "http://www.hittitemonuments.com/kurubel/"
         }, 
         {
-            "title_full": "Ni\u011fde", 
+            "title_full": "Niğde", 
             "url": "http://www.hittitemonuments.com/nigde/"
         }, 
         {
@@ -397,7 +397,7 @@
             "url": "http://www.hittitemonuments.com/sivasa/"
         }, 
         {
-            "title_full": "Sultanhan\u0131", 
+            "title_full": "Sultanhanı", 
             "url": "http://www.hittitemonuments.com/sultanhani/"
         }, 
         {
@@ -413,7 +413,7 @@
             "url": "http://www.hittitemonuments.com/veliisa/"
         }, 
         {
-            "title_full": "Arslanta\u015f", 
+            "title_full": "Arslantaş", 
             "url": "http://www.hittitemonuments.com/arslantas/"
         }, 
         {
@@ -425,27 +425,27 @@
             "url": "http://www.hittitemonuments.com/darende/"
         }, 
         {
-            "title_full": "G\u00fcr\u00fcn", 
+            "title_full": "Gürün", 
             "url": "http://www.hittitemonuments.com/gurun/"
         }, 
         {
-            "title_full": "Havuzk\u00f6y", 
+            "title_full": "Havuzköy", 
             "url": "http://www.hittitemonuments.com/havuzkoy/"
         }, 
         {
-            "title_full": "\u0130spek\u00e7\u00fcr", 
+            "title_full": "İspekçür", 
             "url": "http://www.hittitemonuments.com/ispekcur/"
         }, 
         {
-            "title_full": "Izg\u0131n", 
+            "title_full": "Izgın", 
             "url": "http://www.hittitemonuments.com/izgin/"
         }, 
         {
-            "title_full": "Karah\u00f6y\u00fck", 
+            "title_full": "Karahöyük", 
             "url": "http://www.hittitemonuments.com/karahoyuk/"
         }, 
         {
-            "title_full": "K\u00f6t\u00fckale", 
+            "title_full": "Kötükale", 
             "url": "http://www.hittitemonuments.com/kotukale/"
         }, 
         {
@@ -453,19 +453,19 @@
             "url": "http://www.hittitemonuments.com/palanga/"
         }, 
         {
-            "title_full": "\u015e\u0131rz\u0131", 
+            "title_full": "Şırzı", 
             "url": "http://www.hittitemonuments.com/sirzi/"
         }, 
         {
-            "title_full": "Karabur\u00e7lu", 
+            "title_full": "Karaburçlu", 
             "url": "http://www.hittitemonuments.com/karaburclu/"
         }, 
         {
-            "title_full": "K\u00fcrt\u00fcl", 
+            "title_full": "Kürtül", 
             "url": "http://www.hittitemonuments.com/kurtul/"
         }, 
         {
-            "title_full": "K.Mara\u015f", 
+            "title_full": "K.Maraş", 
             "url": "http://www.hittitemonuments.com/maras/"
         }, 
         {
@@ -473,15 +473,15 @@
             "url": "http://www.hittitemonuments.com/ancoz/"
         }, 
         {
-            "title_full": "Boybeyp\u0131nar\u0131", 
+            "title_full": "Boybeypınarı", 
             "url": "http://www.hittitemonuments.com/boybeypinari/"
         }, 
         {
-            "title_full": "G\u00f6lp\u0131nar", 
+            "title_full": "Gölpınar", 
             "url": "http://www.hittitemonuments.com/golpinar/"
         }, 
         {
-            "title_full": "Ha\u00e7g\u00f6z", 
+            "title_full": "Haçgöz", 
             "url": "http://www.hittitemonuments.com/hacgoz/"
         }, 
         {
@@ -493,7 +493,7 @@
             "url": "http://www.hittitemonuments.com/karasu/"
         }, 
         {
-            "title_full": "Malp\u0131nar\u0131", 
+            "title_full": "Malpınarı", 
             "url": "http://www.hittitemonuments.com/malpinari/"
         }, 
         {
@@ -505,11 +505,11 @@
             "url": "http://www.hittitemonuments.com/aindara/"
         }, 
         {
-            "title_full": "Arslanta\u015f", 
+            "title_full": "Arslantaş", 
             "url": "http://www.hittitemonuments.com/arslantas2/"
         }, 
         {
-            "title_full": "Asmac\u0131k", 
+            "title_full": "Asmacık", 
             "url": "http://www.hittitemonuments.com/asmacik/"
         }, 
         {
@@ -521,7 +521,7 @@
             "url": "http://www.hittitemonuments.com/cekke/"
         }, 
         {
-            "title_full": "\u00c7inek\u00f6y", 
+            "title_full": "Çineköy", 
             "url": "http://www.hittitemonuments.com/cinekoy/"
         }, 
         {
@@ -533,7 +533,7 @@
             "url": "http://www.hittitemonuments.com/gaziantep/"
         }, 
         {
-            "title_full": "G\u00f6zl\u00fch\u00f6y\u00fck", 
+            "title_full": "Gözlühöyük", 
             "url": "http://www.hittitemonuments.com/gozluhoyuk/"
         }, 
         {
@@ -545,7 +545,7 @@
             "url": "http://www.hittitemonuments.com/karatepe/"
         }, 
         {
-            "title_full": "Karkam\u0131\u015f", 
+            "title_full": "Karkamış", 
             "url": "http://www.hittitemonuments.com/karkamis/"
         }, 
         {
@@ -553,11 +553,11 @@
             "url": "http://www.hittitemonuments.com/kelekli/"
         }, 
         {
-            "title_full": "K\u0131r\u00e7o\u011flu", 
+            "title_full": "Kırçoğlu", 
             "url": "http://www.hittitemonuments.com/kircoglu/"
         }, 
         {
-            "title_full": "K\u00f6rk\u00fcn", 
+            "title_full": "Körkün", 
             "url": "http://www.hittitemonuments.com/korkun/"
         }, 
         {
@@ -565,11 +565,11 @@
             "url": "http://www.hittitemonuments.com/meharde/"
         }, 
         {
-            "title_full": "\u00d6rt\u00fcl\u00fc", 
+            "title_full": "Örtülü", 
             "url": "http://www.hittitemonuments.com/ortulu/"
         }, 
         {
-            "title_full": "Sakcag\u00f6z\u00fc", 
+            "title_full": "Sakcagözü", 
             "url": "http://www.hittitemonuments.com/sakcagozu/"
         }, 
         {
@@ -593,7 +593,7 @@
             "url": "http://www.hittitemonuments.com/tuleil/"
         }, 
         {
-            "title_full": "T\u00fcnp", 
+            "title_full": "Tünp", 
             "url": "http://www.hittitemonuments.com/tunp/"
         }, 
         {

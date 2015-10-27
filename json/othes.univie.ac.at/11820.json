@@ -3,7 +3,7 @@
         "Maschek, Dominik"
     ], 
     "contributors": [], 
-    "description": "Dissertation, University of Vienna. Historisch-Kulturwissenschaftliche Fakult\u00e4t BetreuerIn: Krinzinger, Friedrich. Keine Volltext-Freigabe durch VerfasserIn", 
+    "description": "Dissertation, University of Vienna. Historisch-Kulturwissenschaftliche Fakultät BetreuerIn: Krinzinger, Friedrich. Keine Volltext-Freigabe durch VerfasserIn", 
     "domain": "othes.univie.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -61,19 +61,19 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1001484277884710615", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:05:57.867522"
+            "when": "2015-10-27T18:36:58.543582"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/universitat-wien-theses-and.html", 
             "resource_date": "2015-05-28T16:27:13.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:05:57.867532"
+            "when": "2015-10-27T18:36:58.543592"
         }
     ], 
     "publishers": [], 
     "related_resources": [
         {
-            "title_full": "Klassische Arch\u00e4ologie", 
+            "title_full": "Klassische Archäologie", 
             "url": "http://othes.univie.ac.at/view/subjects/15=2E17.html"
         }
     ], 

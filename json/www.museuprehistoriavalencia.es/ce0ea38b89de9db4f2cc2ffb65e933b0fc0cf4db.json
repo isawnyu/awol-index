@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Museu de Prehist\u00f2ria de Val\u00e8ncia: Serie Trabajos Varios del SIP.", 
+    "description": "Museu de Prehistòria de València: Serie Trabajos Varios del SIP.", 
     "domain": "www.museuprehistoriavalencia.es", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Museu de Prehist\u00f2ria de Val\u00e8ncia: Serie Trabajos Varios del SIP", 
+        "title_full": "Museu de Prehistòria de València: Serie Trabajos Varios del SIP", 
         "url": "http://www.museuprehistoriavalencia.es/trabajos_varios.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6223268524723016498", 
             "resource_date": "2013-08-10T08:42:12.396-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:53.715986"
+            "when": "2015-10-27T18:44:29.952552"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-books-from-museu-de.html", 
             "resource_date": "2013-08-10T08:42:12.396-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:53.716002"
+            "when": "2015-10-27T18:44:29.952571"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "L'expansi\u00f3 de l'agricultura. La Vall de l'Alcoi fa 5.000 anys - La expansi\u00f3n de la agricultura: el valle del Serpis hace 5.000 a\u00f1os [Valenci\u00e0 / Castellano]", 
+    "title": "L'expansió de l'agricultura. La Vall de l'Alcoi fa 5.000 anys - La expansión de la agricultura: el valle del Serpis hace 5.000 años [Valencià / Castellano]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

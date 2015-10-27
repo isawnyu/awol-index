@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les jeux et les ruses de l\u2018ambigu\u00eft\u00e9 volontaire dans les textes grecs et latins. \u00c9dit\u00e9s par L. Basset - F. Biville, 2005. (Mika Kajava).", 
+    "description": "Les jeux et les ruses de l‘ambiguïté volontaire dans les textes grecs et latins. Édités par L. Basset - F. Biville, 2005. (Mika Kajava).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.809278"
+            "when": "2015-10-27T18:40:19.914676"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.809290"
+            "when": "2015-10-27T18:40:19.914690"
         }
     ], 
     "publishers": [], 

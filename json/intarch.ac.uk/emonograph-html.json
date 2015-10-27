@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8974651121339012952", 
             "resource_date": "2013-09-12T15:57:52.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.158726"
+            "when": "2015-10-27T18:49:03.169530"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/internet-archaeology-e-monograph-series.html", 
             "resource_date": "2013-09-12T15:57:52.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.158743"
+            "when": "2015-10-27T18:49:03.169546"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8974651121339012952", 
             "resource_date": "2013-09-12T15:57:52.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.162459"
+            "when": "2015-10-27T18:49:03.173381"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/internet-archaeology-e-monograph-series.html", 
             "resource_date": "2013-09-12T15:57:52.764-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.162471"
+            "when": "2015-10-27T18:49:03.173395"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:06.271080"
+            "when": "2015-10-27T18:49:03.291071"
         }
     ], 
     "publishers": [], 
@@ -169,7 +169,7 @@
             "url": "http://intarch.ac.uk/journal/issue5/westhes_index.html"
         }, 
         {
-            "title_full": "Two SE Spanish Middle Palaeolithic Sites with Neanderthal Remains: Sima de las Palomas del Cabezo Gordo and Cueva Negra del Estrecho del R\u00edo Qu\u00edpar (Murcia province)", 
+            "title_full": "Two SE Spanish Middle Palaeolithic Sites with Neanderthal Remains: Sima de las Palomas del Cabezo Gordo and Cueva Negra del Estrecho del Río Quípar (Murcia province)", 
             "url": "http://intarch.ac.uk/journal/issue5/walker_index.html"
         }, 
         {
@@ -237,7 +237,7 @@
             "url": "http://intarch.ac.uk/journal/issue25/merv_index.html"
         }, 
         {
-            "title_full": "Becoming Roman in southern Burgundy: A field survey between Autun and Bibracte in the Arroux Valley (Sa\u00f4ne-et-Loire), 2000-2003", 
+            "title_full": "Becoming Roman in southern Burgundy: A field survey between Autun and Bibracte in the Arroux Valley (Saône-et-Loire), 2000-2003", 
             "url": "http://intarch.ac.uk/journal/issue25/creighton_index.html"
         }, 
         {

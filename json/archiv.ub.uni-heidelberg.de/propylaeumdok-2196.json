@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Faber, Richard (Hrsg. ): Sozialismus in Geschichte und Gegenwart. W\u00fcrzburg 1994, pp. 45-60. Assmann, Jan (1986).", 
+    "description": "In: Faber, Richard (Hrsg. ): Sozialismus in Geschichte und Gegenwart. Würzburg 1994, pp. 45-60. Assmann, Jan (1986).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:50.383749"
+            "when": "2015-10-27T18:40:01.769440"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:50.383765"
+            "when": "2015-10-27T18:40:01.769456"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4228119224334277304", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:04.972005"
+            "when": "2015-10-27T18:41:27.943986"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/latest-20-additions-to-propylaeumdok.html", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:04.972018"
+            "when": "2015-10-27T18:41:27.943998"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:05.048069"
+            "when": "2015-10-27T18:41:28.035321"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Vertikaler Sozialismus. Solidarit\u00e4t und Gerechtigkeit im alt\u00e4gyptischen Staat", 
+    "title": "Vertikaler Sozialismus. Solidarität und Gerechtigkeit im altägyptischen Staat", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

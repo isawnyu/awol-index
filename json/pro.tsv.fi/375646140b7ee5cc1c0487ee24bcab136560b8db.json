@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00c9. Cairon: Les \u00e9pitaphes m\u00e9triques hell\u00e9nistiques du P\u00e9loponn\u00e9se \u00e0 la Thessalie, 2009. (Saara Kauppinen).", 
+    "description": "É. Cairon: Les épitaphes métriques hellénistiques du Péloponnése à la Thessalie, 2009. (Saara Kauppinen).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.821468"
+            "when": "2015-10-27T18:40:19.927940"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.821480"
+            "when": "2015-10-27T18:40:19.927952"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Jenseits des Euphrat. Griechische Inschriften. Ein epigraphisches Lesebuch. Zusammengestellt, \u00fcbersetzt und erkl\u00e4rt von R. Merkelbach - J. Stauber, 2005. (Mika Kajava)", 
+    "title": "Jenseits des Euphrat. Griechische Inschriften. Ein epigraphisches Lesebuch. Zusammengestellt, übersetzt und erklärt von R. Merkelbach - J. Stauber, 2005. (Mika Kajava)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

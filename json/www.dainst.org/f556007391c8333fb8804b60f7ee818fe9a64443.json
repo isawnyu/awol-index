@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "G\u00f6bekli Tepe Newsletter.", 
+    "description": "Göbekli Tepe Newsletter.", 
     "domain": "www.dainst.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "G\u00f6bekli Tepe Newsletter", 
+        "title_full": "Göbekli Tepe Newsletter", 
         "url": "http://www.dainst.org/en/story/newsletter-goebekli-tepe"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6472659582933860181", 
             "resource_date": "2014-03-04T17:29:31.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:05.546974"
+            "when": "2015-10-27T18:44:43.233570"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-gobekli-tepe.html", 
             "resource_date": "2014-03-04T17:29:31.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:05.546986"
+            "when": "2015-10-27T18:44:43.233584"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Newsletter G\u00f6bekli Tepe first issue (PDF 3,8MB)", 
+    "title": "Newsletter Göbekli Tepe first issue (PDF 3,8MB)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

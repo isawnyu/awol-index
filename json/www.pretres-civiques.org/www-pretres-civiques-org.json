@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie. Cette base de donn\u00e9es des pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d\u2019Asie est issue d\u2019un travail de doctorat effectu\u00e9 entre 2005 et 2009 sous la direction de Jean-Louis Ferrary (\u00c9cole Pratique des Hautes \u00c9tudes, Paris) par Gabrielle Frija (\u00c9cole Pratique des Hautes \u00c9tudes, Paris - Universit\u00e9 Rennes 2). La prosopographie des pr\u00eatres et grands-pr\u00eatres des empereurs repose sur un d\u00e9pouillement syst\u00e9matique des inscriptions des cit\u00e9s d\u2019Asie. Cette recherche a permis de recenser un peu plus de 460 pr\u00eatres dans 80 cit\u00e9s diff\u00e9rentes; rapport\u00e9 \u00e0 l\u2019ensemble des cit\u00e9s de la province d\u2019Asie et \u00e0 la p\u00e9riode concern\u00e9e, de l\u2019arriv\u00e9e au pouvoir d\u2019Auguste \u00e0 la fin du IIIe si\u00e8cle, ce nombre est faible pour une charge qui \u00e9tait en g\u00e9n\u00e9ral annuelle. Le catalogue des pr\u00eatres civiques demande donc \u00e0 \u00eatre compl\u00e9t\u00e9 au fur et \u00e0 mesure des d\u00e9couvertes \u00e9pigraphiques. L\u2019objectif de la mise en ligne de la base de donn\u00e9es est de faciliter la consultation de la prosopographie; celle-ci est \u00e9galement disponible aupr\u00e8s de l\u2019auteur sous la forme classique d\u2019un catalogue.", 
+    "description": "Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie. Cette base de données des prêtres du culte impérial romain dans les cités de la province d’Asie est issue d’un travail de doctorat effectué entre 2005 et 2009 sous la direction de Jean-Louis Ferrary (École Pratique des Hautes Études, Paris) par Gabrielle Frija (École Pratique des Hautes Études, Paris - Université Rennes 2). La prosopographie des prêtres et grands-prêtres des empereurs repose sur un dépouillement systématique des inscriptions des cités d’Asie. Cette recherche a permis de recenser un peu plus de 460 prêtres dans 80 cités différentes; rapporté à l’ensemble des cités de la province d’Asie et à la période concernée, de l’arrivée au pouvoir d’Auguste à la fin du IIIe siècle, ce nombre est faible pour une charge qui était en général annuelle. Le catalogue des prêtres civiques demande donc à être complété au fur et à mesure des découvertes épigraphiques. L’objectif de la mise en ligne de la base de données est de faciliter la consultation de la prosopographie; celle-ci est également disponible auprès de l’auteur sous la forme classique d’un catalogue.", 
     "domain": "www.pretres-civiques.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+        "title_full": "Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie", 
         "url": "http://www.pretres-civiques.org/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.404724"
+            "when": "2015-10-27T18:38:11.472313"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.404741"
+            "when": "2015-10-27T18:38:11.472329"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.410335"
+            "when": "2015-10-27T18:38:11.478179"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.410348"
+            "when": "2015-10-27T18:38:11.478193"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:05.552424"
+            "when": "2015-10-27T18:38:11.638864"
         }
     ], 
     "publishers": [], 
@@ -144,23 +144,23 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+            "title_full": "Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie", 
             "url": "http://www.pretres-civiques.org/"
         }, 
         {
-            "title_full": "Gabrielle Frija (\u00c9cole Pratique des Hautes \u00c9tudes, Paris - Universit\u00e9 Rennes 2)", 
+            "title_full": "Gabrielle Frija (École Pratique des Hautes Études, Paris - Université Rennes 2)", 
             "url": "http://www.pretres-civiques.org/contact"
         }, 
         {
-            "title_full": "cit\u00e9s", 
+            "title_full": "cités", 
             "url": "http://www.pretres-civiques.org/rechercher-un-pretre-par-cite"
         }, 
         {
-            "title_full": "pr\u00eatrises", 
+            "title_full": "prêtrises", 
             "url": "http://www.pretres-civiques.org/rechercher-un-pretre-par-titre"
         }, 
         {
-            "title_full": "pr\u00eatres", 
+            "title_full": "prêtres", 
             "url": "http://www.pretres-civiques.org/liste-des-pretres"
         }, 
         {
@@ -308,43 +308,43 @@
             "url": "http://www.pretres-civiques.org/sources/publication/653"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03cd\u03c2", 
+            "title_full": "ἀρχιερεύς", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/2"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03ad\u03c1\u03b5\u03b9\u03b1", 
+            "title_full": "ἀρχιέρεια", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/715"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "title_full": "ἀρχιερεὺς τῶν Σεβαστῶν", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/16"
         }, 
         {
-            "title_full": "\u1f30\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "title_full": "ἰερεὺς τῶν Σεβαστῶν", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/80"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1fc6\u03c2 \u03c0\u03b1\u03c4\u03c1\u03af\u03b4\u03bf\u03c2", 
+            "title_full": "ἀρχιερεὺς τῆς πατρίδος", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/716"
         }, 
         {
-            "title_full": "\u1f31\u03b5\u03c1\u03b5\u1f7a\u03c2 \u039a\u03b1\u03af\u03c3\u03b1\u03c1\u03bf\u03c2", 
+            "title_full": "ἱερεὺς Καίσαρος", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/830"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03ad\u03c1\u03b5\u03b9\u03b1 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd", 
+            "title_full": "ἀρχιέρεια τῶν Σεβαστῶν", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/760"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03cd\u03c2", 
+            "title_full": "ἀρχιερεύς", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/762"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1fc6\u03c2 \u03c0\u03cc\u03bb\u03b5\u03c9\u03c2", 
+            "title_full": "ἀρχιερεὺς τῆς πόλεως", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/733"
         }, 
         {
-            "title_full": "\u1f31\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u03bf\u1fe6", 
+            "title_full": "ἱερεὺς Σεβαστοῦ", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/109"
         }, 
         {
@@ -352,59 +352,59 @@
             "url": "http://www.pretres-civiques.org/pretres/pretrises/592"
         }, 
         {
-            "title_full": "\u1f00\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u1f7a\u03c2 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03b2\u03b1\u03c3\u03c4\u1ff6\u03bd A\u1f50\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03cc\u03c1\u03c9\u03bd", 
+            "title_full": "ἀρχιερεὺς τῶν Σεβαστῶν Aὐτοκρατόρων", 
             "url": "http://www.pretres-civiques.org/pretres/pretrises/786"
         }, 
         {
-            "title_full": "[A\u1f50\u03c1\u03ae\u03bb\u03b9\u03bf\u03c2] ..", 
+            "title_full": "[Aὐρήλιος] ..", 
             "url": "http://www.pretres-civiques.org/pretre/aurelius-annianus"
         }, 
         {
-            "title_full": "\u03a6\u03bb\u03b1\u03b2\u03af\u03b1 \u03a4\u03b1\u03c4\u03af\u03b1", 
+            "title_full": "Φλαβία Τατία", 
             "url": "http://www.pretres-civiques.org/pretre/flavia-tatia"
         }, 
         {
-            "title_full": "A\u1f50\u03c1\u03ae\u03bb\u03b9\u03bf\u03c2 \u0396\u03ae\u03bd\u03c9\u03bd", 
+            "title_full": "Aὐρήλιος Ζήνων", 
             "url": "http://www.pretres-civiques.org/pretre/aurelius-zenon"
         }, 
         {
-            "title_full": "(\u039a\u03bb\u03b1\u03cd\u03b4\u03b9\u03bf\u03c2) [-]", 
+            "title_full": "(Κλαύδιος) [-]", 
             "url": "http://www.pretres-civiques.org/pretre/claudius"
         }, 
         {
-            "title_full": "\u03a6\u03bb\u03ac\u03b2\u03b9\u03bf\u03c2 \u039a\u03c1\u03b1\u03c4\u03b5\u03c1\u03cc\u03c2..", 
+            "title_full": "Φλάβιος Κρατερός..", 
             "url": "http://www.pretres-civiques.org/pretre/flavius-craterus"
         }, 
         {
-            "title_full": "\u03a3[-]", 
+            "title_full": "Σ[-]", 
             "url": "http://www.pretres-civiques.org/pretre/s"
         }, 
         {
-            "title_full": "\u0391\u1f50\u03c1\u03b7\u03bb\u03af\u03b1 \u03a6\u03bb\u03b1|\u03b2\u03af\u03b1..", 
+            "title_full": "Αὐρηλία Φλα|βία..", 
             "url": "http://www.pretres-civiques.org/pretre/aurelia-flavia-artemonis"
         }, 
         {
-            "title_full": "\u0393\u03bd. \u0394\u03bf\u03bc\u03af\u03c4\u03b9\u03bf\u03c2..", 
+            "title_full": "Γν. Δομίτιος..", 
             "url": "http://www.pretres-civiques.org/pretre/domitius-aelianus"
         }, 
         {
-            "title_full": "\u03a6\u03bb\u03b1\u03bf\u03cd\u03b9\u03bf\u03c2 \u03a0\u03b5\u03b9\u03bd\u03b1\u03c1\u03af\u03bf\u03c2..", 
+            "title_full": "Φλαούιος Πειναρίος..", 
             "url": "http://www.pretres-civiques.org/pretre/flavius-pinarius"
         }, 
         {
-            "title_full": "A\u1f30\u03bc\u03b9\u03bb\u03af\u03bf\u03c2 \u1f59\u03c8\u03b9\u03ba\u03bb\u1fc6\u03c2..", 
+            "title_full": "Aἰμιλίος Ὑψικλῆς..", 
             "url": "http://www.pretres-civiques.org/pretre/aemilius-hypsicl%C3%A8s"
         }, 
         {
-            "title_full": "[-] \u039a\u03ad\u03bb\u03b5\u03c1", 
+            "title_full": "[-] Κέλερ", 
             "url": "http://www.pretres-civiques.org/pretre/celer"
         }, 
         {
-            "title_full": "\u039b. \u039d\u03ce\u03bd\u03b9\u03bf\u03c2..", 
+            "title_full": "Λ. Νώνιος..", 
             "url": "http://www.pretres-civiques.org/pretre/nonius-aristodamus"
         }
     ], 
-    "title": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+    "title": "Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

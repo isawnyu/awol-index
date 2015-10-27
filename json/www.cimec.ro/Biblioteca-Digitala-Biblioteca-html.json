@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ap\u0103rut\u0103 \u00een anul 1978, sub denumirea de \"Hierasus\", publica\u0163ia anual\u0103 a Muzeului Jude\u0163ean Boto\u015fani \u015fi-a schimbat din anul 1999 titlul \u00een \"Acta Moldaviae Septentrionalis\", vechiul anuar dorindu-se a fi rezervat exclusiv arheologiei. \u00cen cei peste 30 de ani de existen\u0163\u0103 s-au publicat 11 volume. Facsimil digital volumele: I - 1978 (.", 
+    "description": "Apărută în anul 1978, sub denumirea de \"Hierasus\", publicaţia anuală a Muzeului Judeţean Botoşani şi-a schimbat din anul 1999 titlul în \"Acta Moldaviae Septentrionalis\", vechiul anuar dorindu-se a fi rezervat exclusiv arheologiei. În cei peste 30 de ani de existenţă s-au publicat 11 volume. Facsimil digital volumele: I - 1978 (.", 
     "domain": "www.cimec.ro", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3529860961871647142", 
             "resource_date": "2013-02-17T08:00:36.945-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.674662"
+            "when": "2015-10-27T18:40:44.695285"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/open-access-journal-hierasus-publicatie.html", 
             "resource_date": "2013-02-17T08:00:36.945-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.674677"
+            "when": "2015-10-27T18:40:44.695301"
         }
     ], 
     "publishers": [], 
@@ -119,7 +119,7 @@
             "url": "http://www.cimec.ro/Arheologie/hierasus/dl.asp?filename=Hierasus-XI-2001.pdf"
         }
     ], 
-    "title": "Hierasus publica\u0163ie anual\u0103 a Muzeului Jude\u0163ean Boto\u015fani", 
+    "title": "Hierasus publicaţie anuală a Muzeului Judeţean Botoşani", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

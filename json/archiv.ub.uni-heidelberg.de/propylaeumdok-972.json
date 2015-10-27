@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Sallaberger, W. and Volk, K. and Zgoll, A. (Hrsgg. ): Literatur, Politik und Recht in Mesopotamien. Festschrift f\u00fcr Claus Wilcke. Wiesbaden 2003, pp. 181-194. Maul, Stefan (2000).", 
+    "description": "In: Sallaberger, W. and Volk, K. and Zgoll, A. (Hrsgg. ): Literatur, Politik und Recht in Mesopotamien. Festschrift für Claus Wilcke. Wiesbaden 2003, pp. 181-194. Maul, Stefan (2000).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.842591"
+            "when": "2015-10-27T18:46:21.589064"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.842607"
+            "when": "2015-10-27T18:46:21.589080"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Reste einer mittelassyrischen Beschw\u00f6rerbibliothek aus dem K\u00f6nigspalast zu Assur", 
+    "title": "Die Reste einer mittelassyrischen Beschwörerbibliothek aus dem Königspalast zu Assur", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Le Dictionnaire des Antiquit\u00e9s Grecques et Romaines de Daremberg et Saglio. Le projet de mise en ligne du Dictionnaire des Antiquit\u00e9s Grecques et Romaines est issu d'un partenariat entre des enseignants d'Histoire de l'Universit\u00e9 du Mirail et la Mission Innovation Technologique et Multimedia qui assure son d\u00e9veloppement. Ce projet pr\u00e9voit l'acc\u00e8s Internet au contenu de l'ouvrage et la possibilit\u00e9 de commenter et d'enrichir les articles. Ce site est le r\u00e9sultat d'une s\u00e9rie de travaux exp\u00e9rimentaux effectu\u00e9s dans le but de permettre l'acc\u00e8s aux textes par la recherche documentaire (recherche par entr\u00e9es et plein-texte). Il offre \u00e0 tous l'acc\u00e8s aux fichiers num\u00e9ris\u00e9s ainsi que les fonctionnalit\u00e9s de recherches internes. La consultation des enrichissements officiels est d\u00e9sormais accessible. Apr\u00e8s quelques incidents techniques, la recherche est de nouveau fonctionnelle.", 
+    "description": "Le Dictionnaire des Antiquités Grecques et Romaines de Daremberg et Saglio. Le projet de mise en ligne du Dictionnaire des Antiquités Grecques et Romaines est issu d'un partenariat entre des enseignants d'Histoire de l'Université du Mirail et la Mission Innovation Technologique et Multimedia qui assure son développement. Ce projet prévoit l'accès Internet au contenu de l'ouvrage et la possibilité de commenter et d'enrichir les articles. Ce site est le résultat d'une série de travaux expérimentaux effectués dans le but de permettre l'accès aux textes par la recherche documentaire (recherche par entrées et plein-texte). Il offre à tous l'accès aux fichiers numérisés ainsi que les fonctionnalités de recherches internes. La consultation des enrichissements officiels est désormais accessible. Après quelques incidents techniques, la recherche est de nouveau fonctionnelle.", 
     "domain": "dagr.univ-tlse2.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Dictionnaire des Antiquit\u00e9s Grecques et Romaines de Daremberg et Saglio", 
+        "title_full": "Le Dictionnaire des Antiquités Grecques et Romaines de Daremberg et Saglio", 
         "url": "http://dagr.univ-tlse2.fr/sdx/dagr/index.xsp"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5367459574267390295", 
             "resource_date": "2014-06-25T09:41:53.024-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.954263"
+            "when": "2015-10-27T18:43:25.424189"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/le-dictionnaire-des-antiquites-grecques.html", 
             "resource_date": "2014-06-25T09:41:53.024-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.954277"
+            "when": "2015-10-27T18:43:25.424203"
         }
     ], 
     "publishers": [], 

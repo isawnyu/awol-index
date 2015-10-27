@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Annuaire du Mus\u00e9e Gr\u00e9co-Romain d'Alexandrie", 
+        "title_full": "Annuaire du Musée Gréco-Romain d'Alexandrie", 
         "url": "http://www.e-corpus.org/eng/notices/32503-Annuaire-du-Musee-Greco-Romain-d-Alexandrie-1925-1931.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1591097540905869240", 
             "resource_date": "2010-05-17T15:37:20.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:50.463967"
+            "when": "2015-10-27T18:37:54.277451"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-annuaire-du-musee.html", 
             "resource_date": "2010-05-17T15:37:20.669-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:50.463983"
+            "when": "2015-10-27T18:37:54.277481"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Annuaire du Mus\u00e9e Gr\u00e9co-Romain 1933-34_1934-35. La N\u00e9cropole de Moustafa..", 
+    "title": "Annuaire du Musée Gréco-Romain 1933-34_1934-35. La Nécropole de Moustafa..", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

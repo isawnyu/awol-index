@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Probleme der \u00c4gyptologie. ISSN: 0169-9601.", 
+    "description": "Probleme der Ägyptologie. ISSN: 0169-9601.", 
     "domain": "dlib.nyu.edu", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0169-9601", 
-        "title_full": "Probleme der \u00c4gyptologie", 
+        "title_full": "Probleme der Ägyptologie", 
         "url": "http://dlib.nyu.edu/ancientworld/series/probleme-der-aegyptologie"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-627980732206185032", 
             "resource_date": "2015-05-14T15:22:28.544-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:57.947253"
+            "when": "2015-10-27T18:44:35.037038"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-probleme.html", 
             "resource_date": "2015-05-14T15:22:28.544-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:57.947268"
+            "when": "2015-10-27T18:44:35.037058"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-627980732206185032", 
             "resource_date": "2015-05-14T15:22:28.544-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:57.949806"
+            "when": "2015-10-27T18:44:35.041776"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/open-access-monograph-series-probleme.html", 
             "resource_date": "2015-05-14T15:22:28.544-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:57.949821"
+            "when": "2015-10-27T18:44:35.041798"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:58.050490"
+            "when": "2015-10-27T18:44:35.161230"
         }
     ], 
     "publishers": [], 
@@ -147,11 +147,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Probleme der \u00c4gyptologie", 
+            "title_full": "Probleme der Ägyptologie", 
             "url": "http://dlib.nyu.edu/ancientworld/series/probleme-der-aegyptologie"
         }, 
         {
-            "title_full": "Die G\u00f6ttin Mr.t", 
+            "title_full": "Die Göttin Mr.t", 
             "url": "http://dlib.nyu.edu/ancientworld/books/brill_awdl000102"
         }, 
         {
@@ -255,7 +255,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/subjects/44"
         }, 
         {
-            "title_full": "Asy\u016b\u1e6d (Egypt) -- Antiquities", 
+            "title_full": "Asyūṭ (Egypt) -- Antiquities", 
             "url": "http://dlib.nyu.edu/ancientworld/subjects/370"
         }, 
         {
@@ -283,7 +283,7 @@
             "url": "http://dlib.nyu.edu/ancientworld/series/"
         }
     ], 
-    "title": "Probleme der \u00c4gyptologie", 
+    "title": "Probleme der Ägyptologie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

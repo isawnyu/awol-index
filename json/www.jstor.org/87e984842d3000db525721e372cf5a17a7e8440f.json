@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zeitschrift f\u00fcr Papyrologie und Epigraphik. ISSN:0084-5388. JSTOR Coverage: 1967-2009 (Bde. 1-171). Moving Wall: 3 years. The Zeitschrift f\u00fcr Papyrologie und Epigraphik, founded by Reinhold Merkelbach und Ludwig Koenen in 1967, publishes four to five volumes per year, altogether 162 volumes since 1967. It publishes articles of almost all disciplines connected with the Greek and Roman World, from literature, history, philosophy, culture, mainly, but not exclusively based on inscriptions and papyri, but also on coins and archaeological material. The journal is able to publish new and important documents in a very short time and gives scholars the opportunity to react quickly to new finds. The group of editors from different disciplines evaluate the incoming manuscripts including also referees from other countries. Browse AWOL's list of.", 
+    "description": "Zeitschrift für Papyrologie und Epigraphik. ISSN:0084-5388. JSTOR Coverage: 1967-2009 (Bde. 1-171). Moving Wall: 3 years. The Zeitschrift für Papyrologie und Epigraphik, founded by Reinhold Merkelbach und Ludwig Koenen in 1967, publishes four to five volumes per year, altogether 162 volumes since 1967. It publishes articles of almost all disciplines connected with the Greek and Roman World, from literature, history, philosophy, culture, mainly, but not exclusively based on inscriptions and papyri, but also on coins and archaeological material. The journal is able to publish new and important documents in a very short time and gives scholars the opportunity to react quickly to new finds. The group of editors from different disciplines evaluate the incoming manuscripts including also referees from other countries. Browse AWOL's list of.", 
     "domain": "www.jstor.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "0084-5388", 
-        "title_full": "Zeitschrift f\u00fcr Papyrologie und Epigraphik", 
+        "title_full": "Zeitschrift für Papyrologie und Epigraphik", 
         "url": "http://www.jstor.org/action/showPublication?journalCode=zeitpapyepig"
     }, 
     "issuance": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1381889273269118410", 
             "resource_date": "2013-09-02T08:44:28.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.690732"
+            "when": "2015-10-27T18:37:30.152206"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/zeitschrift-fur-papyrologie-und.html", 
             "resource_date": "2013-09-02T08:44:28.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.690749"
+            "when": "2015-10-27T18:37:30.152222"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1381889273269118410", 
             "resource_date": "2013-09-02T08:44:28.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:27.694580"
+            "when": "2015-10-27T18:37:30.156747"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/zeitschrift-fur-papyrologie-und.html", 
             "resource_date": "2013-09-02T08:44:28.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:27.694593"
+            "when": "2015-10-27T18:37:30.156763"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:27.696578"
+            "when": "2015-10-27T18:37:30.158759"
         }
     ], 
     "publishers": [], 
@@ -152,11 +152,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Zeitschrift f\u00fcr Papyrologie und Epigraphik", 
+            "title_full": "Zeitschrift für Papyrologie und Epigraphik", 
             "url": "http://www.jstor.org/action/showPublication?journalCode=zeitpapyepig"
         }
     ], 
-    "title": "Zeitschrift f\u00fcr Papyrologie und Epigraphik", 
+    "title": "Zeitschrift für Papyrologie und Epigraphik", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

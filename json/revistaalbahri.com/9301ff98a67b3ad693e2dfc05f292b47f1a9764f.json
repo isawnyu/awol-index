@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Albahri, entre Oriente y Occidente: Revista independiente de estudios hist\u00f3ricos nace con dos predisposiciones di\u00e1fanas: por un lado, una vocaci\u00f3n de libertad acad\u00e9mica y, por otro, una voluntad de ofrecer una mirada global sobre fen\u00f3menos hist\u00f3ricos, para lo cual expresamos nuestra inicial renuncia a acotar o restringir tiempos, escenarios o materias. El t\u00edtulo de la revista es, como sucede a menudo, una verdadera declaraci\u00f3n de intenciones. Queremos evocar la imagen de un avezado \"marino\" ( \u064a\u0631\u062d\u0628\u0644\u0627 en \u00e1rabe, como el Simbad de las Mil y Una Noches ), uno de aquellos nautae (o bahriyyun ) en los tiempos en que navegar era una aventura siempre inesperada, pero en los que, tambi\u00e9n, el hombre de mar describ\u00eda su derrota con exactitud, trayecto que solo podr\u00eda verse afectado por las inclemencias meteorol\u00f3gicas. Y el mar es en s\u00ed mismo el espacio hist\u00f3rico de relaci\u00f3n por antonomasia, un continente l\u00edquido por el que sus hombres, superando peligros y adversidades, han transcurrido a la b\u00fasqueda de encuentros insospechados con otras gentes y cosas.", 
+    "description": "Albahri, entre Oriente y Occidente: Revista independiente de estudios históricos nace con dos predisposiciones diáfanas: por un lado, una vocación de libertad académica y, por otro, una voluntad de ofrecer una mirada global sobre fenómenos históricos, para lo cual expresamos nuestra inicial renuncia a acotar o restringir tiempos, escenarios o materias. El título de la revista es, como sucede a menudo, una verdadera declaración de intenciones. Queremos evocar la imagen de un avezado \"marino\" ( يرحبلا en árabe, como el Simbad de las Mil y Una Noches ), uno de aquellos nautae (o bahriyyun ) en los tiempos en que navegar era una aventura siempre inesperada, pero en los que, también, el hombre de mar describía su derrota con exactitud, trayecto que solo podría verse afectado por las inclemencias meteorológicas. Y el mar es en sí mismo el espacio histórico de relación por antonomasia, un continente líquido por el que sus hombres, superando peligros y adversidades, han transcurrido a la búsqueda de encuentros insospechados con otras gentes y cosas.", 
     "domain": "revistaalbahri.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Albahri, entre Oriente y Occidente: Revista independiente de estudios hist\u00f3ricos", 
+        "title_full": "Albahri, entre Oriente y Occidente: Revista independiente de estudios históricos", 
         "url": "http://evistaalbahri.com/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7160490349051668105", 
             "resource_date": "2015-04-22T07:58:57.824-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:47.751177"
+            "when": "2015-10-27T18:45:29.904717"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/new-open-access-journal-albahri-entre.html", 
             "resource_date": "2015-04-22T07:58:57.824-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:47.751195"
+            "when": "2015-10-27T18:45:29.904729"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ICOM publishes a new Emergency Red List: the Emergency Red List of Egyptian Cultural Objects at Risk One year on from the events that took place in Egypt in 2011, ICOM\u2019s actions to protect the country\u2019s cultural heritage from the ensuing thefts of non-inventoried objects from archaeological sites and museums have led to the publication of the Emergency Red List of Egyptian Cultural Objects at Risk. English Arabic. Eventually the Egypt data will be integrated into the.", 
+    "description": "ICOM publishes a new Emergency Red List: the Emergency Red List of Egyptian Cultural Objects at Risk One year on from the events that took place in Egypt in 2011, ICOM’s actions to protect the country’s cultural heritage from the ensuing thefts of non-inventoried objects from archaeological sites and museums have led to the publication of the Emergency Red List of Egyptian Cultural Objects at Risk. English Arabic. Eventually the Egypt data will be integrated into the.", 
     "domain": "icom.museum", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1765380277855317557", 
             "resource_date": "2012-02-06T14:20:10.921-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.583575"
+            "when": "2015-10-27T18:38:02.372760"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/icom-emergency-red-list-of-egyptian.html", 
             "resource_date": "2012-02-06T14:20:10.921-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.583600"
+            "when": "2015-10-27T18:38:02.372776"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1765380277855317557", 
             "resource_date": "2012-02-06T14:20:10.921-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:57.590080"
+            "when": "2015-10-27T18:38:02.375929"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/icom-emergency-red-list-of-egyptian.html", 
             "resource_date": "2012-02-06T14:20:10.921-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:57.590098"
+            "when": "2015-10-27T18:38:02.375942"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:57.599164"
+            "when": "2015-10-27T18:38:02.382473"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Steuben, Hans, von (Hrsg. ): MO\u03a5\u03a3EION. Beitr\u00e4ge zur antiken Plastik. Festschrift zu Ehren von P. C. Bol. M\u00f6hnesee 2007, pp. 307-319. Hoff, Ralf von den (2009).", 
+    "description": "In: Steuben, Hans, von (Hrsg. ): MOΥΣEION. Beiträge zur antiken Plastik. Festschrift zu Ehren von P. C. Bol. Möhnesee 2007, pp. 307-319. Hoff, Ralf von den (2009).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:36.359254"
+            "when": "2015-10-27T18:48:29.995310"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:36.359278"
+            "when": "2015-10-27T18:48:29.995327"
         }
     ], 
     "publishers": [], 

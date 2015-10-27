@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7791817178105202394", 
             "resource_date": "2013-08-21T12:35:26.519-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.814170"
+            "when": "2015-10-27T18:46:34.296490"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/the-helsinki-atlas-of-near-east-in-neo.html", 
             "resource_date": "2013-08-21T12:35:26.519-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.814187"
+            "when": "2015-10-27T18:46:34.296507"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7791817178105202394", 
             "resource_date": "2013-08-21T12:35:26.519-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.816613"
+            "when": "2015-10-27T18:46:34.299092"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/the-helsinki-atlas-of-near-east-in-neo.html", 
             "resource_date": "2013-08-21T12:35:26.519-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.816626"
+            "when": "2015-10-27T18:46:34.299104"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.818057"
+            "when": "2015-10-27T18:46:34.301005"
         }
     ], 
     "publishers": [], 

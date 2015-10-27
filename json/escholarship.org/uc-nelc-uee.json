@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-473984367370934000", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.588980"
+            "when": "2015-10-27T18:42:09.410445"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/articles-published-in-ucla-encyclopedia.html", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.588995"
+            "when": "2015-10-27T18:42:09.410462"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-473984367370934000", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.590686"
+            "when": "2015-10-27T18:42:09.412294"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/articles-published-in-ucla-encyclopedia.html", 
             "resource_date": "2015-04-02T15:26:05.772-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.590697"
+            "when": "2015-10-27T18:42:09.412307"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.609184"
+            "when": "2015-10-27T18:42:09.432435"
         }
     ], 
     "publishers": [], 
@@ -159,7 +159,7 @@
             "url": "http://escholarship.org/uc/item/0d84248t"
         }, 
         {
-            "title_full": "Jan\u00e1k, J\u00ed\u0159\u00ed: Saddle-Billed Stork (Ba-Bird) , 2014", 
+            "title_full": "Janák, Jíří: Saddle-Billed Stork (Ba-Bird) , 2014", 
             "url": "http://escholarship.org/uc/item/0r77f2f8"
         }, 
         {

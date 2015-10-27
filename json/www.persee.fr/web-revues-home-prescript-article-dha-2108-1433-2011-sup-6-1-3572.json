@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Dialogues d'histoire ancienne. Suppl\u00e9ments", 
+        "title_full": "Dialogues d'histoire ancienne. Suppléments", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/dha"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8592417785020020098", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:03.735753"
+            "when": "2015-10-27T18:47:55.071648"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-monograph-series-dialogues.html", 
             "resource_date": "2015-04-01T15:15:31.846-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:03.735767"
+            "when": "2015-10-27T18:47:55.071664"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Diodore de Sicile et les Sik\u00e8les : Histoire et/ou m\u00e9moire d\u2019un \u00ab ethnos \u00bb et de son h\u00e9ros Douk\u00e9tios", 
+    "title": "Diodore de Sicile et les Sikèles : Histoire et/ou mémoire d’un « ethnos » et de son héros Doukétios", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

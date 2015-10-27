@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7205676517339599968", 
             "resource_date": "2012-07-10T16:20:13.382-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:50.000103"
+            "when": "2015-10-27T18:45:32.361327"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-communication-on.html", 
             "resource_date": "2012-07-10T16:20:13.382-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:50.000121"
+            "when": "2015-10-27T18:45:32.361343"
         }
     ], 
     "publishers": [], 
@@ -86,11 +86,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "\u521b\u520a\u8bcd", 
+            "title_full": "创刊词", 
             "url": "http://comonca.org.cn/Foreword.htm"
         }, 
         {
-            "title_full": "\u6295\u7a3f\u6307\u5357", 
+            "title_full": "投稿指南", 
             "url": "http://comonca.org.cn/guide.htm"
         }, 
         {

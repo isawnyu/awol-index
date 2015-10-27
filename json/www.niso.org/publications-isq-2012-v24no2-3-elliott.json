@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6989836627334563132", 
             "resource_date": "2012-09-12T06:22:09.715-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.500808"
+            "when": "2015-10-27T18:45:20.791834"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/report-on-linked-ancient-world-data.html", 
             "resource_date": "2012-09-12T06:22:09.715-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.500825"
+            "when": "2015-10-27T18:45:20.791860"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6989836627334563132", 
             "resource_date": "2012-09-12T06:22:09.715-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.502401"
+            "when": "2015-10-27T18:45:20.793667"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/report-on-linked-ancient-world-data.html", 
             "resource_date": "2012-09-12T06:22:09.715-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.502413"
+            "when": "2015-10-27T18:45:20.793681"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.503854"
+            "when": "2015-10-27T18:45:20.795868"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 8 March 2009. Updated 1 June 2014]. Le Bulletin du Centre de recherche fran\u00e7ais de J\u00e9rusalem.", 
+    "description": "[First posted in AWOL 8 March 2009. Updated 1 June 2014]. Le Bulletin du Centre de recherche français de Jérusalem.", 
     "domain": "bcrfj.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7277235734836395009", 
             "resource_date": "2014-06-01T08:27:11.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:53.713566"
+            "when": "2015-10-27T18:45:36.268465"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/04/le-bulletin-du-centre-de-recherche.html", 
             "resource_date": "2014-06-01T08:27:11.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:53.713587"
+            "when": "2015-10-27T18:45:36.268481"
         }
     ], 
     "publishers": [], 
@@ -176,7 +176,7 @@
             "url": "http://bcrfj.revues.org/4352"
         }
     ], 
-    "title": "Le Bulletin du Centre de recherche fran\u00e7ais de J\u00e9rusalem", 
+    "title": "Le Bulletin du Centre de recherche français de Jérusalem", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

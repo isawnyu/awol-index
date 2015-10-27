@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Kernos suppl\u00e9ments. ISSN: 1376-179X.", 
+    "description": "Kernos suppléments. ISSN: 1376-179X.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
     }, 
     "is_part_of": {
         "issn": "1376-179X", 
-        "title_full": "Kernos suppl\u00e9ments", 
+        "title_full": "Kernos suppléments", 
         "url": "http://books.openedition.org/pulg/171"
     }, 
     "issuance": null, 
@@ -78,13 +78,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4739578523792635073", 
             "resource_date": "2014-08-22T11:37:56.106-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.562649"
+            "when": "2015-10-27T18:42:09.376243"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-monograph-series-kernos.html", 
             "resource_date": "2014-08-22T11:37:56.106-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.562660"
+            "when": "2015-10-27T18:42:09.376259"
         }
     ], 
     "publishers": [], 
@@ -93,7 +93,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The Iconography of Greek Cult in the Archaic and Classical Periods Proceedings of the First International Seminar on Ancient Greek Cult, organised by the Swedish Institute at Athens and the European Cultural Centre of Delphi (Delphi, 16-18 Novembre 1990) Robin H\u00e4gg (dir.) . 1992 ..", 
+    "title": "The Iconography of Greek Cult in the Archaic and Classical Periods Proceedings of the First International Seminar on Ancient Greek Cult, organised by the Swedish Institute at Athens and the European Cultural Centre of Delphi (Delphi, 16-18 Novembre 1990) Robin Hägg (dir.) . 1992 ..", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5070101992196523291", 
             "resource_date": "2013-05-13T13:39:17.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:41.422875"
+            "when": "2015-10-27T18:43:11.876369"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/ancient-world-in-project-muse.html", 
             "resource_date": "2013-05-13T13:39:17.989-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:41.422887"
+            "when": "2015-10-27T18:43:11.876381"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6457637074744169272", 
             "resource_date": "2015-03-26T11:18:15.730-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:04.852327"
+            "when": "2015-10-27T18:44:42.678799"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-mousaion.html", 
             "resource_date": "2015-03-26T11:18:15.730-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:04.852343"
+            "when": "2015-10-27T18:44:42.678815"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:04.854337"
+            "when": "2015-10-27T18:44:42.681186"
         }
     ], 
     "publishers": [], 

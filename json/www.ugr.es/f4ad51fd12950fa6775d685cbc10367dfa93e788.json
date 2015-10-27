@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Amparo Pedregal Rodr\u00edguez: Las diferentes manifestaciones del patronazgo femenino en el cristianismo primitivo.", 
+    "description": "Amparo Pedregal Rodríguez: Las diferentes manifestaciones del patronazgo femenino en el cristianismo primitivo.", 
     "domain": "www.ugr.es", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5962769233385861536", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.122864"
+            "when": "2015-10-27T18:44:13.614934"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/one-off-journal-issues-benefactoras-y.html", 
             "resource_date": "2014-05-15T11:03:25.941-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.122876"
+            "when": "2015-10-27T18:44:13.614949"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "C\u00e1ndida Mart\u00ednez L\u00f3pez: Amantissima civium suorum : Matronazgo c\u00edvico en el Occidente romano", 
+    "title": "Cándida Martínez López: Amantissima civium suorum : Matronazgo cívico en el Occidente romano", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

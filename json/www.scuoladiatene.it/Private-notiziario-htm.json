@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[Originally posted 3/4/10, updated 30 September 2013]. Notiziario: Scuola Archeologica Italiana ad Atene. Il \u00abNotiziario\u00bb rappresenta l\u2019aggiornamento annuale relativo alle attivit\u00e0 di ricerca svolte dalla Scuola Archeologica Italiana di Atene. Tutti i numeri della rivista sono scaricabili gratuitamente in formato pdf attraverso il seguente link: Ottobre 2003 - Marzo 2004 Aprile 2004 - Settembre 2004 Ottobre 2004 - Marzo 2005 Aprile 2005 - Settembre 2005 Ottobre 2005 - Marzo 2006 Aprile 2006 - Settembre 2006 Ottobre 2006 - Marzo 2007 Aprile 2007 - Settembre 2007 Ottobre 2007 - Marzo 2008 Aprile 2008 - Settembre 2008 Ottobre 2008 - Marzo 2009 Aprile 2009 - Settembre 2009Ottobre 2009 - Marzo 2010Aprile 2010 - Aprile 2011 Notiziario 2012.", 
+    "description": "[Originally posted 3/4/10, updated 30 September 2013]. Notiziario: Scuola Archeologica Italiana ad Atene. Il «Notiziario» rappresenta l’aggiornamento annuale relativo alle attività di ricerca svolte dalla Scuola Archeologica Italiana di Atene. Tutti i numeri della rivista sono scaricabili gratuitamente in formato pdf attraverso il seguente link: Ottobre 2003 - Marzo 2004 Aprile 2004 - Settembre 2004 Ottobre 2004 - Marzo 2005 Aprile 2005 - Settembre 2005 Ottobre 2005 - Marzo 2006 Aprile 2006 - Settembre 2006 Ottobre 2006 - Marzo 2007 Aprile 2007 - Settembre 2007 Ottobre 2007 - Marzo 2008 Aprile 2008 - Settembre 2008 Ottobre 2008 - Marzo 2009 Aprile 2009 - Settembre 2009Ottobre 2009 - Marzo 2010Aprile 2010 - Aprile 2011 Notiziario 2012.", 
     "domain": "www.scuoladiatene.it", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3997472757292267513", 
             "resource_date": "2013-09-30T10:42:45.255-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:54.202658"
+            "when": "2015-10-27T18:41:16.115360"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/03/open-access-journal-notiziario-scuola.html", 
             "resource_date": "2013-09-30T10:42:45.255-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:54.202674"
+            "when": "2015-10-27T18:41:16.115373"
         }
     ], 
     "publishers": [], 

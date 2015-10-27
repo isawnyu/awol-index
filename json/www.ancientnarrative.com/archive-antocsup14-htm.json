@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6629324133595622730", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:25.556350"
+            "when": "2015-10-27T18:45:05.413157"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-ancient.html", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:25.556362"
+            "when": "2015-10-27T18:45:05.413169"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8147198954376621871", 
             "resource_date": "2015-06-17T21:21:10.308-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.957800"
+            "when": "2015-10-27T18:47:01.562387"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-ancient-narrative.html", 
             "resource_date": "2015-06-17T21:21:10.308-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.957812"
+            "when": "2015-10-27T18:47:01.562399"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:14.007614"
+            "when": "2015-10-27T18:47:01.628427"
         }
     ], 
     "publishers": [], 
@@ -139,7 +139,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ancient Narrative Supplementum 14.1 and 2 Fictional Traces: Receptions of the Ancient Novel - Volume 1 and 2. Mar\u00edlia P. Futre Pinheiro & Stephen J. Harrison (eds)", 
+    "title": "Ancient Narrative Supplementum 14.1 and 2 Fictional Traces: Receptions of the Ancient Novel - Volume 1 and 2. Marília P. Futre Pinheiro & Stephen J. Harrison (eds)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

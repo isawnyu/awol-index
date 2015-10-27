@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Litt\u00e9rature", 
+        "title_full": "Littérature", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt"
     }, 
     "issuance": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:55.181712"
+            "when": "2015-10-27T18:44:31.611296"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:55.181728"
+            "when": "2015-10-27T18:44:31.611312"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:55.183227"
+            "when": "2015-10-27T18:44:31.612956"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:55.183239"
+            "when": "2015-10-27T18:44:31.612968"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:55.277766"
+            "when": "2015-10-27T18:44:31.734718"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Litt\u00e9rature", 
+            "title_full": "Littérature", 
             "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt"
         }, 
         {
-            "title_full": "Litt\u00e9rature, No.122, 2001. Aristote au bras long", 
+            "title_full": "Littérature, No.122, 2001. Aristote au bras long", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/litt_0047-4800_2001_num_122_2"
         }, 
         {
@@ -184,7 +184,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1706"
         }, 
         {
-            "title_full": "Fran\u00e7oise Graziani", 
+            "title_full": "Françoise Graziani", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_432"
         }, 
         {
@@ -192,7 +192,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1707/article_litt_0047-4800_2001_num_122_2_1707.pdf?mode=light"
         }, 
         {
-            "title_full": "La mania ingegnosa : signification philosophique du mani\u00e9risme", 
+            "title_full": "La mania ingegnosa : signification philosophique du maniérisme", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1707"
         }, 
         {
@@ -204,7 +204,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1708/article_litt_0047-4800_2001_num_122_2_1708.pdf?mode=light"
         }, 
         {
-            "title_full": "Aristote, Cic\u00e9ron et la Gen\u00e8se: une lecture embl\u00e9matique de la quinta natura au XVIe si\u00e8cle", 
+            "title_full": "Aristote, Cicéron et la Genèse: une lecture emblématique de la quinta natura au XVIe siècle", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1708"
         }, 
         {
@@ -216,11 +216,11 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1709/article_litt_0047-4800_2001_num_122_2_1709.pdf?mode=light"
         }, 
         {
-            "title_full": "La col\u00e8re d'Aristote. D\u00e9fense et illustration d'un emportement plus doux que le miel..", 
+            "title_full": "La colère d'Aristote. Défense et illustration d'un emportement plus doux que le miel..", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1709"
         }, 
         {
-            "title_full": "Gis\u00e8le Mathieu-Castellani", 
+            "title_full": "Gisèle Mathieu-Castellani", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_167"
         }, 
         {
@@ -228,7 +228,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1710/article_litt_0047-4800_2001_num_122_2_1710.pdf?mode=light"
         }, 
         {
-            "title_full": "L'acte de m\u00eem\u00easis", 
+            "title_full": "L'acte de mîmêsis", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1710"
         }, 
         {
@@ -244,7 +244,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1711"
         }, 
         {
-            "title_full": "Fran\u00e7ois Soulages", 
+            "title_full": "François Soulages", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_436"
         }, 
         {
@@ -252,11 +252,11 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1712/article_litt_0047-4800_2001_num_122_2_1712.pdf?mode=light"
         }, 
         {
-            "title_full": "Le genre comme \u0153uvre", 
+            "title_full": "Le genre comme œuvre", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1712"
         }, 
         {
-            "title_full": "G\u00e9rard Genette", 
+            "title_full": "Gérard Genette", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_437"
         }, 
         {
@@ -264,11 +264,11 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2001_num_122_2_1714/article_litt_0047-4800_2001_num_122_2_1714.pdf?mode=light"
         }, 
         {
-            "title_full": "\u00c0 la recherche du temps pr\u00e9sent", 
+            "title_full": "À la recherche du temps présent", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1714"
         }, 
         {
-            "title_full": "\u00c2ron Kib\u00e9di Varga", 
+            "title_full": "Âron Kibédi Varga", 
             "url": "http://www.persee.fr/web/revues/home/prescript/author/auteur_litt_305"
         }, 
         {
@@ -280,7 +280,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2001_num_122_2_1737"
         }, 
         {
-            "title_full": "Litt\u00e9rature, No.130, 2003. Alt\u00e9rit\u00e9s du Moyen \u00c2ge", 
+            "title_full": "Littérature, No.130, 2003. Altérités du Moyen Âge", 
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/litt_0047-4800_2003_num_130_2"
         }, 
         {
@@ -300,7 +300,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1795/article_litt_0047-4800_2003_num_130_2_1795.pdf?mode=light"
         }, 
         {
-            "title_full": "Le Moyen \u00c2ge ou la Fin des Temps. Avenirs d'un refoul\u00e9", 
+            "title_full": "Le Moyen Âge ou la Fin des Temps. Avenirs d'un refoulé", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1795"
         }, 
         {
@@ -312,7 +312,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1796/article_litt_0047-4800_2003_num_130_2_1796.pdf?mode=light"
         }, 
         {
-            "title_full": "Alt\u00e9rit\u00e9 et Animalit\u00e9 dans les Fables de Marie de France", 
+            "title_full": "Altérité et Animalité dans les Fables de Marie de France", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1796"
         }, 
         {
@@ -336,7 +336,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1798/article_litt_0047-4800_2003_num_130_2_1798.pdf?mode=light"
         }, 
         {
-            "title_full": "L'\u00e9num\u00e9ration et les chiffres : du Roman de la Rose au Tesoretto", 
+            "title_full": "L'énumération et les chiffres : du Roman de la Rose au Tesoretto", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1798"
         }, 
         {
@@ -348,7 +348,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1799/article_litt_0047-4800_2003_num_130_2_1799.pdf?mode=light"
         }, 
         {
-            "title_full": "Alt\u00e9rit\u00e9s dans le langage : \u00e9motions, gestes, codes", 
+            "title_full": "Altérités dans le langage : émotions, gestes, codes", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1799"
         }, 
         {
@@ -360,7 +360,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1800/article_litt_0047-4800_2003_num_130_2_1800.pdf?mode=light"
         }, 
         {
-            "title_full": "Des Alt\u00e9rit\u00e9s de la langue. Plurilinguismes po\u00e9tiques au Moyen \u00c2ge", 
+            "title_full": "Des Altérités de la langue. Plurilinguismes poétiques au Moyen Âge", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1800"
         }, 
         {
@@ -372,7 +372,7 @@
             "url": "http://www.persee.fr/articleAsPDF/litt_0047-4800_2003_num_130_2_1801/article_litt_0047-4800_2003_num_130_2_1801.pdf?mode=light"
         }, 
         {
-            "title_full": "Parler, penser, voir : le Roman de la Rose et l'\u00e9trange", 
+            "title_full": "Parler, penser, voir : le Roman de la Rose et l'étrange", 
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1801"
         }, 
         {
@@ -396,7 +396,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/article/litt_0047-4800_2003_num_130_2_1828"
         }
     ], 
-    "title": "Litt\u00e9rature", 
+    "title": "Littérature", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

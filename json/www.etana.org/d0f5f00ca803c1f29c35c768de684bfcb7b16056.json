@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Gradhiva: revue d\u2019anthropologie et de mus\u00e9ologie.", 
+    "description": "Gradhiva: revue d’anthropologie et de muséologie.", 
     "domain": "www.etana.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8377551444714480184", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.936349"
+            "when": "2015-10-27T18:47:12.331664"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/now-online-journals.html", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.936362"
+            "when": "2015-10-27T18:47:12.331679"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8377551444714480184", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:23.938166"
+            "when": "2015-10-27T18:47:12.333698"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/now-online-journals.html", 
             "resource_date": "2012-11-07T09:24:08.224-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:23.938177"
+            "when": "2015-10-27T18:47:12.333710"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:23.955086"
+            "when": "2015-10-27T18:47:12.349636"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21097"
         }, 
         {
-            "title_full": "Gradhiva: revue d\u2019anthropologie et de mus\u00e9ologie", 
+            "title_full": "Gradhiva: revue d’anthropologie et de muséologie", 
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21079"
         }, 
         {
@@ -157,19 +157,19 @@
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21072"
         }, 
         {
-            "title_full": "Parrh\u00easia: Newsletter of the Friends of the Coptic Museum", 
+            "title_full": "Parrhêsia: Newsletter of the Friends of the Coptic Museum", 
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=20980"
         }, 
         {
-            "title_full": "Revue Arch\u00e9ologique", 
+            "title_full": "Revue Archéologique", 
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21077"
         }, 
         {
-            "title_full": "Revue d'assyriologie et d'arch\u00e9ologie orientale", 
+            "title_full": "Revue d'assyriologie et d'archéologie orientale", 
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21078"
         }, 
         {
-            "title_full": "Rursus: Po\u00e9tique, r\u00e9ception et r\u00e9criture des textes antiques", 
+            "title_full": "Rursus: Poétique, réception et récriture des textes antiques", 
             "url": "http://www.etana.org/abzu/abzu-displayentry.pl?RC=21071"
         }, 
         {

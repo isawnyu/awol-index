@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica. EL ICAC es un centro de investigaci\u00f3n p\u00fablico en Arqueolog\u00eda Cl\u00e1sica creado por la Generalidad de Catalu\u00f1a y la Universidad Rovira i Virgili, con la participaci\u00f3n del Consejo Interuniversitario de Catalu\u00f1a. Tiene como finalidad la investigaci\u00f3n, la formaci\u00f3n avanzada y la difusi\u00f3n de la civilizaci\u00f3n y cultura cl\u00e1sicas. Hic et Nunc.", 
+    "description": "Institut Català d'Arqueologia Clàssica. EL ICAC es un centro de investigación público en Arqueología Clásica creado por la Generalidad de Cataluña y la Universidad Rovira i Virgili, con la participación del Consejo Interuniversitario de Cataluña. Tiene como finalidad la investigación, la formación avanzada y la difusión de la civilización y cultura clásicas. Hic et Nunc.", 
     "domain": "icac.cat", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+        "title_full": "Institut Català d'Arqueologia Clàssica", 
         "url": "http://icac.cat/en/publicacions-3/publicacions-propies"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6101806186654765679", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.789256"
+            "when": "2015-10-27T18:44:19.631337"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-books-from-institut-catala.html", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.789271"
+            "when": "2015-10-27T18:44:19.631353"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6101806186654765679", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.793443"
+            "when": "2015-10-27T18:44:19.634583"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-books-from-institut-catala.html", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.793473"
+            "when": "2015-10-27T18:44:19.634597"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:44.896455"
+            "when": "2015-10-27T18:44:19.732526"
         }
     ], 
     "publishers": [], 
@@ -146,7 +146,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+            "title_full": "Institut Català d'Arqueologia Clàssica", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies"
         }, 
         {
@@ -154,7 +154,7 @@
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/22-hic-et-nunc"
         }, 
         {
-            "title_full": "Gr\u00e8cia i Egipte en l'origen del drama", 
+            "title_full": "Grècia i Egipte en l'origen del drama", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.31_grecia.pdf"
         }, 
         {
@@ -162,11 +162,11 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53.17_masgras.pdf"
         }, 
         {
-            "title_full": "La necr\u00f2polis protohist\u00f2rica de Santa Madrona", 
+            "title_full": "La necròpolis protohistòrica de Santa Madrona", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.18_madrona.pdf"
         }, 
         {
-            "title_full": "Terracotes arquitect\u00f2niques romananes (Tarragona). Les troballes de la pla\u00e7a de la Font", 
+            "title_full": "Terracotes arquitectòniques romananes (Tarragona). Les troballes de la plaça de la Font", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.27_terracotes.pdf"
         }, 
         {
@@ -174,11 +174,11 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53.5_morell.pdf"
         }, 
         {
-            "title_full": "La necr\u00f2polis protohist\u00f2rica de Milmanda (Vimbod\u00ed, Conca de Barber\u00e0, Tarragona)", 
+            "title_full": "La necròpolis protohistòrica de Milmanda (Vimbodí, Conca de Barberà, Tarragona)", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/22-hic-et-nunc/203-la-necropolis-protohistorica-de-milmanda-vimbodi-conca-de-barbera-tarragona"
         }, 
         {
-            "title_full": "El marmor de Tarraco. Explotaci\u00f3, utilitzaci\u00f3 i comercialitzaci\u00f3 de la pedra de Santa Tecla en \u00e8poca romana", 
+            "title_full": "El marmor de Tarraco. Explotació, utilització i comercialització de la pedra de Santa Tecla en època romana", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/22-hic-et-nunc/202-el-marmor-de-tarraco-explotacio-utilitzacio-i-comercialitzacio-de-la-pedra-de-santa-tecla-en-epoca-romana"
         }, 
         {
@@ -194,7 +194,7 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53.69_iberos.pdf"
         }, 
         {
-            "title_full": "El paisatge periurb\u00e0 a la Mediterr\u00e0nia occidental durant la protohist\u00f2ria i l\u2019antiguitat", 
+            "title_full": "El paisatge periurbà a la Mediterrània occidental durant la protohistòria i l’antiguitat", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.60_paisatge.pdf"
         }, 
         {
@@ -210,15 +210,15 @@
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/631-ta-zoia-lespai-a-grecia-ii-els-animals-i-lespai-44587873"
         }, 
         {
-            "title_full": "Epigrafia funer\u00e0ria d\u2019estrangers a Atenes (segles VI-IV aC)", 
+            "title_full": "Epigrafia funerària d’estrangers a Atenes (segles VI-IV aC)", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/663-ta-zoia-lespai-a-grecia-ii-els-animals-i-lespai-18786806"
         }, 
         {
-            "title_full": "Ta z\u00f4ia. L'espai a Gr\u00e8cia II: els animals i l'espai", 
+            "title_full": "Ta zôia. L'espai a Grècia II: els animals i l'espai", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/489-ta-zoia-lespai-a-grecia-ii-els-animals-i-lespai"
         }, 
         {
-            "title_full": "Epigrafia funer\u00e0ria d'estrangers a Atenes (segles VI-IV aC)", 
+            "title_full": "Epigrafia funerària d'estrangers a Atenes (segles VI-IV aC)", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.23_epigrafia.pdf"
         }, 
         {
@@ -226,23 +226,23 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53.56_althib.pdf"
         }, 
         {
-            "title_full": "Althiburos I (l\u00e0mines)", 
+            "title_full": "Althiburos I (làmines)", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.56_althib_lam.pdf"
         }, 
         {
-            "title_full": "Capiteles tardorromanos y visigodos en la pen\u00ednsula ib\u00e9rica (siglos IV-VIII d. C.)", 
+            "title_full": "Capiteles tardorromanos y visigodos en la península ibérica (siglos IV-VIII d. C.)", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/468-capiteles-tardorromanos-y-visigodos-en-la-peninsula-iberica-siglos-iv-viii-d-c"
         }, 
         {
-            "title_full": "Felix Turissa. La vil\u00b7la romana dels Ametllers i el seu fundus (Tossa de Mar, la Selva)", 
+            "title_full": "Felix Turissa. La vil·la romana dels Ametllers i el seu fundus (Tossa de Mar, la Selva)", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/365-felix-turissa-la-vilmla-romana-dels-ametllers-i-el-seu-fundus-tossa-de-mar-la-selva"
         }, 
         {
-            "title_full": "Topos-Ch\u00f4ra. L'espai a Gr\u00e8cia I: prespectives interdisciplin\u00e0ries", 
+            "title_full": "Topos-Chôra. L'espai a Grècia I: prespectives interdisciplinàries", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/361-topos-chora-lespai-a-grecia-i-prespectives-interdisciplinaries"
         }, 
         {
-            "title_full": "Necr\u00f3polis urbanas en Baetica", 
+            "title_full": "Necrópolis urbanas en Baetica", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/360-necropolis-urbanas-en-baetica"
         }, 
         {
@@ -258,7 +258,7 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53.44.3.pdf"
         }, 
         {
-            "title_full": "Torcularia. La producci\u00f3n de vino y aceite en Hispania", 
+            "title_full": "Torcularia. La producción de vino y aceite en Hispania", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/295-torcularia-la-produccion-de-vino-y-aceite-en-hispania"
         }, 
         {
@@ -266,39 +266,39 @@
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/201-les-imitacions-de-vaixella-fina-importada-a-la-hispania-citerior"
         }, 
         {
-            "title_full": "Planimetria arqueol\u00f2gica de T\u00e0rraco", 
+            "title_full": "Planimetria arqueològica de Tàrraco", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/200-planimetria-arqueologica-de-tarraco-77736481"
         }, 
         {
-            "title_full": "Les bas\u00edliques paleocristianes del suburbi occidental de Tarraco", 
+            "title_full": "Les basíliques paleocristianes del suburbi occidental de Tarraco", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/199-les-basiliques-paleocristianes-del-suburbi-occidental-de-tarraco"
         }, 
         {
-            "title_full": "El Palat\u00ed. La formaci\u00f3 dels palaus imperials a Roma", 
+            "title_full": "El Palatí. La formació dels palaus imperials a Roma", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.3_palati.pdf"
         }, 
         {
-            "title_full": "Les termes p\u00fabliques de l'\u00e0rea portu\u00e0ria de T\u00e0rraco", 
+            "title_full": "Les termes públiques de l'àrea portuària de Tàrraco", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/197-les-termes-publiques-de-larea-portuaria-de-tarraco-24111151"
         }, 
         {
-            "title_full": "La corona immarcescible. Pintures de l'antiguitat tardana de la Necr\u00f2polis Alta d'Oxirinc", 
+            "title_full": "La corona immarcescible. Pintures de l'antiguitat tardana de la Necròpolis Alta d'Oxirinc", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/196-la-corona-immarcescible-pintures-de-lantiguitat-tardana-de-la-necropolis-alta-doxirinc"
         }, 
         {
-            "title_full": "La seu episcopal d\u2019\u00c8gara. Arqueologia d\u2019un conjunt cristi\u00e0 del segle IV al IX", 
+            "title_full": "La seu episcopal d’Ègara. Arqueologia d’un conjunt cristià del segle IV al IX", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/195-la-seu-episcopal-degara-arqueologia-dun-conjunt-cristia-del-segle-iv-al-ix"
         }, 
         {
-            "title_full": "El vi tarraconense i laiet\u00e0: ahir i avui. Actes del simp\u00f2sium", 
+            "title_full": "El vi tarraconense i laietà: ahir i avui. Actes del simpòsium", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/194-el-vi-tarraconense-i-laieta-ahir-i-avui-actes-del-simposium"
         }, 
         {
-            "title_full": "La seu episcopal d'\u00c8gara", 
+            "title_full": "La seu episcopal d'Ègara", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.15_egara.pdf"
         }, 
         {
-            "title_full": "Explotaci\u00f3n de los recursos forestales desde el neol\u00edtico hasta la \u00e9poca moderna en los valles de La Vansa-sierra del Cad\u00ed (Alt Urgell) y del Madriu (Andorra). An\u00e1lisis antracol\u00f3gico de estructuras altimontanas", 
+            "title_full": "Explotación de los recursos forestales desde el neolítico hasta la época moderna en los valles de La Vansa-sierra del Cadí (Alt Urgell) y del Madriu (Andorra). Análisis antracológico de estructuras altimontanas", 
             "url": "http://icac.cat/images/stories/pdf/llibres/53.37_explot.pdf"
         }, 
         {
@@ -310,11 +310,11 @@
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/21-documenta/191-hispaniae-las-provincias-hispanas-en-el-mundo-romano"
         }, 
         {
-            "title_full": "Bases d'actuaci\u00f3", 
+            "title_full": "Bases d'actuació", 
             "url": "http://icac.cat/en/what-is-icac/bases-actuacio"
         }, 
         {
-            "title_full": "Fora de collecci\u00f3", 
+            "title_full": "Fora de collecció", 
             "url": "http://icac.cat/en/publicacions-3/publicacions-propies/23-fora-collecio"
         }, 
         {
@@ -322,7 +322,7 @@
             "url": "http://icac.cat/images/stories/pdf/llibres/53._marbles.pdf"
         }
     ], 
-    "title": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+    "title": "Institut Català d'Arqueologia Clàssica", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

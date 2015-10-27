@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903861190567617827", 
             "resource_date": "2015-06-09T10:43:25.086-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.971079"
+            "when": "2015-10-27T18:48:54.094552"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/sumerian-resources-from-pascal-attinger.html", 
             "resource_date": "2015-06-09T10:43:25.086-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.971096"
+            "when": "2015-10-27T18:48:54.094571"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903861190567617827", 
             "resource_date": "2015-06-09T10:43:25.086-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.972996"
+            "when": "2015-10-27T18:48:54.096918"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/sumerian-resources-from-pascal-attinger.html", 
             "resource_date": "2015-06-09T10:43:25.086-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.973008"
+            "when": "2015-10-27T18:48:54.096935"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:58.087946"
+            "when": "2015-10-27T18:48:54.224669"
         }
     ], 
     "publishers": [], 
@@ -168,7 +168,7 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379935/1_3_3.pdf"
         }, 
         {
-            "title_full": "Le r\u00eave de Dumuzi 1_4_3.pdf (pdf, 229KB)", 
+            "title_full": "Le rêve de Dumuzi 1_4_3.pdf (pdf, 229KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379936/LervedeDumuzi1.4.3.pdf"
         }, 
         {
@@ -176,11 +176,11 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379938/1_8_2_4.pdf"
         }, 
         {
-            "title_full": "La l\u00e9gende de Sargon 2_1_4.pdf (pdf, 147KB)", 
+            "title_full": "La légende de Sargon 2_1_4.pdf (pdf, 147KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379939/2_1_4.pdf"
         }, 
         {
-            "title_full": "La mal\u00e9diction d'Agad\u00e9 2_1_5.pdf (pdf, 325KB)", 
+            "title_full": "La malédiction d'Agadé 2_1_5.pdf (pdf, 325KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379941/2_1_5.pdf"
         }, 
         {
@@ -236,7 +236,7 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379953/3.1.20vc.pdf"
         }, 
         {
-            "title_full": "CKU 24: Ibbi-S\u00een-Puzur-Shulgi 1, version longue 3.1.20vl.pdf (pdf, 90KB)", 
+            "title_full": "CKU 24: Ibbi-Sîn-Puzur-Shulgi 1, version longue 3.1.20vl.pdf (pdf, 90KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379954/3.1.20vl.pdf"
         }, 
         {
@@ -256,15 +256,15 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379958/3.2.4.pdf"
         }, 
         {
-            "title_full": "SEpM 6: Ursaga \u00e0 un roi 3.3.1.pdf (pdf, 61KB)", 
+            "title_full": "SEpM 6: Ursaga à un roi 3.3.1.pdf (pdf, 61KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379959/3.3.1.pdf"
         }, 
         {
-            "title_full": "SEpM 7: Lugalshu \u00e0 un roi 3.3.2.pdf (pdf, 80KB)", 
+            "title_full": "SEpM 7: Lugalshu à un roi 3.3.2.pdf (pdf, 80KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379960/3.3.2.pdf"
         }, 
         {
-            "title_full": "SEpM 16: Singe \u00e0 sa m\u00e8re 3.3.7.pdf (pdf, 54KB)", 
+            "title_full": "SEpM 16: Singe à sa mère 3.3.7.pdf (pdf, 54KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e379965/3.3.7.pdf"
         }, 
         {
@@ -332,7 +332,7 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e380011/4_28_1.pdf"
         }, 
         {
-            "title_full": "Edubb\u00e2 1 5_1_1.pdf (pdf, 139KB)", 
+            "title_full": "Edubbâ 1 5_1_1.pdf (pdf, 139KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e379923/e380013/5_1_1.pdf"
         }, 
         {
@@ -344,19 +344,19 @@
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e293772/e293773/files376104/CV_Attinger.pdf"
         }, 
         {
-            "title_full": "Tableau grammatical du sum\u00e9rien (probl\u00e8mes choisis) (pdf, 860KB)", 
+            "title_full": "Tableau grammatical du sumérien (problèmes choisis) (pdf, 860KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e293772/e293773/files380032/Tableaugrammaticalrevu_ger.pdf"
         }, 
         {
-            "title_full": "Liste des correspondances entre les lectures usuelles et les lectures adopt\u00e9es dans aBZL (pdf, 182KB)", 
+            "title_full": "Liste des correspondances entre les lectures usuelles et les lectures adoptées dans aBZL (pdf, 182KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e293772/e293773/files380034/correspondances,times_ger.pdf"
         }, 
         {
-            "title_full": "Compl\u00e9ments \u00e0 l\u2019article Literatur de D.O.Edzard, RlA 7, 1/2 (1987) 35-48 (choix) (pdf, 328KB)", 
+            "title_full": "Compléments à l’article Literatur de D.O.Edzard, RlA 7, 1/2 (1987) 35-48 (choix) (pdf, 328KB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e293772/e293773/files380035/compl_RLA.pdf"
         }, 
         {
-            "title_full": "Lexique sum\u00e9rien-fran\u00e7ais (pdf, 1.5 MB)", 
+            "title_full": "Lexique sumérien-français (pdf, 1.5 MB)", 
             "url": "http://www.iaw.unibe.ch/unibe/philhist/ifaw/content/e246526/e255000/e274658/e274665/e293772/e293773/files712996/Lexiquesumrien-franais.pdf"
         }
     ], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Sallaberger, W. and Volk, K. and Zgoll, A. (Hrsgg. ): Literatur, Politik und Recht in Mesopotamien. Festschrift f\u00fcr Claus Wilcke (Orientalia Biblica et Christiana 14). Wiesbaden 2003, pp. 151-180. Krebernik, Manfred (1994).", 
+    "description": "In: Sallaberger, W. and Volk, K. and Zgoll, A. (Hrsgg. ): Literatur, Politik und Recht in Mesopotamien. Festschrift für Claus Wilcke (Orientalia Biblica et Christiana 14). Wiesbaden 2003, pp. 151-180. Krebernik, Manfred (1994).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:34.719378"
+            "when": "2015-10-27T18:46:20.434775"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:34.719396"
+            "when": "2015-10-27T18:46:20.434791"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Drachenmutter und Himmelsrebe? Zur Fr\u00fchgeschichte Dumuzis und seiner Familie", 
+    "title": "Drachenmutter und Himmelsrebe? Zur Frühgeschichte Dumuzis und seiner Familie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

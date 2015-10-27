@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Oeming, M. and Schmid, K. and Sch\u00fcle, A. (Hrsgg. ): Theologie in Israel und in den Nachbarkulturen. Altes Testament und Moderne 9. M\u00fcnster 2004, pp. 63-74. Quack, Joachim Friedrich (2010).", 
+    "description": "In: Oeming, M. and Schmid, K. and Schüle, A. (Hrsgg. ): Theologie in Israel und in den Nachbarkulturen. Altes Testament und Moderne 9. Münster 2004, pp. 63-74. Quack, Joachim Friedrich (2010).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:59.525729"
+            "when": "2015-10-27T18:40:11.186631"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:59.525745"
+            "when": "2015-10-27T18:40:11.186648"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Perspektiven zur Theologie im Alten \u00c4gypten: Antwort an Jan Assmann", 
+    "title": "Perspektiven zur Theologie im Alten Ägypten: Antwort an Jan Assmann", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

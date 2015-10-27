@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 1 January 2010. Updated 20 January 2012]. Arqueolog\u00eda. ISSN (Versi\u00f3n en l\u00ednea) 1853-8126. ARQUEOLOG\u00cdA es una publicaci\u00f3n anual con referato del.", 
+    "description": "[First posted in AWOL 1 January 2010. Updated 20 January 2012]. Arqueología. ISSN (Versión en línea) 1853-8126. ARQUEOLOGÍA es una publicación anual con referato del.", 
     "domain": "sites.google.com", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3071659864554703192", 
             "resource_date": "2012-01-20T06:35:55.476-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:04.847146"
+            "when": "2015-10-27T18:39:13.707821"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/new-open-access-journal-arqueologia.html", 
             "resource_date": "2012-01-20T06:35:55.476-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:04.847164"
+            "when": "2015-10-27T18:39:13.707837"
         }
     ], 
     "publishers": [], 
@@ -88,15 +88,15 @@
             "url": "http://sites.google.com/site/revistaarqueologia/listado-completo-de-contenidos---complete-table-of-contents"
         }, 
         {
-            "title_full": "Tomo 18 (2012) (en diagramaci\u00f3n - in layout)", 
+            "title_full": "Tomo 18 (2012) (en diagramación - in layout)", 
             "url": "http://sites.google.com/site/revistaarqueologia/tomo-18"
         }, 
         {
-            "title_full": "Tomo 16 (2010) (versi\u00f3n papel en prensa, versi\u00f3n digital publicada - paper version in press, online version published)", 
+            "title_full": "Tomo 16 (2010) (versión papel en prensa, versión digital publicada - paper version in press, online version published)", 
             "url": "http://sites.google.com/site/revistaarqueologia/tomo-16"
         }, 
         {
-            "title_full": "Tomo 17 (2011) (versi\u00f3n papel en prensa, versi\u00f3n digital publicada - paper version in press, online version published)", 
+            "title_full": "Tomo 17 (2011) (versión papel en prensa, versión digital publicada - paper version in press, online version published)", 
             "url": "http://sites.google.com/site/revistaarqueologia/tomo-17-2011"
         }, 
         {
@@ -112,7 +112,7 @@
             "url": "http://sites.google.com/site/revistaarqueologia/tomos-previos---previous-issues/tomo-9-1999"
         }
     ], 
-    "title": "Arqueolog\u00eda", 
+    "title": "Arqueología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

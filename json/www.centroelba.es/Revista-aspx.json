@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "DJESER: Revista de Arte, Arqueolog\u00eda y Egiptolog\u00eda. ISSN: 2174-6869. Content free after registraton. Revista DJESER-7.", 
+    "description": "DJESER: Revista de Arte, Arqueología y Egiptología. ISSN: 2174-6869. Content free after registraton. Revista DJESER-7.", 
     "domain": "www.centroelba.es", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6914306202980807398", 
             "resource_date": "2014-02-11T07:18:23.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.471392"
+            "when": "2015-10-27T18:45:18.585363"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-access-journal-djeser-revista-de.html", 
             "resource_date": "2014-02-11T07:18:23.254-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.471409"
+            "when": "2015-10-27T18:45:18.585380"
         }
     ], 
     "publishers": [], 
@@ -89,7 +89,7 @@
             "url": "http://www.centroelba.es/Revista.aspx?Revista_id=11"
         }
     ], 
-    "title": "DJESER: Revista de Arte, Arqueolog\u00eda y Egiptolog\u00eda", 
+    "title": "DJESER: Revista de Arte, Arqueología y Egiptología", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

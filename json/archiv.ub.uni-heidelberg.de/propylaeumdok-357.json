@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Ernst, W. and Kittler, F. (Hrsgg. ): Die Geburt des Vokalalphabets aus dem Geist der Poesie. Schrift, Zahl und Ton im Medienverbund. M\u00fcnchen 2006, pp. 75-98. Quack, Joachim Friedrich (2002).", 
+    "description": "In: Ernst, W. and Kittler, F. (Hrsgg. ): Die Geburt des Vokalalphabets aus dem Geist der Poesie. Schrift, Zahl und Ton im Medienverbund. München 2006, pp. 75-98. Quack, Joachim Friedrich (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:58.674524"
+            "when": "2015-10-27T18:40:10.335236"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:58.674539"
+            "when": "2015-10-27T18:40:10.335253"
         }
     ], 
     "publishers": [], 

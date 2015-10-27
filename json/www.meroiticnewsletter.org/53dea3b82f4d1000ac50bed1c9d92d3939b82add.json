@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6588102141201936197", 
             "resource_date": "2013-09-28T07:15:42.796-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:20.721623"
+            "when": "2015-10-27T18:44:59.903261"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-journal-meroitic-newsletter.html", 
             "resource_date": "2013-09-28T07:15:42.796-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:20.721636"
+            "when": "2015-10-27T18:44:59.903274"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Inscriptions M\u00e9ro\u00eftiques dans les Collections Britanniques", 
+    "title": "Inscriptions Méroïtiques dans les Collections Britanniques", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

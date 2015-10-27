@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3720920126198325436", 
             "resource_date": "2013-08-19T07:21:42.591-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:41.070264"
+            "when": "2015-10-27T18:40:58.336972"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-potsdamer.html", 
             "resource_date": "2013-08-19T07:21:42.591-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:41.070280"
+            "when": "2015-10-27T18:40:58.336987"
         }
     ], 
     "publishers": [], 
@@ -87,15 +87,15 @@
             "url": "http://opus.kobv.de/ubp/frontdoor.php?source_opus=5761&la=de"
         }, 
         {
-            "title_full": "Brandenburger Antike-Denkwerk : kulturelle Identit\u00e4t - Alltagsleben ; Pr\u00e4gung kultureller Identit\u00e4t", 
+            "title_full": "Brandenburger Antike-Denkwerk : kulturelle Identität - Alltagsleben ; Prägung kultureller Identität", 
             "url": "http://opus.kobv.de/ubp/frontdoor.php?source_opus=3798&la=de"
         }, 
         {
-            "title_full": "Antike in Potsdam-Sanssouci : F\u00fchrungsbl\u00e4tter ; Materialien f\u00fcr den Unterricht", 
+            "title_full": "Antike in Potsdam-Sanssouci : Führungsblätter ; Materialien für den Unterricht", 
             "url": "http://opus.kobv.de/ubp/frontdoor.php?source_opus=1466&la=de"
         }, 
         {
-            "title_full": "R\u00f6mische Geschichte und Geschichtsschreibung", 
+            "title_full": "Römische Geschichte und Geschichtsschreibung", 
             "url": "http://opus.kobv.de/ubp/frontdoor.php?source_opus=5090&la=de"
         }
     ], 

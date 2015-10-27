@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Lettre/newsletter n\u00b0 9 : 02/2011", 
+        "title_full": "Lettre/newsletter n° 9 : 02/2011", 
         "url": "http://newsletter.neteor.com/online/view_0b4d42963e34a346bc050ea630bdc9ac_888.htm"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5974810971339828701", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.352968"
+            "when": "2015-10-27T18:44:13.866819"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/whats-new-in-e-corpus-digital-library.html", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.352986"
+            "when": "2015-10-27T18:44:13.866836"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5974810971339828701", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:39.354615"
+            "when": "2015-10-27T18:44:13.868325"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/whats-new-in-e-corpus-digital-library.html", 
             "resource_date": "2011-02-28T11:05:48.062-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:39.354630"
+            "when": "2015-10-27T18:44:13.868338"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:39.391648"
+            "when": "2015-10-27T18:44:13.903852"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Lettre/newsletter n\u00b0 9 : 02/2011", 
+            "title_full": "Lettre/newsletter n° 9 : 02/2011", 
             "url": "http://newsletter.neteor.com/online/view_0b4d42963e34a346bc050ea630bdc9ac_888.htm"
         }, 
         {
@@ -149,11 +149,11 @@
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_669.htm"
         }, 
         {
-            "title_full": "Arabic, Georgian and Syriac manuscripts from St. Catherine's Monastery Mount Sinai (Egypt) are now available on e-corpus. This work carried out by the Universit\u00e9 Catholique de Louvain within the framework of project Manumed (digitization of microfilm); detailed records are being captured with titles and incipits etc. Arabic MSS : 202 manuscripts / 50 987 images Syriac MSS : 130 manuscripts / 27806 images Georgian MSS : 12 manuscripts / 3099 images", 
+            "title_full": "Arabic, Georgian and Syriac manuscripts from St. Catherine's Monastery Mount Sinai (Egypt) are now available on e-corpus. This work carried out by the Université Catholique de Louvain within the framework of project Manumed (digitization of microfilm); detailed records are being captured with titles and incipits etc. Arabic MSS : 202 manuscripts / 50 987 images Syriac MSS : 130 manuscripts / 27806 images Georgian MSS : 12 manuscripts / 3099 images", 
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1602.htm"
         }, 
         {
-            "title_full": "Arabic, Georgian and Syriac manuscripts from St. Catherine's Monastery Mount Sinai (Egypt) are now available on e-corpus. This work carried out by the Universit\u00e9 Catholique de Louvain within the framework of project Manumed (digitization of microfilm); detailed records are being captured with titles and incipits etc. Arabic MSS : 202 manuscripts / 50 987 images Syriac MSS : 130 manuscripts / 27806 images Georgian MSS : 12 manuscripts / 3099 images", 
+            "title_full": "Arabic, Georgian and Syriac manuscripts from St. Catherine's Monastery Mount Sinai (Egypt) are now available on e-corpus. This work carried out by the Université Catholique de Louvain within the framework of project Manumed (digitization of microfilm); detailed records are being captured with titles and incipits etc. Arabic MSS : 202 manuscripts / 50 987 images Syriac MSS : 130 manuscripts / 27806 images Georgian MSS : 12 manuscripts / 3099 images", 
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1601.htm"
         }, 
         {
@@ -169,7 +169,7 @@
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1550.htm"
         }, 
         {
-            "title_full": "Hebrew manuscripts from the Library of N\u00eemes , Carr\u00e9 d'Art 19 mss, 3 372 pages accessible on e-corpus see web site (still in progress)", 
+            "title_full": "Hebrew manuscripts from the Library of Nîmes , Carré d'Art 19 mss, 3 372 pages accessible on e-corpus see web site (still in progress)", 
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1600.htm"
         }, 
         {
@@ -197,15 +197,15 @@
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1612.htm"
         }, 
         {
-            "title_full": "Documents from the Maison M\u00e9diterran\u00e9enne des Sciences de l'Homme ( MMSH ) in Aix en Provence and from", 
+            "title_full": "Documents from the Maison Méditerranéenne des Sciences de l'Homme ( MMSH ) in Aix en Provence and from", 
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1606.htm"
         }, 
         {
-            "title_full": "The IFPO ( Institut fran\u00e7ais du Proche-Orient :Damascus, Beirut, Amman, Erbil...) 100 000 images and metadata will be produced and available on E-corpus within 12 months", 
+            "title_full": "The IFPO ( Institut français du Proche-Orient :Damascus, Beirut, Amman, Erbil...) 100 000 images and metadata will be produced and available on E-corpus within 12 months", 
             "url": "http://newsletter.neteor.com/process/clkcnt_0b4d42963e34a346bc050ea630bdc9ac_888_1598.htm"
         }
     ], 
-    "title": "Lettre/newsletter n\u00b0 9 : 02/2011", 
+    "title": "Lettre/newsletter n° 9 : 02/2011", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

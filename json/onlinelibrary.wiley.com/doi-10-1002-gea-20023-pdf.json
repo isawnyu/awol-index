@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "J\u00f6rg Linst\u00e4dter, Stefan Kr\u00f6pelin 2004.", 
+    "description": "Jörg Linstädter, Stefan Kröpelin 2004.", 
     "domain": "onlinelibrary.wiley.com", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426349571431497167", 
             "resource_date": "2010-09-10T12:54:16.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.884623"
+            "when": "2015-10-27T18:47:14.423577"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/sprcial-open-access-issue-of.html", 
             "resource_date": "2010-09-10T12:54:16.916-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.884635"
+            "when": "2015-10-27T18:47:14.423589"
         }
     ], 
     "publishers": [], 

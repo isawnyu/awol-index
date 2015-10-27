@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 19 January 2010. Updated 3 January 2012]. Arqueolog\u00eda Iberoamericana. ISSN: 1989-4104.", 
+    "description": "[First posted in AWOL 19 January 2010. Updated 3 January 2012]. Arqueología Iberoamericana. ISSN: 1989-4104.", 
     "domain": "www.laiesken.net", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6031054073019670345", 
             "resource_date": "2012-01-03T09:19:37.369-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.802075"
+            "when": "2015-10-27T18:44:16.524861"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-arqueologia.html", 
             "resource_date": "2012-01-03T09:19:37.369-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.802091"
+            "when": "2015-10-27T18:44:16.524877"
         }
     ], 
     "publishers": [], 
@@ -108,7 +108,7 @@
             "url": "http://www.laiesken.net/arqueologia/pascual-izquierdo-egea.html"
         }, 
         {
-            "title_full": "\u00edndice de autores", 
+            "title_full": "índice de autores", 
             "url": "http://www.laiesken.net/arqueologia/archivo/autores.html"
         }, 
         {
@@ -160,7 +160,7 @@
             "url": "http://www.laiesken.net/arqueologia/archivo/2009/04/"
         }
     ], 
-    "title": "Arqueolog\u00eda Iberoamericana", 
+    "title": "Arqueología Iberoamericana", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

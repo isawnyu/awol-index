@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6629324133595622730", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:25.564683"
+            "when": "2015-10-27T18:45:05.422590"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-monograph-series-ancient.html", 
             "resource_date": "2015-06-18T15:53:46.785-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:25.564694"
+            "when": "2015-10-27T18:45:05.422604"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8147198954376621871", 
             "resource_date": "2015-06-17T21:21:10.308-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.966179"
+            "when": "2015-10-27T18:47:01.571522"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/open-access-journal-ancient-narrative.html", 
             "resource_date": "2015-06-17T21:21:10.308-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.966189"
+            "when": "2015-10-27T18:47:01.571534"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:14.012797"
+            "when": "2015-10-27T18:47:01.635566"
         }
     ], 
     "publishers": [], 

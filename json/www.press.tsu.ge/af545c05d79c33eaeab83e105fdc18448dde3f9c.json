@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mikheil G. Tsereteli Urartology Archive. \u10e3\u10e0\u10d0\u10e0\u10e2\u10dd\u10da\u10dd\u10d2\u10d8\u10e3\u10e0\u10d8 \u10d0\u10e0\u10e5\u10d8\u10d5\u10d8.", 
+    "description": "Mikheil G. Tsereteli Urartology Archive. ურარტოლოგიური არქივი.", 
     "domain": "www.press.tsu.ge", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5222072690338129233", 
             "resource_date": "2013-03-13T09:02:28.364-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.361590"
+            "when": "2015-10-27T18:43:18.278892"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/03/mikheil-g-tsereteli-urartology-archive.html", 
             "resource_date": "2013-03-13T09:02:28.364-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.361600"
+            "when": "2015-10-27T18:43:18.278904"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "12. \u00c9TUDES OURART\u00c9ENNES IV. LA ST\u00c8LE DE K\u00c8LICHINE", 
+    "title": "12. ÉTUDES OURARTÉENNES IV. LA STÈLE DE KÈLICHINE", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

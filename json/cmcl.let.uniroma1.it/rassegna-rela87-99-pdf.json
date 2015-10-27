@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Acad\u00e9mique Internationale", 
+        "title_full": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Académique Internationale", 
         "url": "http://cmcl.let.uniroma1.it/storia.htm"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8998887945229122883", 
             "resource_date": "2013-06-23T10:43:55.204-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:13.001324"
+            "when": "2015-10-27T18:49:10.771978"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-corpus-dei.html", 
             "resource_date": "2013-06-23T10:43:55.204-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:13.001345"
+            "when": "2015-10-27T18:49:10.771991"
         }
     ], 
     "publishers": [], 

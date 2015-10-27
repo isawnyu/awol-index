@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine Auteur: Actes \u00e9dit\u00e9s par Gilles van Heems. Titre: La variation linguistique dans les langues de l'Italie pr\u00e9romaine. Actes du IVe S\u00e9minaire sur les langues de l'Italie pr\u00e9romaine organis\u00e9 \u00e0 l'Universit\u00e9 Lumi\u00e8re-Lyon 2 et la Maison de l'Orient et de la M\u00e9diterran\u00e9e, 12 mars 2009. Editeur: Maison de l'Orient et de la M\u00e9diterran\u00e9e. Lieu de publication: Lyon. Ann\u00e9e de publication: 2011. Collection: Collection de la Maison de l'Orient m\u00e9diterran\u00e9en 45. S\u00e9rie linguistique et philologique 7. Format: 1 vol. (182 p. ): couv. ill. ; 24 cm. Annotations: Textes en fran\u00e7ais et en italien. - Notes bibliogr. Index.", 
+    "description": "La variation linguistique dans les langues de l’Italie préromaine Auteur: Actes édités par Gilles van Heems. Titre: La variation linguistique dans les langues de l'Italie préromaine. Actes du IVe Séminaire sur les langues de l'Italie préromaine organisé à l'Université Lumière-Lyon 2 et la Maison de l'Orient et de la Méditerranée, 12 mars 2009. Editeur: Maison de l'Orient et de la Méditerranée. Lieu de publication: Lyon. Année de publication: 2011. Collection: Collection de la Maison de l'Orient méditerranéen 45. Série linguistique et philologique 7. Format: 1 vol. (182 p. ): couv. ill. ; 24 cm. Annotations: Textes en français et en italien. - Notes bibliogr. Index.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine", 
+        "title_full": "La variation linguistique dans les langues de l’Italie préromaine", 
         "url": "http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1#"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:06.308708"
+            "when": "2015-10-27T18:46:53.626792"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:06.308725"
+            "when": "2015-10-27T18:46:53.626807"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7980957358423240936", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:06.313099"
+            "when": "2015-10-27T18:46:53.631081"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/10/new-online-from-publications-de-la.html", 
             "resource_date": "2011-10-14T14:27:16.756-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:06.313116"
+            "when": "2015-10-27T18:46:53.631094"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:06.354863"
+            "when": "2015-10-27T18:46:53.668167"
         }
     ], 
     "publishers": [], 
@@ -139,7 +139,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine", 
+            "title_full": "La variation linguistique dans les langues de l’Italie préromaine", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/issue/mom_0184-1785_2011_act_45_1#"
         }, 
         {
@@ -151,7 +151,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_777"
         }, 
         {
-            "title_full": "Autour du nom de S\u00e9geste", 
+            "title_full": "Autour du nom de Ségeste", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2003"
         }, 
         {
@@ -159,7 +159,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1095"
         }, 
         {
-            "title_full": "C. Pontius Herenni filius. Remarques sur la d\u00e9signation du vainqueur des Fourches Caudines chez Tite-Live", 
+            "title_full": "C. Pontius Herenni filius. Remarques sur la désignation du vainqueur des Fourches Caudines chez Tite-Live", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2004"
         }, 
         {
@@ -175,7 +175,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1093"
         }, 
         {
-            "title_full": "Variaci\u00f3n y cambio en etrusco : los genitivos arn\u03b8(i)al y lar\u03b8(i)al", 
+            "title_full": "Variación y cambio en etrusco : los genitivos arnθ(i)al y larθ(i)al", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2007"
         }, 
         {
@@ -183,11 +183,11 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_1094"
         }, 
         {
-            "title_full": "Essai de dialectologie \u00e9trusque : probl\u00e8mes th\u00e9oriques et applications pratiques", 
+            "title_full": "Essai de dialectologie étrusque : problèmes théoriques et applications pratiques", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2008"
         }, 
         {
-            "title_full": "Variation linguistique et ex\u00e9g\u00e8se pal\u00e9o-italique. L\u2019idiome sicule de Montagna di Marzo", 
+            "title_full": "Variation linguistique et exégèse paléo-italique. L’idiome sicule de Montagna di Marzo", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2010"
         }, 
         {
@@ -195,7 +195,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_780"
         }, 
         {
-            "title_full": "U. surur, lat. item : adverbe de mani\u00e8re, connecteur discursif", 
+            "title_full": "U. surur, lat. item : adverbe de manière, connecteur discursif", 
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/article/mom_0184-1785_2011_act_45_1_2011"
         }, 
         {
@@ -211,7 +211,7 @@
             "url": "http://www.persee.fr/web/ouvrages/home/prescript/author/auteur_mom_776"
         }
     ], 
-    "title": "La variation linguistique dans les langues de l\u2019Italie pr\u00e9romaine", 
+    "title": "La variation linguistique dans les langues de l’Italie préromaine", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u039b. \u039d\u03ce\u03bd\u03b9\u03bf\u03c2.", 
+    "description": "Λ. Νώνιος.", 
     "domain": "www.pretres-civiques.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Pr\u00eatres Civique: Les pr\u00eatres du culte imp\u00e9rial romain dans les cit\u00e9s de la province d'Asie", 
+        "title_full": "Prêtres Civique: Les prêtres du culte impérial romain dans les cités de la province d'Asie", 
         "url": "http://www.pretres-civiques.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-191928554507254710", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.539211"
+            "when": "2015-10-27T18:38:11.626134"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/pretres-civique-les-pretres-du-culte.html", 
             "resource_date": "2013-07-17T11:00:41.045-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.539222"
+            "when": "2015-10-27T18:38:11.626145"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "[-] \u039a\u03ad\u03bb\u03b5\u03c1", 
+    "title": "[-] Κέλερ", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

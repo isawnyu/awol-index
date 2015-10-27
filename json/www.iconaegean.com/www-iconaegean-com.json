@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8589483252336782741", 
             "resource_date": "2015-05-23T07:46:42.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:01.120887"
+            "when": "2015-10-27T18:47:52.219650"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/iconaegean-exploring-aegean-iconography.html", 
             "resource_date": "2015-05-23T07:46:42.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:01.120903"
+            "when": "2015-10-27T18:47:52.219667"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8589483252336782741", 
             "resource_date": "2015-05-23T07:46:42.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:01.122469"
+            "when": "2015-10-27T18:47:52.221216"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/iconaegean-exploring-aegean-iconography.html", 
             "resource_date": "2015-05-23T07:46:42.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:01.122481"
+            "when": "2015-10-27T18:47:52.221227"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:01.130172"
+            "when": "2015-10-27T18:47:52.229469"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Agathos Daimon. Mythes et cultes. \u00c9tudes d\\'iconographie en l\\'honneur de Lilly Kahil, Suppl. Bulletin de Correspondance Hell\u00e9nique 38. Paris 2000, pp. 279-285. Krauskopf, Ingrid (2002).", 
+    "description": "In: Agathos Daimon. Mythes et cultes. Études d\\'iconographie en l\\'honneur de Lilly Kahil, Suppl. Bulletin de Correspondance Hellénique 38. Paris 2000, pp. 279-285. Krauskopf, Ingrid (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:37.829795"
+            "when": "2015-10-27T18:48:31.632686"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:37.829810"
+            "when": "2015-10-27T18:48:31.632702"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die gefl\u00fcgelte Helena und andere Fl\u00fcgelfiguren auf etruskischen Skarab\u00e4en", 
+    "title": "Die geflügelte Helena und andere Flügelfiguren auf etruskischen Skarabäen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

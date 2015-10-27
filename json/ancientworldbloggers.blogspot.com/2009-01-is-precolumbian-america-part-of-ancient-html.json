@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2520483044193290658", 
             "resource_date": "2009-01-06T18:45:44.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:39.249626"
+            "when": "2015-10-27T18:38:47.352148"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/awol-discussed.html", 
             "resource_date": "2009-01-06T18:45:44.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:39.249644"
+            "when": "2015-10-27T18:38:47.352164"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2520483044193290658", 
             "resource_date": "2009-01-06T18:45:44.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:39.251692"
+            "when": "2015-10-27T18:38:47.353855"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/awol-discussed.html", 
             "resource_date": "2009-01-06T18:45:44.497-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:39.251708"
+            "when": "2015-10-27T18:38:47.353866"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:39.253114"
+            "when": "2015-10-27T18:38:47.357110"
         }
     ], 
     "publishers": [], 

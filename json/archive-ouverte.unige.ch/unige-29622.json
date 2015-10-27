@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archive ouverte UNIGE, Universit\u00e9 de Gen\u00e8ve", 
+        "title_full": "Archive ouverte UNIGE, Université de Genève", 
         "url": "http://archive-ouverte.unige.ch/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5821905504794218259", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:18.759115"
+            "when": "2015-10-27T18:43:51.673315"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/archive-ouverte-unige-universite-de.html", 
             "resource_date": "2014-05-30T07:50:51.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:18.759129"
+            "when": "2015-10-27T18:43:51.673350"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Kroton - \u00c9tudes et travaux arch\u00e9ologiques genevois en Calabre. Rapport sur les activit\u00e9s de l\u2019Unit\u00e9 d\u2019arch\u00e9ologie classique de l\u2019Universit\u00e9 de Gen\u00e8ve en 2012", 
+    "title": "Kroton - Études et travaux archéologiques genevois en Calabre. Rapport sur les activités de l’Unité d’archéologie classique de l’Université de Genève en 2012", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

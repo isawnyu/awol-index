@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ancient Nepal. Published by the Department of Archaeology in Kathmandu, Nepal, Ancient Nepal (\u092a\u094d\u0930\u093e\u091a\u0940\u0928 \u0928\u0947\u092a\u093e\u0932) is a journal devoted to pre-history and field archaeology in the Himalayas. Special interests include epigraphy, manuscripts, numismatics, archives, art, anthropology, architecture and museum studies. Contributions should be concise and based on hitherto unpublished data, and sent to the Director General of the Department of Archaeology. The journal dates from October 1967 and is still soliciting contributions. The following index of the titles and authors of the Nepali articles was prepared by staff at Madan Puraskar Pustakalya (MPP) in Kathmandu. Please note that the unevenness in the naming and page numbering of certain articles reflects inconsistencies in the original journal. On account of the compression format we have used for the PDF files, we advise that you install the most recent version of Adobe Acrobat which can be downloaded by clicking here. Please send us a short email to say whether this service is of interest and utility to you. Feedback will determine whether we proceed with the digitisation of other journals of Himalayan studies.", 
+    "description": "Ancient Nepal. Published by the Department of Archaeology in Kathmandu, Nepal, Ancient Nepal (प्राचीन नेपाल) is a journal devoted to pre-history and field archaeology in the Himalayas. Special interests include epigraphy, manuscripts, numismatics, archives, art, anthropology, architecture and museum studies. Contributions should be concise and based on hitherto unpublished data, and sent to the Director General of the Department of Archaeology. The journal dates from October 1967 and is still soliciting contributions. The following index of the titles and authors of the Nepali articles was prepared by staff at Madan Puraskar Pustakalya (MPP) in Kathmandu. Please note that the unevenness in the naming and page numbering of certain articles reflects inconsistencies in the original journal. On account of the compression format we have used for the PDF files, we advise that you install the most recent version of Adobe Acrobat which can be downloaded by clicking here. Please send us a short email to say whether this service is of interest and utility to you. Feedback will determine whether we proceed with the digitisation of other journals of Himalayan studies.", 
     "domain": "www.digitalhimalaya.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6171150785729203344", 
             "resource_date": "2010-02-03T10:42:46.682-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:48.382568"
+            "when": "2015-10-27T18:44:24.201728"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-ancient-nepal.html", 
             "resource_date": "2010-02-03T10:42:46.682-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:48.382580"
+            "when": "2015-10-27T18:44:24.201748"
         }
     ], 
     "publishers": [], 

@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6754506920629089811", 
             "resource_date": "2014-09-25T21:59:21.353-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.072062"
+            "when": "2015-10-27T18:45:11.644711"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/opern-access-annual-report-british.html", 
             "resource_date": "2014-09-25T21:59:21.353-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.072079"
+            "when": "2015-10-27T18:45:11.644727"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6754506920629089811", 
             "resource_date": "2014-09-25T21:59:21.353-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.073509"
+            "when": "2015-10-27T18:45:11.646325"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/opern-access-annual-report-british.html", 
             "resource_date": "2014-09-25T21:59:21.353-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.073520"
+            "when": "2015-10-27T18:45:11.646337"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:31.082360"
+            "when": "2015-10-27T18:45:11.655952"
         }
     ], 
     "publishers": [], 

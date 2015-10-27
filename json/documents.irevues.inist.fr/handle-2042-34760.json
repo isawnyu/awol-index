@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1118249151773587433", 
             "resource_date": "2010-12-13T09:17:22.930-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:09.146365"
+            "when": "2015-10-27T18:37:10.099051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-melto.html", 
             "resource_date": "2010-12-13T09:17:22.930-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:09.146382"
+            "when": "2015-10-27T18:37:10.099067"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5164999529556600170", 
             "resource_date": "2015-02-05T11:33:15.111-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:43.692957"
+            "when": "2015-10-27T18:43:14.386752"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-parole-de-lorient.html", 
             "resource_date": "2015-02-05T11:33:15.111-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:43.692974"
+            "when": "2015-10-27T18:43:14.386777"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:43.806280"
+            "when": "2015-10-27T18:43:14.499794"
         }
     ], 
     "publishers": [], 

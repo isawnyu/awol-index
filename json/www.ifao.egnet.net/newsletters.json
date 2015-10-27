@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Newsletter de l\u2019IFAO. Bonjour, comme vous le constatez, peut-\u00eatre avec surprise, s\u00fbrement avec satisfaction, l\u2019Ifao se dote d\u2019une Newsletter afin de porter de lui-m\u00eame des nouvelles de ses activit\u00e9s au nombreux public int\u00e9ress\u00e9 par ses recherches et ses publications, en \u00c9gypte comme \u00e0 l\u2019ext\u00e9rieur.", 
+    "description": "Newsletter de l’IFAO. Bonjour, comme vous le constatez, peut-être avec surprise, sûrement avec satisfaction, l’Ifao se dote d’une Newsletter afin de porter de lui-même des nouvelles de ses activités au nombreux public intéressé par ses recherches et ses publications, en Égypte comme à l’extérieur.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -19,7 +19,7 @@
         "journal", 
         "France", 
         "open access", 
-        "Institut fran\u00e7ais d'arch\u00e9ologie orientale", 
+        "Institut français d'archéologie orientale", 
         "newsletter"
     ], 
     "languages": [
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3541488509283501026", 
             "resource_date": "2014-10-22T12:01:17.486-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.602785"
+            "when": "2015-10-27T18:40:45.778763"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/open-access-journal-lettre-dinformation.html", 
             "resource_date": "2014-10-22T12:01:17.486-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.602803"
+            "when": "2015-10-27T18:40:45.778779"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8340995509150976962", 
             "resource_date": "2013-12-10T07:49:32.844-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:21.620197"
+            "when": "2015-10-27T18:47:09.780926"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-newsletter-de.html", 
             "resource_date": "2013-12-10T07:49:32.844-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:21.620212"
+            "when": "2015-10-27T18:47:09.780943"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:21.624641"
+            "when": "2015-10-27T18:47:09.785356"
         }
     ], 
     "publishers": [], 
@@ -155,15 +155,15 @@
             "url": "http://www.ifao.egnet.net/newsletters/2014-03/"
         }, 
         {
-            "title_full": "D\u00e9cembre 2013", 
+            "title_full": "Décembre 2013", 
             "url": "http://www.ifao.egnet.net/newsletters/2013-12/"
         }, 
         {
-            "title_full": "D\u00e9cembre 2013", 
+            "title_full": "Décembre 2013", 
             "url": "http://www.ifao.egnet.net/newsletters/2013-12/"
         }
     ], 
-    "title": "Lettre d\u2019information de l\u2019IFAO", 
+    "title": "Lettre d’information de l’IFAO", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

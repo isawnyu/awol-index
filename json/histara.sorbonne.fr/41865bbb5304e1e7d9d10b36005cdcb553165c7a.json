@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "!. Histara-les comptes rendus offers you a new function: our website now possesses an archive section for reviews already published in specialized journals. Thanks to the kind permission of the Presses Universitaires de France (PUF), the Revue Arch\u00e9ologique reviews of 1903, 1904, 1905 and 1906 are available on line and the integration of the rest of the Revue Arch\u00e9ologique reviews up to year 2000 is in process.", 
+    "description": "!. Histara-les comptes rendus offers you a new function: our website now possesses an archive section for reviews already published in specialized journals. Thanks to the kind permission of the Presses Universitaires de France (PUF), the Revue Archéologique reviews of 1903, 1904, 1905 and 1906 are available on line and the integration of the rest of the Revue Archéologique reviews up to year 2000 is in process.", 
     "domain": "histara.sorbonne.fr", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3872305943857269081", 
             "resource_date": "2014-09-16T11:24:12.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.054422"
+            "when": "2015-10-27T18:41:12.469787"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-histara.html", 
             "resource_date": "2014-09-16T11:24:12.048-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.054439"
+            "when": "2015-10-27T18:41:12.469804"
         }
     ], 
     "publishers": [], 

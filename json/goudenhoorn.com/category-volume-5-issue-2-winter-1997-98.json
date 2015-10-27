@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6235850757940739945", 
             "resource_date": "2015-05-07T10:13:10.301-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:54.297662"
+            "when": "2015-10-27T18:44:30.566148"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-gouden-hoorn.html", 
             "resource_date": "2015-05-07T10:13:10.301-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:54.297674"
+            "when": "2015-10-27T18:44:30.566169"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Volume 5 Issue 2 (Winter 1997-\u201998)", 
+    "title": "Volume 5 Issue 2 (Winter 1997-’98)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

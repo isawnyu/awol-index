@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 22 May 2011. Updated 25 March 2015]. Al\u00e9theia - Revista de estudos sobre Antig\u00fcidade e Medievo. ISSN: 1983-2087. A Revista Al\u00e9theia incentiva a divulga\u00e7\u00e3o de trabalhos acad\u00eamicos que abordem a Antiguidade e o Medievo, em \u00e2mbito nacional e internacional. Este peri\u00f3dico recebe publica\u00e7\u00f5es de pesquisadores de todas as \u00e1reas das Ci\u00eancias Humanas, em n\u00edvel de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o. Os trabalhos ser\u00e3o avaliados por pareceristas ad hoc, sendo veiculados de acordo com as exig\u00eancias estabelecidas nas normas de publica\u00e7\u00e3o.", 
+    "description": "[First posted in AWOL 22 May 2011. Updated 25 March 2015]. Alétheia - Revista de estudos sobre Antigüidade e Medievo. ISSN: 1983-2087. A Revista Alétheia incentiva a divulgação de trabalhos acadêmicos que abordem a Antiguidade e o Medievo, em âmbito nacional e internacional. Este periódico recebe publicações de pesquisadores de todas as áreas das Ciências Humanas, em nível de graduação e pós-graduação. Os trabalhos serão avaliados por pareceristas ad hoc, sendo veiculados de acordo com as exigências estabelecidas nas normas de publicação.", 
     "domain": "www.periodicos.ufrn.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Al\u00e9theia - Revista de estudos sobre Antig\u00fcidade e Medievo", 
+        "title_full": "Alétheia - Revista de estudos sobre Antigüidade e Medievo", 
         "url": "http://www.periodicos.ufrn.br/aletheia/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-180231614034105678", 
             "resource_date": "2015-03-25T15:40:48.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:59.029322"
+            "when": "2015-10-27T18:38:04.033496"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-aletheia-revista-de.html", 
             "resource_date": "2015-03-25T15:40:48.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:59.029335"
+            "when": "2015-10-27T18:38:04.033507"
         }
     ], 
     "publishers": [], 

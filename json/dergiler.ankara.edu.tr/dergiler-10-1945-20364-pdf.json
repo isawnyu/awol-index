@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Title: K\u00fcltepe metinlerinde ge\u00e7en Himtum kelimesinin anlam\u0131 \u00fczerine. Author(s):KAHYA, \u00d6mer. Vol. : 9 Issue: 1 Page: 057-072 DOI: 10. 1501/Archv_0000000006 Pub. Date: 2006.", 
+    "description": "Title: Kültepe metinlerinde geçen Himtum kelimesinin anlamı üzerine. Author(s):KAHYA, Ömer. Vol. : 9 Issue: 1 Page: 057-072 DOI: 10. 1501/Archv_0000000006 Pub. Date: 2006.", 
     "domain": "dergiler.ankara.edu.tr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Archivum Anatolicum = Anadolu ar\u015fiveleri", 
+        "title_full": "Archivum Anatolicum = Anadolu arşiveleri", 
         "url": "http://dergiler.ankara.edu.tr/eng/detail.php?id=10"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2890810951800579149", 
             "resource_date": "2015-02-16T09:15:16.998-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.814803"
+            "when": "2015-10-27T18:39:02.116114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-archivum-anatolicum.html", 
             "resource_date": "2015-02-16T09:15:16.998-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.814821"
+            "when": "2015-10-27T18:39:02.116126"
         }
     ], 
     "publishers": [], 

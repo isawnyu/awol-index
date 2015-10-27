@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 18 January 2012. Updated 6 March 2013]. Bulgarian E-Journal of Archaeology / \u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u043e \u0435-\u0421\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0437\u0430 \u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u044f. ISSN: 1314-5088.", 
+    "description": "[First posted in AWOL 18 January 2012. Updated 6 March 2013]. Bulgarian E-Journal of Archaeology / Българско е-Списание за Археология. ISSN: 1314-5088.", 
     "domain": "be-ja.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-407654350766902887", 
             "resource_date": "2013-03-06T11:45:31.982-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:58.660204"
+            "when": "2015-10-27T18:41:21.261204"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/new-open-access-journal-bulgarian-e.html", 
             "resource_date": "2013-03-06T11:45:31.982-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:58.660215"
+            "when": "2015-10-27T18:41:21.261216"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "In memoriam: \u041b\u044e\u0431\u0430 \u041e\u0433\u043d\u0435\u043d\u043e\u0432\u0430-\u041c\u0430\u0440\u0438\u043d\u043e\u0432\u0430 (1922-2012)", 
+    "title": "In memoriam: Люба Огненова-Маринова (1922-2012)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

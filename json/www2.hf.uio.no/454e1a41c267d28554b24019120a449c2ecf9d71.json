@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The library will contain Arabic texts that have been the basis of translations, and thus diffusion, of Arabic concepts throughout the areas of Islamic culture. The Qur\u2019an is naturally most important.", 
+    "description": "The library will contain Arabic texts that have been the basis of translations, and thus diffusion, of Arabic concepts throughout the areas of Islamic culture. The Qur’an is naturally most important.", 
     "domain": "www2.hf.uio.no", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4608169841004197165", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.263896"
+            "when": "2015-10-27T18:42:06.852726"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/bibliotheca-polyglotta.html", 
             "resource_date": "2014-10-11T07:44:04.266-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.263912"
+            "when": "2015-10-27T18:42:06.852737"
         }
     ], 
     "publishers": [], 

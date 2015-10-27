@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0627 -Our Organization.", 
+    "description": "سازمان ما -Our Organization.", 
     "domain": "sites.google.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7696267810864720297", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.183747"
+            "when": "2015-10-27T18:46:30.352885"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/society-for-iranian-archaeology-online.html", 
             "resource_date": "2015-05-11T11:48:13.949-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.183758"
+            "when": "2015-10-27T18:46:30.352896"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u0639\u0636\u0648\u06cc\u062a - Membership \u0628\u0647 \u0645\u0627 \u0628\u067e\u06cc\u0648\u0646\u062f\u06cc\u062f - Join Us \u062a\u0645\u062f\u06cc\u062f \u0639\u0636\u0648\u06cc\u062a - Renew Membership", 
+    "title": "عضویت - Membership به ما بپیوندید - Join Us تمدید عضویت - Renew Membership", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

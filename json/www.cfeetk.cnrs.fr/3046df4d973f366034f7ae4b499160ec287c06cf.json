@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Projet Karnak: Ach\u00e8vement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV.", 
+    "description": "Projet Karnak: Achèvement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV.", 
     "domain": "www.cfeetk.cnrs.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Projet Karnak : Ach\u00e8vement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
+        "title_full": "Projet Karnak : Achèvement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
         "url": "http://www.cfeetk.cnrs.fr/index.php?page=projet-karnak-chapelle-thoutmosis-iv"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953098528513572547", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.948089"
+            "when": "2015-10-27T18:45:19.122474"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/projet-karnak-achevement-de-la-mise-en.html", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.948105"
+            "when": "2015-10-27T18:45:19.122508"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6953098528513572547", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:37.950198"
+            "when": "2015-10-27T18:45:19.127032"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/projet-karnak-achevement-de-la-mise-en.html", 
             "resource_date": "2015-01-14T15:35:53.409-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:37.950210"
+            "when": "2015-10-27T18:45:19.127057"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:37.954339"
+            "when": "2015-10-27T18:45:19.135058"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Projet Karnak : Ach\u00e8vement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
+            "title_full": "Projet Karnak : Achèvement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
             "url": "http://www.cfeetk.cnrs.fr/index.php?page=projet-karnak-chapelle-thoutmosis-iv"
         }, 
         {
@@ -149,7 +149,7 @@
             "url": "http://www.cfeetk.cnrs.fr/karnak/?iu=3214"
         }
     ], 
-    "title": "Projet Karnak : Ach\u00e8vement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
+    "title": "Projet Karnak : Achèvement de la mise en ligne de la Chapelle de calcite de Thoutmosis IV", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

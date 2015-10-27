@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Th\u00fcr, G. and V\u00e9lissaropoulos-Karakostas, J. (Hrsgg. ): Symposion 1995. Vortr\u00e4ge zur griechischen und hellenistischen Rechtsgeschichte (Korfu, 1. -5. September 1995). B\u00f6hlau, K\u00f6ln, Weimar, Wien 1997, pp. 353-384. Chaniotis, Angelos (2007).", 
+    "description": "In: Thür, G. and Vélissaropoulos-Karakostas, J. (Hrsgg. ): Symposion 1995. Vorträge zur griechischen und hellenistischen Rechtsgeschichte (Korfu, 1. -5. September 1995). Böhlau, Köln, Weimar, Wien 1997, pp. 353-384. Chaniotis, Angelos (2007).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:58.319493"
+            "when": "2015-10-27T18:46:45.481557"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:58.319512"
+            "when": "2015-10-27T18:46:45.481571"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "'Tempeljustiz' im kaiserzeitlichen Kleinasien: Rechtliche Aspekte der S\u00fchneinschriften Lydiens und Phrygiens", 
+    "title": "'Tempeljustiz' im kaiserzeitlichen Kleinasien: Rechtliche Aspekte der Sühneinschriften Lydiens und Phrygiens", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

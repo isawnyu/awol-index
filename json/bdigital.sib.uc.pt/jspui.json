@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1323828307606567730", 
             "resource_date": "2014-06-05T08:11:32.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:24.550706"
+            "when": "2015-10-27T18:37:26.743641"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-digital-library-classica.html", 
             "resource_date": "2014-06-05T08:11:32.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:24.550724"
+            "when": "2015-10-27T18:37:26.743656"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1323828307606567730", 
             "resource_date": "2014-06-05T08:11:32.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:24.557717"
+            "when": "2015-10-27T18:37:26.751893"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-digital-library-classica.html", 
             "resource_date": "2014-06-05T08:11:32.547-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:24.557732"
+            "when": "2015-10-27T18:37:26.751908"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:25.759060"
+            "when": "2015-10-27T18:37:28.051738"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/"
         }, 
         {
-            "title_full": "Tavares de Pinho, Sebasti\u00e3o", 
+            "title_full": "Tavares de Pinho, Sebastião", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Tavares%20de%20Pinho,%20Sebasti%C3%A3o"
         }, 
         {
-            "title_full": "de Nazar\u00e9 Ferreira, Lu\u00edsa", 
+            "title_full": "de Nazaré Ferreira, Luísa", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20Nazar%C3%A9%20Ferreira,%20Lu%C3%ADsa"
         }, 
         {
@@ -176,23 +176,23 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Santoro,%20Mario"
         }, 
         {
-            "title_full": "Onelley, Gl\u00f3ria", 
+            "title_full": "Onelley, Glória", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Onelley,%20Gl%C3%B3ria"
         }, 
         {
-            "title_full": "Curado, Ana L\u00facia", 
+            "title_full": "Curado, Ana Lúcia", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Curado,%20Ana%20L%C3%BAcia"
         }, 
         {
-            "title_full": "Silva, Maria de F\u00e1tima", 
+            "title_full": "Silva, Maria de Fátima", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Silva,%20Maria%20de%20F%C3%A1tima"
         }, 
         {
-            "title_full": "de Estudos Cl\u00e1ssicos, Instituto", 
+            "title_full": "de Estudos Clássicos, Instituto", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20Estudos%20Cl%C3%A1ssicos,%20Instituto"
         }, 
         {
-            "title_full": "Ferreira Le\u00e3o, Delfim", 
+            "title_full": "Ferreira Leão, Delfim", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira%20Le%C3%A3o,%20Delfim"
         }, 
         {
@@ -200,11 +200,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Fernades%20Pereira,%20Belmiro"
         }, 
         {
-            "title_full": "L\u00f3pez, Aurora", 
+            "title_full": "López, Aurora", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=L%C3%B3pez,%20Aurora"
         }, 
         {
-            "title_full": "Poci\u00f1a, Andr\u00e9s", 
+            "title_full": "Pociña, Andrés", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Poci%C3%B1a,%20Andr%C3%A9s"
         }, 
         {
@@ -220,7 +220,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Jesus,%20Carlos%20Martins%20de"
         }, 
         {
-            "title_full": "Soares, Nair de Nazar\u00e9 Castro", 
+            "title_full": "Soares, Nair de Nazaré Castro", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Soares,%20Nair%20de%20Nazar%C3%A9%20Castro"
         }, 
         {
@@ -228,7 +228,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Marnoto,%20Rita,"
         }, 
         {
-            "title_full": "Ferreira, Jos\u00e9 Ribeiro", 
+            "title_full": "Ferreira, José Ribeiro", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira,%20Jos%C3%A9%20Ribeiro,"
         }, 
         {
@@ -236,11 +236,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Pinheiro,%20Joaquim,"
         }, 
         {
-            "title_full": "Margarida Brand\u00e3o Silva, Maria", 
+            "title_full": "Margarida Brandão Silva, Maria", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Margarida%20Brand%C3%A3o%20Silva,%20Maria"
         }, 
         {
-            "title_full": "da Costa Ramalho, Am\u00e9rico", 
+            "title_full": "da Costa Ramalho, Américo", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=da%20Costa%20Ramalho,%20Am%C3%A9rico"
         }, 
         {
@@ -248,15 +248,15 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=da%20Cruz%20Vieira,%20Dulce"
         }, 
         {
-            "title_full": "de Castro Nunes, Jo\u00e3o", 
+            "title_full": "de Castro Nunes, João", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20Castro%20Nunes,%20Jo%C3%A3o"
         }, 
         {
-            "title_full": "Le\u00e3o, Delfim Ferreira", 
+            "title_full": "Leão, Delfim Ferreira", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Le%C3%A3o,%20Delfim%20Ferreira,"
         }, 
         {
-            "title_full": "Fialho, Maria do C\u00e9u", 
+            "title_full": "Fialho, Maria do Céu", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Fialho,%20Maria%20do%20C%C3%A9u,"
         }, 
         {
@@ -264,7 +264,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Morais,%20Rui"
         }, 
         {
-            "title_full": "Freire, Jos\u00e9 Geraldes", 
+            "title_full": "Freire, José Geraldes", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Freire,%20Jos%C3%A9%20Geraldes"
         }, 
         {
@@ -276,7 +276,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Dias,%20Paula%20Barata"
         }, 
         {
-            "title_full": "Ribeiro Ferreira, Jos\u00e9", 
+            "title_full": "Ribeiro Ferreira, José", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ribeiro%20Ferreira,%20Jos%C3%A9"
         }, 
         {
@@ -288,7 +288,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Pinheiro,%20Joaquim"
         }, 
         {
-            "title_full": "Lu\u00eds Lopes Brand\u00e3o, Jos\u00e9", 
+            "title_full": "Luís Lopes Brandão, José", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Lu%C3%ADs%20Lopes%20Brand%C3%A3o,%20Jos%C3%A9"
         }, 
         {
@@ -304,7 +304,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Hora%20Marques,%20Susana"
         }, 
         {
-            "title_full": "Le\u00e3o, Delfim", 
+            "title_full": "Leão, Delfim", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Le%C3%A3o,%20Delfim"
         }, 
         {
@@ -320,7 +320,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Iglesias-Zoido,%20Juan%20Carlos"
         }, 
         {
-            "title_full": "Barbosa, Tereza Virg\u00ednia Ribeiro", 
+            "title_full": "Barbosa, Tereza Virgínia Ribeiro", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Barbosa,%20Tereza%20Virg%C3%ADnia%20Ribeiro"
         }, 
         {
@@ -340,7 +340,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Oliveira,%20Francisco%20de,"
         }, 
         {
-            "title_full": "Teixeira, Cl\u00e1udia", 
+            "title_full": "Teixeira, Cláudia", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Teixeira,%20Cl%C3%A1udia,"
         }, 
         {
@@ -348,7 +348,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Dias,%20Paula%20Barata,"
         }, 
         {
-            "title_full": "Espa\u00e7os e Paisagens. Antiguidade Cl\u00e1ssica e Heran\u00e7as Contempor\u00e2neas. Vol. 2 - L\u00ednguas e Literaturas. Idade M\u00e9dia. Renascimento. Recep\u00e7\u00e3o", 
+            "title_full": "Espaços e Paisagens. Antiguidade Clássica e Heranças Contemporâneas. Vol. 2 - Línguas e Literaturas. Idade Média. Renascimento. Recepção", 
             "url": "https://bdigital.sib.uc.pt/jspui/handle/123456789/18"
         }, 
         {
@@ -360,7 +360,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Oliveira,%20Jorge%20de"
         }, 
         {
-            "title_full": "Patroc\u00ednio, Manuel", 
+            "title_full": "Patrocínio, Manuel", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Patroc%C3%ADnio,%20Manuel"
         }, 
         {
@@ -368,7 +368,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Soares,%20Carmen%20Isabel%20Leal,"
         }, 
         {
-            "title_full": "Rodrigues, Nuno Sim\u00f5es", 
+            "title_full": "Rodrigues, Nuno Simões", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20Nuno%20Sim%C3%B5es"
         }, 
         {
@@ -380,7 +380,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Morais,%20Carlos"
         }, 
         {
-            "title_full": "Ferreira, Lu\u00edsa de Nazar\u00e9", 
+            "title_full": "Ferreira, Luísa de Nazaré", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira,%20Lu%C3%ADsa%20de%20Nazar%C3%A9,"
         }, 
         {
@@ -388,7 +388,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Carvalho,%20Teresa,"
         }, 
         {
-            "title_full": "Gouv\u00eaa J\u00fanior, M\u00e1rcio Meirelles", 
+            "title_full": "Gouvêa Júnior, Márcio Meirelles", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Gouv%C3%AAa%20J%C3%BAnior,%20M%C3%A1rcio%20Meirelles,"
         }, 
         {
@@ -408,23 +408,23 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Filho,%20Claudio%20Castro"
         }, 
         {
-            "title_full": "Ferreira, Jos\u00e9 Ribeiro", 
+            "title_full": "Ferreira, José Ribeiro", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira,%20Jos%C3%A9%20Ribeiro"
         }, 
         {
-            "title_full": "Manso, Jos\u00e9 Henrique", 
+            "title_full": "Manso, José Henrique", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Manso,%20Jos%C3%A9%20Henrique"
         }, 
         {
-            "title_full": "Ar\u00e1tor", 
+            "title_full": "Arátor", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ar%C3%A1tor"
         }, 
         {
-            "title_full": "Teixeira, Cl\u00e1udia A", 
+            "title_full": "Teixeira, Cláudia A", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Teixeira,%20Cl%C3%A1udia%20A."
         }, 
         {
-            "title_full": "Brand\u00e3o, Jos\u00e9 Lu\u00eds", 
+            "title_full": "Brandão, José Luís", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Brand%C3%A3o,%20Jos%C3%A9%20Lu%C3%ADs"
         }, 
         {
@@ -432,11 +432,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20Nuno%20S."
         }, 
         {
-            "title_full": "Mu\u00f1oz Mart\u00edn, M. Nieves", 
+            "title_full": "Muñoz Martín, M. Nieves", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Mu%C3%B1oz%20Mart%C3%ADn,%20M.%20Nieves"
         }, 
         {
-            "title_full": "S\u00e1nchez Mar\u00edn, Jos\u00e9 A", 
+            "title_full": "Sánchez Marín, José A", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=S%C3%A1nchez%20Mar%C3%ADn,%20Jos%C3%A9%20A."
         }, 
         {
@@ -452,11 +452,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Pereira,%20%20Maria%20Helena%20da%20Rocha,"
         }, 
         {
-            "title_full": "Andrade, Ant\u00f3nio", 
+            "title_full": "Andrade, António", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Andrade,%20Ant%C3%B3nio"
         }, 
         {
-            "title_full": "Torr\u00e3o, Jo\u00e3o", 
+            "title_full": "Torrão, João", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Torr%C3%A3o,%20Jo%C3%A3o"
         }, 
         {
@@ -464,7 +464,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Costa,%20Jorge"
         }, 
         {
-            "title_full": "Costa, J\u00falio", 
+            "title_full": "Costa, Júlio", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Costa,%20J%C3%BAlio"
         }, 
         {
@@ -472,7 +472,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Alberto%20Louro%20Fonseca,%20Carlos"
         }, 
         {
-            "title_full": "Rodrigues, \u00c1lia Rosa", 
+            "title_full": "Rodrigues, Ália Rosa", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20%C3%81lia%20Rosa"
         }, 
         {
@@ -488,7 +488,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Nobre,%20Ricardo,"
         }, 
         {
-            "title_full": "Susana Vieira Gon\u00e7alves, Carla", 
+            "title_full": "Susana Vieira Gonçalves, Carla", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Susana%20Vieira%20Gon%C3%A7alves,%20Carla"
         }, 
         {
@@ -512,35 +512,35 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Campos,%20J.%20A.%20Segurado%20e,"
         }, 
         {
-            "title_full": "Magueijo, Cust\u00f3dio", 
+            "title_full": "Magueijo, Custódio", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Magueijo,%20Cust%C3%B3dio"
         }, 
         {
-            "title_full": "do C\u00e9u Zambujo Fialho, Maria", 
+            "title_full": "do Céu Zambujo Fialho, Maria", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=do%20C%C3%A9u%20Zambujo%20Fialho,%20Maria"
         }, 
         {
-            "title_full": "Louren\u00e7o, Frederico", 
+            "title_full": "Lourenço, Frederico", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Louren%C3%A7o,%20Frederico"
         }, 
         {
-            "title_full": "Brand\u00e3o, Jos\u00e9 Lu\u00eds Lopes", 
+            "title_full": "Brandão, José Luís Lopes", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Brand%C3%A3o,%20Jos%C3%A9%20Lu%C3%ADs%20Lopes,"
         }, 
         {
-            "title_full": "Alves Os\u00f3rio, Jorge", 
+            "title_full": "Alves Osório, Jorge", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Alves%20Os%C3%B3rio,%20Jorge"
         }, 
         {
-            "title_full": "Ramos, Jos\u00e9 Augusto", 
+            "title_full": "Ramos, José Augusto", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ramos,%20Jos%C3%A9%20Augusto"
         }, 
         {
-            "title_full": "Ferreira, Lu\u00edsa de Nazar\u00e9", 
+            "title_full": "Ferreira, Luísa de Nazaré", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira,%20Lu%C3%ADsa%20de%20Nazar%C3%A9"
         }, 
         {
-            "title_full": "Soares, Martinho Tom\u00e9 Martins", 
+            "title_full": "Soares, Martinho Tomé Martins", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Soares,%20Martinho%20Tom%C3%A9%20Martins,"
         }, 
         {
@@ -588,7 +588,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Fedeli,%20Paolo"
         }, 
         {
-            "title_full": "Rodrigues, \u00c1lia", 
+            "title_full": "Rodrigues, Ália", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20%C3%81lia"
         }, 
         {
@@ -604,11 +604,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Miranda%20Urbano,%20Carlota"
         }, 
         {
-            "title_full": "S\u00e9rgio Margarido Ferreira, Paulo", 
+            "title_full": "Sérgio Margarido Ferreira, Paulo", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=S%C3%A9rgio%20Margarido%20Ferreira,%20Paulo"
         }, 
         {
-            "title_full": "de F\u00e1tima Silva, Maria", 
+            "title_full": "de Fátima Silva, Maria", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20F%C3%A1tima%20Silva,%20Maria"
         }, 
         {
@@ -624,11 +624,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Plauto"
         }, 
         {
-            "title_full": "Matias, Mariana Montalv\u00e3o", 
+            "title_full": "Matias, Mariana Montalvão", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Matias,%20Mariana%20Montalv%C3%A3o"
         }, 
         {
-            "title_full": "Ramalho, Am\u00e9rico da Costa", 
+            "title_full": "Ramalho, Américo da Costa", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ramalho,%20Am%C3%A9rico%20da%20Costa"
         }, 
         {
@@ -636,27 +636,27 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Pimentel,%20Maria%20Cristina%20de%20Sousa"
         }, 
         {
-            "title_full": "Fialho, Maria do C\u00e9u", 
+            "title_full": "Fialho, Maria do Céu", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Fialho,%20Maria%20do%20C%C3%A9u"
         }, 
         {
-            "title_full": "Rodrigues, Paulo Sim\u00f5es", 
+            "title_full": "Rodrigues, Paulo Simões", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20Paulo%20Sim%C3%B5es"
         }, 
         {
-            "title_full": "Ribeiro Ferreira, Jos\u00e9 (coord.)", 
+            "title_full": "Ribeiro Ferreira, José (coord.)", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ribeiro%20Ferreira,%20Jos%C3%A9%20%28coord.%29"
         }, 
         {
-            "title_full": "Brand\u00e3o, Jos\u00e9 Lu\u00eds Lopes", 
+            "title_full": "Brandão, José Luís Lopes", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Brand%C3%A3o,%20Jos%C3%A9%20Lu%C3%ADs%20Lopes"
         }, 
         {
-            "title_full": "V\u00e1rzeas, Marta", 
+            "title_full": "Várzeas, Marta", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=V%C3%A1rzeas,%20Marta"
         }, 
         {
-            "title_full": "de Oliveira Pulqu\u00e9rio, Manuel", 
+            "title_full": "de Oliveira Pulquério, Manuel", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20Oliveira%20Pulqu%C3%A9rio,%20Manuel"
         }, 
         {
@@ -680,7 +680,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Cornelli%20%28Org.%29,%20Gabriele"
         }, 
         {
-            "title_full": "de F\u00e1tima Sousa e Silva, Maria (coord.)", 
+            "title_full": "de Fátima Sousa e Silva, Maria (coord.)", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20F%C3%A1tima%20Sousa%20e%20Silva,%20Maria%20%28coord.%29"
         }, 
         {
@@ -688,15 +688,15 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Carvalho,%20Sofia"
         }, 
         {
-            "title_full": "Corr\u00eaa-Cardoso, Jo\u00e3o", 
+            "title_full": "Corrêa-Cardoso, João", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Corr%C3%AAa-Cardoso,%20Jo%C3%A3o"
         }, 
         {
-            "title_full": "Cerqueira, F\u00e1bio", 
+            "title_full": "Cerqueira, Fábio", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Cerqueira,%20F%C3%A1bio"
         }, 
         {
-            "title_full": "Gon\u00e7alves, Ana Teresa", 
+            "title_full": "Gonçalves, Ana Teresa", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Gon%C3%A7alves,%20Ana%20Teresa"
         }, 
         {
@@ -704,7 +704,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Medeiros,%20Edalaura"
         }, 
         {
-            "title_full": "Brand\u00e3o, Jose Lu\u00eds", 
+            "title_full": "Brandão, Jose Luís", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Brand%C3%A3o,%20Jose%20Lu%C3%ADs"
         }, 
         {
@@ -712,7 +712,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Sousa,%20Ana%20Alexandra%20Alves%20de"
         }, 
         {
-            "title_full": "Almeida, Jo\u00e3o Paulo Barros", 
+            "title_full": "Almeida, João Paulo Barros", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Almeida,%20Jo%C3%A3o%20Paulo%20Barros"
         }, 
         {
@@ -720,11 +720,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Barata%20Dias,%20Paula"
         }, 
         {
-            "title_full": "Guimar\u00e3es, Joana", 
+            "title_full": "Guimarães, Joana", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Guimar%C3%A3es,%20Joana"
         }, 
         {
-            "title_full": "Tr\u00f6ster, Manuel", 
+            "title_full": "Tröster, Manuel", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Tr%C3%B6ster,%20Manuel,"
         }, 
         {
@@ -732,11 +732,11 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Earl,%20Martin,"
         }, 
         {
-            "title_full": "Ferreira, Paulo S\u00e9rgio Margarido", 
+            "title_full": "Ferreira, Paulo Sérgio Margarido", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ferreira,%20Paulo%20S%C3%A9rgio%20Margarido,"
         }, 
         {
-            "title_full": "Lu\u00eds L. Brand\u00e3o, Jos\u00e9", 
+            "title_full": "Luís L. Brandão, José", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Lu%C3%ADs%20L.%20Brand%C3%A3o,%20Jos%C3%A9"
         }, 
         {
@@ -744,7 +744,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=de%20Sousa%20Pimentel,%20Cristina"
         }, 
         {
-            "title_full": "F. Le\u00e3o, Delfim", 
+            "title_full": "F. Leão, Delfim", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=F.%20Le%C3%A3o,%20Delfim"
         }, 
         {
@@ -756,15 +756,15 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Marques,%20Susana%20Hora"
         }, 
         {
-            "title_full": "Frazier, Fran\u00e7oise", 
+            "title_full": "Frazier, Françoise", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Frazier,%20Fran%C3%A7oise"
         }, 
         {
-            "title_full": "Le\u00e3o, Delfim F", 
+            "title_full": "Leão, Delfim F", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Le%C3%A3o,%20Delfim%20F."
         }, 
         {
-            "title_full": "Ascenso Andr\u00e9, Carlos", 
+            "title_full": "Ascenso André, Carlos", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Ascenso%20Andr%C3%A9,%20Carlos"
         }, 
         {
@@ -776,7 +776,7 @@
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Vieira%20Duque,%20J.M."
         }, 
         {
-            "title_full": "Rodrigues, \u00c1lia da Concei\u00e7\u00e3o", 
+            "title_full": "Rodrigues, Ália da Conceição", 
             "url": "https://bdigital.sib.uc.pt/jspui/browse?type=author&value=Rodrigues,%20%C3%81lia%20da%20Concei%C3%A7%C3%A3o,"
         }, 
         {

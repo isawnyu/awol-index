@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Dacia: Revue d'arch\u00e9ologie et d'histoire ancienne. ISSN: 0070-251X. Revista Dacia a fost fondat\u0103 \u00een 1924 de c\u0103tre arheologul Vasile P\u00e2rvan, unul din \u00eentemeietorii \u015fcolii arheologice rom\u00e2ne\u015fti. Prima serie a ap\u0103rut \u00een perioada 1924-1947 (Dacia. Recherches et d\u00e9couvertes arch\u00e9ologiques en Roumanie), ca revist\u0103 a Muzeului Na\u0163ional de Antichit\u0103\u0163i, fiind apoi interzis\u0103 de autorit\u0103\u0163ile comuniste. Seria nou\u0103 \u00eencepe \u00een 1957 (Dacia. Revue d\u2019arch\u00e9ologie et d\u2019histoire ancienne), ca revist\u0103 a noului Institut de Arheologie al Academiei Rom\u00e2ne. Revista noastr\u0103 public\u0103, \u00een englez\u0103, francez\u0103, german\u0103 \u015fi italian\u0103, \u00een urma unui proces de peer-review, articole, note \u015fi recenzii de arheologie \u015fi istorie referitoare la un spectru cronologic larg, din paleolitic p\u00een\u0103 \u00een evul mediu, incluz\u00e2nd perspective din alte discipline (istoria artei, \u015ftiin\u0163e sociale etc. ), cu o aten\u0163ie special\u0103 pentru contribu\u0163iile dedicate Europei de sud-est \u015fi ariilor \u00eenvecinate. Recunoa\u015fterea interna\u0163ional\u0103 a calit\u0103\u0163ilor revistei Dacia ne permite s\u0103 o distribuim prin schimb la un num\u0103r de 350 parteneri din toat\u0103 lumea.", 
+    "description": "Dacia: Revue d'archéologie et d'histoire ancienne. ISSN: 0070-251X. Revista Dacia a fost fondată în 1924 de către arheologul Vasile Pârvan, unul din întemeietorii şcolii arheologice româneşti. Prima serie a apărut în perioada 1924-1947 (Dacia. Recherches et découvertes archéologiques en Roumanie), ca revistă a Muzeului Naţional de Antichităţi, fiind apoi interzisă de autorităţile comuniste. Seria nouă începe în 1957 (Dacia. Revue d’archéologie et d’histoire ancienne), ca revistă a noului Institut de Arheologie al Academiei Române. Revista noastră publică, în engleză, franceză, germană şi italiană, în urma unui proces de peer-review, articole, note şi recenzii de arheologie şi istorie referitoare la un spectru cronologic larg, din paleolitic pînă în evul mediu, incluzând perspective din alte discipline (istoria artei, ştiinţe sociale etc. ), cu o atenţie specială pentru contribuţiile dedicate Europei de sud-est şi ariilor învecinate. Recunoaşterea internaţională a calităţilor revistei Dacia ne permite să o distribuim prin schimb la un număr de 350 parteneri din toată lumea.", 
     "domain": "www.daciajournal.ro", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Dacia: Revue d'arch\u00e9ologie et d'histoire ancienne", 
+        "title_full": "Dacia: Revue d'archéologie et d'histoire ancienne", 
         "url": "http://www.daciajournal.ro/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7516184838560445669", 
             "resource_date": "2015-06-14T09:48:48.952-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:11.756767"
+            "when": "2015-10-27T18:45:56.025930"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-dacia-revue.html", 
             "resource_date": "2015-06-14T09:48:48.952-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:11.756796"
+            "when": "2015-10-27T18:45:56.025943"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "D'Olbia \u00e0 Tana\u00efs: territoires et r\u00e9seaux d'\u00e9changes dans la mer Noire septentrionnale aux \u00e9poques classique et hell\u00e9nistique.", 
+    "description": "D'Olbia à Tanaïs: territoires et réseaux d'échanges dans la mer Noire septentrionnale aux époques classique et hellénistique.", 
     "domain": "ausoniuseditions.u-bordeaux-montaigne.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "D'Olbia \u00e0 Tana\u00efs : territoires et r\u00e9seaux d'\u00e9changes dans la mer Noire septentrionnale aux \u00e9poques classique et hell\u00e9nistique", 
+        "title_full": "D'Olbia à Tanaïs : territoires et réseaux d'échanges dans la mer Noire septentrionnale aux époques classique et hellénistique", 
         "url": "http://ausoniuseditions.u-bordeaux-montaigne.fr/aloha/pdfr/978-2-35613-035-8.pdf"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2567531003469363989", 
             "resource_date": "2015-02-08T22:41:43.972-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.491314"
+            "when": "2015-10-27T18:38:48.616175"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/dolbia-tanais-territoires-et-reseaux.html", 
             "resource_date": "2015-02-08T22:41:43.972-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.491331"
+            "when": "2015-10-27T18:38:48.616192"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2567531003469363989", 
             "resource_date": "2015-02-08T22:41:43.972-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:40.494064"
+            "when": "2015-10-27T18:38:48.618530"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/dolbia-tanais-territoires-et-reseaux.html", 
             "resource_date": "2015-02-08T22:41:43.972-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:40.494081"
+            "when": "2015-10-27T18:38:48.618543"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:40.499480"
+            "when": "2015-10-27T18:38:48.624594"
         }
     ], 
     "publishers": [], 
@@ -140,11 +140,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "D'Olbia \u00e0 Tana\u00efs : territoires et r\u00e9seaux d'\u00e9changes dans la mer Noire septentrionnale aux \u00e9poques classique et hell\u00e9nistique", 
+            "title_full": "D'Olbia à Tanaïs : territoires et réseaux d'échanges dans la mer Noire septentrionnale aux époques classique et hellénistique", 
             "url": "http://ausoniuseditions.u-bordeaux-montaigne.fr/aloha/pdfr/978-2-35613-035-8.pdf"
         }, 
         {
-            "title_full": "M\u00fcller Christel", 
+            "title_full": "Müller Christel", 
             "url": "http://ausoniuseditions.u-bordeaux-montaigne.fr/fr/index.php/collections/scripta-antiqua?auteur=M%C3%BCller+Christel"
         }, 
         {
@@ -152,7 +152,7 @@
             "url": "http://ausoniuseditions.u-bordeaux-montaigne.fr/fr/index.php/collections/scripta-antiqua?coll=Scripta%20antiqua"
         }
     ], 
-    "title": "D'Olbia \u00e0 Tana\u00efs : territoires et r\u00e9seaux d'\u00e9changes dans la mer Noire septentrionnale aux \u00e9poques classique et hell\u00e9nistique", 
+    "title": "D'Olbia à Tanaïs : territoires et réseaux d'échanges dans la mer Noire septentrionnale aux époques classique et hellénistique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "rassembl\u00e9e ici est bas\u00e9e au premier chef sur les 12 principales collections institutionnelles de r\u00e9f\u00e9rence (Paris, Londres, Oxford, Vienne, Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge, Berlin, New York) qui ont \u00e9t\u00e9 \u00e9tudi\u00e9es et num\u00e9ris\u00e9es exhaustivement gr\u00e2ce \u00e0 l\u2019accord de leurs conservateurs. Qu\u2019ils en soient ici chaleureusement remerci\u00e9s: sans eux, ce travail n\u2019aurait pu voir le jour. La base de donn\u00e9es compte \u00e0 l\u2019heure actuelle plus de 4540.", 
+    "description": "rassemblée ici est basée au premier chef sur les 12 principales collections institutionnelles de référence (Paris, Londres, Oxford, Vienne, Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge, Berlin, New York) qui ont été étudiées et numérisées exhaustivement grâce à l’accord de leurs conservateurs. Qu’ils en soient ici chaleureusement remerciés: sans eux, ce travail n’aurait pu voir le jour. La base de données compte à l’heure actuelle plus de 4540.", 
     "domain": "www.ric.mom.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2907513398071813917", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.991311"
+            "when": "2015-10-27T18:39:02.267407"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/roman-imperial-coinage-ad-268-276.html", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.991328"
+            "when": "2015-10-27T18:39:02.267439"
         }
     ], 
     "publishers": [], 

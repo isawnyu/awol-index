@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7698355387808772715", 
             "resource_date": "2013-10-10T11:45:43.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.888670"
+            "when": "2015-10-27T18:46:31.142116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-analecta.html", 
             "resource_date": "2013-10-10T11:45:43.294-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.888683"
+            "when": "2015-10-27T18:46:31.142128"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Some remarks on early medieval chur-ches in Krak\u00f3w", 
+    "title": "Some remarks on early medieval chur-ches in Kraków", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

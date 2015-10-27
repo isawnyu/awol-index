@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Fitzenreiter, Martin and Herb, M. (Hrsgg. ): Dekorierte Grabanlagen im Alten Reich. Methodik und Interpretation, Internet. Beitr\u00e4ge zur \u00c4gyptologie und Sudanarch\u00e4ologie. London 2006, pp. 19-36. Altenm\u00fcller, Hartwig (1986).", 
+    "description": "In: Fitzenreiter, Martin and Herb, M. (Hrsgg. ): Dekorierte Grabanlagen im Alten Reich. Methodik und Interpretation, Internet. Beiträge zur Ägyptologie und Sudanarchäologie. London 2006, pp. 19-36. Altenmüller, Hartwig (1986).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.006401"
+            "when": "2015-10-27T18:39:57.326428"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.006417"
+            "when": "2015-10-27T18:39:57.326445"
         }
     ], 
     "publishers": [], 

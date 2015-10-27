@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Auteur: Alain Anselin, Universit\u00e9 des Antilles-Guyane. R\u00e9sum\u00e9: \"Deux d\u00e9cennies de recherches n'ont pas fini de renouveler de mani\u00e8re radicale la vision classique des premiers \u00e2ges de l'Egypte pharaonique. L'\u00e9cheveau des donn\u00e9es s'av\u00e8re complexe, sujet \u00e0 un renouvellement permanent de l'\u00e9tat des connaissances. \". Cet article est paru dans la revue Apuntes de Egiptologia n\u00b03.", 
+    "description": "Auteur: Alain Anselin, Université des Antilles-Guyane. Résumé: \"Deux décennies de recherches n'ont pas fini de renouveler de manière radicale la vision classique des premiers âges de l'Egypte pharaonique. L'écheveau des données s'avère complexe, sujet à un renouvellement permanent de l'état des connaissances. \". Cet article est paru dans la revue Apuntes de Egiptologia n°3.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353794619872537154", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:30.474448"
+            "when": "2015-10-27T18:40:45.610383"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/egyotilogical-wiki-culture-diff.html", 
             "resource_date": "2014-10-02T16:48:01.732-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:30.474461"
+            "when": "2015-10-27T18:40:45.610397"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "R\u00e9flexions autour des noms \u00e9gyptiens de l'oeil. A propos de d\u00e9couvertes arch\u00e9ologiques r\u00e9centes dans le delta", 
+    "title": "Réflexions autour des noms égyptiens de l'oeil. A propos de découvertes archéologiques récentes dans le delta", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

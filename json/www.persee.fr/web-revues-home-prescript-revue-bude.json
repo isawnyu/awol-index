@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de l'Association Guillaum Bud\u00e9. ISSN: 0004-5527.", 
+    "description": "Bulletin de l'Association Guillaum Budé. ISSN: 0004-5527.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1582488232425081359", 
             "resource_date": "2015-02-18T06:52:20.714-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:48.105063"
+            "when": "2015-10-27T18:37:51.870525"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-bulletins-de.html", 
             "resource_date": "2015-02-18T06:52:20.714-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:48.105077"
+            "when": "2015-10-27T18:37:51.870542"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.666145"
+            "when": "2015-10-27T18:38:36.946988"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.666161"
+            "when": "2015-10-27T18:38:36.947000"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:28.788911"
+            "when": "2015-10-27T18:38:37.035171"
         }
     ], 
     "publishers": [], 
@@ -1010,7 +1010,7 @@
             "url": "http://www.persee.fr/web/revues/home/prescript/issue/bude_0004-5527_2010_num_1_2"
         }
     ], 
-    "title": "Bulletin de l'Association Guillaume Bud\u00e9", 
+    "title": "Bulletin de l'Association Guillaume Budé", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

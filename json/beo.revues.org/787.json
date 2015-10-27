@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Tome LX | mai 2011. Ann\u00e9e 2011.", 
+    "description": "Tome LX | mai 2011. Année 2011.", 
     "domain": "beo.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bulletin d\u2019\u00e9tudes orientales", 
+        "title_full": "Bulletin d’études orientales", 
         "url": "http://beo.revues.org/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4384286671862001990", 
             "resource_date": "2013-12-25T09:44:24.764-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:26.496911"
+            "when": "2015-10-27T18:41:52.003631"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/open-access-to-bulletin-detudes.html", 
             "resource_date": "2013-12-25T09:44:24.764-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:26.496922"
+            "when": "2015-10-27T18:41:52.003642"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Tome LXI | d\u00e9cembre 2012 . Damas m\u00e9di\u00e9vale et ottomane. Histoire urbaine, soci\u00e9t\u00e9 et culture mat\u00e9rielle", 
+    "title": "Tome LXI | décembre 2012 . Damas médiévale et ottomane. Histoire urbaine, société et culture matérielle", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

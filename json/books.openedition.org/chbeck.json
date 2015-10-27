@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Classical Studies Books from Verlag C. H. Beck in Open Edition. Der Verlag C. H. Beck, gegr\u00fcndet im Jahr 1763, z\u00e4hlt zu den gro\u00dfen und traditionsreichen Namen im deutschen Verlagswesen. Sein Programm umfasst mehr als 9. 000 lieferbare Titel und 70 Zeitschriften zu unterschiedlichsten Themen aus den Bereichen Recht, Geschichte, Theologie, Altertums\u00acwissenschaften, Literaturgeschichte, Kunstgeschichte, Naturwissenschaften und Wirtschaft. Mit einer j\u00e4hrlichen Produktion von bis zu 1. 500 Neuerscheinungen und mehr als 14. 000 Autoren rangiert der Verlag auch quantitativ unter den gro\u00dfen deutschen Buch- und Zeitschriftenverlagen. Der Hauptsitz des Verlags ist in M\u00fcnchen, Dependancen befinden sich in Warschau, Prag, Basel, Bukarest und Bratislava. Seit den sp\u00e4ten 1980er Jahren erweitert C. H. Beck seine Publikationst\u00e4tigkeit um den Bereich des elektronischen Publizierens.", 
+    "description": "Classical Studies Books from Verlag C. H. Beck in Open Edition. Der Verlag C. H. Beck, gegründet im Jahr 1763, zählt zu den großen und traditionsreichen Namen im deutschen Verlagswesen. Sein Programm umfasst mehr als 9. 000 lieferbare Titel und 70 Zeitschriften zu unterschiedlichsten Themen aus den Bereichen Recht, Geschichte, Theologie, Altertums¬wissenschaften, Literaturgeschichte, Kunstgeschichte, Naturwissenschaften und Wirtschaft. Mit einer jährlichen Produktion von bis zu 1. 500 Neuerscheinungen und mehr als 14. 000 Autoren rangiert der Verlag auch quantitativ unter den großen deutschen Buch- und Zeitschriftenverlagen. Der Hauptsitz des Verlags ist in München, Dependancen befinden sich in Warschau, Prag, Basel, Bukarest und Bratislava. Seit den späten 1980er Jahren erweitert C. H. Beck seine Publikationstätigkeit um den Bereich des elektronischen Publizierens.", 
     "domain": "books.openedition.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7641405610406812233", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:16.867611"
+            "when": "2015-10-27T18:46:01.365761"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-classical-studies-books.html", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:16.867628"
+            "when": "2015-10-27T18:46:01.365777"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7641405610406812233", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:16.872796"
+            "when": "2015-10-27T18:46:01.371100"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-classical-studies-books.html", 
             "resource_date": "2014-06-17T18:27:01.958-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:16.872811"
+            "when": "2015-10-27T18:46:01.371115"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:16.955330"
+            "when": "2015-10-27T18:46:01.457166"
         }
     ], 
     "publishers": [], 
@@ -163,7 +163,7 @@
             "url": "http://books.openedition.org/chbeck/1469"
         }, 
         {
-            "title_full": "G\u00f6tter und menschliche Willensfreiheit Von Lucan bis Silius Italicus Thomas Baier (dir.) 2012 ..", 
+            "title_full": "Götter und menschliche Willensfreiheit Von Lucan bis Silius Italicus Thomas Baier (dir.) 2012 ..", 
             "url": "http://books.openedition.org/chbeck/1422"
         }, 
         {
@@ -187,23 +187,23 @@
             "url": "http://books.openedition.org/chbeck/1334"
         }, 
         {
-            "title_full": "Die Het\u00e4re in der griechischen und r\u00f6mischen Kom\u00f6die Ulrike Auhagen 2009 ..", 
+            "title_full": "Die Hetäre in der griechischen und römischen Komödie Ulrike Auhagen 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1311"
         }, 
         {
-            "title_full": "Wissen, Kommunikation und Selbstdarstellung Zur Struktur und Charakteristik r\u00f6mischer Fachtexte der fr\u00fchen Kaiserzeit Thorsten F\u00f6gen 2009 ..", 
+            "title_full": "Wissen, Kommunikation und Selbstdarstellung Zur Struktur und Charakteristik römischer Fachtexte der frühen Kaiserzeit Thorsten Fögen 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1294"
         }, 
         {
-            "title_full": "Aischylos. Interpretationen zum Verst\u00e4ndnis seiner Theologie Robert Bees 2009 ..", 
+            "title_full": "Aischylos. Interpretationen zum Verständnis seiner Theologie Robert Bees 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1281"
         }, 
         {
-            "title_full": "Die semiotische Erkenntnistheorie Platons im Siebten Brief Eine Einf\u00fchrung in den sogenannten philosophischen Exkurs Maria Liatsi 2008 ..", 
+            "title_full": "Die semiotische Erkenntnistheorie Platons im Siebten Brief Eine Einführung in den sogenannten philosophischen Exkurs Maria Liatsi 2008 ..", 
             "url": "http://books.openedition.org/chbeck/1260"
         }, 
         {
-            "title_full": "M\u00fcnchener Beitr\u00e4ge zur Papyrusforschung und antiken Rechtsgeschichte", 
+            "title_full": "Münchener Beiträge zur Papyrusforschung und antiken Rechtsgeschichte", 
             "url": "http://books.openedition.org/chbeck/91"
         }, 
         {
@@ -215,19 +215,19 @@
             "url": "http://books.openedition.org/chbeck/91#intro-91-en"
         }, 
         {
-            "title_full": "Die Wirtschaft \u00c4gyptens in hellenistischer Zeit Werner Hu\u00df 2012 ..", 
+            "title_full": "Die Wirtschaft Ägyptens in hellenistischer Zeit Werner Huß 2012 ..", 
             "url": "http://books.openedition.org/chbeck/1242"
         }, 
         {
-            "title_full": "Die Verwaltung des ptolemaiischen Reichs Werner Hu\u00df 2011 ..", 
+            "title_full": "Die Verwaltung des ptolemaiischen Reichs Werner Huß 2011 ..", 
             "url": "http://books.openedition.org/chbeck/1228"
         }, 
         {
-            "title_full": "Papinians Quaestiones Zur rhetorischen Methode eines sp\u00e4tklassischen Juristen Ulrike Babusiaux 2011 ..", 
+            "title_full": "Papinians Quaestiones Zur rhetorischen Methode eines spätklassischen Juristen Ulrike Babusiaux 2011 ..", 
             "url": "http://books.openedition.org/chbeck/1212"
         }, 
         {
-            "title_full": "Entscheidungskorrekturen mit unbestimmter Wertung durch die klassische r\u00f6mische Jurisprudenz Tobias Kleiter 2010 ..", 
+            "title_full": "Entscheidungskorrekturen mit unbestimmter Wertung durch die klassische römische Jurisprudenz Tobias Kleiter 2010 ..", 
             "url": "http://books.openedition.org/chbeck/1198"
         }, 
         {
@@ -235,15 +235,15 @@
             "url": "http://books.openedition.org/chbeck/1177"
         }, 
         {
-            "title_full": "Die r\u00f6mischen Solidarobligationen Eine Neubesichtigung unter aktionenrechtlichen Aspekten Anja Steiner 2009 ..", 
+            "title_full": "Die römischen Solidarobligationen Eine Neubesichtigung unter aktionenrechtlichen Aspekten Anja Steiner 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1161"
         }, 
         {
-            "title_full": "Risikomanagement beim Weinkauf Periculum und Praxis im Imperium Romanum \u00c9va Jakab 2009 ..", 
+            "title_full": "Risikomanagement beim Weinkauf Periculum und Praxis im Imperium Romanum Éva Jakab 2009 ..", 
             "url": "http://books.openedition.org/chbeck/1146"
         }, 
         {
-            "title_full": "Herrscher- und Dynastiekulte im Ptolem\u00e4erreich Systematik und Einordnung der Kultformen Stefan Pfeiffer . 2008 ..", 
+            "title_full": "Herrscher- und Dynastiekulte im Ptolemäerreich Systematik und Einordnung der Kultformen Stefan Pfeiffer . 2008 ..", 
             "url": "http://books.openedition.org/chbeck/1130"
         }
     ], 

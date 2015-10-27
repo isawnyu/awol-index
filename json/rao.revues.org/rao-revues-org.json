@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revue Arch\u00e9ologique de l\u2019Ouest. La Revue Arch\u00e9ologique de l\u2019Ouest est \u00e9dit\u00e9e annuellement par l\u2019Association pour la Diffusion des Recherches arch\u00e9ologiques dans l\u2019Ouest de la France. Elle publie des travaux originaux concernant l'arch\u00e9ologie des \u00e9poques pr\u00e9historiques et historiques, consacr\u00e9es \u00e0 l'Ouest de la France ou ayant des rapports pr\u00e9cis avec ces r\u00e9gions.", 
+    "description": "Revue Archéologique de l’Ouest. La Revue Archéologique de l’Ouest est éditée annuellement par l’Association pour la Diffusion des Recherches archéologiques dans l’Ouest de la France. Elle publie des travaux originaux concernant l'archéologie des époques préhistoriques et historiques, consacrées à l'Ouest de la France ou ayant des rapports précis avec ces régions.", 
     "domain": "rao.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3291041398586799744", 
             "resource_date": "2011-02-02T21:11:38.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:10.772888"
+            "when": "2015-10-27T18:40:23.401939"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/newely-open-access-journal-revue.html", 
             "resource_date": "2011-02-02T21:11:38.604-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:10.772903"
+            "when": "2015-10-27T18:40:23.401956"
         }
     ], 
     "publishers": [], 
@@ -94,7 +94,7 @@
             "url": "http://rao.revues.org/59"
         }
     ], 
-    "title": "Revue Arch\u00e9ologique de l\u2019Ouest", 
+    "title": "Revue Archéologique de l’Ouest", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

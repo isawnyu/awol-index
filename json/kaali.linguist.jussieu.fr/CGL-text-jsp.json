@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 27 March 2011. Updated 3 November 2014]. Corpus Grammaticorum Latinorum: Acc\u00e8s aux sources grammaticales de la Latinit\u00e9 tardive: recherche, parcours textuels et bibliographie. Le corpus des textes attribu\u00e9s de mani\u00e8re conventionnelle aux grammatici Latini est constitu\u00e9 par l\u2019ensemble des manuels de grammaire latine \u00e9crits entre le IIIe et le VIIIe si\u00e8cle apr. J. -C. et \u00e9dit\u00e9s par Heinrich Keil \u00e0 Leipzig entre 1855 et 1880. Ce corpus pr\u00e9sente de nombreux centres d\u2019int\u00e9r\u00eat:.", 
+    "description": "[First posted in AWOL 27 March 2011. Updated 3 November 2014]. Corpus Grammaticorum Latinorum: Accès aux sources grammaticales de la Latinité tardive: recherche, parcours textuels et bibliographie. Le corpus des textes attribués de manière conventionnelle aux grammatici Latini est constitué par l’ensemble des manuels de grammaire latine écrits entre le IIIe et le VIIIe siècle apr. J. -C. et édités par Heinrich Keil à Leipzig entre 1855 et 1880. Ce corpus présente de nombreux centres d’intérêt:.", 
     "domain": "kaali.linguist.jussieu.fr", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
             "resource_date": "2014-11-03T19:02:04.044-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:51.425058"
+            "when": "2015-10-27T18:46:38.237114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
             "resource_date": "2014-11-03T19:02:04.044-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:51.425074"
+            "when": "2015-10-27T18:46:38.237129"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7837154497674416686", 
             "resource_date": "2014-11-03T19:02:04.044-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:51.430567"
+            "when": "2015-10-27T18:46:38.243122"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-grammatici-latini.html", 
             "resource_date": "2014-11-03T19:02:04.044-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:51.430579"
+            "when": "2015-10-27T18:46:38.243137"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:51.587659"
+            "when": "2015-10-27T18:46:38.418384"
         }
     ], 
     "publishers": [], 
@@ -149,15 +149,15 @@
             "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=historic"
         }, 
         {
-            "title_full": "\u00e9dition du corpus", 
+            "title_full": "édition du corpus", 
             "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=edition"
         }, 
         {
-            "title_full": "aide \u00e0 la navigation", 
+            "title_full": "aide à la navigation", 
             "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=help"
         }, 
         {
-            "title_full": "\u00e0 propos de CGL", 
+            "title_full": "à propos de CGL", 
             "url": "http://kaali.linguist.jussieu.fr/CGL/index.jsp?link=apropos"
         }, 
         {
@@ -185,7 +185,7 @@
             "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?list=section"
         }, 
         {
-            "title_full": "Liste des auteurs cit\u00e9s", 
+            "title_full": "Liste des auteurs cités", 
             "url": "http://kaali.linguist.jussieu.fr/CGL/bgl.jsp?display=namedAuthor"
         }, 
         {

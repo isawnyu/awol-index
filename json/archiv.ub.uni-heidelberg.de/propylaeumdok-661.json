@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kunst und Aufkl\u00e4rung im 18. Jahrhundert. Kunstausbildung. Kunstvermittlung. Kunstsammlung, Ausst. -Kat. Stendal, Halle und W\u00f6rlitz. Ruhpolding 2005, pp. 45-70. Kunze, Max (2006).", 
+    "description": "In: Kunst und Aufklärung im 18. Jahrhundert. Kunstausbildung. Kunstvermittlung. Kunstsammlung, Ausst. -Kat. Stendal, Halle und Wörlitz. Ruhpolding 2005, pp. 45-70. Kunze, Max (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.063689"
+            "when": "2015-10-27T18:46:46.237873"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.063705"
+            "when": "2015-10-27T18:46:46.237889"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:38.584661"
+            "when": "2015-10-27T18:48:32.676909"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:38.584677"
+            "when": "2015-10-27T18:48:32.676926"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.614213"
+            "when": "2015-10-27T18:48:38.436316"
         }
     ], 
     "publishers": [], 
@@ -134,7 +134,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Lehr- und Vorlagenb\u00fccher im 18. Jahrhundert", 
+    "title": "Lehr- und Vorlagenbücher im 18. Jahrhundert", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

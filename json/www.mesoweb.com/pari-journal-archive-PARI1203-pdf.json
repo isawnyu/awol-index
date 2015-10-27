@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Winter 2012. Excavations of Nakum Structure 15: Discovery of Royal Burials and Accompanying Offerings. By Jaros\u0142aw \u0179ra\u0142ka, Wies\u0142aw Koszkul, Bernard Hermes, and Simon Martin.", 
+    "description": "Winter 2012. Excavations of Nakum Structure 15: Discovery of Royal Burials and Accompanying Offerings. By Jarosław Źrałka, Wiesław Koszkul, Bernard Hermes, and Simon Martin.", 
     "domain": "www.mesoweb.com", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4785596110506607859", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:44.097313"
+            "when": "2015-10-27T18:42:11.037195"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-pari-journal.html", 
             "resource_date": "2012-06-10T07:25:04.567-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:44.097325"
+            "when": "2015-10-27T18:42:11.037207"
         }
     ], 
     "publishers": [], 

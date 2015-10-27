@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "e-coffins. ch: \u00c4gyptische S\u00e4rge, Mumien und Masken in der Schweiz.", 
+    "description": "e-coffins. ch: Ägyptische Särge, Mumien und Masken in der Schweiz.", 
     "domain": "www.e-coffins.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c4gyptische S\u00e4rge, Mumien und Masken in der Schweiz", 
+        "title_full": "Ägyptische Särge, Mumien und Masken in der Schweiz", 
         "url": "http://www.e-coffins.ch/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8221809991442609885", 
             "resource_date": "2014-06-18T10:31:12.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:17.237291"
+            "when": "2015-10-27T18:47:05.098567"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/the-swiss-coffin-project.html", 
             "resource_date": "2014-06-18T10:31:12.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:17.237307"
+            "when": "2015-10-27T18:47:05.098584"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8221809991442609885", 
             "resource_date": "2014-06-18T10:31:12.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:17.239121"
+            "when": "2015-10-27T18:47:05.100522"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/the-swiss-coffin-project.html", 
             "resource_date": "2014-06-18T10:31:12.900-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:17.239133"
+            "when": "2015-10-27T18:47:05.100534"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:17.247321"
+            "when": "2015-10-27T18:47:05.110169"
         }
     ], 
     "publishers": [], 
@@ -145,11 +145,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "e-coffins.ch: \u00c4gyptische S\u00e4rge, Mumien und Masken in der Schweiz", 
+            "title_full": "e-coffins.ch: Ägyptische Särge, Mumien und Masken in der Schweiz", 
             "url": "http://www.e-coffins.ch/"
         }, 
         {
-            "title_full": "S\u00e4rge", 
+            "title_full": "Särge", 
             "url": "http://www.e-coffins.ch/index.php?option=com_content&view=article&id=323&Itemid=100"
         }, 
         {
@@ -161,17 +161,17 @@
             "url": "http://www.e-coffins.ch/index.php?option=com_content&view=article&id=325&Itemid=103"
         }, 
         {
-            "title_full": "Bedeutung der S\u00e4rge im alten \u00c4gypten", 
+            "title_full": "Bedeutung der Särge im alten Ägypten", 
             "url": "http://www.e-coffins.ch/index.php?option=com_content&view=article&id=322&Itemid=104"
         }, 
         {
-            "title_full": "Zeittafel des alten \u00c4gypten", 
+            "title_full": "Zeittafel des alten Ägypten", 
             "url": "http://www.e-coffins.ch/index.php?option=com_content&view=article&id=327&Itemid=105"
         }
     ], 
-    "title": "e-coffins.ch: \u00c4gyptische S\u00e4rge, Mumien und Masken in der Schweiz", 
+    "title": "e-coffins.ch: Ägyptische Särge, Mumien und Masken in der Schweiz", 
     "title_alternates": [], 
-    "title_extended": "e-coffins.ch: \u00c4gyptische S\u00e4rge, Mumien und Masken in der Schweiz", 
+    "title_extended": "e-coffins.ch: Ägyptische Särge, Mumien und Masken in der Schweiz", 
     "type": null, 
     "url": "http://www.e-coffins.ch/", 
     "url_alternates": [], 

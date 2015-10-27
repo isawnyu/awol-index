@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Osing, J\u00fcrgen and Nielsen, Erland Kolding (Hrsgg. ): The Heritage of Ancient Egypt. Studies in honour of Erik Iversen. Kopenhagen 1992, pp. 9-25 (The Carsten Niebuhr Institute of Ancient Near Eastern Studies; 13). Assmann, Jan (1974).", 
+    "description": "In: Osing, Jürgen and Nielsen, Erland Kolding (Hrsgg. ): The Heritage of Ancient Egypt. Studies in honour of Erik Iversen. Kopenhagen 1992, pp. 9-25 (The Carsten Niebuhr Institute of Ancient Near Eastern Studies; 13). Assmann, Jan (1974).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:48.290002"
+            "when": "2015-10-27T18:39:59.741103"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:48.290020"
+            "when": "2015-10-27T18:39:59.741119"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Der Tempel der \u00e4gyptischen Sp\u00e4tzeit als Kanonisierung kultureller Identit\u00e4t", 
+    "title": "Der Tempel der ägyptischen Spätzeit als Kanonisierung kultureller Identität", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "BerlPap: Berliner Papyrusdatenbank. Die Berliner Papyrusdatenbank (BerlPap) ist ein von der Deutschen Forschungsgemeinschaft gef\u00f6rdertes Projekt zur Digitalisierung gro\u00dfer Best\u00e4nde der Berliner Papyrussammlung: Ziel dieses Vorhabens ist die Bereitstellung einer Datenbank im Internet, die digitale Abbildungen und alle relevanten Metadaten zu den in griechischer und lateinischer Sprache verfa\u00dften Texten der Berliner Papyrussammlung enth\u00e4lt, die sich auf Papyri, Ostraka, Pergamenten, Holz- und Wachstafeln sowie Papier erhalten haben. Die Internet-Datenbank soll somit allen Altertumswissenschaftlern und am antiken \u00c4gypten Interessierten Zugang zu hochwertigen Abbildungen der Originalobjekte und zus\u00e4tzlichen Informationen bieten. Verlinkungen mit anderen Datenbanken erlauben die Erweiterung der Erkenntnisse.", 
+    "description": "BerlPap: Berliner Papyrusdatenbank. Die Berliner Papyrusdatenbank (BerlPap) ist ein von der Deutschen Forschungsgemeinschaft gefördertes Projekt zur Digitalisierung großer Bestände der Berliner Papyrussammlung: Ziel dieses Vorhabens ist die Bereitstellung einer Datenbank im Internet, die digitale Abbildungen und alle relevanten Metadaten zu den in griechischer und lateinischer Sprache verfaßten Texten der Berliner Papyrussammlung enthält, die sich auf Papyri, Ostraka, Pergamenten, Holz- und Wachstafeln sowie Papier erhalten haben. Die Internet-Datenbank soll somit allen Altertumswissenschaftlern und am antiken Ägypten Interessierten Zugang zu hochwertigen Abbildungen der Originalobjekte und zusätzlichen Informationen bieten. Verlinkungen mit anderen Datenbanken erlauben die Erweiterung der Erkenntnisse.", 
     "domain": "smb.museum", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5531760679234503815", 
             "resource_date": "2012-01-26T14:13:49.349-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.868932"
+            "when": "2015-10-27T18:43:36.932457"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/berliner-papyrusdatenbank.html", 
             "resource_date": "2012-01-26T14:13:49.349-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.868948"
+            "when": "2015-10-27T18:43:36.932468"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Literaturabk\u00fcrzungen", 
+    "title": "Literaturabkürzungen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

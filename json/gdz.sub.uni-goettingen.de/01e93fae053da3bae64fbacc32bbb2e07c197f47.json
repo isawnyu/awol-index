@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "G\u00f6ttingische gelehrte Anzeigen", 
+        "title_full": "Göttingische gelehrte Anzeigen", 
         "url": "http://gdz.sub.uni-goettingen.de/dms/load/toc/?PPN=PPN385030444_1895_2&DMDID=DMDLOG_0001"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6750615415037081320", 
             "resource_date": "2015-06-18T08:31:44.366-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:30.693159"
+            "when": "2015-10-27T18:45:11.045986"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-gottingische.html", 
             "resource_date": "2015-06-18T08:31:44.366-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:30.693177"
+            "when": "2015-10-27T18:45:11.046002"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "G\u00f6ttingische gelehrte Anzeigen", 
+    "title": "Göttingische gelehrte Anzeigen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Real Museo Borbonico. Die Digitalisate und die Metadaten dieser Zeitschrift werden von der Universit\u00e4tsbibliothek Heidelberg im Rahmen des DFG-Projekts \"Rezeption der Antike im semanstischen Netz: Buch, Bild und Objekt\" bereitgestellt. Aktuelle Informationen finden Sie auf der Projekt-Homepage.", 
+    "description": "Real Museo Borbonico. Die Digitalisate und die Metadaten dieser Zeitschrift werden von der Universitätsbibliothek Heidelberg im Rahmen des DFG-Projekts \"Rezeption der Antike im semanstischen Netz: Buch, Bild und Objekt\" bereitgestellt. Aktuelle Informationen finden Sie auf der Projekt-Homepage.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-61422309598663609", 
             "resource_date": "2013-02-21T10:40:04.640-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:45.939152"
+            "when": "2015-10-27T18:44:21.061984"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-real-museo-borbonico.html", 
             "resource_date": "2013-02-21T10:40:04.640-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:45.939164"
+            "when": "2015-10-27T18:44:21.061997"
         }
     ], 
     "publishers": [], 

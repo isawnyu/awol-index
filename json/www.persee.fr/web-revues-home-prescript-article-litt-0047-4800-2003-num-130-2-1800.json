@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Litt\u00e9rature", 
+        "title_full": "Littérature", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/litt"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6257054164022865651", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:55.259770"
+            "when": "2015-10-27T18:44:31.715212"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/one-off-journal-issues-litterature.html", 
             "resource_date": "2014-05-15T10:57:52.672-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:55.259783"
+            "when": "2015-10-27T18:44:31.715225"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Des Alt\u00e9rit\u00e9s de la langue. Plurilinguismes po\u00e9tiques au Moyen \u00c2ge", 
+    "title": "Des Altérités de la langue. Plurilinguismes poétiques au Moyen Âge", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

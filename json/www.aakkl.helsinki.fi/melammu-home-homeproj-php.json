@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1677061690791040208", 
             "resource_date": "2014-09-12T23:54:42.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.222221"
+            "when": "2015-10-27T18:37:57.235891"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/melammu-digital-library.html", 
             "resource_date": "2014-09-12T23:54:42.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.222238"
+            "when": "2015-10-27T18:37:57.235909"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1677061690791040208", 
             "resource_date": "2014-09-12T23:54:42.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.228022"
+            "when": "2015-10-27T18:37:57.242049"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/melammu-digital-library.html", 
             "resource_date": "2014-09-12T23:54:42.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.228035"
+            "when": "2015-10-27T18:37:57.242063"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:53.265356"
+            "when": "2015-10-27T18:37:57.285595"
         }
     ], 
     "publishers": [], 

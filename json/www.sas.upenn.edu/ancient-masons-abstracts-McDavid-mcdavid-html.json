@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bernhard Fl\u00fcge, \"Construction and Conception Techniques of Residential Buildings and Urbanism in Medieval Europe around 1100 AD: The Example of Cluny, France\" Abstract |.", 
+    "description": "Bernhard Flüge, \"Construction and Conception Techniques of Residential Buildings and Urbanism in Medieval Europe around 1100 AD: The Example of Cluny, France\" Abstract |.", 
     "domain": "www.sas.upenn.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1668542114632913470", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.924244"
+            "when": "2015-10-27T18:37:56.889714"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/open-access-symposiumpublication-masons.html", 
             "resource_date": "2013-11-08T06:12:38.257-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.924256"
+            "when": "2015-10-27T18:37:56.889728"
         }
     ], 
     "publishers": [], 

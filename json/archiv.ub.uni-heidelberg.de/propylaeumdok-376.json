@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Beck, H. (Hrsg. ): Wissenschaftliche Kataloge. Liebieghaus - Museum Alter Plastik Frankfurt am Main. \u00c4gyptische Bildwerke III. Melsungen 1993, pp. 403-413. Borg, Barbara (2010).", 
+    "description": "In: Beck, H. (Hrsg. ): Wissenschaftliche Kataloge. Liebieghaus - Museum Alter Plastik Frankfurt am Main. Ägyptische Bildwerke III. Melsungen 1993, pp. 403-413. Borg, Barbara (2010).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:33.093638"
+            "when": "2015-10-27T18:48:26.155213"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:33.093654"
+            "when": "2015-10-27T18:48:26.155230"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Mumienportr\u00e4ts, Kat.-Nr. 92-94", 
+    "title": "Mumienporträts, Kat.-Nr. 92-94", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

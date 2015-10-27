@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1897904554138962656", 
             "resource_date": "2010-05-25T09:07:46.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:04.930037"
+            "when": "2015-10-27T18:38:10.943863"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/eastern-mediterranean-landscapes.html", 
             "resource_date": "2010-05-25T09:07:46.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:04.930053"
+            "when": "2015-10-27T18:38:10.943879"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1897904554138962656", 
             "resource_date": "2010-05-25T09:07:46.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:04.933826"
+            "when": "2015-10-27T18:38:10.947854"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/eastern-mediterranean-landscapes.html", 
             "resource_date": "2010-05-25T09:07:46.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:04.933839"
+            "when": "2015-10-27T18:38:10.947866"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:04.943916"
+            "when": "2015-10-27T18:38:10.963127"
         }
     ], 
     "publishers": [], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2417933562394558038", 
             "resource_date": "2012-11-09T22:16:19.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.022788"
+            "when": "2015-10-27T18:38:44.939321"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-09T22:16:19.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.022805"
+            "when": "2015-10-27T18:38:44.939337"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2417933562394558038", 
             "resource_date": "2012-11-09T22:16:19.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.025299"
+            "when": "2015-10-27T18:38:44.941842"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/newly-online-from-oriental-institutes.html", 
             "resource_date": "2012-11-09T22:16:19.631-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.025313"
+            "when": "2015-10-27T18:38:44.941854"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:37.037111"
+            "when": "2015-10-27T18:38:44.955172"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum).", 
+    "description": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum).", 
     "domain": "web.rgzm.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Open-Access-Publikationen des RGZM (R\u00f6misch-Germanischen Zentralmuseum)", 
+        "title_full": "Open-Access-Publikationen des RGZM (Römisch-Germanischen Zentralmuseum)", 
         "url": "http://web.rgzm.de/publikationen/rgzm-open-access.html"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2363895708489820912", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.830398"
+            "when": "2015-10-27T18:38:41.713596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-publikationen-des-rgzm.html", 
             "resource_date": "2014-08-08T08:45:12.990-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.830410"
+            "when": "2015-10-27T18:38:41.713608"
         }
     ], 
     "publishers": [], 

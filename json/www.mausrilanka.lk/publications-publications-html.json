@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3759835739953969006", 
             "resource_date": "2012-02-25T07:20:18.368-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:44.362084"
+            "when": "2015-10-27T18:41:03.703724"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/publications-of-maritime-archaeology.html", 
             "resource_date": "2012-02-25T07:20:18.368-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:44.362101"
+            "when": "2015-10-27T18:41:03.703745"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3759835739953969006", 
             "resource_date": "2012-02-25T07:20:18.368-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:44.365816"
+            "when": "2015-10-27T18:41:03.711786"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/publications-of-maritime-archaeology.html", 
             "resource_date": "2012-02-25T07:20:18.368-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:44.365829"
+            "when": "2015-10-27T18:41:03.711805"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:44.399511"
+            "when": "2015-10-27T18:41:03.758816"
         }
     ], 
     "publishers": [], 

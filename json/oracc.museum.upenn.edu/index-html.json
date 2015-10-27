@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "with the continuous assistance and help of Steve Tinney. Funding for ETCSRI is provided by the Hungarian Scientific Research Fund (OTKA) between 2008. 10. 01 - 2013. 06. 30 (project no. K75104). If you cite the corpus, please use the next citation form: Z\u00f3lyomi, G\u00e1bor - Tanos, B\u00e1lint - S\u00f6vegj\u00e1rt\u00f3, Szilvia. The Electronic Text Corpus of Sumerian Royal Inscriptions. 2008-. http://oracc. museum. upenn. edu/etcsri/index. html. Do a a full text search in ETCSRI. [HELP].", 
+    "description": "with the continuous assistance and help of Steve Tinney. Funding for ETCSRI is provided by the Hungarian Scientific Research Fund (OTKA) between 2008. 10. 01 - 2013. 06. 30 (project no. K75104). If you cite the corpus, please use the next citation form: Zólyomi, Gábor - Tanos, Bálint - Sövegjártó, Szilvia. The Electronic Text Corpus of Sumerian Royal Inscriptions. 2008-. http://oracc. museum. upenn. edu/etcsri/index. html. Do a a full text search in ETCSRI. [HELP].", 
     "domain": "oracc.museum.upenn.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8665964004173566317", 
             "resource_date": "2013-11-11T05:31:40.544-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:47.121633"
+            "when": "2015-10-27T18:48:42.294686"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/the-electronic-text-corpus-of-sumerian.html", 
             "resource_date": "2013-11-11T05:31:40.544-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:47.121644"
+            "when": "2015-10-27T18:48:42.294712"
         }
     ], 
     "publishers": [], 

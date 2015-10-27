@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Les dossiers de l'IFEA: s\u00e9rie: patrimoines au pr\u00e9sent", 
+        "title_full": "Les dossiers de l'IFEA: série: patrimoines au présent", 
         "url": "http://books.openedition.org/ifeagd/95"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8751989754066107144", 
             "resource_date": "2015-04-29T15:32:44.333-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:50.971545"
+            "when": "2015-10-27T18:48:46.649977"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/les-dossiers-de-lifea-serie-patrimoines.html", 
             "resource_date": "2015-04-29T15:32:44.333-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:50.971558"
+            "when": "2015-10-27T18:48:46.649988"
         }
     ], 
     "publishers": [], 

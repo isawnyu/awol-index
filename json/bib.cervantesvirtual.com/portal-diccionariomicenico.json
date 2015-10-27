@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 26 January 2012, updated 26 March 2015]. Diccionario mic\u00e9nico: \u00cdndices Generales de la Lineal B.", 
+    "description": "[First posted in AWOL 26 January 2012, updated 26 March 2015]. Diccionario micénico: Índices Generales de la Lineal B.", 
     "domain": "bib.cervantesvirtual.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Diccionario mic\u00e9nico: \u00cdndices Generales de la Lineal B", 
+        "title_full": "Diccionario micénico: Índices Generales de la Lineal B", 
         "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-450398525610149246", 
             "resource_date": "2015-03-26T11:46:02.891-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.558238"
+            "when": "2015-10-27T18:41:54.252862"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/diccionario-micenico-online.html", 
             "resource_date": "2015-03-26T11:46:02.891-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.558260"
+            "when": "2015-10-27T18:41:54.252880"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-450398525610149246", 
             "resource_date": "2015-03-26T11:46:02.891-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.560400"
+            "when": "2015-10-27T18:41:54.255262"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/diccionario-micenico-online.html", 
             "resource_date": "2015-03-26T11:46:02.891-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.560414"
+            "when": "2015-10-27T18:41:54.255279"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:28.571075"
+            "when": "2015-10-27T18:41:54.265218"
         }
     ], 
     "publishers": [], 
@@ -145,31 +145,31 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Diccionario mic\u00e9nico: \u00cdndices Generales de la Lineal B", 
+            "title_full": "Diccionario micénico: Índices Generales de la Lineal B", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/"
         }, 
         {
-            "title_full": ":: Presentaci\u00f3n", 
+            "title_full": ":: Presentación", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/pcuartonivel.jsp?conten=presentacion"
         }, 
         {
-            "title_full": ":: \u00cdndice directo", 
+            "title_full": ":: Índice directo", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/contenido/directo.jsp"
         }, 
         {
-            "title_full": ":: \u00cdndice inverso", 
+            "title_full": ":: Índice inverso", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/contenido/inverso.jsp"
         }, 
         {
-            "title_full": ":: \u00cdndice logogramas", 
+            "title_full": ":: Índice logogramas", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/contenido/logogramas.jsp"
         }, 
         {
-            "title_full": ":: Realizaci\u00f3n", 
+            "title_full": ":: Realización", 
             "url": "http://bib.cervantesvirtual.com/portal/diccionariomicenico/pcuartonivel.jsp?conten=realizacion"
         }
     ], 
-    "title": "Diccionario mic\u00e9nico: \u00cdndices Generales de la Lineal B", 
+    "title": "Diccionario micénico: Índices Generales de la Lineal B", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

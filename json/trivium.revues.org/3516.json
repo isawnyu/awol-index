@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Trivium. \u00c9dit\u00e9e par les \u00c9ditions de la Maison des sciences de l\u2019homme avec le concours de partenaires allemands et fran\u00e7ais, la revue \u00e9lectronique Trivium publie des traductions d'articles. Elle se con\u00e7oit comme un instrument d\u2019\u00e9changes, de coop\u00e9ration entre les communaut\u00e9s de recherche francophone et germanophone et de communication en sciences sociales et humaines. Die mit Unterst\u00fctzung deutscher und franz\u00f6sischer Partner von den \u00c9ditions de la Maison des sciences de l'homme herausgegebene Online-Zeitschrift Trivium ver\u00f6ffentlicht \u00dcbersetzungen aus Fachzeitschriften. Sie versteht sich als Medium des Austauschs und der Kooperation zwischen deutsch- und franz\u00f6sischsprachigen Forschungsgemeinschaften in den Geistes- und Sozialwissenschaften.", 
+    "description": "Trivium. Éditée par les Éditions de la Maison des sciences de l’homme avec le concours de partenaires allemands et français, la revue électronique Trivium publie des traductions d'articles. Elle se conçoit comme un instrument d’échanges, de coopération entre les communautés de recherche francophone et germanophone et de communication en sciences sociales et humaines. Die mit Unterstützung deutscher und französischer Partner von den Éditions de la Maison des sciences de l'homme herausgegebene Online-Zeitschrift Trivium veröffentlicht Übersetzungen aus Fachzeitschriften. Sie versteht sich als Medium des Austauschs und der Kooperation zwischen deutsch- und französischsprachigen Forschungsgemeinschaften in den Geistes- und Sozialwissenschaften.", 
     "domain": "trivium.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5663193955723600054", 
             "resource_date": "2015-04-29T15:36:28.207-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:10.449700"
+            "when": "2015-10-27T18:43:42.659311"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-trivium.html", 
             "resource_date": "2015-04-29T15:36:28.207-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:10.449717"
+            "when": "2015-10-27T18:43:42.659324"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Corinne Bonnet et J\u00f6rg R\u00fcpke Einleitung [Texte int\u00e9gral]", 
+    "title": "Corinne Bonnet et Jörg Rüpke Einleitung [Texte intégral]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

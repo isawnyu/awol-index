@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Paolo Trianni, Universit\u00e0 di Roma Tor Vergata, Esperienza di Dio e dialogo interreligioso.", 
+    "description": "Paolo Trianni, Università di Roma Tor Vergata, Esperienza di Dio e dialogo interreligioso.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.345419"
+            "when": "2015-10-27T18:44:38.813621"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.345434"
+            "when": "2015-10-27T18:44:38.813633"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Silvio Spiri, Universit\u00e0 di Roma Tor Vergata, Metafisica, teologia e storia nel pensiero di Antonio Rosmini", 
+    "title": "Silvio Spiri, Università di Roma Tor Vergata, Metafisica, teologia e storia nel pensiero di Antonio Rosmini", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

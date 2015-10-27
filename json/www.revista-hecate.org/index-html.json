@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista Numism\u00e1tica H\u00e9cate. ISSN: 2386-8643.", 
+    "description": "Revista Numismática Hécate. ISSN: 2386-8643.", 
     "domain": "www.revista-hecate.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6438355811347041629", 
             "resource_date": "2015-01-15T12:56:21.912-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:04.286799"
+            "when": "2015-10-27T18:44:42.057630"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-journal-coming-soon-revista.html", 
             "resource_date": "2015-01-15T12:56:21.912-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:04.286815"
+            "when": "2015-10-27T18:44:42.057645"
         }
     ], 
     "publishers": [], 
@@ -83,11 +83,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "N\u00famero 1 (Inaugural)", 
+            "title_full": "Número 1 (Inaugural)", 
             "url": "http://www.revista-hecate.org/numeros/hecate-n-1.html"
         }
     ], 
-    "title": "Revista Numism\u00e1tica H\u00e9cate", 
+    "title": "Revista Numismática Hécate", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 18 July 2012, updated 18 November 2014]. Corpus Antiquitatum Aegyptiacarum: Lose-Blatt-Katalog \u00c4gyptischer Altert\u00fcmer Old Kingdom Volumes Courtesy of. The Giza Digital Library.", 
+    "description": "[First posted in AWOL 18 July 2012, updated 18 November 2014]. Corpus Antiquitatum Aegyptiacarum: Lose-Blatt-Katalog Ägyptischer Altertümer Old Kingdom Volumes Courtesy of. The Giza Digital Library.", 
     "domain": "www.gizapyramids.org", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2999789868980525763", 
             "resource_date": "2014-11-18T11:48:14.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:59.563883"
+            "when": "2015-10-27T18:39:07.964172"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/corpus-antiquitatum-aegyptiacarum-old.html", 
             "resource_date": "2014-11-18T11:48:14.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:59.563899"
+            "when": "2015-10-27T18:39:07.964188"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2999789868980525763", 
             "resource_date": "2014-11-18T11:48:14.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:59.565749"
+            "when": "2015-10-27T18:39:07.966086"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/corpus-antiquitatum-aegyptiacarum-old.html", 
             "resource_date": "2014-11-18T11:48:14.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:59.565761"
+            "when": "2015-10-27T18:39:07.966097"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:59.582612"
+            "when": "2015-10-27T18:39:07.983193"
         }
     ], 
     "publishers": [], 
@@ -161,11 +161,11 @@
             "url": "http://www.gizapyramids.org/view/publisheddocs/aslist.aslistgrid.sort/displayDate?t:ac=search@/0/alphaSort-asc/yearPublished-asc&t:state:flow=57b33286-00c7-4cd7-a649-206864a2801f"
         }, 
         {
-            "title_full": "Regina H\u00f6lzl", 
+            "title_full": "Regina Hölzl", 
             "url": "http://www.gizapyramids.org/view/people/asitem/items@Regina%20H$00f6lzl:3483/0?t:state:flow=57b33286-00c7-4cd7-a649-206864a2801f"
         }, 
         {
-            "title_full": "Brigitte Jaro\u0161-Deckert", 
+            "title_full": "Brigitte Jaroš-Deckert", 
             "url": "http://www.gizapyramids.org/view/people/asitem/items@Brigitte%20Jaro$0161-Deckert:3482/0?t:state:flow=57b33286-00c7-4cd7-a649-206864a2801f"
         }, 
         {

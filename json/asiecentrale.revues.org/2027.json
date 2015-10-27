@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L\u2019arch\u00e9ologie fran\u00e7aise en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
+        "title_full": "L’archéologie française en Asie centrale: Nouvelles recherches et enjeux socioculturels", 
         "url": "http://asiecentrale.revues.org/1586"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1407540500306198905", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:28.440874"
+            "when": "2015-10-27T18:37:30.956974"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/one-off-journal-issues-larcheologie.html", 
             "resource_date": "2014-09-08T10:24:31.859-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:28.440885"
+            "when": "2015-10-27T18:37:30.956985"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Julio Bendezu-Sarmiento Arch\u00e9ologie fun\u00e9raire et bio-anthropologie \u00e0 Ulug d\u00e9p\u00e9 et Dzharkutan [Texte int\u00e9gral disponible en septembre 2014] \u00c2ge du bronze au Turkm\u00e9nistan et en Ouzb\u00e9kistan", 
+    "title": "Julio Bendezu-Sarmiento Archéologie funéraire et bio-anthropologie à Ulug dépé et Dzharkutan [Texte intégral disponible en septembre 2014] Âge du bronze au Turkménistan et en Ouzbékistan", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

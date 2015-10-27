@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Quaderni della Soprintendenza archeologica del Piemonte. ISSN: 0394-0160. La Soprintendenza per i Beni Archeologici del Piemonte e del Museo Antichit\u00e0 Egizie pubblica i Quaderni della Soprintendenza archeologica del Piemonte, avviati nel 1980 con l\u2019edizione degli Studi di archeologia dedicati a Pietro Barocelli. Nella rivista sono raccolti studi e ricerche di preistoria, archeologia classica, medioevo ed egittologia, risultati di campagne di scavo, segnalazioni di mostre e allestimenti museali, notizie delle attivit\u00e0 istituzionali effettuate dall\u2019Ufficio sul territorio di competenza. La Soprintendenza promuove pubblicazioni inerenti alle Collezioni conservate al Museo di Antichit\u00e0 di Torino e cataloghi di esposizioni ospitate nel Museo; inoltre cura, in collaborazione con altri Enti locali e Istituzioni culturali, volumi monografici, atti di convegni, cataloghi di musei civici e di mostre.", 
+    "description": "Quaderni della Soprintendenza archeologica del Piemonte. ISSN: 0394-0160. La Soprintendenza per i Beni Archeologici del Piemonte e del Museo Antichità Egizie pubblica i Quaderni della Soprintendenza archeologica del Piemonte, avviati nel 1980 con l’edizione degli Studi di archeologia dedicati a Pietro Barocelli. Nella rivista sono raccolti studi e ricerche di preistoria, archeologia classica, medioevo ed egittologia, risultati di campagne di scavo, segnalazioni di mostre e allestimenti museali, notizie delle attività istituzionali effettuate dall’Ufficio sul territorio di competenza. La Soprintendenza promuove pubblicazioni inerenti alle Collezioni conservate al Museo di Antichità di Torino e cataloghi di esposizioni ospitate nel Museo; inoltre cura, in collaborazione con altri Enti locali e Istituzioni culturali, volumi monografici, atti di convegni, cataloghi di musei civici e di mostre.", 
     "domain": "piemonte.beniculturali.it", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5200262464415775803", 
             "resource_date": "2014-09-12T10:21:23.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.145858"
+            "when": "2015-10-27T18:43:18.048362"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/open-access-journal-quaderni-della.html", 
             "resource_date": "2014-09-12T10:21:23.808-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.145871"
+            "when": "2015-10-27T18:43:18.048374"
         }
     ], 
     "publishers": [], 

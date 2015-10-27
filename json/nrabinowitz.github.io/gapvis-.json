@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7791902953219169363", 
             "resource_date": "2013-04-19T10:32:35.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.826715"
+            "when": "2015-10-27T18:46:34.355139"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/gapvis-google-ancient-places.html", 
             "resource_date": "2013-04-19T10:32:35.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.826731"
+            "when": "2015-10-27T18:46:34.355156"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7791902953219169363", 
             "resource_date": "2013-04-19T10:32:35.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:47.828150"
+            "when": "2015-10-27T18:46:34.356625"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/11/gapvis-google-ancient-places.html", 
             "resource_date": "2013-04-19T10:32:35.278-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:47.828163"
+            "when": "2015-10-27T18:46:34.356636"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:47.829547"
+            "when": "2015-10-27T18:46:34.358452"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.633428"
+            "when": "2015-10-27T18:47:51.681078"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.633442"
+            "when": "2015-10-27T18:47:51.681090"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Claire Newton , Thomas Whitbread , Damien Agut-Labord\u00e8re et Michel Wuttmann\u2020 L\u2019agriculture oasienne \u00e0 l\u2019\u00e9poque perse dans le sud de l\u2019oasis de Kharga (\u00c9gypte, v e -iv e s. AEC) [Texte int\u00e9gral] Oasis agriculture in the southern Kharga Oasis during the Persian period (Egypt, v th -iv th c. BCE)", 
+    "title": "Claire Newton , Thomas Whitbread , Damien Agut-Labordère et Michel Wuttmann† L’agriculture oasienne à l’époque perse dans le sud de l’oasis de Kharga (Égypte, v e -iv e s. AEC) [Texte intégral] Oasis agriculture in the southern Kharga Oasis during the Persian period (Egypt, v th -iv th c. BCE)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

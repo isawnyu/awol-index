@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "HERMES: Revista del Mundo Cl\u00e1sico (UAM). ISSN: 1989-7197. Hermes es una revista trimestral elaborada por alumnos y becarios del departamento de Filolog\u00eda Cl\u00e1sica de la Universidad Aut\u00f3noma de Madrid. Fundada en octubre de 2009, el objetivo de Hermes es que los estudiantes escriban rese\u00f1as y reportajes, realicen entrevistas y aporten una visi\u00f3n del mundo cl\u00e1sico muy ligada a la actualidad.", 
+    "description": "HERMES: Revista del Mundo Clásico (UAM). ISSN: 1989-7197. Hermes es una revista trimestral elaborada por alumnos y becarios del departamento de Filología Clásica de la Universidad Autónoma de Madrid. Fundada en octubre de 2009, el objetivo de Hermes es que los estudiantes escriban reseñas y reportajes, realicen entrevistas y aporten una visión del mundo clásico muy ligada a la actualidad.", 
     "domain": "sites.google.com", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3855133504718894077", 
             "resource_date": "2013-12-30T19:22:42.675-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:50.543343"
+            "when": "2015-10-27T18:41:11.917553"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-hermes-revista-del.html", 
             "resource_date": "2013-12-30T19:22:42.675-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:50.543360"
+            "when": "2015-10-27T18:41:11.917571"
         }
     ], 
     "publishers": [], 
@@ -84,7 +84,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "HERMES: Revista del Mundo Cl\u00e1sico (UAM)", 
+    "title": "HERMES: Revista del Mundo Clásico (UAM)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

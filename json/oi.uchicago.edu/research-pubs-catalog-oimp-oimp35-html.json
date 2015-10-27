@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1593684842275887750", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:50.552270"
+            "when": "2015-10-27T18:37:54.367952"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/new-online-from-oriental-institute-oimp.html", 
             "resource_date": "2013-09-11T12:42:16.617-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:50.552282"
+            "when": "2015-10-27T18:37:54.367963"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1602797707054678214", 
             "resource_date": "2015-01-29T16:18:09.084-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:51.047307"
+            "when": "2015-10-27T18:37:54.835443"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-monographic-series-oriental.html", 
             "resource_date": "2015-01-29T16:18:09.084-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:51.047324"
+            "when": "2015-10-27T18:37:54.835457"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:51.112655"
+            "when": "2015-10-27T18:37:54.892790"
         }
     ], 
     "publishers": [], 

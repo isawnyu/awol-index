@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7073358287268097660", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:45.534401"
+            "when": "2015-10-27T18:45:27.329917"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/journal-of-roman-studies-is-now.html", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:45.534418"
+            "when": "2015-10-27T18:45:27.329936"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7073358287268097660", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:45.539094"
+            "when": "2015-10-27T18:45:27.338025"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/journal-of-roman-studies-is-now.html", 
             "resource_date": "2009-08-14T07:07:35.835-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:45.539107"
+            "when": "2015-10-27T18:45:27.338041"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:45.540522"
+            "when": "2015-10-27T18:45:27.340364"
         }
     ], 
     "publishers": [], 

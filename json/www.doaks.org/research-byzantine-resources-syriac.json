@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1587289547026890940", 
             "resource_date": "2013-04-18T09:11:53.313-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:49.892885"
+            "when": "2015-10-27T18:37:53.697878"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/resources-for-syriac-studies.html", 
             "resource_date": "2013-04-18T09:11:53.313-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:49.892901"
+            "when": "2015-10-27T18:37:53.697892"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1587289547026890940", 
             "resource_date": "2013-04-18T09:11:53.313-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:49.895163"
+            "when": "2015-10-27T18:37:53.700389"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/resources-for-syriac-studies.html", 
             "resource_date": "2013-04-18T09:11:53.313-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:49.895175"
+            "when": "2015-10-27T18:37:53.700402"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:49.918670"
+            "when": "2015-10-27T18:37:53.723315"
         }, 
         {
             "fields": [
@@ -176,13 +176,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6585175168383285288", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:18.305257"
+            "when": "2015-10-27T18:44:57.263605"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/04/dumbarton-oaks-resources-for-byzantine.html", 
             "resource_date": "2013-05-13T12:50:46.035-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:18.305268"
+            "when": "2015-10-27T18:44:57.263617"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:18.328100"
+            "when": "2015-10-27T18:44:57.289110"
         }
     ], 
     "publishers": [], 

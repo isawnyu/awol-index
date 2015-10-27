@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pegasus - Berliner Beitr\u00e4ge zum Nachleben der Antike. ISSN 1436-3461.", 
+    "description": "Pegasus - Berliner Beiträge zum Nachleben der Antike. ISSN 1436-3461.", 
     "domain": "www.census.de", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2052519999866506417", 
             "resource_date": "2014-12-28T17:15:49.506-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.636683"
+            "when": "2015-10-27T18:38:18.613360"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/open-access-journal-pegasus.html", 
             "resource_date": "2014-12-28T17:15:49.506-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.636699"
+            "when": "2015-10-27T18:38:18.613377"
         }
     ], 
     "publishers": [], 
@@ -146,7 +146,7 @@
             "url": "http://www.census.de/census/publications/pegasus-15.2013-content"
         }
     ], 
-    "title": "Pegasus - Berliner Beitr\u00e4ge zum Nachleben der Antike", 
+    "title": "Pegasus - Berliner Beiträge zum Nachleben der Antike", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

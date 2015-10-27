@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Annales de l'APLAES (Association des Professeurs de Langues Anciennes de l'Enseignement Sup\u00e9rieur). ISSN: 2271-4693.", 
+    "description": "Annales de l'APLAES (Association des Professeurs de Langues Anciennes de l'Enseignement Supérieur). ISSN: 2271-4693.", 
     "domain": "revues.aplaes.org", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Annales de l'APLAES (Association des Professeurs de Langues Anciennes de l'Enseignement Sup\u00e9rieur)", 
+        "title_full": "Annales de l'APLAES (Association des Professeurs de Langues Anciennes de l'Enseignement Supérieur)", 
         "url": "http://revues.aplaes.org/index.php/annales/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2928414732371955629", 
             "resource_date": "2014-05-28T13:19:24.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.187588"
+            "when": "2015-10-27T18:39:03.276643"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/new-open-access-journal-annales-de.html", 
             "resource_date": "2014-05-28T13:19:24.377-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.187610"
+            "when": "2015-10-27T18:39:03.276654"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Confrontation de l'imaginaire de l'eau dans l'\u00e9pop\u00e9e latine l'\u00c9n\u00e9ide de Virgile et dans l'\u00e9pop\u00e9e celtique La Razzia des vaches de Cooley", 
+    "title": "Confrontation de l'imaginaire de l'eau dans l'épopée latine l'Énéide de Virgile et dans l'épopée celtique La Razzia des vaches de Cooley", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

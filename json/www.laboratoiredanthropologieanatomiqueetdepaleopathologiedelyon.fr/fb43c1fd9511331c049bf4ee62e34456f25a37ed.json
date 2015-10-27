@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "en milieu rural au XV\u00b0 si\u00e8cle sur un cr\u00e2ne de notaire (Maubec, Is\u00e8re). (Michel Billard)[ texte complet: PDF mis en ligne le 27/03/2011 ].", 
+    "description": "en milieu rural au XV° siècle sur un crâne de notaire (Maubec, Isère). (Michel Billard)[ texte complet: PDF mis en ligne le 27/03/2011 ].", 
     "domain": "www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:02.760337"
+            "when": "2015-10-27T18:43:34.643195"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:02.760349"
+            "when": "2015-10-27T18:43:34.643207"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "et l'Adoration des Mages de L\u00e9onard de Vinci (fin du XV\u00e8me si\u00e8cle) (Brice Poreau)[ texte complet : PDF mis en ligne le 14/02/2011]", 
+    "title": "et l'Adoration des Mages de Léonard de Vinci (fin du XVème siècle) (Brice Poreau)[ texte complet : PDF mis en ligne le 14/02/2011]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

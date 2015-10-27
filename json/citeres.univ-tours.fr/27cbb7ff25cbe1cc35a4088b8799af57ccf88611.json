@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les Petits Cahiers d'Anatole: revue en ligne publi\u00e9e par le Laboratoire Arch\u00e9ologie et Territoires, UMR 6173. ISSN 2105-2921.", 
+    "description": "Les Petits Cahiers d'Anatole: revue en ligne publiée par le Laboratoire Archéologie et Territoires, UMR 6173. ISSN 2105-2921.", 
     "domain": "citeres.univ-tours.fr", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1732180333782523697", 
             "resource_date": "2012-11-28T06:08:08.354-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:56.677228"
+            "when": "2015-10-27T18:38:01.352408"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-journal-les-petits-cahiers.html", 
             "resource_date": "2012-11-28T06:08:08.354-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:56.677244"
+            "when": "2015-10-27T18:38:01.352423"
         }
     ], 
     "publishers": [], 
@@ -178,7 +178,7 @@
     ], 
     "title": "Les Petits Cahiers d'Anatole", 
     "title_alternates": [], 
-    "title_extended": "Les Petits Cahiers d'Anatole: revue en ligne publi\u00e9e par le Laboratoire Arch\u00e9ologie et Territoires, UMR 6173", 
+    "title_extended": "Les Petits Cahiers d'Anatole: revue en ligne publiée par le Laboratoire Archéologie et Territoires, UMR 6173", 
     "type": null, 
     "url": "http://citeres.univ-tours.fr/compo.php?niveau=lat&page=p_lat/lat_online", 
     "url_alternates": [], 

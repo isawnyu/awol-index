@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "RIIPAC: Revista sobre Patrimonio Cultural: Regulaci\u00f3n, Propiedad intelectual e industrial. ISSN: 2255-1565.", 
+    "description": "RIIPAC: Revista sobre Patrimonio Cultural: Regulación, Propiedad intelectual e industrial. ISSN: 2255-1565.", 
     "domain": "www.eumed.net", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "RIIPAC: Revista sobre Patrimonio Cultural: Regulaci\u00f3n, Propiedad intelectual e industrial", 
+        "title_full": "RIIPAC: Revista sobre Patrimonio Cultural: Regulación, Propiedad intelectual e industrial", 
         "url": "http://www.eumed.net/rev/riipac/"
     }, 
     "issuance": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-178147971836858992", 
             "resource_date": "2013-09-10T16:33:10.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.382955"
+            "when": "2015-10-27T18:38:03.292138"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-riipac-revista.html", 
             "resource_date": "2013-09-10T16:33:10.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.382972"
+            "when": "2015-10-27T18:38:03.292154"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-178147971836858992", 
             "resource_date": "2013-09-10T16:33:10.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:58.386122"
+            "when": "2015-10-27T18:38:03.295284"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/open-access-journal-riipac-revista.html", 
             "resource_date": "2013-09-10T16:33:10.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:58.386138"
+            "when": "2015-10-27T18:38:03.295297"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:58.389322"
+            "when": "2015-10-27T18:38:03.297201"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "RIIPAC: Revista sobre Patrimonio Cultural: Regulaci\u00f3n, Propiedad intelectual e industrial", 
+            "title_full": "RIIPAC: Revista sobre Patrimonio Cultural: Regulación, Propiedad intelectual e industrial", 
             "url": "http://www.eumed.net/rev/riipac/"
         }
     ], 
-    "title": "RIIPAC: Revista sobre Patrimonio Cultural: Regulaci\u00f3n, Propiedad intelectual e industrial", 
+    "title": "RIIPAC: Revista sobre Patrimonio Cultural: Regulación, Propiedad intelectual e industrial", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

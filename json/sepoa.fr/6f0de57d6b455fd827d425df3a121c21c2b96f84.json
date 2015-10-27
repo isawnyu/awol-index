@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "NABU: Nouvelles Assyriologiques Br\u00e8ves et Utilitaires", 
+        "title_full": "NABU: Nouvelles Assyriologiques Brèves et Utilitaires", 
         "url": "http://sepoa.fr/?page_id=14"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3633275815226314642", 
             "resource_date": "2015-03-29T11:13:20.734-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:37.780836"
+            "when": "2015-10-27T18:40:54.147298"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/newly-open-access-journal-nabu.html", 
             "resource_date": "2015-03-29T11:13:20.734-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:37.780847"
+            "when": "2015-10-27T18:40:54.147309"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "M\u00e9moires de NABU", 
+    "title": "Mémoires de NABU", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

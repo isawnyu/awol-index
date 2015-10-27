@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "restos org\u00e1nicos.", 
+    "description": "restos orgánicos.", 
     "domain": "www.florayfaunaiberica.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Flora y Fauna Ib\u00e9rica", 
+        "title_full": "Flora y Fauna Ibérica", 
         "url": "http://www.florayfaunaiberica.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6725116015740693585", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.285358"
+            "when": "2015-10-27T18:45:08.398167"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/flora-y-fauna-iberica.html", 
             "resource_date": "2012-05-23T17:40:15.847-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.285371"
+            "when": "2015-10-27T18:45:08.398176"
         }
     ], 
     "publishers": [], 

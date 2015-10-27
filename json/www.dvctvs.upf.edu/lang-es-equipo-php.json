@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cat\u00e1logo Digital.", 
+    "description": "Catálogo Digital.", 
     "domain": "www.dvctvs.upf.edu", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7577224965497751117", 
             "resource_date": "2013-05-10T14:10:49.348-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:12.992718"
+            "when": "2015-10-27T18:45:57.349718"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/dvctvs.html", 
             "resource_date": "2013-05-10T14:10:49.348-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:12.992728"
+            "when": "2015-10-27T18:45:57.349728"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ESTRAT CR\u00cdTIC Revista d\u2019arqueologia. ISSN: 1887-8687.", 
+    "description": "ESTRAT CRÍTIC Revista d’arqueologia. ISSN: 1887-8687.", 
     "domain": "www.raco.cat", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "ESTRAT CR\u00cdTIC Revista d\u2019arqueologia", 
+        "title_full": "ESTRAT CRÍTIC Revista d’arqueologia", 
         "url": "http://www.raco.cat/index.php/EstratCritic/index"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6728216689087173483", 
             "resource_date": "2013-06-25T09:03:35.027-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.567533"
+            "when": "2015-10-27T18:45:08.770706"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-estrat-critic.html", 
             "resource_date": "2013-06-25T09:03:35.027-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.567546"
+            "when": "2015-10-27T18:45:08.770722"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "2011: Vol.: 5 N\u00fam.: 2 Jornadas de J\u00f3venes en Investigaci\u00f3n Arqueol\u00f3gica, JIA (3as : 5-7 de mayo 2010 : UAB)", 
+    "title": "2011: Vol.: 5 Núm.: 2 Jornadas de Jóvenes en Investigación Arqueológica, JIA (3as : 5-7 de mayo 2010 : UAB)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

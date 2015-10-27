@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1659423593265921753", 
             "resource_date": "2015-05-11T08:54:42.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.675322"
+            "when": "2015-10-27T18:37:56.623977"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/index-to-report-of-department-of.html", 
             "resource_date": "2015-05-11T08:54:42.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.675341"
+            "when": "2015-10-27T18:37:56.623993"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1659423593265921753", 
             "resource_date": "2015-05-11T08:54:42.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.677799"
+            "when": "2015-10-27T18:37:56.626071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/index-to-report-of-department-of.html", 
             "resource_date": "2015-05-11T08:54:42.392-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.677813"
+            "when": "2015-10-27T18:37:56.626082"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:52.679299"
+            "when": "2015-10-27T18:37:56.628022"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "de la troisi\u00e8me \u00e9dition et ceux de la quatri\u00e8me \u00e9dition, - la.", 
+    "description": "de la troisième édition et ceux de la quatrième édition, - la.", 
     "domain": "129.199.13.51", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Guide de l\u2019Epigraphiste", 
+        "title_full": "Guide de l’Epigraphiste", 
         "url": "http://129.199.13.51/ressources/publications-aux-p-e-n-s/guide-de-l-epigraphiste/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8868723366774250251", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.108073"
+            "when": "2015-10-27T18:48:53.162841"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/guide-de-lepigraphiste-online-supplement.html", 
             "resource_date": "2014-07-09T08:59:29.592-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.108084"
+            "when": "2015-10-27T18:48:53.162861"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "concordance entre les num\u00e9ros", 
+    "title": "concordance entre les numéros", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

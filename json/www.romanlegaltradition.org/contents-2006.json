@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "This volume contains contributions by David J. Bloch, Robert M. Frakes, Tony Honor\u00e9, Ernest Metzger, Bernardo Peri\u00f1\u00e1n, P. J. du Plessis, Lourdes Salomon, and Helen Scott.", 
+    "description": "This volume contains contributions by David J. Bloch, Robert M. Frakes, Tony Honoré, Ernest Metzger, Bernardo Periñán, P. J. du Plessis, Lourdes Salomon, and Helen Scott.", 
     "domain": "www.romanlegaltradition.org", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4498109093321157383", 
             "resource_date": "2014-05-15T07:30:12.936-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:28.487440"
+            "when": "2015-10-27T18:41:54.184328"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/open-access-journal-roman-legal.html", 
             "resource_date": "2014-05-15T07:30:12.936-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:28.487452"
+            "when": "2015-10-27T18:41:54.184342"
         }
     ], 
     "publishers": [], 

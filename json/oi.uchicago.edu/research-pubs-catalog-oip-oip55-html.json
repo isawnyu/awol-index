@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo H\u00f6lscher. With contributions by Rudolf Anthes. Originally published in 1951", 
+        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo Hölscher. With contributions by Rudolf Anthes. Originally published in 1951", 
         "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip55.html"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.242136"
+            "when": "2015-10-27T18:41:52.793987"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.242152"
+            "when": "2015-10-27T18:41:52.794001"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.245034"
+            "when": "2015-10-27T18:41:52.797037"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.245046"
+            "when": "2015-10-27T18:41:52.797050"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:27.286583"
+            "when": "2015-10-27T18:41:52.847197"
         }, 
         {
             "fields": [
@@ -174,13 +174,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-789024539632057730", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.647694"
+            "when": "2015-10-27T18:46:40.659846"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/the-oriental-institutes-publications-on.html", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.647711"
+            "when": "2015-10-27T18:46:40.659857"
         }, 
         {
             "fields": [
@@ -196,7 +196,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.714293"
+            "when": "2015-10-27T18:46:40.728217"
         }
     ], 
     "publishers": [], 
@@ -206,7 +206,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo H\u00f6lscher. With contributions by Rudolf Anthes. Originally published in 1951", 
+            "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo Hölscher. With contributions by Rudolf Anthes. Originally published in 1951", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip55.html"
         }, 
         {
@@ -242,7 +242,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip71.html"
         }, 
         {
-            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo H\u00f6lscher. Originally published in 1954", 
+            "title_full": "OIP 66. Post-Ramessid Remains. The Excavation of Medinet Habu, Volume 5. By Uvo Hölscher. Originally published in 1954", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip66.html"
         }, 
         {
@@ -254,7 +254,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip51.html"
         }, 
         {
-            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo H\u00f6lscher. Originally published in 1939", 
+            "title_full": "OIP 41. The Excavation of Medinet Habu, Volume 2: The Temples of the Eighteenth Dynasty. By Uvo Hölscher. Originally published in 1939", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip41.html"
         }, 
         {
@@ -266,7 +266,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip23.html"
         }, 
         {
-            "title_full": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo H\u00f6lscher", 
+            "title_full": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo Hölscher", 
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip21.html"
         }, 
         {
@@ -278,7 +278,7 @@
             "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip8.html"
         }
     ], 
-    "title": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo H\u00f6lscher. With contributions by Rudolf Anthes. Originally published in 1951", 
+    "title": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo Hölscher. With contributions by Rudolf Anthes. Originally published in 1951", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

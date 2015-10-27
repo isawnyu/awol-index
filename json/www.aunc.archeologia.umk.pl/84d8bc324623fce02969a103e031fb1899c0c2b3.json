@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Krzysztof Radka, Podwodne badania rekonesansowe przeprowadzone przez Zak\u0142ad Archeologii Podwodnej w akwenach \u015br\u00f3dl\u0105dowych Polski w latach 2005-2006 205.", 
+    "description": "Krzysztof Radka, Podwodne badania rekonesansowe przeprowadzone przez Zakład Archeologii Podwodnej w akwenach śródlądowych Polski w latach 2005-2006 205.", 
     "domain": "www.aunc.archeologia.umk.pl", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8258937135871710449", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.072616"
+            "when": "2015-10-27T18:47:07.095116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/newly-open-access-journal-acta.html", 
             "resource_date": "2012-03-16T09:49:41.733-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.072627"
+            "when": "2015-10-27T18:47:07.095128"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Arkadiusz Koperkiewicz, Wojciech Szulta, Sprawozdanie z podwodnego rekonesansu archeologicznego w rzece Narew, w miejscowo\u015bci Sura\u017c, b. woj. podlaskie 197", 
+    "title": "Arkadiusz Koperkiewicz, Wojciech Szulta, Sprawozdanie z podwodnego rekonesansu archeologicznego w rzece Narew, w miejscowości Suraż, b. woj. podlaskie 197", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6730820566622516105", 
             "resource_date": "2014-01-11T09:54:01.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.592559"
+            "when": "2015-10-27T18:45:08.823452"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-archaeology-books-from-cairn.html", 
             "resource_date": "2014-01-11T09:54:01.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.592575"
+            "when": "2015-10-27T18:45:08.823468"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6730820566622516105", 
             "resource_date": "2014-01-11T09:54:01.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:28.594321"
+            "when": "2015-10-27T18:45:08.825412"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-archaeology-books-from-cairn.html", 
             "resource_date": "2014-01-11T09:54:01.615-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:28.594333"
+            "when": "2015-10-27T18:45:08.825424"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:28.599259"
+            "when": "2015-10-27T18:45:08.831300"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
             "url": "http://www.cairn.info/Disc_OuvragesCollectifs.php?POS=27&TITRE=ALL"
         }, 
         {
-            "title_full": "L'arch\u00e9ologie pr\u00e9ventive dans le monde Jean-Paul Demoule 2007 La D\u00e9couverte Consulter", 
+            "title_full": "L'archéologie préventive dans le monde Jean-Paul Demoule 2007 La Découverte Consulter", 
             "url": "http://www.cairn.info/editeur.php?ID_EDITEUR=DEC"
         }, 
         {
-            "title_full": "Pyth\u00e9as le Grec d\u00e9couvre l\u2019Europe du Nord Barry Cunliffe 2003 Autrement Consulter", 
+            "title_full": "Pythéas le Grec découvre l’Europe du Nord Barry Cunliffe 2003 Autrement Consulter", 
             "url": "http://www.cairn.info/editeur.php?ID_EDITEUR=AUTRE"
         }
     ], 

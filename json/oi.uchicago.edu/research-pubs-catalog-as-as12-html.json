@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\"AS 10. Gilgamesh and the \u1e2auluppu-Tree: A Reconstructed Sumerian Text. Samuel N. Kramer. Originally published in 1938. \".", 
+    "description": "\"AS 10. Gilgamesh and the Ḫuluppu-Tree: A Reconstructed Sumerian Text. Samuel N. Kramer. Originally published in 1938. \".", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.928595"
+            "when": "2015-10-27T18:38:38.990074"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.928615"
+            "when": "2015-10-27T18:38:38.990085"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5302722719132675692", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:52.701434"
+            "when": "2015-10-27T18:43:24.079126"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/newly-online-from-oriental-institutes_23.html", 
             "resource_date": "2012-11-30T17:36:36.147-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:52.701448"
+            "when": "2015-10-27T18:43:24.079138"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:52.740418"
+            "when": "2015-10-27T18:43:24.127235"
         }
     ], 
     "publishers": [], 

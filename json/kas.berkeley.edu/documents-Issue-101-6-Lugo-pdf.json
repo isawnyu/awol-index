@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Adonia E. Lugo. Visca el Bar\u00e7a! Ideology, Nationalism, and the FIFA World Cup.", 
+    "description": "Adonia E. Lugo. Visca el Barça! Ideology, Nationalism, and the FIFA World Cup.", 
     "domain": "kas.berkeley.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8717722702617057076", 
             "resource_date": "2013-01-20T17:10:26.117-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:49.102783"
+            "when": "2015-10-27T18:48:44.443813"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/open-access-journal-kroeber.html", 
             "resource_date": "2013-01-20T17:10:26.117-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:49.102794"
+            "when": "2015-10-27T18:48:44.443825"
         }
     ], 
     "publishers": [], 

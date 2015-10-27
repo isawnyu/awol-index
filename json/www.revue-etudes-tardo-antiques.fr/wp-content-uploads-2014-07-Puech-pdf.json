@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "- p. 177-216. Abstract: The coercion on religious life exercised by late antique emperors has often been studied from a merely institutional point of view. It should not be forgotten, however, that the emperor was also able to mobilize social networks in order to ensure the enactment of his decisions. Taking as its starting point volumes II and III of theProsopography of the Later Roman Empire by J. R. Martindale, this study will focus on the lay representatives of the emperor. It shows that all the dignitaries and officials were concerned with religious policy. Whilst this confirms the sanctity of the court, acts of religious coercion take on different forms according to the hierarchy of courtiers. In addition, individual religious beliefs and geographical origins played a role in the emperor\u2019s choice of his representative. Finally, we will consider the real failures of imperial power in the field of religious coercion.", 
+    "description": "- p. 177-216. Abstract: The coercion on religious life exercised by late antique emperors has often been studied from a merely institutional point of view. It should not be forgotten, however, that the emperor was also able to mobilize social networks in order to ensure the enactment of his decisions. Taking as its starting point volumes II and III of theProsopography of the Later Roman Empire by J. R. Martindale, this study will focus on the lay representatives of the emperor. It shows that all the dignitaries and officials were concerned with religious policy. Whilst this confirms the sanctity of the court, acts of religious coercion take on different forms according to the hierarchy of courtiers. In addition, individual religious beliefs and geographical origins played a role in the emperor’s choice of his representative. Finally, we will consider the real failures of imperial power in the field of religious coercion.", 
     "domain": "www.revue-etudes-tardo-antiques.fr", 
     "editors": [], 
     "end_date": null, 
@@ -11,7 +11,7 @@
     "identifiers": {}, 
     "is_part_of": {
         "issn": "2115-8266", 
-        "title_full": "Revue des \u00c9tudes Tardo-antiques Suppl\u00e9ment 1 (2013-2014)", 
+        "title_full": "Revue des Études Tardo-antiques Supplément 1 (2013-2014)", 
         "url": "http://www.revue-etudes-tardo-antiques.fr/ret-supplement-1-2013-2014/"
     }, 
     "issuance": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7234422806154155363", 
             "resource_date": "2015-02-13T11:56:49.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:51.978737"
+            "when": "2015-10-27T18:45:34.543707"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/reseaux-sociaux-et-contraintes-dans.html", 
             "resource_date": "2015-02-13T11:56:49.436-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:51.978749"
+            "when": "2015-10-27T18:45:34.543719"
         }
     ], 
     "publishers": [], 
@@ -77,7 +77,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Repr\u00e9sentants de l\u2019empereur et interventions dans la sph\u00e8re religieuse en Orient aux Ve et VIe si\u00e8cles", 
+    "title": "Représentants de l’empereur et interventions dans la sphère religieuse en Orient aux Ve et VIe siècles", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

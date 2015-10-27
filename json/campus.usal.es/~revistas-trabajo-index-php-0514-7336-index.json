@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zephyrus. ISSN: 0514-7336 ZEPHYRVS es una Revista cient\u00edfica internacional de PREHISTORIA y ARQUEOLOG\u00cdA, editada por la Universidad de Salamanca. ZEPHYRVS aparece semestralmente. Las secciones de ART\u00cdCULOS, VARIA y NOTAS CR\u00cdTICAS/RESE\u00d1AS publican, respectivamente, trabajos originales de investigaci\u00f3n, informaciones cient\u00edficas novedosas o hallazgos importantes, producidos en diversas partes del mundo, y estados de la cuesti\u00f3n o recensiones de monograf\u00edas de calidad, seleccionadas entre aquellas obras recibidas en la Redacci\u00f3n de la Revista.", 
+    "description": "Zephyrus. ISSN: 0514-7336 ZEPHYRVS es una Revista científica internacional de PREHISTORIA y ARQUEOLOGÍA, editada por la Universidad de Salamanca. ZEPHYRVS aparece semestralmente. Las secciones de ARTÍCULOS, VARIA y NOTAS CRÍTICAS/RESEÑAS publican, respectivamente, trabajos originales de investigación, informaciones científicas novedosas o hallazgos importantes, producidos en diversas partes del mundo, y estados de la cuestión o recensiones de monografías de calidad, seleccionadas entre aquellas obras recibidas en la Redacción de la Revista.", 
     "domain": "campus.usal.es", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2404542587548506132", 
             "resource_date": "2014-07-29T10:54:41.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.656755"
+            "when": "2015-10-27T18:38:44.579263"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-jpournal-zephyrus.html", 
             "resource_date": "2014-07-29T10:54:41.781-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.656777"
+            "when": "2015-10-27T18:38:44.579280"
         }
     ], 
     "publishers": [], 

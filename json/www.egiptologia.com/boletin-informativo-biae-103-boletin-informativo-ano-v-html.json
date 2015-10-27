@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bolet\u00edn Informativo - A\u00f1o IV Bolet\u00edn Informativo de Amigos de la Egiptolog\u00eda (BIAE) - A\u00f1o IV.", 
+    "description": "Boletín Informativo - Año IV Boletín Informativo de Amigos de la Egiptología (BIAE) - Año IV.", 
     "domain": "www.egiptologia.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Bolet\u00edn Informativo de Amigos de la Egiptolog\u00eda (BIAE)", 
+        "title_full": "Boletín Informativo de Amigos de la Egiptología (BIAE)", 
         "url": "http://www.egiptologia.com/boletin-informativo-biae.html"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7385854080843656142", 
             "resource_date": "2013-12-16T08:04:40.079-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:00.108435"
+            "when": "2015-10-27T18:45:43.227217"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/open-access-journal-boletin-informativo.html", 
             "resource_date": "2013-12-16T08:04:40.079-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:00.108450"
+            "when": "2015-10-27T18:45:43.227231"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Bolet\u00edn Informativo - A\u00f1o V Bolet\u00edn Informativo de Amigos de la Egiptolog\u00eda (BIAE) - A\u00f1o V", 
+    "title": "Boletín Informativo - Año V Boletín Informativo de Amigos de la Egiptología (BIAE) - Año V", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

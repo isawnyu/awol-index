@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Charpin, D. and Joann\u00e8s, F. (Hrsgg. ): La circulation des biens, des personnes et des id\u00e9es dans le Proche-Orient ancien. Actes de la XXXVIIIe Rencontre Assyriologique Internationale (Paris, 8-10 juillet 1991). Paris 1992, pp. 389-396. Maul, Stefan (1992).", 
+    "description": "In: Charpin, D. and Joannès, F. (Hrsgg. ): La circulation des biens, des personnes et des idées dans le Proche-Orient ancien. Actes de la XXXVIIIe Rencontre Assyriologique Internationale (Paris, 8-10 juillet 1991). Paris 1992, pp. 389-396. Maul, Stefan (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.664315"
+            "when": "2015-10-27T18:46:21.415993"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.664333"
+            "when": "2015-10-27T18:46:21.416009"
         }
     ], 
     "publishers": [], 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5249708013475536215", 
             "resource_date": "2012-07-04T08:53:20.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:48.967873"
+            "when": "2015-10-27T18:43:19.982634"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-database-of-ancient-art.html", 
             "resource_date": "2012-07-04T08:53:20.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:48.967888"
+            "when": "2015-10-27T18:43:19.982652"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5249708013475536215", 
             "resource_date": "2012-07-04T08:53:20.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:48.969490"
+            "when": "2015-10-27T18:43:19.984768"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-database-of-ancient-art.html", 
             "resource_date": "2012-07-04T08:53:20.329-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:48.969501"
+            "when": "2015-10-27T18:43:19.984782"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:49.002096"
+            "when": "2015-10-27T18:43:20.019384"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
             "url": "http://ancientrome.ru/art/artworken/art-search-e.htm"
         }, 
         {
-            "title_full": "\u041f\u041e\u0418\u0421\u041a \u0418\u0417\u041e\u0411\u0420\u0410\u0416\u0415\u041d\u0418\u0419 \u0412 \u0410\u041d\u0422\u0418\u0427\u041d\u041e\u041c \u0418\u0421\u041a\u0423\u0421\u0421\u0422\u0412\u0415", 
+            "title_full": "ПОИСК ИЗОБРАЖЕНИЙ В АНТИЧНОМ ИСКУССТВЕ", 
             "url": "http://ancientrome.ru/art/artwork/art-search.htm"
         }, 
         {

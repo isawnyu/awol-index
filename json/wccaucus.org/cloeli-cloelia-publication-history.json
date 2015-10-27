@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 7 May 2011. Updated 24 October 2014]. Cloelia: Newsletter of the Women's Classical Caucus. 2012 is the 40th Anniversary of the Women\u2019s Classical Caucus. As part of the 40th Anniversary volume of Cloelia, many members of the WCC have joined together to help digitize the WCC Newsletter and related archival material. This page is the beginning of this project.", 
+    "description": "[First posted in AWOL 7 May 2011. Updated 24 October 2014]. Cloelia: Newsletter of the Women's Classical Caucus. 2012 is the 40th Anniversary of the Women’s Classical Caucus. As part of the 40th Anniversary volume of Cloelia, many members of the WCC have joined together to help digitize the WCC Newsletter and related archival material. This page is the beginning of this project.", 
     "domain": "wccaucus.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-144035027828726329", 
             "resource_date": "2014-10-24T11:50:47.875-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:32.435625"
+            "when": "2015-10-27T18:37:35.044451"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-cloelia.html", 
             "resource_date": "2014-10-24T11:50:47.875-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:32.435641"
+            "when": "2015-10-27T18:37:35.044467"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Dike. Rivista di storia del diritto greco ed ellenistico. ISSN: 1128-8221. DIKE \u00e8 la prima rivista specificamente dedicata allo studio del diritto greco ed ellenistico: pubblica articoli sottoposti a \"revisione\" (peer review). La rivista, diretta da Eva Cantarella e Alberto Maffi, \u00e8 pubblicata con il contributo e sotto gli auspici del Dipartimento di Diritto privato e Storia del Diritto dell\u2019Universit\u00e0 degli Studi di Milano. Si prevede la pubblicazione di un numero annuale nel mese di dicembre. DIKE \u00e8 aperta non solo agli specialisti del settore, ma anche a tutti gli studiosi interessati agli aspetti giuridici della civilt\u00e0 greca. Pubblicher\u00e0 articoli in francese, inglese, greco, spagnolo, tedesco e italiano.", 
+    "description": "Dike. Rivista di storia del diritto greco ed ellenistico. ISSN: 1128-8221. DIKE è la prima rivista specificamente dedicata allo studio del diritto greco ed ellenistico: pubblica articoli sottoposti a \"revisione\" (peer review). La rivista, diretta da Eva Cantarella e Alberto Maffi, è pubblicata con il contributo e sotto gli auspici del Dipartimento di Diritto privato e Storia del Diritto dell’Università degli Studi di Milano. Si prevede la pubblicazione di un numero annuale nel mese di dicembre. DIKE è aperta non solo agli specialisti del settore, ma anche a tutti gli studiosi interessati agli aspetti giuridici della civiltà greca. Pubblicherà articoli in francese, inglese, greco, spagnolo, tedesco e italiano.", 
     "domain": "riviste.unimi.it", 
     "editors": [], 
     "end_date": null, 
@@ -73,13 +73,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3353180586680076542", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.537691"
+            "when": "2015-10-27T18:40:34.192546"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-dike-rivista-di.html", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.537706"
+            "when": "2015-10-27T18:40:34.192567"
         }, 
         {
             "fields": [
@@ -120,13 +120,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3353180586680076542", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.543282"
+            "when": "2015-10-27T18:40:34.199338"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-dike-rivista-di.html", 
             "resource_date": "2013-07-05T08:24:41.971-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.543295"
+            "when": "2015-10-27T18:40:34.199353"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:20.545150"
+            "when": "2015-10-27T18:40:34.201298"
         }
     ], 
     "publishers": [], 

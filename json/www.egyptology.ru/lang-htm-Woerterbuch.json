@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "W\u00d6RTERBUCH DER AEGYPTISCHEN SPRACHE im Auftrage der deutschen Akademien hrsg. von Adolf Erman und Hermann Grapow. Bd. I-V.", 
+    "description": "WÖRTERBUCH DER AEGYPTISCHEN SPRACHE im Auftrage der deutschen Akademien hrsg. von Adolf Erman und Hermann Grapow. Bd. I-V.", 
     "domain": "www.egyptology.ru", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "W\u00d6RTERBUCH DER AEGYPTISCHEN SPRACHE", 
+        "title_full": "WÖRTERBUCH DER AEGYPTISCHEN SPRACHE", 
         "url": "http://www.egyptology.ru/lang.htm#Woerterbuch"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4018703502665584106", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:57.132639"
+            "when": "2015-10-27T18:41:19.402954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/digitized-worterbuch-der-agytschen.html", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:57.132656"
+            "when": "2015-10-27T18:41:19.402971"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4018703502665584106", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:57.135070"
+            "when": "2015-10-27T18:41:19.405650"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/digitized-worterbuch-der-agytschen.html", 
             "resource_date": "2014-02-01T16:17:51.763-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:57.135083"
+            "when": "2015-10-27T18:41:19.405677"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:57.205847"
+            "when": "2015-10-27T18:41:19.491182"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "W\u00d6RTERBUCH DER AEGYPTISCHEN SPRACHE", 
+            "title_full": "WÖRTERBUCH DER AEGYPTISCHEN SPRACHE", 
             "url": "http://www.egyptology.ru/lang.htm#Woerterbuch"
         }, 
         {
@@ -331,7 +331,7 @@
             "url": "http://www.egyptology.ru/lang/Wb/Beleg/belegstellen_5_pt2.pdf"
         }, 
         {
-            "title_full": "\u0421\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f", 
+            "title_full": "Сокращения", 
             "url": "http://www.egyptology.ru/lang/Wb/Beleg/belegstellen_1_Abkurzungen.pdf"
         }, 
         {
@@ -339,7 +339,7 @@
             "url": "http://www.egyptology.ru/lang/Wb/Beleg/belegstellen_2_640-767.pdf"
         }
     ], 
-    "title": "W\u00d6RTERBUCH DER AEGYPTISCHEN SPRACHE", 
+    "title": "WÖRTERBUCH DER AEGYPTISCHEN SPRACHE", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

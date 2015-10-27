@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1813593822822084924", 
             "resource_date": "2014-05-26T11:04:57.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:59.843924"
+            "when": "2015-10-27T18:38:04.906624"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/9th-international-congress-on.html", 
             "resource_date": "2014-05-26T11:04:57.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:59.843940"
+            "when": "2015-10-27T18:38:04.906643"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1813593822822084924", 
             "resource_date": "2014-05-26T11:04:57.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:59.848419"
+            "when": "2015-10-27T18:38:04.912644"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/9th-international-congress-on.html", 
             "resource_date": "2014-05-26T11:04:57.535-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:59.848432"
+            "when": "2015-10-27T18:38:04.912659"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:59.863871"
+            "when": "2015-10-27T18:38:04.929142"
         }
     ], 
     "publishers": [], 

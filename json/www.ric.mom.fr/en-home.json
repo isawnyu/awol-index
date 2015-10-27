@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Monnaies de l\u2019Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276. Ce site web constitue le pr\u00e9alable \u00e0 la r\u00e9vision du volume V. 1 du Roman Imperial Coinage. La base de donn\u00e9es pr\u00e9sent\u00e9e ici concerne les r\u00e8gnes de 268 \u00e0 276 de n. \u00e8. , soit les r\u00e8gnes de Claude II le Gothique, Quintille, Aur\u00e9lien, Tacite, Florien, ainsi que le monnayage des princes de Palmyre, Vabalath et Z\u00e9nobie, \u00e9mis par l\u2019atelier imp\u00e9rial d\u2019Antioche. La p\u00e9riode couvre ainsi une phase importante de la \u00abcrise du IIIe si\u00e8cle\u00bb que vit l\u2019Empire romain, des r\u00e8gnes qui en symbolisent le mieux le point le plus critique (Claude II) \u00e0 ceux qui op\u00e8rent la n\u00e9cessaire reprise en main (Aur\u00e9lien et ses successeurs). Les compl\u00e9ments ou corrections que nous en esp\u00e9rons de la part de la collectivit\u00e9 scientifique nous permettra de viser \u00e0 une meilleure exhaustivit\u00e9 pour le corpus papier en pr\u00e9paration (RIC V. 1/2), un objectif qu\u2019il est particuli\u00e8rement ardu d\u2019atteindre pour cette p\u00e9riode d\u2019inflation de la frappe mon\u00e9taire et de diversification de son appareil de production. La documentation rassembl\u00e9e ici est bas\u00e9e au premier chef sur les 12 principales collections institutionnelles de r\u00e9f\u00e9rence (Paris, Londres, Oxford, Vienne, Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge, Berlin, New York) qui ont \u00e9t\u00e9 \u00e9tudi\u00e9es et num\u00e9ris\u00e9es exhaustivement gr\u00e2ce \u00e0 l\u2019accord de leurs conservateurs. Qu\u2019ils en soient ici chaleureusement remerci\u00e9s: sans eux, ce travail n\u2019aurait pu voir le jour. La base de donn\u00e9es compte \u00e0 l\u2019heure actuelle plus de 4540 entr\u00e9es, bas\u00e9es sur 104 000 monnaies et plus de 80 000 photographies num\u00e9riques. Le projet est financ\u00e9 depuis 2004 par des programmes CNRS (GDR, PICS Nummi et Cimelia) ou ANR (ANR MONetA) dont Sylviane Estiot est responsable.", 
+    "description": "Monnaies de l’Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276. Ce site web constitue le préalable à la révision du volume V. 1 du Roman Imperial Coinage. La base de données présentée ici concerne les règnes de 268 à 276 de n. è. , soit les règnes de Claude II le Gothique, Quintille, Aurélien, Tacite, Florien, ainsi que le monnayage des princes de Palmyre, Vabalath et Zénobie, émis par l’atelier impérial d’Antioche. La période couvre ainsi une phase importante de la «crise du IIIe siècle» que vit l’Empire romain, des règnes qui en symbolisent le mieux le point le plus critique (Claude II) à ceux qui opèrent la nécessaire reprise en main (Aurélien et ses successeurs). Les compléments ou corrections que nous en espérons de la part de la collectivité scientifique nous permettra de viser à une meilleure exhaustivité pour le corpus papier en préparation (RIC V. 1/2), un objectif qu’il est particulièrement ardu d’atteindre pour cette période d’inflation de la frappe monétaire et de diversification de son appareil de production. La documentation rassemblée ici est basée au premier chef sur les 12 principales collections institutionnelles de référence (Paris, Londres, Oxford, Vienne, Copenhague, Milan, Budapest, Munich, Bruxelles, Cambridge, Berlin, New York) qui ont été étudiées et numérisées exhaustivement grâce à l’accord de leurs conservateurs. Qu’ils en soient ici chaleureusement remerciés: sans eux, ce travail n’aurait pu voir le jour. La base de données compte à l’heure actuelle plus de 4540 entrées, basées sur 104 000 monnaies et plus de 80 000 photographies numériques. Le projet est financé depuis 2004 par des programmes CNRS (GDR, PICS Nummi et Cimelia) ou ANR (ANR MONetA) dont Sylviane Estiot est responsable.", 
     "domain": "www.ric.mom.fr", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2907513398071813917", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.971420"
+            "when": "2015-10-27T18:39:02.246647"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/roman-imperial-coinage-ad-268-276.html", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.971437"
+            "when": "2015-10-27T18:39:02.246663"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2907513398071813917", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.973822"
+            "when": "2015-10-27T18:39:02.248954"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/roman-imperial-coinage-ad-268-276.html", 
             "resource_date": "2012-04-11T08:19:01.666-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.973835"
+            "when": "2015-10-27T18:39:02.248965"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:54.014903"
+            "when": "2015-10-27T18:39:02.290990"
         }
     ], 
     "publishers": [], 
@@ -145,7 +145,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Monnaies de l\u2019Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
+            "title_full": "Monnaies de l’Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
             "url": "http://www.ric.mom.fr/en/home"
         }, 
         {
@@ -153,7 +153,7 @@
             "url": "http://www.ric.mom.fr/tpl/ric/popup/present-pop1.htm"
         }, 
         {
-            "title_full": "base de donn\u00e9es", 
+            "title_full": "base de données", 
             "url": "http://www.ric.mom.fr/tpl/ric/popup/present-pop2.htm"
         }, 
         {
@@ -161,7 +161,7 @@
             "url": "http://www.ric.mom.fr/tpl/ric/popup/present-pop3.htm"
         }, 
         {
-            "title_full": "entr\u00e9es", 
+            "title_full": "entrées", 
             "url": "http://www.ric.mom.fr/tpl/ric/popup/present-pop4.htm"
         }, 
         {
@@ -169,7 +169,7 @@
             "url": "http://www.ric.mom.fr/fr/home"
         }, 
         {
-            "title_full": "Base de donn\u00e9es", 
+            "title_full": "Base de données", 
             "url": "http://www.ric.mom.fr/fr/search"
         }, 
         {
@@ -177,7 +177,7 @@
             "url": "http://www.ric.mom.fr/fr/info/hist"
         }, 
         {
-            "title_full": "Syst. mon\u00e9taire", 
+            "title_full": "Syst. monétaire", 
             "url": "http://www.ric.mom.fr/fr/info/sysmon"
         }, 
         {
@@ -189,9 +189,9 @@
             "url": "http://www.ric.mom.fr/fr/purse"
         }
     ], 
-    "title": "Monnaies de l\u2019Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
+    "title": "Monnaies de l’Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
     "title_alternates": [], 
-    "title_extended": "Monnaies de l\u2019Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
+    "title_extended": "Monnaies de l’Empire Romain AD 268-276 - Roman Imperial Coinage AD 268-276", 
     "type": null, 
     "url": "http://www.ric.mom.fr/en/home", 
     "url_alternates": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Coroplathie et datation dans l\u2019\u00c9gypte gr\u00e9co-Romaine: \u00e9tat de la question. Par: Elodie Rott\u00e9.", 
+    "description": "Coroplathie et datation dans l’Égypte gréco-Romaine: état de la question. Par: Elodie Rotté.", 
     "domain": "annalesdejanua.edel.univ-poitiers.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Annales de Janua - Actes des journ\u00e9es d\u2019\u00e9tudes", 
+        "title_full": "Annales de Janua - Actes des journées d’études", 
         "url": "http://annalesdejanua.edel.univ-poitiers.fr/"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6057210403388920442", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.061013"
+            "when": "2015-10-27T18:44:17.902240"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/open-access-journal-annales-de-janua.html", 
             "resource_date": "2015-01-03T14:56:45.445-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.061026"
+            "when": "2015-10-27T18:44:17.902265"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Du monument \u00e0 son histoire : aper\u00e7u m\u00e9thodologique des \u00e9tudes castrales en France Par : Laure Leroux . fr Publi\u00e9 en ligne le 15/04/13", 
+    "title": "Du monument à son histoire : aperçu méthodologique des études castrales en France Par : Laure Leroux . fr Publié en ligne le 15/04/13", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

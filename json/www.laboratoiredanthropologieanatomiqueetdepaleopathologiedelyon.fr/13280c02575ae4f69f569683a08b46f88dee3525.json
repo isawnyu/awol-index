@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "sur la base du cr\u00e2ne et sur l'articulation temporo - mandibulaire ( Bensoussan J. C, Dessaigne D. et Perrot R. ), p. 49 [ texte complet, pdf ].", 
+    "description": "sur la base du crâne et sur l'articulation temporo - mandibulaire ( Bensoussan J. C, Dessaigne D. et Perrot R. ), p. 49 [ texte complet, pdf ].", 
     "domain": "www.laboratoiredanthropologieanatomiqueetdepaleopathologiedelyon.fr", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5452379163294567338", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:02.584920"
+            "when": "2015-10-27T18:43:34.439723"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-paleobios.html", 
             "resource_date": "2015-05-28T14:12:45.697-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:02.584931"
+            "when": "2015-10-27T18:43:34.439735"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "( Allier ), XII\u00e8me - post XV\u00b0 si\u00e8cle( Soulier D. ), p.37 [ texte complet, pdf ]", 
+    "title": "( Allier ), XIIème - post XV° siècle( Soulier D. ), p.37 [ texte complet, pdf ]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

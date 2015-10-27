@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arch\u00e4ologischer Anzeiger. 1900Arch\u00e4ologischer Anzeiger Band 1900 1899Arch\u00e4ologischer Anzeiger Band 18991898Arch\u00e4ologischer Anzeiger Band 18981897Arch\u00e4ologischer Anzeiger Band 18971896Arch\u00e4ologischer Anzeiger Band 18961895Arch\u00e4ologischer Anzeiger Band 18951894Arch\u00e4ologischer Anzeiger Band 18941893Arch\u00e4ologischer Anzeiger Band 18931892Arch\u00e4ologischer Anzeiger Band 18921891Arch\u00e4ologischer Anzeiger Band 18911890Arch\u00e4ologischer Anzeiger Band 18901889Arch\u00e4ologischer Anzeiger Band 18891867Arch\u00e4ologischer Anzeiger Band 18671866Arch\u00e4ologischer Anzeiger Band 18661865Arch\u00e4ologischer Anzeiger Band 18651864Arch\u00e4ologischer Anzeiger Band 18641863Arch\u00e4ologischer Anzeiger Band 18631862Arch\u00e4ologischer Anzeiger Band 18621861Arch\u00e4ologischer Anzeiger Band 18611860Arch\u00e4ologischer Anzeiger Band 18601859Arch\u00e4ologischer Anzeiger Band 18591858Arch\u00e4ologischer Anzeiger Band 18581857Arch\u00e4ologischer Anzeiger Band 18571856Arch\u00e4ologischer Anzeiger Band 18561855Arch\u00e4ologischer Anzeiger Band 18551854Arch\u00e4ologischer Anzeiger Band 18541853Arch\u00e4ologischer Anzeiger Band 18531852Arch\u00e4ologischer Anzeiger Band 18521851Arch\u00e4ologischer Anzeiger Band 18511850Arch\u00e4ologischer Anzeiger Band 18501849Arch\u00e4ologischer Anzeiger Band 1849 See the full.", 
+    "description": "Archäologischer Anzeiger. 1900Archäologischer Anzeiger Band 1900 1899Archäologischer Anzeiger Band 18991898Archäologischer Anzeiger Band 18981897Archäologischer Anzeiger Band 18971896Archäologischer Anzeiger Band 18961895Archäologischer Anzeiger Band 18951894Archäologischer Anzeiger Band 18941893Archäologischer Anzeiger Band 18931892Archäologischer Anzeiger Band 18921891Archäologischer Anzeiger Band 18911890Archäologischer Anzeiger Band 18901889Archäologischer Anzeiger Band 18891867Archäologischer Anzeiger Band 18671866Archäologischer Anzeiger Band 18661865Archäologischer Anzeiger Band 18651864Archäologischer Anzeiger Band 18641863Archäologischer Anzeiger Band 18631862Archäologischer Anzeiger Band 18621861Archäologischer Anzeiger Band 18611860Archäologischer Anzeiger Band 18601859Archäologischer Anzeiger Band 18591858Archäologischer Anzeiger Band 18581857Archäologischer Anzeiger Band 18571856Archäologischer Anzeiger Band 18561855Archäologischer Anzeiger Band 18551854Archäologischer Anzeiger Band 18541853Archäologischer Anzeiger Band 18531852Archäologischer Anzeiger Band 18521851Archäologischer Anzeiger Band 18511850Archäologischer Anzeiger Band 18501849Archäologischer Anzeiger Band 1849 See the full.", 
     "domain": "www.digizeitschriften.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6277589951559075599", 
             "resource_date": "2015-01-06T18:50:53.791-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:57.607548"
+            "when": "2015-10-27T18:44:34.618165"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-archaologischer.html", 
             "resource_date": "2015-01-06T18:50:53.791-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:57.607566"
+            "when": "2015-10-27T18:44:34.618184"
         }
     ], 
     "publishers": [], 
@@ -79,131 +79,131 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "1900 Arch\u00e4ologischer Anzeiger Band 1900", 
+            "title_full": "1900 Archäologischer Anzeiger Band 1900", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1900"
         }, 
         {
-            "title_full": "1899 Arch\u00e4ologischer Anzeiger Band 1899", 
+            "title_full": "1899 Archäologischer Anzeiger Band 1899", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1899"
         }, 
         {
-            "title_full": "1898 Arch\u00e4ologischer Anzeiger Band 1898", 
+            "title_full": "1898 Archäologischer Anzeiger Band 1898", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1898"
         }, 
         {
-            "title_full": "1897 Arch\u00e4ologischer Anzeiger Band 1897", 
+            "title_full": "1897 Archäologischer Anzeiger Band 1897", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1897"
         }, 
         {
-            "title_full": "1896 Arch\u00e4ologischer Anzeiger Band 1896", 
+            "title_full": "1896 Archäologischer Anzeiger Band 1896", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1896"
         }, 
         {
-            "title_full": "1895 Arch\u00e4ologischer Anzeiger Band 1895", 
+            "title_full": "1895 Archäologischer Anzeiger Band 1895", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1895"
         }, 
         {
-            "title_full": "1894 Arch\u00e4ologischer Anzeiger Band 1894", 
+            "title_full": "1894 Archäologischer Anzeiger Band 1894", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1894"
         }, 
         {
-            "title_full": "1893 Arch\u00e4ologischer Anzeiger Band 1893", 
+            "title_full": "1893 Archäologischer Anzeiger Band 1893", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1893"
         }, 
         {
-            "title_full": "1892 Arch\u00e4ologischer Anzeiger Band 1892", 
+            "title_full": "1892 Archäologischer Anzeiger Band 1892", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1892"
         }, 
         {
-            "title_full": "1891 Arch\u00e4ologischer Anzeiger Band 1891", 
+            "title_full": "1891 Archäologischer Anzeiger Band 1891", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1891"
         }, 
         {
-            "title_full": "1890 Arch\u00e4ologischer Anzeiger Band 1890", 
+            "title_full": "1890 Archäologischer Anzeiger Band 1890", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1890"
         }, 
         {
-            "title_full": "1889 Arch\u00e4ologischer Anzeiger Band 1889", 
+            "title_full": "1889 Archäologischer Anzeiger Band 1889", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1889"
         }, 
         {
-            "title_full": "1867 Arch\u00e4ologischer Anzeiger Band 1867", 
+            "title_full": "1867 Archäologischer Anzeiger Band 1867", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1867"
         }, 
         {
-            "title_full": "1866 Arch\u00e4ologischer Anzeiger Band 1866", 
+            "title_full": "1866 Archäologischer Anzeiger Band 1866", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1866"
         }, 
         {
-            "title_full": "1865 Arch\u00e4ologischer Anzeiger Band 1865", 
+            "title_full": "1865 Archäologischer Anzeiger Band 1865", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1865"
         }, 
         {
-            "title_full": "1864 Arch\u00e4ologischer Anzeiger Band 1864", 
+            "title_full": "1864 Archäologischer Anzeiger Band 1864", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1864"
         }, 
         {
-            "title_full": "1863 Arch\u00e4ologischer Anzeiger Band 1863", 
+            "title_full": "1863 Archäologischer Anzeiger Band 1863", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1863"
         }, 
         {
-            "title_full": "1862 Arch\u00e4ologischer Anzeiger Band 1862", 
+            "title_full": "1862 Archäologischer Anzeiger Band 1862", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1862"
         }, 
         {
-            "title_full": "1861 Arch\u00e4ologischer Anzeiger Band 1861", 
+            "title_full": "1861 Archäologischer Anzeiger Band 1861", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1861"
         }, 
         {
-            "title_full": "1860 Arch\u00e4ologischer Anzeiger Band 1860", 
+            "title_full": "1860 Archäologischer Anzeiger Band 1860", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1860"
         }, 
         {
-            "title_full": "1859 Arch\u00e4ologischer Anzeiger Band 1859", 
+            "title_full": "1859 Archäologischer Anzeiger Band 1859", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1859"
         }, 
         {
-            "title_full": "1858 Arch\u00e4ologischer Anzeiger Band 1858", 
+            "title_full": "1858 Archäologischer Anzeiger Band 1858", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1858"
         }, 
         {
-            "title_full": "1857 Arch\u00e4ologischer Anzeiger Band 1857", 
+            "title_full": "1857 Archäologischer Anzeiger Band 1857", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1857"
         }, 
         {
-            "title_full": "1856 Arch\u00e4ologischer Anzeiger Band 1856", 
+            "title_full": "1856 Archäologischer Anzeiger Band 1856", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1856"
         }, 
         {
-            "title_full": "1855 Arch\u00e4ologischer Anzeiger Band 1855", 
+            "title_full": "1855 Archäologischer Anzeiger Band 1855", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1855"
         }, 
         {
-            "title_full": "1854 Arch\u00e4ologischer Anzeiger Band 1854", 
+            "title_full": "1854 Archäologischer Anzeiger Band 1854", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1854"
         }, 
         {
-            "title_full": "1853 Arch\u00e4ologischer Anzeiger Band 1853", 
+            "title_full": "1853 Archäologischer Anzeiger Band 1853", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1853"
         }, 
         {
-            "title_full": "1852 Arch\u00e4ologischer Anzeiger Band 1852", 
+            "title_full": "1852 Archäologischer Anzeiger Band 1852", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1852"
         }, 
         {
-            "title_full": "1851 Arch\u00e4ologischer Anzeiger Band 1851", 
+            "title_full": "1851 Archäologischer Anzeiger Band 1851", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1851"
         }, 
         {
-            "title_full": "1850 Arch\u00e4ologischer Anzeiger Band 1850", 
+            "title_full": "1850 Archäologischer Anzeiger Band 1850", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1850"
         }, 
         {
-            "title_full": "1849 Arch\u00e4ologischer Anzeiger Band 1849", 
+            "title_full": "1849 Archäologischer Anzeiger Band 1849", 
             "url": "http://www.digizeitschriften.de/dms/toc/?PPN=PPN776863886_1849"
         }
     ], 
-    "title": "Arch\u00e4ologischer Anzeiger", 
+    "title": "Archäologischer Anzeiger", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

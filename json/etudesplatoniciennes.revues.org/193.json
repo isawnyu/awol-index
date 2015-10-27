@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "10 | 2013. Platon et la techn\u00e8.", 
+    "description": "10 | 2013. Platon et la technè.", 
     "domain": "etudesplatoniciennes.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c9tudes platoniciennes", 
+        "title_full": "Études platoniciennes", 
         "url": "http://etudesplatoniciennes.revues.org/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5842141854366903715", 
             "resource_date": "2014-07-18T06:40:40.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:20.461140"
+            "when": "2015-10-27T18:43:53.589709"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/newly-open-access-journal-etudes.html", 
             "resource_date": "2014-07-18T06:40:40.964-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:20.461153"
+            "when": "2015-10-27T18:43:53.589722"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "9 | 2012 . Platon aujourd\u2019hui Loin de diminuer \u00e0 l\u2019or\u00e9e du troisi\u00e8me mill\u00e9naire, le nombre des \u00e9tudes sp\u00e9cialis\u00e9es sur Platon, son \u0153uvre et sa philosophie ne cesse d\u2019augmenter. Pourquoi cet engouement pour un philosophe que deux mill\u00e9naires et demi s\u00e9parent de nous ? De quelle signification et de quelle port\u00e9e est la philosophie platonicienne pour le monde d\u2019aujourd\u2019hui ? Qu\u2019il s\u2019agisse de questions \u00e9pist\u00e9mologiques, de r\u00e9flexion sur les math\u00e9matiques, la physique, la cosmologie ; qu\u2019il s\u2019agisse encore(...)", 
+    "title": "9 | 2012 . Platon aujourd’hui Loin de diminuer à l’orée du troisième millénaire, le nombre des études spécialisées sur Platon, son œuvre et sa philosophie ne cesse d’augmenter. Pourquoi cet engouement pour un philosophe que deux millénaires et demi séparent de nous ? De quelle signification et de quelle portée est la philosophie platonicienne pour le monde d’aujourd’hui ? Qu’il s’agisse de questions épistémologiques, de réflexion sur les mathématiques, la physique, la cosmologie ; qu’il s’agisse encore(...)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

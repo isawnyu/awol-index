@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Posluschny, A. and Lambers, K. and Herzog, I. (Hrsgg. ): Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, 2. -6. April, 2007 (Koll. Vor- u. Fr\u00fchgesch. 10). Bonn 2008 376 (Abstract). von Alten, Georg (1878).", 
+    "description": "In: Posluschny, A. and Lambers, K. and Herzog, I. (Hrsgg. ): Layers of Perception. Proceedings of the 35th International Conference on Computer Applications and Quantitative Methods in Archaeology (CAA), Berlin, 2. -6. April, 2007 (Koll. Vor- u. Frühgesch. 10). Bonn 2008 376 (Abstract). von Alten, Georg (1878).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:42.563524"
+            "when": "2015-10-27T18:48:37.022905"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:42.563540"
+            "when": "2015-10-27T18:48:37.022922"
         }
     ], 
     "publishers": [], 

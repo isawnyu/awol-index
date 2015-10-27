@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "n. b. [29 August 2013]: The Studia Orontica server is no longer unresponsive, but it has been usurped. In the hope that it will re-emerge somewhere, somehow, when the war in Syria ends, I coninue to maintain the links below as noted. n. b. : The Studia Orontica server is unresponsive as of April 2012 - fortunately there is a version of the site in the Internet Archive's Wayback Machine here. In the hope that the server will return, I retain the original links below. Les Annales Archeologiques Arabes Syriennes (AAAS) [Archived at the Internet Archive Wayback Machine]. Les Annales Archeologiques Arabes Syriennes (AAAS) est une revue d'areheologie et d'histoire publiee par la Direc\u00action Generale des Antiquites et des Musees de la Republique Arabe Syrienne. La Revue a pour vocation de publier des etudes, des recherches et des decouvertes archeologiques et historiques, de faire connaitre les travaux et la contribution scientifique et archeologique de la Direction Generale des Antiquites et des Musees et de diffuser la culture archeologique de la Syrie dans Ie pays lui-meme, dans Ie monde arabe et dans la com\u00acmunaute internationale scientifique. La revue AAAS accueille tout article de savants arabes et etrangers specialises notamment dans l'archeologie et l'histoire, a condition que cette etude se conforme a ses buts et sous reserve de l'accord du comite scientifique. La revue AAAS publie des articles en arabe, en francais, en anglais et en allemand. Pour les articles en langue etrangere, la revue se charge d' en donner un resume precis en arabe.", 
+    "description": "n. b. [29 August 2013]: The Studia Orontica server is no longer unresponsive, but it has been usurped. In the hope that it will re-emerge somewhere, somehow, when the war in Syria ends, I coninue to maintain the links below as noted. n. b. : The Studia Orontica server is unresponsive as of April 2012 - fortunately there is a version of the site in the Internet Archive's Wayback Machine here. In the hope that the server will return, I retain the original links below. Les Annales Archeologiques Arabes Syriennes (AAAS) [Archived at the Internet Archive Wayback Machine]. Les Annales Archeologiques Arabes Syriennes (AAAS) est une revue d'areheologie et d'histoire publiee par la Direc¬tion Generale des Antiquites et des Musees de la Republique Arabe Syrienne. La Revue a pour vocation de publier des etudes, des recherches et des decouvertes archeologiques et historiques, de faire connaitre les travaux et la contribution scientifique et archeologique de la Direction Generale des Antiquites et des Musees et de diffuser la culture archeologique de la Syrie dans Ie pays lui-meme, dans Ie monde arabe et dans la com¬munaute internationale scientifique. La revue AAAS accueille tout article de savants arabes et etrangers specialises notamment dans l'archeologie et l'histoire, a condition que cette etude se conforme a ses buts et sous reserve de l'accord du comite scientifique. La revue AAAS publie des articles en arabe, en francais, en anglais et en allemand. Pour les articles en langue etrangere, la revue se charge d' en donner un resume precis en arabe.", 
     "domain": "web.archive.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6605095639619178764", 
             "resource_date": "2013-08-29T10:38:39.731-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:21.772984"
+            "when": "2015-10-27T18:45:01.109859"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-les-annales.html", 
             "resource_date": "2013-08-29T10:38:39.731-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:21.773001"
+            "when": "2015-10-27T18:45:01.109874"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6605095639619178764", 
             "resource_date": "2013-08-29T10:38:39.731-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:21.785415"
+            "when": "2015-10-27T18:45:01.123227"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/02/open-access-journal-les-annales.html", 
             "resource_date": "2013-08-29T10:38:39.731-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:21.785429"
+            "when": "2015-10-27T18:45:01.123243"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:21.799145"
+            "when": "2015-10-27T18:45:01.138691"
         }
     ], 
     "publishers": [], 

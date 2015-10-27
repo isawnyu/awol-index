@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Nov\u00e1k, Mirko and Prayon, F. and Wittke, A. -M. (Hrsgg. ): Die Au\u00dfenwirkung des sp\u00e4thethitischen Kulturraumes, Alter Orient und Altes Testament 323. M\u00fcnster 2004 205. 217. R\u00f6llig, Wolfgang (1980).", 
+    "description": "In: Novák, Mirko and Prayon, F. and Wittke, A. -M. (Hrsgg. ): Die Außenwirkung des späthethitischen Kulturraumes, Alter Orient und Altes Testament 323. Münster 2004 205. 217. Röllig, Wolfgang (1980).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.794161"
+            "when": "2015-10-27T18:46:25.615619"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.794176"
+            "when": "2015-10-27T18:46:25.615636"
         }
     ], 
     "publishers": [], 

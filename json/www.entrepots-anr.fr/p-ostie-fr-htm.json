@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Entrep\u00f4ts et lieux de stockage du monde gr\u00e9co-romain antique", 
+        "title_full": "Entrepôts et lieux de stockage du monde gréco-romain antique", 
         "url": "http://www.entrepots-anr.fr/p-index_fr.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7700185191505258425", 
             "resource_date": "2014-08-20T11:53:04.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:45.050602"
+            "when": "2015-10-27T18:46:31.317535"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/entrepots-et-lieux-de-stockage-du-monde.html", 
             "resource_date": "2014-08-20T11:53:04.231-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:45.050613"
+            "when": "2015-10-27T18:46:31.317546"
         }
     ], 
     "publishers": [], 

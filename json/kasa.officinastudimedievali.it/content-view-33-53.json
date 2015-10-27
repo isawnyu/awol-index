@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "K. A. S. A. \u00e8 l\u2019acronimo di Koin\u00e9 archeologica, sapiente antichit\u00e0. E\u2019 uno dei progetti finanziati dal III Programma interregionale IIIA Italia-Malta, anno 2004-2006, promulgato dalla Regione Sicilia con contributi della Comunit\u00e0 Europea. Esso prevede la partecipazione di tre partners, la Facolt\u00e0 di Lettere, L\u2019Universit\u00e0 di Malta e la Officina di Studi Medievali di Palermo, per la realizzazione di itinerari turistici integrati che leghino in percorsi unitari le province di Siracusa e Ragusa e l\u2019arcipelago maltese. Il progetto ha come obiettivo l\u2019utilizzo delle potenzialit\u00e0 insite nel patrimonio culturale di tipo archeologico-monumentale di queste aree per pervenire ad un triplice obiettivo: approfondire la conoscenza del patrimonio comune contribuendo a rinsaldare l\u2019identit\u00e0 delle comunit\u00e0 locali; riqualificare in senso culturale i flussi turistici gi\u00e0 esistenti tra l\u2019area iblea e Malta, incrementando quello proveniente da altre aree italiane ed europee, inserire siti minori finora poco conosciuti all\u2019interno dei circuiti. Il denominatore comune alle proposte che verranno fatte sar\u00e0 quello di tipologie monumentali e fenomeni culturali analoghi tra le due isole; verranno inclusi cio\u00e8 siti e monumenti che mostrino contatti diretti ovvero convergenze tipologiche. L\u2019area coinvolta dal progetto \u00e8 caratterizzata da una domanda notevole di conoscenza delle proprie radici e da un forte senso di identit\u00e0, dimostrato anche dalla presenza di ben due corsi di laurea destinati ai Beni Culturali a Siracusa. Presentazione.", 
+    "description": "K. A. S. A. è l’acronimo di Koiné archeologica, sapiente antichità. E’ uno dei progetti finanziati dal III Programma interregionale IIIA Italia-Malta, anno 2004-2006, promulgato dalla Regione Sicilia con contributi della Comunità Europea. Esso prevede la partecipazione di tre partners, la Facoltà di Lettere, L’Università di Malta e la Officina di Studi Medievali di Palermo, per la realizzazione di itinerari turistici integrati che leghino in percorsi unitari le province di Siracusa e Ragusa e l’arcipelago maltese. Il progetto ha come obiettivo l’utilizzo delle potenzialità insite nel patrimonio culturale di tipo archeologico-monumentale di queste aree per pervenire ad un triplice obiettivo: approfondire la conoscenza del patrimonio comune contribuendo a rinsaldare l’identità delle comunità locali; riqualificare in senso culturale i flussi turistici già esistenti tra l’area iblea e Malta, incrementando quello proveniente da altre aree italiane ed europee, inserire siti minori finora poco conosciuti all’interno dei circuiti. Il denominatore comune alle proposte che verranno fatte sarà quello di tipologie monumentali e fenomeni culturali analoghi tra le due isole; verranno inclusi cioè siti e monumenti che mostrino contatti diretti ovvero convergenze tipologiche. L’area coinvolta dal progetto è caratterizzata da una domanda notevole di conoscenza delle proprie radici e da un forte senso di identità, dimostrato anche dalla presenza di ben due corsi di laurea destinati ai Beni Culturali a Siracusa. Presentazione.", 
     "domain": "kasa.officinastudimedievali.it", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Koin\u00e9 archeologica, sapiente antichit\u00e0", 
+        "title_full": "Koiné archeologica, sapiente antichità", 
         "url": "http://kasa.officinastudimedievali.it/content/view/33/53/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1989476583896546688", 
             "resource_date": "2012-09-06T21:59:44.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.887243"
+            "when": "2015-10-27T18:38:14.394183"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-koine-archeologica.html", 
             "resource_date": "2012-09-06T21:59:44.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.887259"
+            "when": "2015-10-27T18:38:14.394203"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1989476583896546688", 
             "resource_date": "2012-09-06T21:59:44.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.916670"
+            "when": "2015-10-27T18:38:14.432724"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-koine-archeologica.html", 
             "resource_date": "2012-09-06T21:59:44.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.916683"
+            "when": "2015-10-27T18:38:14.432740"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:07.931380"
+            "when": "2015-10-27T18:38:14.448611"
         }
     ], 
     "publishers": [], 
@@ -147,7 +147,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "KASA - Koin\u00e9 archeologica, sapiente antichit\u00e0", 
+            "title_full": "KASA - Koiné archeologica, sapiente antichità", 
             "url": "http://kasa.officinastudimedievali.it/content/view/33/53/"
         }, 
         {
@@ -163,9 +163,9 @@
             "url": "http://kasa.officinastudimedievali.it/cd/index.html"
         }
     ], 
-    "title": "KASA - Koin\u00e9 archeologica, sapiente antichit\u00e0", 
+    "title": "KASA - Koiné archeologica, sapiente antichità", 
     "title_alternates": [], 
-    "title_extended": "KASA - Koin\u00e9 archeologica, sapiente antichit\u00e0", 
+    "title_extended": "KASA - Koiné archeologica, sapiente antichità", 
     "type": null, 
     "url": "http://kasa.officinastudimedievali.it/content/view/33/53/", 
     "url_alternates": [], 

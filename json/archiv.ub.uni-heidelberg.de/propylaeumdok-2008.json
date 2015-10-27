@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kerner, S. (Hrsg. ): The Near East in Antiquity. German contributions to the archaeology of Jordan, Palestine, Syria, Lebanon and Egypt. Amman 1990, pp. 63-79. Pf\u00e4lzner, Peter (1986).", 
+    "description": "In: Kerner, S. (Hrsg. ): The Near East in Antiquity. German contributions to the archaeology of Jordan, Palestine, Syria, Lebanon and Egypt. Amman 1990, pp. 63-79. Pfälzner, Peter (1986).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:38.093412"
+            "when": "2015-10-27T18:46:23.873735"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:38.093428"
+            "when": "2015-10-27T18:46:23.873751"
         }
     ], 
     "publishers": [], 

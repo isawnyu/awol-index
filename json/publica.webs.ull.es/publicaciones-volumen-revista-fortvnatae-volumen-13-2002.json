@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ISSN: 1131-6810 Fortunatae, revista canaria de Filolog\u00eda, Cultura y Humanidades Cl\u00e1sicas, publicaci\u00f3n del Departamento de Filolog\u00eda Cl\u00e1sica de la Universidad de La Laguna (Tenerife. Espa\u00f1a), se traz\u00f3, desde el a\u00f1o de su inicio (1991), el objetivo de acoger los estudios e investigaciones de los miembros de las distintas \u00e1reas del mencionado departamento, as\u00ed como la de otros departamentos afines de otras universidades espa\u00f1olas con las que mantiene relaci\u00f3n, especialmente el de la Universidad de Las Palmas de Gran Canaria. Los n\u00fameros que Fortunatae lleva publicados hasta el momento actual, han conseguido que sea considerada una publicaci\u00f3n peri\u00f3dica de prestigio por la Calidad y originalidad de algunas de sus contribuciones, y que sea tenida en cuenta habitualmente en los repertorios bibliogr\u00e1ficos del \u00e1mbito cient\u00edfico al que pertenece.", 
+    "description": "ISSN: 1131-6810 Fortunatae, revista canaria de Filología, Cultura y Humanidades Clásicas, publicación del Departamento de Filología Clásica de la Universidad de La Laguna (Tenerife. España), se trazó, desde el año de su inicio (1991), el objetivo de acoger los estudios e investigaciones de los miembros de las distintas áreas del mencionado departamento, así como la de otros departamentos afines de otras universidades españolas con las que mantiene relación, especialmente el de la Universidad de Las Palmas de Gran Canaria. Los números que Fortunatae lleva publicados hasta el momento actual, han conseguido que sea considerada una publicación periódica de prestigio por la Calidad y originalidad de algunas de sus contribuciones, y que sea tenida en cuenta habitualmente en los repertorios bibliográficos del ámbito científico al que pertenece.", 
     "domain": "publica.webs.ull.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "FORTVNATAE: Revista Canaria de Filolog\u00eda, Cultura y Humanidades cl\u00e1sicas", 
+        "title_full": "FORTVNATAE: Revista Canaria de Filología, Cultura y Humanidades clásicas", 
         "url": "http://publica.webs.ull.es/publicaciones/detalle/revista-fortvnatae/fortunatae-revista-canaria-de-filologia-cultura-y-humanidades-clasicas/"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5524223235348606521", 
             "resource_date": "2014-05-13T17:09:09.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.677739"
+            "when": "2015-10-27T18:43:36.740748"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/05/open-access-journal-fortvnatae-revista.html", 
             "resource_date": "2014-05-13T17:09:09.868-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.677751"
+            "when": "2015-10-27T18:43:36.740760"
         }
     ], 
     "publishers": [], 

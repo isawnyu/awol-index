@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Institut Catal\u00e0 d'Arqueologia Cl\u00e0ssica", 
+        "title_full": "Institut Català d'Arqueologia Clàssica", 
         "url": "http://icac.cat/en/publicacions-3/publicacions-propies"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6101806186654765679", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.849374"
+            "when": "2015-10-27T18:44:19.683269"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/open-access-books-from-institut-catala.html", 
             "resource_date": "2014-08-19T10:43:48.670-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.849387"
+            "when": "2015-10-27T18:44:19.683279"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Necr\u00f3polis urbanas en Baetica", 
+    "title": "Necrópolis urbanas en Baetica", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

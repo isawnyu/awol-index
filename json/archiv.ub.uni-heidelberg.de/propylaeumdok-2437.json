@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: \u00c9tude et Travaux, 15 (1990), pp. 309-316. Ostrowski, Janusz A. (1966).", 
+    "description": "In: Étude et Travaux, 15 (1990), pp. 309-316. Ostrowski, Janusz A. (1966).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:39.627613"
+            "when": "2015-10-27T18:48:33.843357"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:39.627630"
+            "when": "2015-10-27T18:48:33.843392"
         }
     ], 
     "publishers": [], 

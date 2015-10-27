@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u00c9tudes chypriotes.", 
+    "description": "Études chypriotes.", 
     "domain": "cefael.efa.gr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u00c9tudes chypriotes", 
+        "title_full": "Études chypriotes", 
         "url": "http://cefael.efa.gr/result.php?site_id=1&serie_id=EtChypr"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2589259031234092287", 
             "resource_date": "2014-06-16T11:58:59.193-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:42.048874"
+            "when": "2015-10-27T18:38:50.145585"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/open-access-monograph-series-etudes_3.html", 
             "resource_date": "2014-06-16T11:58:59.193-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:42.048890"
+            "when": "2015-10-27T18:38:50.145596"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "4 La n\u00e9cropole d?Amathonte. Tombes 110-385. IV. Les petits objets. Chavanne, Marie-Jos\u00e9 , \u00c9cole Fran\u00e7aise d'Ath\u00e8nes, Ath\u00e8nes , 1990", 
+    "title": "4 La nécropole d?Amathonte. Tombes 110-385. IV. Les petits objets. Chavanne, Marie-José , École Française d'Athènes, Athènes , 1990", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

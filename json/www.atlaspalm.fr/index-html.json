@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Atlas PALM: Atlas du Patrimoine Arch\u00e9ologique Littorale M\u00e9diterran\u00e9en.", 
+    "description": "Atlas PALM: Atlas du Patrimoine Archéologique Littorale Méditerranéen.", 
     "domain": "www.atlaspalm.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Atlas PALM: Atlas du Patrimoine Arch\u00e9ologique Littorale M\u00e9diterran\u00e9en", 
+        "title_full": "Atlas PALM: Atlas du Patrimoine Archéologique Littorale Méditerranéen", 
         "url": "http://www.atlaspalm.fr/index.html"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6065460950600352482", 
             "resource_date": "2015-06-22T06:32:23.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.577564"
+            "when": "2015-10-27T18:44:18.446039"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/atlas-palm-atlas-du-patrimoine.html", 
             "resource_date": "2015-06-22T06:32:23.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.577578"
+            "when": "2015-10-27T18:44:18.446055"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6065460950600352482", 
             "resource_date": "2015-06-22T06:32:23.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:43.580576"
+            "when": "2015-10-27T18:44:18.447850"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/atlas-palm-atlas-du-patrimoine.html", 
             "resource_date": "2015-06-22T06:32:23.345-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:43.580597"
+            "when": "2015-10-27T18:44:18.447861"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:43.590365"
+            "when": "2015-10-27T18:44:18.454692"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Atlas PALM: Atlas du Patrimoine Arch\u00e9ologique Littorale M\u00e9diterran\u00e9en", 
+            "title_full": "Atlas PALM: Atlas du Patrimoine Archéologique Littorale Méditerranéen", 
             "url": "http://www.atlaspalm.fr/index.html"
         }, 
         {
@@ -162,7 +162,7 @@
             "url": "http://www.atlaspalm.fr/fr/mediatheque.html"
         }
     ], 
-    "title": "Atlas PALM: Atlas du Patrimoine Arch\u00e9ologique Littorale M\u00e9diterran\u00e9en", 
+    "title": "Atlas PALM: Atlas du Patrimoine Archéologique Littorale Méditerranéen", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Materiale \u015fi Cercet\u0103ri Arheologice", 
+        "title_full": "Materiale şi Cercetări Arheologice", 
         "url": "http://cimec.ro/Arheologie/mca_rom.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-704103970911126943", 
             "resource_date": "2014-01-23T17:00:00.796-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.100529"
+            "when": "2015-10-27T18:45:21.482611"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/partially-open-access-journal-materiale.html", 
             "resource_date": "2014-01-23T17:00:00.796-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.100548"
+            "when": "2015-10-27T18:45:21.482623"
         }
     ], 
     "publishers": [], 

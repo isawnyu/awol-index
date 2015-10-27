@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "CerAfIm: C\u00e9ramique Africaine Imprim\u00e9e. CerAfIm est un groupe de travail form\u00e9 par des c\u00e9ramologues africanistes qui mettent en commun leurs recherches sur les motifs des c\u00e9ramiques imprim\u00e9es africaines datant du d\u00e9but de l'Holoc\u00e8ne jusqu'aux p\u00e9riodes sub-actuelles. Ce site a \u00e9t\u00e9 cr\u00e9\u00e9 pour exposer les travaux du groupe CerAfIm en fran\u00e7ais et en anglais: d\u00e9finition des techniques et proc\u00e9d\u00e9s de d\u00e9cor, r\u00e9f\u00e9rentiels d'instruments et de motifs, photos de c\u00e9ramiques d\u00e9cor\u00e9es. Il est optimis\u00e9 pour Mozilla Firefox. CerAfIm is a working group of ceramics specialists who share their research into the decorations on African impressed ceramics dating back to periods ranging from the early Holocene to the modern era. This site was created to present the work of the CerAfIm group in French and English: a definition of techniques and processes; tool and motif indexes; pictures of decorated ceramics; index of motifs. The site is optimized for Mozilla Firefox.", 
+    "description": "CerAfIm: Céramique Africaine Imprimée. CerAfIm est un groupe de travail formé par des céramologues africanistes qui mettent en commun leurs recherches sur les motifs des céramiques imprimées africaines datant du début de l'Holocène jusqu'aux périodes sub-actuelles. Ce site a été créé pour exposer les travaux du groupe CerAfIm en français et en anglais: définition des techniques et procédés de décor, référentiels d'instruments et de motifs, photos de céramiques décorées. Il est optimisé pour Mozilla Firefox. CerAfIm is a working group of ceramics specialists who share their research into the decorations on African impressed ceramics dating back to periods ranging from the early Holocene to the modern era. This site was created to present the work of the CerAfIm group in French and English: a definition of techniques and processes; tool and motif indexes; pictures of decorated ceramics; index of motifs. The site is optimized for Mozilla Firefox.", 
     "domain": "sites.univ-provence.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "CerAfIm: C\u00e9ramique Africaine Imprim\u00e9e", 
+        "title_full": "CerAfIm: Céramique Africaine Imprimée", 
         "url": "http://sites.univ-provence.fr/lampea/ressources/cerafim/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2938144318952827464", 
             "resource_date": "2013-02-25T06:19:56.693-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.648250"
+            "when": "2015-10-27T18:39:03.757513"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/02/cerafim-ceramique-africaine-imprimee.html", 
             "resource_date": "2013-02-25T06:19:56.693-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.648264"
+            "when": "2015-10-27T18:39:03.757526"
         }
     ], 
     "publishers": [], 

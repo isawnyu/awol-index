@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 16 September 2010. Updates 16 March 2014]. The CSBS/SC\u00c9B Bulletin. Canadian Society of Biblical Studies -- Soci\u00e9t\u00e9 canadienne des \u00c9tudes bibliques. ISSN 0068-970X. The links below lead to files that replicate the current print edition of the CSBS/SC\u00c9B Bulletin, with the exception of the Membership Directory, which has not been posted in order to protect members\u2019 privacy. Beginning in 2009 the Bulletin is published online only, with the exception of hard copies that are placed in the National Library in Ottawa and the CSBS Archives at Queen's University. The individual files are configured as Adobe Acrobat. pdf (Portable Document Format). The Acrobat Reader is necessary to read them; if you do not have this software, please go to the Adobe website, where you can download a free copy for any of the major computing platforms.", 
+    "description": "[First posted in AWOL 16 September 2010. Updates 16 March 2014]. The CSBS/SCÉB Bulletin. Canadian Society of Biblical Studies -- Société canadienne des Études bibliques. ISSN 0068-970X. The links below lead to files that replicate the current print edition of the CSBS/SCÉB Bulletin, with the exception of the Membership Directory, which has not been posted in order to protect members’ privacy. Beginning in 2009 the Bulletin is published online only, with the exception of hard copies that are placed in the National Library in Ottawa and the CSBS Archives at Queen's University. The individual files are configured as Adobe Acrobat. pdf (Portable Document Format). The Acrobat Reader is necessary to read them; if you do not have this software, please go to the Adobe website, where you can download a free copy for any of the major computing platforms.", 
     "domain": "www.ccsr.ca", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "The CSBS/SC\u00c9B Bulletin", 
+        "title_full": "The CSBS/SCÉB Bulletin", 
         "url": "http://www.ccsr.ca/csbs/Bulletin.html"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9138998602446993018", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:20.747230"
+            "when": "2015-10-27T18:49:19.082840"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-csbssceb-bulletin.html", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:20.747242"
+            "when": "2015-10-27T18:49:19.082855"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The CSBS/SC\u00c9B Bulletin, Volume 64 (2004-05): Introductory Material 2004 Presidential Address 2004 Annual General Meeting Minutes 2004 Financial Statements 2004-05 Membership News", 
+    "title": "The CSBS/SCÉB Bulletin, Volume 64 (2004-05): Introductory Material 2004 Presidential Address 2004 Annual General Meeting Minutes 2004 Financial Statements 2004-05 Membership News", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 182 (2001), pp. 7-8. Hoffmann, Friedhelm (1992).", 
+    "description": "In: Göttinger Miszellen, 182 (2001), pp. 7-8. Hoffmann, Friedhelm (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:53.251071"
+            "when": "2015-10-27T18:40:04.629262"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:53.251088"
+            "when": "2015-10-27T18:40:04.629278"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Einige Bemerkungen zur Lehre eines Mannes f\u00fcr seinen Sohn", 
+    "title": "Einige Bemerkungen zur Lehre eines Mannes für seinen Sohn", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

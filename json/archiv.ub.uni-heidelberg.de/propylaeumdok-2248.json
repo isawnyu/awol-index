@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 175 (2000), pp. 5-7. Kahl, Jochem and El-Khadragy, Mahmoud and Verhoeven, Ursula (2008).", 
+    "description": "In: Göttinger Miszellen, 175 (2000), pp. 5-7. Kahl, Jochem and El-Khadragy, Mahmoud and Verhoeven, Ursula (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:55.589450"
+            "when": "2015-10-27T18:40:07.016828"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:55.589466"
+            "when": "2015-10-27T18:40:07.016845"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "nb (\"jeder\") als Quantit\u00e4ts-Substantiv in der fr\u00fchen \u00e4gyptischen Sprache", 
+    "title": "nb (\"jeder\") als Quantitäts-Substantiv in der frühen ägyptischen Sprache", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

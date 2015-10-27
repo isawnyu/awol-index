@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Brodersen, K. (Hrsg. ): Grosse Gestalten der griechischen Antike. 58 historische Portraits von Homer bis Kleopatra. M\u00fcnchen 1999, pp. 426-432. Malitz, J\u00fcrgen (2006).", 
+    "description": "In: Brodersen, K. (Hrsg. ): Grosse Gestalten der griechischen Antike. 58 historische Portraits von Homer bis Kleopatra. München 1999, pp. 426-432. Malitz, Jürgen (2006).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.279622"
+            "when": "2015-10-27T18:46:46.457957"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.279638"
+            "when": "2015-10-27T18:46:46.457974"
         }
     ], 
     "publishers": [], 

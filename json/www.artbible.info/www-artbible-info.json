@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7922231510391654893", 
             "resource_date": "2014-02-08T15:03:53.298-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.424879"
+            "when": "2015-10-27T18:46:50.665178"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/art-and-bible.html", 
             "resource_date": "2014-02-08T15:03:53.298-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.424895"
+            "when": "2015-10-27T18:46:50.665193"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7922231510391654893", 
             "resource_date": "2014-02-08T15:03:53.298-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.429800"
+            "when": "2015-10-27T18:46:50.670415"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/art-and-bible.html", 
             "resource_date": "2014-02-08T15:03:53.298-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.429813"
+            "when": "2015-10-27T18:46:50.670429"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:03.463103"
+            "when": "2015-10-27T18:46:50.705568"
         }
     ], 
     "publishers": [], 
@@ -146,43 +146,43 @@
             "url": "http://www.artbible.info/"
         }, 
         {
-            "title_full": "\u00bb artists & works", 
+            "title_full": "» artists & works", 
             "url": "http://www.artbible.info/art/"
         }, 
         {
-            "title_full": "\u00bb art cities", 
+            "title_full": "» art cities", 
             "url": "http://www.artbible.info/art/cities/"
         }, 
         {
-            "title_full": "\u00bb more art..", 
+            "title_full": "» more art..", 
             "url": "http://www.artbible.info/sitemap.html#art"
         }, 
         {
-            "title_full": "\u00bb old testament", 
+            "title_full": "» old testament", 
             "url": "http://www.artbible.info/bible/old-testament.html"
         }, 
         {
-            "title_full": "\u00bb new testament", 
+            "title_full": "» new testament", 
             "url": "http://www.artbible.info/bible/new-testament.html"
         }, 
         {
-            "title_full": "\u00bb apocrypha", 
+            "title_full": "» apocrypha", 
             "url": "http://www.artbible.info/bible/apocrypha.html"
         }, 
         {
-            "title_full": "\u00bb concordance", 
+            "title_full": "» concordance", 
             "url": "http://www.artbible.info/concordance/"
         }, 
         {
-            "title_full": "\u00bb more bible..", 
+            "title_full": "» more bible..", 
             "url": "http://www.artbible.info/sitemap.html#bible"
         }, 
         {
-            "title_full": "\u00bb this site", 
+            "title_full": "» this site", 
             "url": "http://www.artbible.info/about.html"
         }, 
         {
-            "title_full": "\u00bb site map", 
+            "title_full": "» site map", 
             "url": "http://www.artbible.info/sitemap.html"
         }, 
         {

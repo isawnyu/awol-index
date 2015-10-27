@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cahiers du Centre Gustave Glotz. eISSN - 2117-5624. Les Cahiers du Centre Gustave Glotz sont n\u00e9s en 1990, sous la forme d\u2019un recueil d\u2019articles sur le th\u00e8me \u00ab Du pouvoir dans l\u2019antiquit\u00e9 \u00bb, coordonn\u00e9 par Claude Nicolet. D\u00e8s l\u2019ann\u00e9e suivante, ils se transform\u00e8rent en une revue annuelle d\u2019histoire de l\u2019Antiquit\u00e9, en grande partie sp\u00e9cialis\u00e9e dans l\u2019\u00e9tude des institutions et des structures sociales des mondes hell\u00e9nistique et romain. Les volumes rassemblent \u00e0 la fois des dossiers th\u00e9matiques et des articles de varia, r\u00e9dig\u00e9s le plus souvent en fran\u00e7ais, en anglais ou en italien. Depuis le 1er janvier 2010, les Cahiers du Centre Gustave Glotz constituent l\u2019une des revues de l\u2019\u00e9quipe ANHIMA (\u00ab Anthropologie et histoire des mondes antiques \u00bb, UMR 8210 du CNRS), issue de la fusion du Centre Louis Gernet, du Centre Gustave Glotz et de l\u2019\u00e9quipe Ph\u00e9acie.", 
+    "description": "Cahiers du Centre Gustave Glotz. eISSN - 2117-5624. Les Cahiers du Centre Gustave Glotz sont nés en 1990, sous la forme d’un recueil d’articles sur le thème « Du pouvoir dans l’antiquité », coordonné par Claude Nicolet. Dès l’année suivante, ils se transformèrent en une revue annuelle d’histoire de l’Antiquité, en grande partie spécialisée dans l’étude des institutions et des structures sociales des mondes hellénistique et romain. Les volumes rassemblent à la fois des dossiers thématiques et des articles de varia, rédigés le plus souvent en français, en anglais ou en italien. Depuis le 1er janvier 2010, les Cahiers du Centre Gustave Glotz constituent l’une des revues de l’équipe ANHIMA (« Anthropologie et histoire des mondes antiques », UMR 8210 du CNRS), issue de la fusion du Centre Louis Gernet, du Centre Gustave Glotz et de l’équipe Phéacie.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6859067162907404873", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:36.452671"
+            "when": "2015-10-27T18:45:17.488895"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-cahiers-du-centre.html", 
             "resource_date": "2012-11-15T13:02:17.828-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:36.452682"
+            "when": "2015-10-27T18:45:17.488907"
         }
     ], 
     "publishers": [], 

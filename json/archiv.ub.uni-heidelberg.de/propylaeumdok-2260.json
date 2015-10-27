@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Berger, Cath\u00e9rine and Clerc, Gis\u00e8le and Grimal, Nicolas (Hrsgg. ): Hommages \u00e0 Jean Leclant Volume. 1. Kairo 1994, pp. 45-59 (\u00c9tudes pharaoniques). Assmann, Jan (1996).", 
+    "description": "In: Berger, Cathérine and Clerc, Gisèle and Grimal, Nicolas (Hrsgg. ): Hommages à Jean Leclant Volume. 1. Kairo 1994, pp. 45-59 (Études pharaoniques). Assmann, Jan (1996).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:50.121187"
+            "when": "2015-10-27T18:40:01.520114"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:50.121204"
+            "when": "2015-10-27T18:40:01.520130"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Spruch 23 der Pyramidentexte und die \u00c4chtung der Feinde des Pharaos", 
+    "title": "Spruch 23 der Pyramidentexte und die Ächtung der Feinde des Pharaos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

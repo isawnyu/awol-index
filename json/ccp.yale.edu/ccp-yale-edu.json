@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mesopotamian commentaries represent the world\u2019s oldest cohesive group of hermeneutic texts. Numbering nearly 900, the earliest date to the eighth century and the latest to ca. 100 BCE. The purpose of this website is to make the corpus available both to the scholarly community and a more general audience by providing background information on the genre, a searchable catalog, as well as photos, drawings, annotated editions, and translations of individual commentary tablets. For the first time the cuneiform commentaries, currently scattered over 21 museums around the globe, will be accessible on one platform. The following pages offer detailed information on several aspects of the Mesopotamian commentary tradition. They also provide a concise guide to further reading and links to the Cuneiform Commentaries Project text editions.", 
+    "description": "Mesopotamian commentaries represent the world’s oldest cohesive group of hermeneutic texts. Numbering nearly 900, the earliest date to the eighth century and the latest to ca. 100 BCE. The purpose of this website is to make the corpus available both to the scholarly community and a more general audience by providing background information on the genre, a searchable catalog, as well as photos, drawings, annotated editions, and translations of individual commentary tablets. For the first time the cuneiform commentaries, currently scattered over 21 museums around the globe, will be accessible on one platform. The following pages offer detailed information on several aspects of the Mesopotamian commentary tradition. They also provide a concise guide to further reading and links to the Cuneiform Commentaries Project text editions.", 
     "domain": "ccp.yale.edu", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4864541812229390279", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:11.781518"
+            "when": "2015-10-27T18:42:40.980674"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/cuneiform-commentaries-project.html", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:11.781535"
+            "when": "2015-10-27T18:42:40.980690"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4864541812229390279", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:11.785673"
+            "when": "2015-10-27T18:42:40.985149"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/cuneiform-commentaries-project.html", 
             "resource_date": "2015-03-12T07:17:03.287-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:11.785686"
+            "when": "2015-10-27T18:42:40.985163"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:11.883183"
+            "when": "2015-10-27T18:42:41.091141"
         }
     ], 
     "publishers": [], 
@@ -155,7 +155,7 @@
             "url": "http://ccp.yale.edu/citation-guidelines"
         }, 
         {
-            "title_full": "How to use \u00bb The CCP Numbers", 
+            "title_full": "How to use » The CCP Numbers", 
             "url": "http://ccp.yale.edu/home/how-use"
         }, 
         {
@@ -203,15 +203,15 @@
             "url": "http://ccp.yale.edu/bibliography/basic-bibliography"
         }, 
         {
-            "title_full": "Catalog of Commentaries Literary \u00bb En\u016bma eli\u0161 Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others Magic \u00bb Udughul, Marduk\u2019s address \u0160urpu, Maql\u00fb, Tummu b\u012btu Namburbi \u0160aziga Rituals Divination \u00bb Astrological. En\u016bma Anu Enlil Astrological. S\u00een ina t\u0101mart\u012b\u0161u Astrological Miscelanea Extispicy (B\u0101r\u00fbtu) Terrestrial omens (\u0160umma \u0100lu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain Medical \u00bb Diagnostic and prognostic Therapeutic texts Medical Other / Uncertain Legal \u00bb Laws of Hammurapi Lexical \u00bb Aa Diri Nabn\u012btu Harra Lion's Blood Grammatical texts God lists Lexical Other Miscellanea \u00bb Varia Unknown", 
+            "title_full": "Catalog of Commentaries Literary » Enūma eliš Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others Magic » Udughul, Marduk’s address Šurpu, Maqlû, Tummu bītu Namburbi Šaziga Rituals Divination » Astrological. Enūma Anu Enlil Astrological. Sîn ina tāmartīšu Astrological Miscelanea Extispicy (Bārûtu) Terrestrial omens (Šumma Ālu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain Medical » Diagnostic and prognostic Therapeutic texts Medical Other / Uncertain Legal » Laws of Hammurapi Lexical » Aa Diri Nabnītu Harra Lion's Blood Grammatical texts God lists Lexical Other Miscellanea » Varia Unknown", 
             "url": "http://ccp.yale.edu/catalogue"
         }, 
         {
-            "title_full": "Literary \u00bb En\u016bma eli\u0161 Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others", 
+            "title_full": "Literary » Enūma eliš Lugale Ludlul Theodicy Literary Prayer to Marduk 2 Literary Others", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=3&findspot=All&date=All"
         }, 
         {
-            "title_full": "En\u016bma eli\u0161", 
+            "title_full": "Enūma eliš", 
             "url": "http://ccp.yale.edu/catalogue?genre=10"
         }, 
         {
@@ -235,15 +235,15 @@
             "url": "http://ccp.yale.edu/catalogue?genre=14"
         }, 
         {
-            "title_full": "Magic \u00bb Udughul, Marduk\u2019s address \u0160urpu, Maql\u00fb, Tummu b\u012btu Namburbi \u0160aziga Rituals", 
+            "title_full": "Magic » Udughul, Marduk’s address Šurpu, Maqlû, Tummu bītu Namburbi Šaziga Rituals", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=4&findspot=All&date=All"
         }, 
         {
-            "title_full": "Udughul, Marduk\u2019s address", 
+            "title_full": "Udughul, Marduk’s address", 
             "url": "http://ccp.yale.edu/catalogue?genre=16"
         }, 
         {
-            "title_full": "\u0160urpu, Maql\u00fb, Tummu b\u012btu", 
+            "title_full": "Šurpu, Maqlû, Tummu bītu", 
             "url": "http://ccp.yale.edu/catalogue?genre=15"
         }, 
         {
@@ -251,7 +251,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=19"
         }, 
         {
-            "title_full": "\u0160aziga", 
+            "title_full": "Šaziga", 
             "url": "http://ccp.yale.edu/catalogue?genre=20"
         }, 
         {
@@ -259,15 +259,15 @@
             "url": "http://ccp.yale.edu/catalogue?genre=21"
         }, 
         {
-            "title_full": "Divination \u00bb Astrological. En\u016bma Anu Enlil Astrological. S\u00een ina t\u0101mart\u012b\u0161u Astrological Miscelanea Extispicy (B\u0101r\u00fbtu) Terrestrial omens (\u0160umma \u0100lu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain", 
+            "title_full": "Divination » Astrological. Enūma Anu Enlil Astrological. Sîn ina tāmartīšu Astrological Miscelanea Extispicy (Bārûtu) Terrestrial omens (Šumma Ālu) Teratological Omens Physiognomic Menologies Divination Other / Uncertain", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=5&findspot=All&date=All"
         }, 
         {
-            "title_full": "Astrological. En\u016bma Anu Enlil", 
+            "title_full": "Astrological. Enūma Anu Enlil", 
             "url": "http://ccp.yale.edu/catalogue?genre=22"
         }, 
         {
-            "title_full": "Astrological. S\u00een ina t\u0101mart\u012b\u0161u", 
+            "title_full": "Astrological. Sîn ina tāmartīšu", 
             "url": "http://ccp.yale.edu/catalogue?genre=23"
         }, 
         {
@@ -275,11 +275,11 @@
             "url": "http://ccp.yale.edu/catalogue?genre=24"
         }, 
         {
-            "title_full": "Extispicy (B\u0101r\u00fbtu)", 
+            "title_full": "Extispicy (Bārûtu)", 
             "url": "http://ccp.yale.edu/catalogue?genre=25"
         }, 
         {
-            "title_full": "Terrestrial omens (\u0160umma \u0100lu)", 
+            "title_full": "Terrestrial omens (Šumma Ālu)", 
             "url": "http://ccp.yale.edu/catalogue?genre=26"
         }, 
         {
@@ -299,7 +299,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=40"
         }, 
         {
-            "title_full": "Medical \u00bb Diagnostic and prognostic Therapeutic texts Medical Other / Uncertain", 
+            "title_full": "Medical » Diagnostic and prognostic Therapeutic texts Medical Other / Uncertain", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=6&findspot=All&date=All"
         }, 
         {
@@ -315,7 +315,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=50"
         }, 
         {
-            "title_full": "Legal \u00bb Laws of Hammurapi", 
+            "title_full": "Legal » Laws of Hammurapi", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=7&findspot=All&date=All"
         }, 
         {
@@ -323,7 +323,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=51"
         }, 
         {
-            "title_full": "Lexical \u00bb Aa Diri Nabn\u012btu Harra Lion's Blood Grammatical texts God lists Lexical Other", 
+            "title_full": "Lexical » Aa Diri Nabnītu Harra Lion's Blood Grammatical texts God lists Lexical Other", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=8&findspot=All&date=All"
         }, 
         {
@@ -335,7 +335,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=53"
         }, 
         {
-            "title_full": "Nabn\u012btu", 
+            "title_full": "Nabnītu", 
             "url": "http://ccp.yale.edu/catalogue?genre=54"
         }, 
         {
@@ -359,7 +359,7 @@
             "url": "http://ccp.yale.edu/catalogue?genre=59"
         }, 
         {
-            "title_full": "Miscellanea \u00bb Varia Unknown", 
+            "title_full": "Miscellanea » Varia Unknown", 
             "url": "http://ccp.yale.edu/catalogue?keys=&ccp=&cdli=&genre=9&findspot=All&date=All"
         }, 
         {

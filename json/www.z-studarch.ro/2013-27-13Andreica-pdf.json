@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Florin M\u0103rginean, George Pascu Hurezan, Augustin Mure\u0219an.", 
+    "description": "Florin Mărginean, George Pascu Hurezan, Augustin Mureșan.", 
     "domain": "www.z-studarch.ro", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4976504329535684075", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:36.607492"
+            "when": "2015-10-27T18:43:06.682707"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-ziridava-studia.html", 
             "resource_date": "2015-06-01T13:23:54.170-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:36.607514"
+            "when": "2015-10-27T18:43:06.682718"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Implications of a Tibia and Fibula Fracture in the Secondary Adaptation of the Skeleton of an Individual Discovered in N\u0103dlac \"Lut\u0103rie\" (Arad County)", 
+    "title": "Implications of a Tibia and Fibula Fracture in the Secondary Adaptation of the Skeleton of an Individual Discovered in Nădlac \"Lutărie\" (Arad County)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

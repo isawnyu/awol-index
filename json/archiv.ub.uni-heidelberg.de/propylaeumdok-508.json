@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Schmidt, H. W. and W\u00fclfing, P. (Hrsgg. ): Antikes Denken - Moderne Schule. Beitr\u00e4ge zu den antiken Grundlagen unseres Denkens. Heidelberg 1988, pp. 151-179. Malitz, J\u00fcrgen (1985).", 
+    "description": "In: Schmidt, H. W. and Wülfing, P. (Hrsgg. ): Antikes Denken - Moderne Schule. Beiträge zu den antiken Grundlagen unseres Denkens. Heidelberg 1988, pp. 151-179. Malitz, Jürgen (1985).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.200848"
+            "when": "2015-10-27T18:48:49.972694"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.200861"
+            "when": "2015-10-27T18:48:49.972710"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Philosophie und Politik im fr\u00fchen Prinzipat", 
+    "title": "Philosophie und Politik im frühen Prinzipat", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

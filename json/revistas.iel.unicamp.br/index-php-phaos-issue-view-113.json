@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "PhaoS: Revista de Estudos Cl\u00e1ssicos. ISSN: 1676-3076.", 
+    "description": "PhaoS: Revista de Estudos Clássicos. ISSN: 1676-3076.", 
     "domain": "revistas.iel.unicamp.br", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "PhaoS: Revista de Estudos Cl\u00e1ssicos", 
+        "title_full": "PhaoS: Revista de Estudos Clássicos", 
         "url": "http://revistas.iel.unicamp.br/index.php/phaos/index"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3411208306248649320", 
             "resource_date": "2014-03-12T08:04:01.574-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:22.630562"
+            "when": "2015-10-27T18:40:36.626062"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-phaos-revista-de.html", 
             "resource_date": "2014-03-12T08:04:01.574-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:22.630572"
+            "when": "2015-10-27T18:40:36.626075"
         }
     ], 
     "publishers": [], 

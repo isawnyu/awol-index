@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: K\u00fchne, Hartmut (Hrsg. ): Magdalu / Magdala - Der Tall Seh Hamad von der postassyrischen Zeit bis zur r\u00f6mischen Kaiserzeit. Berichte der Ausgrabung Tall Seh Hamad / Dur-Katlimmu 2. Berlin 2005, pp. 355-360. Nov\u00e1k, Mirko (1996).", 
+    "description": "In: Kühne, Hartmut (Hrsg. ): Magdalu / Magdala - Der Tall Seh Hamad von der postassyrischen Zeit bis zur römischen Kaiserzeit. Berichte der Ausgrabung Tall Seh Hamad / Dur-Katlimmu 2. Berlin 2005, pp. 355-360. Novák, Mirko (1996).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:37.521670"
+            "when": "2015-10-27T18:46:23.280969"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:37.521687"
+            "when": "2015-10-27T18:46:23.280985"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das islamische Heiligtum des \u0160\u0113h Hamad und der rezente Friedhof auf der Kuppe des Tall \u0160\u0113h Hamad", 
+    "title": "Das islamische Heiligtum des Šēh Hamad und der rezente Friedhof auf der Kuppe des Tall Šēh Hamad", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

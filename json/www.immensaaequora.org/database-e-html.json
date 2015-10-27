@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364350888335105922", 
             "resource_date": "2013-07-11T16:44:51.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.857782"
+            "when": "2015-10-27T18:38:41.745959"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/immensa-aaquora.html", 
             "resource_date": "2013-07-11T16:44:51.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.857799"
+            "when": "2015-10-27T18:38:41.745974"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2364350888335105922", 
             "resource_date": "2013-07-11T16:44:51.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:33.865026"
+            "when": "2015-10-27T18:38:41.753281"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/07/immensa-aaquora.html", 
             "resource_date": "2013-07-11T16:44:51.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:33.865041"
+            "when": "2015-10-27T18:38:41.753294"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:33.882302"
+            "when": "2015-10-27T18:38:41.766793"
         }
     ], 
     "publishers": [], 

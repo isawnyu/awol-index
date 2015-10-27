@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Studien zur alt\u00e4gyptischen Kultur, 27 (1999), pp. 313-352. Schenkel, Wolfgang (2008).", 
+    "description": "In: Studien zur altägyptischen Kultur, 27 (1999), pp. 313-352. Schenkel, Wolfgang (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:01.273599"
+            "when": "2015-10-27T18:40:12.990060"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:01.273616"
+            "when": "2015-10-27T18:40:12.990076"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u015b-Kausativa, t-Kausativa und \u201einnere\" Kausativa. Die \u015b-Kausativa der Verben L\u015b in den Sargtexten", 
+    "title": "ś-Kausativa, t-Kausativa und „innere\" Kausativa. Die ś-Kausativa der Verben Lś in den Sargtexten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

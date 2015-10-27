@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ancient Carved Ambers in the J. Paul Getty Museum. By FAYA CAUSEY With technical analysis by Jeff Maish, Herant Khanjian, and Michael Schilling. This online catalogue opens with a general introduction to amber in the ancient world and then presents fifty-six Etruscan, Greek, and Italic carved ambers in the J. Paul Getty Museum - the second largest collection of this material in the United States and one of the most important in the world. Each piece is given a full description, including typology, style, chronology, and iconography, and is beautifully illustrated in color. The catalogue concludes with technical notes about scientific investigations of these objects and the Baltic amber from which they are carved. With extensive notes, bibliographies, and condition reports on each object, this interactive reference provides scholars with a wealth of information. Images have zoom functionality, allowing objects to be viewed in detail and from various angles. As new scholarship becomes available, the catalogue will be updated. Ancient Carved Ambers in the J. Paul Getty Museum is the first of several planned online scholarly collection catalogues from the Getty. The J. Paul Getty Museum and Getty Publications are committed to making available scholarly information on objects in the Museum\u2019s collections through this series of online catalogues. Each one provides a general introduction, scholarly commentary on the featured objects, and high-definition images that allow users to zoom in to view the object in full detail. Introduction Catalogue Technical Essay BibliographyAbout.", 
+    "description": "Ancient Carved Ambers in the J. Paul Getty Museum. By FAYA CAUSEY With technical analysis by Jeff Maish, Herant Khanjian, and Michael Schilling. This online catalogue opens with a general introduction to amber in the ancient world and then presents fifty-six Etruscan, Greek, and Italic carved ambers in the J. Paul Getty Museum - the second largest collection of this material in the United States and one of the most important in the world. Each piece is given a full description, including typology, style, chronology, and iconography, and is beautifully illustrated in color. The catalogue concludes with technical notes about scientific investigations of these objects and the Baltic amber from which they are carved. With extensive notes, bibliographies, and condition reports on each object, this interactive reference provides scholars with a wealth of information. Images have zoom functionality, allowing objects to be viewed in detail and from various angles. As new scholarship becomes available, the catalogue will be updated. Ancient Carved Ambers in the J. Paul Getty Museum is the first of several planned online scholarly collection catalogues from the Getty. The J. Paul Getty Museum and Getty Publications are committed to making available scholarly information on objects in the Museum’s collections through this series of online catalogues. Each one provides a general introduction, scholarly commentary on the featured objects, and high-definition images that allow users to zoom in to view the object in full detail. Introduction Catalogue Technical Essay BibliographyAbout.", 
     "domain": "museumcatalogues.getty.edu", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8733901605141866131", 
             "resource_date": "2012-11-26T21:15:20.938-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:50.157886"
+            "when": "2015-10-27T18:48:45.643356"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/online-open-access-catalogue-ancient.html", 
             "resource_date": "2012-11-26T21:15:20.938-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:50.157901"
+            "when": "2015-10-27T18:48:45.643372"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8733901605141866131", 
             "resource_date": "2012-11-26T21:15:20.938-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:50.159612"
+            "when": "2015-10-27T18:48:45.645260"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/online-open-access-catalogue-ancient.html", 
             "resource_date": "2012-11-26T21:15:20.938-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:50.159624"
+            "when": "2015-10-27T18:48:45.645272"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:50.162193"
+            "when": "2015-10-27T18:48:45.648423"
         }
     ], 
     "publishers": [], 

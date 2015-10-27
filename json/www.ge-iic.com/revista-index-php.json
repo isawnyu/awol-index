@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ge-conservaci\u00f3n: Publicaci\u00f3n digital hispano-lusa de conservaci\u00f3n y restauraci\u00f3n. ISSN: 1989-8568. Ge-conservaci\u00f3n is a periodical published by GEIIC (Grupo Espa\u00f1ol de Conservaci\u00f3n/ Spanish Conservation Group of the International Institute for Conservation of Historic and Artistic Works) in association with the Duques de Soria Foundation. Its purpose is to contribute to the scientific development, dissemination and exchange of knowledge in the field of cultural heritage conservation and restoration. Its target readership is principally, but not exclusively, Spanish and Portuguese-speaking countries. The journal will feature articles related to the conservation and restoration of cultural heritage that offer the following:.", 
+    "description": "Ge-conservación: Publicación digital hispano-lusa de conservación y restauración. ISSN: 1989-8568. Ge-conservación is a periodical published by GEIIC (Grupo Español de Conservación/ Spanish Conservation Group of the International Institute for Conservation of Historic and Artistic Works) in association with the Duques de Soria Foundation. Its purpose is to contribute to the scientific development, dissemination and exchange of knowledge in the field of cultural heritage conservation and restoration. Its target readership is principally, but not exclusively, Spanish and Portuguese-speaking countries. The journal will feature articles related to the conservation and restoration of cultural heritage that offer the following:.", 
     "domain": "www.ge-iic.com", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Ge-conservaci\u00f3n", 
+        "title_full": "Ge-conservación", 
         "url": "http://www.ge-iic.com/revista/index.php"
     }, 
     "issuance": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8183848192434880544", 
             "resource_date": "2011-01-13T09:08:40.304-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:15.255693"
+            "when": "2015-10-27T18:47:02.994172"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/new-open-access-journal-ge-conservacion.html", 
             "resource_date": "2011-01-13T09:08:40.304-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:15.255710"
+            "when": "2015-10-27T18:47:02.994188"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8183848192434880544", 
             "resource_date": "2011-01-13T09:08:40.304-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:15.260356"
+            "when": "2015-10-27T18:47:02.999054"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/01/new-open-access-journal-ge-conservacion.html", 
             "resource_date": "2011-01-13T09:08:40.304-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:15.260370"
+            "when": "2015-10-27T18:47:02.999068"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:15.261849"
+            "when": "2015-10-27T18:47:03.001068"
         }
     ], 
     "publishers": [], 
@@ -151,13 +151,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Ge-conservaci\u00f3n: Publicaci\u00f3n digital hispano-lusa de conservaci\u00f3n y restauraci\u00f3n", 
+            "title_full": "Ge-conservación: Publicación digital hispano-lusa de conservación y restauración", 
             "url": "http://www.ge-iic.com/revista/index.php"
         }
     ], 
-    "title": "Ge-conservaci\u00f3n: Publicaci\u00f3n digital hispano-lusa de conservaci\u00f3n y restauraci\u00f3n", 
+    "title": "Ge-conservación: Publicación digital hispano-lusa de conservación y restauración", 
     "title_alternates": [], 
-    "title_extended": "Ge-conservaci\u00f3n: Publicaci\u00f3n digital hispano-lusa de conservaci\u00f3n y restauraci\u00f3n", 
+    "title_extended": "Ge-conservación: Publicación digital hispano-lusa de conservación y restauración", 
     "type": null, 
     "url": "http://www.ge-iic.com/revista/index.php", 
     "url_alternates": [], 

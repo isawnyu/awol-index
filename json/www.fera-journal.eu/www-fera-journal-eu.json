@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 8 January 2010. Updated 30 May 2015]. Frankfurter elektronische Rundschau zur Altertumskunde (FeRA). ISSN 1862-8478. Die Frankfurter elektronische Rundschau zur Altertumskunde(FeRA) ist ein open access online-journal f\u00fcr alle klassischen altertumskundlichen F\u00e4cher mit drei Ausgaben pro Jahr (April, August und Dezember). Obwohl am Frankfurter Institut f\u00fcr Arch\u00e4ologische Wissenschaften begr\u00fcndet und \u00fcber den Server der Johann Wolfgang Goethe-Universit\u00e4t operierend, versteht sich die Zeitschrift nicht als reine Seminarpublikation, sondern l\u00e4dt ausdr\u00fccklich Nachwuchswissenschafter aller Universit\u00e4ten ein, Fachbeitr\u00e4ge und Rezensionen einzureichen. The Frankfurter elektronische Rundschau zur Altertumskunde (FeRA) is an open access online journal especially designed for subjects which study the antiquities, and is being published three times a year (April, August and December). Though established by the Frankfurter Institut f\u00fcr Arch\u00e4ologische Wissenschaften and operating via the Johann Wolfgang Goethe-Universit\u00e4t server the journal is not intended to be a mere seminar publication, but explicitly invites qualified young researchers from universities all over the world to present their papers and reviews. Current issue.", 
+    "description": "[First posted in AWOL 8 January 2010. Updated 30 May 2015]. Frankfurter elektronische Rundschau zur Altertumskunde (FeRA). ISSN 1862-8478. Die Frankfurter elektronische Rundschau zur Altertumskunde(FeRA) ist ein open access online-journal für alle klassischen altertumskundlichen Fächer mit drei Ausgaben pro Jahr (April, August und Dezember). Obwohl am Frankfurter Institut für Archäologische Wissenschaften begründet und über den Server der Johann Wolfgang Goethe-Universität operierend, versteht sich die Zeitschrift nicht als reine Seminarpublikation, sondern lädt ausdrücklich Nachwuchswissenschafter aller Universitäten ein, Fachbeiträge und Rezensionen einzureichen. The Frankfurter elektronische Rundschau zur Altertumskunde (FeRA) is an open access online journal especially designed for subjects which study the antiquities, and is being published three times a year (April, August and December). Though established by the Frankfurter Institut für Archäologische Wissenschaften and operating via the Johann Wolfgang Goethe-Universität server the journal is not intended to be a mere seminar publication, but explicitly invites qualified young researchers from universities all over the world to present their papers and reviews. Current issue.", 
     "domain": "www.fera-journal.eu", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4336365473426808545", 
             "resource_date": "2015-05-30T12:36:01.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.323836"
+            "when": "2015-10-27T18:41:50.699091"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/frankfurter-elektronische-rundschau-zur.html", 
             "resource_date": "2015-05-30T12:36:01.709-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.323852"
+            "when": "2015-10-27T18:41:50.699107"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Pompeii: The First Navigation Map. Posted on November 24, 2014 by Eric Poehler The PBMP\u2019s first full map for navigation is now online. You can start to explore Pompeii in the map embedded below, or go to the full site for more space and options. If you want to customize the map or make a presentation from it, sign in to / sign up for your ArcGIS Online account and save a copy to your own webspace. The link is at the upper right of the embedded map page. [Coming: Click here if you want to download the files as a map package (with minor improvements from online version) ]. Below the map is additional information about the files, the information they contain, and their display.", 
+    "description": "Pompeii: The First Navigation Map. Posted on November 24, 2014 by Eric Poehler The PBMP’s first full map for navigation is now online. You can start to explore Pompeii in the map embedded below, or go to the full site for more space and options. If you want to customize the map or make a presentation from it, sign in to / sign up for your ArcGIS Online account and save a copy to your own webspace. The link is at the upper right of the embedded map page. [Coming: Click here if you want to download the files as a map package (with minor improvements from online version) ]. Below the map is additional information about the files, the information they contain, and their display.", 
     "domain": "digitalhumanities.umass.edu", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-989966030884690843", 
             "resource_date": "2014-11-26T23:00:13.212-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:27.248919"
+            "when": "2015-10-27T18:49:26.520988"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/pompeii-first-navigation-map.html", 
             "resource_date": "2014-11-26T23:00:13.212-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:27.248936"
+            "when": "2015-10-27T18:49:26.521003"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-989966030884690843", 
             "resource_date": "2014-11-26T23:00:13.212-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:27.250397"
+            "when": "2015-10-27T18:49:26.522574"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/pompeii-first-navigation-map.html", 
             "resource_date": "2014-11-26T23:00:13.212-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:27.250409"
+            "when": "2015-10-27T18:49:26.522587"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:27.253305"
+            "when": "2015-10-27T18:49:26.526290"
         }
     ], 
     "publishers": [], 

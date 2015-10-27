@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen des Deutschen Arch\u00e4ologischen Instituts, R\u00f6mische Abteilung, 6 (1891), pp. 3-66. Milani, Luigi A. (1890).", 
+    "description": "In: Mitteilungen des Deutschen Archäologischen Instituts, Römische Abteilung, 6 (1891), pp. 3-66. Milani, Luigi A. (1890).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:39.381218"
+            "when": "2015-10-27T18:48:33.577460"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:39.381236"
+            "when": "2015-10-27T18:48:33.577486"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Storia della collezione Capitolina di antichit\u00e0 fino all'inaugurazione del Museo (1734)", 
+    "title": "Storia della collezione Capitolina di antichità fino all'inaugurazione del Museo (1734)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

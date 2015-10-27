@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne. Une exposition r\u00e9alis\u00e9e en 2004 en collaboration entre. Agropolis-Museum - Montpellier - France. Le Mus\u00e9e de l'agriculture ancienne - Le Caire - \u00c9gypte. & l' UMR 5052 Religions et Soci\u00e9t\u00e9 dans l'\u00c9gypte de l'\u00c9poque tardive (Univ. Montpellier III/CNRS) Avec la participation du CIHEAM-IAMM (Centre International des Hautes Etudes Agronomiques M\u00e9diterran\u00e9ennes - Institut Agronomique M\u00e9diterran\u00e9en de Montpellier). Et le soutien de. La R\u00e9gion Languedoc-Roussillon. BLAFE (Bureau de Liaison Agricole Franco-\u00c9gyptien) - Le Caire - \u00c9gypte.", 
+    "description": "Les Céréales en Égypte ancienne. Une exposition réalisée en 2004 en collaboration entre. Agropolis-Museum - Montpellier - France. Le Musée de l'agriculture ancienne - Le Caire - Égypte. & l' UMR 5052 Religions et Société dans l'Égypte de l'Époque tardive (Univ. Montpellier III/CNRS) Avec la participation du CIHEAM-IAMM (Centre International des Hautes Etudes Agronomiques Méditerranéennes - Institut Agronomique Méditerranéen de Montpellier). Et le soutien de. La Région Languedoc-Roussillon. BLAFE (Bureau de Liaison Agricole Franco-Égyptien) - Le Caire - Égypte.", 
     "domain": "museum.agropolis.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne", 
+        "title_full": "Les Céréales en Égypte ancienne", 
         "url": "http://museum.agropolis.fr/pages/expos/egypte/fr/index.htm"
     }, 
     "issuance": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2890348164915902911", 
             "resource_date": "2013-11-15T06:17:49.362-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.756840"
+            "when": "2015-10-27T18:39:02.074582"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/les-cereales-en-egypte-ancienne.html", 
             "resource_date": "2013-11-15T06:17:49.362-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.756860"
+            "when": "2015-10-27T18:39:02.074598"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2890348164915902911", 
             "resource_date": "2013-11-15T06:17:49.362-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.760114"
+            "when": "2015-10-27T18:39:02.076276"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/les-cereales-en-egypte-ancienne.html", 
             "resource_date": "2013-11-15T06:17:49.362-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.760138"
+            "when": "2015-10-27T18:39:02.076289"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:53.763114"
+            "when": "2015-10-27T18:39:02.078184"
         }
     ], 
     "publishers": [], 
@@ -146,11 +146,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne", 
+            "title_full": "Les Céréales en Égypte ancienne", 
             "url": "http://museum.agropolis.fr/pages/expos/egypte/fr/index.htm"
         }
     ], 
-    "title": "Les C\u00e9r\u00e9ales en \u00c9gypte ancienne", 
+    "title": "Les Céréales en Égypte ancienne", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

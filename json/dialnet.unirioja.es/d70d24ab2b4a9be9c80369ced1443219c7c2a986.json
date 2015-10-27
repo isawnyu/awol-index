@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Marq, arqueolog\u00eda y museos. ISSN: 1885-3145.", 
+    "description": "Marq, arqueología y museos. ISSN: 1885-3145.", 
     "domain": "dialnet.unirioja.es", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-353171351403729158", 
             "resource_date": "2013-01-22T15:22:26.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.731011"
+            "when": "2015-10-27T18:40:44.767156"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-marq-arqueologia-y.html", 
             "resource_date": "2013-01-22T15:22:26.159-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.731028"
+            "when": "2015-10-27T18:40:44.767173"
         }
     ], 
     "publishers": [], 
@@ -109,7 +109,7 @@
             "url": "http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&revista_busqueda=7340&clave_busqueda=128759"
         }
     ], 
-    "title": "Marq, arqueolog\u00eda y museos", 
+    "title": "Marq, arqueología y museos", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

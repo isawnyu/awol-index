@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "(Click to download). H. Verreth. The provenance of Egyptian documents from the 8th century BC till the 8th century AD. Version 1. 0 (August 2009), K\u00f6ln / Leuven 2009, 314 pp. (13. 3 Mb). ISBN: 978-9-490604-0-28.", 
+    "description": "(Click to download). H. Verreth. The provenance of Egyptian documents from the 8th century BC till the 8th century AD. Version 1. 0 (August 2009), Köln / Leuven 2009, 314 pp. (13. 3 Mb). ISBN: 978-9-490604-0-28.", 
     "domain": "www.trismegistos.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3360883248438106183", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:20.696298"
+            "when": "2015-10-27T18:40:34.356855"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/10/open-access-library-trismegistos.html", 
             "resource_date": "2013-07-23T09:25:32.205-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:20.696311"
+            "when": "2015-10-27T18:40:34.356870"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4569376484981262742", 
             "resource_date": "2014-07-18T09:34:47.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:30.060170"
+            "when": "2015-10-27T18:41:55.886447"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/07/open-access-monograph-series.html", 
             "resource_date": "2014-07-18T09:34:47.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:30.060183"
+            "when": "2015-10-27T18:41:55.886467"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:30.091794"
+            "when": "2015-10-27T18:41:55.925112"
         }
     ], 
     "publishers": [], 

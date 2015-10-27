@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Milli K\u00fct\u00fcphane T\u00fcrkiye Makaleler Biblioyografyasi", 
+        "title_full": "Milli Kütüphane Türkiye Makaleler Biblioyografyasi", 
         "url": "http://makale.mkutup.gov.tr/cgi-bin/WebObjects/Makale.woa/8/wo/RtdhtYrKIaHpnfbivqnbN0/11.1.0.1"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3118245156712516635", 
             "resource_date": "2010-02-16T11:15:44.624-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:07.736174"
+            "when": "2015-10-27T18:39:16.973699"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-bibliographies-turkish.html", 
             "resource_date": "2010-02-16T11:15:44.624-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:07.736198"
+            "when": "2015-10-27T18:39:16.973720"
         }
     ], 
     "publishers": [], 

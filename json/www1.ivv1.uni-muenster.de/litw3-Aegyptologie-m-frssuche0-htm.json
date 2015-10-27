@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Monspaet-Datenbank des Instituts f\u00fcr \u00c4gyptologie und Koptologie der Westf\u00e4lischen Wilhelms-Universit\u00e4t M\u00fcnster", 
+        "title_full": "Monspaet-Datenbank des Instituts für Ägyptologie und Koptologie der Westfälischen Wilhelms-Universität Münster", 
         "url": "http://www1.ivv1.uni-muenster.de/litw3/Aegyptologie/index03.htm"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-675729438826163211", 
             "resource_date": "2015-02-04T11:39:47.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:31.119543"
+            "when": "2015-10-27T18:45:11.694914"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/monspaet-datenbank-des-instituts-fur.html", 
             "resource_date": "2015-02-04T11:39:47.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:31.119551"
+            "when": "2015-10-27T18:45:11.694922"
         }
     ], 
     "publishers": [], 

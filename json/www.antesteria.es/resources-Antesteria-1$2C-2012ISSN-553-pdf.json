@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AGUILERA DUR\u00c1N, Tom\u00e1s.", 
+    "description": "AGUILERA DURÁN, Tomás.", 
     "domain": "www.antesteria.es", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-204988945209195387", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.533200"
+            "when": "2015-10-27T18:38:18.526011"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/new-open-access-journal-antesteria.html", 
             "resource_date": "2014-01-21T09:12:06.261-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.533214"
+            "when": "2015-10-27T18:38:18.526026"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Una visi\u00f3n historiogr\u00e1fica alternativa: la deconstrucci\u00f3n del estereotipo del b\u00e1rbaro prerromano", 
+    "title": "Una visión historiográfica alternativa: la deconstrucción del estereotipo del bárbaro prerromano", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

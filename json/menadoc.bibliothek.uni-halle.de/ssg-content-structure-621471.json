@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "27 (1999) Vortr\u00e4ge \u00fcber den Islam / Johann W. F\u00fcck. Aus dem Nachla\u00df hrsg. und um einen Anm. -Teil erg. von Sebastian G\u00fcnther.", 
+    "description": "27 (1999) Vorträge über den Islam / Johann W. Fück. Aus dem Nachlaß hrsg. und um einen Anm. -Teil erg. von Sebastian Günther.", 
     "domain": "menadoc.bibliothek.uni-halle.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Hallesche Beitr\u00e4ge zur Orientwissenschaft", 
+        "title_full": "Hallesche Beiträge zur Orientwissenschaft", 
         "url": "http://menadoc.bibliothek.uni-halle.de/ssg/sru?http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243479query=Hallesche+Beitr%C3%A4ge+zur+Orientwissenschaf&searchtype=combined&mode=view&operation=searchRetrieve"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2239546717630774161", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:21.216899"
+            "when": "2015-10-27T18:38:29.068153"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/12/newly-open-access-journal-hallesche.html", 
             "resource_date": "2013-04-12T11:23:58.075-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:21.216912"
+            "when": "2015-10-27T18:38:29.068165"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "26 (1998) Zeit und Geschichte in der koptischen Fr\u00f6mmigkeit bis zum 8. Jahrhundert : Beitr\u00e4ge zur VIII. Internationalen Halleschen Koptologentagung vom 15. - 18. Mai 1998 Content of this Publication", 
+    "title": "26 (1998) Zeit und Geschichte in der koptischen Frömmigkeit bis zum 8. Jahrhundert : Beiträge zur VIII. Internationalen Halleschen Koptologentagung vom 15. - 18. Mai 1998 Content of this Publication", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

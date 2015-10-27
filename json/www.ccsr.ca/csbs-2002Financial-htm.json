@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The CSBS/SC\u00c9B Bulletin, Volume 61 (2001-02):.", 
+    "description": "The CSBS/SCÉB Bulletin, Volume 61 (2001-02):.", 
     "domain": "www.ccsr.ca", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "The CSBS/SC\u00c9B Bulletin", 
+        "title_full": "The CSBS/SCÉB Bulletin", 
         "url": "http://www.ccsr.ca/csbs/Bulletin.html"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9138998602446993018", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:20.774277"
+            "when": "2015-10-27T18:49:19.113787"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/open-access-journal-csbssceb-bulletin.html", 
             "resource_date": "2014-03-16T17:56:48.417-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:20.774288"
+            "when": "2015-10-27T18:49:19.113800"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "The CSBS/SC\u00c9B Bulletin, Volume 62 (2002-03): Introductory Material 2002 Presidential Address 2002 Annual General Meeting Minutes 2002 Financial Statements 2002-03 Membership News", 
+    "title": "The CSBS/SCÉB Bulletin, Volume 62 (2002-03): Introductory Material 2002 Presidential Address 2002 Annual General Meeting Minutes 2002 Financial Statements 2002-03 Membership News", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

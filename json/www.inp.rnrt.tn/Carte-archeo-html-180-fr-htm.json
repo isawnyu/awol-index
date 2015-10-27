@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La carte nationale des sites arch\u00e9ologiques et des monuments historiques: feuilles 1/50 000. Responsable Scientifique et Administratif: Mustapha KHANOUSSI. Responsable NTIC: Ali DABBAGHI.", 
+    "description": "La carte nationale des sites archéologiques et des monuments historiques: feuilles 1/50 000. Responsable Scientifique et Administratif: Mustapha KHANOUSSI. Responsable NTIC: Ali DABBAGHI.", 
     "domain": "www.inp.rnrt.tn", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "La carte nationale des sites arch\u00e9ologiques et des monuments historiques : feuilles 1/50 000", 
+        "title_full": "La carte nationale des sites archéologiques et des monuments historiques : feuilles 1/50 000", 
         "url": "http://www.inp.rnrt.tn/index.php?lang=fr"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7662055284615799155", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:18.357763"
+            "when": "2015-10-27T18:46:02.982419"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/la-carte-nationale-des-sites.html", 
             "resource_date": "2012-10-23T10:43:24.407-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:18.357775"
+            "when": "2015-10-27T18:46:02.982433"
         }
     ], 
     "publishers": [], 

@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-842916321664454739", 
             "resource_date": "2014-08-23T09:20:37.721-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.123056"
+            "when": "2015-10-27T18:47:14.703525"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/bbc-radio-4-in-our-time-ancient-greece.html", 
             "resource_date": "2014-08-23T09:20:37.721-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.123072"
+            "when": "2015-10-27T18:47:14.703552"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-842916321664454739", 
             "resource_date": "2014-08-23T09:20:37.721-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.125541"
+            "when": "2015-10-27T18:47:14.708990"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/bbc-radio-4-in-our-time-ancient-greece.html", 
             "resource_date": "2014-08-23T09:20:37.721-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.125554"
+            "when": "2015-10-27T18:47:14.709021"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.200965"
+            "when": "2015-10-27T18:47:14.796818"
         }
     ], 
     "publishers": [], 
@@ -162,7 +162,7 @@
             "url": "http://www.bbc.co.uk/programmes/b00xw210"
         }, 
         {
-            "title_full": "Aristotle's Politics . Melvyn Bragg and guests discuss Aristotle\u2019s \u2018Politics\u2019", 
+            "title_full": "Aristotle's Politics . Melvyn Bragg and guests discuss Aristotle’s ‘Politics’", 
             "url": "http://www.bbc.co.uk/programmes/b00f8530"
         }, 
         {
@@ -186,7 +186,7 @@
             "url": "http://www.bbc.co.uk/programmes/p00547jm"
         }, 
         {
-            "title_full": "Friendship . Melvyn Bragg explores the concept of friendship; \u2018a single soul dwelling in two bodies\u2019", 
+            "title_full": "Friendship . Melvyn Bragg explores the concept of friendship; ‘a single soul dwelling in two bodies’", 
             "url": "http://www.bbc.co.uk/programmes/p003hyd3"
         }, 
         {
@@ -274,11 +274,11 @@
             "url": "http://www.bbc.co.uk/programmes/p003wtk7"
         }, 
         {
-            "title_full": "The Odyssey . Melvyn Bragg and guests discuss the monster filled epic, Homer\u2019s Odyssey", 
+            "title_full": "The Odyssey . Melvyn Bragg and guests discuss the monster filled epic, Homer’s Odyssey", 
             "url": "http://www.bbc.co.uk/programmes/p004y297"
         }, 
         {
-            "title_full": "The Oresteia . Melvyn Bragg examines the \u2018Oresteia\u2019, the seminal trilogy of tragedies by Aeschylus", 
+            "title_full": "The Oresteia . Melvyn Bragg examines the ‘Oresteia’, the seminal trilogy of tragedies by Aeschylus", 
             "url": "http://www.bbc.co.uk/programmes/p003k9fk"
         }, 
         {

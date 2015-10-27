@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: K\u00f6pke, W. and Schmelz, b. (Hrsgg. ): Alt-\u00c4gypten. Mitteilungen aus dem Museum f\u00fcr V\u00f6lkerkunde. Neue Folge, Band 30. 2001 127. 171. Altenm\u00fcller, Hartwig (1992).", 
+    "description": "In: Köpke, W. and Schmelz, b. (Hrsgg. ): Alt-Ägypten. Mitteilungen aus dem Museum für Völkerkunde. Neue Folge, Band 30. 2001 127. 171. Altenmüller, Hartwig (1992).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:46.710318"
+            "when": "2015-10-27T18:39:58.052505"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:46.710334"
+            "when": "2015-10-27T18:39:58.052522"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Papyri des Museums f\u00fcr V\u00f6lkerkunde Hamburg (C 3835 und C 3836)", 
+    "title": "Die Papyri des Museums für Völkerkunde Hamburg (C 3835 und C 3836)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-308175711505389706", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:05.386596"
+            "when": "2015-10-27T18:39:14.243578"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-e-conservation.html", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:05.386612"
+            "when": "2015-10-27T18:39:14.243594"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-308175711505389706", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:05.390035"
+            "when": "2015-10-27T18:39:14.247285"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-e-conservation.html", 
             "resource_date": "2012-03-26T05:51:21.472-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:05.390056"
+            "when": "2015-10-27T18:39:14.247300"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:05.391509"
+            "when": "2015-10-27T18:39:14.250568"
         }
     ], 
     "publishers": [], 

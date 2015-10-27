@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-704881017287196256", 
             "resource_date": "2013-12-09T20:08:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.255985"
+            "when": "2015-10-27T18:45:21.644661"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/the-book-of-ben-sira.html", 
             "resource_date": "2013-12-09T20:08:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.256001"
+            "when": "2015-10-27T18:45:21.644676"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-704881017287196256", 
             "resource_date": "2013-12-09T20:08:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.259938"
+            "when": "2015-10-27T18:45:21.648015"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/the-book-of-ben-sira.html", 
             "resource_date": "2013-12-09T20:08:56.428-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.259958"
+            "when": "2015-10-27T18:45:21.648028"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:40.265927"
+            "when": "2015-10-27T18:45:21.653330"
         }
     ], 
     "publishers": [], 

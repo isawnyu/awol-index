@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kommission f\u00fcr die Provinz Sachsen und f\u00fcr Anhalt, Historische (Hrsg. ): Mitteldeutsche Lebensbilder. Magdeburg 1930, pp. 130-162. Karo, Georg (1911).", 
+    "description": "In: Kommission für die Provinz Sachsen und für Anhalt, Historische (Hrsg. ): Mitteldeutsche Lebensbilder. Magdeburg 1930, pp. 130-162. Karo, Georg (1911).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:37.315168"
+            "when": "2015-10-27T18:48:31.054666"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:37.315185"
+            "when": "2015-10-27T18:48:31.054686"
         }
     ], 
     "publishers": [], 

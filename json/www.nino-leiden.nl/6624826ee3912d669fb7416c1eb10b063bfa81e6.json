@@ -4,7 +4,7 @@
         "but simultaneously also in open access digital version on the NINO website (www"
     ], 
     "contributors": [], 
-    "description": "Bibliotheca Orientalis 71 3/4 (2014), Jubilee fascicle on digital resources for research in Near Eastern Studies: The year 2014 marks the 75th anniversary of NINO - The Netherlands Institute for the Near East. As one of the initiatives to celebrate this event the editorial board of Bibliotheca Orientalisdecided to devote one of the 2014 issues to reviews of web-based resources on the scholarly subjects covered by the journal. Bibliotheca Orientalis- BiOr- has for decades been one of the main review journals for (Ancient) Near Eastern Studies, providing comprehensive and prompt information and reviews on published books in the fields of Near Eastern Archaeology, Egyptology, Assyriology, Arabic and Semitic philology and history, and generally studies on the Middle East. The traditional focus on printed works has of recent neglected an increasing mass of web-based resources. These resources of course incorporate digital access or reference to printed materials, but also provide independent data sets and compilations of otherwise scattered information in new integrated configurations. It is surely highly relevant to consider these still fairly new, but fast developing resources, and we have therefore invited a number of experts to submit overview - or review articles on this aspect of their relevant fields. We are grateful for the enthusiastic and constructive responses to this call by the authors of the contributions presented here in conventional printed form, but simultaneously also in open access digital version on the NINO website (www. nino-leiden. nl), which allows active links to the referenced sites. We have deliberately left the authors free to choose the scope and format of their contribution, knowing that comprehensive assessments are impossible for a sphere which witnesses virtually daily additions and readjustments. Matters have moved considerably from the time not so long ago when scholars depended primarily on their own \u2018Zettelkasten\u2019 to a situation where much information is now available at our fingertips on the web. The basic importance and obvious convenience of this change are certainly not in doubt, but the organisation and optimal develop- ments, as well as the \u2018side effects\u2019, of this brave new situation deserve serious consideration and debate. Both aspects are reflected in the contributions presented here. Generous listings and com- ments of web-based resources will hopefully be of interest and usefulness to many readers, while broader perspectives touched upon may serve as inspiration for further and future debates - also welcome as contributions to new issues of BiOr.", 
+    "description": "Bibliotheca Orientalis 71 3/4 (2014), Jubilee fascicle on digital resources for research in Near Eastern Studies: The year 2014 marks the 75th anniversary of NINO - The Netherlands Institute for the Near East. As one of the initiatives to celebrate this event the editorial board of Bibliotheca Orientalisdecided to devote one of the 2014 issues to reviews of web-based resources on the scholarly subjects covered by the journal. Bibliotheca Orientalis- BiOr- has for decades been one of the main review journals for (Ancient) Near Eastern Studies, providing comprehensive and prompt information and reviews on published books in the fields of Near Eastern Archaeology, Egyptology, Assyriology, Arabic and Semitic philology and history, and generally studies on the Middle East. The traditional focus on printed works has of recent neglected an increasing mass of web-based resources. These resources of course incorporate digital access or reference to printed materials, but also provide independent data sets and compilations of otherwise scattered information in new integrated configurations. It is surely highly relevant to consider these still fairly new, but fast developing resources, and we have therefore invited a number of experts to submit overview - or review articles on this aspect of their relevant fields. We are grateful for the enthusiastic and constructive responses to this call by the authors of the contributions presented here in conventional printed form, but simultaneously also in open access digital version on the NINO website (www. nino-leiden. nl), which allows active links to the referenced sites. We have deliberately left the authors free to choose the scope and format of their contribution, knowing that comprehensive assessments are impossible for a sphere which witnesses virtually daily additions and readjustments. Matters have moved considerably from the time not so long ago when scholars depended primarily on their own ‘Zettelkasten’ to a situation where much information is now available at our fingertips on the web. The basic importance and obvious convenience of this change are certainly not in doubt, but the organisation and optimal develop- ments, as well as the ‘side effects’, of this brave new situation deserve serious consideration and debate. Both aspects are reflected in the contributions presented here. Generous listings and com- ments of web-based resources will hopefully be of interest and usefulness to many readers, while broader perspectives touched upon may serve as inspiration for further and future debates - also welcome as contributions to new issues of BiOr.", 
     "domain": "www.nino-leiden.nl", 
     "editors": [], 
     "end_date": null, 
@@ -74,13 +74,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4603720236817277596", 
             "resource_date": "2014-08-19T09:59:17.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.198607"
+            "when": "2015-10-27T18:42:06.797004"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/newly-online-at-the-netherlands.html", 
             "resource_date": "2014-08-19T09:59:17.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.198628"
+            "when": "2015-10-27T18:42:06.797019"
         }, 
         {
             "fields": [
@@ -121,13 +121,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4603720236817277596", 
             "resource_date": "2014-08-19T09:59:17.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.200623"
+            "when": "2015-10-27T18:42:06.798770"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/newly-online-at-the-netherlands.html", 
             "resource_date": "2014-08-19T09:59:17.713-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.200641"
+            "when": "2015-10-27T18:42:06.798783"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:40.228916"
+            "when": "2015-10-27T18:42:06.822632"
         }, 
         {
             "fields": [
@@ -182,13 +182,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5703417692913893620", 
             "resource_date": "2015-03-23T10:01:22.457-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:13.153733"
+            "when": "2015-10-27T18:43:45.684089"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-oop-publications-of.html", 
             "resource_date": "2015-03-23T10:01:22.457-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:13.153750"
+            "when": "2015-10-27T18:43:45.684105"
         }, 
         {
             "fields": [
@@ -203,7 +203,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:13.494018"
+            "when": "2015-10-27T18:43:46.008674"
         }, 
         {
             "fields": [
@@ -244,13 +244,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5703417692913893620", 
             "resource_date": "2015-03-23T10:01:22.457-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:13.157380"
+            "when": "2015-10-27T18:43:45.688009"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-oop-publications-of.html", 
             "resource_date": "2015-03-23T10:01:22.457-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:13.157393"
+            "when": "2015-10-27T18:43:45.688023"
         }, 
         {
             "fields": [
@@ -265,7 +265,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:13.501921"
+            "when": "2015-10-27T18:43:46.020748"
         }, 
         {
             "fields": [
@@ -306,13 +306,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6815438520487257166", 
             "resource_date": "2015-01-13T11:18:48.179-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:34.674564"
+            "when": "2015-10-27T18:45:15.539916"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/digital-resources-for-research-in-near.html", 
             "resource_date": "2015-01-13T11:18:48.179-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:34.674581"
+            "when": "2015-10-27T18:45:15.539943"
         }, 
         {
             "fields": [
@@ -329,7 +329,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:34.693659"
+            "when": "2015-10-27T18:45:15.559097"
         }, 
         {
             "fields": [
@@ -370,13 +370,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6815438520487257166", 
             "resource_date": "2015-01-13T11:18:48.179-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:34.683178"
+            "when": "2015-10-27T18:45:15.549612"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/digital-resources-for-research-in-near.html", 
             "resource_date": "2015-01-13T11:18:48.179-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:34.683200"
+            "when": "2015-10-27T18:45:15.549627"
         }, 
         {
             "fields": [
@@ -392,7 +392,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:34.703822"
+            "when": "2015-10-27T18:45:15.571709"
         }
     ], 
     "publishers": [], 
@@ -430,7 +430,7 @@
             "url": "http://www.nino-leiden.nl/doc/PIHANS027.pdf"
         }, 
         {
-            "title_full": "Gleanings from Deir el-Med\u00eena", 
+            "title_full": "Gleanings from Deir el-Medîna", 
             "url": "http://www.nino-leiden.nl/doc/EU01.pdf"
         }, 
         {
@@ -458,43 +458,43 @@
             "url": "http://www.nino-leiden.nl/download/4337"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/annual-report-nino-and-nit-2012"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.%20Eidem"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=C.H.%20van%20Zoest"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2012 2013 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3273"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2011 2012 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2011 2012 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/annual-report-nino-and-nit-2011"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2011 2012 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2011 2012 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3271"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2010 2011 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2010 2011 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/annual-report-nino-and-nit-2010"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2010 2011 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2010 2011 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3269"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2009 2010 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2009 2010 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/annual-report-nino-and-nit-2009"
         }, 
         {
-            "title_full": "Annual Report NINO and NIT 2009 2010 | Published by NINO, hors s\u00e9rie J. Eidem , C.H. van Zoest download as pdf", 
+            "title_full": "Annual Report NINO and NIT 2009 2010 | Published by NINO, hors série J. Eidem , C.H. van Zoest download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3267"
         }, 
         {
@@ -510,15 +510,15 @@
             "url": "http://www.nino-leiden.nl/download/3944"
         }, 
         {
-            "title_full": "Who's Who at Deir el-Med\u00eena 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
+            "title_full": "Who's Who at Deir el-Medîna 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/who-s-who-at-deir-el-medina"
         }, 
         {
-            "title_full": "Who's Who at Deir el-Med\u00eena 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
+            "title_full": "Who's Who at Deir el-Medîna 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=B.G.%20Davies"
         }, 
         {
-            "title_full": "Who's Who at Deir el-Med\u00eena 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
+            "title_full": "Who's Who at Deir el-Medîna 1999 | Eg. Uitg. Volume 13 A Prosopographic Study of the Royal Workmen's Community B.G. Davies download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3191"
         }, 
         {
@@ -630,75 +630,75 @@
             "url": "http://www.nino-leiden.nl/download/3251"
         }, 
         {
-            "title_full": "L'hymne \u00e0 la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Pr\u00e9sentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
+            "title_full": "L'hymne à la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Présentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/l-hymne-a-la-crue-du-nil"
         }, 
         {
-            "title_full": "L'hymne \u00e0 la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Pr\u00e9sentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
+            "title_full": "L'hymne à la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Présentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=D.%20van%20der%20Plas"
         }, 
         {
-            "title_full": "L'hymne \u00e0 la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Pr\u00e9sentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
+            "title_full": "L'hymne à la crue du Nil 1986 | Eg. Uitg. Volume 4 Tome I: Traduction et commentaire; Tome II: Présentation du texte, texte synoptique, planches D. van der Plas download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3183"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/schatten-uit-turkije"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=S.%20Baykan"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.F.%20Borghouts"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=A.H.%20de%20Groot"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.M.%20Hemelrijk"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=Ph.%20van%20%27t%20Hooft"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=Ph.H.J.%20Houwink%20ten%20Cate"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.J.%20Roodenberg"
         }, 
         {
-            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors s\u00e9rie Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
+            "title_full": "Schatten uit Turkije 1986 | Published by NINO, hors série Achtergronden S. Baykan , J.F. Borghouts , A.H. de Groot , J.M. Hemelrijk , Ph. van 't Hooft , Ph.H.J. Houwink ten Cate , J.J. Roodenberg , K.R. Veenhof download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3265"
         }, 
         {
-            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Mura\u0161\u00fb Archive, the Mura\u0161\u00fb Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
+            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/entrepreneurs-and-empire"
         }, 
         {
-            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Mura\u0161\u00fb Archive, the Mura\u0161\u00fb Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
+            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=M.W.%20Stolper"
         }, 
         {
-            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Mura\u0161\u00fb Archive, the Mura\u0161\u00fb Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
+            "title_full": "Entrepreneurs and Empire 1985 | PIHANS Volume 54 The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia M.W. Stolper download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3942"
         }, 
         {
-            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demar\u00e9e download as pdf", 
+            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demarée download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/the-3h-ikr-n-r-stelae"
         }, 
         {
-            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demar\u00e9e download as pdf", 
+            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demarée download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=R.J.%20Demar%C3%A9e"
         }, 
         {
-            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demar\u00e9e download as pdf", 
+            "title_full": "The 3h ikr n R` stelae 1983 | Eg. Uitg. Volume 3 On Ancestor Worship in Ancient Egypt R.J. Demarée download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3179"
         }, 
         {
@@ -714,15 +714,15 @@
             "url": "http://www.nino-leiden.nl/download/3940"
         }, 
         {
-            "title_full": "Gleanings from Deir el-Med\u00eena 1982 | Eg. Uitg. Volume 1 R.J. Demar\u00e9e , Jac.J. Janssen download as pdf", 
+            "title_full": "Gleanings from Deir el-Medîna 1982 | Eg. Uitg. Volume 1 R.J. Demarée , Jac.J. Janssen download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/gleanings-from-deir-el-medina"
         }, 
         {
-            "title_full": "Gleanings from Deir el-Med\u00eena 1982 | Eg. Uitg. Volume 1 R.J. Demar\u00e9e , Jac.J. Janssen download as pdf", 
+            "title_full": "Gleanings from Deir el-Medîna 1982 | Eg. Uitg. Volume 1 R.J. Demarée , Jac.J. Janssen download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=Jac.J.%20Janssen"
         }, 
         {
-            "title_full": "Gleanings from Deir el-Med\u00eena 1982 | Eg. Uitg. Volume 1 R.J. Demar\u00e9e , Jac.J. Janssen download as pdf", 
+            "title_full": "Gleanings from Deir el-Medîna 1982 | Eg. Uitg. Volume 1 R.J. Demarée , Jac.J. Janssen download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3175"
         }, 
         {
@@ -762,11 +762,11 @@
             "url": "http://www.nino-leiden.nl/download/3243"
         }, 
         {
-            "title_full": "Le temple et le culte 1975 | PIHANS Volume 37 Compte rendu de la vingti\u00e8me Rencontre Assyriologique Internationale organis\u00e9e \u00e0 Leiden du 3 au 7 juillet 1972 download as pdf", 
+            "title_full": "Le temple et le culte 1975 | PIHANS Volume 37 Compte rendu de la vingtième Rencontre Assyriologique Internationale organisée à Leiden du 3 au 7 juillet 1972 download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/le-temple-et-le-culte"
         }, 
         {
-            "title_full": "Le temple et le culte 1975 | PIHANS Volume 37 Compte rendu de la vingti\u00e8me Rencontre Assyriologique Internationale organis\u00e9e \u00e0 Leiden du 3 au 7 juillet 1972 download as pdf", 
+            "title_full": "Le temple et le culte 1975 | PIHANS Volume 37 Compte rendu de la vingtième Rencontre Assyriologique Internationale organisée à Leiden du 3 au 7 juillet 1972 download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3239"
         }, 
         {
@@ -794,15 +794,15 @@
             "url": "http://www.nino-leiden.nl/download/3231"
         }, 
         {
-            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe \u00e9gyptien P. Derchain download as pdf", 
+            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe égyptien P. Derchain download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/hathor-quadrifrons"
         }, 
         {
-            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe \u00e9gyptien P. Derchain download as pdf", 
+            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe égyptien P. Derchain download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=P.%20Derchain"
         }, 
         {
-            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe \u00e9gyptien P. Derchain download as pdf", 
+            "title_full": "Hathor Quadrifrons 1972 | PIHANS Volume 28 Recherches sur la syntaxe d'un mythe égyptien P. Derchain download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3936"
         }, 
         {
@@ -814,15 +814,15 @@
             "url": "http://www.nino-leiden.nl/download/3227"
         }, 
         {
-            "title_full": "L'humour dans la litt\u00e9rature et dans l'art de l'ancienne \u00c9gypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
+            "title_full": "L'humour dans la littérature et dans l'art de l'ancienne Égypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/l-humour-dans-la-litterature-et-dans-l-art-de-l-ancienne-Egypte"
         }, 
         {
-            "title_full": "L'humour dans la litt\u00e9rature et dans l'art de l'ancienne \u00c9gypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
+            "title_full": "L'humour dans la littérature et dans l'art de l'ancienne Égypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=B.%20van%20de%20Walle"
         }, 
         {
-            "title_full": "L'humour dans la litt\u00e9rature et dans l'art de l'ancienne \u00c9gypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
+            "title_full": "L'humour dans la littérature et dans l'art de l'ancienne Égypte 1969 | SABMD Volume 4 B. van de Walle download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3259"
         }, 
         {
@@ -846,15 +846,15 @@
             "url": "http://www.nino-leiden.nl/download/3223"
         }, 
         {
-            "title_full": "Le surnom \u00e9gyptien \u00e0 la Basse \u00c9poque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
+            "title_full": "Le surnom égyptien à la Basse Époque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/le-surnom-egyptien-a-la-basse-Epoque"
         }, 
         {
-            "title_full": "Le surnom \u00e9gyptien \u00e0 la Basse \u00c9poque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
+            "title_full": "Le surnom égyptien à la Basse Époque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=H.%20de%20Meulenaere"
         }, 
         {
-            "title_full": "Le surnom \u00e9gyptien \u00e0 la Basse \u00c9poque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
+            "title_full": "Le surnom égyptien à la Basse Époque 1966 | PIHANS Volume 19 H. de Meulenaere download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3932"
         }, 
         {
@@ -918,35 +918,35 @@
             "url": "http://www.nino-leiden.nl/download/3211"
         }, 
         {
-            "title_full": "Des hi\u00e9roglyphes \u00e0 la Croix 1960 | PIHANS Volume 7 Ce que le pass\u00e9 pharaonique a l\u00e9gu\u00e9 au Christianisme J. Doresse download as pdf", 
+            "title_full": "Des hiéroglyphes à la Croix 1960 | PIHANS Volume 7 Ce que le passé pharaonique a légué au Christianisme J. Doresse download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/des-hieroglyphes-a-la-croix"
         }, 
         {
-            "title_full": "Des hi\u00e9roglyphes \u00e0 la Croix 1960 | PIHANS Volume 7 Ce que le pass\u00e9 pharaonique a l\u00e9gu\u00e9 au Christianisme J. Doresse download as pdf", 
+            "title_full": "Des hiéroglyphes à la Croix 1960 | PIHANS Volume 7 Ce que le passé pharaonique a légué au Christianisme J. Doresse download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.%20Doresse"
         }, 
         {
-            "title_full": "Des hi\u00e9roglyphes \u00e0 la Croix 1960 | PIHANS Volume 7 Ce que le pass\u00e9 pharaonique a l\u00e9gu\u00e9 au Christianisme J. Doresse download as pdf", 
+            "title_full": "Des hiéroglyphes à la Croix 1960 | PIHANS Volume 7 Ce que le passé pharaonique a légué au Christianisme J. Doresse download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3207"
         }, 
         {
-            "title_full": "La pers\u00e9cution des Chr\u00e9tiens himyarites au sixi\u00e8me si\u00e8cle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
+            "title_full": "La persécution des Chrétiens himyarites au sixième siècle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/la-persecution-des-chretiens-himyarites-au-sixieme-siecle"
         }, 
         {
-            "title_full": "La pers\u00e9cution des Chr\u00e9tiens himyarites au sixi\u00e8me si\u00e8cle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
+            "title_full": "La persécution des Chrétiens himyarites au sixième siècle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
             "url": "http://www.nino-leiden.nl/publications?dosearch=1&author=J.%20Ryckmans"
         }, 
         {
-            "title_full": "La pers\u00e9cution des Chr\u00e9tiens himyarites au sixi\u00e8me si\u00e8cle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
+            "title_full": "La persécution des Chrétiens himyarites au sixième siècle 1956 | PIHANS Volume 1 J. Ryckmans download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3203"
         }, 
         {
-            "title_full": "Compte rendu de la troisi\u00e8me Rencontre Assyriologique Internationale 1954 | NINO Volume 1 Organis\u00e9e \u00e0 Leiden du 28 juin au 4 juillet 1952 par le Nederlandsch Instituut voor het Nabije Oosten download as pdf", 
+            "title_full": "Compte rendu de la troisième Rencontre Assyriologique Internationale 1954 | NINO Volume 1 Organisée à Leiden du 28 juin au 4 juillet 1952 par le Nederlandsch Instituut voor het Nabije Oosten download as pdf", 
             "url": "http://www.nino-leiden.nl/publication/compte-rendu-de-la-troisieme-rencontre-assyriologique-internationale"
         }, 
         {
-            "title_full": "Compte rendu de la troisi\u00e8me Rencontre Assyriologique Internationale 1954 | NINO Volume 1 Organis\u00e9e \u00e0 Leiden du 28 juin au 4 juillet 1952 par le Nederlandsch Instituut voor het Nabije Oosten download as pdf", 
+            "title_full": "Compte rendu de la troisième Rencontre Assyriologique Internationale 1954 | NINO Volume 1 Organisée à Leiden du 28 juin au 4 juillet 1952 par le Nederlandsch Instituut voor het Nabije Oosten download as pdf", 
             "url": "http://www.nino-leiden.nl/download/3199"
         }, 
         {

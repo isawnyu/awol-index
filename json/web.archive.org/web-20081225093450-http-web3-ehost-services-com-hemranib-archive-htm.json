@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8448265499793834460", 
             "resource_date": "2012-11-15T13:13:05.692-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.496945"
+            "when": "2015-10-27T18:47:15.120820"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/the-bulletin-of-ancient-iranian-history.html", 
             "resource_date": "2012-11-15T13:13:05.692-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.496965"
+            "when": "2015-10-27T18:47:15.120840"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8448265499793834460", 
             "resource_date": "2012-11-15T13:13:05.692-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:26.499834"
+            "when": "2015-10-27T18:47:15.123948"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/the-bulletin-of-ancient-iranian-history.html", 
             "resource_date": "2012-11-15T13:13:05.692-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:26.499848"
+            "when": "2015-10-27T18:47:15.123966"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:26.506666"
+            "when": "2015-10-27T18:47:15.133367"
         }
     ], 
     "publishers": [], 

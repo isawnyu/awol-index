@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 April 2009. Updated 16 August 2013]. Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft. Die \u00e4lteste und weltweit bekannteste Ver\u00f6ffentlichung der DMG ist ihre international zitierte Zeitschrift (ZDMG). Der 1. Band erschien 1847 als ein den gesamten deutschen Sprachraum umfassendes Organ der Orientalistik. Unterbrochen wurde das regelm\u00e4\u00dfige Erscheinen der Zeitschrift nur durch zeitbedingte Wechself\u00e4lle der deutschen Geschichte. Von Anfang an nutzten deutsche und ausl\u00e4ndische Gelehrte die Zeitschrift, um Ergebnisse ihrer Forschungen darzulegen.", 
+    "description": "[First posted in AWOL 21 April 2009. Updated 16 August 2013]. Zeitschrift der Deutschen Morgenländischen Gesellschaft. Die älteste und weltweit bekannteste Veröffentlichung der DMG ist ihre international zitierte Zeitschrift (ZDMG). Der 1. Band erschien 1847 als ein den gesamten deutschen Sprachraum umfassendes Organ der Orientalistik. Unterbrochen wurde das regelmäßige Erscheinen der Zeitschrift nur durch zeitbedingte Wechselfälle der deutschen Geschichte. Von Anfang an nutzten deutsche und ausländische Gelehrte die Zeitschrift, um Ergebnisse ihrer Forschungen darzulegen.", 
     "domain": "menadoc.bibliothek.uni-halle.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5246021440721746858", 
             "resource_date": "2013-08-16T16:18:52.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.834539"
+            "when": "2015-10-27T18:43:18.773384"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/04/pen-access-to-journals-of-deutsche.html", 
             "resource_date": "2013-08-16T16:18:52.763-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.834556"
+            "when": "2015-10-27T18:43:18.773401"
         }
     ], 
     "publishers": [], 
@@ -479,7 +479,7 @@
             "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/78174"
         }, 
         {
-            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft Band 1 - 100", 
+            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenländischen Gesellschaft Band 1 - 100", 
             "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/77561"
         }, 
         {
@@ -603,7 +603,7 @@
             "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/126035"
         }, 
         {
-            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft Band 101 - 130", 
+            "title_full": "Generalindex zur Zeitschrift der Deutschen Morgenländischen Gesellschaft Band 101 - 130", 
             "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/128902"
         }, 
         {
@@ -799,7 +799,7 @@
             "url": "http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/141411"
         }
     ], 
-    "title": "Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft", 
+    "title": "Zeitschrift der Deutschen Morgenländischen Gesellschaft", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7676967438938499096", 
             "resource_date": "2011-12-14T16:00:46.364-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.976902"
+            "when": "2015-10-27T18:46:27.885268"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-al-rawi.html", 
             "resource_date": "2011-12-14T16:00:46.364-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.976929"
+            "when": "2015-10-27T18:46:27.885285"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7676967438938499096", 
             "resource_date": "2011-12-14T16:00:46.364-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.979624"
+            "when": "2015-10-27T18:46:27.888121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-al-rawi.html", 
             "resource_date": "2011-12-14T16:00:46.364-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.979639"
+            "when": "2015-10-27T18:46:27.888135"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:41.981033"
+            "when": "2015-10-27T18:46:27.890010"
         }
     ], 
     "publishers": [], 

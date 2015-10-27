@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": Hugues Berton, \u00ab Etude sur les pierres \u00e0 venin: Origine et provenance des s\u00e9ries dites de pierres \u00e0 venin en Velay-Vivarais \u00bb.", 
+    "description": ": Hugues Berton, « Etude sur les pierres à venin: Origine et provenance des séries dites de pierres à venin en Velay-Vivarais ».", 
     "domain": "www.etudesmagiques.info", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7356242589667277340", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:59.869922"
+            "when": "2015-10-27T18:45:42.949793"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:59.869934"
+            "when": "2015-10-27T18:45:42.949806"
         }
     ], 
     "publishers": [], 

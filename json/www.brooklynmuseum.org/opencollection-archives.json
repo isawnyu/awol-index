@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3901581915702807495", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.290398"
+            "when": "2015-10-27T18:41:12.729257"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/brooklyn-museum-image-collections.html", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.290415"
+            "when": "2015-10-27T18:41:12.729272"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3901581915702807495", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.293457"
+            "when": "2015-10-27T18:41:12.732103"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/01/brooklyn-museum-image-collections.html", 
             "resource_date": "2009-01-13T15:16:14.771-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.293475"
+            "when": "2015-10-27T18:41:12.732118"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:51.306686"
+            "when": "2015-10-27T18:41:12.746106"
         }
     ], 
     "publishers": [], 

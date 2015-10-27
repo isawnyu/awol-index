@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Pongratz-Leisten, B. and K\u00fchne, Hartmut (Hrsgg. ): Ana sad\u00ee Labnani lu allik. Beitr\u00e4ge zu altorientalischen und mittelmeerischen Kulturen, Festschrift f\u00fcr Wolfgang R\u00f6llig. Kevelaer/Neukirchen-Vluyn 1997, pp. 253-267. Maul, Stefan (2008).", 
+    "description": "In: Pongratz-Leisten, B. and Kühne, Hartmut (Hrsgg. ): Ana sadî Labnani lu allik. Beiträge zu altorientalischen und mittelmeerischen Kulturen, Festschrift für Wolfgang Röllig. Kevelaer/Neukirchen-Vluyn 1997, pp. 253-267. Maul, Stefan (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:36.173425"
+            "when": "2015-10-27T18:46:21.922941"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:36.173442"
+            "when": "2015-10-27T18:46:21.922958"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "K\u00fcchensumerisch oder hohe Kunst der Exegese? \u00dcberlegungen zur Bewertung akkadischer Interlinear\u00fcbersetzungen von Emesal-Texten", 
+    "title": "Küchensumerisch oder hohe Kunst der Exegese? Überlegungen zur Bewertung akkadischer Interlinearübersetzungen von Emesal-Texten", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

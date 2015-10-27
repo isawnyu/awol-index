@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nuntius. ISSN: 1333-3852. Nuntius je \u010dasopis Hrvatskog dru\u0161tva klasi\u010dnih filologa te sadr\u017ei znanstvene i stru\u010dne \u010dlanke iz podru\u010dja klasi\u010dne filologije, gr\u010dke i rimske kulture i povijesti, metodike nastave klasi\u010dnih jezika, kao i izvje\u0161\u0107a o radu Dru\u0161tva s kronikom doga\u0111aja.", 
+    "description": "Nuntius. ISSN: 1333-3852. Nuntius je časopis Hrvatskog društva klasičnih filologa te sadrži znanstvene i stručne članke iz područja klasične filologije, grčke i rimske kulture i povijesti, metodike nastave klasičnih jezika, kao i izvješća o radu Društva s kronikom događaja.", 
     "domain": "hrcak.srce.hr", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1909321759332139434", 
             "resource_date": "2014-01-05T13:58:34.245-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:05.020002"
+            "when": "2015-10-27T18:38:11.044578"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/open-access-journal-nuntius.html", 
             "resource_date": "2014-01-05T13:58:34.245-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:05.020021"
+            "when": "2015-10-27T18:38:11.044595"
         }
     ], 
     "publishers": [], 

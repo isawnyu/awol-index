@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Chronique des activit\u00e9s arch\u00e9ologiques de l\u2019\u00c9cole fran\u00e7aise de Rome", 
+        "title_full": "Chronique des activités archéologiques de l’École française de Rome", 
         "url": "http://cefr.revues.org/"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2062521527209593569", 
             "resource_date": "2015-02-15T14:39:38.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.986352"
+            "when": "2015-10-27T18:38:19.028443"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/12/new-open-access-journal-chronique-des.html", 
             "resource_date": "2015-02-15T14:39:38.798-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.986363"
+            "when": "2015-10-27T18:38:19.028458"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Elisa Nicoud , Daniele Aureli et Marina Pagli Valle Giumentina (Abruzzes, Italie) [Texte int\u00e9gral] Troisi\u00e8me mission : \u00e9tude des comportements techno-\u00e9conomiques au Pl\u00e9istoc\u00e8ne moyen Paru dans Chronique des activit\u00e9s arch\u00e9ologiques de l\u2019\u00c9cole fran\u00e7aise de Rome , Italie centrale", 
+    "title": "Elisa Nicoud , Daniele Aureli et Marina Pagli Valle Giumentina (Abruzzes, Italie) [Texte intégral] Troisième mission : étude des comportements techno-économiques au Pléistocène moyen Paru dans Chronique des activités archéologiques de l’École française de Rome , Italie centrale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

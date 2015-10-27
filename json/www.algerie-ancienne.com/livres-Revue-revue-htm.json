@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "REVUE AFRICAINE (Soci\u00e9t\u00e9 historique alg\u00e9rienne). ISSN: 1015-3551.", 
+    "description": "REVUE AFRICAINE (Société historique algérienne). ISSN: 1015-3551.", 
     "domain": "www.algerie-ancienne.com", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7225748703935441213", 
             "resource_date": "2013-06-24T12:03:13.047-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:51.398092"
+            "when": "2015-10-27T18:45:33.897273"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-acces-journal-revue-africaine.html", 
             "resource_date": "2013-06-24T12:03:13.047-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:51.398107"
+            "when": "2015-10-27T18:45:33.897290"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7225748703935441213", 
             "resource_date": "2013-06-24T12:03:13.047-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:51.857549"
+            "when": "2015-10-27T18:45:34.408990"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-acces-journal-revue-africaine.html", 
             "resource_date": "2013-06-24T12:03:13.047-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:51.857565"
+            "when": "2015-10-27T18:45:34.409006"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:51.860382"
+            "when": "2015-10-27T18:45:34.413285"
         }
     ], 
     "publishers": [], 

@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6392342411962851974", 
             "resource_date": "2014-08-06T09:43:00.960-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.924557"
+            "when": "2015-10-27T18:44:40.517762"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/hethitische-bibliographie-online.html", 
             "resource_date": "2014-08-06T09:43:00.960-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.924569"
+            "when": "2015-10-27T18:44:40.517773"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sekund\u00e4rliteratur zu den Texten aus Emar", 
+    "title": "Sekundärliteratur zu den Texten aus Emar", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

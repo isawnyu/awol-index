@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Studia Gilsoniana: A Journal in Classical Philosophy. ISSN 2300-0066. Studia Gilsoniana - an international philosophical annual journal that is focused on the philosophical thought of \u00c9tienne Gilson and selected topics in classical philosophy. It has been published in internet and paper versions by the International \u00c9tienne Gilson Society since 2012. The journal accepts submissions in English, Spanish, and Polish languages. Mail address: KUL, Al. Raclawickie 14/GG-038, 20-950 L u b l i n, Poland. E-mailbox: kstaras@kul. pl. Studia Gilsoniana - mi\u0119dzynarodowy rocznik filozoficzny po\u015bwi\u0119cony filozoficznej tw\u00f3rczo\u015bci Etienne\u2019a Gilsona oraz wybranym zagadnieniom z filozofii klasycznej. Jest wydawane w wersji internetowej i papierowej przez Mi\u0119dzynarodowe Stowarzyszenie \u00c9tienne\u2019a Gilsona od 2012 r. Czasopismo publikuje prace w j\u0119zyku angielskim, hiszpa\u0144skim lub polskim. Adres redakcji: KUL, Al. Raclawickie 14/GG-038, 20-950 L u b l i n, e-mail: kstaras@kul. pl.", 
+    "description": "Studia Gilsoniana: A Journal in Classical Philosophy. ISSN 2300-0066. Studia Gilsoniana - an international philosophical annual journal that is focused on the philosophical thought of Étienne Gilson and selected topics in classical philosophy. It has been published in internet and paper versions by the International Étienne Gilson Society since 2012. The journal accepts submissions in English, Spanish, and Polish languages. Mail address: KUL, Al. Raclawickie 14/GG-038, 20-950 L u b l i n, Poland. E-mailbox: kstaras@kul. pl. Studia Gilsoniana - międzynarodowy rocznik filozoficzny poświęcony filozoficznej twórczości Etienne’a Gilsona oraz wybranym zagadnieniom z filozofii klasycznej. Jest wydawane w wersji internetowej i papierowej przez Międzynarodowe Stowarzyszenie Étienne’a Gilsona od 2012 r. Czasopismo publikuje prace w języku angielskim, hiszpańskim lub polskim. Adres redakcji: KUL, Al. Raclawickie 14/GG-038, 20-950 L u b l i n, e-mail: kstaras@kul. pl.", 
     "domain": "www.gilsonsociety.pl", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1630212557986408107", 
             "resource_date": "2013-11-04T11:31:23.729-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.260143"
+            "when": "2015-10-27T18:37:56.166705"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/new-open-access-journal-studia.html", 
             "resource_date": "2013-11-04T11:31:23.729-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.260159"
+            "when": "2015-10-27T18:37:56.166722"
         }
     ], 
     "publishers": [], 
@@ -85,27 +85,27 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "\u2588 FOR AUTHORS", 
+            "title_full": "█ FOR AUTHORS", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/for-authors/"
         }, 
         {
-            "title_full": "\u2588 DLA AUTOROW", 
+            "title_full": "█ DLA AUTOROW", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/dla-autorow/"
         }, 
         {
-            "title_full": "\u2588 3 (2014)", 
+            "title_full": "█ 3 (2014)", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/3-2014/"
         }, 
         {
-            "title_full": "\u2588 2 (2013)", 
+            "title_full": "█ 2 (2013)", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/2-2013/"
         }, 
         {
-            "title_full": "\u2588 1 (2012)", 
+            "title_full": "█ 1 (2012)", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/1-2012/"
         }, 
         {
-            "title_full": "\u2588 CREATIVE COMMONS", 
+            "title_full": "█ CREATIVE COMMONS", 
             "url": "http://www.gilsonsociety.pl/studia-gilsoniana/creative-commons/"
         }
     ], 

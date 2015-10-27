@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "page 167 \u2020Sencer \u015eahin.", 
+    "description": "page 167 †Sencer Şahin.", 
     "domain": "hw.oeaw.ac.at", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1612449392039575273", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:51.442398"
+            "when": "2015-10-27T18:37:55.255128"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/inscriptions-in-byzantium-and-beyond.html", 
             "resource_date": "2015-04-08T05:51:28.490-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:51.442410"
+            "when": "2015-10-27T18:37:55.255140"
         }
     ], 
     "publishers": [], 
@@ -81,7 +81,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Greek Graffiti from St Sophia\u2019s in Constantinople in the Archive of Robert van Nice (Dumbarton Oaks, Washington, D.C.)", 
+    "title": "Greek Graffiti from St Sophia’s in Constantinople in the Archive of Robert van Nice (Dumbarton Oaks, Washington, D.C.)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

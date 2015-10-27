@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "22 | 2013. La peinture murale: h\u00e9ritage et renouveau.", 
+    "description": "22 | 2013. La peinture murale: héritage et renouveau.", 
     "domain": "insitu.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8522013699704149116", 
             "resource_date": "2015-05-26T11:52:18.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:57.547885"
+            "when": "2015-10-27T18:47:48.393562"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/newly-open-access-journal-in-situ-revue.html", 
             "resource_date": "2015-05-26T11:52:18.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:57.547897"
+            "when": "2015-10-27T18:47:48.393573"
         }
     ], 
     "publishers": [], 

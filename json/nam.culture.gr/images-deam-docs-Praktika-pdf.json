@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397, \u0394\u0399\u0391\u03a7\u0395\u0399\u03a1\u0399\u03a3\u0397 \u039a\u0391\u0399 \u03a0\u03a1\u039f\u0392\u039f\u039b\u0397 \u03a4\u0397\u03a3 \u03a8\u0397\u03a6\u0399\u0391\u039a\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397\u03a3 \u039a\u039b\u0397\u03a1\u039f\u039d\u039f\u039c\u0399\u0391\u03a3: \u03a0\u03a1\u0391\u039a\u03a4\u0399\u039a\u0391 \u03a3\u0395\u039c\u0399\u039d\u0391\u03a1\u0399\u039f\u03a5 \u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397\u03a3 19-20 \u03a6\u0395\u0392\u03a1\u039f\u03a5\u0391\u03a1\u0399\u039f\u03a5 2010. Metaxia Tsipopoulou (ed. ), Documentation, Management and Promotion of Digital Cultural Heritage. Proceedings of the Documentation Seminar, 19-20 February 2010, Athens 2011 (digital edition).", 
+    "description": "ΤΕΚΜΗΡΙΩΣΗ, ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΠΡΟΒΟΛΗ ΤΗΣ ΨΗΦΙΑΚΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΚΛΗΡΟΝΟΜΙΑΣ: ΠΡΑΚΤΙΚΑ ΣΕΜΙΝΑΡΙΟΥ ΤΕΚΜΗΡΙΩΣΗΣ 19-20 ΦΕΒΡΟΥΑΡΙΟΥ 2010. Metaxia Tsipopoulou (ed. ), Documentation, Management and Promotion of Digital Cultural Heritage. Proceedings of the Documentation Seminar, 19-20 February 2010, Athens 2011 (digital edition).", 
     "domain": "nam.culture.gr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397, \u0394\u0399\u0391\u03a7\u0395\u0399\u03a1\u0399\u03a3\u0397 \u039a\u0391\u0399 \u03a0\u03a1\u039f\u0392\u039f\u039b\u0397 \u03a4\u0397\u03a3 \u03a8\u0397\u03a6\u0399\u0391\u039a\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397\u03a3 \u039a\u039b\u0397\u03a1\u039f\u039d\u039f\u039c\u0399\u0391\u03a3: \u03a0\u03a1\u0391\u039a\u03a4\u0399\u039a\u0391 \u03a3\u0395\u039c\u0399\u039d\u0391\u03a1\u0399\u039f\u03a5 \u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397\u03a3 19-20 \u03a6\u0395\u0392\u03a1\u039f\u03a5\u0391\u03a1\u0399\u039f\u03a5 2010", 
+        "title_full": "ΤΕΚΜΗΡΙΩΣΗ, ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΠΡΟΒΟΛΗ ΤΗΣ ΨΗΦΙΑΚΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΚΛΗΡΟΝΟΜΙΑΣ: ΠΡΑΚΤΙΚΑ ΣΕΜΙΝΑΡΙΟΥ ΤΕΚΜΗΡΙΩΣΗΣ 19-20 ΦΕΒΡΟΥΑΡΙΟΥ 2010", 
         "url": "http://nam.culture.gr/images/deam/docs/Praktika.pdf"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223190710071893022", 
             "resource_date": "2012-11-19T10:21:18.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.406941"
+            "when": "2015-10-27T18:40:16.292821"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/documentation-management-and-promotion.html", 
             "resource_date": "2012-11-19T10:21:18.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.406957"
+            "when": "2015-10-27T18:40:16.292848"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223190710071893022", 
             "resource_date": "2012-11-19T10:21:18.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.409339"
+            "when": "2015-10-27T18:40:16.297697"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/documentation-management-and-promotion.html", 
             "resource_date": "2012-11-19T10:21:18.204-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.409351"
+            "when": "2015-10-27T18:40:16.297718"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:04.410902"
+            "when": "2015-10-27T18:40:16.300640"
         }
     ], 
     "publishers": [], 
@@ -144,11 +144,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "\u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397, \u0394\u0399\u0391\u03a7\u0395\u0399\u03a1\u0399\u03a3\u0397 \u039a\u0391\u0399 \u03a0\u03a1\u039f\u0392\u039f\u039b\u0397 \u03a4\u0397\u03a3 \u03a8\u0397\u03a6\u0399\u0391\u039a\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397\u03a3 \u039a\u039b\u0397\u03a1\u039f\u039d\u039f\u039c\u0399\u0391\u03a3: \u03a0\u03a1\u0391\u039a\u03a4\u0399\u039a\u0391 \u03a3\u0395\u039c\u0399\u039d\u0391\u03a1\u0399\u039f\u03a5 \u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397\u03a3 19-20 \u03a6\u0395\u0392\u03a1\u039f\u03a5\u0391\u03a1\u0399\u039f\u03a5 2010", 
+            "title_full": "ΤΕΚΜΗΡΙΩΣΗ, ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΠΡΟΒΟΛΗ ΤΗΣ ΨΗΦΙΑΚΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΚΛΗΡΟΝΟΜΙΑΣ: ΠΡΑΚΤΙΚΑ ΣΕΜΙΝΑΡΙΟΥ ΤΕΚΜΗΡΙΩΣΗΣ 19-20 ΦΕΒΡΟΥΑΡΙΟΥ 2010", 
             "url": "http://nam.culture.gr/images/deam/docs/Praktika.pdf"
         }
     ], 
-    "title": "\u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397, \u0394\u0399\u0391\u03a7\u0395\u0399\u03a1\u0399\u03a3\u0397 \u039a\u0391\u0399 \u03a0\u03a1\u039f\u0392\u039f\u039b\u0397 \u03a4\u0397\u03a3 \u03a8\u0397\u03a6\u0399\u0391\u039a\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397\u03a3 \u039a\u039b\u0397\u03a1\u039f\u039d\u039f\u039c\u0399\u0391\u03a3: \u03a0\u03a1\u0391\u039a\u03a4\u0399\u039a\u0391 \u03a3\u0395\u039c\u0399\u039d\u0391\u03a1\u0399\u039f\u03a5 \u03a4\u0395\u039a\u039c\u0397\u03a1\u0399\u03a9\u03a3\u0397\u03a3 19-20 \u03a6\u0395\u0392\u03a1\u039f\u03a5\u0391\u03a1\u0399\u039f\u03a5 2010", 
+    "title": "ΤΕΚΜΗΡΙΩΣΗ, ΔΙΑΧΕΙΡΙΣΗ ΚΑΙ ΠΡΟΒΟΛΗ ΤΗΣ ΨΗΦΙΑΚΗΣ ΠΟΛΙΤΙΣΤΙΚΗΣ ΚΛΗΡΟΝΟΜΙΑΣ: ΠΡΑΚΤΙΚΑ ΣΕΜΙΝΑΡΙΟΥ ΤΕΚΜΗΡΙΩΣΗΣ 19-20 ΦΕΒΡΟΥΑΡΙΟΥ 2010", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

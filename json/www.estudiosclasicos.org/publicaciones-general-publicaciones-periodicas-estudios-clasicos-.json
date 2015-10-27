@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Estudios cl\u00e1sicos", 
+        "title_full": "Estudios clásicos", 
         "url": "http://www.estudiosclasicos.org/publicaciones-general/publicaciones-periodicas/estudios-clasicos/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4345795415082768106", 
             "resource_date": "2014-05-05T11:51:22.028-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.576794"
+            "when": "2015-10-27T18:41:50.983235"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/06/open-access-journal-estudios-clasicos.html", 
             "resource_date": "2014-05-05T11:51:22.028-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.576809"
+            "when": "2015-10-27T18:41:50.983245"
         }
     ], 
     "publishers": [], 

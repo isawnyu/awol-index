@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-226648577457085803", 
             "resource_date": "2015-02-02T18:10:34.668-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.938787"
+            "when": "2015-10-27T18:38:37.164676"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/cretan-hieroglyphic-texts-online.html", 
             "resource_date": "2015-02-02T18:10:34.668-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.938802"
+            "when": "2015-10-27T18:38:37.164692"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-226648577457085803", 
             "resource_date": "2015-02-02T18:10:34.668-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.941352"
+            "when": "2015-10-27T18:38:37.166858"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/cretan-hieroglyphic-texts-online.html", 
             "resource_date": "2015-02-02T18:10:34.668-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.941366"
+            "when": "2015-10-27T18:38:37.166869"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:28.965099"
+            "when": "2015-10-27T18:38:37.189316"
         }
     ], 
     "publishers": [], 

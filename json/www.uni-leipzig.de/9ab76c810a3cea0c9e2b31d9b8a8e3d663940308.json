@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DigitalHeka: Digitalisierte Erfassung alt\u00e4gyptischer magischer Texte des Mittleren und Neuen Reiches", 
+        "title_full": "DigitalHeka: Digitalisierte Erfassung altägyptischer magischer Texte des Mittleren und Neuen Reiches", 
         "url": "http://www.uni-leipzig.de/~digiheka/index.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2047669583851703258", 
             "resource_date": "2015-02-05T13:43:50.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:11.111920"
+            "when": "2015-10-27T18:38:18.013198"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/digitalheka-digitalisierte-erfassung.html", 
             "resource_date": "2015-02-05T13:43:50.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:11.111931"
+            "when": "2015-10-27T18:38:18.013209"
         }
     ], 
     "publishers": [], 

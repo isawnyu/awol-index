@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Journal of the British Academy. The new online open-access Journal of the British Academy seeks to publish a conspectus of the state of scholarship across the British Academy\u2019s disciplinary interests, its content derived from the Academy\u2019s own lecture programme.", 
+    "description": "Journal of the British Academy. The new online open-access Journal of the British Academy seeks to publish a conspectus of the state of scholarship across the British Academy’s disciplinary interests, its content derived from the Academy’s own lecture programme.", 
     "domain": "www.britac.ac.uk", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7966395125961356465", 
             "resource_date": "2013-12-12T15:28:31.598-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:06.069982"
+            "when": "2015-10-27T18:46:53.363121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/new-open-access-journal-journal-of.html", 
             "resource_date": "2013-12-12T15:28:31.598-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:06.069997"
+            "when": "2015-10-27T18:46:53.363133"
         }
     ], 
     "publishers": [], 

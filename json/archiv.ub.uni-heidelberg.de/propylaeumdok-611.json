@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: K\u00fchne, Hartmut and Czichon, R. M. and Kreppner, J. (Hrsgg. ): Proceedings of the 4th International Congress of the Archaeology of the Ancient Near East, 29 March - 3 April 2004, Freie Universit\u00e4t Berlin, Vol. 1. Wiesbaden 2008, pp. 613-619. Wenning, Robert (2004).", 
+    "description": "In: Kühne, Hartmut and Czichon, R. M. and Kreppner, J. (Hrsgg. ): Proceedings of the 4th International Congress of the Archaeology of the Ancient Near East, 29 March - 3 April 2004, Freie Universität Berlin, Vol. 1. Wiesbaden 2008, pp. 613-619. Wenning, Robert (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.698361"
+            "when": "2015-10-27T18:46:26.501332"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.698379"
+            "when": "2015-10-27T18:46:26.501348"
         }
     ], 
     "publishers": [], 

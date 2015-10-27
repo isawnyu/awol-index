@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3970481741510639967", 
             "resource_date": "2015-02-06T16:44:57.039-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:53.237570"
+            "when": "2015-10-27T18:41:15.043631"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/ancient-egyptian-cobra-project.html", 
             "resource_date": "2015-02-06T16:44:57.039-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:53.237586"
+            "when": "2015-10-27T18:41:15.043650"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3970481741510639967", 
             "resource_date": "2015-02-06T16:44:57.039-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:53.239921"
+            "when": "2015-10-27T18:41:15.046490"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/ancient-egyptian-cobra-project.html", 
             "resource_date": "2015-02-06T16:44:57.039-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:53.239936"
+            "when": "2015-10-27T18:41:15.046507"
         }, 
         {
             "fields": [
@@ -139,7 +139,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:53.252440"
+            "when": "2015-10-27T18:41:15.059303"
         }
     ], 
     "publishers": [], 

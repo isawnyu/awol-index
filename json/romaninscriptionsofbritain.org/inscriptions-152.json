@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5671564899418389110", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:11.449660"
+            "when": "2015-10-27T18:43:43.736612"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/digital-roman-inscriptions-of-britain.html", 
             "resource_date": "2014-10-01T07:39:34.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:11.449677"
+            "when": "2015-10-27T18:43:43.736624"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Per Addendum (see note to RIB 152 ), all translations of numen as \u2018deity\u2019 have been changed to \u2018divinity\u2019, e.g., instances of \u2018deities of the emperor\u2019 are now \u2018divinities of the emperor\u2019", 
+    "title": "Per Addendum (see note to RIB 152 ), all translations of numen as ‘deity’ have been changed to ‘divinity’, e.g., instances of ‘deities of the emperor’ are now ‘divinities of the emperor’", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

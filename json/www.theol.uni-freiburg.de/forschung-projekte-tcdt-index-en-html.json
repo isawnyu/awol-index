@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7292894480894653363", 
             "resource_date": "2014-08-15T09:51:05.914-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:54.374586"
+            "when": "2015-10-27T18:45:36.887150"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/traditio-classicorum-english-version.html", 
             "resource_date": "2014-08-15T09:51:05.914-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:54.374601"
+            "when": "2015-10-27T18:45:36.887166"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7292894480894653363", 
             "resource_date": "2014-08-15T09:51:05.914-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:54.376399"
+            "when": "2015-10-27T18:45:36.888620"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/traditio-classicorum-english-version.html", 
             "resource_date": "2014-08-15T09:51:05.914-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:54.376413"
+            "when": "2015-10-27T18:45:36.888632"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:54.386177"
+            "when": "2015-10-27T18:45:36.896253"
         }
     ], 
     "publishers": [], 

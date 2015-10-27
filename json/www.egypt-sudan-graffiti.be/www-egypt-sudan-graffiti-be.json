@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Travellers\u2019Graffiti from Egypt and the Sudan. Roger O. De KeersmaeckerBiography. In Memoriam. Articles. Books. Reviews. Additional Information. Interview.", 
+    "description": "Travellers’Graffiti from Egypt and the Sudan. Roger O. De KeersmaeckerBiography. In Memoriam. Articles. Books. Reviews. Additional Information. Interview.", 
     "domain": "www.egypt-sudan-graffiti.be", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Travellers\u2019Graffiti from Egypt and the Sudan", 
+        "title_full": "Travellers’Graffiti from Egypt and the Sudan", 
         "url": "http://www.egypt-sudan-graffiti.be/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7935221463227762859", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.732715"
+            "when": "2015-10-27T18:46:50.957918"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/travellersgraffiti-from-egypt-and-sudan.html", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.732737"
+            "when": "2015-10-27T18:46:50.957942"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7935221463227762859", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:03.735143"
+            "when": "2015-10-27T18:46:50.960311"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/09/travellersgraffiti-from-egypt-and-sudan.html", 
             "resource_date": "2014-09-09T11:19:04.659-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:03.735156"
+            "when": "2015-10-27T18:46:50.960324"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:03.835768"
+            "when": "2015-10-27T18:46:51.051248"
         }
     ], 
     "publishers": [], 
@@ -144,7 +144,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Travellers\u2019Graffiti from Egypt and the Sudan", 
+            "title_full": "Travellers’Graffiti from Egypt and the Sudan", 
             "url": "http://www.egypt-sudan-graffiti.be/"
         }, 
         {
@@ -208,7 +208,7 @@
             "url": "http://www.egypt-sudan-graffiti.be/Emilio.htm"
         }, 
         {
-            "title_full": "P\u00fcckler Muskau (Prince) Hermann Ludwig Heinrich", 
+            "title_full": "Pückler Muskau (Prince) Hermann Ludwig Heinrich", 
             "url": "http://www.egypt-sudan-graffiti.be/puckler.htm"
         }, 
         {
@@ -240,7 +240,7 @@
             "url": "http://www.egypt-sudan-graffiti.be/travellersVI.htm"
         }, 
         {
-            "title_full": "Supplement on travellers\u2019 comments regarding the French commemorative inscription at Philae", 
+            "title_full": "Supplement on travellers’ comments regarding the French commemorative inscription at Philae", 
             "url": "http://www.egypt-sudan-graffiti.be/Castex.htm"
         }, 
         {
@@ -276,7 +276,7 @@
             "url": "http://www.egypt-sudan-graffiti.be/Arthur%20Todd%20Holyroyd.htm"
         }
     ], 
-    "title": "Travellers\u2019Graffiti from Egypt and the Sudan", 
+    "title": "Travellers’Graffiti from Egypt and the Sudan", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

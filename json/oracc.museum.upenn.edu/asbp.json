@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2507699864757420213", 
             "resource_date": "2014-04-10T07:22:30.932-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.542991"
+            "when": "2015-10-27T18:38:46.602911"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/ashurbanipal-library-project.html", 
             "resource_date": "2014-04-10T07:22:30.932-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.543017"
+            "when": "2015-10-27T18:38:46.602927"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2507699864757420213", 
             "resource_date": "2014-04-10T07:22:30.932-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.548062"
+            "when": "2015-10-27T18:38:46.606232"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/ashurbanipal-library-project.html", 
             "resource_date": "2014-04-10T07:22:30.932-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.548080"
+            "when": "2015-10-27T18:38:46.606246"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:38.561390"
+            "when": "2015-10-27T18:38:46.619186"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue d\u2019ethno\u00e9cologie", 
+        "title_full": "Revue d’ethnoécologie", 
         "url": "http://ethnoecologie.revues.org/1216"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8566935052145837920", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.637087"
+            "when": "2015-10-27T18:47:51.684595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/01/le-palmier-dattier-origine-et-culture.html", 
             "resource_date": "2014-01-13T11:43:06.078-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.637099"
+            "when": "2015-10-27T18:47:51.684609"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Charl\u00e8ne Bouchaud Exploitation v\u00e9g\u00e9tale des oasis d\u2019Arabie [Texte int\u00e9gral] Production, commerce et utilisation des plantes. L\u2019exemple de Mad\u00e2\u2019in S\u00e2lih (Arabie Saoudite) entre le iv e si\u00e8cle av. J.-C. et le vii e si\u00e8cle apr. J.-C. Oasis plant exploitation in Arabia: plant production, trade and use. The case of Mad\u00e2\u2019in S\u00e2lih (Saudi Arabia) between the 4th century BC and the 7th century AD", 
+    "title": "Charlène Bouchaud Exploitation végétale des oasis d’Arabie [Texte intégral] Production, commerce et utilisation des plantes. L’exemple de Madâ’in Sâlih (Arabie Saoudite) entre le iv e siècle av. J.-C. et le vii e siècle apr. J.-C. Oasis plant exploitation in Arabia: plant production, trade and use. The case of Madâ’in Sâlih (Saudi Arabia) between the 4th century BC and the 7th century AD", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

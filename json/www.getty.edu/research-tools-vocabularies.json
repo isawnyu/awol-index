@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1683886241928062236", 
             "resource_date": "2014-08-21T15:25:36.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.717078"
+            "when": "2015-10-27T18:37:57.772596"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/getty-vocabularies.html", 
             "resource_date": "2014-08-21T15:25:36.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.717094"
+            "when": "2015-10-27T18:37:57.772612"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1683886241928062236", 
             "resource_date": "2014-08-21T15:25:36.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:53.718563"
+            "when": "2015-10-27T18:37:57.774141"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/getty-vocabularies.html", 
             "resource_date": "2014-08-21T15:25:36.751-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:53.718575"
+            "when": "2015-10-27T18:37:57.774151"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:53.723539"
+            "when": "2015-10-27T18:37:57.779155"
         }
     ], 
     "publishers": [], 

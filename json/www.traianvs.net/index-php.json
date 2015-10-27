@@ -3,7 +3,7 @@
         "are responsible for their own opinions"
     ], 
     "contributors": [], 
-    "description": "Traianus. TRAIANVS es un portal t\u00e9cnico, en el que investigadores de la Ingenier\u00eda Romana, procedentes del \u00e1mbito de la Ingenier\u00eda Civil y de la Arqueolog\u00eda, exponen sus trabajos y los dan a conocer a la opini\u00f3n p\u00fablica. Cada autor es responsable de las opiniones por \u00e9l vertidas, firma su art\u00edculo y se reserva los derechos de autor y copia. TRAIANVS is a technical portal of the Roman engineering researchers from the field of Civil Engineering and of Archaeology. They expose their work and make them known to the public. All authors are responsible for their own opinions. They also sign their own articles, which are, in turn, protected by copyright. Es opini\u00f3n com\u00fan entre los estudiosos de la ingenier\u00eda romana, que el conocimiento de las obras de ingenier\u00eda de esa civilizaci\u00f3n, del nivel tecnol\u00f3gico alcanzado en ellas y de sus caracter\u00edsticas t\u00e9cnicas, es muy escaso. En TRAIANVS, adem\u00e1s de compartir tal parecer, sabemos que uno de los mayores problemas al que se enfrenta el estudio cr\u00edtico de estas obras, es la carencia cr\u00f3nica de identidad que la mayor\u00eda de ellas soportan. O lo que es lo mismo: Una buena parte de las obras imputadas a los ingenieros romanos, no son tales; mientras que un gran n\u00famero de ellas est\u00e1n por descubrir o identificar correctamente como romanas. Tal vez el caso de las calzadas y los puentes sea el m\u00e1s patente en cuanto a identidad equivocada, aunque tambi\u00e9n quedan por descubrir la mayor\u00eda de los abastecimientos de agua a las grandes ciudades romanas y las obras de regulaci\u00f3n h\u00eddrica. Con estos trabajos TRAIANVS pretende colaborar a la divulgaci\u00f3n y a la correcta identificaci\u00f3n de la obras de ingenier\u00eda romana.", 
+    "description": "Traianus. TRAIANVS es un portal técnico, en el que investigadores de la Ingeniería Romana, procedentes del ámbito de la Ingeniería Civil y de la Arqueología, exponen sus trabajos y los dan a conocer a la opinión pública. Cada autor es responsable de las opiniones por él vertidas, firma su artículo y se reserva los derechos de autor y copia. TRAIANVS is a technical portal of the Roman engineering researchers from the field of Civil Engineering and of Archaeology. They expose their work and make them known to the public. All authors are responsible for their own opinions. They also sign their own articles, which are, in turn, protected by copyright. Es opinión común entre los estudiosos de la ingeniería romana, que el conocimiento de las obras de ingeniería de esa civilización, del nivel tecnológico alcanzado en ellas y de sus características técnicas, es muy escaso. En TRAIANVS, además de compartir tal parecer, sabemos que uno de los mayores problemas al que se enfrenta el estudio crítico de estas obras, es la carencia crónica de identidad que la mayoría de ellas soportan. O lo que es lo mismo: Una buena parte de las obras imputadas a los ingenieros romanos, no son tales; mientras que un gran número de ellas están por descubrir o identificar correctamente como romanas. Tal vez el caso de las calzadas y los puentes sea el más patente en cuanto a identidad equivocada, aunque también quedan por descubrir la mayoría de los abastecimientos de agua a las grandes ciudades romanas y las obras de regulación hídrica. Con estos trabajos TRAIANVS pretende colaborar a la divulgación y a la correcta identificación de la obras de ingeniería romana.", 
     "domain": "www.traianvs.net", 
     "editors": [], 
     "end_date": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2648365069805920908", 
             "resource_date": "2014-12-21T14:45:01.109-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:44.249840"
+            "when": "2015-10-27T18:38:52.427031"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/traianus.html", 
             "resource_date": "2014-12-21T14:45:01.109-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:44.249855"
+            "when": "2015-10-27T18:38:52.427048"
         }, 
         {
             "fields": [
@@ -115,13 +115,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2648365069805920908", 
             "resource_date": "2014-12-21T14:45:01.109-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:44.257573"
+            "when": "2015-10-27T18:38:52.435121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/traianus.html", 
             "resource_date": "2014-12-21T14:45:01.109-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:44.257587"
+            "when": "2015-10-27T18:38:52.435135"
         }, 
         {
             "fields": [
@@ -136,7 +136,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:44.787494"
+            "when": "2015-10-27T18:38:53.014377"
         }
     ], 
     "publishers": [], 
@@ -150,7 +150,7 @@
             "url": "http://www.traianvs.net/index.php"
         }, 
         {
-            "title_full": "2013 Imagen-realidad v\u00edas romanas", 
+            "title_full": "2013 Imagen-realidad vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2013_imagen_vias_romanas.pdf"
         }, 
         {
@@ -158,19 +158,19 @@
             "url": "http://www.traianvs.net/pdfs/2013_nomenclatura_viaria_antigua.pdf"
         }, 
         {
-            "title_full": "2010 Huellas de ingenier\u00eda perdida", 
+            "title_full": "2010 Huellas de ingeniería perdida", 
             "url": "http://www.traianvs.net/pdfs/2010_vias_romanas_ingenieria_perdida.pdf"
         }, 
         {
-            "title_full": "2010 Valorizaci\u00f3n de v\u00edas romanas", 
+            "title_full": "2010 Valorización de vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2010_valorizacion_vias_romanas.pdf"
         }, 
         {
-            "title_full": "2010 Erudici\u00f3n y v\u00edas romanas", 
+            "title_full": "2010 Erudición y vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2010_erudicion_y_vias_romanas.pdf"
         }, 
         {
-            "title_full": "2010 Documentaci\u00f3n y v\u00edas romanas", 
+            "title_full": "2010 Documentación y vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2010_documentacion_y_vias_romanas.pdf"
         }, 
         {
@@ -178,15 +178,15 @@
             "url": "http://www.traianvs.net/pdfs/2010_routes_et_puissance_de_rome.pdf"
         }, 
         {
-            "title_full": "2010 Identificaci\u00f3n de v\u00edas romanas", 
+            "title_full": "2010 Identificación de vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2010_tecnica_constructiva_romana.pdf"
         }, 
         {
-            "title_full": "2010 V\u00edas romanas y modernas", 
+            "title_full": "2010 Vías romanas y modernas", 
             "url": "http://www.traianvs.net/pdfs/2010_vias_romanas_infraestructuras.pdf"
         }, 
         {
-            "title_full": "2009 V\u00eda Caesaraugusta-Beneharno", 
+            "title_full": "2009 Vía Caesaraugusta-Beneharno", 
             "url": "http://www.traianvs.net/pdfs/2009_caesaraugusta_beneharno.pdf"
         }, 
         {
@@ -194,27 +194,27 @@
             "url": "http://www.traianvs.net/pdfs/2008_el_camino_del_parpers.pdf"
         }, 
         {
-            "title_full": "2007 El Puerto de la Fuenfr\u00eda", 
+            "title_full": "2007 El Puerto de la Fuenfría", 
             "url": "http://www.traianvs.net/pdfs/2007_via_romana_fuenfria.pdf"
         }, 
         {
-            "title_full": "2006 V\u00edas romanas de Astorga", 
+            "title_full": "2006 Vías romanas de Astorga", 
             "url": "http://www.traianvs.net/pdfs/2006_v%C3%ADas_romanas_de_Astorga.pdf"
         }, 
         {
-            "title_full": "2006 Epigraf\u00eda viaria del Noroeste", 
+            "title_full": "2006 Epigrafía viaria del Noroeste", 
             "url": "http://www.traianvs.net/pdfs/2006_epigrafia_viaria_del_noroeste.pdf"
         }, 
         {
-            "title_full": "2006 Caminos hist\u00f3ricos del Bierzo", 
+            "title_full": "2006 Caminos históricos del Bierzo", 
             "url": "http://www.traianvs.net/pdfs/2006_caminos_historicos_del_bierzo.pdf"
         }, 
         {
-            "title_full": "2005 Caminos hist\u00f3ricos en el Ebro", 
+            "title_full": "2005 Caminos históricos en el Ebro", 
             "url": "http://www.traianvs.net/pdfs/2005_caminos_historicos_ebro.pdf"
         }, 
         {
-            "title_full": "2005 V\u00eda romana del Ard\u00e8che", 
+            "title_full": "2005 Vía romana del Ardèche", 
             "url": "http://www.traianvs.net/viasromanas/via_romana_del_ardeche.htm"
         }, 
         {
@@ -222,7 +222,7 @@
             "url": "http://www.traianvs.net/tabula_de_peutinger/tabula_de_peutinger.htm"
         }, 
         {
-            "title_full": "2004 Ingenier\u00eda de las v\u00edas romanas", 
+            "title_full": "2004 Ingeniería de las vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2004_ingenieria_vias_viasromanas.pdf"
         }, 
         {
@@ -234,7 +234,7 @@
             "url": "http://www.traianvs.net/caminos_villuga/caminos_villuga.html"
         }, 
         {
-            "title_full": "2004 V\u00eda Delapidata", 
+            "title_full": "2004 Vía Delapidata", 
             "url": "http://www.traianvs.net/pdfs/2004_04_via_delapidata.pdf"
         }, 
         {
@@ -258,11 +258,11 @@
             "url": "http://www.traianvs.net/viasromanas/infraestructura_romana_01.htm"
         }, 
         {
-            "title_full": "2001 V\u00eda de Italia a Hispania Rioja", 
+            "title_full": "2001 Vía de Italia a Hispania Rioja", 
             "url": "http://www.traianvs.net/pdfs/2001_via_romana_en_la_rioja.pdf"
         }, 
         {
-            "title_full": "2000 V\u00eda de Italia a Hispania Burgos", 
+            "title_full": "2000 Vía de Italia a Hispania Burgos", 
             "url": "http://www.traianvs.net/pdfs/2000_via_romana_burgos_palencia.pdf"
         }, 
         {
@@ -274,19 +274,19 @@
             "url": "http://www.traianvs.net/textos/18limia.htm"
         }, 
         {
-            "title_full": "2001 V\u00eda de Astorga a Le\u00f3n", 
+            "title_full": "2001 Vía de Astorga a León", 
             "url": "http://www.traianvs.net/textos/asturica01.htm"
         }, 
         {
-            "title_full": "2003 Agresiones a v\u00edas romanas II", 
+            "title_full": "2003 Agresiones a vías romanas II", 
             "url": "http://www.traianvs.net/viasromanas/tricio.htm"
         }, 
         {
-            "title_full": "2000 Agresiones a v\u00edas romanas I", 
+            "title_full": "2000 Agresiones a vías romanas I", 
             "url": "http://www.traianvs.net/problems/indingles.htm"
         }, 
         {
-            "title_full": "2000 V\u00eda de Zaragoza a Le\u00f3n", 
+            "title_full": "2000 Vía de Zaragoza a León", 
             "url": "http://www.traianvs.net/zaraleon/index.htm"
         }, 
         {
@@ -294,7 +294,7 @@
             "url": "http://www.traianvs.net/pdfs/1992_miliarios_de_la_tarraconense.pdf"
         }, 
         {
-            "title_full": "1861 V\u00eda de Uxama a Augustobriga", 
+            "title_full": "1861 Vía de Uxama a Augustobriga", 
             "url": "http://www.traianvs.net/pdfs/1861_via_uxama_augustobriga.pdf"
         }, 
         {
@@ -306,7 +306,7 @@
             "url": "http://www.traianvs.net/pdfs/1728_histoire_des_grands_chemins_bergier.pdf"
         }, 
         {
-            "title_full": "2010 Reparaci\u00f3n de Puentes", 
+            "title_full": "2010 Reparación de Puentes", 
             "url": "http://www.traianvs.net/pdfs/2010_duran.pdf"
         }, 
         {
@@ -314,11 +314,11 @@
             "url": "http://www.traianvs.net/pdfs/2008_grafitos.pdf"
         }, 
         {
-            "title_full": "2005 B\u00f3vedas de puentes romanos", 
+            "title_full": "2005 Bóvedas de puentes romanos", 
             "url": "http://www.traianvs.net/pdfs/2006_05duran.pdf"
         }, 
         {
-            "title_full": "2005 La Construcci\u00f3n de Puentes", 
+            "title_full": "2005 La Construcción de Puentes", 
             "url": "http://www.traianvs.net/pdfs/2005_duran.pdf"
         }, 
         {
@@ -326,7 +326,7 @@
             "url": "http://www.traianvs.net/pdfs/2004_01_galliazzo.pdf"
         }, 
         {
-            "title_full": "2004 T\u00e9cnica constructiva II", 
+            "title_full": "2004 Técnica constructiva II", 
             "url": "http://www.traianvs.net/pdfs/2004_06_duran.pdf"
         }, 
         {
@@ -334,7 +334,7 @@
             "url": "http://www.traianvs.net/pdfs/2003_puentes07.pdf"
         }, 
         {
-            "title_full": "2003 T\u00e9cnica constructiva I", 
+            "title_full": "2003 Técnica constructiva I", 
             "url": "http://www.traianvs.net/pdfs/2003_puentes05.pdf"
         }, 
         {
@@ -342,15 +342,15 @@
             "url": "http://www.traianvs.net/viasromanas/alqanatir.php"
         }, 
         {
-            "title_full": "2002 Identificaci\u00f3n en Hispania", 
+            "title_full": "2002 Identificación en Hispania", 
             "url": "http://www.traianvs.net/pdfs/2002_puentes04.pdf"
         }, 
         {
-            "title_full": "2001 Galer\u00edas fotogr\u00e1ficas", 
+            "title_full": "2001 Galerías fotográficas", 
             "url": "http://www.traianvs.net/textos/galeria1.htm"
         }, 
         {
-            "title_full": "2001 M\u00e9rida y Alc\u00e1ntara", 
+            "title_full": "2001 Mérida y Alcántara", 
             "url": "http://www.traianvs.net/textos/meridalcantara.htm"
         }, 
         {
@@ -358,7 +358,7 @@
             "url": "http://www.traianvs.net/textos/freixobibei.htm"
         }, 
         {
-            "title_full": "2000 Capacidad de desag\u00fce", 
+            "title_full": "2000 Capacidad de desagüe", 
             "url": "http://www.traianvs.net/textos/desague.htm"
         }, 
         {
@@ -370,7 +370,7 @@
             "url": "http://www.traianvs.net/textos/puentes03.htm"
         }, 
         {
-            "title_full": "1979 Puente de La Pont\u00f3riga", 
+            "title_full": "1979 Puente de La Pontóriga", 
             "url": "http://www.traianvs.net/textos/pontoriga.htm"
         }, 
         {
@@ -378,19 +378,19 @@
             "url": "http://www.traianvs.net/pdfs/2011_riotinto-02.pdf"
         }, 
         {
-            "title_full": "2010 Ingenier\u00eda minera del suroeste", 
+            "title_full": "2010 Ingeniería minera del suroeste", 
             "url": "http://www.traianvs.net/pdfs/2010_riotinto-01.pdf"
         }, 
         {
-            "title_full": "2010 Ingenier\u00eda del lapis specularis", 
+            "title_full": "2010 Ingeniería del lapis specularis", 
             "url": "http://www.traianvs.net/pdfs/2010_16_guisado.pdf"
         }, 
         {
-            "title_full": "2008 Miner\u00eda y Puerto de Oiasso", 
+            "title_full": "2008 Minería y Puerto de Oiasso", 
             "url": "http://www.traianvs.net/pdfs/2008_oiasso.pdf"
         }, 
         {
-            "title_full": "2006 Miner\u00eda del oro en el Teleno", 
+            "title_full": "2006 Minería del oro en el Teleno", 
             "url": "http://www.traianvs.net/pdfs/2006_09matias.pdf"
         }, 
         {
@@ -402,7 +402,7 @@
             "url": "http://www.traianvs.net/textos/lapis.php"
         }, 
         {
-            "title_full": "2004 Ingenier\u00eda minera romana", 
+            "title_full": "2004 Ingeniería minera romana", 
             "url": "http://www.traianvs.net/pdfs/2004_07_matias.pdf"
         }, 
         {
@@ -422,31 +422,31 @@
             "url": "http://www.traianvs.net/pdfs/2004_roman_surveying.pdf"
         }, 
         {
-            "title_full": "2004 Topograf\u00eda Romana", 
+            "title_full": "2004 Topografía Romana", 
             "url": "http://www.traianvs.net/pdfs/2004_topografia_romana.pdf"
         }, 
         {
-            "title_full": "2010 R\u00e9gimen Jur\u00eddico v\u00edas romanas", 
+            "title_full": "2010 Régimen Jurídico vías romanas", 
             "url": "http://www.traianvs.net/pdfs/2010_03_ponte.pdf"
         }, 
         {
-            "title_full": "2008 Ej\u00e9rcito y Obras Viarias", 
+            "title_full": "2008 Ejército y Obras Viarias", 
             "url": "http://www.traianvs.net/pdfs/2008_ejercito01.pdf"
         }, 
         {
-            "title_full": "2006 Organizaci\u00f3n Obras P\u00fablicas", 
+            "title_full": "2006 Organización Obras Públicas", 
             "url": "http://www.traianvs.net/pdfs/2006_13administratio.pdf"
         }, 
         {
-            "title_full": "2006 Concepto de Obra P\u00fablica", 
+            "title_full": "2006 Concepto de Obra Pública", 
             "url": "http://www.traianvs.net/pdfs/2006_opublica.pdf"
         }, 
         {
-            "title_full": "2011 Acueducto de Los Ba\u00f1ales", 
+            "title_full": "2011 Acueducto de Los Bañales", 
             "url": "http://www.traianvs.net/pdfs/2011_viartola.pdf"
         }, 
         {
-            "title_full": "2010 Acueducto de C\u00f3rdoba", 
+            "title_full": "2010 Acueducto de Córdoba", 
             "url": "http://www.traianvs.net/pdfs/2010_07_ventura.pdf"
         }, 
         {
@@ -454,7 +454,7 @@
             "url": "http://www.traianvs.net/pdfs/2010_08_geos.pdf"
         }, 
         {
-            "title_full": "2010 Acueducto Albarrac\u00edn a Cella", 
+            "title_full": "2010 Acueducto Albarracín a Cella", 
             "url": "http://www.traianvs.net/pdfs/2010_acueducto_albarracin_cella.pdf"
         }, 
         {
@@ -462,7 +462,7 @@
             "url": "http://www.traianvs.net/pdfs/2010_10_delapena.pdf"
         }, 
         {
-            "title_full": "2010 Elevaci\u00f3n de agua en Vxama", 
+            "title_full": "2010 Elevación de agua en Vxama", 
             "url": "http://www.traianvs.net/pdfs/2010_11_gmerino.pdf"
         }, 
         {
@@ -470,7 +470,7 @@
             "url": "http://www.traianvs.net/pdfs/2010_12_vega.pdf"
         }, 
         {
-            "title_full": "2008 Acueducto de C\u00e1diz", 
+            "title_full": "2008 Acueducto de Cádiz", 
             "url": "http://www.traianvs.net/pdfs/2008_cadiz01.pdf"
         }, 
         {
@@ -478,15 +478,15 @@
             "url": "http://www.traianvs.net/pdfs/2007_dictionnaire.pdf"
         }, 
         {
-            "title_full": "2007 Aqueduc Gier-t. sup\u00e9rieure", 
+            "title_full": "2007 Aqueduc Gier-t. supérieure", 
             "url": "http://www.traianvs.net/pdfs/2007_gier02.pdf"
         }, 
         {
-            "title_full": "2007 Libratio Aqvarvm en fran\u00e7ais", 
+            "title_full": "2007 Libratio Aqvarvm en français", 
             "url": "http://www.traianvs.net/pdfs/2007_acueductos_libratio_aquarum_fr.pdf"
         }, 
         {
-            "title_full": "2007 Libratio Aqvarvm en espa\u00f1ol", 
+            "title_full": "2007 Libratio Aqvarvm en español", 
             "url": "http://www.traianvs.net/pdfs/2007_acueductos_libratio_aquarum.pdf"
         }, 
         {
@@ -506,11 +506,11 @@
             "url": "http://www.traianvs.net/pdfs/2006_aque03.pdf"
         }, 
         {
-            "title_full": "2006 Acueducto de Sasam\u00f3n II", 
+            "title_full": "2006 Acueducto de Sasamón II", 
             "url": "http://www.traianvs.net/pdfs/2006_acueducto_de_sasamon_02.pdf"
         }, 
         {
-            "title_full": "2005 Der R\u00f6merkanal-Wanderweg", 
+            "title_full": "2005 Der Römerkanal-Wanderweg", 
             "url": "http://www.traianvs.net/pdfs/2005_romerkanal.pdf"
         }, 
         {
@@ -518,7 +518,7 @@
             "url": "http://www.traianvs.net/textos/hydraulic_in.htm"
         }, 
         {
-            "title_full": "2004 L'arch\u00e9ologie des aqueducs", 
+            "title_full": "2004 L'archéologie des aqueducs", 
             "url": "http://www.traianvs.net/pdfs/2004_05_leveau.pdf"
         }, 
         {
@@ -526,11 +526,11 @@
             "url": "http://www.traianvs.net/pdfs/2004_03_litaudon.pdf"
         }, 
         {
-            "title_full": "2003 Acueducto de Sasam\u00f3n I", 
+            "title_full": "2003 Acueducto de Sasamón I", 
             "url": "http://www.traianvs.net/pdfs/2003_acueducto_de_sasamon_01.pdf"
         }, 
         {
-            "title_full": "2002 Acueducto de Ly\u00f3n", 
+            "title_full": "2002 Acueducto de Lyón", 
             "url": "http://www.traianvs.net/textos/gier_fr.php"
         }, 
         {
@@ -538,15 +538,15 @@
             "url": "http://www.traianvs.net/textos/frejus_fr.htm"
         }, 
         {
-            "title_full": "2002 Acueducto de It\u00e1lica", 
+            "title_full": "2002 Acueducto de Itálica", 
             "url": "http://www.traianvs.net/italica/index.php"
         }, 
         {
-            "title_full": "2002 Obras hidr\u00e1ulicas en Hispania", 
+            "title_full": "2002 Obras hidráulicas en Hispania", 
             "url": "http://www.traianvs.net/textos/hidraulicas.htm"
         }, 
         {
-            "title_full": "2002 Acueducto Albarrac\u00edn-Cella", 
+            "title_full": "2002 Acueducto Albarracín-Cella", 
             "url": "http://www.traianvs.net/textos/cella.htm"
         }, 
         {
@@ -570,7 +570,7 @@
             "url": "http://www.traianvs.net/textos/acueducto1.htm"
         }, 
         {
-            "title_full": "2001 L'aqueduc de la cit\u00e9 du Mans", 
+            "title_full": "2001 L'aqueduc de la cité du Mans", 
             "url": "http://www.traianvs.net/textos/mans.htm"
         }, 
         {
@@ -610,7 +610,7 @@
             "url": "http://www.traianvs.net/pdfs/2011_faro_brigantium.pdf"
         }, 
         {
-            "title_full": "2008 Se\u00f1alizaci\u00f3n Mar\u00edtima", 
+            "title_full": "2008 Señalización Marítima", 
             "url": "http://www.traianvs.net/pdfs/2008_faros.pdf"
         }, 
         {
@@ -622,11 +622,11 @@
             "url": "http://www.traianvs.net/textos/portaug_fr.htm"
         }, 
         {
-            "title_full": "2002 Ingenier\u00eda portuaria romana II", 
+            "title_full": "2002 Ingeniería portuaria romana II", 
             "url": "http://www.traianvs.net/textos/puertos02.php"
         }, 
         {
-            "title_full": "2001 Ingenier\u00eda portuaria romana I", 
+            "title_full": "2001 Ingeniería portuaria romana I", 
             "url": "http://www.traianvs.net/textos/puertos01.php"
         }, 
         {
@@ -638,7 +638,7 @@
             "url": "http://www.traianvs.net/pdfs/2006_11buron.pdf"
         }, 
         {
-            "title_full": "2006 Arqueolog\u00eda a\u00e9rea urbana", 
+            "title_full": "2006 Arqueología aérea urbana", 
             "url": "http://www.traianvs.net/pdfs/2006_12olmo.pdf"
         }, 
         {
@@ -646,15 +646,15 @@
             "url": "http://www.traianvs.net/pdfs/2004_08_martorell.pdf"
         }, 
         {
-            "title_full": "2002 Obras P\u00fablicas de M\u00e9rida", 
+            "title_full": "2002 Obras Públicas de Mérida", 
             "url": "http://www.traianvs.net/textos/merida.htm"
         }, 
         {
-            "title_full": "2010 La m\u00e1quina de serrar piedras", 
+            "title_full": "2010 La máquina de serrar piedras", 
             "url": "http://www.traianvs.net/pdfs/2010_15_grewe.pdf"
         }, 
         {
-            "title_full": "2010 M\u00e1quinas elevaci\u00f3n de agua", 
+            "title_full": "2010 Máquinas elevación de agua", 
             "url": "http://www.traianvs.net/pdfs/2010_13_ugalde.pdf"
         }, 
         {
@@ -662,7 +662,7 @@
             "url": "http://www.traianvs.net/pdfs/2010_14_ojeda.pdf"
         }, 
         {
-            "title_full": "2010 Defensas romanas de Le\u00f3n", 
+            "title_full": "2010 Defensas romanas de León", 
             "url": "http://www.traianvs.net/pdfs/2010_18_morillo.pdf"
         }, 
         {

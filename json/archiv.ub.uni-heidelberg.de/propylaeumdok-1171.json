@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Emre, K. (Hrsg. ): Anatolia and the Ancient Near East, Studies in Honor of Tahsin \u00d6zg\u00fc\u00e7. 1989 295-299, Pl. 51. R\u00f6llig, Wolfgang and K\u00fchne, Hartmut (1993).", 
+    "description": "In: Emre, K. (Hrsg. ): Anatolia and the Ancient Near East, Studies in Honor of Tahsin Özgüç. 1989 295-299, Pl. 51. Röllig, Wolfgang and Kühne, Hartmut (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:40.020281"
+            "when": "2015-10-27T18:46:25.853193"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:40.020298"
+            "when": "2015-10-27T18:46:25.853210"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das Siegel des K\u00f6nigs Salmanassar I. von Assyrien", 
+    "title": "Das Siegel des Königs Salmanassar I. von Assyrien", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

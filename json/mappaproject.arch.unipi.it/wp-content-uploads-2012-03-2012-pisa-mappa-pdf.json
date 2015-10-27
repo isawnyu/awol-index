@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Andrea D\u2019Andrea (Universit\u00e0 degli Studi di Napoli l\u2019Orientale): Open Data: una rivoluzione per l\u2019archeologia italiana?.", 
+    "description": "Andrea D’Andrea (Università degli Studi di Napoli l’Orientale): Open Data: una rivoluzione per l’archeologia italiana?.", 
     "domain": "mappaproject.arch.unipi.it", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8990041275652527187", 
             "resource_date": "2012-12-12T06:20:01.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:06.879491"
+            "when": "2015-10-27T18:49:03.987989"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/mappa.html", 
             "resource_date": "2012-12-12T06:20:01.897-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:06.879504"
+            "when": "2015-10-27T18:49:03.988003"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Francesca Di Donato (Universit\u00e0 di Pisa): Linked Open Data. Verso una scienza aperta", 
+    "title": "Francesca Di Donato (Università di Pisa): Linked Open Data. Verso una scienza aperta", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

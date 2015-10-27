@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6963193690975482495", 
             "resource_date": "2012-09-01T17:04:14.115-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.355983"
+            "when": "2015-10-27T18:45:19.564691"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/center-for-study-of-new-testament.html", 
             "resource_date": "2012-09-01T17:04:14.115-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.355999"
+            "when": "2015-10-27T18:45:19.564711"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6963193690975482495", 
             "resource_date": "2012-09-01T17:04:14.115-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.358162"
+            "when": "2015-10-27T18:45:19.567614"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/center-for-study-of-new-testament.html", 
             "resource_date": "2012-09-01T17:04:14.115-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.358174"
+            "when": "2015-10-27T18:45:19.567628"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.365306"
+            "when": "2015-10-27T18:45:19.576002"
         }
     ], 
     "publishers": [], 

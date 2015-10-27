@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2421107717085337197", 
             "resource_date": "2013-11-19T06:09:41.885-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.110108"
+            "when": "2015-10-27T18:38:45.041116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/the-digital-hadrians-villa-project.html", 
             "resource_date": "2013-11-19T06:09:41.885-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.110122"
+            "when": "2015-10-27T18:38:45.041133"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2421107717085337197", 
             "resource_date": "2013-11-19T06:09:41.885-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:37.112102"
+            "when": "2015-10-27T18:38:45.042842"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/the-digital-hadrians-villa-project.html", 
             "resource_date": "2013-11-19T06:09:41.885-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:37.112116"
+            "when": "2015-10-27T18:38:45.042855"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:37.115592"
+            "when": "2015-10-27T18:38:45.046059"
         }
     ], 
     "publishers": [], 

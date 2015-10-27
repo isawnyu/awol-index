@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen des Deutschen Arch\u00e4ologischen Instituts, Abteilung Kairo, 53 (1997), pp. 233-240. Polz, Daniel (1995).", 
+    "description": "In: Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo, 53 (1997), pp. 233-240. Polz, Daniel (1995).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:58.307686"
+            "when": "2015-10-27T18:40:09.936134"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:58.307703"
+            "when": "2015-10-27T18:40:09.936150"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4228119224334277304", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:05.019872"
+            "when": "2015-10-27T18:41:28.005242"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/latest-20-additions-to-propylaeumdok.html", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:05.019888"
+            "when": "2015-10-27T18:41:28.005265"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:05.064486"
+            "when": "2015-10-27T18:41:28.056923"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6109014345791918795", 
             "resource_date": "2015-04-05T09:49:06.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.947259"
+            "when": "2015-10-27T18:44:19.798276"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/classicsteachingcom.html", 
             "resource_date": "2015-04-05T09:49:06.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.947277"
+            "when": "2015-10-27T18:44:19.798292"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6109014345791918795", 
             "resource_date": "2015-04-05T09:49:06.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.949307"
+            "when": "2015-10-27T18:44:19.800378"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/classicsteachingcom.html", 
             "resource_date": "2015-04-05T09:49:06.843-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.949320"
+            "when": "2015-10-27T18:44:19.800390"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:44.959608"
+            "when": "2015-10-27T18:44:19.813118"
         }
     ], 
     "publishers": [], 

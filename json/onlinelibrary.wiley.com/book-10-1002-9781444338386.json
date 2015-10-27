@@ -4,7 +4,7 @@
         "up-to-date scholarship in the study of the ancient world"
     ], 
     "contributors": [], 
-    "description": "The Encyclopedia of Ancient History. Copyright \u00a9 1999-2012 by John Wiley and Sons, Inc. All Rights Reserved. Online ISBN: 9781444338386. DOI: 10. 1002/9781444338386. Publishing online and in print November 2012, this landmark resource will offer the only comprehensive collection of twenty-first century scholarship available on the entire ancient Mediterranean world. Our board of experienced and internationally diverse editors has collected over 5,000 original entries spanning the late Bronze Age through the seventh century CE. Entries extend to all Mediterranean civilizations, including the Near East and Egypt, and represent an unprecedented level of coverage of the ancient world. Publishing in September 2012, this ambitious reference work: Includes over 5000 A-Z entries ranging from 250-5000 words. Is written and edited by an internationally diverse team of editors and contributors. Provides clear, concise, definitions and explanations of the key people, places, and events in ancient history. Spans the late Bronze Age through the seventh century CE. Covers the entire ancient Mediterranean world including the Near East and Egypt. Is extensively illustrated with hundreds of photographs, figures, and maps. This online edition offers: Regular revisions and new entries 24/7 access to the most authoritative and up-to-date scholarship in the study of the ancient world. An easy-to-use interface, intuitive navigation, and powerful searching and browsing capabilities, Full text HTML content or downloadable PDFs. Reference linking and options to export to reference managers. Content sharing through Facebook, Twitter, CiteULike and other social networking sites. Some Sample content is currently available in open access.", 
+    "description": "The Encyclopedia of Ancient History. Copyright © 1999-2012 by John Wiley and Sons, Inc. All Rights Reserved. Online ISBN: 9781444338386. DOI: 10. 1002/9781444338386. Publishing online and in print November 2012, this landmark resource will offer the only comprehensive collection of twenty-first century scholarship available on the entire ancient Mediterranean world. Our board of experienced and internationally diverse editors has collected over 5,000 original entries spanning the late Bronze Age through the seventh century CE. Entries extend to all Mediterranean civilizations, including the Near East and Egypt, and represent an unprecedented level of coverage of the ancient world. Publishing in September 2012, this ambitious reference work: Includes over 5000 A-Z entries ranging from 250-5000 words. Is written and edited by an internationally diverse team of editors and contributors. Provides clear, concise, definitions and explanations of the key people, places, and events in ancient history. Spans the late Bronze Age through the seventh century CE. Covers the entire ancient Mediterranean world including the Near East and Egypt. Is extensively illustrated with hundreds of photographs, figures, and maps. This online edition offers: Regular revisions and new entries 24/7 access to the most authoritative and up-to-date scholarship in the study of the ancient world. An easy-to-use interface, intuitive navigation, and powerful searching and browsing capabilities, Full text HTML content or downloadable PDFs. Reference linking and options to export to reference managers. Content sharing through Facebook, Twitter, CiteULike and other social networking sites. Some Sample content is currently available in open access.", 
     "domain": "onlinelibrary.wiley.com", 
     "editors": [], 
     "end_date": null, 
@@ -79,13 +79,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-435383913220076450", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.723291"
+            "when": "2015-10-27T18:41:51.139014"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/teasers-from-forthcoming-encyclopedia.html", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.723307"
+            "when": "2015-10-27T18:41:51.139030"
         }, 
         {
             "fields": [
@@ -126,13 +126,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-435383913220076450", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:25.725027"
+            "when": "2015-10-27T18:41:51.140943"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/teasers-from-forthcoming-encyclopedia.html", 
             "resource_date": "2012-10-03T16:58:27.652-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:25.725038"
+            "when": "2015-10-27T18:41:51.140955"
         }, 
         {
             "fields": [
@@ -147,7 +147,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:25.770084"
+            "when": "2015-10-27T18:41:51.186913"
         }
     ], 
     "publishers": [], 
@@ -197,7 +197,7 @@
             "url": "http://onlinelibrary.wiley.com/book/10.1002/9781444338386/homepage/Cavalry__hellenistic.pdf"
         }, 
         {
-            "title_full": "Edict, magistrate\u2019s", 
+            "title_full": "Edict, magistrate’s", 
             "url": "http://onlinelibrary.wiley.com/book/10.1002/9781444338386/homepage/magistrate_s_edict.pdf"
         }, 
         {

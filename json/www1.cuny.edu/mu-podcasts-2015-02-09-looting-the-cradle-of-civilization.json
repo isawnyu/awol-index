@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6676629561769054779", 
             "resource_date": "2015-02-12T11:04:33.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.145812"
+            "when": "2015-10-27T18:45:07.118037"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/podcast-looting-cradle-of-civilization.html", 
             "resource_date": "2015-02-12T11:04:33.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.145830"
+            "when": "2015-10-27T18:45:07.118057"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6676629561769054779", 
             "resource_date": "2015-02-12T11:04:33.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.148378"
+            "when": "2015-10-27T18:45:07.119655"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/02/podcast-looting-cradle-of-civilization.html", 
             "resource_date": "2015-02-12T11:04:33.595-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.148403"
+            "when": "2015-10-27T18:45:07.119667"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.154818"
+            "when": "2015-10-27T18:45:07.126217"
         }
     ], 
     "publishers": [], 

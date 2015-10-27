@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "T\u014dy\u014d shi kenky\u016b / \u6771\u6d0b\u53f2\u784f\u7a76. ISSN: 0386-9059. [\u6771\u6d0b\u53f2\u784f\u7a76\u6703]. ; T\u014dy\u014dshi Kenky\u016bkai (Japan). Other titles: T\u014dy\u014dshi kenky\u016b = T\u014dy\u014dshi-kenky\u016b = Revue des \u00e9tudes d'histoire de l'Extr\u00eame-Orient = Journal of Oriental researches. KURENAI\u3067\u306f\u96d1\u8a8c\u306e\u767a\u884c\u304b\u30893\u5e74\u7d4c\u904e\u5f8c\u306b\u516c\u958b\u3055\u308c\u307e\u3059\u3002The embargo period is 3 years after publication.", 
+    "description": "Tōyō shi kenkyū / 東洋史硏究. ISSN: 0386-9059. [東洋史硏究會]. ; Tōyōshi Kenkyūkai (Japan). Other titles: Tōyōshi kenkyū = Tōyōshi-kenkyū = Revue des études d'histoire de l'Extrême-Orient = Journal of Oriental researches. KURENAIでは雑誌の発行から3年経過後に公開されます。The embargo period is 3 years after publication.", 
     "domain": "repository.kulib.kyoto-u.ac.jp", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "T\u014dy\u014d shi kenky\u016b / \u6771\u6d0b\u53f2\u784f\u7a76", 
+        "title_full": "Tōyō shi kenkyū / 東洋史硏究", 
         "url": "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/138102"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1543159936280256593", 
             "resource_date": "2012-11-28T15:53:02.880-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:46.231600"
+            "when": "2015-10-27T18:37:50.052433"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-toyo-shi-kenkyu.html", 
             "resource_date": "2012-11-28T15:53:02.880-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:46.231612"
+            "when": "2015-10-27T18:37:50.052449"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "1\u5dfb1\u53f7 1935-10", 
+    "title": "1巻1号 1935-10", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

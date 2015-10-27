@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": Ana Maria V\u00e0zquez Hoys, \u00ab Magia e inmortalidad en el mundo romano \u00bb (Attention: fichier volumineux, environ 15,7 Mo).", 
+    "description": ": Ana Maria Vàzquez Hoys, « Magia e inmortalidad en el mundo romano » (Attention: fichier volumineux, environ 15,7 Mo).", 
     "domain": "www.etudesmagiques.info", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7356242589667277340", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:59.854822"
+            "when": "2015-10-27T18:45:42.933574"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/08/open-access-journal-ephesia-grammata.html", 
             "resource_date": "2015-03-25T16:46:25.983-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:59.854834"
+            "when": "2015-10-27T18:45:42.933587"
         }
     ], 
     "publishers": [], 

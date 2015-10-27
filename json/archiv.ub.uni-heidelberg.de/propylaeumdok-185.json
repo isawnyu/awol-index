@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift f\u00fcr Kunstgeschicht, 52 (1989), pp. 423-425. Schmitzer, Ulrich (2004).", 
+    "description": "In: Zeitschrift für Kunstgeschicht, 52 (1989), pp. 423-425. Schmitzer, Ulrich (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8813486229850790094", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:54.324194"
+            "when": "2015-10-27T18:48:50.108924"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_30.html", 
             "resource_date": "2015-05-30T08:35:51.889-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:54.324206"
+            "when": "2015-10-27T18:48:50.108939"
         }
     ], 
     "publishers": [], 

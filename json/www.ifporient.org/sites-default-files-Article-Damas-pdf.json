@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "La gestion de l'eau dans l'oasis de Palmyre, Syrie. Dalal Benbabaali (Universit\u00e9 Paris X).", 
+    "description": "La gestion de l'eau dans l'oasis de Palmyre, Syrie. Dalal Benbabaali (Université Paris X).", 
     "domain": "www.ifporient.org", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8140875634965002367", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:13.676233"
+            "when": "2015-10-27T18:47:01.239038"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/01/open-access-journal-villes-et.html", 
             "resource_date": "2015-01-21T11:14:39.180-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:13.676246"
+            "when": "2015-10-27T18:47:01.239052"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Les grands projets urbains de Damas Natalia Atfee (Facult\u00e9 architecture Damas)", 
+    "title": "Les grands projets urbains de Damas Natalia Atfee (Faculté architecture Damas)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

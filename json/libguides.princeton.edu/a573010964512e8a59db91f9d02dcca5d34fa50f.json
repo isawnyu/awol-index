@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223307684513309433", 
             "resource_date": "2014-05-09T15:41:44.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.436626"
+            "when": "2015-10-27T18:40:16.329580"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/check-list-of-periodicals-for-classical.html", 
             "resource_date": "2014-05-09T15:41:44.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.436640"
+            "when": "2015-10-27T18:40:16.329597"
         }, 
         {
             "fields": [
@@ -116,13 +116,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3223307684513309433", 
             "resource_date": "2014-05-09T15:41:44.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:04.440041"
+            "when": "2015-10-27T18:40:16.333432"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/check-list-of-periodicals-for-classical.html", 
             "resource_date": "2014-05-09T15:41:44.802-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:04.440053"
+            "when": "2015-10-27T18:40:16.333445"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:04.447287"
+            "when": "2015-10-27T18:40:16.345349"
         }
     ], 
     "publishers": [], 

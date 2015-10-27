@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Le Proche-Orient ancien \u00e0 la lumi\u00e8re des sciences sociales", 
+        "title_full": "Le Proche-Orient ancien à la lumière des sciences sociales", 
         "url": "http://yod.revues.org/1747"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1424176740589384717", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:31.300014"
+            "when": "2015-10-27T18:37:33.891186"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/one-off-journal-issues-le-proche-orient.html", 
             "resource_date": "2015-06-16T10:37:44.974-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:31.300028"
+            "when": "2015-10-27T18:37:33.891201"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Anna Angelini M\u00e9thodes taxinomiques compar\u00e9es : Dan Sperber et Mary Douglas \u00e0 propos des animaux hors cat\u00e9gorie [Texte int\u00e9gral] Comparing Taxonomic Approaches: Dan Sperber and Mary Douglas on Animals outside Taxonomy \u05e9\u05d9\u05d8\u05d5\u05ea \u05d4\u05e9\u05d5\u05d5\u05d0\u05d4 \u05d1\u05d8\u05e7\u05e1\u05d9\u05de\u05d5\u05e0\u05d9\u05d4 : \u05d2\u05d9\u05e9\u05d5\u05ea\u05d9\u05d4\u05dd \u05e9\u05dc \u05d3\u05df \u05e9\u05e4\u05e8\u05d1\u05e8 \u05d5\u05de\u05e8\u05d9 \u05d3\u05d5\u05d2\u05dc\u05e1 \u05dc\u05d2\u05d1\u05d9 \u05d7\u05d9\u05d5\u05ea \u05e9\u05d0\u05d9\u05e0\u05df \u05e0\u05d9\u05ea\u05e0\u05d5\u05ea \u05dc\u05e7\u05d8\u05dc\u05d5\u05d2", 
+    "title": "Anna Angelini Méthodes taxinomiques comparées : Dan Sperber et Mary Douglas à propos des animaux hors catégorie [Texte intégral] Comparing Taxonomic Approaches: Dan Sperber and Mary Douglas on Animals outside Taxonomy שיטות השוואה בטקסימוניה : גישותיהם של דן שפרבר ומרי דוגלס לגבי חיות שאינן ניתנות לקטלוג", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

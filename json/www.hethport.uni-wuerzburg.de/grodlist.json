@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 8 March 2012, updated 14 July 2014]. Groddeks Liste der Sekund\u00e4rliteratur zu Textstellen aus Bo\u011fazk\u00f6yVersion 0. 5.", 
+    "description": "[First posted in AWOL 8 March 2012, updated 14 July 2014]. Groddeks Liste der Sekundärliteratur zu Textstellen aus BoğazköyVersion 0. 5.", 
     "domain": "www.hethport.uni-wuerzburg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Groddeks Liste der Sekund\u00e4rliteratur zu Textstellen aus Bo\u011fazk\u00f6y", 
+        "title_full": "Groddeks Liste der Sekundärliteratur zu Textstellen aus Boğazköy", 
         "url": "http://www.hethport.uni-wuerzburg.de/grodlist/"
     }, 
     "issuance": null, 
@@ -19,7 +19,7 @@
     "keywords": [
         "bibliography", 
         "Hittite", 
-        "Bo\u011fazk\u00f6y"
+        "Boğazköy"
     ], 
     "languages": [
         "de"
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3294861926915953770", 
             "resource_date": "2014-07-14T10:23:35.942-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:12.238283"
+            "when": "2015-10-27T18:40:25.399461"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/hittite-biblography.html", 
             "resource_date": "2014-07-14T10:23:35.942-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:12.238299"
+            "when": "2015-10-27T18:40:25.399478"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3294861926915953770", 
             "resource_date": "2014-07-14T10:23:35.942-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:12.242420"
+            "when": "2015-10-27T18:40:25.404023"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/hittite-biblography.html", 
             "resource_date": "2014-07-14T10:23:35.942-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:12.242433"
+            "when": "2015-10-27T18:40:25.404036"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:16.511391"
+            "when": "2015-10-27T18:40:29.691109"
         }, 
         {
             "fields": [
@@ -173,13 +173,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6392342411962851974", 
             "resource_date": "2014-08-06T09:43:00.960-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.920818"
+            "when": "2015-10-27T18:44:40.514804"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/hethitische-bibliographie-online.html", 
             "resource_date": "2014-08-06T09:43:00.960-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.920833"
+            "when": "2015-10-27T18:44:40.514815"
         }, 
         {
             "fields": [
@@ -194,7 +194,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:02.938241"
+            "when": "2015-10-27T18:44:40.536272"
         }
     ], 
     "publishers": [], 
@@ -204,7 +204,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Groddeks Liste der Sekund\u00e4rliteratur zu Textstellen aus Bo\u011fazk\u00f6y", 
+            "title_full": "Groddeks Liste der Sekundärliteratur zu Textstellen aus Boğazköy", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/"
         }, 
         {
@@ -212,7 +212,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/einleitung.html"
         }, 
         {
-            "title_full": "Abk\u00fcrzungsverzeichnis", 
+            "title_full": "Abkürzungsverzeichnis", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/Abkuerzungen.pdf"
         }, 
         {
@@ -792,7 +792,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Privat"
         }, 
         {
-            "title_full": "Privat \u201e22\" [NB Bis Konk", 
+            "title_full": "Privat „22\" [NB Bis Konk", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Privat%20%E2%80%9E22%E2%80%9C%20[NB%20Bis%20Konk."
         }, 
         {
@@ -824,15 +824,15 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=AfO%20Beiheft%203"
         }, 
         {
-            "title_full": "\u00c4HK", 
+            "title_full": "ÄHK", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=%C3%84HK"
         }, 
         {
-            "title_full": "\u00c4HK Taf", 
+            "title_full": "ÄHK Taf", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=%C3%84HK%20Taf."
         }, 
         {
-            "title_full": "\u00c4HK", 
+            "title_full": "ÄHK", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=%C3%84HK."
         }, 
         {
@@ -928,11 +928,11 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=FS%20Dietrich"
         }, 
         {
-            "title_full": "FS G\u00fcterbock", 
+            "title_full": "FS Güterbock", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=FS%20G%C3%BCterbock"
         }, 
         {
-            "title_full": "FS G\u00fcterbock2", 
+            "title_full": "FS Güterbock2", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=FS%20G%C3%BCterbock2"
         }, 
         {
@@ -940,7 +940,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=FS%20Haas"
         }, 
         {
-            "title_full": "FS Ko\u0161ak", 
+            "title_full": "FS Košak", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=FS%20Ko%C5%A1ak"
         }, 
         {
@@ -964,7 +964,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Gilg."
         }, 
         {
-            "title_full": "G\u00f6tter in Stein", 
+            "title_full": "Götter in Stein", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=G%C3%B6tter%20in%20Stein"
         }, 
         {
@@ -976,7 +976,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Iraq%208%20%281946%29"
         }, 
         {
-            "title_full": "I\u00dcEFY 1825", 
+            "title_full": "IÜEFY 1825", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=I%C3%9CEFY%201825"
         }, 
         {
@@ -1080,7 +1080,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=NABU%202003/IV"
         }, 
         {
-            "title_full": "Mesk\u00e9n\u00e9", 
+            "title_full": "Meskéné", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Mesk%C3%A9n%C3%A9"
         }, 
         {
@@ -1384,7 +1384,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=Afes"
         }, 
         {
-            "title_full": "B\u00fckl\u00fckale", 
+            "title_full": "Büklükale", 
             "url": "http://www.hethport.uni-wuerzburg.de/grodlist/index2.php?n=B%C3%BCkl%C3%BCkale"
         }, 
         {
@@ -1448,7 +1448,7 @@
             "url": "http://www.hethport.uni-wuerzburg.de/"
         }
     ], 
-    "title": "Groddeks Liste der Sekund\u00e4rliteratur zu Textstellen aus Bo\u011fazk\u00f6y", 
+    "title": "Groddeks Liste der Sekundärliteratur zu Textstellen aus Boğazköy", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

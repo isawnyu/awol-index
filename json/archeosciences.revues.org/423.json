@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arch\u00e9oSciences: Revue d'Arch\u00e9om\u00e9trie. ISSN: 1960-1360. ISSN \u00e9lectronique: 2104-3728. Arch\u00e9oSciences, Revue d'Arch\u00e9om\u00e9trie, \u00e9dit\u00e9e annuellement par le Groupe des M\u00e9thodes Pluridisciplinaires Contribuant \u00e0 l'Arch\u00e9ologie (G. M. P. C. A. ), contient des articles, en fran\u00e7ais ou en anglais, sur toute recherche originale et in\u00e9dite traitant de l'application de diverses techniques scientifiques (sciences physiques, chimiques, math\u00e9matiques, sciences de la terre et de l'univers, et sciences de la nature et de la vie) \u00e0 la r\u00e9solution de probl\u00e9matiques arch\u00e9ologiques ou de la mise au point de nouvelles m\u00e9thodes. Les articles peuvent porter sur les m\u00e9thodologies et leurs limites, sur des recherches scientifiques fondamentales ou des techniques sp\u00e9cialis\u00e9es, sous r\u00e9serve que leur justification arch\u00e9ologique soit clairement explicit\u00e9e.", 
+    "description": "ArchéoSciences: Revue d'Archéométrie. ISSN: 1960-1360. ISSN électronique: 2104-3728. ArchéoSciences, Revue d'Archéométrie, éditée annuellement par le Groupe des Méthodes Pluridisciplinaires Contribuant à l'Archéologie (G. M. P. C. A. ), contient des articles, en français ou en anglais, sur toute recherche originale et inédite traitant de l'application de diverses techniques scientifiques (sciences physiques, chimiques, mathématiques, sciences de la terre et de l'univers, et sciences de la nature et de la vie) à la résolution de problématiques archéologiques ou de la mise au point de nouvelles méthodes. Les articles peuvent porter sur les méthodologies et leurs limites, sur des recherches scientifiques fondamentales ou des techniques spécialisées, sous réserve que leur justification archéologique soit clairement explicitée.", 
     "domain": "archeosciences.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -17,7 +17,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Arch\u00e9oSciences: Revue d'Arch\u00e9om\u00e9trie", 
+        "title_full": "ArchéoSciences: Revue d'Archéométrie", 
         "url": "http://archeosciences.revues.org/"
     }, 
     "issuance": null, 
@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-414865219108236528", 
             "resource_date": "2013-08-18T10:16:44.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:01.183431"
+            "when": "2015-10-27T18:41:24.241636"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-archeosciences.html", 
             "resource_date": "2013-08-18T10:16:44.648-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:01.183443"
+            "when": "2015-10-27T18:41:24.241655"
         }
     ], 
     "publishers": [], 

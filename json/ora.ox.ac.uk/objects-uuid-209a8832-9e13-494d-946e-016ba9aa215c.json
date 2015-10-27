@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "The Evolution of Visual Representation: The elite art of early dynastic Laga\u0161 and its antecedents in late Uruk period Sumer and predynastic Egypt", 
+        "title_full": "The Evolution of Visual Representation: The elite art of early dynastic Lagaš and its antecedents in late Uruk period Sumer and predynastic Egypt", 
         "url": "http://ora.ox.ac.uk/objects/uuid:209a8832-9e13-494d-946e-016ba9aa215c"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7699959598244600141", 
             "resource_date": "2013-06-14T12:02:04.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.989597"
+            "when": "2015-10-27T18:46:31.256180"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/oxford-university-research-archive.html", 
             "resource_date": "2013-06-14T12:02:04.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.989613"
+            "when": "2015-10-27T18:46:31.256196"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7699959598244600141", 
             "resource_date": "2013-06-14T12:02:04.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:44.991830"
+            "when": "2015-10-27T18:46:31.258576"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/oxford-university-research-archive.html", 
             "resource_date": "2013-06-14T12:02:04.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:44.991843"
+            "when": "2015-10-27T18:46:31.258588"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:44.994748"
+            "when": "2015-10-27T18:46:31.262200"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "The Evolution of Visual Representation: The elite art of early dynastic Laga\u0161 and its antecedents in late Uruk period Sumer and predynastic Egypt", 
+            "title_full": "The Evolution of Visual Representation: The elite art of early dynastic Lagaš and its antecedents in late Uruk period Sumer and predynastic Egypt", 
             "url": "http://ora.ox.ac.uk/objects/uuid:209a8832-9e13-494d-946e-016ba9aa215c"
         }, 
         {
@@ -151,7 +151,7 @@
             "url": "http://ora.ox.ac.uk/"
         }
     ], 
-    "title": "The Evolution of Visual Representation: The elite art of early dynastic Laga\u0161 and its antecedents in late Uruk period Sumer and predynastic Egypt", 
+    "title": "The Evolution of Visual Representation: The elite art of early dynastic Lagaš and its antecedents in late Uruk period Sumer and predynastic Egypt", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

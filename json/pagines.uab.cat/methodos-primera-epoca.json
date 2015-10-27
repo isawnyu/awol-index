@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "per Pedro Luis Cano. En la seva segona \u00e8poca, que s'inicia el 2011, Methodos. Revista de did\u00e0ctica dels estudis cl\u00e0ssics \u00e9s una publicaci\u00f3 anual editada per Paideia. Grup de Did\u00e0ctica de les Lleng\u00fces i la Cultura Cl\u00e0ssiques de la.", 
+    "description": "per Pedro Luis Cano. En la seva segona època, que s'inicia el 2011, Methodos. Revista de didàctica dels estudis clàssics és una publicació anual editada per Paideia. Grup de Didàctica de les Llengües i la Cultura Clàssiques de la.", 
     "domain": "pagines.uab.cat", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Methodos. Revista de did\u00e0ctica dels estudis cl\u00e0ssics", 
+        "title_full": "Methodos. Revista de didàctica dels estudis clàssics", 
         "url": "http://pagines.uab.cat/methodos/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6386460077115077097", 
             "resource_date": "2014-03-03T06:10:40.377-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.742159"
+            "when": "2015-10-27T18:44:40.325881"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-journal-methodos.html", 
             "resource_date": "2014-03-03T06:10:40.377-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.742173"
+            "when": "2015-10-27T18:44:40.325895"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "primera \u00e8poca", 
+    "title": "primera època", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

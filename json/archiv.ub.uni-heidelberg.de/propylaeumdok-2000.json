@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Zeitschrift der Deutschen Morgenl\u00e4ndischen Gesellschaft, 147 (1997), pp. 488-494. Peust, Carsten (2005).", 
+    "description": "In: Zeitschrift der Deutschen Morgenländischen Gesellschaft, 147 (1997), pp. 488-494. Peust, Carsten (2005).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:57.869202"
+            "when": "2015-10-27T18:40:09.458588"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:57.869221"
+            "when": "2015-10-27T18:40:09.458604"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Thomas Ritter: Das Verbalsystem der k\u00f6niglichen und privaten Inschriften. XVIII. Dynastie bis einschlie\u00dflich Amenophis III. Wiesbaden: Harrassowitz 1995", 
+    "title": "Thomas Ritter: Das Verbalsystem der königlichen und privaten Inschriften. XVIII. Dynastie bis einschließlich Amenophis III. Wiesbaden: Harrassowitz 1995", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

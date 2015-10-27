@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1253033174350388619", 
             "resource_date": "2012-04-08T16:57:06.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:16.040505"
+            "when": "2015-10-27T18:37:17.663499"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/kimberly-l-alderman-on-cultural.html", 
             "resource_date": "2012-04-08T16:57:06.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:16.040521"
+            "when": "2015-10-27T18:37:17.663540"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1253033174350388619", 
             "resource_date": "2012-04-08T16:57:06.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:16.043086"
+            "when": "2015-10-27T18:37:17.668929"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/kimberly-l-alderman-on-cultural.html", 
             "resource_date": "2012-04-08T16:57:06.787-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:16.043099"
+            "when": "2015-10-27T18:37:17.668950"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:16.072334"
+            "when": "2015-10-27T18:37:17.698738"
         }
     ], 
     "publishers": [], 

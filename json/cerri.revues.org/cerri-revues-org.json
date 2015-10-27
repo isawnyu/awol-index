@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cahiers d\u2019\u00c9tudes du Religieux - Recherches interdisciplinaires. ISSN 1760-5776. Les Cahiers d\u2019\u00c9tudes du Religieux - Recherches interdisciplinaires (CER-RI - ISSN 1760-5776) sont l\u2019\u00e9manation des activit\u00e9s du Centre interdisciplinaire d\u2019\u00c9tudes du Religieux (CIER) au sein de la Maison des Sciences de l\u2019Homme de Montpellier (MSH-M). Ils diffusent, dans des num\u00e9ros th\u00e9matiques, les communications pr\u00e9sent\u00e9es lors des diff\u00e9rents s\u00e9minaires. See the full.", 
+    "description": "Cahiers d’Études du Religieux - Recherches interdisciplinaires. ISSN 1760-5776. Les Cahiers d’Études du Religieux - Recherches interdisciplinaires (CER-RI - ISSN 1760-5776) sont l’émanation des activités du Centre interdisciplinaire d’Études du Religieux (CIER) au sein de la Maison des Sciences de l’Homme de Montpellier (MSH-M). Ils diffusent, dans des numéros thématiques, les communications présentées lors des différents séminaires. See the full.", 
     "domain": "cerri.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Cahiers d\u2019\u00c9tudes du Religieux - Recherches interdisciplinaires", 
+        "title_full": "Cahiers d’Études du Religieux - Recherches interdisciplinaires", 
         "url": "http://cerri.revues.org/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6092934752244927951", 
             "resource_date": "2011-05-26T09:42:52.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.535624"
+            "when": "2015-10-27T18:44:19.355042"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-cahiers-detudes-du.html", 
             "resource_date": "2011-05-26T09:42:52.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.535641"
+            "when": "2015-10-27T18:44:19.355058"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6092934752244927951", 
             "resource_date": "2011-05-26T09:42:52.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:44.539527"
+            "when": "2015-10-27T18:44:19.359033"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-cahiers-detudes-du.html", 
             "resource_date": "2011-05-26T09:42:52.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:44.539541"
+            "when": "2015-10-27T18:44:19.359047"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:44.541067"
+            "when": "2015-10-27T18:44:19.361026"
         }
     ], 
     "publishers": [], 
@@ -148,11 +148,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Cahiers d\u2019\u00c9tudes du Religieux - Recherches interdisciplinaires", 
+            "title_full": "Cahiers d’Études du Religieux - Recherches interdisciplinaires", 
             "url": "http://cerri.revues.org/"
         }
     ], 
-    "title": "Cahiers d\u2019\u00c9tudes du Religieux - Recherches interdisciplinaires", 
+    "title": "Cahiers d’Études du Religieux - Recherches interdisciplinaires", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

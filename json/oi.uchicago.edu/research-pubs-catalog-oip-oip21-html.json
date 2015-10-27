@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo H\u00f6lscher. With contributions by Rudolf Anthes. Originally published in 1951", 
+        "title_full": "OIP 55. The Excavation of Medinet Habu, Volume IV. The Mortuary Temple of Ramses III, Part II. By Uvo Hölscher. With contributions by Rudolf Anthes. Originally published in 1951", 
         "url": "http://oi.uchicago.edu/research/pubs/catalog/oip/oip55.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4428678487491244231", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.280017"
+            "when": "2015-10-27T18:41:52.839259"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/12/newly-scaned-at-oriental-institute.html", 
             "resource_date": "2009-12-03T18:38:17.902-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.280028"
+            "when": "2015-10-27T18:41:52.839278"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966019253183957888", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.431763"
+            "when": "2015-10-27T18:45:19.648680"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/11/newly-from-oriental-institute-medinet.html", 
             "resource_date": "2009-11-19T14:21:54.141-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.431775"
+            "when": "2015-10-27T18:45:19.648694"
         }, 
         {
             "fields": [
@@ -129,7 +129,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:38.472029"
+            "when": "2015-10-27T18:45:19.696228"
         }, 
         {
             "fields": [
@@ -170,13 +170,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-789024539632057730", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.667091"
+            "when": "2015-10-27T18:46:40.675671"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/the-oriental-institutes-publications-on.html", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.667109"
+            "when": "2015-10-27T18:46:40.675683"
         }, 
         {
             "fields": [
@@ -190,7 +190,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.735108"
+            "when": "2015-10-27T18:46:40.742385"
         }
     ], 
     "publishers": [], 
@@ -199,7 +199,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo H\u00f6lscher", 
+    "title": "OIP 21. The Excavation of Medinet Habu, Volume 1: General Plans and Views. 1934 Uvo Hölscher", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

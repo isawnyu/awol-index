@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9039930559165941759", 
             "resource_date": "2013-10-29T16:32:41.907-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:14.993057"
+            "when": "2015-10-27T18:49:12.709421"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/10/open-access-journal-orientalia.html", 
             "resource_date": "2013-10-29T16:32:41.907-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:14.993069"
+            "when": "2015-10-27T18:49:12.709435"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Grammaire compar\u00e9e des langues s\u00e9mitiques. \u00c9l\u00e9ments de phon\u00e9tique, de morphologie et de syntaxe", 
+    "title": "Grammaire comparée des langues sémitiques. Éléments de phonétique, de morphologie et de syntaxe", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

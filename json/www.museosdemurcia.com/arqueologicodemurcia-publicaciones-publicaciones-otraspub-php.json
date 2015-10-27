@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Museo Arqueol\u00f3gico de Murcia: Open Access Publications. FORA HISPANIAE Paisaje urbano, arquitectura, programas decorativos y culto imperial en los foros de las ciudades hispanorromanas. 2009. La pintura mural romana de Carthago Noua Evoluci\u00f3n del programa pict\u00f3rico a trav\u00e9s de los estilos, talleres y otras t\u00e9cnicas decorativas Volumen I. 2008. La pintura mural romana de Carthago Noua Evoluci\u00f3n del programa pict\u00f3rico a trav\u00e9s de los estilos, talleres y otras t\u00e9cnicas decorativas. Volumen II. Cat\u00e1logo. 2008. Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol. 2007. And see also:.", 
+    "description": "Museo Arqueológico de Murcia: Open Access Publications. FORA HISPANIAE Paisaje urbano, arquitectura, programas decorativos y culto imperial en los foros de las ciudades hispanorromanas. 2009. La pintura mural romana de Carthago Noua Evolución del programa pictórico a través de los estilos, talleres y otras técnicas decorativas Volumen I. 2008. La pintura mural romana de Carthago Noua Evolución del programa pictórico a través de los estilos, talleres y otras técnicas decorativas. Volumen II. Catálogo. 2008. Boletín Arqueológico del Sudeste Español. 2007. And see also:.", 
     "domain": "www.museosdemurcia.com", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Museo Arqueol\u00f3gico de Murcia: Open Access Publications", 
+        "title_full": "Museo Arqueológico de Murcia: Open Access Publications", 
         "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/publicaciones_otraspub.php"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3279229723279836081", 
             "resource_date": "2012-04-12T07:32:31.228-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.610053"
+            "when": "2015-10-27T18:40:20.824900"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-publications-of-museo.html", 
             "resource_date": "2012-04-12T07:32:31.228-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.610068"
+            "when": "2015-10-27T18:40:20.824985"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3279229723279836081", 
             "resource_date": "2012-04-12T07:32:31.228-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:08.611732"
+            "when": "2015-10-27T18:40:20.830981"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/open-access-publications-of-museo.html", 
             "resource_date": "2012-04-12T07:32:31.228-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:08.611743"
+            "when": "2015-10-27T18:40:20.831008"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:08.621933"
+            "when": "2015-10-27T18:40:20.844928"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Museo Arqueol\u00f3gico de Murcia: Open Access Publications", 
+            "title_full": "Museo Arqueológico de Murcia: Open Access Publications", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/publicaciones_otraspub.php"
         }, 
         {
@@ -151,19 +151,19 @@
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/foro_hispaniae.pdf"
         }, 
         {
-            "title_full": "La pintura mural romana de Carthago Noua Evoluci\u00f3n del programa pict\u00f3rico a trav\u00e9s de los estilos, talleres y otras t\u00e9cnicas decorativas Volumen I", 
+            "title_full": "La pintura mural romana de Carthago Noua Evolución del programa pictórico a través de los estilos, talleres y otras técnicas decorativas Volumen I", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/pintura_mural_romana_vi.pdf"
         }, 
         {
-            "title_full": "La pintura mural romana de Carthago Noua Evoluci\u00f3n del programa pict\u00f3rico a trav\u00e9s de los estilos, talleres y otras t\u00e9cnicas decorativas", 
+            "title_full": "La pintura mural romana de Carthago Noua Evolución del programa pictórico a través de los estilos, talleres y otras técnicas decorativas", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/pintura_mural_romana_vii.pdf"
         }, 
         {
-            "title_full": "Bolet\u00edn Arqueol\u00f3gico del Sudeste Espa\u00f1ol", 
+            "title_full": "Boletín Arqueológico del Sudeste Español", 
             "url": "http://www.museosdemurcia.com/arqueologicodemurcia/publicaciones/sudeste.php"
         }
     ], 
-    "title": "Museo Arqueol\u00f3gico de Murcia: Open Access Publications", 
+    "title": "Museo Arqueológico de Murcia: Open Access Publications", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

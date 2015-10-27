@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Balkanologie: Revue d'\u00e9tudes pluridisciplinaires. ISSN \u00e9lectronique 1965-0582.", 
+    "description": "Balkanologie: Revue d'études pluridisciplinaires. ISSN électronique 1965-0582.", 
     "domain": "balkanologie.revues.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8003340408596929325", 
             "resource_date": "2010-11-29T11:59:54.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:08.917022"
+            "when": "2015-10-27T18:46:56.360465"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-balkanologie.html", 
             "resource_date": "2010-11-29T11:59:54.316-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:08.917050"
+            "when": "2015-10-27T18:46:56.360481"
         }
     ], 
     "publishers": [], 
@@ -84,7 +84,7 @@
     "subordinate_resources": [], 
     "title": "Balkanologie", 
     "title_alternates": [], 
-    "title_extended": "Balkanologie: Revue d'\u00e9tudes pluridisciplinaires", 
+    "title_extended": "Balkanologie: Revue d'études pluridisciplinaires", 
     "type": null, 
     "url": "http://balkanologie.revues.org/", 
     "url_alternates": [], 

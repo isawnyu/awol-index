@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Mitteilungen des Deutschen Arch\u00e4ologischen Instituts, Abteilung Kairo, 48 (1992), pp. 57-64. Jansen-Winkeln, Karl (1993).", 
+    "description": "In: Mitteilungen des Deutschen Archäologischen Instituts, Abteilung Kairo, 48 (1992), pp. 57-64. Jansen-Winkeln, Karl (1993).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:54.439574"
+            "when": "2015-10-27T18:40:05.786922"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:54.439591"
+            "when": "2015-10-27T18:40:05.786939"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4228119224334277304", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:05.005511"
+            "when": "2015-10-27T18:41:27.985637"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/latest-20-additions-to-propylaeumdok.html", 
             "resource_date": "2014-08-18T09:36:55.241-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:05.005527"
+            "when": "2015-10-27T18:41:27.985657"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:05.059486"
+            "when": "2015-10-27T18:41:28.050321"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ein W\u00fcrfelhocker des Amunpropheten Djedbastetiufanch (Kairo JE 37597)", 
+    "title": "Ein Würfelhocker des Amunpropheten Djedbastetiufanch (Kairo JE 37597)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

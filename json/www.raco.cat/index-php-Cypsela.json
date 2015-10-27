@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cypsela: revista de prehist\u00f2ria i protohist\u00f2ria. ISSN 0213-3431. Cypsela (ISSN 0213-3431) \u00e9s una publicaci\u00f3 bianual del Museu d'Arqueologia de Catalunya, que publica, des de l'any 1976, treballs cient\u00edfics de recerca generals sobre la prehist\u00f2ria i la protohist\u00f2ria de Catalunya i de la mediterr\u00e0nia occidental fins al final de l'\u00e8poca ib\u00e8rica. La revista desenvolupa una secci\u00f3 de tema monogr\u00e0fic, amb articles de profunditat, tipus assaig o de s\u00edntesi; una altra d'estudis, amb articles anal\u00edtics o concrets de tema lliure, i per \u00faltim una secci\u00f3 amb ressenyes bibliogr\u00e0fiques.", 
+    "description": "Cypsela: revista de prehistòria i protohistòria. ISSN 0213-3431. Cypsela (ISSN 0213-3431) és una publicació bianual del Museu d'Arqueologia de Catalunya, que publica, des de l'any 1976, treballs científics de recerca generals sobre la prehistòria i la protohistòria de Catalunya i de la mediterrània occidental fins al final de l'època ibèrica. La revista desenvolupa una secció de tema monogràfic, amb articles de profunditat, tipus assaig o de síntesi; una altra d'estudis, amb articles analítics o concrets de tema lliure, i per últim una secció amb ressenyes bibliogràfiques.", 
     "domain": "www.raco.cat", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4468162179205734441", 
             "resource_date": "2013-12-11T06:16:31.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:27.987328"
+            "when": "2015-10-27T18:41:53.595294"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-cypsela.html", 
             "resource_date": "2013-12-11T06:16:31.419-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:27.987344"
+            "when": "2015-10-27T18:41:53.595311"
         }
     ], 
     "publishers": [], 
@@ -86,79 +86,79 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "2010: N\u00fam.: 18", 
+            "title_full": "2010: Núm.: 18", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/18718"
         }, 
         {
-            "title_full": "2008: N\u00fam.: 17", 
+            "title_full": "2008: Núm.: 17", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/11194"
         }, 
         {
-            "title_full": "2006: N\u00fam.: 16", 
+            "title_full": "2006: Núm.: 16", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/11195"
         }, 
         {
-            "title_full": "2004: N\u00fam.: 15", 
+            "title_full": "2004: Núm.: 15", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9072"
         }, 
         {
-            "title_full": "2002: N\u00fam.: 14", 
+            "title_full": "2002: Núm.: 14", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9070"
         }, 
         {
-            "title_full": "2001: N\u00fam.: 13", 
+            "title_full": "2001: Núm.: 13", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9069"
         }, 
         {
-            "title_full": "1998: N\u00fam.: 12", 
+            "title_full": "1998: Núm.: 12", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9591"
         }, 
         {
-            "title_full": "1996: N\u00fam.: 11", 
+            "title_full": "1996: Núm.: 11", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9602"
         }, 
         {
-            "title_full": "1993: N\u00fam.: 10", 
+            "title_full": "1993: Núm.: 10", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9651"
         }, 
         {
-            "title_full": "1991: N\u00fam.: 9", 
+            "title_full": "1991: Núm.: 9", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9664"
         }, 
         {
-            "title_full": "1990: N\u00fam.: 8", 
+            "title_full": "1990: Núm.: 8", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9665"
         }, 
         {
-            "title_full": "1989: N\u00fam.: 7", 
+            "title_full": "1989: Núm.: 7", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9667"
         }, 
         {
-            "title_full": "1987: N\u00fam.: 6", 
+            "title_full": "1987: Núm.: 6", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9668"
         }, 
         {
-            "title_full": "1985: N\u00fam.: 5", 
+            "title_full": "1985: Núm.: 5", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9712"
         }, 
         {
-            "title_full": "1982: N\u00fam.: 4", 
+            "title_full": "1982: Núm.: 4", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9722"
         }, 
         {
-            "title_full": "1980: N\u00fam.: 3", 
+            "title_full": "1980: Núm.: 3", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9729"
         }, 
         {
-            "title_full": "1978: N\u00fam.: 2", 
+            "title_full": "1978: Núm.: 2", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9732"
         }, 
         {
-            "title_full": "1976: N\u00fam.: 1", 
+            "title_full": "1976: Núm.: 1", 
             "url": "http://www.raco.cat/index.php/Cypsela/issue/view/9735"
         }
     ], 
-    "title": "Cypsela: revista de prehist\u00f2ria i protohist\u00f2ria", 
+    "title": "Cypsela: revista de prehistòria i protohistòria", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

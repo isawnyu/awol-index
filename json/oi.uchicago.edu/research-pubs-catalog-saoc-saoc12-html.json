@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "SAOC 11. Epiphanius\u2019 Treatise on Weights and Measures: The Syriac Version. James Elmer Dean, ed. With a Foreword by Martin Sprengling. Originally published in 1935.", 
+    "description": "SAOC 11. Epiphanius’ Treatise on Weights and Measures: The Syriac Version. James Elmer Dean, ed. With a Foreword by Martin Sprengling. Originally published in 1935.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2388316062585817175", 
             "resource_date": "2014-06-02T14:43:14.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:36.360821"
+            "when": "2015-10-27T18:38:44.307344"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/open-access-monographic-series-studies.html", 
             "resource_date": "2014-06-02T14:43:14.495-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:36.360845"
+            "when": "2015-10-27T18:38:44.307355"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-789024539632057730", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:53.701175"
+            "when": "2015-10-27T18:46:40.708131"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/the-oriental-institutes-publications-on.html", 
             "resource_date": "2014-09-22T14:39:49.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:53.701186"
+            "when": "2015-10-27T18:46:40.708145"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:53.754703"
+            "when": "2015-10-27T18:46:40.766742"
         }
     ], 
     "publishers": [], 

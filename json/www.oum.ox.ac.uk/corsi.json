@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Corsi Collection of Decorative Stones. \u2018Decorative stone\u2019 is a term for any mineral or rock which looks beautiful when cut and polished. Examples include marbles, serpentines, jaspers and granites as well as minerals such as fluorite, amethyst, and jade. Beautiful durable natural stone has been used to embellish buildings, furniture and artefacts since ancient times. It is still in huge demand for ornamenting homes and public buildings today. The early 19th century collection made by Roman lawyer Faustino Corsi comprises 1,000 polished slabs, each of a different decorative stone. He first obtained those used by the ancient Romans, and then added Italian stones used from medieval times to his own day. He also included a selection of decorative rocks and minerals from England, Russia, and other countries. In 1827, Oxford student Stephen Jarrett purchased the collection and presented it to the University of Oxford. It is now in the Oxford University Museum of Natural History. This website is the culmination of a research project by Monica T. Price and Lisa Cooke, and is generously funded by the Esm\u00e9e Fairbairn Foundation. HomeExplore Corsi's stonesCorsi's catalogueAbout CorsiAbout decorative stonesVisit the collection.", 
+    "description": "Corsi Collection of Decorative Stones. ‘Decorative stone’ is a term for any mineral or rock which looks beautiful when cut and polished. Examples include marbles, serpentines, jaspers and granites as well as minerals such as fluorite, amethyst, and jade. Beautiful durable natural stone has been used to embellish buildings, furniture and artefacts since ancient times. It is still in huge demand for ornamenting homes and public buildings today. The early 19th century collection made by Roman lawyer Faustino Corsi comprises 1,000 polished slabs, each of a different decorative stone. He first obtained those used by the ancient Romans, and then added Italian stones used from medieval times to his own day. He also included a selection of decorative rocks and minerals from England, Russia, and other countries. In 1827, Oxford student Stephen Jarrett purchased the collection and presented it to the University of Oxford. It is now in the Oxford University Museum of Natural History. This website is the culmination of a research project by Monica T. Price and Lisa Cooke, and is generously funded by the Esmée Fairbairn Foundation. HomeExplore Corsi's stonesCorsi's catalogueAbout CorsiAbout decorative stonesVisit the collection.", 
     "domain": "www.oum.ox.ac.uk", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2977160698223660893", 
             "resource_date": "2012-06-01T14:19:57.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:57.959757"
+            "when": "2015-10-27T18:39:06.227564"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/corsi-collection-of-decorative-stones.html", 
             "resource_date": "2012-06-01T14:19:57.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:57.959773"
+            "when": "2015-10-27T18:39:06.227581"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2977160698223660893", 
             "resource_date": "2012-06-01T14:19:57.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:57.961312"
+            "when": "2015-10-27T18:39:06.229291"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/corsi-collection-of-decorative-stones.html", 
             "resource_date": "2012-06-01T14:19:57.326-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:57.961324"
+            "when": "2015-10-27T18:39:06.229305"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:57.976317"
+            "when": "2015-10-27T18:39:06.250842"
         }
     ], 
     "publishers": [], 

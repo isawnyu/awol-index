@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arheolo\u0161ki Muzej Istre. Histria archaeologicaMonografije i katalozi 20 volumesKatalozi arheolo\u0161kog muzeja Istre 87 volumesKatalozi pedago\u0161ke slu\u017ebe 8 volumesPosebno izdanje Histria archaeologica.", 
+    "description": "Arheološki Muzej Istre. Histria archaeologicaMonografije i katalozi 20 volumesKatalozi arheološkog muzeja Istre 87 volumesKatalozi pedagoške službe 8 volumesPosebno izdanje Histria archaeologica.", 
     "domain": "ami.arhivpro.hr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arheolo\u0161ki Muzej Istre", 
+        "title_full": "Arheološki Muzej Istre", 
         "url": "http://ami.arhivpro.hr/"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674289737873967526", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.104452"
+            "when": "2015-10-27T18:45:07.071358"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-istria.html", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.104468"
+            "when": "2015-10-27T18:45:07.071374"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6674289737873967526", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.105861"
+            "when": "2015-10-27T18:45:07.072937"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/digital-library-of-istria.html", 
             "resource_date": "2012-01-29T08:01:14.277-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.105873"
+            "when": "2015-10-27T18:45:07.072949"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:27.114293"
+            "when": "2015-10-27T18:45:07.082881"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Arheolo\u0161ki Muzej Istre", 
+            "title_full": "Arheološki Muzej Istre", 
             "url": "http://ami.arhivpro.hr/"
         }, 
         {
@@ -155,11 +155,11 @@
             "url": "http://ami.arhivpro.hr/?sitetext=146"
         }, 
         {
-            "title_full": "Katalozi arheolo\u0161kog muzeja Istre", 
+            "title_full": "Katalozi arheološkog muzeja Istre", 
             "url": "http://ami.arhivpro.hr/?sitetext=147"
         }, 
         {
-            "title_full": "Katalozi pedago\u0161ke slu\u017ebe", 
+            "title_full": "Katalozi pedagoške službe", 
             "url": "http://ami.arhivpro.hr/?sitetext=145"
         }, 
         {
@@ -167,7 +167,7 @@
             "url": "http://ami.arhivpro.hr/#"
         }
     ], 
-    "title": "Arheolo\u0161ki Muzej Istre", 
+    "title": "Arheološki Muzej Istre", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

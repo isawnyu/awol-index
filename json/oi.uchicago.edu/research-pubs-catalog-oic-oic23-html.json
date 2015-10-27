@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8426264327753450305", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:25.728205"
+            "when": "2015-10-27T18:47:14.257022"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/open-access-monograph-series-oriental.html", 
             "resource_date": "2014-04-24T14:15:32.570-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:25.728217"
+            "when": "2015-10-27T18:47:14.257033"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8564830786692082832", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:00.497054"
+            "when": "2015-10-27T18:47:51.527016"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/oriental-institute-nippur-excavations.html", 
             "resource_date": "2014-03-25T15:47:28.515-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:00.497074"
+            "when": "2015-10-27T18:47:51.527028"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:00.548334"
+            "when": "2015-10-27T18:47:51.579993"
         }
     ], 
     "publishers": [], 

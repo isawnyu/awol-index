@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "S\u00e9r. 5,13=56. 1925.", 
+    "description": "Sér. 5,13=56. 1925.", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Recueil des notices et m\u00e9moires de la Soci\u00e9t\u00e9 arch\u00e9ologique de Constantine", 
+        "title_full": "Recueil des notices et mémoires de la Société archéologique de Constantine", 
         "url": "http://digi.ub.uni-heidelberg.de/diglit/recconstantine"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7169220526726980887", 
             "resource_date": "2013-06-12T10:06:13.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.465931"
+            "when": "2015-10-27T18:45:30.637851"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-recueil-des-notices.html", 
             "resource_date": "2013-06-12T10:06:13.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.465944"
+            "when": "2015-10-27T18:45:30.637868"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "S\u00e9r. 5,12=55.1923-1924(1925)", 
+    "title": "Sér. 5,12=55.1923-1924(1925)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 17 June 2010. Updated 13 October 2012]. HERAKLEION, Revista Interdisciplinar de Historia y Arqueolog\u00eda del Mediterr\u00e1neo. ISSN 1988-9100.", 
+    "description": "[First posted in AWOL 17 June 2010. Updated 13 October 2012]. HERAKLEION, Revista Interdisciplinar de Historia y Arqueología del Mediterráneo. ISSN 1988-9100.", 
     "domain": "www.herakleion.es", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "HERAKLEION, Revista Interdisciplinar de Historia y Arqueolog\u00eda del Mediterr\u00e1neo", 
+        "title_full": "HERAKLEION, Revista Interdisciplinar de Historia y Arqueología del Mediterráneo", 
         "url": "http://www.herakleion.es/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8280910448388256970", 
             "resource_date": "2012-12-11T15:55:57.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.584885"
+            "when": "2015-10-27T18:47:07.644639"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-herakleion-revista.html", 
             "resource_date": "2012-12-11T15:55:57.508-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.584906"
+            "when": "2015-10-27T18:47:07.644651"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Valor, prestigio e intercambio. Los m\u00e9todos ante la teor\u00eda (Michael Krueger)", 
+    "title": "Valor, prestigio e intercambio. Los métodos ante la teoría (Michael Krueger)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

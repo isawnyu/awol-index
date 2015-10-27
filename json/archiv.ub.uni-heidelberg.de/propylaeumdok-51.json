@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Calder, W. M. and Mansfeld, J. (Hrsgg. ): Hermann Diels (1848-1922) et la science de l\u2019Antiquit\u00e9, Entretiens sur l\\'Antiquit\u00e9 classique 45. Genf/Vandoeuvres 1999, pp. 84-142. Rebenich, Stefan (1997).", 
+    "description": "In: Calder, W. M. and Mansfeld, J. (Hrsgg. ): Hermann Diels (1848-1922) et la science de l’Antiquité, Entretiens sur l\\'Antiquité classique 45. Genf/Vandoeuvres 1999, pp. 84-142. Rebenich, Stefan (1997).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.511063"
+            "when": "2015-10-27T18:46:46.704066"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.511077"
+            "when": "2015-10-27T18:46:46.704081"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\"Mommsen ist er niemals n\u00e4her getreten\". Theodor Mommsen und Hermann Diels", 
+    "title": "\"Mommsen ist er niemals näher getreten\". Theodor Mommsen und Hermann Diels", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

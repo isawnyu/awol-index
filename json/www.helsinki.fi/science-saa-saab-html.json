@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 21 September 2011 Updated 12 March 2014 (with the demise of Herder Editrice, distribution of the paper version of SAAB is now handled by Eisenbrauns)]. State Archives of Assyria Bulletin. ISSN 1120-4699. State Archives of Assyria Bulletin (SAAB) is published twice a year as an international forum for discussion on Assyria and Assyrian texts. The journal is concerned with articles illustrating the history, philology and linguistics of the texts stemming from the ancient Assyrian state archives, and any related topic. The journal was conceived as part of the Neo-Assyrian Text Corpus Projectand was originally intended to supplement the SAA series of text publications by offering a vehicle for the publication of new texts and of detailed commentary on texts or text genres that would be out of place in the format established for the SAA volumes. SAAB quickly outgrew these narrow limitations and now accepts articles on any topic relating to Assyria in its largest sense, including philology, history, geography and archaeology. Although a part of the Neo-Assyrian Text Corpus Project, SAAB\u2019s Editorial Board is completely autonomous and makes all decisions concerning the acceptability of contributions, scheduling, and financing for the journal. Manuscripts to be considered for publication should be submitted to the journal\u2019s Editor or Assistant Editor and may be in any major Western language. Full text = SAAB I/1 (1987) - SAAB X/2 (1996). TOC only SAAB XI (1997) - Current.", 
+    "description": "[First posted in AWOL 21 September 2011 Updated 12 March 2014 (with the demise of Herder Editrice, distribution of the paper version of SAAB is now handled by Eisenbrauns)]. State Archives of Assyria Bulletin. ISSN 1120-4699. State Archives of Assyria Bulletin (SAAB) is published twice a year as an international forum for discussion on Assyria and Assyrian texts. The journal is concerned with articles illustrating the history, philology and linguistics of the texts stemming from the ancient Assyrian state archives, and any related topic. The journal was conceived as part of the Neo-Assyrian Text Corpus Projectand was originally intended to supplement the SAA series of text publications by offering a vehicle for the publication of new texts and of detailed commentary on texts or text genres that would be out of place in the format established for the SAA volumes. SAAB quickly outgrew these narrow limitations and now accepts articles on any topic relating to Assyria in its largest sense, including philology, history, geography and archaeology. Although a part of the Neo-Assyrian Text Corpus Project, SAAB’s Editorial Board is completely autonomous and makes all decisions concerning the acceptability of contributions, scheduling, and financing for the journal. Manuscripts to be considered for publication should be submitted to the journal’s Editor or Assistant Editor and may be in any major Western language. Full text = SAAB I/1 (1987) - SAAB X/2 (1996). TOC only SAAB XI (1997) - Current.", 
     "domain": "www.helsinki.fi", 
     "editors": [], 
     "end_date": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3662764938650888528", 
             "resource_date": "2014-03-12T17:45:42.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:38.609126"
+            "when": "2015-10-27T18:40:55.335127"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/open-access-journal-state-archives-of.html", 
             "resource_date": "2014-03-12T17:45:42.693-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:38.609144"
+            "when": "2015-10-27T18:40:55.335148"
         }
     ], 
     "publishers": [], 
@@ -100,7 +100,7 @@
             "url": "http://www.helsinki.fi/science/saa/1.1%2003%20McGinnis.pdf"
         }, 
         {
-            "title_full": "A New Text Relating to Ashurbanipal\u2019s Elamite Wars", 
+            "title_full": "A New Text Relating to Ashurbanipal’s Elamite Wars", 
             "url": "http://www.helsinki.fi/science/saa/1.1%2004%20Hameen-Anttila.pdf"
         }, 
         {
@@ -120,7 +120,7 @@
             "url": "http://www.helsinki.fi/science/saa/1.1%2008%20Pedersen.pdf"
         }, 
         {
-            "title_full": "A Report on Extispicies Performed for Sennacherib on Account of His Son A\u0161\u0161ur-nadin-\u0161umi", 
+            "title_full": "A Report on Extispicies Performed for Sennacherib on Account of His Son Aššur-nadin-šumi", 
             "url": "http://www.helsinki.fi/science/saa/1.1%2009%20Finkel.pdf"
         }, 
         {
@@ -156,11 +156,11 @@
             "url": "http://www.helsinki.fi/science/saa/2.1%2003%20Fales.pdf"
         }, 
         {
-            "title_full": "Sargon\u2019s Letter to A\u0161\u0161ur-\u0161arru-usur: An Interpretation", 
+            "title_full": "Sargon’s Letter to Aššur-šarru-usur: An Interpretation", 
             "url": "http://www.helsinki.fi/science/saa/2.1%2004%20Lanfranchi.pdf"
         }, 
         {
-            "title_full": "A Letter from the \u0161ang\u00fb of Kurbail", 
+            "title_full": "A Letter from the šangû of Kurbail", 
             "url": "http://www.helsinki.fi/science/saa/2.2%2001%20MacGinnis.pdf"
         }, 
         {
@@ -168,7 +168,7 @@
             "url": "http://www.helsinki.fi/science/saa/2.2%2002%20Parpola.pdf"
         }, 
         {
-            "title_full": "The Reading of the Neo-Assyrian Logogram L\u00da.SIMUG.KUG.GI \"Goldsmith\"", 
+            "title_full": "The Reading of the Neo-Assyrian Logogram LÚ.SIMUG.KUG.GI \"Goldsmith\"", 
             "url": "http://www.helsinki.fi/science/saa/2.2%2003%20Parpola.pdf"
         }, 
         {
@@ -184,7 +184,7 @@
             "url": "http://www.helsinki.fi/science/saa/2.2%2006%20Livingstone.pdf"
         }, 
         {
-            "title_full": "Prosopography of the Neo-Assyrian Empire, 2: The Many Faces of Nab\u00fb-\u0161arru-usur", 
+            "title_full": "Prosopography of the Neo-Assyrian Empire, 2: The Many Faces of Nabû-šarru-usur", 
             "url": "http://www.helsinki.fi/science/saa/2.2%2007%20Fales.pdf"
         }, 
         {
@@ -196,7 +196,7 @@
             "url": "http://www.helsinki.fi/science/saa/2.2%2009%20Deller.pdf"
         }, 
         {
-            "title_full": "The Sin of Sargon and Sennacherib\u2019s Last Will", 
+            "title_full": "The Sin of Sargon and Sennacherib’s Last Will", 
             "url": "http://www.helsinki.fi/science/saa/3.1%2001%20Tadmor,%20Landsberger%20&%20Parpola.pdf"
         }, 
         {
@@ -212,7 +212,7 @@
             "url": "http://www.helsinki.fi/science/saa/3.2%2002%20Finkel.pdf"
         }, 
         {
-            "title_full": "One More Text from Nan\u00fbnu\u2019s Archive (ALA II, N. 22)", 
+            "title_full": "One More Text from Nanûnu’s Archive (ALA II, N. 22)", 
             "url": "http://www.helsinki.fi/science/saa/3.2%2003%20Pedersen.pdf"
         }, 
         {
@@ -228,7 +228,7 @@
             "url": "http://www.helsinki.fi/science/saa/3.2%2006%20Lanfranchi.pdf"
         }, 
         {
-            "title_full": "Royal Decisions and Courtiers\u2019 Compliance: On Some Formulae in Neo-Assyrian and Neo-Babylonian Letters", 
+            "title_full": "Royal Decisions and Courtiers’ Compliance: On Some Formulae in Neo-Assyrian and Neo-Babylonian Letters", 
             "url": "http://www.helsinki.fi/science/saa/3.2%2007%20Ponchia.pdf"
         }, 
         {
@@ -244,7 +244,7 @@
             "url": "http://www.helsinki.fi/science/saa/4.1%2001%20Jas.pdf"
         }, 
         {
-            "title_full": "Balancing the Accounts of the Royal New Year\u2019s Reception", 
+            "title_full": "Balancing the Accounts of the Royal New Year’s Reception", 
             "url": "http://www.helsinki.fi/science/saa/4.1%2002%20Mattila.pdf"
         }, 
         {
@@ -288,7 +288,7 @@
             "url": "http://www.helsinki.fi/science/saa/6.1%2001%20MacGinnis.pdf"
         }, 
         {
-            "title_full": "Sargon II\u2019s Ascent to the Throne: the Political Situation", 
+            "title_full": "Sargon II’s Ascent to the Throne: the Political Situation", 
             "url": "http://www.helsinki.fi/science/saa/6.1%2002%20Chamaza.pdf"
         }, 
         {
@@ -300,7 +300,7 @@
             "url": "http://www.helsinki.fi/science/saa/6.1%2004%20Perroudon.pdf"
         }, 
         {
-            "title_full": "Chapters 1 and 2 of the bar\u00fbtu", 
+            "title_full": "Chapters 1 and 2 of the barûtu", 
             "url": "http://www.helsinki.fi/science/saa/6.1%2005%20Starr.pdf"
         }, 
         {
@@ -308,7 +308,7 @@
             "url": "http://www.helsinki.fi/science/saa/6.1%2006%20Galil.pdf"
         }, 
         {
-            "title_full": "The Arab Campaigns of A\u0161\u0161urbanipal: Scribal Reconstruction of the Past", 
+            "title_full": "The Arab Campaigns of Aššurbanipal: Scribal Reconstruction of the Past", 
             "url": "http://www.helsinki.fi/science/saa/6.2%2001%20Gerardi.pdf"
         }, 
         {
@@ -324,7 +324,7 @@
             "url": "http://www.helsinki.fi/science/saa/7.1%2002%20Postgate.pdf"
         }, 
         {
-            "title_full": "ABL 1285 and the Hebrew Bible. Literary Topoi in Urad-Gula\u2019s Letter of Petition to Assurbanipal", 
+            "title_full": "ABL 1285 and the Hebrew Bible. Literary Topoi in Urad-Gula’s Letter of Petition to Assurbanipal", 
             "url": "http://www.helsinki.fi/science/saa/7.1%2003%20Hurowitz.pdf"
         }, 
         {
@@ -336,15 +336,15 @@
             "url": "http://www.helsinki.fi/science/saa/7.1%2005%20Zaccagnini.pdf"
         }, 
         {
-            "title_full": "Vier sp\u00e4tbabylonische Tontafeln aus Tall \u0160\u0113\u1e2b \u1e24amad", 
+            "title_full": "Vier spätbabylonische Tontafeln aus Tall Šēḫ Ḥamad", 
             "url": "http://www.helsinki.fi/science/saa/7.2%2001%20Kuhne.pdf"
         }, 
         {
-            "title_full": "The Four \"Neo-Assyrian\" Tablets from \u0160\u0113\u1e2b \u1e24amad", 
+            "title_full": "The Four \"Neo-Assyrian\" Tablets from Šēḫ Ḥamad", 
             "url": "http://www.helsinki.fi/science/saa/7.2%2002%20Postgate.pdf"
         }, 
         {
-            "title_full": "Die aram\u00e4ischen Beischriften auf den Texten 1 und 3", 
+            "title_full": "Die aramäischen Beischriften auf den Texten 1 und 3", 
             "url": "http://www.helsinki.fi/science/saa/7.2%2003%20Rollig.pdf"
         }, 
         {
@@ -352,11 +352,11 @@
             "url": "http://www.helsinki.fi/science/saa/7.2%2004%20Rollig.pdf"
         }, 
         {
-            "title_full": "Babylonian Influence in the \u0160\u0113\u1e2b \u1e24amad Texts Dated under Nebuchadnezzar II", 
+            "title_full": "Babylonian Influence in the Šēḫ Ḥamad Texts Dated under Nebuchadnezzar II", 
             "url": "http://www.helsinki.fi/science/saa/7.2%2005%20Brinkman.pdf"
         }, 
         {
-            "title_full": "West Semitic Names in the \u0160\u0113\u1e2b \u1e24amad Texts", 
+            "title_full": "West Semitic Names in the Šēḫ Ḥamad Texts", 
             "url": "http://www.helsinki.fi/science/saa/7.2%2006%20Fales.pdf"
         }, 
         {
@@ -368,7 +368,7 @@
             "url": "http://www.helsinki.fi/science/saa/8.1%2002%20Postgate.pdf"
         }, 
         {
-            "title_full": "The Historical Portion of Sargon II\u2019s Nimrud Inscription", 
+            "title_full": "The Historical Portion of Sargon II’s Nimrud Inscription", 
             "url": "http://www.helsinki.fi/science/saa/8.1%2003%20Na%27aman.pdf"
         }, 
         {
@@ -376,7 +376,7 @@
             "url": "http://www.helsinki.fi/science/saa/8.1%2004%20Zaccagnini.pdf"
         }, 
         {
-            "title_full": "Das Eponymat von A\u0161\u0161ur-gimilli-tirri im Licht der Berliner Eponymen-Liste C c", 
+            "title_full": "Das Eponymat von Aššur-gimilli-tirri im Licht der Berliner Eponymen-Liste C c", 
             "url": "http://www.helsinki.fi/science/saa/8.1%2005%20Zawadzki.pdf"
         }, 
         {
@@ -392,7 +392,7 @@
             "url": "http://www.helsinki.fi/science/saa/8.2%2002%20De%20Odorico.pdf"
         }, 
         {
-            "title_full": "Some Remarks Concerning the Neo-Babylonian Tablets from \u0160\u0113\u1e2b \u1e24amad", 
+            "title_full": "Some Remarks Concerning the Neo-Babylonian Tablets from Šēḫ Ḥamad", 
             "url": "http://www.helsinki.fi/science/saa/8.2%2003%20Heltzer.pdf"
         }, 
         {
@@ -424,7 +424,7 @@
             "url": "http://www.helsinki.fi/science/saa/10.2%2001%20Kuhne.pdf"
         }, 
         {
-            "title_full": "The Mina of Karkemi\u0161 in the Neo-Assyrian Sources", 
+            "title_full": "The Mina of Karkemiš in the Neo-Assyrian Sources", 
             "url": "http://www.helsinki.fi/science/saa/10.2%2002%20Vargyas.pdf"
         }, 
         {

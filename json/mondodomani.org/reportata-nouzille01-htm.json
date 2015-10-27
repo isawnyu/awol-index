@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Barbara Serpi, Recensione a Maria Francesca Carnea, Libert\u00e0 e politica in S. Caterina da Siena.", 
+    "description": "Barbara Serpi, Recensione a Maria Francesca Carnea, Libertà e politica in S. Caterina da Siena.", 
     "domain": "mondodomani.org", 
     "editors": [], 
     "end_date": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6336086006727621583", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:01.122543"
+            "when": "2015-10-27T18:44:38.591122"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/06/open-access-journal-reportata-passato-e.html", 
             "resource_date": "2013-06-14T09:47:59.716-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:01.122561"
+            "when": "2015-10-27T18:44:38.591133"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Philippe Nouzille, Le Christ principe et fin de la cr\u00e9ation selon Fray Luis de Le\u00f3n", 
+    "title": "Philippe Nouzille, Le Christ principe et fin de la création selon Fray Luis de León", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

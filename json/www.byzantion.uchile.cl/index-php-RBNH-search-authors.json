@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Por t\u00edtulo.", 
+    "description": "Por título.", 
     "domain": "www.byzantion.uchile.cl", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Byzantion nea hell\u00e1s: Revista anual de estudios griegos, bizantinos y neohel\u00e9nicos", 
+        "title_full": "Byzantion nea hellás: Revista anual de estudios griegos, bizantinos y neohelénicos", 
         "url": "http://www.byzantion.uchile.cl/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3172006504669841827", 
             "resource_date": "2015-03-21T11:12:13.253-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.159825"
+            "when": "2015-10-27T18:39:20.811719"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/02/open-access-journal-byzantion-nea.html", 
             "resource_date": "2015-03-21T11:12:13.253-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.159836"
+            "when": "2015-10-27T18:39:20.811732"
         }
     ], 
     "publishers": [], 

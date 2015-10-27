@@ -10,14 +10,14 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue des \u00e9tudes grecques", 
+        "title_full": "Revue des études grecques", 
         "url": "http://www.persee.fr/web/revues/home/prescript/revue/reg"
     }, 
     "issuance": null, 
     "issue": null, 
     "issued_dates": null, 
     "keywords": [
-        "Pers\u00e9e"
+        "Persée"
     ], 
     "languages": [
         "en"
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4885389261047938240", 
             "resource_date": "2014-09-04T09:48:41.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:13.979668"
+            "when": "2015-10-27T18:42:43.371393"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revue-des-etudes.html", 
             "resource_date": "2014-09-04T09:48:41.164-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:13.979685"
+            "when": "2015-10-27T18:42:43.371409"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Pers\u00e9e", 
+    "title": "Persée", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

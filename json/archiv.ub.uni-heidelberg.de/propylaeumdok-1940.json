@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Journal international d\u2019arch\u00e9ologie numismatique, 1920, (1922), pp. 97-107. Svoronos, Jean Nikolaus (1914).", 
+    "description": "In: Journal international d’archéologie numismatique, 1920, (1922), pp. 97-107. Svoronos, Jean Nikolaus (1914).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:42.238759"
+            "when": "2015-10-27T18:48:36.691465"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:42.238775"
+            "when": "2015-10-27T18:48:36.691481"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "C. Christodoulos et les faussaires d\u2019Ath\u00e8nes", 
+    "title": "C. Christodoulos et les faussaires d’Athènes", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

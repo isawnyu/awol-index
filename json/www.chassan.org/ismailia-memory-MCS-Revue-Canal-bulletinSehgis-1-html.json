@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Bulletin de la Soci\u00e9t\u00e9 d'\u00e9tudes historiques et g\u00e9ographiques de l'isthme de Suez (BSEHGIS). BSEHGIS Tome 1 - 1947. BSEHGIS Tome 2 - 1948. BSEHGIS Tome 3 - 1949-1950. BSEHGIS Tome 4 - 1951-1952. BSEHGIS Tome 5 - 1953-1954 See the full List of Open Access Journals in Ancient Studies.", 
+    "description": "Bulletin de la Société d'études historiques et géographiques de l'isthme de Suez (BSEHGIS). BSEHGIS Tome 1 - 1947. BSEHGIS Tome 2 - 1948. BSEHGIS Tome 3 - 1949-1950. BSEHGIS Tome 4 - 1951-1952. BSEHGIS Tome 5 - 1953-1954 See the full List of Open Access Journals in Ancient Studies.", 
     "domain": "www.chassan.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7093376990684458565", 
             "resource_date": "2015-06-23T10:52:20.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:46.080887"
+            "when": "2015-10-27T18:45:27.988307"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2015-06-23T10:52:20.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:46.080903"
+            "when": "2015-10-27T18:45:27.988328"
         }
     ], 
     "publishers": [], 
@@ -100,7 +100,7 @@
             "url": "http://www.chassan.org/ismailia/memory/MCS/Revue_Canal/BSEHGIS/PFE_085_005_w.pdf"
         }
     ], 
-    "title": "Bulletin de la Soci\u00e9t\u00e9 d'\u00e9tudes historiques et g\u00e9ographiques de l'isthme de Suez (BSEHGIS)", 
+    "title": "Bulletin de la Société d'études historiques et géographiques de l'isthme de Suez (BSEHGIS)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

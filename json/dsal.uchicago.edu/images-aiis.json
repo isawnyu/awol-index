@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1092479623412845010", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.435355"
+            "when": "2015-10-27T18:37:08.223049"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.435369"
+            "when": "2015-10-27T18:37:08.223066"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1092479623412845010", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.446135"
+            "when": "2015-10-27T18:37:08.232971"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/american-institute-of-indian-studies.html", 
             "resource_date": "2011-05-03T11:19:54.637-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.446150"
+            "when": "2015-10-27T18:37:08.232986"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:07.448504"
+            "when": "2015-10-27T18:37:08.234860"
         }
     ], 
     "publishers": [], 

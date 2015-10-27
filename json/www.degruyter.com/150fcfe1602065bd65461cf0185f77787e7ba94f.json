@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4755316809017120952", 
             "resource_date": "2015-06-28T09:01:30.871-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.707449"
+            "when": "2015-10-27T18:42:09.552105"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/de-gruyter-open-vergils-political.html", 
             "resource_date": "2015-06-28T09:01:30.871-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.707464"
+            "when": "2015-10-27T18:42:09.552121"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4755316809017120952", 
             "resource_date": "2015-06-28T09:01:30.871-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:42.708693"
+            "when": "2015-10-27T18:42:09.553489"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/de-gruyter-open-vergils-political.html", 
             "resource_date": "2015-06-28T09:01:30.871-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:42.708705"
+            "when": "2015-10-27T18:42:09.553501"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:42.711809"
+            "when": "2015-10-27T18:42:09.557276"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
             "url": "http://www.degruyter.com/browse?authorCount=5&haveAccess=true&openAccess=true&pageSize=100&searchTitles=true&sort=datedescending&t1=CL"
         }, 
         {
-            "title_full": "Vergil\u00b4s Political Commentary in the Eclogues, Georgics and Aeneid", 
+            "title_full": "Vergil´s Political Commentary in the Eclogues, Georgics and Aeneid", 
             "url": "http://www.degruyter.com/viewbooktoc/product/456246"
         }
     ], 

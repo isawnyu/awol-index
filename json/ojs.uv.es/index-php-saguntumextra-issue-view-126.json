@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "SAGVNTVM Extra. Papeles del Laboratorio de Arqueolog\u00eda de Valencia - Extra", 
+        "title_full": "SAGVNTVM Extra. Papeles del Laboratorio de Arqueología de Valencia - Extra", 
         "url": "http://ojs.uv.es/index.php/saguntumextra/index"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6520074801902136306", 
             "resource_date": "2014-01-20T18:09:18.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:12.346274"
+            "when": "2015-10-27T18:44:50.768483"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/open-access-journal-sagvntvm-papeles.html", 
             "resource_date": "2014-01-20T18:09:18.115-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:12.346287"
+            "when": "2015-10-27T18:44:50.768494"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Vol 12 (2011): LAS PRIMERAS PRODUCCIONES CER\u00c1MICAS: EL VI MILENIO CAL AC EN LA PEN\u00cdNSULA IB\u00c9RICA", 
+    "title": "Vol 12 (2011): LAS PRIMERAS PRODUCCIONES CERÁMICAS: EL VI MILENIO CAL AC EN LA PENÍNSULA IBÉRICA", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

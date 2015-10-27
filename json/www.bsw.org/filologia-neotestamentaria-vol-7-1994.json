@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Filolog\u00eda Neotestamentaria. ISSN: 0214-2996. The FILOLOG\u00cdA NEOTESTAMENTARIA journal is the result of initiative taken at the Chair of Greek Philology of the Department of Antiquities of the University of C\u00f3rdoba, Spain. Within its Scope lies every aspect of New Testament Greek philology, namely textual criticism, grammar, semantics, lexicography and eventually semiotics and its relationship with Classical or Hellenistic Greek. It is published in C\u00f3rdoba (Spain) by EDICIONES EL ALMENDRO DE C\u00d3RDOBA, SL once a year (September).", 
+    "description": "Filología Neotestamentaria. ISSN: 0214-2996. The FILOLOGÍA NEOTESTAMENTARIA journal is the result of initiative taken at the Chair of Greek Philology of the Department of Antiquities of the University of Córdoba, Spain. Within its Scope lies every aspect of New Testament Greek philology, namely textual criticism, grammar, semantics, lexicography and eventually semiotics and its relationship with Classical or Hellenistic Greek. It is published in Córdoba (Spain) by EDICIONES EL ALMENDRO DE CÓRDOBA, SL once a year (September).", 
     "domain": "www.bsw.org", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Filolog\u00eda Neotestamentaria", 
+        "title_full": "Filología Neotestamentaria", 
         "url": "http://www.bsw.org/filologia-neotestamentaria/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6696739526085113939", 
             "resource_date": "2014-08-07T09:38:39.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:27.407807"
+            "when": "2015-10-27T18:45:07.425413"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/open-access-journal-newsletter-of.html", 
             "resource_date": "2014-08-07T09:38:39.745-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:27.407818"
+            "when": "2015-10-27T18:45:07.425427"
         }
     ], 
     "publishers": [], 

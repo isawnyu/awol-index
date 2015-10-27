@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 6 July 2009. Updated 10 March 2014 (volumes 101-109 are now open access)]. Le Bulletin de l\u2019Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale (BIFAO). Le BIFAO est maintenant disponible en ligne pour tous les num\u00e9ros jusqu\u2019au 100 (2000). Le site rassemble pr\u00e8s de 1 650 articles pour un total de plus de 35 000 pages de texte et d\u2019illustrations, permettant l\u2019acc\u00e8s direct aux num\u00e9ros de la revue qui sont actuellement pour une tr\u00e8s grande part \u00e9puis\u00e9s. Ce site est destin\u00e9 \u00e0 \u00eatre mis \u00e0 jour r\u00e9guli\u00e8rement. Les sommaires de tous les num\u00e9ros (1 \u00e0 111) sont \u00e9galement accessibles sur ce site. Issu d\u2019un projet lanc\u00e9 par l\u2019Ifao en 2001, cet outil de recherche est le fruit de la collaboration, au sein de l\u2019institut, de l\u2019imprimerie, du service des publications et du service informatique. La premi\u00e8re phase, r\u00e9alis\u00e9e \u00e0 l\u2019imprimerie, a consist\u00e9 \u00e0 scanner les 95 premiers volumes du Bulletin de l\u2019Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale, puis \u00e0 appliquer aux fichiers obtenus le traitement optique de reconnaissance des caract\u00e8res. Les num\u00e9ros r\u00e9cents d\u00e9j\u00e0 disponibles sous forme \u00e9lectronique ont \u00e9t\u00e9 ajout\u00e9s. Le service des publications a effectu\u00e9 ensuite la relecture et la correction des tables des mati\u00e8res. L\u2019ensemble des donn\u00e9es a ensuite \u00e9t\u00e9 transmis au service informatique qui a r\u00e9alis\u00e9 l\u2019indexation du texte et sa mise en ligne. Volumes available in open access:.", 
+    "description": "[First posted in AWOL 6 July 2009. Updated 10 March 2014 (volumes 101-109 are now open access)]. Le Bulletin de l’Institut français d’archéologie orientale (BIFAO). Le BIFAO est maintenant disponible en ligne pour tous les numéros jusqu’au 100 (2000). Le site rassemble près de 1 650 articles pour un total de plus de 35 000 pages de texte et d’illustrations, permettant l’accès direct aux numéros de la revue qui sont actuellement pour une très grande part épuisés. Ce site est destiné à être mis à jour régulièrement. Les sommaires de tous les numéros (1 à 111) sont également accessibles sur ce site. Issu d’un projet lancé par l’Ifao en 2001, cet outil de recherche est le fruit de la collaboration, au sein de l’institut, de l’imprimerie, du service des publications et du service informatique. La première phase, réalisée à l’imprimerie, a consisté à scanner les 95 premiers volumes du Bulletin de l’Institut français d’archéologie orientale, puis à appliquer aux fichiers obtenus le traitement optique de reconnaissance des caractères. Les numéros récents déjà disponibles sous forme électronique ont été ajoutés. Le service des publications a effectué ensuite la relecture et la correction des tables des matières. L’ensemble des données a ensuite été transmis au service informatique qui a réalisé l’indexation du texte et sa mise en ligne. Volumes available in open access:.", 
     "domain": "www.ifao.egnet.net", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Le Bulletin de l\u2019Institut fran\u00e7ais d\u2019arch\u00e9ologie orientale (BIFAO)", 
+        "title_full": "Le Bulletin de l’Institut français d’archéologie orientale (BIFAO)", 
         "url": "http://www.ifao.egnet.net/bifao/"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1815233798517663329", 
             "resource_date": "2015-02-27T18:49:58.514-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:00.512906"
+            "when": "2015-10-27T18:38:05.674309"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-le-bulletin-de.html", 
             "resource_date": "2015-02-27T18:49:58.514-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:00.512918"
+            "when": "2015-10-27T18:38:05.674322"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5168427524543363349", 
             "resource_date": "2012-02-21T12:18:04.077-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:43.869581"
+            "when": "2015-10-27T18:43:14.629640"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/07/open-access-journal-bulletin-critique.html", 
             "resource_date": "2012-02-21T12:18:04.077-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:43.869598"
+            "when": "2015-10-27T18:43:14.629655"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:44.603905"
+            "when": "2015-10-27T18:43:15.505589"
         }, 
         {
             "fields": [
@@ -179,13 +179,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7434132402691421194", 
             "resource_date": "2010-07-05T08:24:20.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:04.931239"
+            "when": "2015-10-27T18:45:48.566093"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/bifao-update.html", 
             "resource_date": "2010-07-05T08:24:20.703-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:04.931249"
+            "when": "2015-10-27T18:45:48.566104"
         }, 
         {
             "fields": [
@@ -200,7 +200,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:05.207551"
+            "when": "2015-10-27T18:45:48.896518"
         }, 
         {
             "fields": [
@@ -241,13 +241,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7735076758975827661", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:46.825512"
+            "when": "2015-10-27T18:46:33.231587"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/institut-francais-darcheologie.html", 
             "resource_date": "2015-01-17T09:11:03.745-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:46.825527"
+            "when": "2015-10-27T18:46:33.231602"
         }, 
         {
             "fields": [
@@ -263,7 +263,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:14:46.850351"
+            "when": "2015-10-27T18:46:33.264934"
         }
     ], 
     "publishers": [], 

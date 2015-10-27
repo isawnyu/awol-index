@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-86106668535869170", 
             "resource_date": "2013-07-18T09:17:24.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:06.317170"
+            "when": "2015-10-27T18:47:57.875462"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-transoxiana.html", 
             "resource_date": "2013-07-18T09:17:24.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:06.317187"
+            "when": "2015-10-27T18:47:57.875479"
         }, 
         {
             "fields": [
@@ -118,13 +118,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-86106668535869170", 
             "resource_date": "2013-07-18T09:17:24.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:06.319103"
+            "when": "2015-10-27T18:47:57.877555"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/09/open-access-journals-transoxiana.html", 
             "resource_date": "2013-07-18T09:17:24.119-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:06.319115"
+            "when": "2015-10-27T18:47:57.877568"
         }, 
         {
             "fields": [
@@ -138,7 +138,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:06.345015"
+            "when": "2015-10-27T18:47:57.906792"
         }
     ], 
     "publishers": [], 

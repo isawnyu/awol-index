@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Sull'as\u00edndeto fra aggettivi attributi in \u00e0rabo letterario [1, 2005].", 
+    "description": "Sull'asíndeto fra aggettivi attributi in àrabo letterario [1, 2005].", 
     "domain": "mbpro.net", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6486826106368876738", 
             "resource_date": "2015-02-13T16:09:58.521-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:10.348850"
+            "when": "2015-10-27T18:44:48.617947"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-journal-kervan.html", 
             "resource_date": "2015-02-13T16:09:58.521-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:10.348861"
+            "when": "2015-10-27T18:44:48.617959"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Qualche considerazione ulteriore sulle proposizioni aggettivali [\u00abna\u2018t sabab \u012b \u00bb] in \u00e0rabo letterario [2, 2005]", 
+    "title": "Qualche considerazione ulteriore sulle proposizioni aggettivali [«na‘t sabab ī »] in àrabo letterario [2, 2005]", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

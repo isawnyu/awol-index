@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Die Welt des Orients, 11 (1980), 135. R\u00f6llig, Wolfgang (2004).", 
+    "description": "In: Die Welt des Orients, 11 (1980), 135. Röllig, Wolfgang (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:39.748200"
+            "when": "2015-10-27T18:46:25.557297"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:39.748221"
+            "when": "2015-10-27T18:46:25.557312"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Rudolf Sch\u00fctzeichel (Hrsg.): Erlanger Ortsnamen-Kolloquium. Ortsnamen als Ausdruck von Kultur und Herrschaft. Beitr\u00e4ge zur Namenforschung. Neue Folge, Beiheft 18. C. Winter, Heidelberg 1980", 
+    "title": "Rudolf Schützeichel (Hrsg.): Erlanger Ortsnamen-Kolloquium. Ortsnamen als Ausdruck von Kultur und Herrschaft. Beiträge zur Namenforschung. Neue Folge, Beiheft 18. C. Winter, Heidelberg 1980", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

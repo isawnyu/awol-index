@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 4 May 2011. Updated 10 June 2014]. Engramma - La Tradizione Classica nella Memoria Occidentale. ISSN 1826-901X. \"Engramma\" \u00e8 la rivista on-line del Centro studi classicA - 'Architettura, civilt\u00e0, tradizione del classico' - dell'Universit\u00e0 IUAV di Venezia: un laboratorio di ricerche costituito da studiosi e da giovani ricercatori, nato come 'Seminario di tradizione classica' nel marzo 2000, coordinato da Monica Centanni. Al centro delle ricerche di \"Engramma\" \u00e8 la tradizione classica nella cultura occidentale: persistenze, riprese, nuove interpretazioni di forme, temi e motivi dell'arte, dell'architettura e della letteratura antica, nell'et\u00e0 medievale, rinascimentale, moderna e contemporanea. \"Engramma\" \u00e8 una rivista esclusivamente on-line: anche nel campo degli studia humanitatis la pubblicazione in rete si configura come il mezzo e il luogo di verifica delle nuove metodologie di ricerca e come veicolo privilegiato di comunicazione dei risultati. Nel 2006 \"Engramma\" ha avuto il riconoscimento del premio E-Content Award. \"Engramma\" ha cadenza mensile/bimestrale: tutti i numeri pubblicati dal settembre del 2000 (data di nascita della rivista) sono consultabili in Archivio. Tutti i contributi pubblicati nella rivista sono indicizzati per autore (Indice per autore). Sono indicizzati a parte i Testi inediti e rari ovvero: testi mai pubblicati su supporto cartaceo o in rete; testi mai tradotti in lingua italiana; testi editi in formato cartaceo su riviste o in volumi difficilmente reperibili. I contributi che in numero consistente siano riferibili a temi di ricerca che incrociano gli studi del Centro studi classicA sono raggruppati anche in Indici tematici (consultabili dall'elenco nella colonna a sinistra): Alessandro il Grande, Ara Pacis, Arco onorario romano, Calunnia di Apelle, Hostium Rabies Diruit, Iconologia e Architettura, Internet e Umanesimo, Myths & Movies, Laocoonte, Pubblicit\u00e0 & Tradizione classica, Tempio Malatestiano, Vero falso finto, Aby Warburg e l'Atlante Mnemosyne e Gallerie iconografiche.", 
+    "description": "[First posted in AWOL 4 May 2011. Updated 10 June 2014]. Engramma - La Tradizione Classica nella Memoria Occidentale. ISSN 1826-901X. \"Engramma\" è la rivista on-line del Centro studi classicA - 'Architettura, civiltà, tradizione del classico' - dell'Università IUAV di Venezia: un laboratorio di ricerche costituito da studiosi e da giovani ricercatori, nato come 'Seminario di tradizione classica' nel marzo 2000, coordinato da Monica Centanni. Al centro delle ricerche di \"Engramma\" è la tradizione classica nella cultura occidentale: persistenze, riprese, nuove interpretazioni di forme, temi e motivi dell'arte, dell'architettura e della letteratura antica, nell'età medievale, rinascimentale, moderna e contemporanea. \"Engramma\" è una rivista esclusivamente on-line: anche nel campo degli studia humanitatis la pubblicazione in rete si configura come il mezzo e il luogo di verifica delle nuove metodologie di ricerca e come veicolo privilegiato di comunicazione dei risultati. Nel 2006 \"Engramma\" ha avuto il riconoscimento del premio E-Content Award. \"Engramma\" ha cadenza mensile/bimestrale: tutti i numeri pubblicati dal settembre del 2000 (data di nascita della rivista) sono consultabili in Archivio. Tutti i contributi pubblicati nella rivista sono indicizzati per autore (Indice per autore). Sono indicizzati a parte i Testi inediti e rari ovvero: testi mai pubblicati su supporto cartaceo o in rete; testi mai tradotti in lingua italiana; testi editi in formato cartaceo su riviste o in volumi difficilmente reperibili. I contributi che in numero consistente siano riferibili a temi di ricerca che incrociano gli studi del Centro studi classicA sono raggruppati anche in Indici tematici (consultabili dall'elenco nella colonna a sinistra): Alessandro il Grande, Ara Pacis, Arco onorario romano, Calunnia di Apelle, Hostium Rabies Diruit, Iconologia e Architettura, Internet e Umanesimo, Myths & Movies, Laocoonte, Pubblicità & Tradizione classica, Tempio Malatestiano, Vero falso finto, Aby Warburg e l'Atlante Mnemosyne e Gallerie iconografiche.", 
     "domain": "www.engramma.it", 
     "editors": [], 
     "end_date": null, 
@@ -69,13 +69,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6832915640740162822", 
             "resource_date": "2014-06-10T14:13:06.879-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:35.078371"
+            "when": "2015-10-27T18:45:15.965743"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-engramma.html", 
             "resource_date": "2014-06-10T14:13:06.879-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:35.078387"
+            "when": "2015-10-27T18:45:15.965759"
         }
     ], 
     "publishers": [], 
@@ -329,7 +329,7 @@
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=61"
         }, 
         {
-            "title_full": "n. 62 febbraio 2008 - Pubblicit\u00c3 e Tradizione Classica - Classico Manifesto", 
+            "title_full": "n. 62 febbraio 2008 - PubblicitÃ e Tradizione Classica - Classico Manifesto", 
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=62"
         }, 
         {
@@ -373,7 +373,7 @@
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=72"
         }, 
         {
-            "title_full": "n. 73 luglio-agosto 2009 - Pubblicit\u00c3 e Tradizione classica", 
+            "title_full": "n. 73 luglio-agosto 2009 - PubblicitÃ e Tradizione classica", 
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=73"
         }, 
         {
@@ -505,7 +505,7 @@
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=105"
         }, 
         {
-            "title_full": "n. 106 maggio 2013 - Antichit\u00c3 immaginate", 
+            "title_full": "n. 106 maggio 2013 - AntichitÃ immaginate", 
             "url": "http://www.engramma.it/eOS/get_archivio.php?numero_archivio=106"
         }, 
         {

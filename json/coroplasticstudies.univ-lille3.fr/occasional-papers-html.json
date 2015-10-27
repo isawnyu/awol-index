@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Occasional Papers in Coroplastic Studies. The Association for Coroplastic Studies (ACoSt) has developed out of the former Coroplastic Studies Interest Group (CSIG). Originally organized in 2007 under the auspices of the Archaeological Institute of America (AIA), the CSIG was one of the 13 Interest Groups of the AIA that normally comprise AIA members. Although membership in the AIA was not a prerequisite for membership in the CSIG, CSIG members were encouraged to join the AIA. Figuring Out the Figurine of the Ancient Near East, Edited by Stephanie M. Langin-Hooper. Occasional Papers in Coroplastic Studies 1, 2014. ISBN: 978-0-9915533-1-0. Download a pdf, view the e-book online. ContentsGeneral Bibliography, vi. Introduction: Stephanie M. Langin-Hooper, vii. The Coroplastics of Transjordan Forming Techniques and Iconographic Traditions in the Iron Age: P. Mich\u00e8le Daviau, 1. Seeing Double: Viewing and Re-Viewing Judean Pillar Figurines Through Modern Eyes: Erin D. Darby, 13. Double Face, Multiple Meanings: The Hellenistic Pillar Figurines from Maresha: Adi Erlich, 27. The Mimesis of a World The Early and Middle Bronze Clay Figurines from Ebla-Tell Mardikh: Marco Ramazzotti, 39.", 
+    "description": "Occasional Papers in Coroplastic Studies. The Association for Coroplastic Studies (ACoSt) has developed out of the former Coroplastic Studies Interest Group (CSIG). Originally organized in 2007 under the auspices of the Archaeological Institute of America (AIA), the CSIG was one of the 13 Interest Groups of the AIA that normally comprise AIA members. Although membership in the AIA was not a prerequisite for membership in the CSIG, CSIG members were encouraged to join the AIA. Figuring Out the Figurine of the Ancient Near East, Edited by Stephanie M. Langin-Hooper. Occasional Papers in Coroplastic Studies 1, 2014. ISBN: 978-0-9915533-1-0. Download a pdf, view the e-book online. ContentsGeneral Bibliography, vi. Introduction: Stephanie M. Langin-Hooper, vii. The Coroplastics of Transjordan Forming Techniques and Iconographic Traditions in the Iron Age: P. Michèle Daviau, 1. Seeing Double: Viewing and Re-Viewing Judean Pillar Figurines Through Modern Eyes: Erin D. Darby, 13. Double Face, Multiple Meanings: The Hellenistic Pillar Figurines from Maresha: Adi Erlich, 27. The Mimesis of a World The Early and Middle Bronze Clay Figurines from Ebla-Tell Mardikh: Marco Ramazzotti, 39.", 
     "domain": "coroplasticstudies.univ-lille3.fr", 
     "editors": [], 
     "end_date": null, 
@@ -75,13 +75,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3326447041284709337", 
             "resource_date": "2014-03-18T16:40:07.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:17.009410"
+            "when": "2015-10-27T18:40:30.301168"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-monograph-series.html", 
             "resource_date": "2014-03-18T16:40:07.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:17.009427"
+            "when": "2015-10-27T18:40:30.301184"
         }, 
         {
             "fields": [
@@ -122,13 +122,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3326447041284709337", 
             "resource_date": "2014-03-18T16:40:07.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:17.012776"
+            "when": "2015-10-27T18:40:30.305011"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-monograph-series.html", 
             "resource_date": "2014-03-18T16:40:07.309-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:17.012789"
+            "when": "2015-10-27T18:40:30.305027"
         }, 
         {
             "fields": [
@@ -142,7 +142,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:17.020112"
+            "when": "2015-10-27T18:40:30.312986"
         }
     ], 
     "publishers": [], 

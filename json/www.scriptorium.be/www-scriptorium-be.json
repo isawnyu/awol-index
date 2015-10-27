@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3919155224077560853", 
             "resource_date": "2012-05-07T11:17:32.589-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.603632"
+            "when": "2015-10-27T18:41:13.059683"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/scriptorium-online.html", 
             "resource_date": "2012-05-07T11:17:32.589-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.603648"
+            "when": "2015-10-27T18:41:13.059700"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3919155224077560853", 
             "resource_date": "2012-05-07T11:17:32.589-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.605360"
+            "when": "2015-10-27T18:41:13.061354"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/scriptorium-online.html", 
             "resource_date": "2012-05-07T11:17:32.589-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.605373"
+            "when": "2015-10-27T18:41:13.061368"
         }, 
         {
             "fields": [
@@ -125,7 +125,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:51.635857"
+            "when": "2015-10-27T18:41:13.093500"
         }
     ], 
     "publishers": [], 
@@ -163,27 +163,27 @@
             "url": "http://www.scriptorium.be/en/bulletin.htm"
         }, 
         {
-            "title_full": "a cumulative index of the manuscripts dealt with in Scriptorium and in the Bulletin Codicologique (1946-2008) . Click here to search for a manuscript For more information \u25ba Need help \u25ba", 
+            "title_full": "a cumulative index of the manuscripts dealt with in Scriptorium and in the Bulletin Codicologique (1946-2008) . Click here to search for a manuscript For more information ► Need help ►", 
             "url": "http://www.scriptorium.be/en/chercher_manuscrit.htm"
         }, 
         {
-            "title_full": "a catalographic index of the works and articles reviewed by the Bulletin Codicologique (2000-2008) . Click here to search for a review For more information \u25ba Need help \u25ba", 
+            "title_full": "a catalographic index of the works and articles reviewed by the Bulletin Codicologique (2000-2008) . Click here to search for a review For more information ► Need help ►", 
             "url": "http://www.scriptorium.be/en/chercher_notice.htm"
         }, 
         {
-            "title_full": "a general summary of the tables of contents published in Scriptorium (1946-2008). Click here to search for a summary For more information \u25ba", 
+            "title_full": "a general summary of the tables of contents published in Scriptorium (1946-2008). Click here to search for a summary For more information ►", 
             "url": "http://www.scriptorium.be/en/articles.htm"
         }, 
         {
-            "title_full": "a list of the archival institutions listed in Scriptorium and the Bulletin Codicologique (1946-2008). Click here to search for an archival institution. For more information \u25ba", 
+            "title_full": "a list of the archival institutions listed in Scriptorium and the Bulletin Codicologique (1946-2008). Click here to search for an archival institution. For more information ►", 
             "url": "http://www.scriptorium.be/en/Organismesonline.htm"
         }, 
         {
-            "title_full": "an alphabetical table of the reviewers and their contribution(s) to the Bulletin Codicologique (1990-2008). Click here to find a reviewer and his/her contributions For more information \u25ba", 
+            "title_full": "an alphabetical table of the reviewers and their contribution(s) to the Bulletin Codicologique (1990-2008). Click here to find a reviewer and his/her contributions For more information ►", 
             "url": "http://www.scriptorium.be/en/listerecenseurs.htm"
         }, 
         {
-            "title_full": "a general address book of links. Click here to search for a website For more information \u25ba", 
+            "title_full": "a general address book of links. Click here to search for a website For more information ►", 
             "url": "http://www.scriptorium.be/en/liens.htm"
         }
     ], 

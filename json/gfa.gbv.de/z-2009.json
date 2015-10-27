@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "G\u00f6ttinger Forum f\u00fcr Altertumswissenschaft", 
+        "title_full": "Göttinger Forum für Altertumswissenschaft", 
         "url": "http://gfa.gbv.de/z/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2692002173105284817", 
             "resource_date": "2013-12-22T08:41:03.446-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:46.172389"
+            "when": "2015-10-27T18:38:54.534289"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-gottinger-forum-fur.html", 
             "resource_date": "2013-12-22T08:41:03.446-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:46.172401"
+            "when": "2015-10-27T18:38:54.534301"
         }
     ], 
     "publishers": [], 

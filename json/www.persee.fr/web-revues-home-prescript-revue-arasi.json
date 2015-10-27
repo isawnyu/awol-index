@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 9 June 2010, updated 4 November 2013]. Arts Asiatiques. eISSN - 2111-4552. Arts asiatiques a repris la t\u00e2che qu'avait assum\u00e9e la Revue des Arts asiatiques, fond\u00e9e en 1924. Apr\u00e8s une interruption due \u00e0 la deuxi\u00e8me guerre mondiale, cette revue a repris, sous l'\u00e9gide des Mus\u00e9es Guimet et Cernuschi, son r\u00f4le d'information. Arts asiatiques fait para\u00eetre chaque ann\u00e9e, sans p\u00e9riodicit\u00e9, des recueils d'articles de fond, largement illustr\u00e9s, sur des questions d'arch\u00e9ologie et d'art de l'Asie, ainsi qu'une chronique et des comptes rendus. (1962 -2006). 55 Issues. 990 Articles.", 
+    "description": "[First posted in AWOL 9 June 2010, updated 4 November 2013]. Arts Asiatiques. eISSN - 2111-4552. Arts asiatiques a repris la tâche qu'avait assumée la Revue des Arts asiatiques, fondée en 1924. Après une interruption due à la deuxième guerre mondiale, cette revue a repris, sous l'égide des Musées Guimet et Cernuschi, son rôle d'information. Arts asiatiques fait paraître chaque année, sans périodicité, des recueils d'articles de fond, largement illustrés, sur des questions d'archéologie et d'art de l'Asie, ainsi qu'une chronique et des comptes rendus. (1962 -2006). 55 Issues. 990 Articles.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.655556"
+            "when": "2015-10-27T18:38:36.940236"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.655574"
+            "when": "2015-10-27T18:38:36.940247"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8263100182466995754", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.127751"
+            "when": "2015-10-27T18:47:07.148065"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-arts-asiatiques.html", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.127769"
+            "when": "2015-10-27T18:47:07.148080"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:19.133532"
+            "when": "2015-10-27T18:47:07.154056"
         }, 
         {
             "fields": [
@@ -178,13 +178,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8263100182466995754", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.132656"
+            "when": "2015-10-27T18:47:07.152915"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-arts-asiatiques.html", 
             "resource_date": "2013-11-04T20:58:26.783-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.132669"
+            "when": "2015-10-27T18:47:07.152929"
         }, 
         {
             "fields": [
@@ -198,7 +198,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:19.137459"
+            "when": "2015-10-27T18:47:07.156045"
         }
     ], 
     "publishers": [], 

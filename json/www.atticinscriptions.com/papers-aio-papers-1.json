@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "This paper accompanies the publication on AIO of the inscriptions of the Marathonian Tetrapolis and is designed primarily to clarify the texts on which the translations are based. It reviews scholarship on the Tetrapolis\u2019 sacrificial calendar (iv BC), published since my new edition, ZPE 130 (2000), 43-70, and makes some fresh observations. It also reviews the other inscriptions attributable to the Tetrapolis, IG I3 255, IG II2 2933, IG II2 1243, and an unpublished inscription.", 
+    "description": "This paper accompanies the publication on AIO of the inscriptions of the Marathonian Tetrapolis and is designed primarily to clarify the texts on which the translations are based. It reviews scholarship on the Tetrapolis’ sacrificial calendar (iv BC), published since my new edition, ZPE 130 (2000), 43-70, and makes some fresh observations. It also reviews the other inscriptions attributable to the Tetrapolis, IG I3 255, IG II2 2933, IG II2 1243, and an unpublished inscription.", 
     "domain": "www.atticinscriptions.com", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-934002696573066902", 
             "resource_date": "2015-05-04T09:41:47.383-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:25.534165"
+            "when": "2015-10-27T18:49:24.542738"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-serial-aio-papers-attic.html", 
             "resource_date": "2015-05-04T09:41:47.383-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:25.534177"
+            "when": "2015-10-27T18:49:24.542754"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-934002696573066902", 
             "resource_date": "2015-05-04T09:41:47.383-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:25.547857"
+            "when": "2015-10-27T18:49:24.563209"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/new-open-access-serial-aio-papers-attic.html", 
             "resource_date": "2015-05-04T09:41:47.383-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:25.547872"
+            "when": "2015-10-27T18:49:24.563235"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:17:25.557386"
+            "when": "2015-10-27T18:49:24.581495"
         }
     ], 
     "publishers": [], 

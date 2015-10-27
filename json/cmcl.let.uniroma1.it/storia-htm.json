@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Acad\u00e9mique Internationale (1987-2004). L'impresa del Corpus dei Manoscritti Copti Letterari \u00e8 nata nel 1970 con fini essenzialmente limitati alla ricostituzione dei codici copti provenienti dalla biblioteca del Monastero Bianco, smembrati e dispersi nelle raccolte d'Egitto, Europa ed America; oltre che alle ricerche sulle opere in essi conservate. Nel corso delle ricerche bibliografiche e codicologiche il raggio di interesse e d'azione si \u00e8 ampliato, fino a comprendere tutta la letteratura copta ed i manoscritti che la tramandano, risalenti ad un periodo compreso fra il IV ed il XII sec. Sono stati perci\u00f2 costituiti archivi di notizie e di fotografie di manoscritti che per la loro ampiezza e la loro unicit\u00e0 sono stati giudicati di interesse e di utilit\u00e0 internazionali. L'impresa ha potuto giovarsi via via della collaborazione (a diverso ti tolo e per motivi scientifici o pratici) dei seguenti organismi: Istituto di Papirologia dell'Universit\u00e0 degli Studi di Milano; Istituto di Studi del Vicino Oriente dell'Universit\u00e0 degli Studi di Roma; Centro di Studi per la Civilt\u00e0 Fenicia e Punica del Consiglio Nazionale delle Ricerche; Istituto per l'Oriente, Roma; Dipartimento di Studi Storico-religiosi dell'Universit\u00e0 di Roma La Sapienza; Istituto Patristico \"Augustinianum\" della Pontificia Universit\u00e0 Lateranense; biblioteca del Pontificio Istituto Biblico, Roma.", 
+    "description": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Académique Internationale (1987-2004). L'impresa del Corpus dei Manoscritti Copti Letterari è nata nel 1970 con fini essenzialmente limitati alla ricostituzione dei codici copti provenienti dalla biblioteca del Monastero Bianco, smembrati e dispersi nelle raccolte d'Egitto, Europa ed America; oltre che alle ricerche sulle opere in essi conservate. Nel corso delle ricerche bibliografiche e codicologiche il raggio di interesse e d'azione si è ampliato, fino a comprendere tutta la letteratura copta ed i manoscritti che la tramandano, risalenti ad un periodo compreso fra il IV ed il XII sec. Sono stati perciò costituiti archivi di notizie e di fotografie di manoscritti che per la loro ampiezza e la loro unicità sono stati giudicati di interesse e di utilità internazionali. L'impresa ha potuto giovarsi via via della collaborazione (a diverso ti tolo e per motivi scientifici o pratici) dei seguenti organismi: Istituto di Papirologia dell'Università degli Studi di Milano; Istituto di Studi del Vicino Oriente dell'Università degli Studi di Roma; Centro di Studi per la Civiltà Fenicia e Punica del Consiglio Nazionale delle Ricerche; Istituto per l'Oriente, Roma; Dipartimento di Studi Storico-religiosi dell'Università di Roma La Sapienza; Istituto Patristico \"Augustinianum\" della Pontificia Università Lateranense; biblioteca del Pontificio Istituto Biblico, Roma.", 
     "domain": "cmcl.let.uniroma1.it", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8998887945229122883", 
             "resource_date": "2013-06-23T10:43:55.204-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:12.995065"
+            "when": "2015-10-27T18:49:10.768941"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-corpus-dei.html", 
             "resource_date": "2013-06-23T10:43:55.204-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:12.995088"
+            "when": "2015-10-27T18:49:10.768955"
         }
     ], 
     "publishers": [], 
@@ -88,7 +88,7 @@
             "url": "http://cmcl.let.uniroma1.it/rassegna/rela00-04.pdf"
         }
     ], 
-    "title": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Acad\u00e9mique Internationale", 
+    "title": "Corpus dei Manoscritti Copti Letterari: Rapporti all'Union Académique Internationale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Allgemeine und vergleichende Sprach- und Literaturwissenschaft. Indogermanistik. Au\u00dfereurop\u00e4ische Sprachen und Literaturen.", 
+    "description": "Allgemeine und vergleichende Sprach- und Literaturwissenschaft. Indogermanistik. Außereuropäische Sprachen und Literaturen.", 
     "domain": "digi20.digitale-sammlungen.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7174327576362514977", 
             "resource_date": "2013-11-27T08:46:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.666202"
+            "when": "2015-10-27T18:45:30.879257"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/06/open-access-collections-digi20.html", 
             "resource_date": "2013-11-27T08:46:44.482-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.666219"
+            "when": "2015-10-27T18:45:30.879268"
         }
     ], 
     "publishers": [], 

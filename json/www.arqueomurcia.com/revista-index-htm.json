@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Revista ArqueoMurcia: La revista electr\u00f3nica de Arqueolog\u00eda en la Regi\u00f3n de Murcia. ISSN 1696-974X.", 
+    "description": "Revista ArqueoMurcia: La revista electrónica de Arqueología en la Región de Murcia. ISSN 1696-974X.", 
     "domain": "www.arqueomurcia.com", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7046349016109577802", 
             "resource_date": "2010-06-01T09:47:09.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.181927"
+            "when": "2015-10-27T18:45:21.573192"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revista.html", 
             "resource_date": "2010-06-01T09:47:09.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.181945"
+            "when": "2015-10-27T18:45:21.573207"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7046349016109577802", 
             "resource_date": "2010-06-01T09:47:09.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:40.185258"
+            "when": "2015-10-27T18:45:21.576610"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/open-access-journal-revista.html", 
             "resource_date": "2010-06-01T09:47:09.553-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:40.185273"
+            "when": "2015-10-27T18:45:21.576623"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:40.186941"
+            "when": "2015-10-27T18:45:21.578542"
         }
     ], 
     "publishers": [], 

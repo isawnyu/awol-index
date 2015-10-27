@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2575530084192209255", 
             "resource_date": "2010-11-04T13:22:08.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.550331"
+            "when": "2015-10-27T18:38:49.727614"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/sbl-2010-session-e-publish-or-perish.html", 
             "resource_date": "2010-11-04T13:22:08.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.550348"
+            "when": "2015-10-27T18:38:49.727630"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2575530084192209255", 
             "resource_date": "2010-11-04T13:22:08.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:41.553577"
+            "when": "2015-10-27T18:38:49.729922"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/sbl-2010-session-e-publish-or-perish.html", 
             "resource_date": "2010-11-04T13:22:08.598-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:41.553605"
+            "when": "2015-10-27T18:38:49.729937"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:41.555841"
+            "when": "2015-10-27T18:38:49.731819"
         }
     ], 
     "publishers": [], 

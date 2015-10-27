@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "NUOVO Dario Annunziata \u2022.", 
+    "description": "NUOVO Dario Annunziata •.", 
     "domain": "www.ledonline.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5519294264223474694", 
             "resource_date": "2014-11-23T11:24:45.244-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.564006"
+            "when": "2015-10-27T18:43:36.612312"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-rivista-di-diritto.html", 
             "resource_date": "2014-11-23T11:24:45.244-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.564018"
+            "when": "2015-10-27T18:43:36.612323"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Sui rapporti tra matrimonio e \u00abdeportatio\u00bb in et\u00e0 imperiale", 
+    "title": "Sui rapporti tra matrimonio e «deportatio» in età imperiale", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

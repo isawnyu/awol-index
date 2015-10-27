@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "8-9 ottobre 2012, Odeion - Facolt\u00e0 di Lettere, Sapienza Universit\u00e0 di Roma. a cura di Alessandro Catastini.", 
+    "description": "8-9 ottobre 2012, Odeion - Facoltà di Lettere, Sapienza Università di Roma. a cura di Alessandro Catastini.", 
     "domain": "www.lasapienzatojericho.it", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3917693210284680212", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:51.572549"
+            "when": "2015-10-27T18:41:13.029647"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/02/quaderni-di-vicino-oriente-vi-2013-la.html", 
             "resource_date": "2014-02-14T15:14:25.222-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:51.572567"
+            "when": "2015-10-27T18:41:13.029663"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "ATTI DEL CONVEGNO \"LA PERCEZIONE DELL\u2019EBRAISMO IN ALTRE CULTURE E NELLE ARTI\"", 
+    "title": "ATTI DEL CONVEGNO \"LA PERCEZIONE DELL’EBRAISMO IN ALTRE CULTURE E NELLE ARTI\"", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

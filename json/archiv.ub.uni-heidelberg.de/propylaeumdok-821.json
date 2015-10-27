@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Wenning, Robert and H\u00fcbner, Ulrich and Knauf, E. A. (Hrsgg. ): Nach Petra und ins K\u00f6nigreich der Nabat\u00e4er. Notizen von Reisegef\u00e4hrten. F\u00fcr Manfred Lindner zum 80. Geburtstag. Bodenheim 1998, pp. 71-91. Wenning, Robert and Merklein, Helmut (2001).", 
+    "description": "In: Wenning, Robert and Hübner, Ulrich and Knauf, E. A. (Hrsgg. ): Nach Petra und ins Königreich der Nabatäer. Notizen von Reisegefährten. Für Manfred Lindner zum 80. Geburtstag. Bodenheim 1998, pp. 71-91. Wenning, Robert and Merklein, Helmut (2001).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:41.085919"
+            "when": "2015-10-27T18:46:26.893595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:41.085934"
+            "when": "2015-10-27T18:46:26.893612"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ein neuentdeckter Augenbetyl in der hremiye-Schlucht nebst einer \u00dcbersicht \u00fcber die bekannten nabat\u00e4ischen Augenbetyle", 
+    "title": "Ein neuentdeckter Augenbetyl in der hremiye-Schlucht nebst einer Übersicht über die bekannten nabatäischen Augenbetyle", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

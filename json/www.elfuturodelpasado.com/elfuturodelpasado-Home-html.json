@@ -68,13 +68,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2318212968807830193", 
             "resource_date": "2013-06-04T10:52:03.532-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.231646"
+            "when": "2015-10-27T18:38:39.213385"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/new-open-access-journal-el-futuro-del.html", 
             "resource_date": "2013-06-04T10:52:03.532-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.231663"
+            "when": "2015-10-27T18:38:39.213401"
         }
     ], 
     "publishers": [], 
@@ -84,17 +84,17 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "El futuro del pasado. Revista electr\u00f3nica de Historia .N\u00fam. 1. A\u00f1o 2010", 
+            "title_full": "El futuro del pasado. Revista electrónica de Historia .Núm. 1. Año 2010", 
             "url": "http://www.elfuturodelpasado.com/elfuturodelpasado/eFdP_1.html"
         }, 
         {
-            "title_full": "El futuro del pasado. Revista electr\u00f3nica de Historia .N\u00fam. 2. A\u00f1o 2011", 
+            "title_full": "El futuro del pasado. Revista electrónica de Historia .Núm. 2. Año 2011", 
             "url": "http://www.elfuturodelpasado.com/elfuturodelpasado/Ultima_entrega.html"
         }
     ], 
     "title": "El Futuro del Pasado", 
     "title_alternates": [], 
-    "title_extended": "El Futuro del Pasado. Revista electr\u00f3nica de Historia", 
+    "title_extended": "El Futuro del Pasado. Revista electrónica de Historia", 
     "type": null, 
     "url": "http://www.elfuturodelpasado.com/elfuturodelpasado/Home.html", 
     "url_alternates": [], 

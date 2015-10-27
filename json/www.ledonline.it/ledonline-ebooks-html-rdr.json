@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Collana della Rivista di Diritto Romano. TESTIBASILICORUM LIBRI LX. Ristampa digitale dell'edizione di K. W. E. Heimbach (Lipsia 1833). A cura di Michele Fino e Massimo Miglietta. In corso di pubblicazione on line. Disponibile anche in versione a stampa in allegato a \u00abRivista di diritto romano\u00bb. RACCOLTEATTI DEL CONVEGNO \u00abPROCESSO CIVILE E PROCESSO PENALE NELL\u2019ESPERIENZA GIURIDICA DEL MONDO ANTICO\u00bb. In memoria di Arnaldo Biscardi - Siena, Certosa di Pontignano, 13-15 dicembre 2001. SCRITTI GIURIDICI DI GIUSEPPE PROVERA In corso di pubblicazione SAGGIPierfrancesco Arces. STUDI SUL DISPORRE MORTIS CAUSA. Dall\u2019et\u00e0 decemvirale al diritto classico. Lucia Di Cintio. L\u2019\u00abINTERPRETATIO VISIGOTHORUM\u00bb AL \u00abCODEX THEODOSIANUS\u00bb. Il libro IX. Gianluca Mainino. STUDI SUL CAPUT XXI DELLA LEX RUBRIA DE GALLIA CISALPINA Paola Ombretta Cuneo. ANONYMI GRAECI ORATIO FUNEBRIS IN CONSTANTINUM II. Lauretta Maganzani. LA \u00abDILIGENTIA QUAM SUIS\u00bb DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella prospettiva storico-comparatistica. Filippo Gallo. L\u2019INTERPRETAZIONE DEL DIRITTO E\u2019 \"AFFABULAZIONE\"?. Emanuele Stolfi. STUDI SUI \u00abLIBRI AD EDICTUM\u00bb DI POMPONIO. II. Contesti e pensiero. See also And see AWOL's list of.", 
+    "description": "Collana della Rivista di Diritto Romano. TESTIBASILICORUM LIBRI LX. Ristampa digitale dell'edizione di K. W. E. Heimbach (Lipsia 1833). A cura di Michele Fino e Massimo Miglietta. In corso di pubblicazione on line. Disponibile anche in versione a stampa in allegato a «Rivista di diritto romano». RACCOLTEATTI DEL CONVEGNO «PROCESSO CIVILE E PROCESSO PENALE NELL’ESPERIENZA GIURIDICA DEL MONDO ANTICO». In memoria di Arnaldo Biscardi - Siena, Certosa di Pontignano, 13-15 dicembre 2001. SCRITTI GIURIDICI DI GIUSEPPE PROVERA In corso di pubblicazione SAGGIPierfrancesco Arces. STUDI SUL DISPORRE MORTIS CAUSA. Dall’età decemvirale al diritto classico. Lucia Di Cintio. L’«INTERPRETATIO VISIGOTHORUM» AL «CODEX THEODOSIANUS». Il libro IX. Gianluca Mainino. STUDI SUL CAPUT XXI DELLA LEX RUBRIA DE GALLIA CISALPINA Paola Ombretta Cuneo. ANONYMI GRAECI ORATIO FUNEBRIS IN CONSTANTINUM II. Lauretta Maganzani. LA «DILIGENTIA QUAM SUIS» DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella prospettiva storico-comparatistica. Filippo Gallo. L’INTERPRETAZIONE DEL DIRITTO E’ \"AFFABULAZIONE\"?. Emanuele Stolfi. STUDI SUI «LIBRI AD EDICTUM» DI POMPONIO. II. Contesti e pensiero. See also And see AWOL's list of.", 
     "domain": "www.ledonline.it", 
     "editors": [], 
     "end_date": null, 
@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-309168326397231219", 
             "resource_date": "2015-04-07T10:44:11.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:05.776429"
+            "when": "2015-10-27T18:39:14.682919"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/monographs-collana-della-rivista-di.html", 
             "resource_date": "2015-04-07T10:44:11.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:05.776446"
+            "when": "2015-10-27T18:39:14.682934"
         }, 
         {
             "fields": [
@@ -117,13 +117,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-309168326397231219", 
             "resource_date": "2015-04-07T10:44:11.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:05.778854"
+            "when": "2015-10-27T18:39:14.684988"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/09/monographs-collana-della-rivista-di.html", 
             "resource_date": "2015-04-07T10:44:11.651-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:05.778872"
+            "when": "2015-10-27T18:39:14.685002"
         }, 
         {
             "fields": [
@@ -137,7 +137,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:05.805729"
+            "when": "2015-10-27T18:39:14.708394"
         }
     ], 
     "publishers": [], 
@@ -155,7 +155,7 @@
             "url": "http://www.ledonline.it/rivistadirittoromano/basilici.html"
         }, 
         {
-            "title_full": "ATTI DEL CONVEGNO \u00abPROCESSO CIVILE E PROCESSO PENALE NELL\u2019ESPERIENZA GIURIDICA DEL MONDO ANTICO\u00bb. In memoria di Arnaldo Biscardi - Siena, Certosa di Pontignano, 13-15 dicembre 2001", 
+            "title_full": "ATTI DEL CONVEGNO «PROCESSO CIVILE E PROCESSO PENALE NELL’ESPERIENZA GIURIDICA DEL MONDO ANTICO». In memoria di Arnaldo Biscardi - Siena, Certosa di Pontignano, 13-15 dicembre 2001", 
             "url": "http://www.ledonline.it/rivistadirittoromano/attipontignano.html"
         }, 
         {
@@ -163,11 +163,11 @@
             "url": "http://www.ledonline.it/rivistadirittoromano/scrittiprovera.html"
         }, 
         {
-            "title_full": "STUDI SUL DISPORRE MORTIS CAUSA. Dall\u2019et\u00e0 decemvirale al diritto classico", 
+            "title_full": "STUDI SUL DISPORRE MORTIS CAUSA. Dall’età decemvirale al diritto classico", 
             "url": "http://www.ledonline.it/rivistadirittoromano/arces-studi.html"
         }, 
         {
-            "title_full": "L\u2019\u00abINTERPRETATIO VISIGOTHORUM\u00bb AL \u00abCODEX THEODOSIANUS\u00bb. Il libro IX", 
+            "title_full": "L’«INTERPRETATIO VISIGOTHORUM» AL «CODEX THEODOSIANUS». Il libro IX", 
             "url": "http://www.ledonline.it/rivistadirittoromano/dicintio-interpretatio.html"
         }, 
         {
@@ -179,15 +179,15 @@
             "url": "http://www.ledonline.it/rivistadirittoromano/cuneo-anonymi.html"
         }, 
         {
-            "title_full": "LA \u00abDILIGENTIA QUAM SUIS\u00bb DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella prospettiva storico-comparatistica", 
+            "title_full": "LA «DILIGENTIA QUAM SUIS» DEL DEPOSITARIO DAL DIRITTO ROMANO ALLE CODIFICAZIONI NAZIONALI. Casi e questioni di diritto civile nella prospettiva storico-comparatistica", 
             "url": "http://www.ledonline.it/rivistadirittoromano/maganzanidiligentia.html"
         }, 
         {
-            "title_full": "L\u2019INTERPRETAZIONE DEL DIRITTO E\u2019 \"AFFABULAZIONE\"?", 
+            "title_full": "L’INTERPRETAZIONE DEL DIRITTO E’ \"AFFABULAZIONE\"?", 
             "url": "http://www.ledonline.it/rivistadirittoromano/gallointerpretazione.html"
         }, 
         {
-            "title_full": "STUDI SUI \u00abLIBRI AD EDICTUM\u00bb DI POMPONIO. II. Contesti e pensiero", 
+            "title_full": "STUDI SUI «LIBRI AD EDICTUM» DI POMPONIO. II. Contesti e pensiero", 
             "url": "http://www.ledonline.it/rivistadirittoromano/stolfi.html"
         }
     ], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AncientPlanet. Welcome to the AncientPlanet, a bi-monthly online journal featuring original research papers on history, archaeology and science. The purpose of this publication is twofold. In the first instance, it is intended to provide a platform for both professional academics and students to present their research to the wider public. As such, we welcome contributions from individuals from all walks of life, whether undergraduates, postgraduates, academics, museum staff. and also from the general public. Second to this, but equally as important, it is hoped that this journal will promote a greater understanding of this ancient planet we call home. As someone, somewhere once said: \"Never forget the importance of history. To know nothing of what happened before you took your place on Earth is to remain a child forever and ever. \". We at AncientPlanet are dedicated to this axiom. to preserve and foster a greater understanding of our planet\u2019s past, to protect and preserve our planet\u2019s future.", 
+    "description": "AncientPlanet. Welcome to the AncientPlanet, a bi-monthly online journal featuring original research papers on history, archaeology and science. The purpose of this publication is twofold. In the first instance, it is intended to provide a platform for both professional academics and students to present their research to the wider public. As such, we welcome contributions from individuals from all walks of life, whether undergraduates, postgraduates, academics, museum staff. and also from the general public. Second to this, but equally as important, it is hoped that this journal will promote a greater understanding of this ancient planet we call home. As someone, somewhere once said: \"Never forget the importance of history. To know nothing of what happened before you took your place on Earth is to remain a child forever and ever. \". We at AncientPlanet are dedicated to this axiom. to preserve and foster a greater understanding of our planet’s past, to protect and preserve our planet’s future.", 
     "domain": "ancientplanet.blogspot.com", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1091523939067634146", 
             "resource_date": "2013-03-28T20:42:29.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:07.396504"
+            "when": "2015-10-27T18:37:08.192270"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/05/open-access-journal-ancientplanet.html", 
             "resource_date": "2013-03-28T20:42:29.680-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:07.396524"
+            "when": "2015-10-27T18:37:08.192285"
         }
     ], 
     "publishers": [], 

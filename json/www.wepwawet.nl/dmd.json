@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Deir el-Medina Database. Deir el-Medina is the modern name of an ancient Egyptian village situated on the west bank of the Nile opposite Luxor, the site of ancient Thebes. The village was inhabited by workmen who were responsible for the construction and decoration of the royal tombs from the New Kingdom. The exploration of Deir el-Medina has yielded a huge quantity of artefacts and texts written on ostraca or papyri, which offer a unique view into the daily life of an ancient Egyptian community. The Deir el-Medina Database is meant to be an intermediate presentation of the ongoing research project A Survey of the New Kingdom Non-literary Texts from Deir el-Medina of Leiden University. The database is a search tool enabling the user to retrieve the documents relevant to his/her research activities from the corpus of non-literary texts from Deir el-Medina. Introduction Guide to the Deir el-Medina Database Search the Deir el-Medina Database Index to the Deir el-Medina Database A Systematic Bibliography on Deir el-Med\u00eena Index of referencesto papyri, ostraca and graffiti as quoted in the notes (ref. to page number and note number) in J. \u010cern\u00fd: A Community of Workmen at Thebes in the Ramesside Period.", 
+    "description": "Deir el-Medina Database. Deir el-Medina is the modern name of an ancient Egyptian village situated on the west bank of the Nile opposite Luxor, the site of ancient Thebes. The village was inhabited by workmen who were responsible for the construction and decoration of the royal tombs from the New Kingdom. The exploration of Deir el-Medina has yielded a huge quantity of artefacts and texts written on ostraca or papyri, which offer a unique view into the daily life of an ancient Egyptian community. The Deir el-Medina Database is meant to be an intermediate presentation of the ongoing research project A Survey of the New Kingdom Non-literary Texts from Deir el-Medina of Leiden University. The database is a search tool enabling the user to retrieve the documents relevant to his/her research activities from the corpus of non-literary texts from Deir el-Medina. Introduction Guide to the Deir el-Medina Database Search the Deir el-Medina Database Index to the Deir el-Medina Database A Systematic Bibliography on Deir el-Medîna Index of referencesto papyri, ostraca and graffiti as quoted in the notes (ref. to page number and note number) in J. Černý: A Community of Workmen at Thebes in the Ramesside Period.", 
     "domain": "www.wepwawet.nl", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1075889442157857139", 
             "resource_date": "2014-01-31T09:45:25.756-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:04.635202"
+            "when": "2015-10-27T18:37:05.241471"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html", 
             "resource_date": "2014-01-31T09:45:25.756-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:04.635218"
+            "when": "2015-10-27T18:37:05.241488"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1075889442157857139", 
             "resource_date": "2014-01-31T09:45:25.756-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:04.639104"
+            "when": "2015-10-27T18:37:05.247974"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/deir-el-medina-database_2.html", 
             "resource_date": "2014-01-31T09:45:25.756-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:04.639116"
+            "when": "2015-10-27T18:37:05.247996"
         }, 
         {
             "fields": [
@@ -135,7 +135,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:04.654596"
+            "when": "2015-10-27T18:37:05.266402"
         }
     ], 
     "publishers": [], 
@@ -165,11 +165,11 @@
             "url": "http://www.wepwawet.nl/dmd/totalindex.htm"
         }, 
         {
-            "title_full": "A Systematic Bibliography on Deir el-Med\u00eena", 
+            "title_full": "A Systematic Bibliography on Deir el-Medîna", 
             "url": "http://www.wepwawet.nl/dmd/bibliography.htm"
         }, 
         {
-            "title_full": "Index of referencesto papyri, ostraca and graffiti as quoted in the notes (ref. to page number and note number) in J. \u010cern\u00fd: A Community of Workmen at Thebes in the Ramesside Period", 
+            "title_full": "Index of referencesto papyri, ostraca and graffiti as quoted in the notes (ref. to page number and note number) in J. Černý: A Community of Workmen at Thebes in the Ramesside Period", 
             "url": "http://www.wepwawet.nl/dmd/cerny.htm"
         }
     ], 

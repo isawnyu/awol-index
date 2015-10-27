@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Atlas arch\u00e9ologique de la Tunisie. Babelon, Ernest. Atlas arch\u00e9ologique de la Tunisie: \u00e9dition sp\u00e9ciale des cartes topographiques publi\u00e9es par le Minist\u00e8re de la Guerre. accompagn\u00e9e d'un texte explicatif r\u00e9dig\u00e9 par Mm. E. Babelon, R. Cagnat, S. Reinach. [Texte] /. Paris 1893.", 
+    "description": "Atlas archéologique de la Tunisie. Babelon, Ernest. Atlas archéologique de la Tunisie: édition spéciale des cartes topographiques publiées par le Ministère de la Guerre. accompagnée d'un texte explicatif rédigé par Mm. E. Babelon, R. Cagnat, S. Reinach. [Texte] /. Paris 1893.", 
     "domain": "arachne.uni-koeln.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Atlas arch\u00e9ologique de la Tunisie", 
+        "title_full": "Atlas archéologique de la Tunisie", 
         "url": "http://arachne.uni-koeln.de/books/Babelon1893Text"
     }, 
     "issuance": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155543080251842735", 
             "resource_date": "2012-07-16T11:33:23.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:47.147780"
+            "when": "2015-10-27T18:44:22.647051"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-la-tunisie.html", 
             "resource_date": "2012-07-16T11:33:23.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:47.147799"
+            "when": "2015-10-27T18:44:22.647075"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6155543080251842735", 
             "resource_date": "2012-07-16T11:33:23.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:47.150604"
+            "when": "2015-10-27T18:44:22.651926"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/online-atlas-archeologique-de-la-tunisie.html", 
             "resource_date": "2012-07-16T11:33:23.512-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:47.150615"
+            "when": "2015-10-27T18:44:22.651942"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:47.151992"
+            "when": "2015-10-27T18:44:22.654883"
         }
     ], 
     "publishers": [], 
@@ -143,11 +143,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Atlas arch\u00e9ologique de la Tunisie", 
+            "title_full": "Atlas archéologique de la Tunisie", 
             "url": "http://arachne.uni-koeln.de/books/Babelon1893Text"
         }
     ], 
-    "title": "Atlas arch\u00e9ologique de la Tunisie", 
+    "title": "Atlas archéologique de la Tunisie", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

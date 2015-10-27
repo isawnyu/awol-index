@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "ArcheoRivista \u00e8 uno dei canali tematici del portale Antika. it, dedicato alla conoscenza e alla divulgazione del mondo antico. ArcheoRivista \u00e8 una testata giornalistica iscritta al Registro Stampa del Tribunale e opera grazie a una vera redazione composta da un direttore responsabile, uno staff di autori, prevalentemente archeologi e storici dell'arte, e con una rete di corrispondenti dal territorio; si avvale anche dell'esperienza e della professionalit\u00e0 di fotografi specializzati nel settore. Il progetto \u00e8 totalmente autofinanziato e ha carattere non profit e senza fini di lucro. Scopo del nostro lavoro \u00e8 quindi quello di divulgare la conoscenza del passato e del mondo antico, con particolare riferimento al periodo che va dalle origni dell'uomo sino al medioevo.", 
+    "description": "ArcheoRivista è uno dei canali tematici del portale Antika. it, dedicato alla conoscenza e alla divulgazione del mondo antico. ArcheoRivista è una testata giornalistica iscritta al Registro Stampa del Tribunale e opera grazie a una vera redazione composta da un direttore responsabile, uno staff di autori, prevalentemente archeologi e storici dell'arte, e con una rete di corrispondenti dal territorio; si avvale anche dell'esperienza e della professionalità di fotografi specializzati nel settore. Il progetto è totalmente autofinanziato e ha carattere non profit e senza fini di lucro. Scopo del nostro lavoro è quindi quello di divulgare la conoscenza del passato e del mondo antico, con particolare riferimento al periodo che va dalle origni dell'uomo sino al medioevo.", 
     "domain": "www.archeorivista.it", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7322038354726437653", 
             "resource_date": "2011-08-12T11:35:50.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:56.840944"
+            "when": "2015-10-27T18:45:39.742092"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-archeorivista.html", 
             "resource_date": "2011-08-12T11:35:50.422-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:56.840956"
+            "when": "2015-10-27T18:45:39.742105"
         }
     ], 
     "publishers": [], 

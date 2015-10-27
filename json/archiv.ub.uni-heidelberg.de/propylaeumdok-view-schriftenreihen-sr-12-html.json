@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3032918877875857459", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.623943"
+            "when": "2015-10-27T18:39:10.225299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/the-ancient-egyptian-necropolis-of.html", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.623959"
+            "when": "2015-10-27T18:39:10.225315"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3032918877875857459", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:01.626101"
+            "when": "2015-10-27T18:39:10.227629"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/the-ancient-egyptian-necropolis-of.html", 
             "resource_date": "2014-08-12T17:16:07.004-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:01.626114"
+            "when": "2015-10-27T18:39:10.227643"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:01.664792"
+            "when": "2015-10-27T18:39:10.270169"
         }
     ], 
     "publishers": [], 
@@ -160,7 +160,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/760/"
         }, 
         {
-            "title_full": "\"Dornr\u00f6schen\" Assiut: Erste Ergebnisse einer Deutsch-\u00c4gyptischen Grabungskooperation", 
+            "title_full": "\"Dornröschen\" Assiut: Erste Ergebnisse einer Deutsch-Ägyptischen Grabungskooperation", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/769/"
         }, 
         {
@@ -168,7 +168,7 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/762/"
         }, 
         {
-            "title_full": "Ein Zeugnis alt\u00e4gyptischer Schulausfl\u00fcge", 
+            "title_full": "Ein Zeugnis altägyptischer Schulausflüge", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/770/"
         }, 
         {
@@ -208,15 +208,15 @@
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/766/"
         }, 
         {
-            "title_full": "Von der \u201eLoyalistischen Lehre\" zur \u201eLehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
+            "title_full": "Von der „Loyalistischen Lehre\" zur „Lehre des Kairsu\". Eine neue Textquelle in Assiut und deren Auswirkungen", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1353/"
         }, 
         {
-            "title_full": "Die wie Kraniche balzen. M\u00e4nnerphantasien zur Zeit Amenhoteps III. in Assiut", 
+            "title_full": "Die wie Kraniche balzen. Männerphantasien zur Zeit Amenhoteps III. in Assiut", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/1015/"
         }, 
         {
-            "title_full": "Regionale Milieus und die Macht des Staates im Alten \u00c4gypten: Die Verg\u00f6ttlichung der Gaufursten von Assiut", 
+            "title_full": "Regionale Milieus und die Macht des Staates im Alten Ägypten: Die Vergöttlichung der Gaufursten von Assiut", 
             "url": "http://archiv.ub.uni-heidelberg.de/propylaeumdok/2144/"
         }
     ], 

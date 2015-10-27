@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: G\u00f6ttinger Miszellen, 211 (2006), pp. 67-70. Polz, Daniel (1990).", 
+    "description": "In: Göttinger Miszellen, 211 (2006), pp. 67-70. Polz, Daniel (1990).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:57.990789"
+            "when": "2015-10-27T18:40:09.595919"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:57.990805"
+            "when": "2015-10-27T18:40:09.595935"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "rdj + Pseudopartizip - eine m\u00f6gliche Konstruktion", 
+    "title": "rdj + Pseudopartizip - eine mögliche Konstruktion", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

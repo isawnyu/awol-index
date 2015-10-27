@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "L'Afrique explor\u00e9e et civilis\u00e9e", 
+        "title_full": "L'Afrique explorée et civilisée", 
         "url": "http://retro.seals.ch/digbib/vollist?UID=aec-001"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-905665605500052221", 
             "resource_date": "2011-05-27T12:59:12.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:17.284442"
+            "when": "2015-10-27T18:49:15.225329"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-lafrique-exploree.html", 
             "resource_date": "2011-05-27T12:59:12.126-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:17.284452"
+            "when": "2015-10-27T18:49:15.225347"
         }
     ], 
     "publishers": [], 

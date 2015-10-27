@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "O. Tugusheva: Corpus Vasorum Antiquorum Russia 2. Pushkin State Museum of Fine Arts, Moscow. South Italian Vases. Apulia, 1997. (Jani Oravisj\u00e4rvi).", 
+    "description": "O. Tugusheva: Corpus Vasorum Antiquorum Russia 2. Pushkin State Museum of Fine Arts, Moscow. South Italian Vases. Apulia, 1997. (Jani Oravisjärvi).", 
     "domain": "pro.tsv.fi", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3249042832054155165", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:07.925534"
+            "when": "2015-10-27T18:40:20.028837"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/partially-open-access-journal-arctos.html", 
             "resource_date": "2015-03-13T16:46:52.724-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:07.925546"
+            "when": "2015-10-27T18:40:20.028852"
         }
     ], 
     "publishers": [], 
@@ -79,7 +79,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "N. Sidorova: Corpus Vasorum Antiquorum Russia 1. Pushkin State Museum of Fine Arts, Moscow. Attic Black-Figured Vases, 1996. (Jani Oravisj\u00e4rvi)", 
+    "title": "N. Sidorova: Corpus Vasorum Antiquorum Russia 1. Pushkin State Museum of Fine Arts, Moscow. Attic Black-Figured Vases, 1996. (Jani Oravisjärvi)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

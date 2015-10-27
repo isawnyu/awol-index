@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Kopcke, G\u00fcnter and Tokumaru, I. (Hrsgg. ): Greece between East and West: 10th-8th Centuries B. C. 1992, pp. 93-102.", 
+    "description": "In: Kopcke, Günter and Tokumaru, I. (Hrsgg. ): Greece between East and West: 10th-8th Centuries B. C. 1992, pp. 93-102.", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:59.611835"
+            "when": "2015-10-27T18:46:46.814365"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:59.611850"
+            "when": "2015-10-27T18:46:46.814379"
         }
     ], 
     "publishers": [], 

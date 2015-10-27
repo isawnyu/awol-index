@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "[First posted in AWOL 15 January 2012, updated 21 August, 2014]. R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis). Plus de 13,000 r\u00e9f\u00e9rences bibliographiques. (nom - titre(s) - parent\u00e9 - r\u00e9f\u00e9rence bibliographique). Classement selon les noms inscrits sur les statuettes. R\u00e9partition des attestations suivant les grandes p\u00e9riodes de l\u2019histoire \u00e9gyptienne. Mode de citation recommand\u00e9: http://www. segweb. ch/Base sehedj - Nom du fichier \u00ab pdf \u00bb et date. Pour de plus amples informations, lisez l\u2019\u00e9tat des travaux ou contactez-nous !.", 
+    "description": "[First posted in AWOL 15 January 2012, updated 21 August, 2014]. Répertoire bibliographique des figurines funéraires (shabtis / oushebtis). Plus de 13,000 références bibliographiques. (nom - titre(s) - parenté - référence bibliographique). Classement selon les noms inscrits sur les statuettes. Répartition des attestations suivant les grandes périodes de l’histoire égyptienne. Mode de citation recommandé: http://www. segweb. ch/Base sehedj - Nom du fichier « pdf » et date. Pour de plus amples informations, lisez l’état des travaux ou contactez-nous !.", 
     "domain": "www.segweb.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis)", 
+        "title_full": "Répertoire bibliographique des figurines funéraires (shabtis / oushebtis)", 
         "url": "http://www.segweb.ch/shabti.htm"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4883609201485438284", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:13.039690"
+            "when": "2015-10-27T18:42:42.343819"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/repertoire-bibliographique-des.html", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:13.039706"
+            "when": "2015-10-27T18:42:42.343872"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4883609201485438284", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:13.043708"
+            "when": "2015-10-27T18:42:42.352272"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/repertoire-bibliographique-des.html", 
             "resource_date": "2014-08-21T10:56:58.753-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:13.043723"
+            "when": "2015-10-27T18:42:42.352291"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:13.090983"
+            "when": "2015-10-27T18:42:42.407181"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis)", 
+            "title_full": "Répertoire bibliographique des figurines funéraires (shabtis / oushebtis)", 
             "url": "http://www.segweb.ch/shabti.htm"
         }, 
         {
@@ -150,7 +150,7 @@
             "url": "http://www.segweb.ch/shabtis/me.pdf"
         }, 
         {
-            "title_full": "Deuxi\u00e8me P\u00e9riode interm\u00e9diaire (XVIIe dynastie)", 
+            "title_full": "Deuxième Période intermédiaire (XVIIe dynastie)", 
             "url": "http://www.segweb.ch/shabtis/dpi.pdf"
         }, 
         {
@@ -158,15 +158,15 @@
             "url": "http://www.segweb.ch/shabtis/ne.pdf"
         }, 
         {
-            "title_full": "\u00c9poque libyenne (XXIe et XXIIe dynasties) et Troisi\u00e8me P\u00e9riode interm\u00e9diaire", 
+            "title_full": "Époque libyenne (XXIe et XXIIe dynasties) et Troisième Période intermédiaire", 
             "url": "http://www.segweb.ch/shabtis/liby.pdf"
         }, 
         {
-            "title_full": "\u00c9poque kouchite (XXVe dynastie / d\u00e9but XXVIe dynastie \u00e0 Th\u00e8bes, dynastie napat\u00e9enne)", 
+            "title_full": "Époque kouchite (XXVe dynastie / début XXVIe dynastie à Thèbes, dynastie napatéenne)", 
             "url": "http://www.segweb.ch/shabtis/kouchi.pdf"
         }, 
         {
-            "title_full": "Basse \u00c9poque et p\u00e9riode ptol\u00e9ma\u00efque (XXVIe dynastie - successeurs d\u2019Alexandre)", 
+            "title_full": "Basse Époque et période ptolémaïque (XXVIe dynastie - successeurs d’Alexandre)", 
             "url": "http://www.segweb.ch/shabtis/be.pdf"
         }, 
         {
@@ -174,23 +174,23 @@
             "url": "http://www.segweb.ch/shabtis/coffr.pdf"
         }, 
         {
-            "title_full": "Index g\u00e9n\u00e9ral (translit\u00e9ration)", 
+            "title_full": "Index général (translitération)", 
             "url": "http://www.segweb.ch/shabtis/trans.pdf"
         }, 
         {
-            "title_full": "Index g\u00e9n\u00e9ral (en fran\u00e7ais)", 
+            "title_full": "Index général (en français)", 
             "url": "http://www.segweb.ch/shabtis/inde.pdf"
         }, 
         {
-            "title_full": "Bibliographie et abr\u00e9viations", 
+            "title_full": "Bibliographie et abréviations", 
             "url": "http://www.segweb.ch/shabtis/bibli.pdf"
         }, 
         {
-            "title_full": "La base sehedj en quelques mots et \u00e9tat des travaux en cours", 
+            "title_full": "La base sehedj en quelques mots et état des travaux en cours", 
             "url": "http://www.segweb.ch/shabtis/base.pdf"
         }
     ], 
-    "title": "R\u00e9pertoire bibliographique des figurines fun\u00e9raires (shabtis / oushebtis)", 
+    "title": "Répertoire bibliographique des figurines funéraires (shabtis / oushebtis)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

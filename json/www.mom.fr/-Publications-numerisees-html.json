@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Maison de l'Orient et de la M\u00e9diterran\u00e9e Publications num\u00e9ris\u00e9es", 
+        "title_full": "Maison de l'Orient et de la Méditerranée Publications numérisées", 
         "url": "http://www.mom.fr/-Publications-numerisees-.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2165485245368451063", 
             "resource_date": "2012-11-06T10:27:25.879-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:18.937244"
+            "when": "2015-10-27T18:38:26.641514"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/more-open-acces-publications-from.html", 
             "resource_date": "2012-11-06T10:27:25.879-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:18.937261"
+            "when": "2015-10-27T18:38:26.641530"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2165485245368451063", 
             "resource_date": "2012-11-06T10:27:25.879-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:18.940062"
+            "when": "2015-10-27T18:38:26.644435"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/more-open-acces-publications-from.html", 
             "resource_date": "2012-11-06T10:27:25.879-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:18.940074"
+            "when": "2015-10-27T18:38:26.644448"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:18.982324"
+            "when": "2015-10-27T18:38:26.690321"
         }
     ], 
     "publishers": [], 
@@ -141,7 +141,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Maison de l'Orient et de la M\u00e9diterran\u00e9e Publications num\u00e9ris\u00e9es", 
+            "title_full": "Maison de l'Orient et de la Méditerranée Publications numérisées", 
             "url": "http://www.mom.fr/-Publications-numerisees-.html"
         }, 
         {
@@ -209,7 +209,7 @@
             "url": "http://www.mom.fr/publinum/livre.php?livre=cmo10&debut=0&nb=6&max=311"
         }, 
         {
-            "title_full": "T\u00e9l\u00e9charger l'ouvrage", 
+            "title_full": "Télécharger l'ouvrage", 
             "url": "http://www.mom.fr/image_carto/ServiceImage/publications/Ouvrages_diffuses/cmo/cmo_0244-5689_1981_num_10_1/Dico_Ceramo_M_Yon.pdf"
         }, 
         {
@@ -229,7 +229,7 @@
             "url": "http://www.mom.fr/publinum/livre.php?livre=fig07&debut=0&nb=6&max=155"
         }
     ], 
-    "title": "Maison de l'Orient et de la M\u00e9diterran\u00e9e Publications num\u00e9ris\u00e9es", 
+    "title": "Maison de l'Orient et de la Méditerranée Publications numérisées", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

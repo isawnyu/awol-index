@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Jahrbuch des Deutschen Arch\u00e4ologischen Instituts, 3 (1888), pp. 66-67. Wolters, Paul (1889).", 
+    "description": "In: Jahrbuch des Deutschen Archäologischen Instituts, 3 (1888), pp. 66-67. Wolters, Paul (1889).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:43.078469"
+            "when": "2015-10-27T18:48:37.593967"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:43.078486"
+            "when": "2015-10-27T18:48:37.593984"
         }
     ], 
     "publishers": [], 

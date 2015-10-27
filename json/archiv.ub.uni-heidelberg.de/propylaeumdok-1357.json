@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Arch\u00e4ologie", 
+        "title_full": "DAIDALOS - Heidelberger Magisterarbeiten zur Klassischen Archäologie", 
         "url": "http://archiv.ub.uni-heidelberg.de/portale/daidalos/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7166318577704825915", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:48.196938"
+            "when": "2015-10-27T18:45:30.370217"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/08/daidalos-heidelberger-magisterarbeiten.html", 
             "resource_date": "2014-08-13T07:34:21.128-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:48.196953"
+            "when": "2015-10-27T18:45:30.370228"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:42.385782"
+            "when": "2015-10-27T18:48:36.849365"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:42.385803"
+            "when": "2015-10-27T18:48:36.849381"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.739054"
+            "when": "2015-10-27T18:48:38.629336"
         }
     ], 
     "publishers": [], 
@@ -137,7 +137,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die fig\u00fcrlichen Grabstelen im r\u00f6mischen Thessaloniki (Daidalos 5)", 
+    "title": "Die figürlichen Grabstelen im römischen Thessaloniki (Daidalos 5)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

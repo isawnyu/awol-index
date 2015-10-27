@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Actualidades Arqueol\u00f3gicas: Pasado en presente. Arque\u00f3filos, es una uni\u00f3n de estudiantes j\u00f3venes que germina en un contexto de desaire hacia los nuevos talentos y de un vicio de resguardo en las viejas y agotadas teor\u00edas. Pretendemos nunca dejar de ser alumnos -en todo lo que implica-; sin embargo, nos enfrentamos al mundo del mercado, la oferta y la demanda con ganas de competir y trabajar lealmente, sin agraviar al otro. La idea de formar un grupo, como plataforma para el desarrollo de proyectos y el debate de inquietudes en torno a los problemas arqueol\u00f3gicos, nace en una nueva y reciente generaci\u00f3n de investigadores con un ideal de cambio y una necesidad de abrir nuevos espacios de publicaci\u00f3n. Iniciamos este proyecto en el contexto que el mundo nos brinda, un ambiente de perseverancia y esperanza ante los asaltos y atentados permanentes de los grupos de poder, que pretenden imponer sus parciales visiones de la realidad, por encima de una historia y de una herencia que se mantienen a la espera de ser escuchadas. See the full.", 
+    "description": "Actualidades Arqueológicas: Pasado en presente. Arqueófilos, es una unión de estudiantes jóvenes que germina en un contexto de desaire hacia los nuevos talentos y de un vicio de resguardo en las viejas y agotadas teorías. Pretendemos nunca dejar de ser alumnos -en todo lo que implica-; sin embargo, nos enfrentamos al mundo del mercado, la oferta y la demanda con ganas de competir y trabajar lealmente, sin agraviar al otro. La idea de formar un grupo, como plataforma para el desarrollo de proyectos y el debate de inquietudes en torno a los problemas arqueológicos, nace en una nueva y reciente generación de investigadores con un ideal de cambio y una necesidad de abrir nuevos espacios de publicación. Iniciamos este proyecto en el contexto que el mundo nos brinda, un ambiente de perseverancia y esperanza ante los asaltos y atentados permanentes de los grupos de poder, que pretenden imponer sus parciales visiones de la realidad, por encima de una historia y de una herencia que se mantienen a la espera de ser escuchadas. See the full.", 
     "domain": "morgan.iia.unam.mx", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Actualidades Arqueol\u00f3gicas", 
+        "title_full": "Actualidades Arqueológicas", 
         "url": "http://morgan.iia.unam.mx/usr/Actualidades/index.html"
     }, 
     "issuance": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2930786965201971516", 
             "resource_date": "2012-08-16T11:40:24.580-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.396681"
+            "when": "2015-10-27T18:39:03.498157"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-actualidades.html", 
             "resource_date": "2012-08-16T11:40:24.580-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.396702"
+            "when": "2015-10-27T18:39:03.498177"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2930786965201971516", 
             "resource_date": "2012-08-16T11:40:24.580-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:55.402851"
+            "when": "2015-10-27T18:39:03.507497"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-actualidades.html", 
             "resource_date": "2012-08-16T11:40:24.580-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:55.402869"
+            "when": "2015-10-27T18:39:03.507513"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:55.404845"
+            "when": "2015-10-27T18:39:03.509634"
         }
     ], 
     "publishers": [], 
@@ -143,13 +143,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Actualidades Arqueol\u00f3gicas: Pasado en presente", 
+            "title_full": "Actualidades Arqueológicas: Pasado en presente", 
             "url": "http://morgan.iia.unam.mx/usr/Actualidades/index.html"
         }
     ], 
-    "title": "Actualidades Arqueol\u00f3gicas: Pasado en presente", 
+    "title": "Actualidades Arqueológicas: Pasado en presente", 
     "title_alternates": [], 
-    "title_extended": "Actualidades Arqueol\u00f3gicas: Pasado en presente", 
+    "title_extended": "Actualidades Arqueológicas: Pasado en presente", 
     "type": null, 
     "url": "http://morgan.iia.unam.mx/usr/Actualidades/index.html", 
     "url_alternates": [], 

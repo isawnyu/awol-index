@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The watercolours and drawings by George Alexander Hoskins in the Archive of the Griffith Institute, University of Oxford. Concept and direction: Jaromir Malek Cataloguing and HTML editing: Ana I. Navajas, Tracy Walker, Nicola Harrington and Jaromir Malek Initial cataloguing: Rosalind Moss Proofreading: Alison Hobby and Elizabeth Fleming Scanning: Jenni Navratil, assisted by H. Navr\u00e1tilov\u00e1 Coordination: Alison Hobby This project has been sponsored by ASTENE (Association for the Study of Travel in Egypt and the Near East). And see.", 
+    "description": "The watercolours and drawings by George Alexander Hoskins in the Archive of the Griffith Institute, University of Oxford. Concept and direction: Jaromir Malek Cataloguing and HTML editing: Ana I. Navajas, Tracy Walker, Nicola Harrington and Jaromir Malek Initial cataloguing: Rosalind Moss Proofreading: Alison Hobby and Elizabeth Fleming Scanning: Jenni Navratil, assisted by H. Navrátilová Coordination: Alison Hobby This project has been sponsored by ASTENE (Association for the Study of Travel in Egypt and the Near East). And see.", 
     "domain": "www.griffith.ox.ac.uk", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5895269940533949499", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:33.809369"
+            "when": "2015-10-27T18:44:07.919212"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/new-from-griffith-institute.html", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:33.809388"
+            "when": "2015-10-27T18:44:07.919229"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5895269940533949499", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:33.813102"
+            "when": "2015-10-27T18:44:07.922800"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/04/new-from-griffith-institute.html", 
             "resource_date": "2012-04-26T11:44:40.410-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:33.813117"
+            "when": "2015-10-27T18:44:07.922812"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:33.814663"
+            "when": "2015-10-27T18:44:07.924697"
         }
     ], 
     "publishers": [], 

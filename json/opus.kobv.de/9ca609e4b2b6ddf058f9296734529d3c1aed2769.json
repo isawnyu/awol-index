@@ -70,13 +70,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3720920126198325436", 
             "resource_date": "2013-08-19T07:21:42.591-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:41.079715"
+            "when": "2015-10-27T18:40:58.352813"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-potsdamer.html", 
             "resource_date": "2013-08-19T07:21:42.591-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:41.079726"
+            "when": "2015-10-27T18:40:58.352835"
         }
     ], 
     "publishers": [], 
@@ -85,7 +85,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Antike in Potsdam-Sanssouci : F\u00fchrungsbl\u00e4tter ; Materialien f\u00fcr den Unterricht", 
+    "title": "Antike in Potsdam-Sanssouci : Führungsblätter ; Materialien für den Unterricht", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

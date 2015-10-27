@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "T\u00dcBA-AR: T\u00fcrkiye Bilimler Akademisi Arkeoloji Dergisi - T\u00fcrkish Academy of Sciences Journal of ArchaeologyISSN: 1301-8566.", 
+    "description": "TÜBA-AR: Türkiye Bilimler Akademisi Arkeoloji Dergisi - Türkish Academy of Sciences Journal of ArchaeologyISSN: 1301-8566.", 
     "domain": "www.tuba.gov.tr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "T\u00dcBA-AR: T\u00fcrkiye Bilimler Akademisi Arkeoloji Dergisi - T\u00fcrkish Academy of Sciences Journal of Archaeology", 
+        "title_full": "TÜBA-AR: Türkiye Bilimler Akademisi Arkeoloji Dergisi - Türkish Academy of Sciences Journal of Archaeology", 
         "url": "http://www.tuba.gov.tr/publication/tuba-ar-periodical/pid/172/mid/175/"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1565263401698142180", 
             "resource_date": "2014-09-03T11:02:50.779-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:47.426534"
+            "when": "2015-10-27T18:37:51.384095"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-access-journal-tuba-ar-turkiye.html", 
             "resource_date": "2014-09-03T11:02:50.779-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:47.426547"
+            "when": "2015-10-27T18:37:51.384106"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "T\u00dcBA-Ar Volume 7", 
+    "title": "TÜBA-Ar Volume 7", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

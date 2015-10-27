@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3829584740797107331", 
             "resource_date": "2015-05-03T08:46:49.526-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:46.796106"
+            "when": "2015-10-27T18:41:07.215003"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/newly-open-access-journal-pseudo.html", 
             "resource_date": "2015-05-03T08:46:49.526-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:46.796120"
+            "when": "2015-10-27T18:41:07.215025"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "A Note on the Metaphysics of History in Philo\u2019s De Vita Mosis", 
+    "title": "A Note on the Metaphysics of History in Philo’s De Vita Mosis", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

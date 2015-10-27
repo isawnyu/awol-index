@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Revue arch\u00e9ologique du Centre de la France", 
+        "title_full": "Revue archéologique du Centre de la France", 
         "url": "http://racf.revues.org/"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6352189185984310569", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:02.126090"
+            "when": "2015-10-27T18:44:39.652004"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journal-revue-archeologique.html", 
             "resource_date": "2009-08-12T14:01:35.559-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:02.126104"
+            "when": "2015-10-27T18:44:39.652016"
         }
     ], 
     "publishers": [], 

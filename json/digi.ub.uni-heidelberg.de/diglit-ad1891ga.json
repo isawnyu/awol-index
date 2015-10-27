@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Antike Denkm\u00e4ler (Deutsches Arch\u00e4ologisches Institut).", 
+    "description": "Antike Denkmäler (Deutsches Archäologisches Institut).", 
     "domain": "digi.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5800615584110991805", 
             "resource_date": "2010-10-06T14:56:42.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:17.077766"
+            "when": "2015-10-27T18:43:50.036724"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/open-access-journal-antike-denkmaler.html", 
             "resource_date": "2010-10-06T14:56:42.800-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:17.077781"
+            "when": "2015-10-27T18:43:50.036740"
         }
     ], 
     "publishers": [], 
@@ -91,11 +91,11 @@
             "url": "http://digi.ub.uni-heidelberg.de/diglit/ad1926?sid=5acff2f4595eb41f2001a0237141d49d"
         }, 
         {
-            "title_full": "Band 4, Heft 2: Wiegand, Theodor: Die altattische stehende G\u00f6ttin in Berlin, Berlin, 1929", 
+            "title_full": "Band 4, Heft 2: Wiegand, Theodor: Die altattische stehende Göttin in Berlin, Berlin, 1929", 
             "url": "http://digi.ub.uni-heidelberg.de/diglit/ad1929?sid=5acff2f4595eb41f2001a0237141d49d"
         }
     ], 
-    "title": "Antike Denkm\u00e4ler", 
+    "title": "Antike Denkmäler", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "A. Sadek et M. Shimy. Graffiti de la Montagne Th\u00e9baine. Volume IV,6. Transcriptions et Indices. Le Caire 1983.", 
+    "description": "A. Sadek et M. Shimy. Graffiti de la Montagne Thébaine. Volume IV,6. Transcriptions et Indices. Le Caire 1983.", 
     "domain": "www.mafto.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Collection scientifique CEDAE-CNRS et m\u00e9moires du CEDAE", 
+        "title_full": "Collection scientifique CEDAE-CNRS et mémoires du CEDAE", 
         "url": "http://www.mafto.fr/publications/collection-scientifique-cedae-cnrs-et-memoires-du-cedae/"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1635273257785528802", 
             "resource_date": "2013-11-14T16:13:55.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:52.329438"
+            "when": "2015-10-27T18:37:56.246743"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/11/online-collection-scientifique-cedae.html", 
             "resource_date": "2013-11-14T16:13:55.042-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:52.329450"
+            "when": "2015-10-27T18:37:56.246753"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2645850087875203525", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:43.799937"
+            "when": "2015-10-27T18:38:51.933817"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/09/open-access-publications-of-mission.html", 
             "resource_date": "2014-01-26T07:57:52.065-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:43.799955"
+            "when": "2015-10-27T18:38:51.933828"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:43.848553"
+            "when": "2015-10-27T18:38:51.984363"
         }
     ], 
     "publishers": [], 
@@ -140,7 +140,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "A. A. Sadek. Graffiti de la Montagne Th\u00e9baine. Volume IV,5. Transcriptions et Indices. Le Caire 1974", 
+    "title": "A. A. Sadek. Graffiti de la Montagne Thébaine. Volume IV,5. Transcriptions et Indices. Le Caire 1974", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

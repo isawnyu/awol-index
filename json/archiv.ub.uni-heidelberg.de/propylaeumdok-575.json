@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Bulletin de la Soci\u00e9t\u00e9 fran\u00e7aise d\\'\u00e9gyptologie, 160 (2004), pp. 9-25. Quack, Joachim Friedrich (2004).", 
+    "description": "In: Bulletin de la Société française d\\'égyptologie, 160 (2004), pp. 9-25. Quack, Joachim Friedrich (2004).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:59.504488"
+            "when": "2015-10-27T18:40:11.164162"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:59.504505"
+            "when": "2015-10-27T18:40:11.164179"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Organiser le culte id\u00e9al. Le Manuel du temple", 
+    "title": "Organiser le culte idéal. Le Manuel du temple", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Cahiers de la Villa K\u00e9rylos", 
+        "title_full": "Cahiers de la Villa Kérylos", 
         "url": "http://www.persee.fr/web/ouvrages/home/prescript/fond/aibl"
     }, 
     "issuance": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-9179479482326020680", 
             "resource_date": "2015-04-29T15:35:56.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:22.419192"
+            "when": "2015-10-27T18:49:20.985821"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/open-access-monograph-series-cahiers-de.html", 
             "resource_date": "2015-04-29T15:35:56.344-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:22.419219"
+            "when": "2015-10-27T18:49:20.985832"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Regards sur la M\u00e9diterran\u00e9e (colloque de 1996) . 1997", 
+    "title": "Regards sur la Méditerranée (colloque de 1996) . 1997", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

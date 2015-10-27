@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3944091026237647674", 
             "resource_date": "2013-05-03T16:46:50.405-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.357997"
+            "when": "2015-10-27T18:41:13.860831"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/aia-award-for-outstanding-work-in.html", 
             "resource_date": "2013-05-03T16:46:50.405-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.358015"
+            "when": "2015-10-27T18:41:13.860848"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3944091026237647674", 
             "resource_date": "2013-05-03T16:46:50.405-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.362748"
+            "when": "2015-10-27T18:41:13.866057"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/aia-award-for-outstanding-work-in.html", 
             "resource_date": "2013-05-03T16:46:50.405-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.362761"
+            "when": "2015-10-27T18:41:13.866074"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:52.368147"
+            "when": "2015-10-27T18:41:14.075542"
         }
     ], 
     "publishers": [], 

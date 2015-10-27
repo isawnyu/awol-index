@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Prosopographia Imperii Romani: Ein 'Who is Who' des r\u00f6mischen Kaiserreichs.", 
+    "description": "Prosopographia Imperii Romani: Ein 'Who is Who' des römischen Kaiserreichs.", 
     "domain": "www.bbaw.de", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733073512203221602", 
             "resource_date": "2013-12-03T09:56:32.293-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:57.091252"
+            "when": "2015-10-27T18:45:40.007366"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/prosopographia-imperii-romani.html", 
             "resource_date": "2013-12-03T09:56:32.293-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:57.091268"
+            "when": "2015-10-27T18:45:40.007381"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-733073512203221602", 
             "resource_date": "2013-12-03T09:56:32.293-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:57.093065"
+            "when": "2015-10-27T18:45:40.009270"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/prosopographia-imperii-romani.html", 
             "resource_date": "2013-12-03T09:56:32.293-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:57.093077"
+            "when": "2015-10-27T18:45:40.009289"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:57.108552"
+            "when": "2015-10-27T18:45:40.026091"
         }
     ], 
     "publishers": [], 
@@ -143,11 +143,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Prosopographia Imperii Romani: Ein 'Who is Who' des r\u00f6mischen Kaiserreichs", 
+            "title_full": "Prosopographia Imperii Romani: Ein 'Who is Who' des römischen Kaiserreichs", 
             "url": "http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/pir/de/Startseite"
         }, 
         {
-            "title_full": "\u00dcberblick", 
+            "title_full": "Überblick", 
             "url": "http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/pir/de/Ueberblick"
         }, 
         {
@@ -183,13 +183,13 @@
             "url": "http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/pir/de/blanko.2005-02-17.7966795951"
         }, 
         {
-            "title_full": "Platzhalterzeichen f\u00fcr die Suchfunktionen", 
+            "title_full": "Platzhalterzeichen für die Suchfunktionen", 
             "url": "http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/pir/de/blanko.2005-06-21.8804927999"
         }
     ], 
-    "title": "Prosopographia Imperii Romani: Ein 'Who is Who' des r\u00f6mischen Kaiserreichs", 
+    "title": "Prosopographia Imperii Romani: Ein 'Who is Who' des römischen Kaiserreichs", 
     "title_alternates": [], 
-    "title_extended": "Prosopographia Imperii Romani: Ein 'Who is Who' des r\u00f6mischen Kaiserreichs", 
+    "title_extended": "Prosopographia Imperii Romani: Ein 'Who is Who' des römischen Kaiserreichs", 
     "type": null, 
     "url": "http://www.bbaw.de/bbaw/Forschung/Forschungsprojekte/pir/de/Startseite", 
     "url_alternates": [], 

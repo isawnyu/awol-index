@@ -81,13 +81,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-820342040676919497", 
             "resource_date": "2014-05-25T17:20:22.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:16.674012"
+            "when": "2015-10-27T18:47:04.483796"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/fs-murnane.html", 
             "resource_date": "2014-05-25T17:20:22.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:16.674029"
+            "when": "2015-10-27T18:47:04.483811"
         }, 
         {
             "fields": [
@@ -128,13 +128,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-820342040676919497", 
             "resource_date": "2014-05-25T17:20:22.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:16.679672"
+            "when": "2015-10-27T18:47:04.489549"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/10/fs-murnane.html", 
             "resource_date": "2014-05-25T17:20:22.184-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:16.679687"
+            "when": "2015-10-27T18:47:04.489565"
         }, 
         {
             "fields": [
@@ -148,7 +148,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:16.754921"
+            "when": "2015-10-27T18:47:04.570239"
         }
     ], 
     "publishers": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mitteilungen aus der Arbeit am W\u00f6rterbuch der \u00e4gyptischen Sprache. Die folgende Publikationsliste enth\u00e4lt eine Auswahl der grundlegenden Publikationen des Akademienvorhabens Alt\u00e4gyptisches W\u00f6rterbuch und k\u00fcnftig auch des Vorhabens Strukturen und Transformationen des Wortschatzes der \u00e4gyptischen Sprache (Projektstart seit 1. 1. 2013). Weitere Einzelartikel k\u00f6nnen Sie den Publikationslisten der Mitarbeiter entnehmen. Publikationen, die nicht im Buchhandel erh\u00e4ltlich sind, k\u00f6nnen Sie erwerben, indem Sie einen fertig adressierten und frankierten Umschlag (Format A4) an uns senden. Solange der Vorrat reicht, schicken wir Ihnen dann die gew\u00fcnschte Publikation zu.", 
+    "description": "Mitteilungen aus der Arbeit am Wörterbuch der ägyptischen Sprache. Die folgende Publikationsliste enthält eine Auswahl der grundlegenden Publikationen des Akademienvorhabens Altägyptisches Wörterbuch und künftig auch des Vorhabens Strukturen und Transformationen des Wortschatzes der ägyptischen Sprache (Projektstart seit 1. 1. 2013). Weitere Einzelartikel können Sie den Publikationslisten der Mitarbeiter entnehmen. Publikationen, die nicht im Buchhandel erhältlich sind, können Sie erwerben, indem Sie einen fertig adressierten und frankierten Umschlag (Format A4) an uns senden. Solange der Vorrat reicht, schicken wir Ihnen dann die gewünschte Publikation zu.", 
     "domain": "edoc.bbaw.de", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Mitteilungen aus der Arbeit am W\u00f6rterbuch der \u00e4gyptischen Sprache", 
+        "title_full": "Mitteilungen aus der Arbeit am Wörterbuch der ägyptischen Sprache", 
         "url": "http://edoc.bbaw.de/schriftenreihen_ebene2.php?sr_id=11&la=de"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3193412786068478579", 
             "resource_date": "2013-08-20T06:43:30.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.668832"
+            "when": "2015-10-27T18:39:21.390344"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/08/open-access-journal-mitteilungen-aus.html", 
             "resource_date": "2013-08-20T06:43:30.473-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.668843"
+            "when": "2015-10-27T18:39:21.390361"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Mitteilungen aus der Arbeit am W\u00f6rterbuch der \u00c4gyptischen Sprache ; 4", 
+    "title": "Mitteilungen aus der Arbeit am Wörterbuch der Ägyptischen Sprache ; 4", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

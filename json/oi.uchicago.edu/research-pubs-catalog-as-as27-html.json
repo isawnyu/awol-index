@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G. G\u00fcterbock. H. A. Hoffner, Jr. , ed. 1997.", 
+    "description": "AS 26. Perspectives on Hittite Civilization: Selected Writings of Hans G. Güterbock. H. A. Hoffner, Jr. , ed. 1997.", 
     "domain": "oi.uchicago.edu", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2310553175017692217", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.882370"
+            "when": "2015-10-27T18:38:38.957590"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/open-access-monographic-series-oriental.html", 
             "resource_date": "2014-06-02T15:31:14.895-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.882393"
+            "when": "2015-10-27T18:38:38.957603"
         }
     ], 
     "publishers": [], 

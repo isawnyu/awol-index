@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "The Globalization of Knowledge. J\u00fcrgen Renn (ed). Preface J\u00fcrgen Renn. About the Contributions. World Map - Chapter Overview. About the Contributors. 1 The Globalization of Knowledge in History: An Introduction J\u00fcrgen Renn and Malcolm D. Hyman.", 
+    "description": "The Globalization of Knowledge. Jürgen Renn (ed). Preface Jürgen Renn. About the Contributions. World Map - Chapter Overview. About the Contributors. 1 The Globalization of Knowledge in History: An Introduction Jürgen Renn and Malcolm D. Hyman.", 
     "domain": "www.edition-open-access.de", 
     "editors": [], 
     "end_date": null, 
@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411290510867293979", 
             "resource_date": "2012-07-28T09:12:21.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:30.121162"
+            "when": "2015-10-27T18:37:32.752028"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/the-globalization-of-knowledge.html", 
             "resource_date": "2012-07-28T09:12:21.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:30.121178"
+            "when": "2015-10-27T18:37:32.752046"
         }, 
         {
             "fields": [
@@ -109,13 +109,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1411290510867293979", 
             "resource_date": "2012-07-28T09:12:21.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:30.124695"
+            "when": "2015-10-27T18:37:32.755833"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/07/the-globalization-of-knowledge.html", 
             "resource_date": "2012-07-28T09:12:21.928-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:30.124709"
+            "when": "2015-10-27T18:37:32.755847"
         }, 
         {
             "fields": [
@@ -128,7 +128,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:06:30.694695"
+            "when": "2015-10-27T18:37:33.327669"
         }
     ], 
     "publishers": [], 
@@ -142,7 +142,7 @@
             "url": "http://www.edition-open-access.de/studies/1/index.html"
         }, 
         {
-            "title_full": "Preface J\u00fcrgen Renn", 
+            "title_full": "Preface Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_1.html"
         }, 
         {
@@ -158,7 +158,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_3.html"
         }, 
         {
-            "title_full": "1 The Globalization of Knowledge in History: An Introduction J\u00fcrgen Renn and Malcolm D. Hyman", 
+            "title_full": "1 The Globalization of Knowledge in History: An Introduction Jürgen Renn and Malcolm D. Hyman", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_4.html"
         }, 
         {
@@ -178,7 +178,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_4.html#uid453"
         }, 
         {
-            "title_full": "2 Knowledge and Science in Current Discussions of Globalization Helge Wendt and J\u00fcrgen Renn", 
+            "title_full": "2 Knowledge and Science in Current Discussions of Globalization Helge Wendt and Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_5.html"
         }, 
         {
@@ -210,7 +210,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_5.html#"
         }, 
         {
-            "title_full": "3 Survey: From Technology Transfer to the Origins of Science Malcolm D. Hyman and J\u00fcrgen Renn", 
+            "title_full": "3 Survey: From Technology Transfer to the Origins of Science Malcolm D. Hyman and Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_6.html"
         }, 
         {
@@ -354,7 +354,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_9.html#uid1936"
         }, 
         {
-            "title_full": "7 Globalization of Ancient Knowledge: From Babylonian Observations to Scientific Regularities Gerd Gra\u00dfhoff", 
+            "title_full": "7 Globalization of Ancient Knowledge: From Babylonian Observations to Scientific Regularities Gerd Graßhoff", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_10.html"
         }, 
         {
@@ -394,7 +394,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_11.html#uid2225"
         }, 
         {
-            "title_full": "9 Survey: Knowledge as a Fellow Traveler J\u00fcrgen Renn", 
+            "title_full": "9 Survey: Knowledge as a Fellow Traveler Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_12.html"
         }, 
         {
@@ -594,7 +594,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_18.html#uid4000"
         }, 
         {
-            "title_full": "16 Survey: The Place of Local Knowledge in the Global Community J\u00fcrgen Renn", 
+            "title_full": "16 Survey: The Place of Local Knowledge in the Global Community Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_19.html"
         }, 
         {
@@ -686,7 +686,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_21.html#uid4618"
         }, 
         {
-            "title_full": "18.7 Fantappi\u00e8 and the Dispute Concerning the Chair of Calculus at the Polytechnic School", 
+            "title_full": "18.7 Fantappiè and the Dispute Concerning the Chair of Calculus at the Polytechnic School", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_21.html#uid4623"
         }, 
         {
@@ -790,7 +790,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_24.html#uid4975"
         }, 
         {
-            "title_full": "22 The (Ir)Relevance of Local Knowledge: Circuits of Medicine and Biopower in the Neoliberal Era Hansj\u00f6rg Dilger", 
+            "title_full": "22 The (Ir)Relevance of Local Knowledge: Circuits of Medicine and Biopower in the Neoliberal Era Hansjörg Dilger", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_25.html"
         }, 
         {
@@ -842,7 +842,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_26.html#uid5353"
         }, 
         {
-            "title_full": "24 Survey: The Globalization of Modern Science J\u00fcrgen Renn and Malcolm D. Hyman", 
+            "title_full": "24 Survey: The Globalization of Modern Science Jürgen Renn and Malcolm D. Hyman", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_27.html"
         }, 
         {
@@ -1030,7 +1030,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_31.html#uid6820"
         }, 
         {
-            "title_full": "29 Internationalism and the History of Molecular Biology Hans-J\u00f6rg Rheinberger", 
+            "title_full": "29 Internationalism and the History of Molecular Biology Hans-Jörg Rheinberger", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_32.html"
         }, 
         {
@@ -1054,7 +1054,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_32.html#uid6887"
         }, 
         {
-            "title_full": "30 The Role of Chemistry in the Global Energy Challenge Robert Schl\u00f6gl", 
+            "title_full": "30 The Role of Chemistry in the Global Energy Challenge Robert Schlögl", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_33.html"
         }, 
         {
@@ -1130,7 +1130,7 @@
             "url": "http://www.edition-open-access.de/studies/1/chapter_34.html#uid7412"
         }, 
         {
-            "title_full": "32 Toward an Epistemic Web Malcolm D. Hyman and J\u00fcrgen Renn", 
+            "title_full": "32 Toward an Epistemic Web Malcolm D. Hyman and Jürgen Renn", 
             "url": "http://www.edition-open-access.de/studies/1/chapter_35.html"
         }, 
         {

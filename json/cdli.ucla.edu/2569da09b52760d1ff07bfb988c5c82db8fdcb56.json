@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zsombor F\u00f6ldi: The Sad Story of a Sumerian Statue: The Destruction of \u0160\u016b-Suen 7.", 
+    "description": "Zsombor Földi: The Sad Story of a Sumerian Statue: The Destruction of Šū-Suen 7.", 
     "domain": "cdli.ucla.edu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-500608700154864729", 
             "resource_date": "2014-10-22T14:40:48.968-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:37.426053"
+            "when": "2015-10-27T18:43:07.526367"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital.html", 
             "resource_date": "2014-10-22T14:40:48.968-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:37.426064"
+            "when": "2015-10-27T18:43:07.526378"
         }
     ], 
     "publishers": [], 

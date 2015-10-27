@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "eISSN - 1760-7361. Publi\u00e9 sans interruption depuis 1904, le Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise est la plus importante revue de Pr\u00e9histoire fran\u00e7aise. Il publie des articles originaux de Pr\u00e9histoire, depuis le Pal\u00e9olithique jusqu\u2019au premier \u00c2ge du Fer.", 
+    "description": "eISSN - 1760-7361. Publié sans interruption depuis 1904, le Bulletin de la Société préhistorique française est la plus importante revue de Préhistoire française. Il publie des articles originaux de Préhistoire, depuis le Paléolithique jusqu’au premier Âge du Fer.", 
     "domain": "www.persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Journals at Pers\u00e9e", 
+        "title_full": "Journals at Persée", 
         "url": "http://www.persee.fr/web/revues/home"
     }, 
     "issuance": null, 
@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2265848888410394033", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:28.663029"
+            "when": "2015-10-27T18:38:36.945322"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/03/ancient-world-in-persee.html", 
             "resource_date": "2015-01-13T18:47:15.944-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:28.663056"
+            "when": "2015-10-27T18:38:36.945333"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7020687316909452926", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.811250"
+            "when": "2015-10-27T18:45:21.159735"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.811267"
+            "when": "2015-10-27T18:45:21.159751"
         }, 
         {
             "fields": [
@@ -140,7 +140,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.816778"
+            "when": "2015-10-27T18:45:21.166026"
         }, 
         {
             "fields": [
@@ -181,13 +181,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7020687316909452926", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:39.815916"
+            "when": "2015-10-27T18:45:21.164893"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-journal-bulletin-de-la.html", 
             "resource_date": "2013-03-19T14:00:46.168-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:39.815930"
+            "when": "2015-10-27T18:45:21.164908"
         }, 
         {
             "fields": [
@@ -202,7 +202,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:13:39.818325"
+            "when": "2015-10-27T18:45:21.168037"
         }
     ], 
     "publishers": [], 
@@ -212,11 +212,11 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7ais", 
+            "title_full": "Bulletin de la Société préhistorique français", 
             "url": "http://www.persee.fr/web/revues/home/prescript/revue/bspf"
         }
     ], 
-    "title": "Bulletin de la Soci\u00e9t\u00e9 pr\u00e9historique fran\u00e7aise", 
+    "title": "Bulletin de la Société préhistorique française", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

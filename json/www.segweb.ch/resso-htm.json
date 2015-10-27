@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb). The five issues of this bibliography were published in the.", 
+    "description": "Ressources Égyptologiques Informatisées («Computerized Egyptological Resources»; «Informatisierte Quellen zur Ägyptologie»). The five issues of this bibliography were published in the.", 
     "domain": "www.segweb.ch", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Ressources \u00c9gyptologiques Informatis\u00e9es", 
+        "title_full": "Ressources Égyptologiques Informatisées", 
         "url": "http://www.segweb.ch/resso.htm"
     }, 
     "issuance": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:11.274646"
+            "when": "2015-10-27T18:46:58.714272"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:11.274667"
+            "when": "2015-10-27T18:46:58.714287"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8051203153903508903", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:11.279056"
+            "when": "2015-10-27T18:46:58.716798"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/01/ressources-egyptologiques-informatisees.html", 
             "resource_date": "2012-01-15T08:52:29.308-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:11.279076"
+            "when": "2015-10-27T18:46:58.716812"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:11.291034"
+            "when": "2015-10-27T18:46:58.726649"
         }
     ], 
     "publishers": [], 
@@ -144,33 +144,33 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb)", 
+            "title_full": "Ressources Égyptologiques Informatisées («Computerized Egyptological Resources»; «Informatisierte Quellen zur Ägyptologie»)", 
             "url": "http://www.segweb.ch/resso.htm"
         }, 
         {
-            "title_full": "R\u00c9I 1 (document pdf)", 
+            "title_full": "RÉI 1 (document pdf)", 
             "url": "http://www.segweb.ch/fichpdf/Rei15.pdf"
         }, 
         {
-            "title_full": "R\u00c9I 2 (document pdf)", 
+            "title_full": "RÉI 2 (document pdf)", 
             "url": "http://www.segweb.ch/fichpdf/Rei26.pdf"
         }, 
         {
-            "title_full": "R\u00c9I 3 (document pdf)", 
+            "title_full": "RÉI 3 (document pdf)", 
             "url": "http://www.segweb.ch/fichpdf/Rei37.pdf"
         }, 
         {
-            "title_full": "R\u00c9I 4 (document pdf)", 
+            "title_full": "RÉI 4 (document pdf)", 
             "url": "http://www.segweb.ch/fichpdf/Rei48.pdf"
         }, 
         {
-            "title_full": "R\u00c9I 5 (document pdf)", 
+            "title_full": "RÉI 5 (document pdf)", 
             "url": "http://www.segweb.ch/fichpdf/Rei59.pdf"
         }
     ], 
-    "title": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb)", 
+    "title": "Ressources Égyptologiques Informatisées («Computerized Egyptological Resources»; «Informatisierte Quellen zur Ägyptologie»)", 
     "title_alternates": [], 
-    "title_extended": "Ressources \u00c9gyptologiques Informatis\u00e9es (\u00abComputerized Egyptological Resources\u00bb; \u00abInformatisierte Quellen zur \u00c4gyptologie\u00bb)", 
+    "title_extended": "Ressources Égyptologiques Informatisées («Computerized Egyptological Resources»; «Informatisierte Quellen zur Ägyptologie»)", 
     "type": null, 
     "url": "http://www.segweb.ch/resso.htm", 
     "url_alternates": [], 

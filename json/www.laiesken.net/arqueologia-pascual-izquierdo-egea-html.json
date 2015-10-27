@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ", ARQUEOLOGIA IBEROAMERICANA ha publicado cuatro n\u00fameros hasta el presente, con un total de 11 art\u00edculos de mediana o gran extensi\u00f3n correspondientes a 23 autores, 233 p\u00e1ginas en formato PDF A4 a dos columnas, 166 figuras -muchas de ellas a todo color- y 19 tablas. Adem\u00e1s, cuenta con 100 colaboradores provenientes de una quincena de pa\u00edses.", 
+    "description": ", ARQUEOLOGIA IBEROAMERICANA ha publicado cuatro números hasta el presente, con un total de 11 artículos de mediana o gran extensión correspondientes a 23 autores, 233 páginas en formato PDF A4 a dos columnas, 166 figuras -muchas de ellas a todo color- y 19 tablas. Además, cuenta con 100 colaboradores provenientes de una quincena de países.", 
     "domain": "www.laiesken.net", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Arqueolog\u00eda Iberoamericana", 
+        "title_full": "Arqueología Iberoamericana", 
         "url": "http://www.laiesken.net/arqueologia/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6031054073019670345", 
             "resource_date": "2012-01-03T09:19:37.369-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:41.835185"
+            "when": "2015-10-27T18:44:16.555840"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/01/open-access-journal-arqueologia.html", 
             "resource_date": "2012-01-03T09:19:37.369-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:41.835198"
+            "when": "2015-10-27T18:44:16.555851"
         }
     ], 
     "publishers": [], 

@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2308961533749059839", 
             "resource_date": "2015-03-30T11:59:20.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.811169"
+            "when": "2015-10-27T18:38:38.897161"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/sidonius-apollinaris-online.html", 
             "resource_date": "2015-03-30T11:59:20.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.811194"
+            "when": "2015-10-27T18:38:38.897178"
         }, 
         {
             "fields": [
@@ -110,13 +110,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2308961533749059839", 
             "resource_date": "2015-03-30T11:59:20.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:30.817243"
+            "when": "2015-10-27T18:38:38.900942"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/03/sidonius-apollinaris-online.html", 
             "resource_date": "2015-03-30T11:59:20.726-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:30.817269"
+            "when": "2015-10-27T18:38:38.900956"
         }, 
         {
             "fields": [
@@ -130,7 +130,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:30.820150"
+            "when": "2015-10-27T18:38:38.902895"
         }
     ], 
     "publishers": [], 

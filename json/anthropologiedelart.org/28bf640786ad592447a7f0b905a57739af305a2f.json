@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archives - Fascicules en texte int\u00e9gral.", 
+    "description": "Archives - Fascicules en texte intégral.", 
     "domain": "anthropologiedelart.org", 
     "editors": [], 
     "end_date": null, 
@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6966703521915013390", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:38.527188"
+            "when": "2015-10-27T18:45:19.762991"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-ramage-revue.html", 
             "resource_date": "2014-03-10T11:27:43.581-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:38.527200"
+            "when": "2015-10-27T18:45:19.763005"
         }
     ], 
     "publishers": [], 
@@ -81,7 +81,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "RAMAGE - s\u00e9rie en ligne Sommaire R\u00e9sum\u00e9s Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Pr\u00e9sentation des auteurs Mathilde Couronn\u00e9 Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Editorial - RAMAGE, le retour ! Le tatouage Les disparus de l\u2019arch\u00e9ologie L\u2019antiquit\u00e9 \u00e0 l\u2019\u00e9preuve du disparu Arch\u00e9ologie du disparu et p\u00e9riode moderne A la recherche du cuir disparu : le tan retrouv\u00e9 Hermopolis gr\u00e9co-romaine La peinture grecque disparue La musique antique et le disparu D\u2019une g\u00e9ographie du disparu \u00e0 une arch\u00e9ologie du paysage Compte-rendu", 
+    "title": "RAMAGE - série en ligne Sommaire Résumés Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Présentation des auteurs Mathilde Couronné Benoit Dercy Lorenzo Medini Anastasia Painesi Sylvain Perrot Editorial - RAMAGE, le retour ! Le tatouage Les disparus de l’archéologie L’antiquité à l’épreuve du disparu Archéologie du disparu et période moderne A la recherche du cuir disparu : le tan retrouvé Hermopolis gréco-romaine La peinture grecque disparue La musique antique et le disparu D’une géographie du disparu à une archéologie du paysage Compte-rendu", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

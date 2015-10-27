@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Collection de l'Institut des Sciences et Techniques de l'Antiquit\u00e9. The \"Institut des Sciences et Techniques de l\u2019Antiquit\u00e9\" (ISTA, Institute of Antiquity\u2019s Sciences and Technical Skills) is a research team that was created in 1967 at the University of Franche-Comt\u00e9 (Besan\u00e7on, France). From the start but known at the time as \"Centre d\u2019Histoire Ancienne\" (Centre for Ancient History), the team focused on the publication of academic work in the field of Antiquity, first with a collection, then with an academic journal, Dialogues d\u2019Histoire Ancienne, which was founded in 1974. The first issues were published in 1959 by the Annales Litt\u00e9raires de l\u2019Universit\u00e9 de Besan\u00e7on. The following ones augmented the collection with research on slavery and emancipation, which resulted in the creation of \"Groupe International de Recherche sur l\u2019Esclavage dans l\u2019Antiquit\u00e9\" (GIREA, International Research Team on Slavery in Antiquity). Finally, the merging of the \"Centre d\u2019Histoire Ancienne\" and of the Institut F\u00e9lix Gaffiot gave its current form to the collection. The collection now publishes pluridisciplinary works from French and international researchers, in the form of monographs, collective books or edited sources, as well as the academic journal and its supplements (DHA).", 
+    "description": "Collection de l'Institut des Sciences et Techniques de l'Antiquité. The \"Institut des Sciences et Techniques de l’Antiquité\" (ISTA, Institute of Antiquity’s Sciences and Technical Skills) is a research team that was created in 1967 at the University of Franche-Comté (Besançon, France). From the start but known at the time as \"Centre d’Histoire Ancienne\" (Centre for Ancient History), the team focused on the publication of academic work in the field of Antiquity, first with a collection, then with an academic journal, Dialogues d’Histoire Ancienne, which was founded in 1974. The first issues were published in 1959 by the Annales Littéraires de l’Université de Besançon. The following ones augmented the collection with research on slavery and emancipation, which resulted in the creation of \"Groupe International de Recherche sur l’Esclavage dans l’Antiquité\" (GIREA, International Research Team on Slavery in Antiquity). Finally, the merging of the \"Centre d’Histoire Ancienne\" and of the Institut Félix Gaffiot gave its current form to the collection. The collection now publishes pluridisciplinary works from French and international researchers, in the form of monographs, collective books or edited sources, as well as the academic journal and its supplements (DHA).", 
     "domain": "persee.fr", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Collection de l'Institut des Sciences et Techniques de l'Antiquit\u00e9", 
+        "title_full": "Collection de l'Institut des Sciences et Techniques de l'Antiquité", 
         "url": "http://persee.fr/web/ouvrages/home/prescript/fond/ista"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2889963013615546907", 
             "resource_date": "2015-04-01T07:23:51.866-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:53.686873"
+            "when": "2015-10-27T18:39:01.985968"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/04/newly-online-collection-de-linstitut.html", 
             "resource_date": "2015-04-01T07:23:51.866-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:53.686891"
+            "when": "2015-10-27T18:39:01.985984"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Les Silves du coll\u00e8ge j\u00e9suite de Dole (1592) . 2011", 
+    "title": "Les Silves du collège jésuite de Dole (1592) . 2011", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

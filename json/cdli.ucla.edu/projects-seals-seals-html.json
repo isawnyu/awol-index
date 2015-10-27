@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mesopotamian Seals. Online resources for the study of Mesopotamian stamp and cylinder seals, often with incised legends naming the owner, his profession or educational standing, his patronymic and, looking up in the Mesopotamian hierarchy, his administrative affiliations, are difficult to come by, even though this small administrative tool has played a very substantial role in the development of writing, and in the smooth functioning of an advanced ancient society. Mespotamian Seals is offered to bring attention to the admittedly limited text annotation files of the CDLI as one of several avenues of research available in a sub-field more often treated by archaeologists and art historians than by philologists (CDLI\u2019s initial seals work is described here; cleansing of those file entries is being undertaken by Richard Firth). The CDLI catalogue currently contains entries documenting ca. 32,450 Mesopotamian artifacts related to seals and sealing: 31,300 represent clay tablets, tags or other sealings, most of whose seal impressions included owner legends, and currently just 1,150 are physical seals; 5,370 more CDLI entries represent composites derived from seal impressions, and therefore the negatives of original cylinder seals now lost. All CDLI seals. Physical seals. Composite seals. Sealings (on tags, bullae, etc. ). Best attested seals: Ayakalla, Umma ensi2 (Ur III, \u016046/ii/29 - \u0160S9/i). Lukalla, Umma \u2018scribe\u2019 (Ur III, \u016033/i - \u0160S9/iv). Lugal-ema\u1e2be, Umma \u2018scribe\u2019 (Ur III, \u016034/vi - \u0160S5). Ur-mes, Drehem \u2018fattener\u2019 (Ur III, AS9/xiii - \u0160S9/xii). Akalla, Umma \u2018scribe\u2019 (Ur III, \u016033 - \u0160S 3/iv). Seals and impressed tablets by period: Late Uruk (ca. 3500-3000 BC). Proto-Elamite (ca. 3100-2900 BC). ED I-II (ca. 2900-2700 BC). ED IIIa (ca. 2600-2500 BC). ED IIIb (ca. 2500-2340 BC). Ebla (ca. 2350-2250 BC). Old Akkadian (ca. 2500-2340 BC) Adab Nippur Umma Girsu Tell Brak Ur Isin Tutub Urkesh Kish Lagash II (ca. 2200-2100 BC). Ur III (ca. 2100-2000 BC) Adab Girsu Susa Drehem Irisagrig Umma Eshnunna Nippur Ur Garshana Early Old Babylonian (ca. 2000-1900 BC). Old Assyrian (ca. 1950-1850 BC). Old Babylonian (ca. 1900-1600 BC). Middle Babylonian (ca. 1400-1100 BC). Middle Assyrian (ca. 1400-1000 BC). Neo-Assyrian (ca. 911-612 BC). Neo-Babylonian (ca. 911-612 BC). Achaemenid (547-331 BC). Hellenistic (323-63 BC).", 
+    "description": "Mesopotamian Seals. Online resources for the study of Mesopotamian stamp and cylinder seals, often with incised legends naming the owner, his profession or educational standing, his patronymic and, looking up in the Mesopotamian hierarchy, his administrative affiliations, are difficult to come by, even though this small administrative tool has played a very substantial role in the development of writing, and in the smooth functioning of an advanced ancient society. Mespotamian Seals is offered to bring attention to the admittedly limited text annotation files of the CDLI as one of several avenues of research available in a sub-field more often treated by archaeologists and art historians than by philologists (CDLI’s initial seals work is described here; cleansing of those file entries is being undertaken by Richard Firth). The CDLI catalogue currently contains entries documenting ca. 32,450 Mesopotamian artifacts related to seals and sealing: 31,300 represent clay tablets, tags or other sealings, most of whose seal impressions included owner legends, and currently just 1,150 are physical seals; 5,370 more CDLI entries represent composites derived from seal impressions, and therefore the negatives of original cylinder seals now lost. All CDLI seals. Physical seals. Composite seals. Sealings (on tags, bullae, etc. ). Best attested seals: Ayakalla, Umma ensi2 (Ur III, Š46/ii/29 - ŠS9/i). Lukalla, Umma ‘scribe’ (Ur III, Š33/i - ŠS9/iv). Lugal-emaḫe, Umma ‘scribe’ (Ur III, Š34/vi - ŠS5). Ur-mes, Drehem ‘fattener’ (Ur III, AS9/xiii - ŠS9/xii). Akalla, Umma ‘scribe’ (Ur III, Š33 - ŠS 3/iv). Seals and impressed tablets by period: Late Uruk (ca. 3500-3000 BC). Proto-Elamite (ca. 3100-2900 BC). ED I-II (ca. 2900-2700 BC). ED IIIa (ca. 2600-2500 BC). ED IIIb (ca. 2500-2340 BC). Ebla (ca. 2350-2250 BC). Old Akkadian (ca. 2500-2340 BC) Adab Nippur Umma Girsu Tell Brak Ur Isin Tutub Urkesh Kish Lagash II (ca. 2200-2100 BC). Ur III (ca. 2100-2000 BC) Adab Girsu Susa Drehem Irisagrig Umma Eshnunna Nippur Ur Garshana Early Old Babylonian (ca. 2000-1900 BC). Old Assyrian (ca. 1950-1850 BC). Old Babylonian (ca. 1900-1600 BC). Middle Babylonian (ca. 1400-1100 BC). Middle Assyrian (ca. 1400-1000 BC). Neo-Assyrian (ca. 911-612 BC). Neo-Babylonian (ca. 911-612 BC). Achaemenid (547-331 BC). Hellenistic (323-63 BC).", 
     "domain": "cdli.ucla.edu", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8270568092611754191", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.315447"
+            "when": "2015-10-27T18:47:07.360171"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/mesopotamian-seals.html", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.315464"
+            "when": "2015-10-27T18:47:07.360188"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8270568092611754191", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:19.317331"
+            "when": "2015-10-27T18:47:07.362099"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/10/mesopotamian-seals.html", 
             "resource_date": "2014-10-22T14:24:55.503-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:19.317343"
+            "when": "2015-10-27T18:47:07.362112"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:19.417451"
+            "when": "2015-10-27T18:47:07.465244"
         }
     ], 
     "publishers": [], 
@@ -177,7 +177,7 @@
             "url": "http://cdli.ucla.edu/search/search_results.php?order=MuseumNumber&SealID=S002932"
         }, 
         {
-            "title_full": "Lugal-ema\u1e2be", 
+            "title_full": "Lugal-emaḫe", 
             "url": "http://cdli.ucla.edu/search/search_results.php?order=MuseumNumber&SealID=S003415"
         }, 
         {

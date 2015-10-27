@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Mitteilungen der Deutschen Orient-Gesellschaft. ISSN: 0342-118X. Die Mitteilungen der Deutschen Orient-Gesellschaft zu Berlin ist das offizielle Organ der Deutschen Orientgesellschaft (DOG). In ihr werden Berichte zu Ausgrabungen und deren Auswertung publiziert, die von der Gesellschaft durchgef\u00fchrt und gef\u00f6rdert werden. Die Beitr\u00e4ge behandeln neben den \u00fcberwiegenden arch\u00e4ologischen Berichten auch Beitr\u00e4ge zu philologischen, historischen, religi\u00f6sen und kulturellen Fragen des altorientalischen Raumes.", 
+    "description": "Mitteilungen der Deutschen Orient-Gesellschaft. ISSN: 0342-118X. Die Mitteilungen der Deutschen Orient-Gesellschaft zu Berlin ist das offizielle Organ der Deutschen Orientgesellschaft (DOG). In ihr werden Berichte zu Ausgrabungen und deren Auswertung publiziert, die von der Gesellschaft durchgeführt und gefördert werden. Die Beiträge behandeln neben den überwiegenden archäologischen Berichten auch Beiträge zu philologischen, historischen, religiösen und kulturellen Fragen des altorientalischen Raumes.", 
     "domain": "idb.ub.uni-tuebingen.de", 
     "editors": [], 
     "end_date": null, 
@@ -71,13 +71,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5386511953899574755", 
             "resource_date": "2014-03-24T09:42:14.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:54.701189"
+            "when": "2015-10-27T18:43:26.234426"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/newly-open-access-journal-mitteilungen.html", 
             "resource_date": "2014-03-24T09:42:14.302-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:54.701206"
+            "when": "2015-10-27T18:43:26.234442"
         }
     ], 
     "publishers": [], 

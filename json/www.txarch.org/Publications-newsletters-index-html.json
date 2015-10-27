@@ -72,13 +72,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5221782652887593363", 
             "resource_date": "2011-07-13T10:32:35.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.309507"
+            "when": "2015-10-27T18:43:18.222071"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-texas-archaeology.html", 
             "resource_date": "2011-07-13T10:32:35.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.309526"
+            "when": "2015-10-27T18:43:18.222092"
         }, 
         {
             "fields": [
@@ -119,13 +119,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5221782652887593363", 
             "resource_date": "2011-07-13T10:32:35.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:47.313374"
+            "when": "2015-10-27T18:43:18.227755"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/07/open-access-journal-texas-archaeology.html", 
             "resource_date": "2011-07-13T10:32:35.021-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:47.313390"
+            "when": "2015-10-27T18:43:18.227776"
         }, 
         {
             "fields": [
@@ -141,7 +141,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:47.314870"
+            "when": "2015-10-27T18:43:18.230655"
         }
     ], 
     "publishers": [], 

@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6043835989416393585", 
             "resource_date": "2014-11-08T11:38:19.034-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.493088"
+            "when": "2015-10-27T18:44:17.278063"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/animal-bones-and-archaeology-guidelines.html", 
             "resource_date": "2014-11-08T11:38:19.034-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.493125"
+            "when": "2015-10-27T18:44:17.278080"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6043835989416393585", 
             "resource_date": "2014-11-08T11:38:19.034-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:42.496644"
+            "when": "2015-10-27T18:44:17.279876"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/11/animal-bones-and-archaeology-guidelines.html", 
             "resource_date": "2014-11-08T11:38:19.034-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:42.496666"
+            "when": "2015-10-27T18:44:17.279889"
         }, 
         {
             "fields": [
@@ -132,7 +132,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:42.504773"
+            "when": "2015-10-27T18:44:17.285925"
         }
     ], 
     "publishers": [], 

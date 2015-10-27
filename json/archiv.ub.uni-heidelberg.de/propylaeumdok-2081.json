@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Knuf, Hermann and Leitz, C. and Recklinghausen von, D. (Hrsgg. ): Honi soit qui mal y pense. Studien zum pharonischen, griechisch-r\u00f6mischen und sp\u00e4tantiken \u00c4gypten zu Ehren von Heinz-Josef Thissen. Leuven 2010, pp. 99-110 (Orientalia Lovaniensia Analecta; 194). Quack, Joachim Friedrich (2002).", 
+    "description": "In: Knuf, Hermann and Leitz, C. and Recklinghausen von, D. (Hrsgg. ): Honi soit qui mal y pense. Studien zum pharonischen, griechisch-römischen und spätantiken Ägypten zu Ehren von Heinz-Josef Thissen. Leuven 2010, pp. 99-110 (Orientalia Lovaniensia Analecta; 194). Quack, Joachim Friedrich (2002).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -63,13 +63,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3218681327038979677", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:58.369901"
+            "when": "2015-10-27T18:40:10.002963"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:42:41.081-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:58.369917"
+            "when": "2015-10-27T18:40:10.002979"
         }
     ], 
     "publishers": [], 
@@ -78,7 +78,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Aus zwei sp\u00e4tzeitlichen Traumb\u00fcchern (Pap. Berlin P. 29009 und 23058)", 
+    "title": "Aus zwei spätzeitlichen Traumbüchern (Pap. Berlin P. 29009 und 23058)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

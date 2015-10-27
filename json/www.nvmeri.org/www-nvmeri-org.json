@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Nvmeri Innvmeri: Dr. Hendry\u2019s Ancient Numbers Page.", 
+    "description": "Nvmeri Innvmeri: Dr. Hendry’s Ancient Numbers Page.", 
     "domain": "www.nvmeri.org", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3183772434061240233", 
             "resource_date": "2012-06-29T18:09:24.185-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.444197"
+            "when": "2015-10-27T18:39:21.101060"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html", 
             "resource_date": "2012-06-29T18:09:24.185-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.444214"
+            "when": "2015-10-27T18:39:21.101077"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3183772434061240233", 
             "resource_date": "2012-06-29T18:09:24.185-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:08:11.446059"
+            "when": "2015-10-27T18:39:21.102780"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/06/nvmeri-innvmeri.html", 
             "resource_date": "2012-06-29T18:09:24.185-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:08:11.446073"
+            "when": "2015-10-27T18:39:21.102792"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:08:11.457747"
+            "when": "2015-10-27T18:39:21.122061"
         }
     ], 
     "publishers": [], 
@@ -143,7 +143,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Nvmeri Innvmeri: Dr. Hendry\u2019s Ancient Numbers Page", 
+            "title_full": "Nvmeri Innvmeri: Dr. Hendry’s Ancient Numbers Page", 
             "url": "http://www.nvmeri.org/"
         }, 
         {
@@ -151,11 +151,11 @@
             "url": "http://www.nvmeri.org/index.php"
         }, 
         {
-            "title_full": "History - What\u2019s Next", 
+            "title_full": "History - What’s Next", 
             "url": "http://www.nvmeri.org/history.php"
         }, 
         {
-            "title_full": "History - What\u2019s Next", 
+            "title_full": "History - What’s Next", 
             "url": "http://www.nvmeri.org/history.php#now"
         }, 
         {
@@ -163,25 +163,25 @@
             "url": "http://www.nvmeri.org/about_g.php"
         }, 
         {
-            "title_full": "Arabic \u2192 Roman", 
+            "title_full": "Arabic → Roman", 
             "url": "http://www.nvmeri.org/numeri1.php"
         }, 
         {
-            "title_full": "Roman \u2192 Arabic", 
+            "title_full": "Roman → Arabic", 
             "url": "http://www.nvmeri.org/numeri2.php"
         }, 
         {
-            "title_full": "Arabic \u2192 Greek", 
+            "title_full": "Arabic → Greek", 
             "url": "http://www.nvmeri.org/arithmoi1.php"
         }, 
         {
-            "title_full": "Roman \u2192 Arabic", 
+            "title_full": "Roman → Arabic", 
             "url": "http://www.nvmeri.org/certamen_ra1.php"
         }
     ], 
-    "title": "Nvmeri Innvmeri: Dr. Hendry\u2019s Ancient Numbers Page", 
+    "title": "Nvmeri Innvmeri: Dr. Hendry’s Ancient Numbers Page", 
     "title_alternates": [], 
-    "title_extended": "Nvmeri Innvmeri: Dr. Hendry\u2019s Ancient Numbers Page", 
+    "title_extended": "Nvmeri Innvmeri: Dr. Hendry’s Ancient Numbers Page", 
     "type": null, 
     "url": "http://www.nvmeri.org/", 
     "url_alternates": [], 

@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Harth, Dietrich and Schenk, G. (Hrsgg. ): Ritualdynamik. Kultur\u00fcbergreifende Studien zur Theorie und Geschichte rituellen Handelns. Heidelberg 2004, pp. 291-304. Chaniotis, Angelos (2003).", 
+    "description": "In: Harth, Dietrich and Schenk, G. (Hrsgg. ): Ritualdynamik. Kulturübergreifende Studien zur Theorie und Geschichte rituellen Handelns. Heidelberg 2004, pp. 291-304. Chaniotis, Angelos (2003).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7893899647622863049", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:57.758555"
+            "when": "2015-10-27T18:46:44.916686"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_50.html", 
             "resource_date": "2015-05-30T08:33:06.977-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:57.758572"
+            "when": "2015-10-27T18:46:44.916702"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8615054489452104159", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:33.636736"
+            "when": "2015-10-27T18:48:26.794430"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/05/propylaeum-dok-digital-repository_27.html", 
             "resource_date": "2015-05-27T11:45:35.738-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:33.636752"
+            "when": "2015-10-27T18:48:26.794448"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:43.415269"
+            "when": "2015-10-27T18:48:38.013228"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Das Bankett des Damas und der Hymnos des Sosandros: \u00d6ffentlicher Diskurs \u00fcber Rituale in den griechischen St\u00e4dten der Kaiserzeit", 
+    "title": "Das Bankett des Damas und der Hymnos des Sosandros: Öffentlicher Diskurs über Rituale in den griechischen Städten der Kaiserzeit", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

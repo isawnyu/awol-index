@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1865250406282947507", 
             "resource_date": "2014-08-12T10:57:55.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.471326"
+            "when": "2015-10-27T18:38:07.948170"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/sunoikisis-undergraduate-research.html", 
             "resource_date": "2014-08-12T10:57:55.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.471342"
+            "when": "2015-10-27T18:38:07.948187"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1865250406282947507", 
             "resource_date": "2014-08-12T10:57:55.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:02.472819"
+            "when": "2015-10-27T18:38:07.949744"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/04/sunoikisis-undergraduate-research.html", 
             "resource_date": "2014-08-12T10:57:55.256-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:02.472831"
+            "when": "2015-10-27T18:38:07.949756"
         }, 
         {
             "fields": [
@@ -131,7 +131,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:02.482342"
+            "when": "2015-10-27T18:38:07.959566"
         }
     ], 
     "publishers": [], 

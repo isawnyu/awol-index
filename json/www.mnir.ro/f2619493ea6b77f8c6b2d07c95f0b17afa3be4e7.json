@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Muzeul Na\u0163ional de Istorie a Rom\u00e2niei.", 
+    "description": "Muzeul Naţional de Istorie a României.", 
     "domain": "www.mnir.ro", 
     "editors": [], 
     "end_date": null, 
@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Muzeul Na\u0163ional de Istorie a Rom\u00e2niei", 
+        "title_full": "Muzeul Naţional de Istorie a României", 
         "url": "http://www.mnir.ro/ro/Default.aspx"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5546754334620334039", 
             "resource_date": "2010-07-29T11:58:47.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:04.928744"
+            "when": "2015-10-27T18:43:37.000541"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/07/open-access-publications-of-national.html", 
             "resource_date": "2010-07-29T11:58:47.937-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:04.928760"
+            "when": "2015-10-27T18:43:37.000554"
         }, 
         {
             "fields": [
@@ -108,13 +108,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-594967432813277624", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:37.717207"
+            "when": "2015-10-27T18:44:12.145805"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/digital-library-muzeul-national-de.html", 
             "resource_date": "2011-08-26T09:35:12.748-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:37.717218"
+            "when": "2015-10-27T18:44:12.145818"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:37.736911"
+            "when": "2015-10-27T18:44:12.167562"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Cri\u015fan Mu\u015fe\u0163eanu \u00een colaborare cu Dan Elefterescu , Ateliere ceramice romane de la Durostorum", 
+    "title": "Crişan Muşeţeanu în colaborare cu Dan Elefterescu , Ateliere ceramice romane de la Durostorum", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3705571148944644686", 
             "resource_date": "2010-05-19T16:03:47.777-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:40.372661"
+            "when": "2015-10-27T18:40:57.466351"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/ancient-music.html", 
             "resource_date": "2010-05-19T16:03:47.777-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:40.372676"
+            "when": "2015-10-27T18:40:57.466366"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3705571148944644686", 
             "resource_date": "2010-05-19T16:03:47.777-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:40.375339"
+            "when": "2015-10-27T18:40:57.468894"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/05/ancient-music.html", 
             "resource_date": "2010-05-19T16:03:47.777-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:40.375359"
+            "when": "2015-10-27T18:40:57.468909"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:40.382623"
+            "when": "2015-10-27T18:40:57.482231"
         }
     ], 
     "publishers": [], 

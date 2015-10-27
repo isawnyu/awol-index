@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-212743272687028279", 
             "resource_date": "2011-12-18T09:07:32.466-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:16.421851"
+            "when": "2015-10-27T18:38:23.954047"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/12/open-access-journal-forum-temes.html", 
             "resource_date": "2011-12-18T09:07:32.466-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:16.421867"
+            "when": "2015-10-27T18:38:23.954064"
         }
     ], 
     "publishers": [], 
@@ -77,59 +77,59 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "N\u00fam.: 13", 
+            "title_full": "Núm.: 13", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/10177"
         }, 
         {
-            "title_full": "N\u00fam.: 12", 
+            "title_full": "Núm.: 12", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/6503"
         }, 
         {
-            "title_full": "N\u00fam.: 11", 
+            "title_full": "Núm.: 11", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/6438"
         }, 
         {
-            "title_full": "N\u00fam.: 10", 
+            "title_full": "Núm.: 10", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5314"
         }, 
         {
-            "title_full": "N\u00fam.: 9", 
+            "title_full": "Núm.: 9", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5313"
         }, 
         {
-            "title_full": "N\u00fam.: 8", 
+            "title_full": "Núm.: 8", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5312"
         }, 
         {
-            "title_full": "N\u00fam.: 7", 
+            "title_full": "Núm.: 7", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5311"
         }, 
         {
-            "title_full": "N\u00fam.: 6", 
+            "title_full": "Núm.: 6", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5310"
         }, 
         {
-            "title_full": "N\u00fam.: 5", 
+            "title_full": "Núm.: 5", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5309"
         }, 
         {
-            "title_full": "N\u00fam.: 4", 
+            "title_full": "Núm.: 4", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5308"
         }, 
         {
-            "title_full": "N\u00fam.: 3", 
+            "title_full": "Núm.: 3", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5307"
         }, 
         {
-            "title_full": "N\u00fam.: 2", 
+            "title_full": "Núm.: 2", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5306"
         }, 
         {
-            "title_full": "N\u00fam.: 1", 
+            "title_full": "Núm.: 1", 
             "url": "http://www.raco.cat/index.php/Forum/issue/view/5303"
         }
     ], 
-    "title": "F\u00f2rum: temes d'hist\u00f2ria i d'arqueologia tarragonines", 
+    "title": "Fòrum: temes d'història i d'arqueologia tarragonines", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

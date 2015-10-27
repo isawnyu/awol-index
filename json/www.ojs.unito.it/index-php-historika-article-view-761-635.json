@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2883676128377439258", 
             "resource_date": "2014-12-19T09:50:53.916-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:52.521331"
+            "when": "2015-10-27T18:39:00.974631"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/new-open-access-journal-historika-studi.html", 
             "resource_date": "2014-12-19T09:50:53.916-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:52.521357"
+            "when": "2015-10-27T18:39:00.974642"
         }
     ], 
     "publishers": [], 
@@ -74,7 +74,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "PDF (Fran\u00e7ais)", 
+    "title": "PDF (Français)", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

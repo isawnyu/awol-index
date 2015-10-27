@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1979592566076937964", 
             "resource_date": "2013-05-09T06:34:32.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:07.599493"
+            "when": "2015-10-27T18:38:14.054611"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/05/new-open-access-journal-history-of.html", 
             "resource_date": "2013-05-09T06:34:32.784-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:07.599508"
+            "when": "2015-10-27T18:38:14.054645"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "The transmission of Greek astral science into India reconsidered - Critical remarks on the contents and the newly discovered manuscript of the Yavanaj\u0101taka", 
+            "title_full": "The transmission of Greek astral science into India reconsidered - Critical remarks on the contents and the newly discovered manuscript of the Yavanajātaka", 
             "url": "http://hssa.sayahna.org/ojs/index.php/hssa/article/view/1"
         }, 
         {

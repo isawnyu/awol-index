@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "\u0399. \u0394. \u039a\u03bf\u03bd\u03c4\u03b7\u03c2, \u0391\u03b9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u03b1\u03af \u03b4\u03b9\u03b1\u03bc\u03bf\u03c1\u03c6\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0391\u03c3\u03ba\u03bb\u03b7\u03c0\u03b9\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039a\u03c9.", 
+    "description": "Ι. Δ. Κοντης, Αι ελληνιστικαί διαμορφώσεις του Ασκληπιείου της Κω.", 
     "domain": "www.thiasos.eu", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1058209129414720994", 
             "resource_date": "2015-04-20T21:01:59.523-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:03.754475"
+            "when": "2015-10-27T18:37:04.330091"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/new-open-acces-journal-thiasos-journal.html", 
             "resource_date": "2015-04-20T21:01:59.523-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:03.754492"
+            "when": "2015-10-27T18:37:04.330102"
         }
     ], 
     "publishers": [], 

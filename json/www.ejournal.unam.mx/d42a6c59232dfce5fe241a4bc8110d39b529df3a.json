@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Estudios de Cultura N\u00e1huatl. ISSN 0071-1675.", 
+    "description": "Estudios de Cultura Náhuatl. ISSN 0071-1675.", 
     "domain": "www.ejournal.unam.mx", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2486502803903194826", 
             "resource_date": "2010-11-04T05:52:30.245-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:38.106816"
+            "when": "2015-10-27T18:38:46.165927"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/11/open-access-journal-estudios-de-cultura_03.html", 
             "resource_date": "2010-11-04T05:52:30.245-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:38.106834"
+            "when": "2015-10-27T18:38:46.165943"
         }
     ], 
     "publishers": [], 
@@ -121,7 +121,7 @@
             "url": "http://www.ejournal.unam.mx/contenido.html?r=9&v=029&n=029"
         }
     ], 
-    "title": "Estudios de Cultura N\u00e1huatl", 
+    "title": "Estudios de Cultura Náhuatl", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

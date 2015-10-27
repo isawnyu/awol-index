@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Archaeology in Syria Network. Social Media at the Service of the Cultural Heritage and Archaeology. \u0648\u0633\u0640\u0627\u0626\u0640\u0637 \u0627\u0644\u0640\u062a\u0640\u0648\u0627\u0635\u0640\u0644 \u0627\u0644\u0627\u062c\u0640\u062a\u0640\u0645\u0640\u0627\u0639\u0640\u064a \u0641\u0640\u064a \u062e\u0640\u062f\u0645\u0640\u0629 \u0627\u0644\u0640\u062a\u0640\u0631\u0627\u062b \u0627\u0644\u0640\u062b\u0640\u0642\u0640\u0627\u0641\u0640\u064a \u0648\u0639\u0640\u0644\u0640\u0645 \u0627\u0644\u0622\u062b\u0640\u0627\u0631. Les m\u00e9dias sociaux au service du patrimoine culturel et de l\u2019arch\u00e9ologie.", 
+    "description": "Archaeology in Syria Network. Social Media at the Service of the Cultural Heritage and Archaeology. وسـائـط الـتـواصـل الاجـتـمـاعـي فـي خـدمـة الـتـراث الـثـقـافـي وعـلـم الآثـار. Les médias sociaux au service du patrimoine culturel et de l’archéologie.", 
     "domain": "ainsyria.net", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2272988812483263612", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:29.085935"
+            "when": "2015-10-27T18:38:37.358205"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/06/archaeology-in-syria-network.html", 
             "resource_date": "2014-06-20T17:38:29.169-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:29.085948"
+            "when": "2015-10-27T18:38:37.358219"
         }
     ], 
     "publishers": [], 
@@ -80,7 +80,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u25cf Cultural Heritage in Stamps", 
+    "title": "● Cultural Heritage in Stamps", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

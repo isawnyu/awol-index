@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Arheologia Moldovei este revista anual\u0103 a Institutului de Arheologie din Ia\u0219i. Arheologia Moldovei are o regularitate ne\u00eentrerupt\u0103 de la apari\u021bia primului num\u0103r, \u00een 1961 \u0219i apare sub egida Academiei Rom\u00e2ne, prin intermediul Editurii Academiei. Materialele publicate au fost \u0219i sunt constant apreciate pentru probitatea \u0219tiin\u021bific\u0103 \u0219i calitatea academic\u0103. Studiile, articolele \u0219i notele sunt publicate \u00een limbile rom\u00e2n\u0103, englez\u0103, francez\u0103 sau german\u0103 \u0219i au fost \u00eenso\u021bite, \u00eenc\u0103 de la primul num\u0103r, de rezumate ample \u00een limbi de circula\u021bie interna\u021bional\u0103.", 
+    "description": "Arheologia Moldovei este revista anuală a Institutului de Arheologie din Iași. Arheologia Moldovei are o regularitate neîntreruptă de la apariția primului număr, în 1961 și apare sub egida Academiei Române, prin intermediul Editurii Academiei. Materialele publicate au fost și sunt constant apreciate pentru probitatea științifică și calitatea academică. Studiile, articolele și notele sunt publicate în limbile română, engleză, franceză sau germană și au fost însoțite, încă de la primul număr, de rezumate ample în limbi de circulație internațională.", 
     "domain": "arheo.ro", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-741804114060703953", 
             "resource_date": "2014-03-30T08:57:38.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:03.364698"
+            "when": "2015-10-27T18:45:46.917174"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/03/open-access-journal-arheologia-moldovei.html", 
             "resource_date": "2014-03-30T08:57:38.588-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:03.364714"
+            "when": "2015-10-27T18:45:46.917190"
         }
     ], 
     "publishers": [], 

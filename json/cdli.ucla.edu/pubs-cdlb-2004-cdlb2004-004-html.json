@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-3517250511287342288", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:29.291076"
+            "when": "2015-10-27T18:40:44.243293"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/08/open-access-journal-cuneiform-digital_08.html", 
             "resource_date": "2015-01-19T10:52:02.593-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:29.291094"
+            "when": "2015-10-27T18:40:44.243307"
         }, 
         {
             "fields": [
@@ -106,13 +106,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7965296273554809948", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:15:05.905710"
+            "when": "2015-10-27T18:46:53.154191"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2009/08/open-access-journals-cuneiform-digital.html", 
             "resource_date": "2009-08-31T17:30:01.406-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:15:05.905721"
+            "when": "2015-10-27T18:46:53.154203"
         }, 
         {
             "fields": [
@@ -126,7 +126,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:15:06.028204"
+            "when": "2015-10-27T18:46:53.316607"
         }
     ], 
     "publishers": [], 
@@ -135,7 +135,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "\u1e2aI-(\u0161e 3 ) la 2", 
+    "title": "ḪI-(še 3 ) la 2", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

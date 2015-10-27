@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": ": 119 kb). Prosopographische Datenbank der sp\u00e4tzeitlichen- und ptolem\u00e4ischen Totenbuch-Besitzer (.", 
+    "description": ": 119 kb). Prosopographische Datenbank der spätzeitlichen- und ptolemäischen Totenbuch-Besitzer (.", 
     "domain": "www.totenbuch-projekt.uni-bonn.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4282919221516824956", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:23.447370"
+            "when": "2015-10-27T18:41:48.594758"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/10/totenbuch-projekt-bonn-online.html", 
             "resource_date": "2012-10-24T06:31:03.943-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:23.447381"
+            "when": "2015-10-27T18:41:48.594771"
         }
     ], 
     "publishers": [], 

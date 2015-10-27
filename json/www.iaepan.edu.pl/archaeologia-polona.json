@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5309786378789426528", 
             "resource_date": "2010-02-04T10:12:34.127-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.017125"
+            "when": "2015-10-27T18:43:24.403739"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-archaeologia-polona.html", 
             "resource_date": "2010-02-04T10:12:34.127-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.017143"
+            "when": "2015-10-27T18:43:24.403756"
         }, 
         {
             "fields": [
@@ -112,13 +112,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5309786378789426528", 
             "resource_date": "2010-02-04T10:12:34.127-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:53.021580"
+            "when": "2015-10-27T18:43:24.408295"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-archaeologia-polona.html", 
             "resource_date": "2010-02-04T10:12:34.127-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:53.021594"
+            "when": "2015-10-27T18:43:24.408310"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:11:53.023108"
+            "when": "2015-10-27T18:43:24.410206"
         }
     ], 
     "publishers": [], 

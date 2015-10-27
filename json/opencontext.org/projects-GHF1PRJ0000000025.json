@@ -62,13 +62,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5416233235600164269", 
             "resource_date": "2010-06-11T06:44:35.113-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:11:56.901255"
+            "when": "2015-10-27T18:43:28.594912"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/06/new-data-at-open-context-khirbat-al.html", 
             "resource_date": "2010-06-11T06:44:35.113-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:11:56.901267"
+            "when": "2015-10-27T18:43:28.594923"
         }, 
         {
             "fields": [
@@ -109,13 +109,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-5915653073672508071", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:12:34.600381"
+            "when": "2015-10-27T18:44:08.849798"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/01/open-context-projects-and-collections.html", 
             "resource_date": "2014-08-11T07:50:07.397-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:12:34.600393"
+            "when": "2015-10-27T18:44:08.849809"
         }, 
         {
             "fields": [
@@ -127,7 +127,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:12:34.649268"
+            "when": "2015-10-27T18:44:08.910903"
         }, 
         {
             "fields": [
@@ -168,13 +168,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-8903049139474208425", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:16:57.789582"
+            "when": "2015-10-27T18:48:53.908235"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/08/new-data-at-open-context-chogha-mish.html", 
             "resource_date": "2010-08-30T16:06:25.550-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:16:57.789593"
+            "when": "2015-10-27T18:48:53.908245"
         }, 
         {
             "fields": [
@@ -186,7 +186,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:16:57.821930"
+            "when": "2015-10-27T18:48:53.945579"
         }
     ], 
     "publishers": [], 

@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "Interf\u00e9rences Ars scribendi", 
+        "title_full": "Interférences Ars scribendi", 
         "url": "http://ars-scribendi.ens-lyon.fr/"
     }, 
     "issuance": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-89482862073302655", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:17:05.578044"
+            "when": "2015-10-27T18:49:02.338121"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/02/open-access-journal-interferences.html", 
             "resource_date": "2013-04-17T09:08:06.381-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:17:05.578055"
+            "when": "2015-10-27T18:49:02.338134"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Ph\u00e9nom\u00e8nes de r\u00e9\u00e9criture dans l\u2019onomastique du genre bucolique", 
+    "title": "Phénomènes de réécriture dans l’onomastique du genre bucolique", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

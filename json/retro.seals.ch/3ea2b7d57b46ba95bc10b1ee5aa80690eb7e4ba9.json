@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Cahiers d'arch\u00e9ologie fribourgeoise = Freiburger Hefte f\u00fcr Arch\u00e4ologie. ISSN: 1423-8756. As successor to the Chroniques Arch\u00e9ologiques, edited between 1984 and 1997, the Cahiers d'Arch\u00e9ologie Fribourgeoise present the results of excavations that took place in the Canton of Fribourg as well as the various activities of the Archaeology Department of the State of Fribourg. Since 1999, this yearly publication contains a series of richly illustrated articles and thematic reports in French or in German.", 
+    "description": "Cahiers d'archéologie fribourgeoise = Freiburger Hefte für Archäologie. ISSN: 1423-8756. As successor to the Chroniques Archéologiques, edited between 1984 and 1997, the Cahiers d'Archéologie Fribourgeoise present the results of excavations that took place in the Canton of Fribourg as well as the various activities of the Archaeology Department of the State of Fribourg. Since 1999, this yearly publication contains a series of richly illustrated articles and thematic reports in French or in German.", 
     "domain": "retro.seals.ch", 
     "editors": [], 
     "end_date": null, 
@@ -16,7 +16,7 @@
         }
     }, 
     "is_part_of": {
-        "title_full": "Cahiers d'arch\u00e9ologie fribourgeoise = Freiburger Hefte f\u00fcr Arch\u00e4ologie", 
+        "title_full": "Cahiers d'archéologie fribourgeoise = Freiburger Hefte für Archäologie", 
         "url": "http://retro.seals.ch/digbib/vollist?UID=caf-002"
     }, 
     "issuance": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-1204257840125378564", 
             "resource_date": "2014-12-18T11:26:44.011-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:06:15.503788"
+            "when": "2015-10-27T18:37:17.040273"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2014/12/open-access-journal-cahiers.html", 
             "resource_date": "2014-12-18T11:26:44.011-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:06:15.503800"
+            "when": "2015-10-27T18:37:17.040286"
         }
     ], 
     "publishers": [], 

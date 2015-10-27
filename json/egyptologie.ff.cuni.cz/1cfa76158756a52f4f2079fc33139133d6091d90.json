@@ -66,13 +66,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4290594339243522452", 
             "resource_date": "2013-11-26T18:14:43.782-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.255399"
+            "when": "2015-10-27T18:41:49.504459"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/digital-library-electronic-publications.html", 
             "resource_date": "2013-11-26T18:14:43.782-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.255415"
+            "when": "2015-10-27T18:41:49.504476"
         }, 
         {
             "fields": [
@@ -113,13 +113,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4290594339243522452", 
             "resource_date": "2013-11-26T18:14:43.782-05:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:24.257169"
+            "when": "2015-10-27T18:41:49.506403"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/09/digital-library-electronic-publications.html", 
             "resource_date": "2013-11-26T18:14:43.782-05:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:24.257179"
+            "when": "2015-10-27T18:41:49.506415"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:10:24.294131"
+            "when": "2015-10-27T18:41:49.548396"
         }
     ], 
     "publishers": [], 
@@ -155,11 +155,11 @@
             "url": "http://egyptologie.ff.cuni.cz/pdf/ABUSIR%20III_mensi.pdf"
         }, 
         {
-            "title_full": "Ladisav Bare\u0161, The Shaft Tomb of Udjahorresnet", 
+            "title_full": "Ladisav Bareš, The Shaft Tomb of Udjahorresnet", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/ABUSIR%20IV_mensi.pdf"
         }, 
         {
-            "title_full": "Miroslav B\u00e1rta, The Cemeteries at Abusir South 1", 
+            "title_full": "Miroslav Bárta, The Cemeteries at Abusir South 1", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/ABUSIR%20V_mensi.pdf"
         }, 
         {
@@ -167,19 +167,19 @@
             "url": "http://egyptologie.ff.cuni.cz/pdf/ABUSIR%20VI.pdf"
         }, 
         {
-            "title_full": "Miroslav B\u00e1rta - Jarom\u00edr Krej\u010d\u00ed (eds.), Abusir & Saqqara in the Year 2000", 
+            "title_full": "Miroslav Bárta - Jaromír Krejčí (eds.), Abusir & Saqqara in the Year 2000", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/AS%202000_mensi.pdf"
         }, 
         {
-            "title_full": "Miroslav B\u00e1rta (text) - Kamil Vod\u011bra (photo), Memories of 4500 Years Ago", 
+            "title_full": "Miroslav Bárta (text) - Kamil Voděra (photo), Memories of 4500 Years Ago", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Memories_mensi.pdf"
         }, 
         {
-            "title_full": "Eugen Strouhal - Ladislav Bare\u0161, Secondary Cemetery in the Mastaba of Ptahshepses at Abusir", 
+            "title_full": "Eugen Strouhal - Ladislav Bareš, Secondary Cemetery in the Mastaba of Ptahshepses at Abusir", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Secondary%20Cemetery.pdf"
         }, 
         {
-            "title_full": "Miroslav Verner, CAA Tschechoslowakei Lieferung I: Alt\u00e4gyptische S\u00e4rge in den Museen und Sammlungen der Tschechoslowakei", 
+            "title_full": "Miroslav Verner, CAA Tschechoslowakei Lieferung I: Altägyptische Särge in den Museen und Sammlungen der Tschechoslowakei", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/CAA_Sarge.pdf"
         }, 
         {
@@ -191,7 +191,7 @@
             "url": "http://egyptologie.ff.cuni.cz/pdf/Verlorene%20Pyramiden,%20vergessene%20Pharaonen.pdf"
         }, 
         {
-            "title_full": "Miroslav Verner, Ztracen\u00e9 pyramidy, zapomenut\u00ed faraoni: Ab\u00fas\u00edr", 
+            "title_full": "Miroslav Verner, Ztracené pyramidy, zapomenutí faraoni: Abúsír", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Ztracene_pyramidy.pdf"
         }, 
         {
@@ -199,27 +199,27 @@
             "url": "http://egyptologie.ff.cuni.cz/pdf/Some%20Nubian%20Petroglyphs.pdf"
         }, 
         {
-            "title_full": "Miroslav Verner et al., Objevov\u00e1n\u00ed star\u00e9ho Egypta / Unearthing ancient Egypt 1958-1988", 
+            "title_full": "Miroslav Verner et al., Objevování starého Egypta / Unearthing ancient Egypt 1958-1988", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Unearthing_1958_1988.pdf"
         }, 
         {
-            "title_full": "Zbyn\u011bk \u017d\u00e1ba, Les maximes de Ptahhotep", 
+            "title_full": "Zbyněk Žába, Les maximes de Ptahhotep", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Maximes_Ptahhotep.pdf"
         }, 
         {
-            "title_full": "Zbyn\u011bk \u017d\u00e1ba, L\u2019orientation astronomique dans l\u2019anceinne \u00c9gypte, et la pr\u00e9cision de l\u2019axe du monde", 
+            "title_full": "Zbyněk Žába, L’orientation astronomique dans l’anceinne Égypte, et la précision de l’axe du monde", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Lorientation%20astronomique.pdf"
         }, 
         {
-            "title_full": "Zbyn\u011bk \u017d\u00e1ba, The Rock Inscriptions of Lower Nubia", 
+            "title_full": "Zbyněk Žába, The Rock Inscriptions of Lower Nubia", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Rock_Inscriptions.pdf"
         }, 
         {
-            "title_full": "kolektiv autor\u016f, Franti\u0161ek Lexa: Zakladatel \u010desk\u00e9 egyptologie", 
+            "title_full": "kolektiv autorů, František Lexa: Zakladatel české egyptologie", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Lexa.pdf"
         }, 
         {
-            "title_full": "kolektiv autor\u016f, Preliminary Report on Czechoslovak Excavations in the Mastaba of Ptahshepses at Abusir", 
+            "title_full": "kolektiv autorů, Preliminary Report on Czechoslovak Excavations in the Mastaba of Ptahshepses at Abusir", 
             "url": "http://egyptologie.ff.cuni.cz/pdf/Preliminary_Report.pdf"
         }
     ], 

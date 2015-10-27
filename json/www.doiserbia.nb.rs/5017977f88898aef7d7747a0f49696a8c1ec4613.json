@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Zbornik radova Vizantolo\u0161kog instituta. ISBN: 0584-9888. Founded in 1948, the Institute of Byzantine Studies is the only scientific centre in Serbia pursuing research in Byzantine studies. Until now, it has published 37 volumes of the periodical Zbornik radova Vizantolo\u0161kog instituta (ZRVI). The majority of published articles covering following topics: History of Byzantium and Byzantine-South-Slavic Relations, Byzantine Sources for the History of Yugoslav Peoples, Byzantine Literature and the Medieval Greek Language, Byzantine and post-Byzantine Art.", 
+    "description": "Zbornik radova Vizantološkog instituta. ISBN: 0584-9888. Founded in 1948, the Institute of Byzantine Studies is the only scientific centre in Serbia pursuing research in Byzantine studies. Until now, it has published 37 volumes of the periodical Zbornik radova Vizantološkog instituta (ZRVI). The majority of published articles covering following topics: History of Byzantium and Byzantine-South-Slavic Relations, Byzantine Sources for the History of Yugoslav Peoples, Byzantine Literature and the Medieval Greek Language, Byzantine and post-Byzantine Art.", 
     "domain": "www.doiserbia.nb.rs", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2749490861653332026", 
             "resource_date": "2010-09-20T11:14:00.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:47.812411"
+            "when": "2015-10-27T18:38:56.246595"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2010/09/zbornik-radova-vizantoloskog-instituta.html", 
             "resource_date": "2010-09-20T11:14:00.262-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:47.812428"
+            "when": "2015-10-27T18:38:56.246610"
         }
     ], 
     "publishers": [], 
@@ -82,7 +82,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Zbornik radova Vizantolo\u0161kog instituta", 
+    "title": "Zbornik radova Vizantološkog instituta", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

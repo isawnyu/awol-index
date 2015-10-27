@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Thots- Infoheft des Collegium Aegyptium e. V. : F\u00f6rderkreis des Instituts f\u00fcr \u00c4gyptologie der Uni M\u00fcnchen. Das M\u00fcnchner Institut f\u00fcr \u00c4gyptologie z\u00e4hlt zu den renommiertesten und traditionsreichsten Lehr- und Forschungseinrichtungen auf diesem Gebiet. Durch Ihre Mitgliedschaft im Collegium Aegyptium k\u00f6nnen Sie dazu beitragen, dass auch in Zukunft in M\u00fcnchen engagierte Wissenschaftler/innen an neuen Erkenntnissen zur Kultur und Geschichte Alt\u00e4gyptens arbeiten - sei es durch das Studium alt\u00e4gyptischer Texte und Denkm\u00e4ler oder anhand neuer Ausgrabungen in \u00c4gypten. Heft 1 (2008) Heft 2 (2009)Heft 3 (2009)Heft 4 (2010)Heft 5 (2012)Heft 6 (2011)Heft 7 (2011)Heft 8 (2012)Heft 9 (2013) Heft 10 (2014) See the full.", 
+    "description": "Thots- Infoheft des Collegium Aegyptium e. V. : Förderkreis des Instituts für Ägyptologie der Uni München. Das Münchner Institut für Ägyptologie zählt zu den renommiertesten und traditionsreichsten Lehr- und Forschungseinrichtungen auf diesem Gebiet. Durch Ihre Mitgliedschaft im Collegium Aegyptium können Sie dazu beitragen, dass auch in Zukunft in München engagierte Wissenschaftler/innen an neuen Erkenntnissen zur Kultur und Geschichte Altägyptens arbeiten - sei es durch das Studium altägyptischer Texte und Denkmäler oder anhand neuer Ausgrabungen in Ägypten. Heft 1 (2008) Heft 2 (2009)Heft 3 (2009)Heft 4 (2010)Heft 5 (2012)Heft 6 (2011)Heft 7 (2011)Heft 8 (2012)Heft 9 (2013) Heft 10 (2014) See the full.", 
     "domain": "collegium-aegyptium.de", 
     "editors": [], 
     "end_date": null, 
@@ -65,13 +65,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-4595807097789034088", 
             "resource_date": "2014-04-03T10:02:53.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:10:40.167399"
+            "when": "2015-10-27T18:42:06.769299"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/11/open-access-journal-thots-infoheft-des.html", 
             "resource_date": "2014-04-03T10:02:53.722-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:10:40.167416"
+            "when": "2015-10-27T18:42:06.769315"
         }
     ], 
     "publishers": [], 
@@ -93,7 +93,7 @@
             "url": "http://collegium-aegyptium.de/Thots_10.pdf"
         }
     ], 
-    "title": "Thots- Infoheft des Collegium Aegyptium e.V.: F\u00f6rderkreis des Instituts f\u00fcr \u00c4gyptologie der Uni M\u00fcnchen", 
+    "title": "Thots- Infoheft des Collegium Aegyptium e.V.: Förderkreis des Instituts für Ägyptologie der Uni München", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

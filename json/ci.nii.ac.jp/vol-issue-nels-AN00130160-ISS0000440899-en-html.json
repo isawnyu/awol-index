@@ -10,7 +10,7 @@
     "frequency": null, 
     "identifiers": {}, 
     "is_part_of": {
-        "title_full": "\u897f\u6d0b\u53e4\u5178\u5b78\u7814\u7a76 - Classical Society of Japan", 
+        "title_full": "西洋古典學研究 - Classical Society of Japan", 
         "url": "http://ci.nii.ac.jp/vol_issue/nels/AN00130160_en.html"
     }, 
     "issuance": null, 
@@ -59,13 +59,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-6772463811010891059", 
             "resource_date": "2014-05-10T19:07:34.741-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:13:32.039676"
+            "when": "2015-10-27T18:45:12.635044"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2011/05/open-access-journal-classical-society.html", 
             "resource_date": "2014-05-10T19:07:34.741-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:13:32.039689"
+            "when": "2015-10-27T18:45:12.635054"
         }
     ], 
     "publishers": [], 

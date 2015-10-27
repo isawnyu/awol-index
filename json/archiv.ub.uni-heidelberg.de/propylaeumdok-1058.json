@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "In: Durand, J. -M. and Charpin, D. (Hrsgg. ): Florilegium marianum II, M\u00e9morial M. Birot, M\u00e9moires de NABU no 3, SEPOA. Paris 1994, pp. 23-54. Maul, Stefan (2008).", 
+    "description": "In: Durand, J. -M. and Charpin, D. (Hrsgg. ): Florilegium marianum II, Mémorial M. Birot, Mémoires de NABU no 3, SEPOA. Paris 1994, pp. 23-54. Maul, Stefan (2008).", 
     "domain": "archiv.ub.uni-heidelberg.de", 
     "editors": [], 
     "end_date": null, 
@@ -61,13 +61,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-7671942202446492645", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:14:35.814240"
+            "when": "2015-10-27T18:46:21.559116"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2013/12/propylaeum-dok-digital-repository.html", 
             "resource_date": "2015-05-27T10:39:38.594-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:14:35.814257"
+            "when": "2015-10-27T18:46:21.559132"
         }
     ], 
     "publishers": [], 
@@ -76,7 +76,7 @@
     "responsibility": [], 
     "start_date": null, 
     "subordinate_resources": [], 
-    "title": "Die Korrespondenz des Ias\u012bm-S\u016bm\u00fb. Ein Nachtrag zu ARMT XIII 25-57", 
+    "title": "Die Korrespondenz des Iasīm-Sūmû. Ein Nachtrag zu ARMT XIII 25-57", 
     "title_alternates": [], 
     "title_extended": null, 
     "type": null, 

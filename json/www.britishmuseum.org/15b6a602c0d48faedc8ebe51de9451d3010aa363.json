@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "African rock art image project. Africa\u2019s rock art is as diverse as the continent itself. In 2013, the African rock art image project team began cataloguing around 25,000 digital photographs of rock art from across Africa - originally from the Trust for African Rock Art (TARA) - through generous support from the Arcadia Fund.", 
+    "description": "African rock art image project. Africa’s rock art is as diverse as the continent itself. In 2013, the African rock art image project team began cataloguing around 25,000 digital photographs of rock art from across Africa - originally from the Trust for African Rock Art (TARA) - through generous support from the Arcadia Fund.", 
     "domain": "www.britishmuseum.org", 
     "editors": [], 
     "end_date": null, 
@@ -67,13 +67,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-395503289809397902", 
             "resource_date": "2015-06-27T09:36:23.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.457301"
+            "when": "2015-10-27T18:41:14.187483"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/african-rock-art-image-project.html", 
             "resource_date": "2015-06-27T09:36:23.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.457317"
+            "when": "2015-10-27T18:41:14.187500"
         }, 
         {
             "fields": [
@@ -114,13 +114,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-395503289809397902", 
             "resource_date": "2015-06-27T09:36:23.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:09:52.459963"
+            "when": "2015-10-27T18:41:14.190253"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2015/06/african-rock-art-image-project.html", 
             "resource_date": "2015-06-27T09:36:23.860-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:09:52.459976"
+            "when": "2015-10-27T18:41:14.190268"
         }, 
         {
             "fields": [
@@ -134,7 +134,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:09:52.487045"
+            "when": "2015-10-27T18:41:14.221989"
         }
     ], 
     "publishers": [], 

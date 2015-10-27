@@ -1,7 +1,7 @@
 {
     "authors": [], 
     "contributors": [], 
-    "description": "Trabalhos de Arqueologia: S\u00e9rie de estudos arqueol\u00f3gicos, de \u00e2mbito monogr\u00e1fico ou tem\u00e1tico. These volumes are apparently no longer online in open access. If you find a new link, please pass it along in the comments.", 
+    "description": "Trabalhos de Arqueologia: Série de estudos arqueológicos, de âmbito monográfico ou temático. These volumes are apparently no longer online in open access. If you find a new link, please pass it along in the comments.", 
     "domain": "www.igespar.pt", 
     "editors": [], 
     "end_date": null, 
@@ -64,13 +64,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2311718814990796204", 
             "resource_date": "2015-06-16T17:02:09.692-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.012260"
+            "when": "2015-10-27T18:38:39.048488"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-series.html", 
             "resource_date": "2015-06-16T17:02:09.692-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.012277"
+            "when": "2015-10-27T18:38:39.048504"
         }, 
         {
             "fields": [
@@ -111,13 +111,13 @@
             "resource": "tag:blogger.com,1999:blog-116259103207720939.post-2311718814990796204", 
             "resource_date": "2015-06-16T17:02:09.692-04:00", 
             "term": "http://purl.org/spar/cito/citesAsDataSource", 
-            "when": "2015-07-11T20:07:31.016180"
+            "when": "2015-10-27T18:38:39.050869"
         }, 
         {
             "resource": "http://ancientworldonline.blogspot.com/2012/03/open-access-series.html", 
             "resource_date": "2015-06-16T17:02:09.692-04:00", 
             "term": "http://purl.org/spar/cito/citesAsMetadataDocument", 
-            "when": "2015-07-11T20:07:31.016208"
+            "when": "2015-10-27T18:38:39.050882"
         }, 
         {
             "fields": [
@@ -133,7 +133,7 @@
             ], 
             "resource": "http://purl.org/net/wf-motifs#Combine", 
             "term": "http://purl.org/net/wf-motifs#hasWorkflowMotif", 
-            "when": "2015-07-11T20:07:31.019709"
+            "when": "2015-10-27T18:38:39.052772"
         }
     ], 
     "publishers": [], 
@@ -143,13 +143,13 @@
     "start_date": null, 
     "subordinate_resources": [
         {
-            "title_full": "Trabalhos de Arqueologia: S\u00e9rie de estudos arqueol\u00f3gicos, de \u00e2mbito monogr\u00e1fico ou tem\u00e1tico", 
+            "title_full": "Trabalhos de Arqueologia: Série de estudos arqueológicos, de âmbito monográfico ou temático", 
             "url": "http://www.igespar.pt/en/publications/category/16/assets/"
         }
     ], 
-    "title": "Trabalhos de Arqueologia: S\u00e9rie de estudos arqueol\u00f3gicos, de \u00e2mbito monogr\u00e1fico ou tem\u00e1tico", 
+    "title": "Trabalhos de Arqueologia: Série de estudos arqueológicos, de âmbito monográfico ou temático", 
     "title_alternates": [], 
-    "title_extended": "Trabalhos de Arqueologia: S\u00e9rie de estudos arqueol\u00f3gicos, de \u00e2mbito monogr\u00e1fico ou tem\u00e1tico", 
+    "title_extended": "Trabalhos de Arqueologia: Série de estudos arqueológicos, de âmbito monográfico ou temático", 
     "type": null, 
     "url": "http://www.igespar.pt/en/publications/category/16/assets/", 
     "url_alternates": [], 
